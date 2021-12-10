@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "阅读的建议.md",
+            "file": "记笔记.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读的建议.md",
+                "file": "记笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "5bfe727fe7aae182",
   "lastOpenFiles": [
+    "记笔记.md",
     "阅读的建议.md",
     "@Map.md",
     "选择好书.md",
