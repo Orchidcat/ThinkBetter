@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记笔记.md",
+                "file": "@Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +104,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5bfe727fe7aae182",
+  "active": "f15f4ebd5f7b7032",
   "lastOpenFiles": [
-    "记笔记.md",
-    "阅读的建议.md",
     "@Map.md",
+    "阅读的建议.md",
+    "记笔记.md",
     "选择好书.md",
     "阅读水平.md"
   ]
