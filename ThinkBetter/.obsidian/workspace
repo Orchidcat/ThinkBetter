@@ -12,17 +12,6 @@
             "file": "@Map.md"
           }
         }
-      },
-      {
-        "id": "5bfe727fe7aae182",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "记笔记.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
