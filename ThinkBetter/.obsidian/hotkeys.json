@@ -7,5 +7,14 @@
       ],
       "key": "E"
     }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }
