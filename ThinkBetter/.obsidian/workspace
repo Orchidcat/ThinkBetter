@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-13.md",
+            "file": "书的一种分类（理论或实用）.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-13.md",
+                "file": "书的一种分类（理论或实用）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "f15f4ebd5f7b7032",
   "lastOpenFiles": [
+    "书的一种分类（理论或实用）.md",
     "2021-12-13.md",
     "@Map.md",
     "阅读的建议.md",
