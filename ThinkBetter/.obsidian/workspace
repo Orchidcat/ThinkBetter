@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "如何透视一本书.md",
+            "file": "记笔记.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何透视一本书.md",
+                "file": "记笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +105,10 @@
   },
   "active": "26d260030dd89b16",
   "lastOpenFiles": [
-    "如何透视一本书.md",
-    "@Map.md",
-    "书的一种分类（理论或实用）.md",
     "记笔记.md",
+    "@Map.md",
+    "如何透视一本书.md",
+    "书的一种分类（理论或实用）.md",
     "2021-12-13.md",
     "阅读的建议.md",
     "阅读的基本规则.md",
