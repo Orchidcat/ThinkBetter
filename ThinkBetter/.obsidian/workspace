@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "主动阅读.md",
+            "file": "阅读的基本规则.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主动阅读.md",
+                "file": "阅读的基本规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +96,11 @@
   },
   "active": "f15f4ebd5f7b7032",
   "lastOpenFiles": [
-    "主动阅读.md",
+    "阅读的基本规则.md",
+    "@Map.md",
     "阅读水平.md",
     "阅读的建议.md",
     "选择好书.md",
-    "记笔记.md",
-    "@Map.md"
+    "记笔记.md"
   ]
 }

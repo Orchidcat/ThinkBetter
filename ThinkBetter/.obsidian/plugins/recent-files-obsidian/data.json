@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "主动阅读",
-      "path": "主动阅读.md"
+      "basename": "阅读的基本规则",
+      "path": "阅读的基本规则.md"
+    },
+    {
+      "basename": "@Map",
+      "path": "@Map.md"
     },
     {
       "basename": "阅读水平",
@@ -19,10 +23,6 @@
     {
       "basename": "记笔记",
       "path": "记笔记.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Map.md"
     },
     {
       "basename": "@Map",
