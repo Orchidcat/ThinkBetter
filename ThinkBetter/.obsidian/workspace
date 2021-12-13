@@ -7,10 +7,9 @@
         "id": "f15f4ebd5f7b7032",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "阅读的基本规则.md",
-            "mode": "source"
+            "file": "@Map.md"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读的基本规则.md",
+                "file": "@Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,12 +95,12 @@
   },
   "active": "f15f4ebd5f7b7032",
   "lastOpenFiles": [
-    "阅读的基本规则.md",
     "@Map.md",
-    "笔记方法.md",
-    "阅读水平.md",
     "阅读的建议.md",
+    "阅读的基本规则.md",
     "选择好书.md",
-    "记笔记.md"
+    "记笔记.md",
+    "笔记方法.md",
+    "阅读水平.md"
   ]
 }

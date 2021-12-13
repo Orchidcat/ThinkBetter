@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "阅读的基本规则",
-      "path": "阅读的基本规则.md"
-    },
-    {
       "basename": "@Map",
       "path": "@Map.md"
     },
     {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
-    },
-    {
-      "basename": "阅读水平",
-      "path": "阅读水平.md"
-    },
-    {
       "basename": "阅读的建议",
       "path": "阅读的建议.md"
+    },
+    {
+      "basename": "阅读的基本规则",
+      "path": "阅读的基本规则.md"
     },
     {
       "basename": "选择好书",
@@ -27,6 +19,14 @@
     {
       "basename": "记笔记",
       "path": "记笔记.md"
+    },
+    {
+      "basename": "笔记方法",
+      "path": "笔记方法.md"
+    },
+    {
+      "basename": "阅读水平",
+      "path": "阅读水平.md"
     },
     {
       "basename": "@Map",
