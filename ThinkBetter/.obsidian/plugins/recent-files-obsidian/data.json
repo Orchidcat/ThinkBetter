@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "@Map",
-      "path": "@Map.md"
-    },
-    {
       "basename": "记笔记",
       "path": "记笔记.md"
     },
     {
       "basename": "书的一种分类（理论或实用）",
       "path": "书的一种分类（理论或实用）.md"
+    },
+    {
+      "basename": "好的作品",
+      "path": "好的作品.md"
+    },
+    {
+      "basename": "@Map",
+      "path": "@Map.md"
     },
     {
       "basename": "如何透视一本书",
