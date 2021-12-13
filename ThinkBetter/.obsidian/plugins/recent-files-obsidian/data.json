@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "@Map",
-      "path": "@Map.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
-    },
-    {
       "basename": "记笔记",
       "path": "记笔记.md"
     },
@@ -17,8 +9,16 @@
       "path": "选择好书.md"
     },
     {
+      "basename": "阅读的建议",
+      "path": "阅读的建议.md"
+    },
+    {
       "basename": "阅读水平",
       "path": "阅读水平.md"
+    },
+    {
+      "basename": "@Map",
+      "path": "@Map.md"
     },
     {
       "basename": "@Map",
