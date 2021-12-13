@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "书的一种分类（理论或实用）.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -87,8 +86,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5dc96816b50898db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
