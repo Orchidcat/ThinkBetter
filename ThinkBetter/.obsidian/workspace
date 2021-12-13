@@ -7,9 +7,10 @@
         "id": "f15f4ebd5f7b7032",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "@Map.md"
+            "file": "2021-12-13.md",
+            "mode": "source"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Map.md",
+                "file": "2021-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +96,7 @@
   },
   "active": "f15f4ebd5f7b7032",
   "lastOpenFiles": [
+    "2021-12-13.md",
     "@Map.md",
     "阅读的建议.md",
     "阅读的基本规则.md",
