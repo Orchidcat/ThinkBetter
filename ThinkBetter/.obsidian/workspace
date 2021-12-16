@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "记笔记.md",
+            "file": "未命名.md",
             "mode": "source"
           }
         }
@@ -56,12 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记笔记.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "26d260030dd89b16",
   "lastOpenFiles": [
+    "未命名.md",
     "记笔记.md",
     "书的一种分类（理论或实用）.md",
     "好的作品.md",
@@ -114,7 +115,6 @@
     "阅读的基本规则.md",
     "选择好书.md",
     "2021-12-13.md",
-    "阅读的建议.md",
-    "笔记方法.md"
+    "阅读的建议.md"
   ]
 }
