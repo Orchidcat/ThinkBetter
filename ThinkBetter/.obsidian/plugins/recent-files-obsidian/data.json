@@ -5,6 +5,14 @@
       "path": "@Map.md"
     },
     {
+      "basename": "阅读的建议",
+      "path": "阅读的建议.md"
+    },
+    {
+      "basename": "阅读的基本规则",
+      "path": "阅读的基本规则.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -25,20 +33,12 @@
       "path": "如何透视一本书.md"
     },
     {
-      "basename": "阅读的基本规则",
-      "path": "阅读的基本规则.md"
-    },
-    {
       "basename": "选择好书",
       "path": "选择好书.md"
     },
     {
       "basename": "2021-12-13",
       "path": "2021-12-13.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
     },
     {
       "basename": "笔记方法",
