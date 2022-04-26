@@ -1,52 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-04-26",
+      "path": "2022-04-26.md"
+    },
+    {
       "basename": "@Map",
       "path": "@Map.md"
     },
     {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
+      "basename": "常规性能配置",
+      "path": "配置操作/常规性能配置.md"
     },
     {
-      "basename": "阅读的基本规则",
-      "path": "阅读的基本规则.md"
+      "basename": "SQL Server 2016 SP2 诊断",
+      "path": "What Happened/SQL Server 2016 SP2 诊断.md"
+    },
+    {
+      "basename": "SQL Server 2008 R2 诊断",
+      "path": "What Happened/SQL Server 2008 R2 诊断.md"
+    },
+    {
+      "basename": "高可用",
+      "path": "What Happened/高可用.md"
+    },
+    {
+      "basename": "硬件",
+      "path": "硬件/硬件.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "硬件/未命名.md"
+    },
+    {
+      "basename": "000写作模板",
+      "path": "templates/000写作模板.md"
     },
     {
       "basename": "未命名",
       "path": "未命名.md"
     },
     {
-      "basename": "记笔记",
-      "path": "记笔记.md"
+      "basename": "未命名",
+      "path": "templates/未命名.md"
     },
     {
-      "basename": "书的一种分类（理论或实用）",
-      "path": "书的一种分类（理论或实用）.md"
-    },
-    {
-      "basename": "好的作品",
-      "path": "好的作品.md"
-    },
-    {
-      "basename": "如何透视一本书",
-      "path": "如何透视一本书.md"
-    },
-    {
-      "basename": "选择好书",
-      "path": "选择好书.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "2021-12-13.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
-    },
-    {
-      "basename": "阅读水平",
-      "path": "阅读水平.md"
+      "basename": "001日记模板",
+      "path": "templates/001日记模板.md"
     },
     {
       "basename": "@Map",
@@ -57,28 +57,16 @@
       "path": "@Main/第一步.md"
     },
     {
-      "basename": "硬件",
-      "path": "What Happened/硬件.md"
+      "basename": "Top DBA DMVs",
+      "path": "Top DBA DMVs.md"
     },
     {
       "basename": "TempDB",
       "path": "TempDB.md"
     },
     {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "What Happened/高可用.md"
-    },
-    {
       "basename": "DBCC",
       "path": "DBCC.md"
-    },
-    {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
     },
     {
       "basename": "SQL Server 2019 诊断",
