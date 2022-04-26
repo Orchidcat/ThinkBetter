@@ -5,10 +5,12 @@
   "obsidian-kanban",
   "nldates-obsidian",
   "obsidian-git",
-  "obsidian-outliner",
   "url-into-selection",
   "recent-files-obsidian",
   "workbench-obsidian",
   "obsidian-mind-map",
-  "calendar"
+  "calendar",
+  "better-word-count",
+  "sliding-panes-obsidian",
+  "obsidian-outliner"
 ]
