@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "笔记方法.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记方法.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记方法.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "348b9fc08905ee00",
   "lastOpenFiles": [
+    "+Home.md",
+    "目标 MOC.md",
+    "Kanban MOC.md",
     "笔记方法.md",
-    "@Map.md",
     "Templates/日记.md",
     "Templates/读书笔记.md",
     "2022-04-27.md",
     "2022-04-26.md",
     "tody.md",
-    "书的一种分类（理论或实用）.md",
-    "如何透视一本书.md",
-    "未命名 1.md"
+    "书的一种分类（理论或实用）.md"
   ]
 }
