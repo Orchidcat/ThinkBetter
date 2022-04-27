@@ -13,6 +13,14 @@
       "path": "读书清单 MOC.md"
     },
     {
+      "basename": "笔记方法",
+      "path": "笔记方法.md"
+    },
+    {
+      "basename": "阅读是一座随身携带的避难所",
+      "path": "阅读是一座随身携带的避难所.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -41,16 +49,8 @@
       "path": "目标 MOC.md"
     },
     {
-      "basename": "2022读书清单",
-      "path": "2022读书清单.md"
-    },
-    {
       "basename": "Kanban MOC",
       "path": "Kanban MOC.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
     },
     {
       "basename": "2022-04-27",

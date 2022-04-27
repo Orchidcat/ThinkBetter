@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5263f729c5ae5d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "阅读的建议.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "154bf02dc51b3845",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "+Home.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f7e49d90b11e44c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/读书笔记.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "d80d2fc537836a6e",
         "type": "leaf",
         "state": {
@@ -92,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "tag:#Reading/完成",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,17 +155,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7e49d90b11e44c6",
+  "active": "d80d2fc537836a6e",
   "lastOpenFiles": [
     "Templates/读书笔记.md",
     "Templates/日记.md",
     "读书清单 MOC.md",
+    "2022读书清单.md",
+    "笔记方法.md",
+    "阅读是一座随身携带的避难所.md",
     "+Home.md",
     "阅读的建议.md",
     "阅读的基本规则.md",
-    "选择好书.md",
-    "未命名 1.md",
-    "未命名.md",
-    "如何透视一本书.md"
+    "选择好书.md"
   ]
 }
