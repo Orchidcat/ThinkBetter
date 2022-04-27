@@ -5,20 +5,24 @@
       "path": "读书清单 MOC.md"
     },
     {
+      "basename": "刀锋",
+      "path": "刀锋.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
       "basename": "阅读是一座随身携带的避难所",
       "path": "阅读是一座随身携带的避难所.md"
     },
     {
-      "basename": "读书笔记",
-      "path": "Templates/读书笔记.md"
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
     },
     {
       "basename": "笔记方法",
       "path": "笔记方法.md"
-    },
-    {
-      "basename": "日记",
-      "path": "Templates/日记.md"
     },
     {
       "basename": "+Home",

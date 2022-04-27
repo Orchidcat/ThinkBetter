@@ -2,12 +2,13 @@
 
 
 ## Reading
-
 ```dataview
-table rating as "评价",endDate as "阅读完成日"
+table dateformat(startDate, "yyyy-MM-dd") as "开始日"
 from #Book/Reading
-sort rating DESC
+sort startDate ASC
 ```
+
+
 
 
 
@@ -17,8 +18,9 @@ sort rating DESC
 ```dataview
 table rating as "评价",
 dateformat(file.cday, "yyyy-MM-dd") as "创建日期",
-(<dateformat(file.cday, "yyyy-MM-dd")>) as "阅读完成日",
+dateformat(endDate, "yyyy-MM-dd") as "阅读完成日"
 from #Book 
+where dateformat(file.cday,"yyyy")="2022"
 sort rating DESC
 ```
 

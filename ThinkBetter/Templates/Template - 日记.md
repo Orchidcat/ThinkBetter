@@ -1,5 +1,5 @@
 ---
-Tags: 日记
+Tags: 
 ---
 # 每日笔记 - {{title}}
 日期 : {{date:YYYY-MM-DD}} {{time:HH:mm}}
