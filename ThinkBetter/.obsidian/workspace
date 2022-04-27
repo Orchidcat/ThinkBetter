@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d80d2fc537836a6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "阅读是一座随身携带的避难所.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "05ed5db2c2e3b387",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "阅读是一座随身携带的避难所.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "7a9f47f4cce10e94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "阅读是一座随身携带的避难所.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "33f29a4831747111",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "读书清单 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -133,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读是一座随身携带的避难所.md"
+                "file": "读书清单 MOC.md"
               }
             }
           }
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读是一座随身携带的避难所.md",
+                "file": "读书清单 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +167,10 @@
     "direction": "horizontal",
     "width": 314.5
   },
-  "active": "05ed5db2c2e3b387",
+  "active": "33f29a4831747111",
   "lastOpenFiles": [
-    "阅读是一座随身携带的避难所.md",
     "读书清单 MOC.md",
+    "阅读是一座随身携带的避难所.md",
     "Templates/读书笔记.md",
     "笔记方法.md",
     "Templates/日记.md",
