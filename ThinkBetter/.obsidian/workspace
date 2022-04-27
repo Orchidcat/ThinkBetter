@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/日记.md",
+            "file": "Templates/读书笔记.md",
             "mode": "source",
             "source": false
           }
@@ -56,6 +56,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "033a134536084cd4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/日记.md",
+                "file": "Templates/读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +122,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ebed1a78815bdf47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/读书笔记.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -124,8 +142,8 @@
   },
   "active": "348b9fc08905ee00",
   "lastOpenFiles": [
-    "Templates/日记.md",
     "Templates/读书笔记.md",
+    "Templates/日记.md",
     "2022-04-27.md",
     "2022-04-26.md",
     "tody.md",
