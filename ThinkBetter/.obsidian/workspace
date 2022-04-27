@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "心智模型 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "心智模型 MOC.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "心智模型 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "d4cbf306222e84ce",
   "lastOpenFiles": [
-    "读书 MOC.md",
+    "心智模型 MOC.md",
     "+Home.md",
+    "目标 MOC.md",
+    "NotToDo.md",
+    "读书 MOC.md",
     "记笔记.md",
     "好的作品.md",
     "刀锋.md",
     "笔记方法.md",
-    "目标 MOC.md",
-    "NotToDo.md",
-    "阅读水平.md",
-    "如何透视一本书.md"
+    "阅读水平.md"
   ]
 }
