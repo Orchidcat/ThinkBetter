@@ -14,6 +14,30 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "05ed5db2c2e3b387",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "阅读是一座随身携带的避难所.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7a9f47f4cce10e94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "阅读是一座随身携带的避难所.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -155,7 +179,7 @@
     "direction": "horizontal",
     "width": 314.5
   },
-  "active": "d80d2fc537836a6e",
+  "active": "05ed5db2c2e3b387",
   "lastOpenFiles": [
     "阅读是一座随身携带的避难所.md",
     "读书清单 MOC.md",
