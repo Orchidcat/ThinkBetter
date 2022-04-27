@@ -5,6 +5,10 @@
       "path": "读书清单 MOC.md"
     },
     {
+      "basename": "读书笔记",
+      "path": "Templates/读书笔记.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "日记",
       "path": "Templates/日记.md"
-    },
-    {
-      "basename": "读书笔记",
-      "path": "Templates/读书笔记.md"
     },
     {
       "basename": "2022-04-27",
