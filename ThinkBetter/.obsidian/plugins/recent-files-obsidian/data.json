@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "DailyNote",
-      "path": "Templates/DailyNote.md"
+      "basename": "日记",
+      "path": "Templates/日记.md"
     },
     {
-      "basename": "tody",
-      "path": "tody.md"
+      "basename": "读书笔记",
+      "path": "Templates/读书笔记.md"
+    },
+    {
+      "basename": "2022-04-27",
+      "path": "2022-04-27.md"
+    },
+    {
+      "basename": "2022-04-26",
+      "path": "2022-04-26.md"
     },
     {
       "basename": "书的一种分类（理论或实用）",
@@ -23,10 +31,6 @@
     {
       "basename": "好的作品",
       "path": "好的作品.md"
-    },
-    {
-      "basename": "2022-04-26",
-      "path": "2022-04-26.md"
     },
     {
       "basename": "2021-12-13",

@@ -3,5 +3,9 @@
   "legacyEditor": false,
   "foldHeading": true,
   "foldIndent": true,
-  "attachmentFolderPath": "Sources"
+  "attachmentFolderPath": "Sources",
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
 }
