@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "笔记方法",
+      "path": "笔记方法.md"
+    },
+    {
+      "basename": "@Map",
+      "path": "@Map.md"
+    },
+    {
       "basename": "日记",
       "path": "Templates/日记.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "2021-12-13",
       "path": "2021-12-13.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Map.md"
     },
     {
       "basename": "常规性能配置",
