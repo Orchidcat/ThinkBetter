@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "目标 MOC",
+      "path": "目标 MOC.md"
+    },
+    {
       "basename": "NotToDo",
       "path": "NotToDo.md"
+    },
+    {
+      "basename": "阅读水平",
+      "path": "阅读水平.md"
+    },
+    {
+      "basename": "如何透视一本书",
+      "path": "如何透视一本书.md"
     },
     {
       "basename": "Template - 日记",
       "path": "Templates/Template - 日记.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "目标 MOC.md"
     },
     {
       "basename": "阅读的建议",
@@ -55,10 +63,6 @@
     {
       "basename": "选择好书",
       "path": "选择好书.md"
-    },
-    {
-      "basename": "如何透视一本书",
-      "path": "如何透视一本书.md"
     },
     {
       "basename": "书的一种分类（理论或实用）",
