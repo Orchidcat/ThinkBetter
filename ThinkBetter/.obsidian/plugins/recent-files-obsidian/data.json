@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "DailyNote",
-      "path": "DailyNote.md"
+      "path": "Templates/DailyNote.md"
+    },
+    {
+      "basename": "tody",
+      "path": "tody.md"
     },
     {
       "basename": "书的一种分类（理论或实用）",
