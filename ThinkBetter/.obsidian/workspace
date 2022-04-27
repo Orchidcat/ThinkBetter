@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "348b9fc08905ee00",
+        "id": "ab5263f729c5ae5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "阅读的建议.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "154bf02dc51b3845",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "+Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f7e49d90b11e44c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "读书清单 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "读书清单 MOC.md"
               }
             }
           }
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "读书清单 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +177,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "348b9fc08905ee00",
+  "active": "f7e49d90b11e44c6",
   "lastOpenFiles": [
+    "读书清单 MOC.md",
     "+Home.md",
-    "目标 MOC.md",
-    "Kanban MOC.md",
-    "笔记方法.md",
-    "Templates/日记.md",
-    "Templates/读书笔记.md",
-    "2022-04-27.md",
-    "2022-04-26.md",
-    "tody.md",
-    "书的一种分类（理论或实用）.md"
+    "阅读的建议.md",
+    "阅读的基本规则.md",
+    "选择好书.md",
+    "未命名 1.md",
+    "未命名.md",
+    "如何透视一本书.md",
+    "书的一种分类（理论或实用）.md",
+    "目标 MOC.md"
   ]
 }
