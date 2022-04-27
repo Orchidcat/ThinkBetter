@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/读书笔记.md",
+            "file": "Templates/日记.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/读书笔记.md",
+                "file": "Templates/日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/读书笔记.md"
+                "file": "Templates/日记.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "348b9fc08905ee00",
   "lastOpenFiles": [
-    "Templates/读书笔记.md",
     "Templates/日记.md",
+    "Templates/读书笔记.md",
     "2022-04-27.md",
     "2022-04-26.md",
     "tody.md",
