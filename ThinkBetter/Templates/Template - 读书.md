@@ -4,7 +4,7 @@ tags:
 type:
 startDate: 
 endDate:
-rating: ⭐
+rating: 
 ---
 
 ## 书名：{{title}}📖

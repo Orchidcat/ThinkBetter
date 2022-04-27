@@ -5,6 +5,7 @@ alias: ["000", "Home"]
 # Home 
 ## 主要思路
 - 个人😋
+	- [[NotToDo]]
 	- [[目标 MOC]]
 	- [[健康 MOC]]
 	- [[项目 MOC]]

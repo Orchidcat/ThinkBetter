@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9f47f4cce10e94",
+        "id": "835db8ccc4cb59b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template - 读书.md",
+            "file": "NotToDo.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "835db8ccc4cb59b9",
+        "id": "e0a0284161228941",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书清单 MOC.md",
+            "file": "Templates/Template - 日记.md",
             "mode": "source",
             "source": false
           }
@@ -37,7 +37,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 34.84320557491289,
+        "dimension": 44.48198198198198,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -52,7 +52,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 65.1567944250871,
+        "dimension": 55.518018018018026,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Reading/完成",
+                "query": "tag:#NotTodo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书清单 MOC.md"
+                "file": "NotToDo.md"
               }
             }
           }
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书清单 MOC.md",
+                "file": "NotToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,19 +165,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 153.5
+    "width": 425
   },
   "active": "835db8ccc4cb59b9",
   "lastOpenFiles": [
-    "读书清单 MOC.md",
-    "+Home.md",
-    "目标 MOC.md",
-    "Templates/Template - 读书.md",
-    "刀锋.md",
-    "阅读是一座随身携带的避难所.md",
+    "NotToDo.md",
     "Templates/Template - 日记.md",
-    "笔记方法.md",
-    "2022读书清单.md",
-    "阅读的建议.md"
+    "+Home.md",
+    "Templates/Template - 读书.md",
+    "目标 MOC.md",
+    "阅读的建议.md",
+    "2022-04-27.md",
+    "2022-04-26.md",
+    "读书清单 MOC.md",
+    "刀锋.md"
   ]
 }
