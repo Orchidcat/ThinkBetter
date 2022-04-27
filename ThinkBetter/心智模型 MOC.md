@@ -1,7 +1,13 @@
 ---
-tags: ['MOC']
+tags: ['MOC','心智模型','决策']
 ---
 
-[[100种心智模型]]
+[[+Home]]
 
-[fs.blog/mental-models/](https://fs.blog/mental-models/)
+心智模型有助于做出更加明智的决策，以下列出了日常学习的各种心智模型（大约有100个）😎
+
+
+
+
+
+
