@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书清单 MOC.md",
+            "file": "Templates/读书笔记.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书清单 MOC.md"
+                "file": "Templates/读书笔记.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书清单 MOC.md",
+                "file": "Templates/读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158
+    "width": 314.5
   },
   "active": "d80d2fc537836a6e",
   "lastOpenFiles": [
-    "读书清单 MOC.md",
     "Templates/读书笔记.md",
+    "读书清单 MOC.md",
+    "笔记方法.md",
     "Templates/日记.md",
     "2022读书清单.md",
-    "笔记方法.md",
     "阅读是一座随身携带的避难所.md",
     "+Home.md",
     "阅读的建议.md",

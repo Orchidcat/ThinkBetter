@@ -2,6 +2,6 @@
 
 
 ```dataview
-LIST title as "书名",Star as "评价"
+LIST 
 from #Book 
 ```
