@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d4cbf306222e84ce",
+        "id": "4101bde476fb17ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NotTodo",
+                "query": "tag:#Projects/每日一个心智模型",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,24 +148,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 425,
+    "width": 412,
     "collapsed": true
   },
-  "active": "d4cbf306222e84ce",
+  "active": "4101bde476fb17ba",
   "lastOpenFiles": [
     "心智模型 MOC.md",
     "+Home.md",
-    "目标 MOC.md",
-    "NotToDo.md",
-    "读书 MOC.md",
-    "记笔记.md",
-    "好的作品.md",
-    "刀锋.md",
-    "笔记方法.md",
-    "阅读水平.md"
+    "100种心智模型.md",
+    "DailyNotes/2021-12-13.md",
+    "DailyNotes/2022-04-27.md",
+    "DailyNotes/2022-04-26.md",
+    "Templates/Template - 日记.md",
+    "项目 MOC.md",
+    "每日一个心智模型.md",
+    "目标 MOC.md"
   ]
 }
