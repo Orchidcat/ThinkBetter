@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "刀锋.md",
+            "file": "Templates/Template - 读书.md",
             "mode": "source",
             "source": false
           }
@@ -22,18 +22,6 @@
           "type": "markdown",
           "state": {
             "file": "读书清单 MOC.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "52b54d67f8391d82",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "刀锋.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -182,14 +171,14 @@
   "active": "835db8ccc4cb59b9",
   "lastOpenFiles": [
     "读书清单 MOC.md",
-    "刀锋.md",
+    "+Home.md",
+    "目标 MOC.md",
     "Templates/Template - 读书.md",
+    "刀锋.md",
     "阅读是一座随身携带的避难所.md",
     "Templates/Template - 日记.md",
     "笔记方法.md",
     "2022读书清单.md",
-    "+Home.md",
-    "阅读的建议.md",
-    "阅读的基本规则.md"
+    "阅读的建议.md"
   ]
 }

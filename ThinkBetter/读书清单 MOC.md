@@ -1,19 +1,8 @@
-
-
-
-## Reading
-```dataview
-table dateformat(startDate, "yyyy-MM-dd") as "开始日"
-from #Book/Reading
-sort startDate ASC
-```
-
-
-
-
-
-## 2022
-
+---
+author: 何柳
+tags: ['MOC']
+---
+[[+Home]]
 
 ```dataview
 table rating as "评价",
@@ -25,5 +14,3 @@ sort rating DESC
 ```
 
 
-## 2021
-## 2020

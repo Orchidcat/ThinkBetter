@@ -5,12 +5,20 @@
       "path": "读书清单 MOC.md"
     },
     {
-      "basename": "刀锋",
-      "path": "刀锋.md"
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "目标 MOC",
+      "path": "目标 MOC.md"
     },
     {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "刀锋",
+      "path": "刀锋.md"
     },
     {
       "basename": "阅读是一座随身携带的避难所",
@@ -23,10 +31,6 @@
     {
       "basename": "笔记方法",
       "path": "笔记方法.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "阅读的建议",
@@ -47,10 +51,6 @@
     {
       "basename": "书的一种分类（理论或实用）",
       "path": "书的一种分类（理论或实用）.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "目标 MOC.md"
     },
     {
       "basename": "Kanban MOC",
