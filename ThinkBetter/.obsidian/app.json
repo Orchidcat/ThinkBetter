@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "attachmentFolderPath": "Sources"
 }
