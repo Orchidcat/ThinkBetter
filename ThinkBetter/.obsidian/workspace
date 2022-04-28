@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8dfd2848d1298262",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "地图不是领土.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "eb6d4b159d255501",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "地图不是领土.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -115,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -174,9 +163,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 249,
+    "collapsed": true
   },
-  "active": "8dfd2848d1298262",
+  "active": "eb6d4b159d255501",
   "lastOpenFiles": [
     "地图不是领土.md",
     "100种心智模型.md",
