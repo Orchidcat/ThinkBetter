@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 2,
+  "baseFontSize": 14,
   "cssTheme": "Cybertron",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "translucency": true
 }

@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
-            "mode": "source",
+            "file": "地图不是领土.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -34,7 +34,7 @@
           "type": "markdown",
           "state": {
             "file": "心智模型 MOC.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -49,7 +49,6 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 44.48198198198198,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -64,7 +63,6 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 55.518018018018026,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -104,9 +102,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5dc96816b50898db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,25 +126,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dc96816b50898db",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "ebed1a78815bdf47",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "心智模型 MOC.md"
+                "file": "地图不是领土.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1ef0628f3f9ecc69",
@@ -151,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心智模型 MOC.md",
+                "file": "地图不是领土.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +176,17 @@
     "direction": "horizontal",
     "width": 249
   },
-  "active": "9496c0eaa554f8ca",
+  "active": "8dfd2848d1298262",
   "lastOpenFiles": [
-    "心智模型 MOC.md",
-    "100种心智模型.md",
-    "+Home.md",
     "地图不是领土.md",
+    "100种心智模型.md",
+    "心智模型 MOC.md",
+    "+Home.md",
+    "项目 MOC.md",
     "读书 MOC.md",
     "DailyNotes/2022-04-27.md",
     "Templates/Template - 日记.md",
     "Templates/Template - 读书.md",
-    "项目 MOC.md",
     "阅读是一座随身携带的避难所.md"
   ]
 }
