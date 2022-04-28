@@ -9,7 +9,43 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "能力圈.md",
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "361f298a84823fd6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "基本Q.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "aa0a9d3ed56ee262",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DailyNotes/2022-04-27.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "95122e11e78a5d18",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第一性原理.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "能力圈.md"
+                "file": "第一性原理.md"
               }
             }
           }
@@ -124,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "能力圈.md",
+                "file": "第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +189,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "48e3d976d3438c5a",
+  "active": "95122e11e78a5d18",
   "lastOpenFiles": [
+    "第一性原理.md",
     "能力圈.md",
-    "地图不是领土.md",
     "100种心智模型.md",
-    "Templates/Template - 心智模型.md",
-    "心智模型 MOC.md",
-    "查理芒格.md",
-    "WILL DURANT.md",
+    "地图不是领土.md",
+    "DailyNotes/2022-04-27.md",
+    "Sources/Pasted image 20220428151431.png",
+    "Sources/Pasted image 20220428130339.png",
+    "基本Q.md",
     "+Home.md",
-    "项目 MOC.md",
-    "读书 MOC.md"
+    "Templates/Template - 心智模型.md"
   ]
 }
