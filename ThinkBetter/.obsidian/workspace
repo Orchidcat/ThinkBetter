@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "48e3d976d3438c5a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "+Home.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "361f298a84823fd6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "基本Q.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "aa0a9d3ed56ee262",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DailyNotes/2022-04-27.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "95122e11e78a5d18",
         "type": "leaf",
         "state": {
@@ -47,6 +11,18 @@
           "state": {
             "file": "第一性原理.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d33cd9931bf9b7dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Richard Feynman.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -192,6 +168,7 @@
   "active": "95122e11e78a5d18",
   "lastOpenFiles": [
     "第一性原理.md",
+    "Richard Feynman.md",
     "能力圈.md",
     "100种心智模型.md",
     "地图不是领土.md",
@@ -199,7 +176,6 @@
     "Sources/Pasted image 20220428151431.png",
     "Sources/Pasted image 20220428130339.png",
     "基本Q.md",
-    "+Home.md",
-    "Templates/Template - 心智模型.md"
+    "+Home.md"
   ]
 }

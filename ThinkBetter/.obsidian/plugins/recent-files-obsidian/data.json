@@ -5,6 +5,10 @@
       "path": "第一性原理.md"
     },
     {
+      "basename": "Richard Feynman",
+      "path": "Richard Feynman.md"
+    },
+    {
       "basename": "能力圈",
       "path": "能力圈.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server 2019 诊断",
       "path": "What Happened/SQL Server 2019 诊断.md"
-    },
-    {
-      "basename": "TF",
-      "path": "TF.md"
     }
   ],
   "omittedPaths": [],
