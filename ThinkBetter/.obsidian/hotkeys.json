@@ -32,5 +32,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F4"
+    }
   ]
 }
