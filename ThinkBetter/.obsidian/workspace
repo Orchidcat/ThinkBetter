@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6d4b159d255501",
+        "id": "48e3d976d3438c5a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心智模型 MOC.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fd1da2c0c464d0ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "地图不是领土.md",
+            "file": "能力圈.md",
             "mode": "source",
             "source": false
           }
@@ -120,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "心智模型 MOC.md"
+                "file": "能力圈.md"
               }
             }
           }
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心智模型 MOC.md",
+                "file": "能力圈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +153,17 @@
     "width": 249,
     "collapsed": true
   },
-  "active": "eb6d4b159d255501",
+  "active": "48e3d976d3438c5a",
   "lastOpenFiles": [
-    "心智模型 MOC.md",
+    "能力圈.md",
     "地图不是领土.md",
+    "100种心智模型.md",
+    "Templates/Template - 心智模型.md",
+    "心智模型 MOC.md",
     "查理芒格.md",
     "WILL DURANT.md",
-    "100种心智模型.md",
     "+Home.md",
     "项目 MOC.md",
-    "读书 MOC.md",
-    "DailyNotes/2022-04-27.md",
-    "Templates/Template - 日记.md"
+    "读书 MOC.md"
   ]
 }
