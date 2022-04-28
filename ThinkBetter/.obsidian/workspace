@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "心智模型 MOC.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fd1da2c0c464d0ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "地图不是领土.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "地图不是领土.md"
+                "file": "心智模型 MOC.md"
               }
             }
           }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地图不是领土.md",
+                "file": "心智模型 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +167,10 @@
   },
   "active": "eb6d4b159d255501",
   "lastOpenFiles": [
-    "地图不是领土.md",
-    "WILL DURANT.md",
-    "查理芒格.md",
     "心智模型 MOC.md",
+    "地图不是领土.md",
+    "查理芒格.md",
+    "WILL DURANT.md",
     "100种心智模型.md",
     "+Home.md",
     "项目 MOC.md",
