@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "能力圈.md",
+            "file": "100种心智模型.md",
             "mode": "source",
             "source": false
           }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "能力圈.md"
+                "file": "100种心智模型.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "能力圈.md",
+                "file": "100种心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +154,10 @@
   },
   "active": "95122e11e78a5d18",
   "lastOpenFiles": [
-    "能力圈.md",
-    "第一性原理.md",
     "100种心智模型.md",
     "地图不是领土.md",
+    "能力圈.md",
+    "第一性原理.md",
     "基本Q.md",
     "+Home.md",
     "Richard Feynman.md",
