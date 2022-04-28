@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "1e6e2b3768fe2100",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "查理芒格.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9496c0eaa554f8ca",
         "type": "leaf",
         "state": {
@@ -169,6 +181,7 @@
   "active": "eb6d4b159d255501",
   "lastOpenFiles": [
     "地图不是领土.md",
+    "查理芒格.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
@@ -176,7 +189,6 @@
     "读书 MOC.md",
     "DailyNotes/2022-04-27.md",
     "Templates/Template - 日记.md",
-    "Templates/Template - 读书.md",
-    "阅读是一座随身携带的避难所.md"
+    "Templates/Template - 读书.md"
   ]
 }
