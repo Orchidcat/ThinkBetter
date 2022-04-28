@@ -5,6 +5,14 @@
       "path": "第一性原理.md"
     },
     {
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "Richard Feynman",
       "path": "Richard Feynman.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Pasted image 20220428130339",
       "path": "Sources/Pasted image 20220428130339.png"
-    },
-    {
-      "basename": "基本Q",
-      "path": "基本Q.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "Template - 心智模型",
