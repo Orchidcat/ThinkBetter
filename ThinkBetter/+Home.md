@@ -19,3 +19,5 @@ alias: ["000", "Home"]
 	- [[概念 MOC]]
 	- [[兴趣 MOC]]
 	- [[人物 MOC]]
+
+new one should we know
