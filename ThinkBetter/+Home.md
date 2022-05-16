@@ -4,7 +4,9 @@ alias: ["000", "Home"]
 
 # Home 
 ## 主要思路
+[[+HomeMOC]]
 - 个人😋
+	- [[WorkFlowMOC]]
 	- [[NotToDo]]
 	- [[基本Q]]
 	- [[目标 MOC]]
