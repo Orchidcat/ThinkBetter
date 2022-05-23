@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DBCC",
       "path": "DBCC.md"
-    },
-    {
-      "basename": "SQL Server 2019 诊断",
-      "path": "What Happened/SQL Server 2019 诊断.md"
     }
   ],
   "omittedPaths": [],
