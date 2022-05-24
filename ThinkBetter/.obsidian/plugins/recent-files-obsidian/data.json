@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Top Tube Length",
-      "path": "Top Tube Length.md"
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
     },
     {
-      "basename": "Bike MOC",
-      "path": "Bike MOC.md"
+      "basename": "Template - 心智模型",
+      "path": "Templates/Template - 心智模型.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
     },
     {
       "basename": "自行车几何学",
       "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Top Tube Length",
+      "path": "Top Tube Length.md"
+    },
+    {
+      "basename": "能力圈",
+      "path": "能力圈.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "Bike MOC",
+      "path": "Bike MOC.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -45,10 +69,6 @@
       "path": "地图不是领土.md"
     },
     {
-      "basename": "能力圈",
-      "path": "能力圈.md"
-    },
-    {
       "basename": "第一性原理",
       "path": "第一性原理.md"
     },
@@ -69,28 +89,12 @@
       "path": "Sources/Pasted image 20220428130339.png"
     },
     {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
       "basename": "查理芒格",
       "path": "查理芒格.md"
     },
     {
       "basename": "WILL DURANT",
       "path": "WILL DURANT.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
     },
     {
       "basename": "阅读是一座随身携带的避难所",
@@ -195,10 +199,6 @@
     {
       "basename": "@Map",
       "path": "@Main/@Map.md"
-    },
-    {
-      "basename": "第一步",
-      "path": "@Main/第一步.md"
     }
   ],
   "omittedPaths": [],
