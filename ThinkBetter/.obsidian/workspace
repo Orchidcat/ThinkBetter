@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8bcb1ca3791b5b7",
+        "id": "31c5b5be4d4b73c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seat Angel.md",
+            "file": "Actual Seat Tube Angel.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seat Angel.md"
+                "file": "Actual Seat Tube Angel.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seat Angel.md",
+                "file": "Actual Seat Tube Angel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
-  "active": "e8bcb1ca3791b5b7",
+  "active": "31c5b5be4d4b73c9",
   "lastOpenFiles": [
+    "Actual Seat Tube Angel.md",
     "Seat Angel.md",
+    "Templates/Template - Bike.md",
+    "Templates/Template - 日记.md",
+    "自行车几何学.md",
     "head angle（Steerer Angle）.md",
     "Seat tube length.md",
-    "自行车几何学.md",
     "Top Tube Length.md",
     "Actual Top tube length.md",
-    "Templates/Template - Bike.md",
-    "Templates/Template - 读书.md",
-    "Templates/Template - 心智模型.md",
-    "Templates/Template - 日记.md"
+    "Templates/Template - 读书.md"
   ]
 }
