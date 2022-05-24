@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "31c5b5be4d4b73c9",
+        "id": "7b3a60e12167ad09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Actual Seat Tube Angel.md",
+            "file": "Head Tube.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual Seat Tube Angel.md"
+                "file": "Head Tube.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual Seat Tube Angel.md",
+                "file": "Head Tube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +146,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 375,
     "collapsed": true
   },
-  "active": "31c5b5be4d4b73c9",
+  "active": "7b3a60e12167ad09",
   "lastOpenFiles": [
+    "Head Tube.md",
+    "Reach.md",
+    "自行车几何学.md",
+    "Stack.md",
     "Actual Seat Tube Angel.md",
     "Seat Angel.md",
     "Templates/Template - Bike.md",
     "Templates/Template - 日记.md",
-    "自行车几何学.md",
     "head angle（Steerer Angle）.md",
-    "Seat tube length.md",
-    "Top Tube Length.md",
-    "Actual Top tube length.md",
-    "Templates/Template - 读书.md"
+    "Seat tube length.md"
   ]
 }

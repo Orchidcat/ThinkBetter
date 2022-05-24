@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Head Tube",
+      "path": "Head Tube.md"
+    },
+    {
+      "basename": "Reach",
+      "path": "Reach.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "Stack.md"
+    },
+    {
       "basename": "Actual Seat Tube Angel",
       "path": "Actual Seat Tube Angel.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Template - 日记",
       "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
     },
     {
       "basename": "head angle（Steerer Angle）",
@@ -187,18 +199,6 @@
     {
       "basename": "SQL Server 2016 SP2 诊断",
       "path": "What Happened/SQL Server 2016 SP2 诊断.md"
-    },
-    {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "What Happened/高可用.md"
-    },
-    {
-      "basename": "硬件",
-      "path": "硬件/硬件.md"
     }
   ],
   "omittedPaths": [],
