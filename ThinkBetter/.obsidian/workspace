@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d996d5853a0729f",
+        "id": "4e2c35c90201c60b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Seatpost Size（diameter）.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -107,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Seatpost Size（diameter）.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -124,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seatpost Size（diameter）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +146,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "5d996d5853a0729f",
+  "active": "4e2c35c90201c60b",
   "lastOpenFiles": [
-    "Seatpost Size（diameter）.md",
-    "Trail.md",
-    "Fork Rake（Fork Offset）.md",
-    "BB Height.md",
-    "BB Drop.md",
     "自行车几何学.md",
-    "Standover.md",
-    "Wheelbase.md",
-    "Front Centre.md",
-    "ChainStay.md"
+    "Wheel Size.md",
+    "Fork Length.md",
+    "Axle Spacing.md",
+    "BB Type（Bottom Bracket Type）.md",
+    "Crank Length.md",
+    "Stem Length.md",
+    "Handlebar Width.md",
+    "Seatpost Length.md",
+    "Seatpost Size（diameter）.md"
   ]
 }

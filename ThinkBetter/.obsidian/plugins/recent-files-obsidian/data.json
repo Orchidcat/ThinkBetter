@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Wheel Size",
+      "path": "Wheel Size.md"
+    },
+    {
+      "basename": "Fork Length",
+      "path": "Fork Length.md"
+    },
+    {
+      "basename": "Axle Spacing",
+      "path": "Axle Spacing.md"
+    },
+    {
+      "basename": "BB Type（Bottom Bracket Type）",
+      "path": "BB Type（Bottom Bracket Type）.md"
+    },
+    {
+      "basename": "Crank Length",
+      "path": "Crank Length.md"
+    },
+    {
+      "basename": "Stem Length",
+      "path": "Stem Length.md"
+    },
+    {
+      "basename": "Handlebar Width",
+      "path": "Handlebar Width.md"
+    },
+    {
+      "basename": "Seatpost Length",
+      "path": "Seatpost Length.md"
+    },
+    {
       "basename": "Seatpost Size（diameter）",
       "path": "Seatpost Size（diameter）.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "BB Drop",
       "path": "BB Drop.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
     },
     {
       "basename": "Standover",
@@ -167,38 +199,6 @@
     {
       "basename": "阅读是一座随身携带的避难所",
       "path": "阅读是一座随身携带的避难所.md"
-    },
-    {
-      "basename": "2022-04-26",
-      "path": "DailyNotes/2022-04-26.md"
-    },
-    {
-      "basename": "每日一个心智模型",
-      "path": "每日一个心智模型.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "目标 MOC.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
-    },
-    {
-      "basename": "记笔记",
-      "path": "记笔记.md"
-    },
-    {
-      "basename": "好的作品",
-      "path": "好的作品.md"
-    },
-    {
-      "basename": "刀锋",
-      "path": "刀锋.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
     }
   ],
   "omittedPaths": [],
