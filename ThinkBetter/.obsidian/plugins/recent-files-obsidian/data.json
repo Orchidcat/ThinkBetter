@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Bike MOC",
+      "path": "Bike MOC.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "Sloping vs. Horizontal Top Tube",
       "path": "Sloping vs. Horizontal Top Tube.md"
     },
@@ -141,20 +153,8 @@
       "path": "读书 MOC.md"
     },
     {
-      "basename": "Bike MOC",
-      "path": "Bike MOC.md"
-    },
-    {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "未命名",
@@ -195,10 +195,6 @@
     {
       "basename": "Pasted image 20220428130339",
       "path": "Sources/Pasted image 20220428130339.png"
-    },
-    {
-      "basename": "查理芒格",
-      "path": "查理芒格.md"
     }
   ],
   "omittedPaths": [],

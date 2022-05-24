@@ -35,4 +35,8 @@ tags: ['Bike/VS']
 - 更多尺寸
 - 更硬的坐杆
 	- 带有水平顶管的车架上的座杆插入座管深处。因此，它们不会弯曲太多。这种特性可以被视为一个优势，因为车架上的压力较小，但也有一个缺点 - 骑手无法从更“灵活”的座杆提供的骑行舒适度中受益。
-- 
+- 减少坐杆暴露
+- 不适合山地车
+
+参考：
+https://brainybiker.com/sloping-vs-horizontal-top-tube-pros-cons-compared-simple-illustrations/

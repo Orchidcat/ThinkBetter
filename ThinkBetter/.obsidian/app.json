@@ -7,5 +7,6 @@
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"
-  ]
+  ],
+  "promptDelete": false
 }
