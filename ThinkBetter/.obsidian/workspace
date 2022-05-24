@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95122e11e78a5d18",
+        "id": "59e94f6f6e78d711",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "Top Tube Length.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Top Tube Length.md"
               }
             }
           }
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Top Tube Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,20 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632,
-    "collapsed": true
+    "width": 375
   },
-  "active": "95122e11e78a5d18",
+  "active": "59e94f6f6e78d711",
   "lastOpenFiles": [
+    "Top Tube Length.md",
+    "Bike MOC.md",
+    "自行车几何学.md",
+    "心智模型 MOC.md",
+    "项目 MOC.md",
+    "+Home.md",
     "未命名.md",
     "100种心智模型.md",
     "DailyNotes/2022-04-27.md",
-    "DailyNotes/2021-12-13.md",
-    "地图不是领土.md",
-    "能力圈.md",
-    "第一性原理.md",
-    "基本Q.md",
-    "+Home.md",
-    "Richard Feynman.md"
+    "DailyNotes/2021-12-13.md"
   ]
 }

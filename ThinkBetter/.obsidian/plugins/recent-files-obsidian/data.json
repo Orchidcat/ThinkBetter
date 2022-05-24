@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Top Tube Length",
+      "path": "Top Tube Length.md"
+    },
+    {
+      "basename": "Bike MOC",
+      "path": "Bike MOC.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -33,10 +57,6 @@
       "path": "基本Q.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "Richard Feynman",
       "path": "Richard Feynman.md"
     },
@@ -53,20 +73,12 @@
       "path": "Templates/Template - 心智模型.md"
     },
     {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
       "basename": "查理芒格",
       "path": "查理芒格.md"
     },
     {
       "basename": "WILL DURANT",
       "path": "WILL DURANT.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     },
     {
       "basename": "读书 MOC",
@@ -187,18 +199,6 @@
     {
       "basename": "第一步",
       "path": "@Main/第一步.md"
-    },
-    {
-      "basename": "Top DBA DMVs",
-      "path": "Top DBA DMVs.md"
-    },
-    {
-      "basename": "TempDB",
-      "path": "TempDB.md"
-    },
-    {
-      "basename": "DBCC",
-      "path": "DBCC.md"
     }
   ],
   "omittedPaths": [],
