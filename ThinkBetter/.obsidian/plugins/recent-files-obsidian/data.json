@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Seatpost Size（diameter）",
+      "path": "Seatpost Size（diameter）.md"
+    },
+    {
+      "basename": "Trail",
+      "path": "Trail.md"
+    },
+    {
+      "basename": "Fork Rake（Fork Offset）",
+      "path": "Fork Rake（Fork Offset）.md"
+    },
+    {
+      "basename": "BB Height",
+      "path": "BB Height.md"
+    },
+    {
+      "basename": "BB Drop",
+      "path": "BB Drop.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Standover",
+      "path": "Standover.md"
+    },
+    {
+      "basename": "Wheelbase",
+      "path": "Wheelbase.md"
+    },
+    {
+      "basename": "Front Centre",
+      "path": "Front Centre.md"
+    },
+    {
+      "basename": "ChainStay",
+      "path": "ChainStay.md"
+    },
+    {
       "basename": "Head Tube",
       "path": "Head Tube.md"
     },
     {
       "basename": "Reach",
       "path": "Reach.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
     },
     {
       "basename": "Stack",
@@ -163,42 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "笔记方法.md"
-    },
-    {
-      "basename": "阅读水平",
-      "path": "阅读水平.md"
-    },
-    {
-      "basename": "如何透视一本书",
-      "path": "如何透视一本书.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
-    },
-    {
-      "basename": "阅读的基本规则",
-      "path": "阅读的基本规则.md"
-    },
-    {
-      "basename": "选择好书",
-      "path": "选择好书.md"
-    },
-    {
-      "basename": "书的一种分类（理论或实用）",
-      "path": "书的一种分类（理论或实用）.md"
-    },
-    {
-      "basename": "Kanban MOC",
-      "path": "Kanban MOC.md"
-    },
-    {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
-    },
-    {
-      "basename": "SQL Server 2016 SP2 诊断",
-      "path": "What Happened/SQL Server 2016 SP2 诊断.md"
     }
   ],
   "omittedPaths": [],
