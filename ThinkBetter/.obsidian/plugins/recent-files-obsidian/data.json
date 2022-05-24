@@ -5,6 +5,10 @@
       "path": "Sloping vs. Horizontal Top Tube.md"
     },
     {
+      "basename": "zoom",
+      "path": "zoom.md"
+    },
+    {
       "basename": "Seat tube length",
       "path": "Seat tube length.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "查理芒格",
       "path": "查理芒格.md"
-    },
-    {
-      "basename": "WILL DURANT",
-      "path": "WILL DURANT.md"
     }
   ],
   "omittedPaths": [],

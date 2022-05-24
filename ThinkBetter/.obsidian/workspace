@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "96c2ef4de7afd187",
+        "id": "7e3b385821ac3103",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -154,9 +154,10 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "96c2ef4de7afd187",
+  "active": "7e3b385821ac3103",
   "lastOpenFiles": [
     "Sloping vs. Horizontal Top Tube.md",
+    "zoom.md",
     "Seat tube length.md",
     "自行车几何学.md",
     "Actual Top tube length.md",
@@ -164,7 +165,6 @@
     "Fork Length.md",
     "Axle Spacing.md",
     "BB Type（Bottom Bracket Type）.md",
-    "Crank Length.md",
-    "Stem Length.md"
+    "Crank Length.md"
   ]
 }
