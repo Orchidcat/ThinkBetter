@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2c35c90201c60b",
+        "id": "77aae534efbc84ca",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Actual Top tube length.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -103,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Actual Top tube length.md"
+              }
             }
           }
         ]
@@ -118,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Actual Top tube length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +153,9 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "4e2c35c90201c60b",
+  "active": "77aae534efbc84ca",
   "lastOpenFiles": [
+    "Actual Top tube length.md",
     "自行车几何学.md",
     "Wheel Size.md",
     "Fork Length.md",
@@ -156,7 +164,6 @@
     "Crank Length.md",
     "Stem Length.md",
     "Handlebar Width.md",
-    "Seatpost Length.md",
-    "Seatpost Size（diameter）.md"
+    "Seatpost Length.md"
   ]
 }
