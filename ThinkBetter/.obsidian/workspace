@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bike MOC.md",
+            "file": "V-Brakes vs. Center Pull Brakes.md",
             "mode": "source",
             "source": false
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bike MOC.md"
+                "file": "V-Brakes vs. Center Pull Brakes.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bike MOC.md",
+                "file": "V-Brakes vs. Center Pull Brakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "8cab3f5ae5579086",
   "lastOpenFiles": [
+    "V-Brakes vs. Center Pull Brakes.md",
     "Bike MOC.md",
     "项目 MOC.md",
     "+Home.md",
@@ -177,7 +178,6 @@
     "zoom.md",
     "Seat tube length.md",
     "自行车几何学.md",
-    "Actual Top tube length.md",
-    "Wheel Size.md"
+    "Actual Top tube length.md"
   ]
 }
