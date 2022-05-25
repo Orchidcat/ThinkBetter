@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-mind-map"
 ]

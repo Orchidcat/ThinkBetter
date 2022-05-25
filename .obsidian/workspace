@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "ThinkBetter/100种心智模型.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -77,6 +78,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "d3367a810dcb05d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
