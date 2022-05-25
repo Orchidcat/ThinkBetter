@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8b120ab5e7c052",
+        "id": "9b0fecf3c8e37e9f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ThinkBetter/查理芒格.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -27,14 +22,6 @@
         "id": "7d3007558984a09d",
         "type": "tabs",
         "children": [
-          {
-            "id": "b7cd02672fa4dd6a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "f0ed5d6c26966d07",
             "type": "leaf",
@@ -65,23 +52,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23615950d5533108",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ThinkBetter/查理芒格.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d3367a810dcb05d3",
             "type": "leaf",
             "state": {
@@ -101,24 +71,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0b8b120ab5e7c052",
+  "active": "9b0fecf3c8e37e9f",
   "lastOpenFiles": [
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
     "ThinkBetter/查理芒格.md",
+    "ThinkBetter/DailyNotes/2022-04-27.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/Templates/Template - 日记.md",
-    "ThinkBetter/DailyNotes/2022-04-27.md",
-    "ThinkBetter/DailyNotes/2022-04-26.md",
-    "ThinkBetter/DailyNotes/2021-12-13.md",
-    "ThinkBetter/NotToDo.md"
+    "ThinkBetter/Templates/Template - 日记.md"
   ]
 }
