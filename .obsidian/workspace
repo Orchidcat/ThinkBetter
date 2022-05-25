@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5b919fab131fcac3",
+        "id": "0b8b120ab5e7c052",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/理查德·费曼传.md",
+            "file": "ThinkBetter/查理芒格.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/理查德·费曼传.md",
+                "file": "ThinkBetter/查理芒格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "b075333194ba2e26",
+            "id": "dd3ca0fc6cd1a6d5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -99,39 +99,18 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c4299f5dbb952a70",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ThinkBetter/理查德·费曼传.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2cdf40a2de61018d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ThinkBetter/理查德·费曼传.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5b919fab131fcac3",
+  "active": "0b8b120ab5e7c052",
   "lastOpenFiles": [
+    "ThinkBetter/查理芒格.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/100种心智模型.md",
