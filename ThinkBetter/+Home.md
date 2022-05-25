@@ -14,9 +14,11 @@ alias: ["000", "Home"]
 	- [[项目 MOC]]
 	- [[愿望清单 MOC]]
 	- [[读书 MOC]]
-	- ```dataview
 ```tasks
 not done
+sort by due
+hide recurrence rule
+path does not include Templates
 
 ```
 	- [[心智模型 MOC]]
