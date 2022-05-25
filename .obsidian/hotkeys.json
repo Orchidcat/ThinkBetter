@@ -8,5 +8,14 @@
       "key": "E"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": []
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }

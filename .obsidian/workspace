@@ -46,7 +46,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -86,6 +87,7 @@
   "active": "3f9043275dcadb8b",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
+    "人物 MOC.md",
     "未命名 3.md",
     "未命名 2.md",
     "未命名 1.md",
@@ -93,7 +95,6 @@
     "ThinkBetter/查理芒格.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
     "ThinkBetter/理查德·费曼传.md",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/读书 MOC.md"
+    "ThinkBetter/100种心智模型.md"
   ]
 }
