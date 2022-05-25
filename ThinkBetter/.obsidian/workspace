@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bike MOC.md",
-            "mode": "source",
+            "file": "+Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -25,6 +25,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
+        "dimension": 29.027576197387518,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -39,6 +40,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
+        "dimension": 70.97242380261248,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -87,12 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 452
+    "width": 297
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bike MOC.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bike MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +157,15 @@
   },
   "active": "12b7b3713719bbfb",
   "lastOpenFiles": [
+    "+Home.md",
+    "心智模型 MOC.md",
+    "100种心智模型.md",
     "Bike MOC.md",
     "自行车VS.md",
     "Sloping vs. Horizontal Top Tube.md",
     "自行车几何学.md",
     "Reach.md",
     "V-Brakes vs. Center Pull Brakes.md",
-    "项目 MOC.md",
-    "+Home.md",
-    "+HomeMOC.md",
-    "zoom.md"
+    "项目 MOC.md"
   ]
 }
