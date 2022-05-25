@@ -1,4 +1,5 @@
 [
+  "file-explorer",
   "global-search",
   "switcher",
   "graph",
@@ -7,6 +8,7 @@
   "templates",
   "note-composer",
   "command-palette",
+  "outline",
   "word-count",
   "file-recovery"
 ]
