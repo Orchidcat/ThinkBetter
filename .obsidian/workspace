@@ -4,54 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9043275dcadb8b",
+        "id": "abd05880ea6bfc6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "ThinkBetter/+Home.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
-        },
-        "group": "9bdbedeeca3a6bf7"
-      },
-      {
-        "id": "3c79114db9d1af8b",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "ThinkBetter/+Home.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.397917834686716,
-              "close": false
-            }
-          }
-        },
-        "group": "9bdbedeeca3a6bf7"
+        }
       }
     ],
     "direction": "vertical"
@@ -139,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c79114db9d1af8b",
+  "active": "abd05880ea6bfc6c",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
+    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/第一性原理.md",
+    "ThinkBetter/心智模型 MOC.md",
+    "ThinkBetter/思想实验.md",
     "ThinkBetter/地图不是领土.md",
     "ThinkBetter/不对称性.md",
     "ThinkBetter/笔记方法.md",
     "ThinkBetter/贝叶斯思维.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/Sources/Pasted image 20220428130339.png",
-    "ThinkBetter/查理芒格.md",
-    "人物 MOC.md"
+    "ThinkBetter/Sources/Pasted image 20220428130339.png"
   ]
 }
