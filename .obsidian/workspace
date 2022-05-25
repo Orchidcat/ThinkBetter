@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0fecf3c8e37e9f",
+        "id": "3f9043275dcadb8b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ThinkBetter/+Home.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -78,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b0fecf3c8e37e9f",
+  "active": "3f9043275dcadb8b",
   "lastOpenFiles": [
+    "ThinkBetter/+Home.md",
+    "未命名 3.md",
     "未命名 2.md",
     "未命名 1.md",
     "未命名.md",
     "ThinkBetter/查理芒格.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
     "ThinkBetter/理查德·费曼传.md",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/Templates/Template - 日记.md"
+    "ThinkBetter/读书 MOC.md"
   ]
 }
