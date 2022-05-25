@@ -1,16 +1,196 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "理查德·费曼传",
+      "path": "理查德·费曼传.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "费曼学习法.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
     {
-      "basename": "地图不是领土",
-      "path": "地图不是领土.md"
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "阅读是一座随身携带的避难所",
+      "path": "阅读是一座随身携带的避难所.md"
+    },
+    {
+      "basename": "Bike MOC",
+      "path": "Bike MOC.md"
+    },
+    {
+      "basename": "Sloping vs. Horizontal Top Tube",
+      "path": "Sloping vs. Horizontal Top Tube.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Reach",
+      "path": "Reach.md"
+    },
+    {
+      "basename": "V-Brakes vs. Center Pull Brakes",
+      "path": "V-Brakes vs. Center Pull Brakes.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
+      "basename": "zoom",
+      "path": "zoom.md"
+    },
+    {
+      "basename": "Seat tube length",
+      "path": "Seat tube length.md"
+    },
+    {
+      "basename": "Actual Top tube length",
+      "path": "Actual Top tube length.md"
+    },
+    {
+      "basename": "Wheel Size",
+      "path": "Wheel Size.md"
+    },
+    {
+      "basename": "Fork Length",
+      "path": "Fork Length.md"
+    },
+    {
+      "basename": "Axle Spacing",
+      "path": "Axle Spacing.md"
+    },
+    {
+      "basename": "BB Type（Bottom Bracket Type）",
+      "path": "BB Type（Bottom Bracket Type）.md"
+    },
+    {
+      "basename": "Crank Length",
+      "path": "Crank Length.md"
+    },
+    {
+      "basename": "Stem Length",
+      "path": "Stem Length.md"
+    },
+    {
+      "basename": "Handlebar Width",
+      "path": "Handlebar Width.md"
+    },
+    {
+      "basename": "Seatpost Length",
+      "path": "Seatpost Length.md"
+    },
+    {
+      "basename": "Seatpost Size（diameter）",
+      "path": "Seatpost Size（diameter）.md"
+    },
+    {
+      "basename": "Trail",
+      "path": "Trail.md"
+    },
+    {
+      "basename": "Fork Rake（Fork Offset）",
+      "path": "Fork Rake（Fork Offset）.md"
+    },
+    {
+      "basename": "BB Height",
+      "path": "BB Height.md"
+    },
+    {
+      "basename": "BB Drop",
+      "path": "BB Drop.md"
+    },
+    {
+      "basename": "Standover",
+      "path": "Standover.md"
+    },
+    {
+      "basename": "Wheelbase",
+      "path": "Wheelbase.md"
+    },
+    {
+      "basename": "Front Centre",
+      "path": "Front Centre.md"
+    },
+    {
+      "basename": "ChainStay",
+      "path": "ChainStay.md"
+    },
+    {
+      "basename": "Head Tube",
+      "path": "Head Tube.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "Stack.md"
+    },
+    {
+      "basename": "Actual Seat Tube Angel",
+      "path": "Actual Seat Tube Angel.md"
+    },
+    {
+      "basename": "Seat Angel",
+      "path": "Seat Angel.md"
+    },
+    {
+      "basename": "Template - Bike",
+      "path": "Templates/Template - Bike.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "head angle（Steerer Angle）",
+      "path": "head angle（Steerer Angle）.md"
+    },
+    {
+      "basename": "Top Tube Length",
+      "path": "Top Tube Length.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "Template - 心智模型",
+      "path": "Templates/Template - 心智模型.md"
     },
     {
       "basename": "能力圈",
       "path": "能力圈.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "2022-04-27",
+      "path": "DailyNotes/2022-04-27.md"
+    },
+    {
+      "basename": "2021-12-13",
+      "path": "DailyNotes/2021-12-13.md"
+    },
+    {
+      "basename": "地图不是领土",
+      "path": "地图不是领土.md"
     },
     {
       "basename": "第一性原理",
@@ -19,186 +199,6 @@
     {
       "basename": "基本Q",
       "path": "基本Q.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
-      "basename": "Richard Feynman",
-      "path": "Richard Feynman.md"
-    },
-    {
-      "basename": "2022-04-27",
-      "path": "DailyNotes/2022-04-27.md"
-    },
-    {
-      "basename": "Pasted image 20220428151431",
-      "path": "Sources/Pasted image 20220428151431.png"
-    },
-    {
-      "basename": "Pasted image 20220428130339",
-      "path": "Sources/Pasted image 20220428130339.png"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "查理芒格",
-      "path": "查理芒格.md"
-    },
-    {
-      "basename": "WILL DURANT",
-      "path": "WILL DURANT.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "阅读是一座随身携带的避难所",
-      "path": "阅读是一座随身携带的避难所.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "DailyNotes/2021-12-13.md"
-    },
-    {
-      "basename": "2022-04-26",
-      "path": "DailyNotes/2022-04-26.md"
-    },
-    {
-      "basename": "每日一个心智模型",
-      "path": "每日一个心智模型.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "目标 MOC.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
-    },
-    {
-      "basename": "记笔记",
-      "path": "记笔记.md"
-    },
-    {
-      "basename": "好的作品",
-      "path": "好的作品.md"
-    },
-    {
-      "basename": "刀锋",
-      "path": "刀锋.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
-    },
-    {
-      "basename": "阅读水平",
-      "path": "阅读水平.md"
-    },
-    {
-      "basename": "如何透视一本书",
-      "path": "如何透视一本书.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
-    },
-    {
-      "basename": "阅读的基本规则",
-      "path": "阅读的基本规则.md"
-    },
-    {
-      "basename": "选择好书",
-      "path": "选择好书.md"
-    },
-    {
-      "basename": "书的一种分类（理论或实用）",
-      "path": "书的一种分类（理论或实用）.md"
-    },
-    {
-      "basename": "Kanban MOC",
-      "path": "Kanban MOC.md"
-    },
-    {
-      "basename": "常规性能配置",
-      "path": "配置操作/常规性能配置.md"
-    },
-    {
-      "basename": "SQL Server 2016 SP2 诊断",
-      "path": "What Happened/SQL Server 2016 SP2 诊断.md"
-    },
-    {
-      "basename": "SQL Server 2008 R2 诊断",
-      "path": "What Happened/SQL Server 2008 R2 诊断.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "What Happened/高可用.md"
-    },
-    {
-      "basename": "硬件",
-      "path": "硬件/硬件.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "硬件/未命名.md"
-    },
-    {
-      "basename": "000写作模板",
-      "path": "templates/000写作模板.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "templates/未命名.md"
-    },
-    {
-      "basename": "001日记模板",
-      "path": "templates/001日记模板.md"
-    },
-    {
-      "basename": "@Map",
-      "path": "@Main/@Map.md"
-    },
-    {
-      "basename": "第一步",
-      "path": "@Main/第一步.md"
-    },
-    {
-      "basename": "Top DBA DMVs",
-      "path": "Top DBA DMVs.md"
-    },
-    {
-      "basename": "TempDB",
-      "path": "TempDB.md"
-    },
-    {
-      "basename": "DBCC",
-      "path": "DBCC.md"
-    },
-    {
-      "basename": "SQL Server 2019 诊断",
-      "path": "What Happened/SQL Server 2019 诊断.md"
     }
   ],
   "omittedPaths": [],

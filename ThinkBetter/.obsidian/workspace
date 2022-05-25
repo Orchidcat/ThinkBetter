@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95122e11e78a5d18",
+        "id": "c6423b62156eb259",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
+        "dimension": 29.027576197387518,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -39,6 +40,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
+        "dimension": 70.97242380261248,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Projects/每日一个心智模型",
+                "query": "学习方法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632
+    "width": 375,
+    "collapsed": true
   },
-  "active": "95122e11e78a5d18",
+  "active": "c6423b62156eb259",
   "lastOpenFiles": [
-    "100种心智模型.md",
-    "地图不是领土.md",
-    "能力圈.md",
-    "第一性原理.md",
-    "基本Q.md",
     "+Home.md",
-    "Richard Feynman.md",
-    "DailyNotes/2022-04-27.md",
-    "Sources/Pasted image 20220428151431.png",
-    "Sources/Pasted image 20220428130339.png"
+    "理查德·费曼传.md",
+    "费曼学习法.md",
+    "心智模型 MOC.md",
+    "100种心智模型.md",
+    "读书 MOC.md",
+    "阅读是一座随身携带的避难所.md",
+    "Bike MOC.md",
+    "自行车VS.md",
+    "Sloping vs. Horizontal Top Tube.md"
   ]
 }
