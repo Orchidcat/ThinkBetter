@@ -1,7 +1,7 @@
 ---
 tags: ['Bike/几何学']
 desc: 从五通中心到头管中心顶部的水平距离
-attr: 整成长短的设定
+attr: 整车长短的设定
 ---
 
 The horizontal distance from the centre of the bottom bracket to the centre-top of the head tube, where the virtual steering axis passes through.

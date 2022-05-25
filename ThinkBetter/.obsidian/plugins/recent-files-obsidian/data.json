@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "V-Brakes vs. Center Pull Brakes",
-      "path": "V-Brakes vs. Center Pull Brakes.md"
-    },
-    {
       "basename": "Bike MOC",
       "path": "Bike MOC.md"
+    },
+    {
+      "basename": "自行车VS",
+      "path": "自行车VS.md"
+    },
+    {
+      "basename": "Sloping vs. Horizontal Top Tube",
+      "path": "Sloping vs. Horizontal Top Tube.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
+    },
+    {
+      "basename": "Reach",
+      "path": "Reach.md"
+    },
+    {
+      "basename": "V-Brakes vs. Center Pull Brakes",
+      "path": "V-Brakes vs. Center Pull Brakes.md"
     },
     {
       "basename": "项目 MOC",
@@ -17,20 +33,12 @@
       "path": "+Home.md"
     },
     {
-      "basename": "Sloping vs. Horizontal Top Tube",
-      "path": "Sloping vs. Horizontal Top Tube.md"
-    },
-    {
       "basename": "zoom",
       "path": "zoom.md"
     },
     {
       "basename": "Seat tube length",
       "path": "Seat tube length.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
     },
     {
       "basename": "Actual Top tube length",
@@ -107,10 +115,6 @@
     {
       "basename": "Head Tube",
       "path": "Head Tube.md"
-    },
-    {
-      "basename": "Reach",
-      "path": "Reach.md"
     },
     {
       "basename": "Stack",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20220428151431",
       "path": "Sources/Pasted image 20220428151431.png"
-    },
-    {
-      "basename": "Pasted image 20220428130339",
-      "path": "Sources/Pasted image 20220428130339.png"
     }
   ],
   "omittedPaths": [],

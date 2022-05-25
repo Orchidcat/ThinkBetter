@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9173a8ba3523af1e",
+        "id": "12b7b3713719bbfb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目 MOC.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8cab3f5ae5579086",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "V-Brakes vs. Center Pull Brakes.md",
+            "file": "Bike MOC.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bike/VS",
+                "query": "自行车",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452,
-    "collapsed": true
+    "width": 452
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V-Brakes vs. Center Pull Brakes.md"
+                "file": "Bike MOC.md"
               }
             }
           }
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V-Brakes vs. Center Pull Brakes.md",
+                "file": "Bike MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +154,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "8cab3f5ae5579086",
+  "active": "12b7b3713719bbfb",
   "lastOpenFiles": [
-    "V-Brakes vs. Center Pull Brakes.md",
     "Bike MOC.md",
+    "自行车VS.md",
+    "Sloping vs. Horizontal Top Tube.md",
+    "自行车几何学.md",
+    "Reach.md",
+    "V-Brakes vs. Center Pull Brakes.md",
     "项目 MOC.md",
     "+Home.md",
     "+HomeMOC.md",
-    "Sloping vs. Horizontal Top Tube.md",
-    "zoom.md",
-    "Seat tube length.md",
-    "自行车几何学.md",
-    "Actual Top tube length.md"
+    "zoom.md"
   ]
 }
