@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自行车",
+                "query": "tag:#十大学习方法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
