@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
-            "mode": "preview",
+            "file": "费曼学习法.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "费曼学习法.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "费曼学习法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "12b7b3713719bbfb",
   "lastOpenFiles": [
+    "费曼学习法.md",
     "+Home.md",
     "心智模型 MOC.md",
     "100种心智模型.md",
@@ -165,7 +166,6 @@
     "Sloping vs. Horizontal Top Tube.md",
     "自行车几何学.md",
     "Reach.md",
-    "V-Brakes vs. Center Pull Brakes.md",
-    "项目 MOC.md"
+    "V-Brakes vs. Center Pull Brakes.md"
   ]
 }
