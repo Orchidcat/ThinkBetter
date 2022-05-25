@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Bike",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224423,
+  "scale": 0.7132754626224425,
   "close": false
 }
