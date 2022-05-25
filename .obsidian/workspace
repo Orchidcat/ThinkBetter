@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "241df419622cebb4",
+        "id": "5b919fab131fcac3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/100种心智模型.md",
-            "mode": "preview",
+            "file": "ThinkBetter/理查德·费曼传.md",
+            "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md",
+                "file": "ThinkBetter/理查德·费曼传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ThinkBetter/理查德·费曼传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,20 +117,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/理查德·费曼传.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "241df419622cebb4",
+  "active": "5b919fab131fcac3",
   "lastOpenFiles": [
-    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/+Home.md",
+    "ThinkBetter/100种心智模型.md",
     "ThinkBetter/读书 MOC.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
