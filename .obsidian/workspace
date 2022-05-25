@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/+Home.md",
-            "mode": "source"
+            "file": "ThinkBetter/Templates/Template - 日记.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/+Home.md",
+                "file": "ThinkBetter/Templates/Template - 日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "241df419622cebb4",
   "lastOpenFiles": [
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
     "ThinkBetter/DailyNotes/2022-04-26.md",
