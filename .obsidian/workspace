@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "abd05880ea6bfc6c",
+        "id": "8bb2cd21a386f262",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/+Home.md",
-            "mode": "preview",
+            "file": "ThinkBetter/自行车几何学.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自行车",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/+Home.md"
+                "file": "ThinkBetter/自行车几何学.md"
               }
             }
           }
@@ -102,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abd05880ea6bfc6c",
+  "active": "8bb2cd21a386f262",
   "lastOpenFiles": [
+    "ThinkBetter/自行车几何学.md",
+    "ThinkBetter/Bike MOC.md",
+    "ThinkBetter/项目 MOC.md",
     "ThinkBetter/+Home.md",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/第一性原理.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/思想实验.md",
-    "ThinkBetter/地图不是领土.md",
-    "ThinkBetter/不对称性.md",
-    "ThinkBetter/笔记方法.md",
-    "ThinkBetter/贝叶斯思维.md",
-    "ThinkBetter/Sources/Pasted image 20220428130339.png"
+    "ThinkBetter/人物 MOC.md",
+    "README.md",
+    "未命名.md",
+    "未命名 1.md",
+    "ThinkBetter/Templates/Template - Bike.md",
+    "ThinkBetter/摩擦力和粘度.md"
   ]
 }
