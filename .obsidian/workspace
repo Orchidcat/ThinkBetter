@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/Templates/Template - 日记.md",
+            "file": "ThinkBetter/读书 MOC.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/Templates/Template - 日记.md",
+                "file": "ThinkBetter/读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "241df419622cebb4",
   "lastOpenFiles": [
-    "ThinkBetter/Templates/Template - 日记.md",
+    "ThinkBetter/读书 MOC.md",
     "ThinkBetter/+Home.md",
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
     "ThinkBetter/DailyNotes/2022-04-26.md",
     "ThinkBetter/DailyNotes/2021-12-13.md",
