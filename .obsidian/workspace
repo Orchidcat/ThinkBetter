@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/自行车几何学.md",
+            "file": "ThinkBetter/+Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,7 +50,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/自行车几何学.md"
+                "file": "ThinkBetter/+Home.md"
               }
             }
           }
@@ -103,15 +104,15 @@
   },
   "active": "8bb2cd21a386f262",
   "lastOpenFiles": [
+    "ThinkBetter/+Home.md",
+    "+HomeMOC.md",
     "ThinkBetter/自行车几何学.md",
     "ThinkBetter/Bike MOC.md",
     "ThinkBetter/项目 MOC.md",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/人物 MOC.md",
     "README.md",
     "未命名.md",
     "未命名 1.md",
-    "ThinkBetter/Templates/Template - Bike.md",
-    "ThinkBetter/摩擦力和粘度.md"
+    "ThinkBetter/Templates/Template - Bike.md"
   ]
 }
