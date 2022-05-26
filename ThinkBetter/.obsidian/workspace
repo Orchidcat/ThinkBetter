@@ -7,8 +7,12 @@
         "id": "e58ef8e352c7a488",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "别闹了，费曼先生.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "别闹了，费曼先生.md"
+              }
             }
           }
         ]
@@ -119,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "别闹了，费曼先生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +157,7 @@
   },
   "active": "e58ef8e352c7a488",
   "lastOpenFiles": [
+    "别闹了，费曼先生.md",
     "你干嘛在乎别人怎么想.md",
     "Git MOC.md",
     "+Home.md",
@@ -158,7 +166,6 @@
     "git status.md",
     "git push.md",
     "git pull.md",
-    "git init.md",
-    "git commit.md"
+    "git init.md"
   ]
 }
