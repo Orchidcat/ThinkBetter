@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "241df419622cebb4",
+        "id": "8bb2cd21a386f262",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/+Home.md",
-            "mode": "source"
+            "file": "ThinkBetter/自行车几何学.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -26,26 +28,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7cd02672fa4dd6a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "f0ed5d6c26966d07",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "自行车",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c6f982b1d437b289",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
             }
           }
         ]
@@ -63,36 +65,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23615950d5533108",
+            "id": "d3367a810dcb05d3",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd3ca0fc6cd1a6d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "ThinkBetter/+Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a54309531b5d95e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ThinkBetter/自行车几何学.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "241df419622cebb4",
+  "active": "8bb2cd21a386f262",
   "lastOpenFiles": [
+    "ThinkBetter/自行车几何学.md",
+    "ThinkBetter/Bike MOC.md",
+    "ThinkBetter/项目 MOC.md",
     "ThinkBetter/+Home.md",
-    "ThinkBetter/DailyNotes/2022-04-27.md",
-    "ThinkBetter/DailyNotes/2022-04-26.md",
-    "ThinkBetter/DailyNotes/2021-12-13.md",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/NotToDo.md"
+    "ThinkBetter/人物 MOC.md",
+    "README.md",
+    "未命名.md",
+    "未命名 1.md",
+    "ThinkBetter/Templates/Template - Bike.md",
+    "ThinkBetter/摩擦力和粘度.md"
   ]
 }

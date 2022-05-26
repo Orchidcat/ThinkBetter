@@ -1,3 +1,20 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-mind-map",
+  "obsidian-minimal-settings",
+  "obsidian-zoom",
+  "obsidian-tasks-plugin",
+  "note-refactor-obsidian",
+  "obsidian-emoji-toolbar",
+  "homepage",
+  "sliding-panes-obsidian",
+  "obsidian-admonition",
+  "obsidian-auto-link-title",
+  "better-word-count",
+  "obsidian-tidy-footnotes",
+  "obsidian-icons-plugin"
 ]

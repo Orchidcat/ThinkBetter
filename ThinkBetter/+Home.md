@@ -5,17 +5,17 @@ alias: ["000", "Home"]
 # Home 
 ## 主要思路
 [[+HomeMOC]]
-
-- TASK🍀
+- TASK🍅
 ```tasks
 not done
-due after 2022-05-25
 sort by due
-short mode
+due after 2022-05-25
 hide recurrence rule
-hide task count
+short mode
 path does not include Templates
+hide task count
 ```
+
 
 - 个人😋
 	- [[WorkFlowMOC]]
@@ -27,6 +27,7 @@ path does not include Templates
 	- [[愿望清单 MOC]]
 	- [[读书 MOC]]
 	- [[心智模型 MOC]]
+		-  [[第一性原理#^a94c8a]]
 
 
 
