@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "别闹了，费曼先生",
       "path": "别闹了，费曼先生.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "git add",
       "path": "git add.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
