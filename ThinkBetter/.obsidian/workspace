@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "你干嘛在乎别人怎么想.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,8 @@
   },
   "active": "520b0d72e9d2e2c1",
   "lastOpenFiles": [
-    "你干嘛在乎别人怎么想.md",
     "+Home.md",
+    "你干嘛在乎别人怎么想.md",
     "理查德·费曼传.md",
     "conflict-files-obsidian-git.md",
     "读书 MOC.md",
