@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "520b0d72e9d2e2c1",
+        "id": "d5b8d6bf215d3177",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "别闹了，费曼先生.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "别闹了，费曼先生.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "别闹了，费曼先生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,9 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "520b0d72e9d2e2c1",
+  "active": "d5b8d6bf215d3177",
   "lastOpenFiles": [
+    "别闹了，费曼先生.md",
     "读书 MOC.md",
     "你干嘛在乎别人怎么想.md",
     "+Home.md",
@@ -167,7 +168,6 @@
     "心智模型 MOC.md",
     "费曼学习法.md",
     "100种心智模型.md",
-    "阅读是一座随身携带的避难所.md",
-    "Bike MOC.md"
+    "阅读是一座随身携带的避难所.md"
   ]
 }
