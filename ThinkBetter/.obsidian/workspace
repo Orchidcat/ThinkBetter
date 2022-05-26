@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "Git MOC.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Git MOC.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Git MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "e58ef8e352c7a488",
   "lastOpenFiles": [
+    "Git MOC.md",
     "+Home.md",
     "自行车几何学.md",
     "Bike MOC.md",
@@ -164,7 +165,6 @@
     "读书 MOC.md",
     "别闹了，费曼先生.md",
     "你干嘛在乎别人怎么想.md",
-    "Git MOC.md",
     "git merge.md",
     "Repository.md"
   ]

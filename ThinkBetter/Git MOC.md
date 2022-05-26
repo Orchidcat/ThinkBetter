@@ -1,4 +1,6 @@
 
+参考阅读 https://backlog.com/git-tutorial/cn/intro/intro1_1.html
+
 
 # 版本控制软件（VCS)
 - 集中式版本控制（CVC）- Subversion
