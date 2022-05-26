@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "你干嘛在乎别人怎么想",
+      "path": "你干嘛在乎别人怎么想.md"
+    },
+    {
       "basename": "Git MOC",
       "path": "Git MOC.md"
     },
     {
-      "basename": "Git merge",
-      "path": "Git merge.md"
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "git merge",
+      "path": "git merge.md"
+    },
+    {
+      "basename": "Repository",
+      "path": "Repository.md"
     },
     {
       "basename": "git status",
@@ -37,20 +49,12 @@
       "path": "git add.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "别闹了，费曼先生",
       "path": "别闹了，费曼先生.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
-    },
-    {
-      "basename": "你干嘛在乎别人怎么想",
-      "path": "你干嘛在乎别人怎么想.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -195,10 +199,6 @@
     {
       "basename": "Seat Angel",
       "path": "Seat Angel.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
     }
   ],
   "omittedPaths": [],

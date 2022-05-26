@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b8d6bf215d3177",
+        "id": "e58ef8e352c7a488",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "+Home.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cbf8d8284719897e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git MOC.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -120,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git MOC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +148,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "cbf8d8284719897e",
+  "active": "e58ef8e352c7a488",
   "lastOpenFiles": [
+    "你干嘛在乎别人怎么想.md",
     "Git MOC.md",
-    "Git merge.md",
+    "+Home.md",
+    "git merge.md",
+    "Repository.md",
     "git status.md",
     "git push.md",
     "git pull.md",
     "git init.md",
-    "git commit.md",
-    "git branch.md",
-    "git add.md",
-    "+Home.md"
+    "git commit.md"
   ]
 }
