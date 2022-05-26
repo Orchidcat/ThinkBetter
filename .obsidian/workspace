@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/+Home.md",
+            "file": "ThinkBetter/读书 MOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/+Home.md"
+                "file": "ThinkBetter/读书 MOC.md"
               }
             }
           }
@@ -104,6 +104,7 @@
   },
   "active": "8bb2cd21a386f262",
   "lastOpenFiles": [
+    "ThinkBetter/读书 MOC.md",
     "ThinkBetter/+Home.md",
     "+HomeMOC.md",
     "ThinkBetter/自行车几何学.md",
@@ -112,7 +113,6 @@
     "ThinkBetter/人物 MOC.md",
     "README.md",
     "未命名.md",
-    "未命名 1.md",
-    "ThinkBetter/Templates/Template - Bike.md"
+    "未命名 1.md"
   ]
 }
