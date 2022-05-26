@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Git MOC",
+      "path": "Git MOC.md"
+    },
+    {
+      "basename": "Git merge",
+      "path": "Git merge.md"
+    },
+    {
+      "basename": "git status",
+      "path": "git status.md"
+    },
+    {
+      "basename": "git push",
+      "path": "git push.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "git pull.md"
+    },
+    {
+      "basename": "git init",
+      "path": "git init.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "git commit.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "git branch.md"
+    },
+    {
+      "basename": "git add",
+      "path": "git add.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Template - Bike",
       "path": "Templates/Template - Bike.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "head angle（Steerer Angle）",
-      "path": "head angle（Steerer Angle）.md"
-    },
-    {
-      "basename": "Top Tube Length",
-      "path": "Top Tube Length.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "能力圈",
-      "path": "能力圈.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "2022-04-27",
-      "path": "DailyNotes/2022-04-27.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "DailyNotes/2021-12-13.md"
     }
   ],
   "omittedPaths": [],

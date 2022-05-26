@@ -37,5 +37,7 @@ hide task count
 	- [[兴趣 MOC]]
 	- [[人物 MOC]]
 
-- 编程
+- 编程💻
+	- [[Git MOC]]
+
 new one should we know
