@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "你干嘛在乎别人怎么想.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,11 +159,11 @@
   },
   "active": "520b0d72e9d2e2c1",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "你干嘛在乎别人怎么想.md",
     "+Home.md",
     "conflict-files-obsidian-git.md",
     "理查德·费曼传.md",
-    "读书 MOC.md",
     "心智模型 MOC.md",
     "费曼学习法.md",
     "100种心智模型.md",
