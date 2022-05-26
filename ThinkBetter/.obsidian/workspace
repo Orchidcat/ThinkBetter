@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "别闹了，费曼先生.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "别闹了，费曼先生.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "别闹了，费曼先生.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
   },
   "active": "d5b8d6bf215d3177",
   "lastOpenFiles": [
+    "+Home.md",
     "别闹了，费曼先生.md",
     "读书 MOC.md",
     "你干嘛在乎别人怎么想.md",
-    "+Home.md",
     "conflict-files-obsidian-git.md",
     "理查德·费曼传.md",
     "心智模型 MOC.md",
