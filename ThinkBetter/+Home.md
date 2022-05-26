@@ -14,8 +14,8 @@ hide recurrence rule
 short mode
 path does not include Templates
 hide task count
-
 ```
+
 
 - 个人😋
 	- [[WorkFlowMOC]]
@@ -30,9 +30,15 @@ hide task count
 		-  [[第一性原理#^a94c8a]]
 
 
+
+
 - 事物🌐
 	- [[概念 MOC]]
 	- [[兴趣 MOC]]
 	- [[人物 MOC]]
+
+- 编程💻
+	- [[Git MOC]] 
+	- Vue https://staging-cn.vuejs.org/guide/introduction.html
 
 new one should we know

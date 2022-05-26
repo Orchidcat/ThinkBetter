@@ -1,44 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Git MOC",
+      "path": "Git MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
     {
-      "basename": "理查德·费曼传",
-      "path": "理查德·费曼传.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "费曼学习法.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "阅读是一座随身携带的避难所",
-      "path": "阅读是一座随身携带的避难所.md"
+      "basename": "自行车几何学",
+      "path": "自行车几何学.md"
     },
     {
       "basename": "Bike MOC",
       "path": "Bike MOC.md"
     },
     {
-      "basename": "Sloping vs. Horizontal Top Tube",
-      "path": "Sloping vs. Horizontal Top Tube.md"
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
     },
     {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "别闹了，费曼先生",
+      "path": "别闹了，费曼先生.md"
+    },
+    {
+      "basename": "你干嘛在乎别人怎么想",
+      "path": "你干嘛在乎别人怎么想.md"
+    },
+    {
+      "basename": "git merge",
+      "path": "git merge.md"
+    },
+    {
+      "basename": "Repository",
+      "path": "Repository.md"
+    },
+    {
+      "basename": "git status",
+      "path": "git status.md"
+    },
+    {
+      "basename": "git push",
+      "path": "git push.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "git pull.md"
+    },
+    {
+      "basename": "git init",
+      "path": "git init.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "git commit.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "git branch.md"
+    },
+    {
+      "basename": "git add",
+      "path": "git add.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "理查德·费曼传",
+      "path": "理查德·费曼传.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "费曼学习法.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "阅读是一座随身携带的避难所",
+      "path": "阅读是一座随身携带的避难所.md"
+    },
+    {
+      "basename": "Sloping vs. Horizontal Top Tube",
+      "path": "Sloping vs. Horizontal Top Tube.md"
     },
     {
       "basename": "Reach",
@@ -47,10 +103,6 @@
     {
       "basename": "V-Brakes vs. Center Pull Brakes",
       "path": "V-Brakes vs. Center Pull Brakes.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     },
     {
       "basename": "zoom",
@@ -147,58 +199,6 @@
     {
       "basename": "Seat Angel",
       "path": "Seat Angel.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "head angle（Steerer Angle）",
-      "path": "head angle（Steerer Angle）.md"
-    },
-    {
-      "basename": "Top Tube Length",
-      "path": "Top Tube Length.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "能力圈",
-      "path": "能力圈.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "2022-04-27",
-      "path": "DailyNotes/2022-04-27.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "DailyNotes/2021-12-13.md"
-    },
-    {
-      "basename": "地图不是领土",
-      "path": "地图不是领土.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
-    },
-    {
-      "basename": "基本Q",
-      "path": "基本Q.md"
     }
   ],
   "omittedPaths": [],
