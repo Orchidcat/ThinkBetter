@@ -30,3 +30,99 @@ specified by a PARTITION FUNCTION with individual partitions mapped to file grou
 SCHEME.
 
 
+
+#SQLServer2008 
+1. Enhancement in existing DATE and TIME Data Types
+2. New functions like – SYSUTCDATETIME() and SYSDATETIMEOFFSET()
+3. Spare Columns – To save a significant amount of disk space.
+4. Large User Defined Types (up to 2 GB in size)
+5. Introduced a new feature to pass a table datatype into stored procedures and functions
+6. New MERGE command for INSERT, UPDATE and DELETE operations
+7. New HierarchyID datatype
+8. Spatial datatypes - To represent the physical location and shape of any geometric object.
+9. Faster queries and reporting with GROUPING SETS - An extension to the GROUP BY clause.
+10. Enhancement to FILESTREAM storage option
+
+
+#SQLServer2008-R2 
+1. PowerPivot – For processing large data sets.
+2. Report Builder 3.0
+3. Cloud ready
+4. StreamInsight
+5. Master Data Services
+6. SharePoint Integration
+7. DACPAC (Data-tier Application Component Packages)
+8. Enhancement in other features of SQL Server 2008
+
+
+#SQLServer2012 
+1. Column store indexes - reduces I/O and memory utilization on large queries.
+2. Pagination - pagination can be done by using “OFFSET” and “FETCH’ commands.
+3. Contained database – Great feature for periodic data migrations.
+4. AlwaysOn Availability Groups
+5. Windows Server Core Support
+6. User-Defined Server Roles
+7. Big Data Support
+8. PowerView
+9. SQL Azure Enhancements
+10. Tabular Model (SSAS)
+11. DQS Data quality services
+12. File Table - an enhancement to the FILESTREAM feature which was introduced in 2008.
+13. Enhancement in Error Handling including THROW statement
+14. Improvement to SQL Server Management Studio Debugging a. SQL Server 2012 introduces more options to
+control breakpoints. b. Improvements to debug-mode windows
+c. Enhancement in IntelliSense - like Inserting Code Snippets.
+
+
+
+#SQLServer2014
+1. In-Memory OLTP Engine – Improves performance up to 20 times.
+2. AlwaysOn Enhancements
+3. Buffer Pool Extension
+4. Hybrid Cloud Features
+5. Enhancement in Column store Indexes (like Updatable Column store Indexes)
+6. Query Handling Enhancements (like parallel SELECT INTO)
+7. Power BI for Office 365 Integration
+8. Delayed durability
+9. Enhancements for Database Backups
+
+
+#SQLServer2016
+1. Always Encrypted - Always Encrypted is designed to protect data at rest or in motion.
+2. Real-time Operational Analytics
+3. PolyBase into SQL Server
+4. Native JSON Support
+5. Query Store
+6. Enhancements to AlwaysOn
+7. Enhanced In-Memory OLTP
+8. Multiple TempDB Database Files
+9. Stretch Database
+10. Row Level Security
+11. In-Memory Enhancements
+
+#SQLServer2016  #TSQL
+1. TRUNCATE TABLE with PARTITION
+2. DROP IF EXISTS
+3. STRING_SPLIT and STRING_ESCAPE Functions
+4. ALTER TABLE can now alter many columns while the table remains online, using WITH (ONLINE = ON | OFF).
+5. MAXDOP for DBCC CHECKDB, DBCC CHECKTABLE and DBCC CHECKFILEGROUP
+6. ALTER DATABASE SET AUTOGROW_SINGLE_FILE
+7. ALTER DATABASE SET AUTOGROW_ALL_FILES
+8. COMPRESS and DECOMPRESS Functions
+9. FORMATMESSAGE Statement
+10. 2016 introduces 8 more properties with SERVERPROPERTY
+a. InstanceDefaultDataPath
+b. InstanceDefaultLogPath
+c. ProductBuild
+d. ProductBuildType
+e. ProductMajorVersion
+f. ProductMinorVersion
+g. ProductUpdateLevel
+h. ProductUpdateReference
+
+
+#SQLServer2017
+
+#SQLServer2019 
+
+#SQLServer2022
