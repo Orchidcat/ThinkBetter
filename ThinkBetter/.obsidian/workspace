@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Server 2000~2016 Evolution.md",
+            "file": "SQL Server MOC.md",
             "mode": "source",
             "source": false
           }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Server 2000~2016 Evolution.md"
+                "file": "SQL Server MOC.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Server 2000~2016 Evolution.md",
+                "file": "SQL Server MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +157,15 @@
   },
   "active": "a9b6923ec269d08b",
   "lastOpenFiles": [
-    "SQL Server 2000~2016 Evolution.md",
     "SQL Server MOC.md",
     "+Home.md",
+    "Templates/Template - 读书.md",
+    "SQL Server 2000~2016 Evolution.md",
     "你干嘛在乎别人怎么想.md",
     "如何对抗焦虑.md",
     "Git MOC.md",
     "自行车几何学.md",
     "Bike MOC.md",
-    "项目 MOC.md",
-    "读书 MOC.md"
+    "项目 MOC.md"
   ]
 }

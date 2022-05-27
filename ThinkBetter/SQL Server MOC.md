@@ -13,6 +13,7 @@
 - FILESTREAM   (貌似已经半死不活了)
 - Dynamic SQL Pivot
 - Sequences
+- TRY/CATCH
 
 
 [[SQL Server 2000~2016 Evolution]]
@@ -22,11 +23,13 @@ http://sqlbuilds.ekelmans.com
 https://sqlserverbuilds.blogspot.com/ 
 
 
+
+
 Azure #Azure
 
 
 
 
-#DataBase #SQLServer #SQLServer/2000 
+#DataBase #SQLServer #MOC 
 
 
