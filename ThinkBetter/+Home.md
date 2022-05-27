@@ -37,6 +37,9 @@ hide task count
 	- [[兴趣 MOC]]
 	- [[人物 MOC]]
 
+- 数据库 🍻
+	- [[SQL Server MOC]]
+
 - 编程💻
 	- [[Git MOC]] 
 	- Vue https://staging-cn.vuejs.org/guide/introduction.html
