@@ -22,7 +22,7 @@ SQL Server 目前版本
 http://sqlbuilds.ekelmans.com 
 https://sqlserverbuilds.blogspot.com/ 
 
-
+[[NewVersion]]
 
 
 Azure #Azure

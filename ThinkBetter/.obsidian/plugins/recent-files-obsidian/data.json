@@ -5,6 +5,10 @@
       "path": "SQL Server MOC.md"
     },
     {
+      "basename": "NewVersion",
+      "path": "NewVersion.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Front Centre",
       "path": "Front Centre.md"
-    },
-    {
-      "basename": "ChainStay",
-      "path": "ChainStay.md"
     }
   ],
   "omittedPaths": [],
