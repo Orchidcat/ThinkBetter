@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
       "basename": "Git MOC",
       "path": "Git MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actual Seat Tube Angel",
       "path": "Actual Seat Tube Angel.md"
-    },
-    {
-      "basename": "Seat Angel",
-      "path": "Seat Angel.md"
     }
   ],
   "omittedPaths": [],
