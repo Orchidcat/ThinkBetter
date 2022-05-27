@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server 2000~2016 Evolution",
+      "path": "SQL Server 2000~2016 Evolution.md"
+    },
+    {
       "basename": "SQL Server MOC",
       "path": "SQL Server MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Head Tube",
       "path": "Head Tube.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "Stack.md"
     }
   ],
   "omittedPaths": [],
