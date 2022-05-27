@@ -14,6 +14,7 @@
 - Dynamic SQL Pivot
 - Sequences
 - TRY/CATCH
+- ## [The Top Feature Requests for SQL Server](https://www.brentozar.com/archive/2022/05/the-top-feature-requests-for-sql-server/)
 
 
 [[SQL Server 2000~2016 Evolution]]
