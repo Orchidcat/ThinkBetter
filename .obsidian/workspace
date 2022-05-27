@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/+Home.md",
+            "file": "ThinkBetter/100种心智模型.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/+Home.md"
+                "file": "ThinkBetter/100种心智模型.md"
               }
             }
           }
@@ -104,6 +104,8 @@
   },
   "active": "af4fc36db39e4a56",
   "lastOpenFiles": [
+    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/读书 MOC.md",
     "+HomeMOC.md",
@@ -111,8 +113,6 @@
     "ThinkBetter/Bike MOC.md",
     "ThinkBetter/项目 MOC.md",
     "ThinkBetter/人物 MOC.md",
-    "README.md",
-    "未命名.md",
-    "未命名 1.md"
+    "README.md"
   ]
 }
