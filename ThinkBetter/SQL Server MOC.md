@@ -2,3 +2,4 @@
 - [ ] query Store
 - [ ] natively compile models(#hekaton)
 - [ ] JSON
+- [ ] DBCC HELP ('?');
