@@ -126,3 +126,22 @@ h. ProductUpdateReference
 #SQLServer/2019
 
 #SQLServer/2022
+## 性能改进
+
+SQL Server 2022 中有两个值得注意的新性能特性。首先，我们有一个称为智能查询处理的新特性集。此功能使 SQL Server 能够构建更好的执行计划和可能的多个执行计划，其性能取决于运行时提供的参数值。
+
+旧版本的 SQL Server 会经常为查询使用单个执行计划，尽管运行时参数值仅针对查询的第一次执行进行了优化，从而确保查询的所有后续运行都表现不佳。
+
+其次，Microsoft 对 Query Store 进行了急需的改进。例如，现在为所有新数据库启用了查询存储。另一个很酷的功能是查询存储现在可以帮助解决与 MAXDOP（最大并行度）设置、内存授予和基数估计器相关的性能问题，使用反馈周期来适应和改进查询执行计划。最后，查询存储现在支持可用性组 (AG) 只读副本，并直接在查询存储中启用查询提示，以提高查询的性能，而无需进行实际的代码更改。
+
+## 高可用性和连接改进
+
+SQL Server 2022 中的高可用性通过允许您在本地 SQL Server 和 Azure SQL 托管实例 (MI) 之间快速轻松地创建分布式 AG 以用作灾难恢复备份服务器或用作只读副本报告工作量。您还可以手动故障转移到 MI 并只需单击几下即可再次返回到本地 SQL Server。（请注意，分布式 AG 与标准 AG 不同。先决条件和功能可能会有所不同。）
+
+SQL Server 2022 和 Azure Synapse Analytics 之间建立的另一个连接称为 Azure Synapse Link，它允许 SQL Server 2022 自动将 SQL Server 中发生的数据更改直接提供给 Azure Synapse Analytics，而无需创建新的主要 ETL 管道。
+
+## 安全和治理改进
+
+还记得所有关于区块链的炒作吗？虽然我从来都不是这项技术的粉丝，但它确实为特定应用程序提供了有用的功能。输入 SQL Server 分类帐。新功能使用“区块链”技术随着时间的推移创建不可变的数据修改跟踪记录。这可以保护数据不被篡改，这对于某些情况和用例很有用，并且还为内部和外部审计提供了优势。最后，在之前的文章中，我描述了一个名为 Azure Purview 的新治理工具 ( [www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance -145167.aspx](http://www.dbta.com/Columns/SQL-Server-Drill-Down/Introducing-Azure-Purview-Microsofts-Next-Generation-of-Data-Governance-145167.aspx)）。Microsoft 已将其初始功能集扩展到更广泛的数据治理平台。Purview 现在提供与 SQL Server 和 Azure SQL 的更紧密集成，以便您可以自动扫描 SQL Server 以捕获元数据、使用通用分类器标签和标记（例如 PII 数据或 HIPAA 数据）对数据进行分类，以及配置和控制特定的访问权限和特权从单个 Azure Purview 控制台到 SQL Server。
+
+立即观看 Microsoft Ignite 会议或 PASS 数据社区峰会的视频，深入了解。并通过申请加入私人预览版来试驾新版本。
