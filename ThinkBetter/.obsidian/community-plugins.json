@@ -16,5 +16,7 @@
   "dataview",
   "obsidian-zoom",
   "obsidian-excalidraw-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-icons-plugin",
+  "convert-url-to-iframe"
 ]
