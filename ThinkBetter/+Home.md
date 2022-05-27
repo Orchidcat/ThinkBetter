@@ -41,7 +41,7 @@ hide task count
 	- Oracle MOC
 	- [[SQL Server MOC]]
 	- MySQL MOC
-	- 
+	- Redis MOC
 
 - 编程💻
 	- [[Git MOC]] 

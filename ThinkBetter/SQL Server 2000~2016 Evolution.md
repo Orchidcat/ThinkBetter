@@ -1,4 +1,4 @@
-#SQLServer2000 
+#SQLServer/2000
 1. New data types were added (BIGINT, SQL_VARIANT, TABLE)
 2. Instead of and for Triggers were introduced as advancement to the DDL.
 3. Cascading referential integrity.
@@ -7,7 +7,7 @@
 6. Indexed Views (Allowing index on views with computed columns).
 
 
-#SQLServer2005
+#SQLServer/2005
 1. Enhancement in TOP clause with “WITH TIES” option.
 2. Data Manipulation Commands (DML) and OUTPUT clause to get INSERTED and DELETED values
 3. The PIVOT and UNPIVOT operators.
@@ -31,7 +31,7 @@ SCHEME.
 
 
 
-#SQLServer2008 
+#SQLServer/2008
 1. Enhancement in existing DATE and TIME Data Types
 2. New functions like – SYSUTCDATETIME() and SYSDATETIMEOFFSET()
 3. Spare Columns – To save a significant amount of disk space.
@@ -44,7 +44,7 @@ SCHEME.
 10. Enhancement to FILESTREAM storage option
 
 
-#SQLServer2008-R2 
+#SQLServer/2008R2
 1. PowerPivot – For processing large data sets.
 2. Report Builder 3.0
 3. Cloud ready
@@ -55,7 +55,7 @@ SCHEME.
 8. Enhancement in other features of SQL Server 2008
 
 
-#SQLServer2012 
+#SQLServer/2012
 1. Column store indexes - reduces I/O and memory utilization on large queries.
 2. Pagination - pagination can be done by using “OFFSET” and “FETCH’ commands.
 3. Contained database – Great feature for periodic data migrations.
@@ -75,7 +75,7 @@ c. Enhancement in IntelliSense - like Inserting Code Snippets.
 
 
 
-#SQLServer2014
+#SQLServer/2014
 1. In-Memory OLTP Engine – Improves performance up to 20 times.
 2. AlwaysOn Enhancements
 3. Buffer Pool Extension
@@ -87,7 +87,7 @@ c. Enhancement in IntelliSense - like Inserting Code Snippets.
 9. Enhancements for Database Backups
 
 
-#SQLServer2016
+#SQLServer/2016
 1. Always Encrypted - Always Encrypted is designed to protect data at rest or in motion.
 2. Real-time Operational Analytics
 3. PolyBase into SQL Server
@@ -100,7 +100,7 @@ c. Enhancement in IntelliSense - like Inserting Code Snippets.
 10. Row Level Security
 11. In-Memory Enhancements
 
-#SQLServer2016  #TSQL
+#SQLServer/2016  #TSQL
 1. TRUNCATE TABLE with PARTITION
 2. DROP IF EXISTS
 3. STRING_SPLIT and STRING_ESCAPE Functions
@@ -121,8 +121,8 @@ g. ProductUpdateLevel
 h. ProductUpdateReference
 
 
-#SQLServer2017
+#SQLServer/2017
 
-#SQLServer2019 
+#SQLServer/2019
 
-#SQLServer2022
+#SQLServer/2022
