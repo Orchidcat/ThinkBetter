@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/第一性原理.md",
+            "file": "ThinkBetter/100种心智模型.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/第一性原理.md"
+                "file": "ThinkBetter/100种心智模型.md"
               }
             }
           }
@@ -104,15 +104,15 @@
   },
   "active": "7c0811806351327a",
   "lastOpenFiles": [
-    "ThinkBetter/第一性原理.md",
     "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/倒置.md",
+    "ThinkBetter/地图不是领土.md",
+    "ThinkBetter/奥卡姆剃刀.md",
+    "ThinkBetter/第一性原理.md",
     "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
     "不对称战争.md",
-    "看到前线.md",
-    "ThinkBetter/汉隆剃刀.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/+Home.md"
+    "看到前线.md"
   ]
 }
