@@ -1,5 +1,5 @@
 {
   "legacyEditor": false,
-  "foldIndent": false,
-  "foldHeading": false
+  "foldIndent": true,
+  "foldHeading": true
 }

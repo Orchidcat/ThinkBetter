@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb3e05df320893de",
+        "id": "7c0811806351327a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "平叛.md",
+            "file": "ThinkBetter/100种心智模型.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "平叛.md"
+                "file": "ThinkBetter/100种心智模型.md"
               }
             }
           }
@@ -103,12 +103,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb3e05df320893de",
+  "active": "7c0811806351327a",
   "lastOpenFiles": [
+    "ThinkBetter/100种心智模型.md",
     "平叛.md",
     "双线战争.md",
     "不对称战争.md",
-    "ThinkBetter/100种心智模型.md",
     "看到前线.md",
     "ThinkBetter/汉隆剃刀.md",
     "ThinkBetter/心智模型 MOC.md",
