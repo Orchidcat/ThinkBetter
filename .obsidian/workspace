@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "相互保证毁灭.md",
+            "file": "ThinkBetter/第一性原理.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自行车",
+                "query": "tag:#巴菲特",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相互保证毁灭.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -105,15 +104,15 @@
   },
   "active": "7c0811806351327a",
   "lastOpenFiles": [
-    "相互保证毁灭.md",
+    "ThinkBetter/第一性原理.md",
     "ThinkBetter/100种心智模型.md",
+    "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
     "不对称战争.md",
     "看到前线.md",
     "ThinkBetter/汉隆剃刀.md",
     "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/+Home.md",
-    "ThinkBetter/读书 MOC.md"
+    "ThinkBetter/+Home.md"
   ]
 }
