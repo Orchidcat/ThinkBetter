@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "嫉妒",
+      "path": "嫉妒.md"
+    },
+    {
       "basename": "巴浦洛夫协会",
       "path": "巴浦洛夫协会.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Trail",
       "path": "Trail.md"
-    },
-    {
-      "basename": "Fork Rake（Fork Offset）",
-      "path": "Fork Rake（Fork Offset）.md"
     }
   ],
   "omittedPaths": [],
