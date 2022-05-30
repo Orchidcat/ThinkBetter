@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
+            "file": "信任.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "信任.md"
               }
             }
           }
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "信任.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +158,7 @@
   },
   "active": "a9b6923ec269d08b",
   "lastOpenFiles": [
+    "信任.md",
     "100种心智模型.md",
     "DailyNotes/2022-05-30.md",
     "NotToDo.md",
@@ -165,7 +167,6 @@
     "NewVersion.md",
     "+Home.md",
     "Templates/Template - 读书.md",
-    "你干嘛在乎别人怎么想.md",
-    "如何对抗焦虑.md"
+    "你干嘛在乎别人怎么想.md"
   ]
 }

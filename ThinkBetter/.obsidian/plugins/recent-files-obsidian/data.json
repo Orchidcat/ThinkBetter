@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "信任",
+      "path": "信任.md"
+    },
+    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BB Drop",
       "path": "BB Drop.md"
-    },
-    {
-      "basename": "Standover",
-      "path": "Standover.md"
     }
   ],
   "omittedPaths": [],
