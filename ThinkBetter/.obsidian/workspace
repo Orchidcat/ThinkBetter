@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b6923ec269d08b",
+        "id": "47f64553826a3a23",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "对激励的偏见.md",
+            "file": "巴浦洛夫协会.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "对激励的偏见.md"
+                "file": "巴浦洛夫协会.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "对激励的偏见.md",
+                "file": "巴浦洛夫协会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +156,9 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "a9b6923ec269d08b",
+  "active": "47f64553826a3a23",
   "lastOpenFiles": [
+    "巴浦洛夫协会.md",
     "对激励的偏见.md",
     "信任.md",
     "100种心智模型.md",
@@ -166,7 +167,6 @@
     "SQL Server MOC.md",
     "SQL Server 2000~2016 Evolution.md",
     "NewVersion.md",
-    "+Home.md",
-    "Templates/Template - 读书.md"
+    "+Home.md"
   ]
 }
