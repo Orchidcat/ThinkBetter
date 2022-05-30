@@ -7,8 +7,12 @@
         "id": "1f05c90652018c38",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           }
         ]
@@ -121,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +159,7 @@
   },
   "active": "1f05c90652018c38",
   "lastOpenFiles": [
+    "+Home.md",
     "嫉妒与妒忌.md",
     "巴浦洛夫协会.md",
     "对激励的偏见.md",
@@ -160,7 +168,6 @@
     "DailyNotes/2022-05-30.md",
     "NotToDo.md",
     "SQL Server MOC.md",
-    "SQL Server 2000~2016 Evolution.md",
-    "NewVersion.md"
+    "SQL Server 2000~2016 Evolution.md"
   ]
 }
