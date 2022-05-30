@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "嫉妒.md",
+            "file": "嫉妒与妒忌.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嫉妒.md"
+                "file": "嫉妒与妒忌.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嫉妒.md",
+                "file": "嫉妒与妒忌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
   },
   "active": "47f64553826a3a23",
   "lastOpenFiles": [
-    "嫉妒.md",
+    "嫉妒与妒忌.md",
     "巴浦洛夫协会.md",
     "对激励的偏见.md",
     "信任.md",
