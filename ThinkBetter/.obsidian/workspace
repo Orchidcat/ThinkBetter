@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyNotes/2022-05-30.md",
+            "file": "NotToDo.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2022-05-30.md"
+                "file": "NotToDo.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-05-30.md",
+                "file": "NotToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "a9b6923ec269d08b",
   "lastOpenFiles": [
+    "NotToDo.md",
     "DailyNotes/2022-05-30.md",
     "SQL Server MOC.md",
     "SQL Server 2000~2016 Evolution.md",
@@ -165,7 +166,6 @@
     "Templates/Template - 读书.md",
     "你干嘛在乎别人怎么想.md",
     "如何对抗焦虑.md",
-    "Git MOC.md",
-    "自行车几何学.md"
+    "Git MOC.md"
   ]
 }
