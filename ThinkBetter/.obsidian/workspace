@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotToDo.md",
+            "file": "DailyNotes/2022-05-30.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotToDo.md"
+                "file": "DailyNotes/2022-05-30.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotToDo.md",
+                "file": "DailyNotes/2022-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,8 @@
   },
   "active": "a9b6923ec269d08b",
   "lastOpenFiles": [
-    "NotToDo.md",
     "DailyNotes/2022-05-30.md",
+    "NotToDo.md",
     "SQL Server MOC.md",
     "SQL Server 2000~2016 Evolution.md",
     "NewVersion.md",
