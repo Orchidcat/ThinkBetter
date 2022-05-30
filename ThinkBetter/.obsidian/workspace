@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47f64553826a3a23",
+        "id": "1f05c90652018c38",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "嫉妒与妒忌.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "嫉妒与妒忌.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -127,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嫉妒与妒忌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +150,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "47f64553826a3a23",
+  "active": "1f05c90652018c38",
   "lastOpenFiles": [
     "嫉妒与妒忌.md",
     "巴浦洛夫协会.md",
