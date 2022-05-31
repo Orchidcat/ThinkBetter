@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "SQL Server MOC.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "SQL Server MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "SQL Server MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "fa7abde1887273ea",
   "lastOpenFiles": [
+    "SQL Server MOC.md",
     "+Home.md",
     "嫉妒与妒忌.md",
     "巴浦洛夫协会.md",
@@ -167,7 +168,6 @@
     "100种心智模型.md",
     "DailyNotes/2022-05-30.md",
     "NotToDo.md",
-    "SQL Server MOC.md",
     "SQL Server 2000~2016 Evolution.md"
   ]
 }
