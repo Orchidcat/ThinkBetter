@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "2022-06-01.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 29.027576197387518,
+        "dimension": 58.333333333333336,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -40,7 +40,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 70.97242380261248,
+        "dimension": 41.66666666666667,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "2022-06-01.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "2022-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "57da2b7d8f2a0b26",
   "lastOpenFiles": [
+    "2022-06-01.md",
     "+Home.md",
     "SQL Server MOC.md",
     "嫉妒与妒忌.md",
@@ -167,7 +168,6 @@
     "信任.md",
     "100种心智模型.md",
     "DailyNotes/2022-05-30.md",
-    "NotToDo.md",
-    "SQL Server 2000~2016 Evolution.md"
+    "NotToDo.md"
   ]
 }

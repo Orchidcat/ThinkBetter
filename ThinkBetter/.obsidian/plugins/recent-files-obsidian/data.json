@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-01",
+      "path": "2022-06-01.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Seatpost Size（diameter）",
       "path": "Seatpost Size（diameter）.md"
-    },
-    {
-      "basename": "Trail",
-      "path": "Trail.md"
     }
   ],
   "omittedPaths": [],
