@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "100种心智模型.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "100种心智模型.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "100种心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,8 @@
   },
   "active": "515d1495c09ef02e",
   "lastOpenFiles": [
+    "100种心智模型.md",
+    "心智模型 MOC.md",
     "+Home.md",
     "2022-06-01.md",
     "SQL Server MOC.md",
@@ -166,8 +168,6 @@
     "巴浦洛夫协会.md",
     "对激励的偏见.md",
     "信任.md",
-    "100种心智模型.md",
-    "DailyNotes/2022-05-30.md",
-    "NotToDo.md"
+    "DailyNotes/2022-05-30.md"
   ]
 }
