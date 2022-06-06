@@ -14,6 +14,18 @@ datawindow是一个对象的集合。
 	- table(...)
 - 对象定义
 	- text(...)
-	- colu
+	- column(...)
+	- line(...)
 - HTML/XML属性
+	- htmltable(...)
+		xhtmlgen() cssgen(sessionspecific="0" )
+		xmlgen(inline="0" )
+		xsltgen()
+		jsgen()
+		export.xml(headgroups="1" includewhitespace="0" metadatatype=0 savemetadata=0 )
+		import.xml()
+		export.pdf(method=0 distill.custompostscript="0" xslfop.print="0" )
+		export.xhtml()
+
+使用Modify()针对对象进行修改。
 
