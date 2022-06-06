@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
+            "file": "SQL Server MOC.md",
             "mode": "source",
             "source": false
           }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "SQL Server MOC.md"
               }
             }
           }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "SQL Server MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +158,15 @@
   },
   "active": "515d1495c09ef02e",
   "lastOpenFiles": [
-    "100种心智模型.md",
-    "心智模型 MOC.md",
-    "+Home.md",
-    "2022-06-01.md",
     "SQL Server MOC.md",
+    "+Home.md",
+    "100种心智模型.md",
+    "第一性原理.md",
+    "心智模型 MOC.md",
+    "2022-06-01.md",
     "嫉妒与妒忌.md",
     "巴浦洛夫协会.md",
     "对激励的偏见.md",
-    "信任.md",
-    "DailyNotes/2022-05-30.md"
+    "信任.md"
   ]
 }

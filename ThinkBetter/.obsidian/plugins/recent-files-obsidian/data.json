@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
     },
     {
-      "basename": "2022-06-01",
-      "path": "2022-06-01.md"
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
     },
     {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "2022-06-01",
+      "path": "2022-06-01.md"
     },
     {
       "basename": "嫉妒与妒忌",
@@ -195,10 +199,6 @@
     {
       "basename": "Seatpost Length",
       "path": "Seatpost Length.md"
-    },
-    {
-      "basename": "Seatpost Size（diameter）",
-      "path": "Seatpost Size（diameter）.md"
     }
   ],
   "omittedPaths": [],
