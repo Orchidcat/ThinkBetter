@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "latch",
+      "path": "latch.md"
+    },
+    {
       "basename": "自旋锁",
       "path": "自旋锁.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Actual Top tube length",
       "path": "Actual Top tube length.md"
-    },
-    {
-      "basename": "Wheel Size",
-      "path": "Wheel Size.md"
     }
   ],
   "omittedPaths": [],
