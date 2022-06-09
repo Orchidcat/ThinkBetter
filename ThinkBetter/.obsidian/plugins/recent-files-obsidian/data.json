@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-09",
+      "path": "2022-06-09.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
     },
     {
       "basename": "PowerBuilder MOC",
@@ -191,14 +199,6 @@
     {
       "basename": "Crank Length",
       "path": "Crank Length.md"
-    },
-    {
-      "basename": "Stem Length",
-      "path": "Stem Length.md"
-    },
-    {
-      "basename": "Handlebar Width",
-      "path": "Handlebar Width.md"
     }
   ],
   "omittedPaths": [],
