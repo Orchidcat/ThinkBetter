@@ -6,8 +6,16 @@
 SQL Server In-Memory OLTP能够创建和使用经过内存优化的表，并高效地管理这些表，从而为OLTP工作负载提供性能优化。使用真正的**多版本乐观并发控制**访问它们，在处理期间**不需要锁或锁存**。所有In-Memory OLTP内存优化表必须**至少有一个索引，所有访问都是通过索引进行的**。内存中OLTP内存优化的表可以在与基于磁盘的表相同的事务中引用，只有一些限制。**本地编译的存储过程是访问内存优化表和性能业务逻辑计算的最快方式**。
 
 ### 创建过程
-- 
+```sql
+--创建数据库
+USE Master;
+GO CREATE DATABASE IMDB ON PRIMARY (NAME = IMDB_data, FILENAME = 'C:\HKData\IMDB_data.mdf'), FILEGROUP IMDB_mod_FG CONTAINS MEMORY_OPTIMIZED_DATA (NAME = IMDB_mod, FILENAME = 'C:\HKData\IMDB_mod');
 
+--为现有数据库添加 MEMORY_OPTIMIZED_DATA 文件组
+ALTER DATABASE AdventureWorks2016 ADD FILEGROUP AW_mod_FG CONTAINS MEMORY_OPTIMIZED_DATA; GO 
+ALTER DATABASE AdventureWorks2016 ADD FILE (NAME='AW_mod', FILENAME='C:\HKData\AW_mod') TO FILEGROUP AW_mod_FG; 
+GO
+```
 
 ### Best Practice 
 #### Index Tuning
@@ -30,3 +38,11 @@ SQL Server In-Memory OLTP能够创建和使用经过内存优化的表，并高�
 	- 在查询处理期间不会多次访问同一行。基于磁盘的表上，使用 spooling 操作符来进行确保不会重复访问行。但对内存优化表来说，这不是必需的。在存储引擎中包含有状态ID，行版本中存储了该ID，如果同样的状态再次被计数，即可知道是否已经重复。
 	- 在 #SQLServer/2016 中，若没有可用索引，将会在 varheap memory中对内存优化表进行表扫描。 （可进行并行扫描）
 
+
+
+
+- 找出所有具有内存优化表的数据库
+```sql
+EXEC sp_MSforeachdb 'USE ? IF EXISTS (SELECT 1 FROM sys.filegroups FG JOIN sys.database_files F ON FG.data_space_id = F.data_space_id WHERE FG.type = ''FX'' AND F.type = 2) PRINT ''?'' + '' can contain memory-optimized tables.'' '; 
+GO
+```
