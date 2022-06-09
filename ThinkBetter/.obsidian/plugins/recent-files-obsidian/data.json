@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
+      "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
+    },
+    {
       "basename": "2022-06-09",
       "path": "2022-06-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BB Type（Bottom Bracket Type）",
       "path": "BB Type（Bottom Bracket Type）.md"
-    },
-    {
-      "basename": "Crank Length",
-      "path": "Crank Length.md"
     }
   ],
   "omittedPaths": [],
