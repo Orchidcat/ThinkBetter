@@ -1,2 +1,4 @@
-#SQLServer  #SQLServer/2016 
+#SQLServer  #SQLServer/2016 #SQLServer/Hekaton
+
+
 
