@@ -5,6 +5,10 @@
       "path": "自旋锁.md"
     },
     {
+      "basename": "退避机制",
+      "path": "退避机制.md"
+    },
+    {
       "basename": "SQL Server 中查询执行周期",
       "path": "SQL Server 中查询执行周期.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wheel Size",
       "path": "Wheel Size.md"
-    },
-    {
-      "basename": "Fork Length",
-      "path": "Fork Length.md"
     }
   ],
   "omittedPaths": [],

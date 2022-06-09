@@ -159,6 +159,7 @@
   "active": "83ffa35a10886dae",
   "lastOpenFiles": [
     "自旋锁.md",
+    "退避机制.md",
     "SQL Server 中查询执行周期.md",
     "SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
     "2022-06-09.md",
@@ -166,7 +167,6 @@
     "未命名 1.md",
     "PowerBuilder MOC.md",
     "SQL Server MOC.md",
-    "SQL Server 2000~2016 Evolution.md",
-    "NewVersion.md"
+    "SQL Server 2000~2016 Evolution.md"
   ]
 }
