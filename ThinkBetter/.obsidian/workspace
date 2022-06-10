@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06-10.md",
+            "file": "DailyNotes/2022-06-10.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 58.333333333333336,
+        "dimension": 33.286318758815234,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -40,7 +40,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 41.666666666666664,
+        "dimension": 66.71368124118476,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
+    "width": 497,
     "collapsed": true
   },
   "right": {
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06-10.md"
+                "file": "DailyNotes/2022-06-10.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-10.md",
+                "file": "DailyNotes/2022-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,14 +158,14 @@
   },
   "active": "cd0d3268d892aedc",
   "lastOpenFiles": [
-    "2022-06-10.md",
+    "DailyNotes/2022-06-10.md",
     "+Home.md",
     "latch.md",
     "自旋锁.md",
     "退避机制.md",
     "SQL Server 中查询执行周期.md",
     "SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
-    "2022-06-09.md",
+    "DailyNotes/2022-06-09.md",
     "未命名 1.md",
     "PowerBuilder MOC.md"
   ]
