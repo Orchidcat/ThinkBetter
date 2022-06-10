@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-10",
+      "path": "2022-06-10.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Seat tube length",
       "path": "Seat tube length.md"
-    },
-    {
-      "basename": "Actual Top tube length",
-      "path": "Actual Top tube length.md"
     }
   ],
   "omittedPaths": [],
