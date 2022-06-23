@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "2022-06-23.md",
             "mode": "source",
             "source": false
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497,
-    "collapsed": true
+    "width": 497
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "2022-06-23.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "2022-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +157,7 @@
   },
   "active": "dd65ae6804c83a6b",
   "lastOpenFiles": [
+    "2022-06-23.md",
     "+Home.md",
     "2022-06-14.md",
     "DailyNotes/2022-06-10.md",
@@ -166,7 +166,6 @@
     "退避机制.md",
     "SQL Server 中查询执行周期.md",
     "SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
-    "DailyNotes/2022-06-09.md",
-    "未命名 1.md"
+    "DailyNotes/2022-06-09.md"
   ]
 }
