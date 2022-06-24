@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8999fc0b9ebc38",
-        "type": "split",
-        "children": [
-          {
-            "id": "23c8513733866bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "容易疲惫怎么办.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a93381209913fcaf",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "c5df03e3ad929a36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "容易疲惫怎么办.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -171,17 +156,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "23c8513733866bac",
+  "active": "c5df03e3ad929a36",
   "lastOpenFiles": [
     "容易疲惫怎么办.md",
+    "未命名 2.md",
+    "+Home.md",
     "未命名 3.md",
     "mindmap.md",
-    "+Home.md",
     "2022-06-23.md",
     "2022-06-14.md",
     "DailyNotes/2022-06-10.md",
     "latch.md",
-    "自旋锁.md",
-    "退避机制.md"
+    "自旋锁.md"
   ]
 }
