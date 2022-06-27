@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "原则.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "原则.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +158,10 @@
   },
   "active": "85c8332adac92c52",
   "lastOpenFiles": [
+    "原则.md",
     "读书 MOC.md",
     "别闹了，费曼先生.md",
     "+Home.md",
-    "原则.md",
     "未命名 5.md",
     "未命名 4.md",
     "2022-06-27.md",
