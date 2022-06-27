@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "2022-06-27.md",
             "mode": "source",
             "source": false
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168,
-    "collapsed": true
+    "width": 168
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "2022-06-27.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +157,7 @@
   },
   "active": "c2333692de37fcb2",
   "lastOpenFiles": [
+    "2022-06-27.md",
     "+Home.md",
     "容易疲惫怎么办.md",
     "未命名 2.md",
@@ -166,7 +166,6 @@
     "2022-06-23.md",
     "2022-06-14.md",
     "DailyNotes/2022-06-10.md",
-    "latch.md",
-    "自旋锁.md"
+    "latch.md"
   ]
 }
