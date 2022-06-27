@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-06-27.md",
+            "file": "原则.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06-27.md"
+                "file": "原则.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-27.md",
+                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "c2333692de37fcb2",
   "lastOpenFiles": [
+    "原则.md",
     "2022-06-27.md",
     "+Home.md",
     "容易疲惫怎么办.md",
@@ -165,7 +166,6 @@
     "mindmap.md",
     "2022-06-23.md",
     "2022-06-14.md",
-    "DailyNotes/2022-06-10.md",
-    "latch.md"
+    "DailyNotes/2022-06-10.md"
   ]
 }
