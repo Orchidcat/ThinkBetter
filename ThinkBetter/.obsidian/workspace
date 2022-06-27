@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5df03e3ad929a36",
+        "id": "c2333692de37fcb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "容易疲惫怎么办.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "容易疲惫怎么办.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "容易疲惫怎么办.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +156,11 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "c5df03e3ad929a36",
+  "active": "c2333692de37fcb2",
   "lastOpenFiles": [
+    "+Home.md",
     "容易疲惫怎么办.md",
     "未命名 2.md",
-    "+Home.md",
     "未命名 3.md",
     "mindmap.md",
     "2022-06-23.md",
