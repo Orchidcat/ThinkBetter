@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8aec9462897178d",
+        "id": "4c6df9585ab1eccf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "原则.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -93,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168,
-    "collapsed": true
+    "width": 454
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "原则.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +148,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "c8aec9462897178d",
+  "active": "4c6df9585ab1eccf",
   "lastOpenFiles": [
+    "未命名 4.md",
+    "未命名.md",
+    "未命名 1.md",
+    "2022-06-28.md",
     "原则.md",
+    "Templates/Template - 日记.md",
     "大脑构成.md",
     "OB超链接方式列表.md",
     "+Home.md",
-    "未命名 6.md",
-    "读书 MOC.md",
-    "别闹了，费曼先生.md",
-    "未命名 5.md",
-    "未命名 4.md",
-    "2022-06-27.md"
+    "未命名 6.md"
   ]
 }

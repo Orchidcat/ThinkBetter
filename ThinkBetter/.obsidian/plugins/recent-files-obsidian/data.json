@@ -5,6 +5,10 @@
       "path": "原则.md"
     },
     {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
       "basename": "大脑构成",
       "path": "大脑构成.md"
     },
@@ -17,10 +21,6 @@
       "path": "+Home.md"
     },
     {
-      "basename": "未命名 6",
-      "path": "未命名 6.md"
-    },
-    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -29,28 +29,12 @@
       "path": "别闹了，费曼先生.md"
     },
     {
-      "basename": "未命名 5",
-      "path": "未命名 5.md"
-    },
-    {
-      "basename": "未命名 4",
-      "path": "未命名 4.md"
-    },
-    {
       "basename": "2022-06-27",
-      "path": "2022-06-27.md"
+      "path": "DailyNotes/2022-06-27.md"
     },
     {
       "basename": "容易疲惫怎么办",
       "path": "容易疲惫怎么办.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "未命名 2.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "未命名 3.md"
     },
     {
       "basename": "mindmap",
@@ -58,11 +42,11 @@
     },
     {
       "basename": "2022-06-23",
-      "path": "2022-06-23.md"
+      "path": "DailyNotes/2022-06-23.md"
     },
     {
       "basename": "2022-06-14",
-      "path": "2022-06-14.md"
+      "path": "DailyNotes/2022-06-14.md"
     },
     {
       "basename": "2022-06-10",
@@ -91,10 +75,6 @@
     {
       "basename": "2022-06-09",
       "path": "DailyNotes/2022-06-09.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     },
     {
       "basename": "PowerBuilder MOC",
@@ -191,14 +171,6 @@
     {
       "basename": "git status",
       "path": "git status.md"
-    },
-    {
-      "basename": "git push",
-      "path": "git push.md"
-    },
-    {
-      "basename": "git pull",
-      "path": "git pull.md"
     }
   ],
   "omittedPaths": [],
