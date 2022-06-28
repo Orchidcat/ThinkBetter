@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "原则.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "原则.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,9 @@
   },
   "active": "bfb4d9e861cf0696",
   "lastOpenFiles": [
+    "原则.md",
     "+Home.md",
     "未命名 6.md",
-    "原则.md",
     "读书 MOC.md",
     "别闹了，费曼先生.md",
     "未命名 5.md",
