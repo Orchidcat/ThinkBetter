@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "未命名 6",
+      "path": "未命名 6.md"
+    },
+    {
       "basename": "原则",
       "path": "原则.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "别闹了，费曼先生",
       "path": "别闹了，费曼先生.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "未命名 5",
@@ -195,10 +199,6 @@
     {
       "basename": "git commit",
       "path": "git commit.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "git branch.md"
     }
   ],
   "omittedPaths": [],

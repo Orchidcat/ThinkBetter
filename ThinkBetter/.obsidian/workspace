@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "85c8332adac92c52",
+        "id": "bfb4d9e861cf0696",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "原则.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "原则.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "原则.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +156,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "85c8332adac92c52",
+  "active": "bfb4d9e861cf0696",
   "lastOpenFiles": [
+    "+Home.md",
+    "未命名 6.md",
     "原则.md",
     "读书 MOC.md",
     "别闹了，费曼先生.md",
-    "+Home.md",
     "未命名 5.md",
     "未命名 4.md",
     "2022-06-27.md",
     "容易疲惫怎么办.md",
-    "未命名 2.md",
-    "未命名 3.md"
+    "未命名 2.md"
   ]
 }
