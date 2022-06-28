@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
+            "file": "二阶思维.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "二阶思维.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "二阶思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "4c6df9585ab1eccf",
   "lastOpenFiles": [
+    "二阶思维.md",
+    "Pasted image 20220430085944.png.md",
     "100种心智模型.md",
+    "能力圈.md",
     "心智模型 MOC.md",
     "+Home.md",
     "基本Q.md",
     "原则.md",
     "读书 MOC.md",
-    "Templates/Template - 日记.md",
-    "未命名 4.md",
-    "未命名.md",
-    "未命名 1.md"
+    "Templates/Template - 日记.md"
   ]
 }
