@@ -5,6 +5,14 @@
       "path": "原则.md"
     },
     {
+      "basename": "大脑构成",
+      "path": "大脑构成.md"
+    },
+    {
+      "basename": "OB超链接方式列表",
+      "path": "OB超链接方式列表.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "git pull",
       "path": "git pull.md"
-    },
-    {
-      "basename": "git init",
-      "path": "git init.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "git commit.md"
     }
   ],
   "omittedPaths": [],
