@@ -7,8 +7,12 @@
         "id": "4c6df9585ab1eccf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "原则.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -104,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "原则.md"
+              }
             }
           }
         ]
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,12 +158,12 @@
   },
   "active": "4c6df9585ab1eccf",
   "lastOpenFiles": [
+    "原则.md",
+    "Templates/Template - 日记.md",
     "未命名 4.md",
     "未命名.md",
     "未命名 1.md",
     "2022-06-28.md",
-    "原则.md",
-    "Templates/Template - 日记.md",
     "大脑构成.md",
     "OB超链接方式列表.md",
     "+Home.md",
