@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6df9585ab1eccf",
+        "id": "7d965c75a4b86b40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "二阶思维.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二阶思维.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二阶思维.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,16 +155,16 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "4c6df9585ab1eccf",
+  "active": "7d965c75a4b86b40",
   "lastOpenFiles": [
+    "+Home.md",
+    "原则.md",
+    "100种心智模型.md",
     "二阶思维.md",
     "Pasted image 20220430085944.png.md",
-    "100种心智模型.md",
     "能力圈.md",
     "心智模型 MOC.md",
-    "+Home.md",
     "基本Q.md",
-    "原则.md",
     "读书 MOC.md",
     "Templates/Template - 日记.md"
   ]
