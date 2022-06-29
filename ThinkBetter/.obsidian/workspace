@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "SQL Server MOC.md",
             "mode": "preview",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "SQL Server MOC.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "SQL Server MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,16 +148,15 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
   "active": "0bd695cdeccd438d",
   "lastOpenFiles": [
+    "SQL Server MOC.md",
     "+Home.md",
     "黄体酮.md",
     "DailyNotes/2022-06-29.md",
@@ -166,7 +165,6 @@
     "二阶思维.md",
     "Pasted image 20220430085944.png.md",
     "能力圈.md",
-    "心智模型 MOC.md",
-    "基本Q.md"
+    "心智模型 MOC.md"
   ]
 }
