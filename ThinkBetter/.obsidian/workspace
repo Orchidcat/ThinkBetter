@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "黄体酮.md",
-            "mode": "source",
+            "file": "+Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄体酮.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄体酮.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,9 @@
   },
   "active": "0bd695cdeccd438d",
   "lastOpenFiles": [
+    "+Home.md",
     "黄体酮.md",
     "DailyNotes/2022-06-29.md",
-    "+Home.md",
     "原则.md",
     "100种心智模型.md",
     "二阶思维.md",
