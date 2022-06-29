@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d965c75a4b86b40",
+        "id": "0bd695cdeccd438d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "黄体酮.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "黄体酮.md"
               }
             }
           }
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "黄体酮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +156,10 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "7d965c75a4b86b40",
+  "active": "0bd695cdeccd438d",
   "lastOpenFiles": [
+    "黄体酮.md",
+    "DailyNotes/2022-06-29.md",
     "+Home.md",
     "原则.md",
     "100种心智模型.md",
@@ -164,8 +167,6 @@
     "Pasted image 20220430085944.png.md",
     "能力圈.md",
     "心智模型 MOC.md",
-    "基本Q.md",
-    "读书 MOC.md",
-    "Templates/Template - 日记.md"
+    "基本Q.md"
   ]
 }
