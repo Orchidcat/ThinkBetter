@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "原则.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "原则.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
   "active": "66a1711f2150e797",
   "lastOpenFiles": [
+    "原则.md",
     "+Home.md",
     "SQL Server MOC.md",
     "黄体酮.md",
     "DailyNotes/2022-06-29.md",
-    "原则.md",
     "100种心智模型.md",
     "二阶思维.md",
     "Pasted image 20220430085944.png.md",
