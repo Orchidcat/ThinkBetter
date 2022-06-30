@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd695cdeccd438d",
+        "id": "66a1711f2150e797",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Server MOC.md",
-            "mode": "preview",
+            "file": "+Home.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Server MOC.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Server MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,10 +154,10 @@
     "direction": "horizontal",
     "width": 375
   },
-  "active": "0bd695cdeccd438d",
+  "active": "66a1711f2150e797",
   "lastOpenFiles": [
-    "SQL Server MOC.md",
     "+Home.md",
+    "SQL Server MOC.md",
     "黄体酮.md",
     "DailyNotes/2022-06-29.md",
     "原则.md",
