@@ -15,3 +15,10 @@ sort file.ctime DESC
 ```
 
 
+```dataview
+table desc as "评价",
+dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
+from #articles  
+where dateformat(file.cday,"yyyy")="2022"
+sort file.ctime DESC
+```

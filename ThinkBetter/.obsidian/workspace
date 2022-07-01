@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Life is not short.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life is not short.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life is not short.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,24 +148,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
   "active": "631c8b52db3c89e4",
   "lastOpenFiles": [
-    "Life is not short.md",
+    "读书 MOC.md",
     "+Home.md",
+    "别闹了，费曼先生.md",
+    "Life is not short.md",
     "原则.md",
     "SQL Server MOC.md",
     "黄体酮.md",
     "DailyNotes/2022-06-29.md",
     "100种心智模型.md",
-    "二阶思维.md",
-    "Pasted image 20220430085944.png.md",
-    "能力圈.md"
+    "二阶思维.md"
   ]
 }
