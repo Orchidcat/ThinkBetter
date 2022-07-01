@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "Life is not short.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Life is not short.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Life is not short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "631c8b52db3c89e4",
   "lastOpenFiles": [
+    "Life is not short.md",
     "+Home.md",
     "原则.md",
     "SQL Server MOC.md",
@@ -165,7 +166,6 @@
     "100种心智模型.md",
     "二阶思维.md",
     "Pasted image 20220430085944.png.md",
-    "能力圈.md",
-    "心智模型 MOC.md"
+    "能力圈.md"
   ]
 }
