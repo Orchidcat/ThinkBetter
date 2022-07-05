@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "631c8b52db3c89e4",
+        "id": "3c3cb914354bed4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 454
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
-  "active": "631c8b52db3c89e4",
+  "active": "3c3cb914354bed4b",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "+Home.md",
+    "史蒂夫·乔布斯.md",
+    "如何透视一本书.md",
+    "读书 MOC.md",
     "别闹了，费曼先生.md",
     "Life is not short.md",
     "原则.md",
     "SQL Server MOC.md",
     "黄体酮.md",
-    "DailyNotes/2022-06-29.md",
-    "100种心智模型.md",
-    "二阶思维.md"
+    "DailyNotes/2022-06-29.md"
   ]
 }

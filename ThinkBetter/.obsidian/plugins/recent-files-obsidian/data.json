@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "史蒂夫·乔布斯",
+      "path": "史蒂夫·乔布斯.md"
+    },
+    {
+      "basename": "如何透视一本书",
+      "path": "如何透视一本书.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "别闹了，费曼先生",
@@ -187,18 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "项目 MOC.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "git merge.md"
-    },
-    {
-      "basename": "Repository",
-      "path": "Repository.md"
-    },
-    {
-      "basename": "git status",
-      "path": "git status.md"
     }
   ],
   "omittedPaths": [],
