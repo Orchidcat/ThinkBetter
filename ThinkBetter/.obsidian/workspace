@@ -7,8 +7,12 @@
         "id": "ecaf688213afe3b2",
         "type": "leaf",
         "state": {
-          "type": "mindmap",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -105,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           }
         ]
@@ -120,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +158,9 @@
   },
   "active": "ecaf688213afe3b2",
   "lastOpenFiles": [
+    "+Home.md",
     "锻炼自己的感知力.md",
     "读书 MOC.md",
-    "+Home.md",
     "Life is not short.md",
     "史蒂夫·乔布斯.md",
     "如何透视一本书.md",
