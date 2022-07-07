@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "走出自我怀疑，自我否定",
+      "path": "走出自我怀疑，自我否定.md"
     },
     {
       "basename": "锻炼自己的感知力",
@@ -11,6 +11,10 @@
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "Life is not short",
@@ -195,10 +199,6 @@
     {
       "basename": "Bike MOC",
       "path": "Bike MOC.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "走出自我怀疑，自我否定.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "走出自我怀疑，自我否定.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "走出自我怀疑，自我否定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "ecaf688213afe3b2",
   "lastOpenFiles": [
-    "+Home.md",
+    "走出自我怀疑，自我否定.md",
     "锻炼自己的感知力.md",
     "读书 MOC.md",
+    "+Home.md",
     "Life is not short.md",
     "史蒂夫·乔布斯.md",
     "如何透视一本书.md",
     "别闹了，费曼先生.md",
     "原则.md",
-    "SQL Server MOC.md",
-    "黄体酮.md"
+    "SQL Server MOC.md"
   ]
 }
