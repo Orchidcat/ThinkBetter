@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue",
+      "path": "Vue.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自行车几何学",
       "path": "自行车几何学.md"
-    },
-    {
-      "basename": "Bike MOC",
-      "path": "Bike MOC.md"
     }
   ],
   "omittedPaths": [],
