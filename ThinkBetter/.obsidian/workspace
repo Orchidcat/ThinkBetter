@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaf688213afe3b2",
+        "id": "a096549819c133a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,12 +156,12 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "ecaf688213afe3b2",
+  "active": "a096549819c133a7",
   "lastOpenFiles": [
+    "+Home.md",
     "读书 MOC.md",
     "走出自我怀疑，自我否定.md",
     "锻炼自己的感知力.md",
-    "+Home.md",
     "Life is not short.md",
     "史蒂夫·乔布斯.md",
     "如何透视一本书.md",
