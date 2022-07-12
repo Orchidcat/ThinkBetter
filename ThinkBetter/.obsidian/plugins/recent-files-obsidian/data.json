@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PB的编译过程",
+      "path": "PB的编译过程.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Git MOC",
       "path": "Git MOC.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
     }
   ],
   "omittedPaths": [],
