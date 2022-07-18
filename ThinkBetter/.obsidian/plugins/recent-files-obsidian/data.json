@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "Neil Gaiman - Make Good Art",
+      "path": "Neil Gaiman - Make Good Art.md"
+    },
+    {
+      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
+      "path": "Michael Lewis - Don't Eat Fortune's Cookie.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "有效思考的关键要素",
@@ -19,10 +27,6 @@
     {
       "basename": "除了你，谁能做出这个决定",
       "path": "除了你，谁能做出这个决定.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "走出自我怀疑，自我否定",
@@ -195,10 +199,6 @@
     {
       "basename": "对激励的偏见",
       "path": "对激励的偏见.md"
-    },
-    {
-      "basename": "信任",
-      "path": "信任.md"
     }
   ],
   "omittedPaths": [],
