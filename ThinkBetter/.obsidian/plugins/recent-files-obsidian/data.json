@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
+      "basename": "有效思考的关键要素",
+      "path": "有效思考的关键要素.md"
     },
     {
       "basename": "除了你，谁能做出这个决定",
       "path": "除了你，谁能做出这个决定.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "走出自我怀疑，自我否定",
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "你干嘛在乎别人怎么想",
-      "path": "你干嘛在乎别人怎么想.md"
     }
   ],
   "omittedPaths": [],
