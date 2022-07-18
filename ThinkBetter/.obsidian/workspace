@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "有效思考的关键要素.md",
+            "file": "未命名.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "有效思考的关键要素.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "有效思考的关键要素.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "ae7f6ce133dd0331",
   "lastOpenFiles": [
+    "未命名.md",
     "有效思考的关键要素.md",
     "有效思维的5个要素.md",
     "人物 MOC.md",
@@ -167,7 +168,6 @@
     "走出自我怀疑，自我否定.md",
     "DailyNotes/2022-07-18.md",
     "+Home.md",
-    "PB的编译过程.md",
-    "Vue.md"
+    "PB的编译过程.md"
   ]
 }
