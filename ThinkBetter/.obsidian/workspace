@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "除了你，谁能做出这个决定.md",
+            "file": "有效思维的5个要素.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "除了你，谁能做出这个决定.md"
+                "file": "有效思维的5个要素.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "除了你，谁能做出这个决定.md",
+                "file": "有效思维的5个要素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "ae7f6ce133dd0331",
   "lastOpenFiles": [
+    "有效思维的5个要素.md",
     "除了你，谁能做出这个决定.md",
     "读书 MOC.md",
     "David Foster Wallace -  This is Water.md",
@@ -167,7 +168,6 @@
     "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
     "Neil Gaiman - Make Good Art.md",
     "有效思考的关键要素.md",
-    "有效思维的5个要素.md",
     "人物 MOC.md"
   ]
 }
