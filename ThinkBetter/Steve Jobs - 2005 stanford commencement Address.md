@@ -1,11 +1,15 @@
 
 ---
 tags: ['Speeches']
-desc: 
+desc: 如果你把每一天都当成最后一天，那么总有一天你肯定是对的
 date: 2022-07-18
 ---
 
+**你的时间是有限的，所以不要把它浪费在过别人的生活上**
+
 https://www.youtube.com/watch?v=UF8uR6Z6KLc&ab_channel=Stanford
+
+https://news.stanford.edu/2005/06/14/jobs-061505/
 
 I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I’ve ever gotten to a college graduation. Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.
 

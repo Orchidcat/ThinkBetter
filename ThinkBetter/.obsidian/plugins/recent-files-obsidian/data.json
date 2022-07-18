@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "David Foster Wallace -  This is Water",
+      "path": "David Foster Wallace -  This is Water.md"
+    },
+    {
       "basename": "Steve Jobs - 2005 stanford commencement Address",
       "path": "Steve Jobs - 2005 stanford commencement Address.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
@@ -15,10 +23,6 @@
     {
       "basename": "Neil Gaiman - Make Good Art",
       "path": "Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "有效思考的关键要素",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-01",
       "path": "DailyNotes/2022-06-01.md"
-    },
-    {
-      "basename": "嫉妒与妒忌",
-      "path": "嫉妒与妒忌.md"
     }
   ],
   "omittedPaths": [],
