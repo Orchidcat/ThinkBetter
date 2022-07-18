@@ -5,6 +5,10 @@
       "path": "有效思考的关键要素.md"
     },
     {
+      "basename": "有效思维的5个要素",
+      "path": "有效思维的5个要素.md"
+    },
+    {
       "basename": "人物 MOC",
       "path": "人物 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-05-30",
       "path": "DailyNotes/2022-05-30.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
     }
   ],
   "omittedPaths": [],
