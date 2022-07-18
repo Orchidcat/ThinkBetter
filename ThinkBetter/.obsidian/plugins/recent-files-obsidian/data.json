@@ -5,6 +5,10 @@
       "path": "有效思考的关键要素.md"
     },
     {
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
+    },
+    {
       "basename": "除了你，谁能做出这个决定",
       "path": "除了你，谁能做出这个决定.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NotToDo",
       "path": "NotToDo.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
     }
   ],
   "omittedPaths": [],

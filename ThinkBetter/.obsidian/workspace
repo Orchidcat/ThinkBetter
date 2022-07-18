@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#费曼",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,6 +160,7 @@
   "active": "ae7f6ce133dd0331",
   "lastOpenFiles": [
     "有效思考的关键要素.md",
+    "人物 MOC.md",
     "除了你，谁能做出这个决定.md",
     "读书 MOC.md",
     "走出自我怀疑，自我否定.md",
@@ -167,7 +168,6 @@
     "+Home.md",
     "PB的编译过程.md",
     "Vue.md",
-    "锻炼自己的感知力.md",
-    "Life is not short.md"
+    "锻炼自己的感知力.md"
   ]
 }
