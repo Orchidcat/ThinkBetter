@@ -23,5 +23,5 @@ https://fs.blog/david-foster-wallace-this-is-water/
 我们必须一遍又一遍地提醒自己：
 “这是水。”
 “这是水。”
-要做到这一点，日复一日地在成人世界中保持清醒和活力，是难以想象的。这意味着另一个陈词滥调是真的：你的教育真的是一生的工作(。
+要做到这一点，日复一日地在成人世界中保持清醒和活力，是难以想象的。这意味着另一个陈词滥调是真的：你的教育真的是一生的工作(your education really IS the job of a lifetime)。
 
