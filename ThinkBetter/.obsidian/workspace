@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ae7f6ce133dd0331",
+        "id": "fe9d7740b3034476",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "有效思维的5个要素.md",
-            "mode": "preview",
+            "file": "+Home.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "有效思维的5个要素.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "有效思维的5个要素.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "ae7f6ce133dd0331",
+  "active": "fe9d7740b3034476",
   "lastOpenFiles": [
     "有效思维的5个要素.md",
     "除了你，谁能做出这个决定.md",
