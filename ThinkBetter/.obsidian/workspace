@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "100种心智模型.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "100种心智模型.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "100种心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,8 @@
   },
   "active": "fe9d7740b3034476",
   "lastOpenFiles": [
-    "+Home.md",
     "读书 MOC.md",
+    "+Home.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
     "有效思维的5个要素.md",
     "除了你，谁能做出这个决定.md",
