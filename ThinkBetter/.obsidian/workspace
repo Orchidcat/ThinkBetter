@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Steve Jobs - 2005 stanford commencement Address.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steve Jobs - 2005 stanford commencement Address.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steve Jobs - 2005 stanford commencement Address.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +159,12 @@
   },
   "active": "fe9d7740b3034476",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "+Home.md",
+    "读书 MOC.md",
+    "Steve Jobs - 2005 stanford commencement Address.md",
     "有效思维的5个要素.md",
     "除了你，谁能做出这个决定.md",
     "David Foster Wallace -  This is Water.md",
-    "Steve Jobs - 2005 stanford commencement Address.md",
     "Michael Lewis - Don't Eat Fortune's Cookie.md",
     "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
     "Neil Gaiman - Make Good Art.md",
