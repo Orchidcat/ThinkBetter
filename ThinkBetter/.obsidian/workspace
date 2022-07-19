@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100种心智模型.md",
+            "file": "地图不是领土.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "地图不是领土.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "地图不是领土.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "fe9d7740b3034476",
   "lastOpenFiles": [
+    "100种心智模型.md",
     "读书 MOC.md",
     "+Home.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
@@ -167,7 +168,6 @@
     "David Foster Wallace -  This is Water.md",
     "Michael Lewis - Don't Eat Fortune's Cookie.md",
     "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
-    "Neil Gaiman - Make Good Art.md",
-    "有效思考的关键要素.md"
+    "Neil Gaiman - Make Good Art.md"
   ]
 }

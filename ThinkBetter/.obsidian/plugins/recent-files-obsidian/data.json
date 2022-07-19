@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "地图不是领土",
+      "path": "地图不是领土.md"
+    },
+    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "2022-06-01",
-      "path": "DailyNotes/2022-06-01.md"
     }
   ],
   "omittedPaths": [],
