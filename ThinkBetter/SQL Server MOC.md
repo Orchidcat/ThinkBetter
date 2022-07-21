@@ -41,6 +41,7 @@ windows server 上使用**powercfg.cpl** 查看功耗模式，确保实在 _高�
 
 Azure #Azure
 
+[rowversion/timestamp 跳行问题](https://blog.sqlxdetails.com/rowversion-timestamp-skipping-rows-problem/)
 
 
 
