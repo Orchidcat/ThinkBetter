@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
+    },
+    {
+      "basename": "NewVersion",
+      "path": "NewVersion.md"
+    },
+    {
+      "basename": "SQL Server 2000~2016 Evolution",
+      "path": "SQL Server 2000~2016 Evolution.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -93,10 +105,6 @@
       "path": "原则.md"
     },
     {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
-    },
-    {
       "basename": "黄体酮",
       "path": "黄体酮.md"
     },
@@ -187,14 +195,6 @@
     {
       "basename": "PowerBuilder MOC",
       "path": "PowerBuilder MOC.md"
-    },
-    {
-      "basename": "SQL Server 2000~2016 Evolution",
-      "path": "SQL Server 2000~2016 Evolution.md"
-    },
-    {
-      "basename": "NewVersion",
-      "path": "NewVersion.md"
     },
     {
       "basename": "第一性原理",

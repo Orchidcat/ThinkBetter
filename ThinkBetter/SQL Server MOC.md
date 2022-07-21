@@ -28,6 +28,17 @@ https://sqlserverbuilds.blogspot.com/
 [[NewVersion]]
 
 
+#SQLServer/性能调优
+windows server 上使用**powercfg.cpl** 查看功耗模式，确保实在 _高性能_ 状态下。
+
+#SQLServer/TraceFlag
+默认应该启动的TF项目
+1117
+1118
+3023
+3226
+
+
 Azure #Azure
 
 
