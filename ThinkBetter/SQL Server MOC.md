@@ -44,6 +44,11 @@ Azure #Azure
 [rowversion/timestamp 跳行问题](https://blog.sqlxdetails.com/rowversion-timestamp-skipping-rows-problem/)
 
 
+#SQLServer/Tools
+https://www.codeproject.com/Articles/1243356/Create-Your-Own-SQL-Server-Management-Studio-SSMS
+https://www.codeproject.com/Articles/1377559/How-to-Create-SQL-Server-Management-Studio-18-SSMS
+
+
 
 #DataBase #SQLServer #MOC 
 
