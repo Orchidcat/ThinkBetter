@@ -4,28 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2f095168fd3cd0da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "学习高手.md",
-            "mode": "source",
-            "source": false
+        "id": "decda632f7f24760",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f095168fd3cd0da",
+            "type": "leaf",
+            "dimension": 27.07509881422925,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习高手.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adf7684c0a600787",
+            "type": "leaf",
+            "dimension": 72.92490118577075,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "1374b0149f751226",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SMART原则.md",
-            "mode": "source",
-            "source": false
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
