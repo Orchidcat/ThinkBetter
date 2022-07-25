@@ -5,6 +5,10 @@
       "path": "学习高手.md"
     },
     {
+      "basename": "SMART原则",
+      "path": "SMART原则.md"
+    },
+    {
       "basename": "原则",
       "path": "原则.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-09",
       "path": "DailyNotes/2022-06-09.md"
-    },
-    {
-      "basename": "PowerBuilder MOC",
-      "path": "PowerBuilder MOC.md"
     }
   ],
   "omittedPaths": [],
