@@ -5,14 +5,32 @@ tags: ['MOC']
 [[+Home]]
 
 
-
+**读书**
 ```dataview
-table rating as "评价",
-dateformat(file.cday, "yyyy-MM-dd") as "创建日期",
-dateformat(endDate, "yyyy-MM-dd") as "阅读完成日"
+table type as "评价",
+dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
 from #Book 
 where dateformat(file.cday,"yyyy")="2022"
 sort file.ctime DESC
 ```
 
+**文章**
+
+```dataview
+table desc as "评价",
+dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
+from #articles  
+where dateformat(file.cday,"yyyy")="2022"
+sort file.ctime DESC
+```
+
+**演讲**
+
+```dataview
+table desc as "评价",
+dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
+from #Speeches  
+where dateformat(file.cday,"yyyy")="2022"
+sort file.ctime DESC
+```
 

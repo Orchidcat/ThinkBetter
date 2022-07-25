@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
+      "basename": "SMART原则",
+      "path": "SMART原则.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "有效思考的关键要素",
+      "path": "有效思考的关键要素.md"
+    },
+    {
+      "basename": "有效思维的5个要素",
+      "path": "有效思维的5个要素.md"
+    },
+    {
+      "basename": "原则",
+      "path": "原则.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "SQL Server MOC",
       "path": "SQL Server MOC.md"
     },
@@ -13,192 +41,164 @@
       "path": "NewVersion.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "你干嘛在乎别人怎么想",
-      "path": "你干嘛在乎别人怎么想.md"
-    },
-    {
-      "basename": "如何对抗焦虑",
-      "path": "如何对抗焦虑.md"
-    },
-    {
-      "basename": "Git MOC",
-      "path": "Git MOC.md"
-    },
-    {
-      "basename": "自行车几何学",
-      "path": "自行车几何学.md"
-    },
-    {
-      "basename": "Bike MOC",
-      "path": "Bike MOC.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "别闹了，费曼先生",
-      "path": "别闹了，费曼先生.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "git merge.md"
-    },
-    {
-      "basename": "Repository",
-      "path": "Repository.md"
-    },
-    {
-      "basename": "git status",
-      "path": "git status.md"
-    },
-    {
-      "basename": "git push",
-      "path": "git push.md"
-    },
-    {
-      "basename": "git pull",
-      "path": "git pull.md"
-    },
-    {
-      "basename": "git init",
-      "path": "git init.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "git commit.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "git branch.md"
-    },
-    {
-      "basename": "git add",
-      "path": "git add.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "理查德·费曼传",
-      "path": "理查德·费曼传.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "费曼学习法.md"
+      "basename": "地图不是领土",
+      "path": "地图不是领土.md"
     },
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
     {
-      "basename": "阅读是一座随身携带的避难所",
-      "path": "阅读是一座随身携带的避难所.md"
+      "basename": "Steve Jobs - 2005 stanford commencement Address",
+      "path": "Steve Jobs - 2005 stanford commencement Address.md"
     },
     {
-      "basename": "Sloping vs. Horizontal Top Tube",
-      "path": "Sloping vs. Horizontal Top Tube.md"
+      "basename": "除了你，谁能做出这个决定",
+      "path": "除了你，谁能做出这个决定.md"
     },
     {
-      "basename": "Reach",
-      "path": "Reach.md"
+      "basename": "David Foster Wallace -  This is Water",
+      "path": "David Foster Wallace -  This is Water.md"
     },
     {
-      "basename": "V-Brakes vs. Center Pull Brakes",
-      "path": "V-Brakes vs. Center Pull Brakes.md"
+      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
+      "path": "Michael Lewis - Don't Eat Fortune's Cookie.md"
     },
     {
-      "basename": "zoom",
-      "path": "zoom.md"
+      "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
+      "path": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md"
     },
     {
-      "basename": "Seat tube length",
-      "path": "Seat tube length.md"
+      "basename": "Neil Gaiman - Make Good Art",
+      "path": "Neil Gaiman - Make Good Art.md"
     },
     {
-      "basename": "Actual Top tube length",
-      "path": "Actual Top tube length.md"
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
     },
     {
-      "basename": "Wheel Size",
-      "path": "Wheel Size.md"
+      "basename": "走出自我怀疑，自我否定",
+      "path": "走出自我怀疑，自我否定.md"
     },
     {
-      "basename": "Fork Length",
-      "path": "Fork Length.md"
+      "basename": "2022-07-18",
+      "path": "DailyNotes/2022-07-18.md"
     },
     {
-      "basename": "Axle Spacing",
-      "path": "Axle Spacing.md"
+      "basename": "PB的编译过程",
+      "path": "PB的编译过程.md"
     },
     {
-      "basename": "BB Type（Bottom Bracket Type）",
-      "path": "BB Type（Bottom Bracket Type）.md"
+      "basename": "Vue",
+      "path": "Vue.md"
     },
     {
-      "basename": "Crank Length",
-      "path": "Crank Length.md"
+      "basename": "锻炼自己的感知力",
+      "path": "锻炼自己的感知力.md"
     },
     {
-      "basename": "Stem Length",
-      "path": "Stem Length.md"
+      "basename": "Life is not short",
+      "path": "Life is not short.md"
     },
     {
-      "basename": "Handlebar Width",
-      "path": "Handlebar Width.md"
+      "basename": "史蒂夫·乔布斯",
+      "path": "史蒂夫·乔布斯.md"
     },
     {
-      "basename": "Seatpost Length",
-      "path": "Seatpost Length.md"
+      "basename": "如何透视一本书",
+      "path": "如何透视一本书.md"
     },
     {
-      "basename": "Seatpost Size（diameter）",
-      "path": "Seatpost Size（diameter）.md"
+      "basename": "别闹了，费曼先生",
+      "path": "别闹了，费曼先生.md"
     },
     {
-      "basename": "Trail",
-      "path": "Trail.md"
+      "basename": "黄体酮",
+      "path": "黄体酮.md"
     },
     {
-      "basename": "Fork Rake（Fork Offset）",
-      "path": "Fork Rake（Fork Offset）.md"
+      "basename": "2022-06-29",
+      "path": "DailyNotes/2022-06-29.md"
     },
     {
-      "basename": "BB Height",
-      "path": "BB Height.md"
+      "basename": "二阶思维",
+      "path": "二阶思维.md"
     },
     {
-      "basename": "BB Drop",
-      "path": "BB Drop.md"
+      "basename": "Pasted image 20220430085944.png",
+      "path": "Pasted image 20220430085944.png.md"
     },
     {
-      "basename": "Standover",
-      "path": "Standover.md"
+      "basename": "能力圈",
+      "path": "能力圈.md"
     },
     {
-      "basename": "Wheelbase",
-      "path": "Wheelbase.md"
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
     },
     {
-      "basename": "Front Centre",
-      "path": "Front Centre.md"
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "大脑构成",
+      "path": "大脑构成.md"
+    },
+    {
+      "basename": "OB超链接方式列表",
+      "path": "OB超链接方式列表.md"
+    },
+    {
+      "basename": "2022-06-27",
+      "path": "DailyNotes/2022-06-27.md"
+    },
+    {
+      "basename": "容易疲惫怎么办",
+      "path": "容易疲惫怎么办.md"
+    },
+    {
+      "basename": "mindmap",
+      "path": "mindmap.md"
+    },
+    {
+      "basename": "2022-06-23",
+      "path": "DailyNotes/2022-06-23.md"
+    },
+    {
+      "basename": "2022-06-14",
+      "path": "DailyNotes/2022-06-14.md"
+    },
+    {
+      "basename": "2022-06-10",
+      "path": "DailyNotes/2022-06-10.md"
+    },
+    {
+      "basename": "latch",
+      "path": "latch.md"
+    },
+    {
+      "basename": "自旋锁",
+      "path": "自旋锁.md"
+    },
+    {
+      "basename": "退避机制",
+      "path": "退避机制.md"
+    },
+    {
+      "basename": "SQL Server 中查询执行周期",
+      "path": "SQL Server 中查询执行周期.md"
+    },
+    {
+      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
+      "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
+    },
+    {
+      "basename": "2022-06-09",
+      "path": "DailyNotes/2022-06-09.md"
     }
   ],
   "omittedPaths": [],

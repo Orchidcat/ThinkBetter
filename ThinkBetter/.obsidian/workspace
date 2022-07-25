@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b6923ec269d08b",
+        "id": "2f095168fd3cd0da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL Server MOC.md",
-            "mode": "source",
+            "file": "学习高手.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 29.027576197387518,
+        "dimension": 33.286318758815234,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -40,7 +40,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 70.97242380261248,
+        "dimension": 66.71368124118476,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "tag:#费曼",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Server MOC.md"
+                "file": "学习高手.md"
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Server MOC.md",
+                "file": "学习高手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +157,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "a9b6923ec269d08b",
+  "active": "2f095168fd3cd0da",
   "lastOpenFiles": [
-    "SQL Server MOC.md",
-    "SQL Server 2000~2016 Evolution.md",
-    "NewVersion.md",
+    "SMART原则.md",
+    "学习高手.md",
+    "读书 MOC.md",
+    "有效思考的关键要素.md",
+    "有效思维的5个要素.md",
+    "原则.md",
     "+Home.md",
-    "Templates/Template - 读书.md",
-    "你干嘛在乎别人怎么想.md",
-    "如何对抗焦虑.md",
-    "Git MOC.md",
-    "自行车几何学.md",
-    "Bike MOC.md"
+    "SQL Server 2000~2016 Evolution.md",
+    "SQL Server MOC.md",
+    "NewVersion.md"
   ]
 }
