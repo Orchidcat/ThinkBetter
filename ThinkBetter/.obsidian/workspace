@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "学习高手.md",
             "mode": "preview",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "学习高手.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "学习高手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "2f095168fd3cd0da",
   "lastOpenFiles": [
+    "读书 MOC.md",
+    "有效思考的关键要素.md",
+    "有效思维的5个要素.md",
     "学习高手.md",
     "SMART原则.md",
     "原则.md",
-    "读书 MOC.md",
     "+Home.md",
     "SQL Server 2000~2016 Evolution.md",
     "SQL Server MOC.md",
-    "NewVersion.md",
-    "100种心智模型.md",
-    "Steve Jobs - 2005 stanford commencement Address.md"
+    "NewVersion.md"
   ]
 }
