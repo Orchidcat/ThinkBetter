@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0811806351327a",
+        "id": "44e25f65ee87475a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/100种心智模型.md",
-            "mode": "source",
+            "file": "ThinkBetter/学习高手.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -91,29 +91,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md"
+                "file": "ThinkBetter/学习高手.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7c0811806351327a",
+  "active": "44e25f65ee87475a",
   "lastOpenFiles": [
+    "ThinkBetter/学习高手.md",
+    "ThinkBetter/读书 MOC.md",
+    "ThinkBetter/+Home.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/倒置.md",
     "ThinkBetter/地图不是领土.md",
     "ThinkBetter/奥卡姆剃刀.md",
     "ThinkBetter/第一性原理.md",
     "相互保证毁灭.md",
-    "平叛.md",
-    "双线战争.md",
-    "不对称战争.md",
-    "看到前线.md"
+    "平叛.md"
   ]
 }
