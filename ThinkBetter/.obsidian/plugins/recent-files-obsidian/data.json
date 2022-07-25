@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
+      "basename": "原则",
+      "path": "原则.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "Steve Jobs - 2005 stanford commencement Address",
@@ -99,10 +107,6 @@
     {
       "basename": "别闹了，费曼先生",
       "path": "别闹了，费曼先生.md"
-    },
-    {
-      "basename": "原则",
-      "path": "原则.md"
     },
     {
       "basename": "黄体酮",
@@ -195,10 +199,6 @@
     {
       "basename": "PowerBuilder MOC",
       "path": "PowerBuilder MOC.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
     }
   ],
   "omittedPaths": [],

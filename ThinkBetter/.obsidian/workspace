@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "学习高手.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "学习高手.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "学习高手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "2f095168fd3cd0da",
   "lastOpenFiles": [
+    "原则.md",
+    "读书 MOC.md",
     "+Home.md",
     "SQL Server 2000~2016 Evolution.md",
     "SQL Server MOC.md",
     "NewVersion.md",
     "100种心智模型.md",
-    "读书 MOC.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
     "有效思维的5个要素.md",
-    "除了你，谁能做出这个决定.md",
-    "David Foster Wallace -  This is Water.md"
+    "除了你，谁能做出这个决定.md"
   ]
 }
