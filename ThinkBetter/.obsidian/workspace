@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "能力圈.md",
+            "file": "100种心智模型.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "能力圈.md"
+                "file": "100种心智模型.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "能力圈.md",
+                "file": "100种心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "ae4115cbfb637759",
   "lastOpenFiles": [
+    "能力圈.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
@@ -167,7 +168,6 @@
     "学习高手.md",
     "读书 MOC.md",
     "有效思考的关键要素.md",
-    "有效思维的5个要素.md",
-    "原则.md"
+    "有效思维的5个要素.md"
   ]
 }
