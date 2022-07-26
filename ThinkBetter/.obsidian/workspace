@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f436cd4b70a8919",
+        "id": "ae4115cbfb637759",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "第一性原理.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "第一性原理.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +157,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "9f436cd4b70a8919",
+  "active": "ae4115cbfb637759",
   "lastOpenFiles": [
+    "+Home.md",
+    "心智模型 MOC.md",
     "SMART原则.md",
     "学习高手.md",
     "读书 MOC.md",
     "有效思考的关键要素.md",
     "有效思维的5个要素.md",
     "原则.md",
-    "+Home.md",
     "SQL Server 2000~2016 Evolution.md",
-    "SQL Server MOC.md",
-    "NewVersion.md"
+    "SQL Server MOC.md"
   ]
 }
