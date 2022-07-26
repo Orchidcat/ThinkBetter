@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "学习高手",
       "path": "学习高手.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "原则",
       "path": "原则.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "SQL Server MOC",

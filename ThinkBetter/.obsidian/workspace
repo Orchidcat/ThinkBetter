@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2f095168fd3cd0da",
+        "id": "9f436cd4b70a8919",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习高手.md",
-            "mode": "preview",
+            "file": "+Home.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习高手.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习高手.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "2f095168fd3cd0da",
+  "active": "9f436cd4b70a8919",
   "lastOpenFiles": [
     "SMART原则.md",
     "学习高手.md",
