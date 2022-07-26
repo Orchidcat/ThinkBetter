@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "第一性原理.md",
+            "file": "能力圈.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一性原理.md"
+                "file": "能力圈.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
+                "file": "能力圈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "ae4115cbfb637759",
   "lastOpenFiles": [
-    "+Home.md",
+    "100种心智模型.md",
     "心智模型 MOC.md",
+    "+Home.md",
+    "第一性原理.md",
     "SMART原则.md",
     "学习高手.md",
     "读书 MOC.md",
     "有效思考的关键要素.md",
     "有效思维的5个要素.md",
-    "原则.md",
-    "SQL Server 2000~2016 Evolution.md",
-    "SQL Server MOC.md"
+    "原则.md"
   ]
 }
