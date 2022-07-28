@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "情绪共存.md",
+            "file": "Steve Jobs - 2005 stanford commencement Address.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "情绪共存.md"
+                "file": "Steve Jobs - 2005 stanford commencement Address.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "情绪共存.md",
+                "file": "Steve Jobs - 2005 stanford commencement Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
   },
   "active": "0c0aa06bd1d22b51",
   "lastOpenFiles": [
-    "马斯洛需求层次理论.md",
-    "情绪共存.md",
-    "有效思考的关键要素.md",
     "读书 MOC.md",
+    "情绪共存.md",
+    "马斯洛需求层次理论.md",
+    "有效思考的关键要素.md",
     "+Home.md",
     "能力圈.md",
     "100种心智模型.md",
