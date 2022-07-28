@@ -5,6 +5,10 @@
       "path": "情绪共存.md"
     },
     {
+      "basename": "马斯洛需求层次理论",
+      "path": "马斯洛需求层次理论.md"
+    },
+    {
       "basename": "有效思考的关键要素",
       "path": "有效思考的关键要素.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "退避机制",
       "path": "退避机制.md"
-    },
-    {
-      "basename": "SQL Server 中查询执行周期",
-      "path": "SQL Server 中查询执行周期.md"
     }
   ],
   "omittedPaths": [],
