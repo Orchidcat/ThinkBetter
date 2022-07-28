@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "情绪共存",
+      "path": "情绪共存.md"
+    },
+    {
+      "basename": "有效思考的关键要素",
+      "path": "有效思考的关键要素.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "SMART原则",
       "path": "SMART原则.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "有效思考的关键要素",
-      "path": "有效思考的关键要素.md"
     },
     {
       "basename": "有效思维的5个要素",
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server 中查询执行周期",
       "path": "SQL Server 中查询执行周期.md"
-    },
-    {
-      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
-      "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
     }
   ],
   "omittedPaths": [],
