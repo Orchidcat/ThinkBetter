@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QR Code 生成过程",
+      "path": "QR Code 生成过程.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自旋锁",
       "path": "自旋锁.md"
-    },
-    {
-      "basename": "退避机制",
-      "path": "退避机制.md"
     }
   ],
   "omittedPaths": [],

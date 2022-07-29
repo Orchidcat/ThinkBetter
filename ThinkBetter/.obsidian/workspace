@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "QR Code 生成过程.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "QR Code 生成过程.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "QR Code 生成过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,8 @@
   },
   "active": "629a67bc18f52791",
   "lastOpenFiles": [
-    "人物 MOC.md",
     "+Home.md",
+    "人物 MOC.md",
     "读书 MOC.md",
     "有效思考的关键要素.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
