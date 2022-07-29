@@ -5,12 +5,16 @@
       "path": "+Home.md"
     },
     {
-      "basename": "情绪共存",
-      "path": "情绪共存.md"
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "情绪共存",
+      "path": "情绪共存.md"
     },
     {
       "basename": "有效思考的关键要素",
@@ -91,10 +95,6 @@
     {
       "basename": "Neil Gaiman - Make Good Art",
       "path": "Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "人物 MOC",
-      "path": "人物 MOC.md"
     },
     {
       "basename": "走出自我怀疑，自我否定",

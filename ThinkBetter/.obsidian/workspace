@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#费曼",
+                "query": "tag:#查理芒格",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,15 +159,15 @@
   },
   "active": "629a67bc18f52791",
   "lastOpenFiles": [
+    "人物 MOC.md",
+    "+Home.md",
     "读书 MOC.md",
     "有效思考的关键要素.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
     "情绪共存.md",
     "马斯洛需求层次理论.md",
-    "+Home.md",
     "能力圈.md",
     "100种心智模型.md",
-    "心智模型 MOC.md",
-    "第一性原理.md"
+    "心智模型 MOC.md"
   ]
 }
