@@ -59,6 +59,17 @@
 
 #### 使用所选模式进行编码
 
+-   [数字模式编码](https://www.thonky.com/qr-code-tutorial/numeric-mode-encoding)
+-   [字母数字模式编码](https://www.thonky.com/qr-code-tutorial/alphanumeric-mode-encoding)
+-   [字节模式编码](https://www.thonky.com/qr-code-tutorial/byte-mode-encoding)
+-   [汉字模式编码](https://www.thonky.com/qr-code-tutorial/kanji-mode-encoding)
+
+![[Pasted image 20220729111552.png]]
+
+#### 分解为8位代码字并在必要时添加填充字节
+在获得由模式指示符、字符计数指示符和本页步骤 1 到 3 中描述的数据位组成的位串后，可能需要添加 0 和填充字节，因为 QR 码规范要求位串必须完全填满二维码的总容量。以下部分解释了将 0 和填充字节添加到位串的过程
+
+
 
 
 
