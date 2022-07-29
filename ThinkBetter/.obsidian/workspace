@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0aa06bd1d22b51",
+        "id": "629a67bc18f52791",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "情绪共存.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "情绪共存.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "情绪共存.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "0c0aa06bd1d22b51",
+  "active": "629a67bc18f52791",
   "lastOpenFiles": [
     "读书 MOC.md",
     "有效思考的关键要素.md",
