@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "工作、消费主意和新穷人.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "工作、消费主意和新穷人.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "工作、消费主意和新穷人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "765c907f7dd92972",
   "lastOpenFiles": [
+    "学习高手.md",
+    "读书 MOC.md",
+    "随手摘.md",
     "+Home.md",
     "QR Code 生成过程.md",
     "人物 MOC.md",
-    "读书 MOC.md",
     "有效思考的关键要素.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
     "情绪共存.md",
-    "马斯洛需求层次理论.md",
-    "能力圈.md",
-    "100种心智模型.md"
+    "马斯洛需求层次理论.md"
   ]
 }

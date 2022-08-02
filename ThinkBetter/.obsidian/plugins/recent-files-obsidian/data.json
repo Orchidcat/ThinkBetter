@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "工作、消费主意和新穷人",
+      "path": "工作、消费主意和新穷人.md"
+    },
+    {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "随手摘",
+      "path": "随手摘.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "人物 MOC",
       "path": "人物 MOC.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "情绪共存",
@@ -47,10 +59,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "学习高手",
-      "path": "学习高手.md"
     },
     {
       "basename": "SMART原则",
@@ -191,14 +199,6 @@
     {
       "basename": "2022-06-10",
       "path": "DailyNotes/2022-06-10.md"
-    },
-    {
-      "basename": "latch",
-      "path": "latch.md"
-    },
-    {
-      "basename": "自旋锁",
-      "path": "自旋锁.md"
     }
   ],
   "omittedPaths": [],
