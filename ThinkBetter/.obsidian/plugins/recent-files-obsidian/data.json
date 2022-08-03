@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "工作、消费主意和新穷人",
       "path": "工作、消费主意和新穷人.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "随手摘",
       "path": "随手摘.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "QR Code 生成过程",

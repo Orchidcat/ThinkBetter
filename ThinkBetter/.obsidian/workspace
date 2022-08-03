@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "765c907f7dd92972",
+        "id": "143e012f7cf7e85e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作、消费主意和新穷人.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作、消费主意和新穷人.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作、消费主意和新穷人.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "765c907f7dd92972",
+  "active": "143e012f7cf7e85e",
   "lastOpenFiles": [
     "学习高手.md",
     "读书 MOC.md",
