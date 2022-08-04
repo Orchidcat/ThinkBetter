@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Configuration CheckList",
+      "path": "Configuration CheckList.md"
+    },
+    {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "原则",
       "path": "原则.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
     },
     {
       "basename": "SQL Server 2000~2016 Evolution",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-14",
       "path": "DailyNotes/2022-06-14.md"
-    },
-    {
-      "basename": "2022-06-10",
-      "path": "DailyNotes/2022-06-10.md"
     }
   ],
   "omittedPaths": [],
