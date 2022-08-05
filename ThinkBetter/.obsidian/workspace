@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "去回顾，而不是反刍.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "去回顾，而不是反刍.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "去回顾，而不是反刍.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "4f46de55217e38a3",
   "lastOpenFiles": [
+    "去回顾，而不是反刍.md",
     "情绪共存.md",
     "读书 MOC.md",
     "+Home.md",
@@ -167,7 +168,6 @@
     "学习高手.md",
     "随手摘.md",
     "QR Code 生成过程.md",
-    "人物 MOC.md",
-    "有效思考的关键要素.md"
+    "人物 MOC.md"
   ]
 }
