@@ -1,3 +1,6 @@
+https://github.com/Orchidcat/MadeiraToolbox/blob/master/Best%20Practices%20Checklists/Server%20Configuration%20Checklist.md
+
+
 ## **Server**
 ### CPU
 -   逻辑CPU数量
@@ -58,3 +61,10 @@ when new storage needs to be given to a file the operating system will zero it o
 -   Avoid running shrink on files regularly.
 
 ## Tools
+-   Configuration Manager
+-   Task Manager
+-   Sql query Stress test – simulates stress on databases. Can be used to check tempdb contention (if there are current waiting tasks on pages with database_id = 2).
+-   Snippets:
+    -   Show current running queries
+    -   Waiting tasks
+
