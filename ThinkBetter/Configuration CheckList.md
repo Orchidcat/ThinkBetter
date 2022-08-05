@@ -39,6 +39,9 @@
 -   Parameter sniffing should be on
 
 ## Instant File Initialization
+when new storage needs to be given to a file the operating system will zero it out first (initialize). If is set ON there are will be no initializing with zeros which is faster. Under Security users give instant file initialization permission to the user that is running SQLServer. If creating a large file is fast then instant file initialization is ON.
+
+
 ## Tempdb
 ## Service Level
 ## Maintenance
