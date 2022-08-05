@@ -43,6 +43,18 @@ when new storage needs to be given to a file the operating system will zero it o
 
 
 ## Tempdb
+-   4 data files or 8 with the exact same size and same autogrowth. More files will remediate contention on IAM, SGAM page when creating temp objects.
+-   1117,1118 trace flags (requires restart) turned ON.
+-   Check collation is the same with other databases and instance. Otherwise collation changes must be made when using temp objects.
+
+
 ## Service Level
+-   SQL Server and Agent service user – should not be a local system account because it allows access to all disks. Agent and Engine services should have different users.
+-   For security - change default port as well.
+
+
 ## Maintenance
+
+-   Avoid running shrink on files regularly.
+
 ## Tools
