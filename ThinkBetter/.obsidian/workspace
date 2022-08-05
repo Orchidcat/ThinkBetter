@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "Configuration CheckList.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "Configuration CheckList.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "Configuration CheckList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,9 +159,9 @@
   },
   "active": "4f46de55217e38a3",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "去回顾，而不是反刍.md",
     "情绪共存.md",
-    "读书 MOC.md",
     "+Home.md",
     "SQL Server MOC.md",
     "Configuration CheckList.md",
