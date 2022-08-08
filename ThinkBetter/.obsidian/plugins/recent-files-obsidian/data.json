@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "视频制作",
+      "path": "视频制作.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2022-06-27",
       "path": "DailyNotes/2022-06-27.md"
-    },
-    {
-      "basename": "容易疲惫怎么办",
-      "path": "容易疲惫怎么办.md"
     }
   ],
   "omittedPaths": [],
