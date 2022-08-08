@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "项目 MOC.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目 MOC.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目 MOC.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,9 +161,9 @@
   "lastOpenFiles": [
     "+Home.md",
     "项目 MOC.md",
+    "读书 MOC.md",
     "目标 MOC.md",
     "噪音中获取信息.md",
-    "读书 MOC.md",
     "视频制作.md",
     "灰色思维.md",
     "去回顾，而不是反刍.md",

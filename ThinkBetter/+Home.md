@@ -11,7 +11,6 @@ not done
 sort by due
 short mode
 path does not include Templates
-hide count
 ```
 
 
