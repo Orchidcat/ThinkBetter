@@ -9,6 +9,10 @@
       "path": "+Home.md"
     },
     {
+      "basename": "目标 MOC",
+      "path": "目标 MOC.md"
+    },
+    {
       "basename": "噪音中获取信息",
       "path": "噪音中获取信息.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 日记",
       "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "大脑构成",
-      "path": "大脑构成.md"
     }
   ],
   "omittedPaths": [],

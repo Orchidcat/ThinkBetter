@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "项目 MOC.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#查理芒格",
+                "query": "tag:#task",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,14 +160,14 @@
   "active": "edfb6ac248c61482",
   "lastOpenFiles": [
     "+Home.md",
+    "项目 MOC.md",
+    "目标 MOC.md",
     "噪音中获取信息.md",
     "读书 MOC.md",
-    "项目 MOC.md",
     "视频制作.md",
     "灰色思维.md",
     "去回顾，而不是反刍.md",
     "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md",
-    "一句话的玩味.md",
-    "情绪共存.md"
+    "一句话的玩味.md"
   ]
 }

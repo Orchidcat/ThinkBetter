@@ -8,12 +8,10 @@ alias: ["000", "Home"]
 - TASK🍅
 ```tasks
 not done
-due after 2022-05-25
 sort by due
-hide recurrence rule
 short mode
 path does not include Templates
-hide task count
+hide count
 ```
 
 
