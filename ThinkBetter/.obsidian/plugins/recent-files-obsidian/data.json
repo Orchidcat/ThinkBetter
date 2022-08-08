@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "灰色思维",
+      "path": "灰色思维.md"
+    },
+    {
       "basename": "噪音中获取信息",
       "path": "噪音中获取信息.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大脑构成",
       "path": "大脑构成.md"
-    },
-    {
-      "basename": "OB超链接方式列表",
-      "path": "OB超链接方式列表.md"
     }
   ],
   "omittedPaths": [],

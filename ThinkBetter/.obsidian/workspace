@@ -28,6 +28,18 @@
         }
       },
       {
+        "id": "cd2291286038fad1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "灰色思维.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "839666c75850ff05",
         "type": "leaf",
         "state": {
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "噪音中获取信息.md"
+                "file": "灰色思维.md"
               }
             }
           }
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "噪音中获取信息.md",
+                "file": "灰色思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +193,9 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "edfb6ac248c61482",
+  "active": "cd2291286038fad1",
   "lastOpenFiles": [
+    "噪音中获取信息.md",
     "去回顾，而不是反刍.md",
     "读书 MOC.md",
     "视频制作.md",
@@ -191,7 +204,6 @@
     "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md",
     "一句话的玩味.md",
     "情绪共存.md",
-    "SQL Server MOC.md",
-    "Configuration CheckList.md"
+    "SQL Server MOC.md"
   ]
 }
