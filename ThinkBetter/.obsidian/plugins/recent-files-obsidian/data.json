@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "噪音中获取信息",
+      "path": "噪音中获取信息.md"
+    },
+    {
+      "basename": "去回顾，而不是反刍",
+      "path": "去回顾，而不是反刍.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "视频制作",
       "path": "视频制作.md"
     },
@@ -13,16 +25,8 @@
       "path": "+Home.md"
     },
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "去回顾，而不是反刍",
-      "path": "去回顾，而不是反刍.md"
     },
     {
       "basename": "Configuration CheckList",
@@ -195,10 +199,6 @@
     {
       "basename": "OB超链接方式列表",
       "path": "OB超链接方式列表.md"
-    },
-    {
-      "basename": "2022-06-27",
-      "path": "DailyNotes/2022-06-27.md"
     }
   ],
   "omittedPaths": [],
