@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书 MOC.md",
+            "file": "Templates/Template - 日记.md",
             "mode": "source",
             "source": false
           }
@@ -89,13 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 454
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "Templates/Template - 日记.md"
               }
             }
           }
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "Templates/Template - 日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +157,15 @@
   },
   "active": "edfb6ac248c61482",
   "lastOpenFiles": [
+    "Templates/Template - Bike.md",
+    "Templates/Template - 心智模型.md",
+    "Templates/Template - 文章.md",
+    "Templates/Template - 日记.md",
+    "Templates/Template - 读书.md",
+    "噪音中获取信息.md",
+    "读书 MOC.md",
     "+Home.md",
     "项目 MOC.md",
-    "读书 MOC.md",
-    "目标 MOC.md",
-    "噪音中获取信息.md",
-    "视频制作.md",
-    "灰色思维.md",
-    "去回顾，而不是反刍.md",
-    "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md",
-    "一句话的玩味.md"
+    "目标 MOC.md"
   ]
 }

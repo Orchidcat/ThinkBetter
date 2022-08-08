@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "Template - Bike",
+      "path": "Templates/Template - Bike.md"
+    },
+    {
+      "basename": "Template - 心智模型",
+      "path": "Templates/Template - 心智模型.md"
+    },
+    {
+      "basename": "Template - 文章",
+      "path": "Templates/Template - 文章.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "噪音中获取信息",
+      "path": "噪音中获取信息.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "目标 MOC",
       "path": "目标 MOC.md"
-    },
-    {
-      "basename": "噪音中获取信息",
-      "path": "噪音中获取信息.md"
     },
     {
       "basename": "视频制作",
@@ -179,26 +199,6 @@
     {
       "basename": "黄体酮",
       "path": "黄体酮.md"
-    },
-    {
-      "basename": "2022-06-29",
-      "path": "DailyNotes/2022-06-29.md"
-    },
-    {
-      "basename": "二阶思维",
-      "path": "二阶思维.md"
-    },
-    {
-      "basename": "Pasted image 20220430085944.png",
-      "path": "Pasted image 20220430085944.png.md"
-    },
-    {
-      "basename": "基本Q",
-      "path": "基本Q.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
     }
   ],
   "omittedPaths": [],
