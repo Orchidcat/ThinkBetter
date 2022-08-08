@@ -33,6 +33,6 @@ dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
 from #Speeches  
 where dateformat(file.cday,"yyyy")="2022"
 sort file.ctime DESC
-flatten 
+flatten file.name
 ```
 
