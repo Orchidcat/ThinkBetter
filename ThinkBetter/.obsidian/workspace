@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "犹豫纠结不仅增加沉没成本，还可能让一往无前的勇气消磨殆尽。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
   },
   "active": "33df726a65e7b258",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "去回顾，而不是反刍.md",
-    "情绪共存.md",
+    "读书 MOC.md",
     "+Home.md",
+    "情绪共存.md",
     "SQL Server MOC.md",
     "Configuration CheckList.md",
     "学习高手.md",
