@@ -8,12 +8,9 @@ alias: ["000", "Home"]
 - TASK🍅
 ```tasks
 not done
-due after 2022-05-25
 sort by due
-hide recurrence rule
 short mode
 path does not include Templates
-hide task count
 ```
 
 
@@ -28,6 +25,7 @@ hide task count
 	- [[读书 MOC]]
 	- [[心智模型 MOC]]
 		-  [[第一性原理#^a94c8a]]
+		- [[一句话的玩味]]
 
 
 
