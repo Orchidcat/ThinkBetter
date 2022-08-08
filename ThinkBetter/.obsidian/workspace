@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4f46de55217e38a3",
+        "id": "33df726a65e7b258",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Configuration CheckList.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration CheckList.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration CheckList.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "4f46de55217e38a3",
+  "active": "33df726a65e7b258",
   "lastOpenFiles": [
     "读书 MOC.md",
     "去回顾，而不是反刍.md",
