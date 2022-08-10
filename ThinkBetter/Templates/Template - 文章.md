@@ -1,7 +1,7 @@
 ---
 tags: ['articles']
 desc: 
-date: {{YYYY-MM-DD}} 
+date: 
 link: 
 ---
 
