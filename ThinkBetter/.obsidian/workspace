@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "第一性原理.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "第一性原理.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "9b2677b9687ce971",
   "lastOpenFiles": [
+    "100种心智模型.md",
+    "心智模型 MOC.md",
+    "+Home.md",
     "Templates/Template - 日记.md",
     "Templates/Template - Bike.md",
     "Templates/Template - 心智模型.md",
     "Templates/Template - 文章.md",
     "Templates/Template - 读书.md",
     "噪音中获取信息.md",
-    "读书 MOC.md",
-    "+Home.md",
-    "项目 MOC.md",
-    "目标 MOC.md"
+    "读书 MOC.md"
   ]
 }
