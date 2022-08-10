@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -154,7 +155,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "496d8b50375bb5e6",
+  "active": "9b2677b9687ce971",
   "lastOpenFiles": [
     "100种心智模型.md",
     "心智模型 MOC.md",
