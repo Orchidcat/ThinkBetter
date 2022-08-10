@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "edfb6ac248c61482",
+        "id": "9b2677b9687ce971",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template - 日记.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "tag:#Bike",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - 日记.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - 日记.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,20 +149,19 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 375,
     "collapsed": true
   },
-  "active": "edfb6ac248c61482",
+  "active": "9b2677b9687ce971",
   "lastOpenFiles": [
+    "Templates/Template - 日记.md",
     "Templates/Template - Bike.md",
     "Templates/Template - 心智模型.md",
     "Templates/Template - 文章.md",
-    "Templates/Template - 日记.md",
     "Templates/Template - 读书.md",
     "噪音中获取信息.md",
     "读书 MOC.md",
