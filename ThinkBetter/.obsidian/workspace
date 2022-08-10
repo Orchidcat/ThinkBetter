@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b2677b9687ce971",
+        "id": "1034dedf77d42b4a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "第一性原理.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "第一性原理.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +148,10 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "9b2677b9687ce971",
+  "active": "1034dedf77d42b4a",
   "lastOpenFiles": [
+    "未命名.md",
+    "第一性原理.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
@@ -164,8 +159,6 @@
     "Templates/Template - Bike.md",
     "Templates/Template - 心智模型.md",
     "Templates/Template - 文章.md",
-    "Templates/Template - 读书.md",
-    "噪音中获取信息.md",
-    "读书 MOC.md"
+    "Templates/Template - 读书.md"
   ]
 }
