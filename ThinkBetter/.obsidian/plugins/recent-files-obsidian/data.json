@@ -5,16 +5,20 @@
       "path": "读书 MOC.md"
     },
     {
-      "basename": "什么是癌症",
-      "path": "什么是癌症.md"
-    },
-    {
       "basename": "+Home",
       "path": "+Home.md"
     },
     {
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
+    },
+    {
       "basename": "Tools",
       "path": "Tools.md"
+    },
+    {
+      "basename": "什么是癌症",
+      "path": "什么是癌症.md"
     },
     {
       "basename": "人，永远有选择自己态度的自由",
@@ -127,10 +131,6 @@
     {
       "basename": "QR Code 生成过程",
       "path": "QR Code 生成过程.md"
-    },
-    {
-      "basename": "人物 MOC",
-      "path": "人物 MOC.md"
     },
     {
       "basename": "有效思考的关键要素",
