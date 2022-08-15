@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "10个写作的技巧.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "10个写作的技巧.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "10个写作的技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,9 @@
   },
   "active": "02fa11e2f044dc8a",
   "lastOpenFiles": [
+    "+Home.md",
     "10个写作的技巧.md",
     "DailyNotes/2022-08-15.md",
-    "+Home.md",
     "未命名 2.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
