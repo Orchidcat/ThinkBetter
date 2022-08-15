@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10个写作的技巧",
+      "path": "10个写作的技巧.md"
+    },
+    {
+      "basename": "2022-08-15",
+      "path": "DailyNotes/2022-08-15.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Vue",
       "path": "Vue.md"
-    },
-    {
-      "basename": "锻炼自己的感知力",
-      "path": "锻炼自己的感知力.md"
-    },
-    {
-      "basename": "Life is not short",
-      "path": "Life is not short.md"
     }
   ],
   "omittedPaths": [],
