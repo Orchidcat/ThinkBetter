@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "什么是癌症",
+      "path": "什么是癌症.md"
+    },
+    {
+      "basename": "人，永远有选择自己态度的自由",
+      "path": "人，永远有选择自己态度的自由.md"
+    },
+    {
       "basename": "10个写作的技巧",
       "path": "10个写作的技巧.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Template - 文章",
       "path": "Templates/Template - 文章.md"
-    },
-    {
-      "basename": "人，永远有选择自己态度的自由",
-      "path": "人，永远有选择自己态度的自由.md"
     },
     {
       "basename": "未命名 1",
@@ -195,10 +199,6 @@
     {
       "basename": "PB的编译过程",
       "path": "PB的编译过程.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Vue.md"
     }
   ],
   "omittedPaths": [],
