@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "思考问题的三个过滤器.md",
-            "mode": "source",
+            "file": "+Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考问题的三个过滤器.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考问题的三个过滤器.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "975014c4d54ff7db",
   "lastOpenFiles": [
-    "心智模型 MOC.md",
-    "思考问题的三个过滤器.md",
+    "NotToDo.md",
     "+Home.md",
+    "思考问题的三个过滤器.md",
+    "心智模型 MOC.md",
     "读书 MOC.md",
     "Tools.md",
     "人物 MOC.md",
     "什么是癌症.md",
     "人，永远有选择自己态度的自由.md",
-    "10个写作的技巧.md",
-    "DailyNotes/2022-08-15.md"
+    "10个写作的技巧.md"
   ]
 }

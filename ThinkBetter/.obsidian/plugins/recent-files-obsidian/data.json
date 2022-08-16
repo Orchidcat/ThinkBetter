@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
       "basename": "思考问题的三个过滤器",
       "path": "思考问题的三个过滤器.md"
     },
     {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "读书 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Neil Gaiman - Make Good Art",
       "path": "Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "走出自我怀疑，自我否定",
-      "path": "走出自我怀疑，自我否定.md"
     }
   ],
   "omittedPaths": [],
