@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
-            "mode": "preview",
+            "file": "心智模型 MOC.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "心智模型 MOC.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "心智模型 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,13 +160,13 @@
   "lastOpenFiles": [
     "+Home.md",
     "读书 MOC.md",
+    "思考问题的三个过滤器.md",
     "Tools.md",
     "人物 MOC.md",
     "什么是癌症.md",
     "人，永远有选择自己态度的自由.md",
     "10个写作的技巧.md",
     "DailyNotes/2022-08-15.md",
-    "未命名 2.md",
-    "100种心智模型.md"
+    "未命名 2.md"
   ]
 }
