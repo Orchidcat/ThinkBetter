@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "什么是真正的学习.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "什么是真正的学习.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "什么是真正的学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,8 @@
   },
   "active": "0f0e62801df0d186",
   "lastOpenFiles": [
-    "NotToDo.md",
     "+Home.md",
+    "NotToDo.md",
     "思考问题的三个过滤器.md",
     "心智模型 MOC.md",
     "读书 MOC.md",
