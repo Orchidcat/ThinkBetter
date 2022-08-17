@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bike",
+                "query": "愚蠢",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 454
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -153,10 +152,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
-  "active": "3e0bb5e74cd088e0",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "什么是真正的学习.md",
     "+Home.md",
