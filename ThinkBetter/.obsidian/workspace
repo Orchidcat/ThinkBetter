@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0e62801df0d186",
+        "id": "3e0bb5e74cd088e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "击球科学.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "击球科学.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "击球科学.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "0f0e62801df0d186",
+  "active": "3e0bb5e74cd088e0",
   "lastOpenFiles": [
     "什么是真正的学习.md",
     "+Home.md",
