@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0bb5e74cd088e0",
+        "id": "bccc40a4d3a6b356",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "愚蠢的来源.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "愚蠢的来源.md"
               }
             }
           }
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "愚蠢的来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +153,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
-  "active": "b29475884b4470c5",
+  "active": "bccc40a4d3a6b356",
   "lastOpenFiles": [
-    "什么是真正的学习.md",
+    "100种心智模型.md",
+    "愚蠢的来源.md",
+    "心智模型 MOC.md",
     "+Home.md",
+    "什么是真正的学习.md",
     "NotToDo.md",
     "思考问题的三个过滤器.md",
-    "心智模型 MOC.md",
     "读书 MOC.md",
     "Tools.md",
-    "人物 MOC.md",
-    "什么是癌症.md",
-    "人，永远有选择自己态度的自由.md"
+    "人物 MOC.md"
   ]
 }
