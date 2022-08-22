@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "双线战争",
+      "path": "双线战争.md"
+    },
+    {
       "basename": "不对称战争",
       "path": "不对称战争.md"
     },
     {
-      "basename": "看到前线",
-      "path": "看到前线.md"
-    },
-    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
+    },
+    {
+      "basename": "看到前线",
+      "path": "看到前线.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "NewVersion",
       "path": "NewVersion.md"
-    },
-    {
-      "basename": "地图不是领土",
-      "path": "地图不是领土.md"
     }
   ],
   "omittedPaths": [],
