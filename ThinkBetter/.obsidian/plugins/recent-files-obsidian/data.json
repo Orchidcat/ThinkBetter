@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "相互保证毁灭",
+      "path": "相互保证毁灭.md"
+    },
+    {
       "basename": "平叛",
       "path": "平叛.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "原则",
       "path": "原则.md"
-    },
-    {
-      "basename": "SQL Server 2000~2016 Evolution",
-      "path": "SQL Server 2000~2016 Evolution.md"
     }
   ],
   "omittedPaths": [],
