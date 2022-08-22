@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "愚蠢的来源.md",
+            "file": "基本Q.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "愚蠢的来源.md"
+                "file": "基本Q.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "愚蠢的来源.md",
+                "file": "基本Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,14 +158,14 @@
   },
   "active": "d37bc13225b04765",
   "lastOpenFiles": [
+    "+Home.md",
+    "愚蠢的来源.md",
     "100种心智模型.md",
     "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
     "不对称战争.md",
     "看到前线.md",
-    "+Home.md",
-    "愚蠢的来源.md",
     "心智模型 MOC.md",
     "什么是真正的学习.md"
   ]
