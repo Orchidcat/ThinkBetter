@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "平叛",
+      "path": "平叛.md"
+    },
+    {
       "basename": "双线战争",
       "path": "双线战争.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server 2000~2016 Evolution",
       "path": "SQL Server 2000~2016 Evolution.md"
-    },
-    {
-      "basename": "NewVersion",
-      "path": "NewVersion.md"
     }
   ],
   "omittedPaths": [],
