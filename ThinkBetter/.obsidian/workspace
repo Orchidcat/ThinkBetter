@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "不对称战争.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "不对称战争.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "不对称战争.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "d37bc13225b04765",
   "lastOpenFiles": [
+    "看到前线.md",
     "100种心智模型.md",
+    "+Home.md",
     "愚蠢的来源.md",
     "心智模型 MOC.md",
-    "+Home.md",
     "什么是真正的学习.md",
     "NotToDo.md",
     "思考问题的三个过滤器.md",
     "读书 MOC.md",
-    "Tools.md",
-    "人物 MOC.md"
+    "Tools.md"
   ]
 }
