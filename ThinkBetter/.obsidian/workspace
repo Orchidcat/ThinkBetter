@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学会提问.md",
+            "file": "100种心智模型.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e9da003f234ec0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "愚蠢的来源.md",
             "mode": "source",
             "source": false
           }
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 454
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学会提问.md"
+                "file": "愚蠢的来源.md"
               }
             }
           }
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学会提问.md",
+                "file": "愚蠢的来源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +164,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
-  "active": "dbeba1a6930a6a85",
+  "active": "8e9da003f234ec0a",
   "lastOpenFiles": [
-    "+Home.md",
-    "学会提问.md",
-    "愚蠢的来源.md",
     "100种心智模型.md",
+    "学会提问.md",
+    "+Home.md",
+    "愚蠢的来源.md",
     "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
