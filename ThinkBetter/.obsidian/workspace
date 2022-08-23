@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9da003f234ec0a",
+        "id": "e7c5357d5c65325c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "愚蠢的来源.md",
+            "file": "学会提问.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "愚蠢的来源.md"
+                "file": "学会提问.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "愚蠢的来源.md",
+                "file": "学会提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,10 +156,10 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "8e9da003f234ec0a",
+  "active": "e7c5357d5c65325c",
   "lastOpenFiles": [
-    "100种心智模型.md",
     "愚蠢的来源.md",
+    "100种心智模型.md",
     "学会提问.md",
     "+Home.md",
     "相互保证毁灭.md",
