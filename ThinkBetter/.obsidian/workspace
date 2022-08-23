@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "学会提问.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "学会提问.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "学会提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

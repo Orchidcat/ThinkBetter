@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学会提问",
+      "path": "学会提问.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SMART原则",
       "path": "SMART原则.md"
-    },
-    {
-      "basename": "有效思维的5个要素",
-      "path": "有效思维的5个要素.md"
     }
   ],
   "omittedPaths": [],
