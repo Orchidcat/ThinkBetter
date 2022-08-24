@@ -5,6 +5,10 @@
       "path": "学会提问.md"
     },
     {
+      "basename": "Templates - 论证",
+      "path": "Templates/Templates - 论证.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "能力圈",
       "path": "能力圈.md"
-    },
-    {
-      "basename": "SMART原则",
-      "path": "SMART原则.md"
     }
   ],
   "omittedPaths": [],

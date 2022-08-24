@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "327ab54742d4dffc",
+        "id": "422602874ab5fb18",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 100
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -151,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
-  "active": "496d8b50375bb5e6",
+  "active": "422602874ab5fb18",
   "lastOpenFiles": [
+    "Templates/Templates - 论证.md",
+    "学会提问.md",
     "+Home.md",
     "愚蠢的来源.md",
     "100种心智模型.md",
-    "学会提问.md",
     "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
     "不对称战争.md",
-    "看到前线.md",
-    "心智模型 MOC.md"
+    "看到前线.md"
   ]
 }
