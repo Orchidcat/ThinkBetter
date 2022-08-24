@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "学会提问.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "学会提问.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "学会提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +158,10 @@
   },
   "active": "327ab54742d4dffc",
   "lastOpenFiles": [
+    "+Home.md",
     "愚蠢的来源.md",
     "100种心智模型.md",
     "学会提问.md",
-    "+Home.md",
     "相互保证毁灭.md",
     "平叛.md",
     "双线战争.md",
