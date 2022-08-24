@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c5357d5c65325c",
+        "id": "327ab54742d4dffc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学会提问.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学会提问.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学会提问.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "e7c5357d5c65325c",
+  "active": "327ab54742d4dffc",
   "lastOpenFiles": [
     "愚蠢的来源.md",
     "100种心智模型.md",
