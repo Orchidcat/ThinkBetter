@@ -5,6 +5,14 @@
       "path": "学会提问.md"
     },
     {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "Templates - 论证",
       "path": "Templates/Templates - 论证.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "思考问题的三个过滤器",
       "path": "思考问题的三个过滤器.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "一句话的玩味",
@@ -171,10 +175,6 @@
     {
       "basename": "工作、消费主意和新穷人",
       "path": "工作、消费主意和新穷人.md"
-    },
-    {
-      "basename": "学习高手",
-      "path": "学习高手.md"
     },
     {
       "basename": "随手摘",
