@@ -89,11 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 410.5,
     "collapsed": true
   },
   "right": {
@@ -157,15 +158,15 @@
   },
   "active": "e5fbdcac86ec22f9",
   "lastOpenFiles": [
+    "项目 MOC.md",
+    "+Home.md",
+    "目标 MOC.md",
     "学习高手.md",
     "读书 MOC.md",
     "学会提问.md",
     "Templates/Templates - 论证.md",
-    "+Home.md",
     "愚蠢的来源.md",
     "100种心智模型.md",
-    "相互保证毁灭.md",
-    "平叛.md",
-    "双线战争.md"
+    "相互保证毁灭.md"
   ]
 }

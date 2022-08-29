@@ -5,6 +5,14 @@
       "path": "+Home.md"
     },
     {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
+      "basename": "目标 MOC",
+      "path": "目标 MOC.md"
+    },
+    {
       "basename": "学会提问",
       "path": "学会提问.md"
     },
@@ -139,14 +147,6 @@
     {
       "basename": "噪音中获取信息",
       "path": "噪音中获取信息.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "目标 MOC.md"
     },
     {
       "basename": "视频制作",
