@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "佐藤可士和的超整理术.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "佐藤可士和的超整理术.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "佐藤可士和的超整理术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,8 @@
   },
   "active": "773a67effadbcc63",
   "lastOpenFiles": [
-    "项目 MOC.md",
     "+Home.md",
+    "项目 MOC.md",
     "目标 MOC.md",
     "学习高手.md",
     "读书 MOC.md",
