@@ -25,7 +25,7 @@
 - https://www.sqlskills.com/blogs/glenn/database-compatibility-level-in-sql-server/
 
 
-[[存储引擎]]
+[operator list](https://sqlserverfast.com/epr/operator-list/)
 
 
 [[SQL Server 2000~2016 Evolution]]
