@@ -7,8 +7,12 @@
         "id": "2850ad53d6852996",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           }
         ]
@@ -121,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
