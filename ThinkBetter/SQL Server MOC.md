@@ -25,6 +25,9 @@
 - https://www.sqlskills.com/blogs/glenn/database-compatibility-level-in-sql-server/
 
 
+[[存储引擎]]
+
+
 [[SQL Server 2000~2016 Evolution]]
 
 SQL Server 目前版本
