@@ -7,6 +7,6 @@
 
 ## your notetaking  personality
 - architect  (create pyramid system )  -- Notion
-- gardener （explore）-- Rome research | Obsidian
+- gardener （explore）-- Rome research | Obsidian | Craft | Logseq
 - librarian （research) -- Evernote
 - Student  -- apple Notes | Google keep |  Notability | SimpleNote
