@@ -9,4 +9,4 @@
 - architect  (create pyramid system )  -- Notion
 - gardener （explore）-- Rome research | Obsidian
 - librarian （research) -- Evernote
-- Student  -- apple 
+- Student  -- apple Notes | Google keep |  Notability | SimpleNote
