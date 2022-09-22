@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 3",
+      "path": "未命名 3.md"
+    },
+    {
       "basename": "WorkFlowMOC",
       "path": "WorkFlowMOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Configuration CheckList",
       "path": "Configuration CheckList.md"
-    },
-    {
-      "basename": "情绪共存",
-      "path": "情绪共存.md"
     }
   ],
   "omittedPaths": [],
