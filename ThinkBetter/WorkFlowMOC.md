@@ -1,5 +1,4 @@
 ## Notetaking Style
-
 - consider your goal
 - evaluate the app
 - know the features
