@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "情绪共存",
       "path": "情绪共存.md"
-    },
-    {
-      "basename": "随手摘",
-      "path": "随手摘.md"
     }
   ],
   "omittedPaths": [],
