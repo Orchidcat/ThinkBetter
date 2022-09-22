@@ -7,3 +7,4 @@ Notetaking Style
 your notetaking  personality
 - architect  (create pyramid system )
 - gardener （explore）
+- 
