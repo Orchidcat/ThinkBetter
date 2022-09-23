@@ -33,6 +33,9 @@ sqlserver explorer 工具查看
 click module button 
 ![[Pasted image 20220923104356.png]]
 
+
+kill 3436  session 
+
 #### 参考
 sys.dm_os_loaded_modules 
 [为什么 PREEMPTIVE_OS_GETPROCADRESS 显示大量累积？](https://learn.microsoft.com/en-us/archive/blogs/psssql/why-does-preemptive_os_getprocaddress-show-a-large-accumulation)
