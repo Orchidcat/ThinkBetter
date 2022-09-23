@@ -11,6 +11,25 @@ from sys.dm_os_wait_stats
 where wait_type = 'PREEMPTIVE_OS_GETPROCADDRESS' 
 or wait_type = 'MSQL_XP'
 
+--查看执行等待时间
+declare @WaitTime bigint
+select @WaitTime = wait_time_ms from sys.dm_os_wait_stats where wait_type = 'MSQL_XP'
+select @WaitTime - wait_time_ms from sys.dm_os_wait_stats where wait_type = 'PREEMPTIVE_OS_GETPROCADDRESS'
+
+--查看相关扩展存储过程
+sp_helpextendedproc 
+
+
+--执行
 
 
 ```
+
+
+
+
+
+#### 参考
+sys.dm_os_loaded_modules 
+[为什么 PREEMPTIVE_OS_GETPROCADRESS 显示大量累积？](https://learn.microsoft.com/en-us/archive/blogs/psssql/why-does-preemptive_os_getprocaddress-show-a-large-accumulation)
+[DBCC ddlname](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-dllname-free-transact-sql?view=sql-server-ver16)
