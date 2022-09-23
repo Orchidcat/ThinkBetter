@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
-            "mode": "source",
+            "file": "PREEMPTIVE_OS_GETPROCADDRESS.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "PREEMPTIVE_OS_GETPROCADDRESS.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "PREEMPTIVE_OS_GETPROCADDRESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
