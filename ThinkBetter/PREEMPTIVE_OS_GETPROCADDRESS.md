@@ -20,11 +20,10 @@ select @WaitTime - wait_time_ms from sys.dm_os_wait_stats where wait_type = 'PRE
 sp_helpextendedproc 
 
 
---执行
-
-
+--从内存卸载特定的扩展存储过程dll
+DBCC xpstar (FREE);
 ```
-
+![[Pasted image 20220923094923.png]]
 
 
 
