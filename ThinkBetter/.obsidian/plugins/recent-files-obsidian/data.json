@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
+      "path": "PREEMPTIVE_OS_GETPROCADDRESS.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "去回顾，而不是反刍",
       "path": "去回顾，而不是反刍.md"
-    },
-    {
-      "basename": "Configuration CheckList",
-      "path": "Configuration CheckList.md"
     }
   ],
   "omittedPaths": [],
