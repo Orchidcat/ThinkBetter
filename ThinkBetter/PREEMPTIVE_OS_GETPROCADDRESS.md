@@ -53,4 +53,6 @@ sys.dm_os_loaded_modules
 [DBCC ddlname](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-dllname-free-transact-sql?view=sql-server-ver16)
 
 据说可以解决
-I got issue resolved by killing spid initiated by extended stored procedure.
+[I got issue resolved by killing spid initiated by extended stored procedure](https://www.sqlservercentral.com/forums/topic/unable-to-kill-transaction-in-msdb)
+https://www.sqlteam.com/forums/topic.asp?TOPIC_ID=90515
+
