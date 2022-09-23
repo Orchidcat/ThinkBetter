@@ -40,7 +40,8 @@ kill 3436  session 之后
 SELECT * FROM sys.dm_os_tasks where session_id IS NOT NULL 
 查询锁死状态，不能显示。 数据库状态监视器也无法显示。
 
-
+重启服务，报相关域管理员错误。
+重启机器，服务恢复。
 
 
 
