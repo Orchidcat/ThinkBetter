@@ -51,3 +51,6 @@ SELECT * FROM sys.dm_os_tasks where session_id IS NOT NULL
 sys.dm_os_loaded_modules 
 [为什么 PREEMPTIVE_OS_GETPROCADRESS 显示大量累积？](https://learn.microsoft.com/en-us/archive/blogs/psssql/why-does-preemptive_os_getprocaddress-show-a-large-accumulation)
 [DBCC ddlname](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-dllname-free-transact-sql?view=sql-server-ver16)
+
+据说可以解决
+I got issue resolved by killing spid initiated by extended stored procedure.
