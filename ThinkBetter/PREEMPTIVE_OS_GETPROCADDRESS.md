@@ -26,7 +26,12 @@ DBCC xpstar (FREE);
 ![[Pasted image 20220923094923.png]]
 
 
+解决方法：
+sqlserver explorer 工具查看
+![[Pasted image 20220923104256.png]]
 
+click module button 
+![[Pasted image 20220923104356.png]]
 
 #### 参考
 sys.dm_os_loaded_modules 
