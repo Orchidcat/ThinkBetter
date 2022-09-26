@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyNotes/2022-09-26.md",
+            "file": "YEAR MOC⌛.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2022-09-26.md"
+                "file": "YEAR MOC⌛.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2022-09-26.md",
+                "file": "YEAR MOC⌛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,11 +157,11 @@
   },
   "active": "bfa36d1d17d837ca",
   "lastOpenFiles": [
+    "+Home.md",
+    "DailyNotes/2022-09-26.md",
     "思考问题的三个过滤器.md",
     "NotToDo.md",
-    "DailyNotes/2022-09-26.md",
     "未命名 4.md",
-    "+Home.md",
     "WorkFlowMOC.md",
     "NewVersion.md",
     "SQL Server MOC.md",
