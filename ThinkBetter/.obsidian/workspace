@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "YEAR MOC⌛.md",
+            "file": "Templates/Template - 日记.md",
             "mode": "source",
             "source": false
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YEAR MOC⌛.md"
+                "file": "Templates/Template - 日记.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YEAR MOC⌛.md",
+                "file": "Templates/Template - 日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +156,15 @@
   },
   "active": "bfa36d1d17d837ca",
   "lastOpenFiles": [
+    "DailyNotes/2021-12-13.md",
+    "YEAR MOC⌛.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
     "第一性原理.md",
-    "YEAR MOC⌛.md",
     "DailyNotes/2022-09-26.md",
     "思考问题的三个过滤器.md",
     "NotToDo.md",
-    "未命名 4.md",
-    "WorkFlowMOC.md"
+    "未命名 4.md"
   ]
 }

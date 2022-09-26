@@ -1,3 +1,3 @@
 ```dataview
-list from #DailyNotes 
+list  from 
 ```

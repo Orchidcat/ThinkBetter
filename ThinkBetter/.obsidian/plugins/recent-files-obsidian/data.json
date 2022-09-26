@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "2021-12-13",
+      "path": "DailyNotes/2021-12-13.md"
+    },
+    {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
     },
@@ -181,10 +189,6 @@
       "path": "未命名.md"
     },
     {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
       "basename": "Template - Bike",
       "path": "Templates/Template - Bike.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "噪音中获取信息",
-      "path": "噪音中获取信息.md"
     }
   ],
   "omittedPaths": [],
