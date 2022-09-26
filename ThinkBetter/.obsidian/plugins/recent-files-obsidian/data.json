@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-09-26",
+      "path": "DailyNotes/2022-09-26.md"
+    },
+    {
+      "basename": "思考问题的三个过滤器",
+      "path": "思考问题的三个过滤器.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -113,14 +129,6 @@
       "path": "什么是真正的学习.md"
     },
     {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "思考问题的三个过滤器.md"
-    },
-    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "视频制作",
       "path": "视频制作.md"
-    },
-    {
-      "basename": "灰色思维",
-      "path": "灰色思维.md"
-    },
-    {
-      "basename": "去回顾，而不是反刍",
-      "path": "去回顾，而不是反刍.md"
     }
   ],
   "omittedPaths": [],
