@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "Template - 日记",
       "path": "Templates/Template - 日记.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "第一性原理",
