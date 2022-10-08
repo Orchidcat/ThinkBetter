@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "读书 MOC.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,13 +154,13 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "496d8b50375bb5e6",
+  "active": "e04743ce2db5110f",
   "lastOpenFiles": [
+    "+Home.md",
     "DailyNotes/2021-12-13.md",
     "YEAR MOC⌛.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
-    "+Home.md",
     "第一性原理.md",
     "DailyNotes/2022-09-26.md",
     "思考问题的三个过滤器.md",
