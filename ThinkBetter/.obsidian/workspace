@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe012cf19a5372f",
+        "id": "07361e34418d592f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "强者的温柔.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "强者的温柔.md"
               }
             }
           }
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "强者的温柔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +155,17 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "ebe012cf19a5372f",
+  "active": "07361e34418d592f",
   "lastOpenFiles": [
+    "读书 MOC.md",
+    "强者的温柔.md",
+    "佐藤可士和的超整理术.md",
     "+Home.md",
+    "未命名 5.md",
+    "你干嘛在乎别人怎么想.md",
     "DailyNotes/2021-12-13.md",
     "YEAR MOC⌛.md",
     "100种心智模型.md",
-    "心智模型 MOC.md",
-    "第一性原理.md",
-    "DailyNotes/2022-09-26.md",
-    "思考问题的三个过滤器.md",
-    "NotToDo.md",
-    "未命名 4.md"
+    "心智模型 MOC.md"
   ]
 }

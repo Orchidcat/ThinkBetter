@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "强者的温柔",
+      "path": "强者的温柔.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "佐藤可士和的超整理术",
+      "path": "佐藤可士和的超整理术.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "未命名 5",
+      "path": "未命名 5.md"
+    },
+    {
+      "basename": "你干嘛在乎别人怎么想",
+      "path": "你干嘛在乎别人怎么想.md"
     },
     {
       "basename": "Template - 日记",
@@ -83,10 +103,6 @@
     {
       "basename": "工作、消费主意和新穷人",
       "path": "工作、消费主意和新穷人.md"
-    },
-    {
-      "basename": "佐藤可士和的超整理术",
-      "path": "佐藤可士和的超整理术.md"
     },
     {
       "basename": "项目 MOC",
@@ -183,22 +199,6 @@
     {
       "basename": "未命名 1",
       "path": "未命名 1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
     }
   ],
   "omittedPaths": [],
