@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07361e34418d592f",
+        "id": "ddf5d436ebcb151c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "强者的温柔.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "强者的温柔.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强者的温柔.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "07361e34418d592f",
+  "active": "ddf5d436ebcb151c",
   "lastOpenFiles": [
     "读书 MOC.md",
     "强者的温柔.md",
