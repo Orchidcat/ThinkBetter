@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "强者的温柔.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "强者的温柔.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "强者的温柔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +157,10 @@
   },
   "active": "ddf5d436ebcb151c",
   "lastOpenFiles": [
+    "+Home.md",
     "读书 MOC.md",
     "强者的温柔.md",
     "佐藤可士和的超整理术.md",
-    "+Home.md",
     "未命名 5.md",
     "你干嘛在乎别人怎么想.md",
     "DailyNotes/2021-12-13.md",
