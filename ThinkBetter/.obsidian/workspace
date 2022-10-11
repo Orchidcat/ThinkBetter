@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pree",
+                "query": "cpu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -155,7 +155,7 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "c5ed6aeed47356d6",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "读书 MOC.md",
     "强者的温柔.md",
