@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ed6aeed47356d6",
+        "id": "22f94398a693ac75",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "强者的温柔.md",
+            "file": "+Home.md",
             "mode": "source",
             "source": false
           }
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "强者的温柔.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强者的温柔.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +155,11 @@
     "width": 375,
     "collapsed": true
   },
-  "active": "b29475884b4470c5",
+  "active": "22f94398a693ac75",
   "lastOpenFiles": [
-    "读书 MOC.md",
-    "强者的温柔.md",
     "+Home.md",
+    "强者的温柔.md",
+    "读书 MOC.md",
     "佐藤可士和的超整理术.md",
     "未命名 5.md",
     "你干嘛在乎别人怎么想.md",
