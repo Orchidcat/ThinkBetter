@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
+    },
+    {
       "basename": "强者的温柔",
       "path": "强者的温柔.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 文章",
       "path": "Templates/Template - 文章.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     }
   ],
   "omittedPaths": [],
