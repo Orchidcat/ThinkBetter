@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "黄帝内经.md",
+            "file": "模仿者.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "模仿者.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "模仿者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "2fab8003e807f784",
   "lastOpenFiles": [
-    "+Home.md",
     "读书 MOC.md",
+    "模仿者.md",
+    "什么是癌症.md",
     "黄帝内经.md",
+    "+Home.md",
     "强者的温柔.md",
     "佐藤可士和的超整理术.md",
     "未命名 5.md",
     "你干嘛在乎别人怎么想.md",
-    "DailyNotes/2021-12-13.md",
-    "YEAR MOC⌛.md",
-    "100种心智模型.md"
+    "DailyNotes/2021-12-13.md"
   ]
 }
