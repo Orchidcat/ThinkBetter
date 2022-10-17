@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "黄帝内经",
       "path": "黄帝内经.md"
     },
     {
-      "basename": "模仿者",
-      "path": "模仿者.md"
-    },
-    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "模仿者",
+      "path": "模仿者.md"
     },
     {
       "basename": "什么是癌症",
@@ -59,10 +63,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     },
     {
       "basename": "第一性原理",
