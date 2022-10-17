@@ -5,8 +5,8 @@
   "foldIndent": true,
   "attachmentFolderPath": "Sources",
   "spellcheckLanguages": [
-    "zh-CN",
     "en-US"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }

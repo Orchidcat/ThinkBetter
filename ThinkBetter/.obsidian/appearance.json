@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 13,
   "cssTheme": "",
   "theme": "obsidian",
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false
 }
