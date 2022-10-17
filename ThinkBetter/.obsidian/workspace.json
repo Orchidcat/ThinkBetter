@@ -14,12 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "黄帝内经.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7c08c955b73bd70b",
+  "active": "ebed1a78815bdf47",
   "lastOpenFiles": [
     "读书 MOC.md",
     "+Home.md",
