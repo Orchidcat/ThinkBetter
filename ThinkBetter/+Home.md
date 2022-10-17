@@ -15,6 +15,7 @@ path does not include Templates
 
 
 - 个人😋
+	- [[YEAR MOC⌛]]
 	- [[WorkFlowMOC]]
 	- [[NotToDo]]
 	- [[基本Q]]
@@ -26,6 +27,7 @@ path does not include Templates
 	- [[心智模型 MOC]]
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
+	- [[Tools]]
 
 
 

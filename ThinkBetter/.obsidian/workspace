@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "edfb6ac248c61482",
+        "id": "2fab8003e807f784",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template - 日记.md",
+            "file": "模仿者.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "阳",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - 日记.md"
+                "file": "模仿者.md"
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - 日记.md",
+                "file": "模仿者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +149,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 375,
     "collapsed": true
   },
-  "active": "edfb6ac248c61482",
+  "active": "2fab8003e807f784",
   "lastOpenFiles": [
-    "Templates/Template - Bike.md",
-    "Templates/Template - 心智模型.md",
-    "Templates/Template - 文章.md",
-    "Templates/Template - 日记.md",
-    "Templates/Template - 读书.md",
-    "噪音中获取信息.md",
     "读书 MOC.md",
+    "模仿者.md",
+    "什么是癌症.md",
+    "黄帝内经.md",
     "+Home.md",
-    "项目 MOC.md",
-    "目标 MOC.md"
+    "强者的温柔.md",
+    "佐藤可士和的超整理术.md",
+    "未命名 5.md",
+    "你干嘛在乎别人怎么想.md",
+    "DailyNotes/2021-12-13.md"
   ]
 }

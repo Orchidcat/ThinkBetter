@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "Template - 文章",
-      "path": "Templates/Template - 文章.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "噪音中获取信息",
-      "path": "噪音中获取信息.md"
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
     },
     {
       "basename": "读书 MOC",
@@ -33,6 +13,110 @@
       "path": "+Home.md"
     },
     {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "模仿者",
+      "path": "模仿者.md"
+    },
+    {
+      "basename": "什么是癌症",
+      "path": "什么是癌症.md"
+    },
+    {
+      "basename": "强者的温柔",
+      "path": "强者的温柔.md"
+    },
+    {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
+    },
+    {
+      "basename": "佐藤可士和的超整理术",
+      "path": "佐藤可士和的超整理术.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "未命名 5",
+      "path": "未命名 5.md"
+    },
+    {
+      "basename": "你干嘛在乎别人怎么想",
+      "path": "你干嘛在乎别人怎么想.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
+      "basename": "2021-12-13",
+      "path": "DailyNotes/2021-12-13.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
+      "basename": "2022-09-26",
+      "path": "DailyNotes/2022-09-26.md"
+    },
+    {
+      "basename": "思考问题的三个过滤器",
+      "path": "思考问题的三个过滤器.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
+      "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
+      "path": "PREEMPTIVE_OS_GETPROCADDRESS.md"
+    },
+    {
+      "basename": "未命名 3",
+      "path": "未命名 3.md"
+    },
+    {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
+    },
+    {
+      "basename": "NewVersion",
+      "path": "NewVersion.md"
+    },
+    {
+      "basename": "SQL Server 2000~2016 Evolution",
+      "path": "SQL Server 2000~2016 Evolution.md"
+    },
+    {
+      "basename": "operator list",
+      "path": "operator list.md"
+    },
+    {
+      "basename": "存储引擎",
+      "path": "存储引擎.md"
+    },
+    {
+      "basename": "工作、消费主意和新穷人",
+      "path": "工作、消费主意和新穷人.md"
+    },
+    {
       "basename": "项目 MOC",
       "path": "项目 MOC.md"
     },
@@ -41,164 +125,80 @@
       "path": "目标 MOC.md"
     },
     {
-      "basename": "视频制作",
-      "path": "视频制作.md"
-    },
-    {
-      "basename": "灰色思维",
-      "path": "灰色思维.md"
-    },
-    {
-      "basename": "去回顾，而不是反刍",
-      "path": "去回顾，而不是反刍.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "Configuration CheckList",
-      "path": "Configuration CheckList.md"
-    },
-    {
-      "basename": "情绪共存",
-      "path": "情绪共存.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
-    },
-    {
-      "basename": "工作、消费主意和新穷人",
-      "path": "工作、消费主意和新穷人.md"
+      "basename": "学会提问",
+      "path": "学会提问.md"
     },
     {
       "basename": "学习高手",
       "path": "学习高手.md"
     },
     {
-      "basename": "随手摘",
-      "path": "随手摘.md"
+      "basename": "Templates - 论证",
+      "path": "Templates/Templates - 论证.md"
     },
     {
-      "basename": "QR Code 生成过程",
-      "path": "QR Code 生成过程.md"
+      "basename": "愚蠢的来源",
+      "path": "愚蠢的来源.md"
+    },
+    {
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "相互保证毁灭",
+      "path": "相互保证毁灭.md"
+    },
+    {
+      "basename": "平叛",
+      "path": "平叛.md"
+    },
+    {
+      "basename": "双线战争",
+      "path": "双线战争.md"
+    },
+    {
+      "basename": "不对称战争",
+      "path": "不对称战争.md"
+    },
+    {
+      "basename": "看到前线",
+      "path": "看到前线.md"
+    },
+    {
+      "basename": "击球科学",
+      "path": "击球科学.md"
+    },
+    {
+      "basename": "什么是真正的学习",
+      "path": "什么是真正的学习.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
     },
     {
       "basename": "人物 MOC",
       "path": "人物 MOC.md"
     },
     {
-      "basename": "有效思考的关键要素",
-      "path": "有效思考的关键要素.md"
+      "basename": "人，永远有选择自己态度的自由",
+      "path": "人，永远有选择自己态度的自由.md"
     },
     {
-      "basename": "Steve Jobs - 2005 stanford commencement Address",
-      "path": "Steve Jobs - 2005 stanford commencement Address.md"
+      "basename": "10个写作的技巧",
+      "path": "10个写作的技巧.md"
     },
     {
-      "basename": "马斯洛需求层次理论",
-      "path": "马斯洛需求层次理论.md"
+      "basename": "2022-08-15",
+      "path": "DailyNotes/2022-08-15.md"
     },
     {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "能力圈",
-      "path": "能力圈.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
-    },
-    {
-      "basename": "SMART原则",
-      "path": "SMART原则.md"
-    },
-    {
-      "basename": "有效思维的5个要素",
-      "path": "有效思维的5个要素.md"
-    },
-    {
-      "basename": "原则",
-      "path": "原则.md"
-    },
-    {
-      "basename": "SQL Server 2000~2016 Evolution",
-      "path": "SQL Server 2000~2016 Evolution.md"
-    },
-    {
-      "basename": "NewVersion",
-      "path": "NewVersion.md"
-    },
-    {
-      "basename": "地图不是领土",
-      "path": "地图不是领土.md"
-    },
-    {
-      "basename": "除了你，谁能做出这个决定",
-      "path": "除了你，谁能做出这个决定.md"
-    },
-    {
-      "basename": "David Foster Wallace -  This is Water",
-      "path": "David Foster Wallace -  This is Water.md"
-    },
-    {
-      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
-      "path": "Michael Lewis - Don't Eat Fortune's Cookie.md"
-    },
-    {
-      "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
-      "path": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md"
-    },
-    {
-      "basename": "Neil Gaiman - Make Good Art",
-      "path": "Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "走出自我怀疑，自我否定",
-      "path": "走出自我怀疑，自我否定.md"
-    },
-    {
-      "basename": "2022-07-18",
-      "path": "DailyNotes/2022-07-18.md"
-    },
-    {
-      "basename": "PB的编译过程",
-      "path": "PB的编译过程.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Vue.md"
-    },
-    {
-      "basename": "锻炼自己的感知力",
-      "path": "锻炼自己的感知力.md"
-    },
-    {
-      "basename": "Life is not short",
-      "path": "Life is not short.md"
-    },
-    {
-      "basename": "史蒂夫·乔布斯",
-      "path": "史蒂夫·乔布斯.md"
-    },
-    {
-      "basename": "如何透视一本书",
-      "path": "如何透视一本书.md"
-    },
-    {
-      "basename": "别闹了，费曼先生",
-      "path": "别闹了，费曼先生.md"
-    },
-    {
-      "basename": "黄体酮",
-      "path": "黄体酮.md"
+      "basename": "未命名 2",
+      "path": "未命名 2.md"
     }
   ],
   "omittedPaths": [],

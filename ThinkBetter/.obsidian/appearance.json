@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 17,
-  "cssTheme": "Things",
-  "theme": "obsidian",
-  "translucency": false
+  "baseFontSize": 20,
+  "cssTheme": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": "",
+  "showViewHeader": false
 }
