@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b45aa4b2d7d4d636",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9473904f9bd13f13",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f99c8b14eb2c08e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
+        "id": "ef91cd22a75ebb96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模仿者.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模仿者.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +161,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1f99c8b14eb2c08e",
+  "active": "ef91cd22a75ebb96",
   "lastOpenFiles": [
+    "黄帝内经.md",
     "读书 MOC.md",
     "模仿者.md",
     "什么是癌症.md",
-    "黄帝内经.md",
     "+Home.md",
     "强者的温柔.md",
     "佐藤可士和的超整理术.md",
