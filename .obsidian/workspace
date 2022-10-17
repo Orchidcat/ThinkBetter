@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/学习高手.md",
+            "file": "+HomeMOC.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -55,8 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -91,12 +90,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/学习高手.md"
+                "file": "+HomeMOC.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +102,7 @@
   },
   "active": "44e25f65ee87475a",
   "lastOpenFiles": [
+    "+HomeMOC.md",
     "ThinkBetter/学习高手.md",
     "ThinkBetter/读书 MOC.md",
     "ThinkBetter/+Home.md",
@@ -112,7 +111,6 @@
     "ThinkBetter/地图不是领土.md",
     "ThinkBetter/奥卡姆剃刀.md",
     "ThinkBetter/第一性原理.md",
-    "相互保证毁灭.md",
-    "平叛.md"
+    "相互保证毁灭.md"
   ]
 }
