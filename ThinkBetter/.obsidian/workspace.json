@@ -4,23 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0b5d0ea80708e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c08c955b73bd70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "128e6ac6cfa1ae3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "stacked": true
+        }
       }
     ],
     "direction": "vertical"
@@ -120,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -136,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +161,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ebed1a78815bdf47",
+  "active": "128e6ac6cfa1ae3d",
   "lastOpenFiles": [
     "读书 MOC.md",
     "+Home.md",
