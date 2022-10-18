@@ -122,6 +122,17 @@
                 "file": "黄帝内经.md"
               }
             }
+          },
+          {
+            "id": "5ec0f0c438806649",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
