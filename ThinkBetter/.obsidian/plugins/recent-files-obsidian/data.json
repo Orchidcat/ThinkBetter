@@ -5,6 +5,10 @@
       "path": "黄帝内经.md"
     },
     {
+      "basename": "足太阴",
+      "path": "足太阴.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-08-15",
       "path": "DailyNotes/2022-08-15.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "未命名 2.md"
     }
   ],
   "omittedPaths": [],
