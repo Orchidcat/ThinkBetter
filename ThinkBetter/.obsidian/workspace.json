@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
   },
   "active": "972c9c0f2a991f6b",
   "lastOpenFiles": [
+    "人纪 - 针灸.md",
     "黄帝内经.md",
     "足太阴.md",
     "+Home.md",
@@ -191,7 +192,6 @@
     "模仿者.md",
     "什么是癌症.md",
     "强者的温柔.md",
-    "佐藤可士和的超整理术.md",
-    "未命名 5.md"
+    "佐藤可士和的超整理术.md"
   ]
 }
