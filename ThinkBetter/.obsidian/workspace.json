@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e656d6c62f9e4d04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "+Home.md",
-            "mode": "source",
-            "source": false
+        "id": "326418bc23b23c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972c9c0f2a991f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +181,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e656d6c62f9e4d04",
+  "active": "972c9c0f2a991f6b",
   "lastOpenFiles": [
     "足太阴.md",
-    "黄帝内经.md",
     "+Home.md",
+    "黄帝内经.md",
     "读书 MOC.md",
     "心智模型 MOC.md",
     "模仿者.md",
