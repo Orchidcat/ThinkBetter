@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ac79da979063f57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "手太阳大肠经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "917266eed22acb59",
             "type": "leaf",
             "state": {
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手太阴肺经.md"
+                "file": "手太阳大肠经.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手太阴肺经.md",
+                "file": "手太阳大肠经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手太阴肺经.md",
+                "file": "手太阳大肠经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +206,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "917266eed22acb59",
+  "active": "ac79da979063f57f",
   "lastOpenFiles": [
+    "手太阴肺经.md",
+    "手太阳大肠经.md",
     "人纪 - 针灸.md",
     "未命名 6.md",
-    "手太阴肺经.md",
     "针灸时机.md",
     "+Home.md",
     "黄帝内经.md",
     "足太阴.md",
     "读书 MOC.md",
-    "心智模型 MOC.md",
-    "模仿者.md"
+    "心智模型 MOC.md"
   ]
 }
