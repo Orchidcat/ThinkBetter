@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手太阴肺经.md"
+                "file": "人纪 - 针灸.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手太阴肺经.md",
+                "file": "人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手太阴肺经.md",
+                "file": "人纪 - 针灸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +193,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "917266eed22acb59",
+  "active": "b3f3f7bc4ba03700",
   "lastOpenFiles": [
+    "手太阴肺经.md",
     "人纪 - 针灸.md",
     "针灸时机.md",
     "+Home.md",
@@ -204,7 +204,6 @@
     "读书 MOC.md",
     "心智模型 MOC.md",
     "模仿者.md",
-    "什么是癌症.md",
-    "强者的温柔.md"
+    "什么是癌症.md"
   ]
 }
