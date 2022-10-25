@@ -5,6 +5,10 @@
       "path": "人纪 - 针灸.md"
     },
     {
+      "basename": "针灸时机",
+      "path": "针灸时机.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "人，永远有选择自己态度的自由",
       "path": "人，永远有选择自己态度的自由.md"
-    },
-    {
-      "basename": "10个写作的技巧",
-      "path": "10个写作的技巧.md"
     }
   ],
   "omittedPaths": [],
