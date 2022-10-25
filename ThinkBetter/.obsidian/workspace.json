@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "足阳明胃经.md"
+                "file": "人纪 - 针灸.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "足阳明胃经.md",
+                "file": "人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "足阳明胃经.md",
+                "file": "人纪 - 针灸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,11 +193,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ac79da979063f57f",
+  "active": "b3f3f7bc4ba03700",
   "lastOpenFiles": [
+    "足阳明胃经.md",
     "手太阳大肠经.md",
     "人纪 - 针灸.md",
-    "足阳明胃经.md",
     "手太阴肺经.md",
     "未命名 6.md",
     "针灸时机.md",
