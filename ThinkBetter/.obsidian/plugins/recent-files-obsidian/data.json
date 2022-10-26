@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "手少阴心经",
-      "path": "手少阴心经.md"
+      "basename": "手太阳小肠经",
+      "path": "手太阳小肠经.md"
     },
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "足阳明胃经",
+      "path": "足阳明胃经.md"
+    },
+    {
+      "basename": "手少阴心经",
+      "path": "手少阴心经.md"
     },
     {
       "basename": "手太阴心经",
@@ -23,10 +31,6 @@
     {
       "basename": "+Home",
       "path": "+Home.md"
-    },
-    {
-      "basename": "足阳明胃经",
-      "path": "足阳明胃经.md"
     },
     {
       "basename": "手太阴肺经",
@@ -195,10 +199,6 @@
     {
       "basename": "平叛",
       "path": "平叛.md"
-    },
-    {
-      "basename": "双线战争",
-      "path": "双线战争.md"
     }
   ],
   "omittedPaths": [],
