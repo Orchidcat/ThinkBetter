@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "足太阴脾经.md"
+                "file": "人纪 - 针灸.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "足太阴脾经.md",
+                "file": "人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "足太阴脾经.md",
+                "file": "人纪 - 针灸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,10 +193,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c29e3829ce10c1f1",
+  "active": "8e58b540fde2268f",
   "lastOpenFiles": [
-    "人纪 - 针灸.md",
     "足太阴脾经.md",
+    "人纪 - 针灸.md",
     "手太阳大肠经.md",
     "+Home.md",
     "足阳明胃经.md",
