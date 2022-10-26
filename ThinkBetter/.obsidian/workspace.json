@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f12bdf2f3f6f3221",
+        "id": "fde28c1b42fcd016",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f3f7bc4ba03700",
+            "id": "8e58b540fde2268f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 针灸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac79da979063f57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足阳明胃经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +181,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b3f3f7bc4ba03700",
+  "active": "8e58b540fde2268f",
   "lastOpenFiles": [
     "足阳明胃经.md",
     "手太阳大肠经.md",
