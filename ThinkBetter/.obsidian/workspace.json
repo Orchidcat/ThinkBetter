@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "足少阴肾经.md",
+                "file": "手厥阴心包经.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "足少阴肾经.md"
+                "file": "手厥阴心包经.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "足少阴肾经.md",
+                "file": "手厥阴心包经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "足少阴肾经.md",
+                "file": "手厥阴心包经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,6 +244,7 @@
   "active": "7970a9ea83a2071b",
   "lastOpenFiles": [
     "人纪 - 针灸.md",
+    "足少阴肾经.md",
     "足太阳膀胱经.md",
     "手少阴心经.md",
     "未命名 7.md",
@@ -251,7 +252,6 @@
     "足阳明胃经.md",
     "手太阴心经.md",
     "足太阴脾经.md",
-    "手太阳大肠经.md",
-    "+Home.md"
+    "手太阳大肠经.md"
   ]
 }
