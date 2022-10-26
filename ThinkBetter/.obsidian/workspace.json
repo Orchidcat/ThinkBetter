@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手厥阴心包经.md",
+                "file": "手少阳三焦经.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手厥阴心包经.md"
+                "file": "手少阳三焦经.md"
               }
             }
           },
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手厥阴心包经.md",
+                "file": "手少阳三焦经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手厥阴心包经.md",
+                "file": "手少阳三焦经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,6 +245,7 @@
   "active": "7970a9ea83a2071b",
   "lastOpenFiles": [
     "人纪 - 针灸.md",
+    "手厥阴心包经.md",
     "足少阴肾经.md",
     "足太阳膀胱经.md",
     "手少阴心经.md",
@@ -251,7 +253,6 @@
     "手太阳小肠经.md",
     "足阳明胃经.md",
     "手太阴心经.md",
-    "足太阴脾经.md",
-    "手太阳大肠经.md"
+    "足太阴脾经.md"
   ]
 }
