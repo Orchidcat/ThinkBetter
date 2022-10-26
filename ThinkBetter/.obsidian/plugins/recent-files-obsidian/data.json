@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "手太阴心经",
-      "path": "手太阴心经.md"
+      "basename": "手少阴心经",
+      "path": "手少阴心经.md"
     },
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "手太阴心经",
+      "path": "手太阴心经.md"
     },
     {
       "basename": "足太阴脾经",
@@ -195,10 +199,6 @@
     {
       "basename": "双线战争",
       "path": "双线战争.md"
-    },
-    {
-      "basename": "不对称战争",
-      "path": "不对称战争.md"
     }
   ],
   "omittedPaths": [],
