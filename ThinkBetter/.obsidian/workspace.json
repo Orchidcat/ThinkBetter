@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阳",
+                "query": "阳明",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,12 +110,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -193,7 +192,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8e58b540fde2268f",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "足太阴脾经.md",
     "人纪 - 针灸.md",
