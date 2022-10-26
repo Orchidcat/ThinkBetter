@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "足太阴脾经",
+      "path": "足太阴脾经.md"
+    },
+    {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "手太阳大肠经",
+      "path": "手太阳大肠经.md"
     },
     {
       "basename": "+Home",
@@ -11,10 +19,6 @@
     {
       "basename": "足阳明胃经",
       "path": "足阳明胃经.md"
-    },
-    {
-      "basename": "手太阳大肠经",
-      "path": "手太阳大肠经.md"
     },
     {
       "basename": "手太阴肺经",
@@ -195,10 +199,6 @@
     {
       "basename": "看到前线",
       "path": "看到前线.md"
-    },
-    {
-      "basename": "击球科学",
-      "path": "击球科学.md"
     }
   ],
   "omittedPaths": [],
