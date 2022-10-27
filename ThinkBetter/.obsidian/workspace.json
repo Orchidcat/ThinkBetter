@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fde28c1b42fcd016",
+        "id": "76ed12915b002737",
         "type": "tabs",
         "children": [
           {
-            "id": "8e58b540fde2268f",
+            "id": "059cd9806a572d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手太阳小肠经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef3eb29a443e3490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "手太阳小肠经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7970a9ea83a2071b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪 - 针灸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d748b0bce3f56bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足少阳胆经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd54539a52fef9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足太阳膀胱经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead82bd682c31c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "手少阴心经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29e3829ce10c1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足太阴脾经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -203,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +181,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7970a9ea83a2071b",
+  "active": "059cd9806a572d5e",
   "lastOpenFiles": [
     "足少阳胆经.md",
     "人纪 - 针灸.md",
