@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "子午流注.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "子午流注.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +206,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f83aa52cea4af74f",
+  "active": "5559617d8fbe5696",
   "lastOpenFiles": [
+    "人纪 - 针灸.md",
     "子午流注.md",
     "营卫之气.md",
     "黄帝内经.md",
@@ -216,7 +217,6 @@
     "第一性原理.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
-    "+Home.md",
-    "人纪 - 针灸.md"
+    "+Home.md"
   ]
 }
