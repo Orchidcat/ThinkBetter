@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "059cd9806a572d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足少阳胆经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "671c55a96ab8b4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "子午流注.md",
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "营卫之气.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8827f8b0b350a353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足厥阴肝经.md",
+                "file": "子午流注.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阳明",
+                "query": "三阴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -218,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "671c55a96ab8b4a6",
+  "active": "5559617d8fbe5696",
   "lastOpenFiles": [
     "营卫之气.md",
+    "黄帝内经.md",
+    "足少阳胆经.md",
+    "足厥阴肝经.md",
     "子午流注.md",
     "第一性原理.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
-    "人纪 - 针灸.md",
-    "足厥阴肝经.md",
-    "足少阳胆经.md",
-    "手少阳三焦经.md"
+    "人纪 - 针灸.md"
   ]
 }

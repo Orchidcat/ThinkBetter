@@ -9,6 +9,18 @@
       "path": "营卫之气.md"
     },
     {
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
+    },
+    {
+      "basename": "足少阳胆经",
+      "path": "足少阳胆经.md"
+    },
+    {
+      "basename": "足厥阴肝经",
+      "path": "足厥阴肝经.md"
+    },
+    {
       "basename": "第一性原理",
       "path": "第一性原理.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
-    },
-    {
-      "basename": "足厥阴肝经",
-      "path": "足厥阴肝经.md"
-    },
-    {
-      "basename": "足少阳胆经",
-      "path": "足少阳胆经.md"
     },
     {
       "basename": "手少阳三焦经",
@@ -91,10 +95,6 @@
     {
       "basename": "针灸时机",
       "path": "针灸时机.md"
-    },
-    {
-      "basename": "黄帝内经",
-      "path": "黄帝内经.md"
     },
     {
       "basename": "足太阴",
