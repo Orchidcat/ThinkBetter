@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "子午流注.md",
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三阴",
+                "query": "三阳",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +98,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "子午流注.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "子午流注.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "子午流注.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +182,9 @@
   },
   "active": "9ae6301ec746ab30",
   "lastOpenFiles": [
+    "子午流注.md",
     "+Home.md",
     "人纪 - 针灸.md",
-    "子午流注.md",
     "营卫之气.md",
     "黄帝内经.md",
     "足少阳胆经.md",
