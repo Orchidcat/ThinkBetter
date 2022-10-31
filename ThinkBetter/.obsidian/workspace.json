@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "佐藤可士和的超整理术.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "佐藤可士和的超整理术.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "佐藤可士和的超整理术.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "佐藤可士和的超整理术.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
   },
   "active": "45c60102b95184e1",
   "lastOpenFiles": [
+    "佐藤可士和的超整理术.md",
     "读书 MOC.md",
     "易经真的很容易.md",
     "人纪 - 针灸.md",
@@ -191,7 +192,6 @@
     "营卫之气.md",
     "黄帝内经.md",
     "足少阳胆经.md",
-    "足厥阴肝经.md",
-    "第一性原理.md"
+    "足厥阴肝经.md"
   ]
 }
