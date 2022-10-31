@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪 - 针灸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45c60102b95184e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神农本草经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三阳",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "神农本草经.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "神农本草经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a8140344b4b8e3a7",
+  "active": "45c60102b95184e1",
   "lastOpenFiles": [
-    "子午流注.md",
-    "+Home.md",
     "人纪 - 针灸.md",
+    "读书 MOC.md",
+    "+Home.md",
+    "子午流注.md",
     "营卫之气.md",
     "黄帝内经.md",
     "足少阳胆经.md",
     "足厥阴肝经.md",
     "第一性原理.md",
-    "100种心智模型.md",
-    "心智模型 MOC.md"
+    "100种心智模型.md"
   ]
 }

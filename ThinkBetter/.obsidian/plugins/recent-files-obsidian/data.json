@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "神农本草经",
+      "path": "神农本草经.md"
+    },
+    {
+      "basename": "人纪 - 针灸",
+      "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "子午流注",
       "path": "子午流注.md"
-    },
-    {
-      "basename": "人纪 - 针灸",
-      "path": "人纪 - 针灸.md"
     },
     {
       "basename": "营卫之气",
@@ -99,10 +107,6 @@
     {
       "basename": "足太阴",
       "path": "足太阴.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "存储引擎",
       "path": "存储引擎.md"
-    },
-    {
-      "basename": "工作、消费主意和新穷人",
-      "path": "工作、消费主意和新穷人.md"
     }
   ],
   "omittedPaths": [],
