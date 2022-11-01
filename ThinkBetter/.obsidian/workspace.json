@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md"
+                "file": "中药.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记.md",
+                "file": "中药.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记.md",
+                "file": "中药.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +205,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7b819bf28510db7b",
+  "active": "f237272b0c53abd5",
   "lastOpenFiles": [
-    "医案经方.md",
     "杂记.md",
+    "医案经方.md",
     "中药.md",
     "黄帝内经.md",
     "读书 MOC.md",
