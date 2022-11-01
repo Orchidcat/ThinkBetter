@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "医案经方",
+      "path": "医案经方.md"
+    },
+    {
       "basename": "杂记",
       "path": "杂记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server 2000~2016 Evolution",
       "path": "SQL Server 2000~2016 Evolution.md"
-    },
-    {
-      "basename": "operator list",
-      "path": "operator list.md"
     }
   ],
   "omittedPaths": [],
