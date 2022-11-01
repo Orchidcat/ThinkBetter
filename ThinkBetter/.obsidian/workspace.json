@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "冬",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 532.5
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -204,7 +204,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "7b819bf28510db7b",
   "lastOpenFiles": [
     "医案经方.md",
     "杂记.md",
