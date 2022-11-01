@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医案经方.md",
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "喜",
+                "query": "风",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医案经方.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医案经方.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医案经方.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +208,8 @@
   },
   "active": "93957a88abeb1e6c",
   "lastOpenFiles": [
-    "中药.md",
     "医案经方.md",
+    "中药.md",
     "杂记.md",
     "读书 MOC.md",
     "易经真的很容易.md",
