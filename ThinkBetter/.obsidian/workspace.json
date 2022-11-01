@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医案经方.md"
+                "file": "杂记.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医案经方.md",
+                "file": "杂记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医案经方.md",
+                "file": "杂记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +193,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "93957a88abeb1e6c",
+  "active": "7b819bf28510db7b",
   "lastOpenFiles": [
+    "医案经方.md",
     "杂记.md",
     "读书 MOC.md",
     "易经真的很容易.md",
@@ -204,7 +204,6 @@
     "人纪 - 针灸.md",
     "子午流注.md",
     "营卫之气.md",
-    "黄帝内经.md",
-    "足少阳胆经.md"
+    "黄帝内经.md"
   ]
 }
