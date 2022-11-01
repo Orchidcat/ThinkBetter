@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "风",
+                "query": "反关脉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -205,7 +204,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7b819bf28510db7b",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "医案经方.md",
     "中药.md",
