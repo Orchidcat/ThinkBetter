@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "佐藤可士和的超整理术",
-      "path": "佐藤可士和的超整理术.md"
+      "basename": "金匮要略",
+      "path": "金匮要略.md"
     },
     {
       "basename": "易经真的很容易",
       "path": "易经真的很容易.md"
     },
     {
-      "basename": "人纪 - 针灸",
-      "path": "人纪 - 针灸.md"
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "佐藤可士和的超整理术",
+      "path": "佐藤可士和的超整理术.md"
+    },
+    {
+      "basename": "人纪 - 针灸",
+      "path": "人纪 - 针灸.md"
     },
     {
       "basename": "黄帝内经",
@@ -195,10 +199,6 @@
     {
       "basename": "operator list",
       "path": "operator list.md"
-    },
-    {
-      "basename": "存储引擎",
-      "path": "存储引擎.md"
     }
   ],
   "omittedPaths": [],
