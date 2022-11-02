@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "f7ce4c9c05ce4f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "17fa001d98feeaae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b867488596f52dd7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d22485fde1ea57e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3007558984a09d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0ed5d6c26966d07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "热",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6f982b1d437b289",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb3893d73d9e1ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e66276f901512ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3367a810dcb05d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd3ca0fc6cd1a6d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a54309531b5d95e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0ed5d6c26966d07",
+  "lastOpenFiles": [
+    "ThinkBetter/人纪 - 针灸.md",
+    "ThinkBetter/读书 MOC.md",
+    "ThinkBetter/+Home.md",
+    "ThinkBetter/心智模型 MOC.md",
+    "+HomeMOC.md",
+    "ThinkBetter/学习高手.md",
+    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/倒置.md",
+    "ThinkBetter/地图不是领土.md",
+    "ThinkBetter/奥卡姆剃刀.md"
+  ]
+}
