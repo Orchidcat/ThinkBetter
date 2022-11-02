@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "诊断相关.md"
+                "file": "人纪 - 针灸.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "诊断相关.md",
+                "file": "人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "诊断相关.md",
+                "file": "人纪 - 针灸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +205,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2fb0d168200a31c9",
+  "active": "3ead52c91fb1a011",
   "lastOpenFiles": [
+    "诊断相关.md",
     "人纪 - 针灸.md",
     "子午流注.md",
     "读书 MOC.md",
@@ -216,7 +216,6 @@
     "中药.md",
     "杂记.md",
     "医案经方.md",
-    "黄帝内经.md",
-    "易经真的很容易.md"
+    "黄帝内经.md"
   ]
 }
