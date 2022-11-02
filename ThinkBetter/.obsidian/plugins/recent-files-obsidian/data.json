@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "胸痹",
+      "path": "胸痹.md"
     },
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
     },
     {
       "basename": "手阳明大肠经",
@@ -23,14 +47,6 @@
     {
       "basename": "诊断相关",
       "path": "诊断相关.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     },
     {
       "basename": "医案经方",
@@ -169,10 +185,6 @@
       "path": "DailyNotes/2021-12-13.md"
     },
     {
-      "basename": "YEAR MOC⌛",
-      "path": "YEAR MOC⌛.md"
-    },
-    {
       "basename": "2022-09-26",
       "path": "DailyNotes/2022-09-26.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "未命名 4",
       "path": "未命名 4.md"
-    },
-    {
-      "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
-      "path": "PREEMPTIVE_OS_GETPROCADDRESS.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "未命名 3.md"
-    },
-    {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
     }
   ],
   "omittedPaths": [],
