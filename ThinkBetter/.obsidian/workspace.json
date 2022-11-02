@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 532.5,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,13 +183,13 @@
   },
   "active": "0be6ba8ac81edede",
   "lastOpenFiles": [
+    "+Home.md",
     "中药.md",
     "杂记.md",
     "医案经方.md",
     "黄帝内经.md",
     "读书 MOC.md",
     "易经真的很容易.md",
-    "+Home.md",
     "佐藤可士和的超整理术.md",
     "人纪 - 针灸.md",
     "子午流注.md"
