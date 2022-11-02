@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "44e25f65ee87475a",
+        "id": "0f88a6e6adc7825a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+HomeMOC.md",
-            "mode": "preview",
+            "file": "ThinkBetter/读书 MOC.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -50,12 +50,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+HomeMOC.md"
+                "file": "ThinkBetter/读书 MOC.md"
               }
             }
           }
@@ -100,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "44e25f65ee87475a",
+  "active": "0f88a6e6adc7825a",
   "lastOpenFiles": [
+    "ThinkBetter/+Home.md",
+    "ThinkBetter/心智模型 MOC.md",
     "+HomeMOC.md",
     "ThinkBetter/学习高手.md",
     "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/倒置.md",
     "ThinkBetter/地图不是领土.md",
     "ThinkBetter/奥卡姆剃刀.md",
-    "ThinkBetter/第一性原理.md",
-    "相互保证毁灭.md"
+    "ThinkBetter/第一性原理.md"
   ]
 }
