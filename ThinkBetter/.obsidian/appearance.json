@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "",
-  "theme": "moonstone",
+  "cssTheme": "Cybertron",
+  "theme": "obsidian",
   "translucency": false,
   "accentColor": "",
   "showViewHeader": false
