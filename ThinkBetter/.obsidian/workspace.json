@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "冬",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5,
+    "width": 283,
     "collapsed": true
   },
   "right": {
@@ -207,15 +207,15 @@
   },
   "active": "3ead52c91fb1a011",
   "lastOpenFiles": [
-    "手太阴肺经.md",
+    "手太阳大肠经.md",
     "人纪 - 针灸.md",
     "子午流注.md",
+    "手太阴肺经.md",
     "诊断相关.md",
     "读书 MOC.md",
     "+Home.md",
     "一句话的玩味.md",
     "中药.md",
-    "杂记.md",
-    "医案经方.md"
+    "杂记.md"
   ]
 }
