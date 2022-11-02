@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7951dbb749457b",
+        "id": "1c3fa392179413ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7b819bf28510db7b",
+            "id": "0be6ba8ac81edede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f5fa3c85d91d895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "医案经方.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f237272b0c53abd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医案经方.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -154,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医案经方.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医案经方.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3f5fa3c85d91d895",
+  "active": "0be6ba8ac81edede",
   "lastOpenFiles": [
     "中药.md",
     "杂记.md",
