@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0b5d0ea80708e6",
+        "id": "e90344ab85a050a5",
         "type": "tabs",
         "children": [
           {
-            "id": "7c08c955b73bd70b",
+            "id": "16d35a1fbc6c6b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "人纪 - 针灸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde2bbc844a55d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阳",
+                "query": "半夏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,12 +111,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -113,6 +124,7 @@
       {
         "id": "a11cc04c14a892a4",
         "type": "tabs",
+        "dimension": 70.32640949554896,
         "children": [
           {
             "id": "ebed1a78815bdf47",
@@ -120,7 +132,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "读书 MOC.md"
+              }
+            }
+          },
+          {
+            "id": "5ec0f0c438806649",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "读书 MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -129,6 +153,7 @@
       {
         "id": "1ef0628f3f9ecc69",
         "type": "tabs",
+        "dimension": 29.673590504451035,
         "children": [
           {
             "id": "74f8fa572dec7213",
@@ -136,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ebed1a78815bdf47",
+  "active": "dde2bbc844a55d01",
   "lastOpenFiles": [
+    "人纪 - 针灸.md",
     "读书 MOC.md",
+    "胸痹.md",
     "+Home.md",
-    "心智模型 MOC.md",
-    "黄帝内经.md",
-    "模仿者.md",
-    "什么是癌症.md",
-    "强者的温柔.md",
-    "佐藤可士和的超整理术.md",
-    "未命名 5.md",
-    "你干嘛在乎别人怎么想.md"
+    "人物 MOC.md",
+    "YEAR MOC⌛.md",
+    "一句话的玩味.md",
+    "项目 MOC.md",
+    "手阳明大肠经.md",
+    "子午流注.md"
   ]
 }
