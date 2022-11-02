@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f88a6e6adc7825a",
+        "id": "e751fbbce58c4aef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ThinkBetter/读书 MOC.md",
+            "file": "ThinkBetter/医案经方.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Projects/每日一个心智模型",
+                "query": "退烧",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -90,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/读书 MOC.md"
+                "file": "ThinkBetter/医案经方.md"
               }
             }
           }
@@ -100,13 +99,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0f88a6e6adc7825a",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
+    "ThinkBetter/读书 MOC.md",
     "ThinkBetter/心智模型 MOC.md",
     "+HomeMOC.md",
     "ThinkBetter/学习高手.md",
-    "ThinkBetter/读书 MOC.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/倒置.md",
     "ThinkBetter/地图不是领土.md",
