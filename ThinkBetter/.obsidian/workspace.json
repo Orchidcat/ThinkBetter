@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "半夏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -194,7 +193,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dde2bbc844a55d01",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪 - 针灸.md",
     "胸痹.md",
