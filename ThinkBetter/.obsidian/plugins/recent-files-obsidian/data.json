@@ -5,6 +5,10 @@
       "path": "神农本草经.md"
     },
     {
+      "basename": "丹砂",
+      "path": "丹砂.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "思考问题的三个过滤器",
       "path": "思考问题的三个过滤器.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
     }
   ],
   "omittedPaths": [],
