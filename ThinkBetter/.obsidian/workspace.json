@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e90344ab85a050a5",
+        "id": "99507fd32559f210",
         "type": "tabs",
         "children": [
           {
-            "id": "16d35a1fbc6c6b32",
+            "id": "d3c5786f2e8c1aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 针灸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde2bbc844a55d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dde2bbc844a55d01",
+  "active": "d3c5786f2e8c1aad",
   "lastOpenFiles": [
     "人纪 - 针灸.md",
     "读书 MOC.md",
