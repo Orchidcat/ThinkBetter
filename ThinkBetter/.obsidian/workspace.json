@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无大",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "d3c5786f2e8c1aad",
   "lastOpenFiles": [
+    "模仿者.md",
+    "读书 MOC.md",
+    "杂记.md",
     "+Home.md",
     "人纪 - 针灸.md",
-    "读书 MOC.md",
     "胸痹.md",
     "人物 MOC.md",
     "YEAR MOC⌛.md",
     "一句话的玩味.md",
-    "项目 MOC.md",
-    "手阳明大肠经.md",
-    "子午流注.md"
+    "项目 MOC.md"
   ]
 }

@@ -5,6 +5,14 @@
       "path": "读书 MOC.md"
     },
     {
+      "basename": "模仿者",
+      "path": "模仿者.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "杂记.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "中药",
       "path": "中药.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "杂记.md"
     },
     {
       "basename": "黄帝内经",
@@ -147,10 +151,6 @@
     {
       "basename": "足太阴",
       "path": "足太阴.md"
-    },
-    {
-      "basename": "模仿者",
-      "path": "模仿者.md"
     },
     {
       "basename": "什么是癌症",
