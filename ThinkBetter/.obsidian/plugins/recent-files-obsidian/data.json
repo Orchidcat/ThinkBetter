@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "神农本草经",
+      "path": "神农本草经.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
-      "basename": "模仿者",
-      "path": "模仿者.md"
-    },
-    {
       "basename": "杂记",
       "path": "杂记.md"
+    },
+    {
+      "basename": "模仿者",
+      "path": "模仿者.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "NotToDo",
       "path": "NotToDo.md"
-    },
-    {
-      "basename": "未命名 4",
-      "path": "未命名 4.md"
     }
   ],
   "omittedPaths": [],
