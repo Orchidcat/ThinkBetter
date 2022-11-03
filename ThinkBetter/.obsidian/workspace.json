@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "采购合同",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -181,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5493e29cf0173c81",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "丹砂.md",
     "神农本草经.md",
