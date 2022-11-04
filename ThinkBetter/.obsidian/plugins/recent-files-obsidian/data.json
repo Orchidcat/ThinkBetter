@@ -5,6 +5,14 @@
       "path": "+Home.md"
     },
     {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
       "basename": "神农本草经",
       "path": "神农本草经.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     },
     {
       "basename": "项目 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-26",
       "path": "DailyNotes/2022-09-26.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "思考问题的三个过滤器.md"
     }
   ],
   "omittedPaths": [],
