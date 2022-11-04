@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e90344ab85a050a5",
+        "id": "f36a98b76592618f",
         "type": "tabs",
         "children": [
           {
-            "id": "16d35a1fbc6c6b32",
+            "id": "af68093d12197d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 针灸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde2bbc844a55d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书 MOC.md",
+                "file": "神农本草经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "半夏",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "神农本草经.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "神农本草经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dde2bbc844a55d01",
+  "active": "af68093d12197d34",
   "lastOpenFiles": [
-    "人纪 - 针灸.md",
     "读书 MOC.md",
-    "胸痹.md",
     "+Home.md",
-    "人物 MOC.md",
-    "YEAR MOC⌛.md",
+    "心智模型 MOC.md",
+    "NotToDo.md",
     "一句话的玩味.md",
-    "项目 MOC.md",
-    "手阳明大肠经.md",
-    "子午流注.md"
+    "丹砂.md",
+    "神农本草经.md",
+    "杂记.md",
+    "模仿者.md",
+    "人纪 - 针灸.md"
   ]
 }
