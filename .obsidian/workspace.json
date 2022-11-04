@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/子午流注.md",
+                "file": "ThinkBetter/胸痹.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/子午流注.md"
+                "file": "ThinkBetter/胸痹.md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "b867488596f52dd7",
   "lastOpenFiles": [
+    "ThinkBetter/子午流注.md",
     "ThinkBetter/胸痹.md",
     "ThinkBetter/人纪 - 针灸.md",
     "ThinkBetter/读书 MOC.md",
@@ -118,7 +119,6 @@
     "+HomeMOC.md",
     "ThinkBetter/学习高手.md",
     "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/倒置.md",
-    "ThinkBetter/地图不是领土.md"
+    "ThinkBetter/倒置.md"
   ]
 }
