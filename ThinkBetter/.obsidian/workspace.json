@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md"
+                "file": "吞酸.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记.md",
+                "file": "吞酸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记.md",
+                "file": "吞酸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +230,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8ee0eec0d8080898",
+  "active": "b9de0a5cc89376c6",
   "lastOpenFiles": [
-    "胸痹心痛短气病脉症并治第九.md",
     "杂记.md",
+    "胸痹心痛短气病脉症并治第九.md",
     "未命名 10.md",
     "吞酸.md",
     "金匮-人纪.md",
