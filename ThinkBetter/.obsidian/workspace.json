@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -193,7 +194,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "3789cd476b7ed0a8",
   "lastOpenFiles": [
     "黄帝内经.md",
     "未命名 8.md",
