@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9bead6c8c4abb7",
+        "id": "51f200b7f70e60e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad24fbdd71471702",
+            "id": "ae55b06c0022db59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "心绞痛",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad24fbdd71471702",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "+Home.md",
     "读书 MOC.md",
+    "+Home.md",
+    "愿望清单 MOC.md",
     "心智模型 MOC.md",
     "NotToDo.md",
     "一句话的玩味.md",
     "丹砂.md",
     "神农本草经.md",
     "杂记.md",
-    "模仿者.md",
-    "人纪 - 针灸.md"
+    "模仿者.md"
   ]
 }
