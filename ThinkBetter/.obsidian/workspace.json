@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "049eea0f41aa9e95",
+            "id": "3789cd476b7ed0a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 8.md",
+                "file": "胸痹心痛短气病脉症并治第九.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 8.md"
+                "file": "胸痹心痛短气病脉症并治第九.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 8.md",
+                "file": "胸痹心痛短气病脉症并治第九.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 8.md",
+                "file": "胸痹心痛短气病脉症并治第九.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,9 +193,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "049eea0f41aa9e95",
+  "active": "3789cd476b7ed0a8",
   "lastOpenFiles": [
     "黄帝内经.md",
+    "未命名 8.md",
     "读书 MOC.md",
     "+Home.md",
     "愿望清单 MOC.md",
@@ -203,7 +204,6 @@
     "NotToDo.md",
     "一句话的玩味.md",
     "丹砂.md",
-    "神农本草经.md",
-    "杂记.md"
+    "神农本草经.md"
   ]
 }
