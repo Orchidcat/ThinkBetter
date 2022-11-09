@@ -11,8 +11,12 @@
             "id": "e9764ae7a83b1c7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,12 +97,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 506
+    "width": 506,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "e9764ae7a83b1c7b",
   "lastOpenFiles": [
+    "未命名.md",
+    "黄帝内经.md",
+    "+Home.md",
     "杂记.md",
     "胸痹心痛短气病脉症并治第九.md",
     "未命名 10.md",
     "吞酸.md",
     "金匮-人纪.md",
     "未命名 9.md",
-    "读书 MOC.md",
-    "黄帝内经.md",
-    "未命名 8.md",
-    "+Home.md"
+    "读书 MOC.md"
   ]
 }
