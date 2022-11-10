@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "金匮-人纪.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "金匮-人纪.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "金匮-人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "金匮-人纪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +182,7 @@
   },
   "active": "4ec3f2343199bffd",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "+Home.md",
     "YEAR MOC⌛.md",
     "胸痹心痛短气病脉症并治第九.md",
@@ -190,7 +191,6 @@
     "杂记.md",
     "未命名 10.md",
     "吞酸.md",
-    "金匮-人纪.md",
-    "未命名 9.md"
+    "金匮-人纪.md"
   ]
 }
