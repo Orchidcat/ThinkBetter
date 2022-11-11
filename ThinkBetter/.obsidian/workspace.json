@@ -11,8 +11,12 @@
             "id": "32ecbf7a08f5c62f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "喜",
+                "query": "巨阙",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,12 +97,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 506,
-    "collapsed": true
+    "width": 506
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝外经.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝外经.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝外经.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "32ecbf7a08f5c62f",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "金匮-人纪.md",
     "读书 MOC.md",
