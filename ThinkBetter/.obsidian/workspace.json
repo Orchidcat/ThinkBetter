@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "745a2600b562f79f",
+        "id": "1b73a4df08e516e5",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec3f2343199bffd",
+            "id": "32ecbf7a08f5c62f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄帝外经.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -180,7 +176,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4ec3f2343199bffd",
+  "active": "32ecbf7a08f5c62f",
   "lastOpenFiles": [
     "金匮-人纪.md",
     "读书 MOC.md",
