@@ -4,22 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4934a31209a111",
-        "type": "leaf",
-        "dimension": 19.41747572815534,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "原则.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "703f67ce1961802d",
         "type": "leaf",
-        "dimension": 80.58252427184466,
         "state": {
           "type": "markdown",
           "state": {
@@ -110,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -192,15 +177,15 @@
   },
   "active": "703f67ce1961802d",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "原则.md",
+    "模仿者.md",
+    "读书 MOC.md",
     "学习高手.md",
     "+Home.md",
     "活法.md",
     "你干嘛在乎别人怎么想.md",
     "黄帝内经.md",
     "一句话的玩味.md",
-    "人纪 - 针灸.md",
-    "金匮-人纪.md"
+    "人纪 - 针灸.md"
   ]
 }
