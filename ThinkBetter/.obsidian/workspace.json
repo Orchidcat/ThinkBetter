@@ -6,6 +6,7 @@
       {
         "id": "6e4934a31209a111",
         "type": "leaf",
+        "dimension": 19.41747572815534,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "703f67ce1961802d",
         "type": "leaf",
+        "dimension": 80.58252427184466,
         "state": {
           "type": "markdown",
           "state": {
@@ -190,9 +192,9 @@
   },
   "active": "703f67ce1961802d",
   "lastOpenFiles": [
-    "学习高手.md",
-    "读书 MOC.md",
     "原则.md",
+    "读书 MOC.md",
+    "学习高手.md",
     "+Home.md",
     "活法.md",
     "你干嘛在乎别人怎么想.md",
