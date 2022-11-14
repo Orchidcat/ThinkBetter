@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "人纪 - 针灸.md",
+            "file": "活法.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506
+    "width": 506,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "活法.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "活法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "活法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +177,15 @@
   },
   "active": "4adb785d10dbbd4d",
   "lastOpenFiles": [
+    "一句话的玩味.md",
+    "+Home.md",
+    "人纪 - 针灸.md",
     "黄帝内经.md",
     "金匮-人纪.md",
-    "+Home.md",
     "读书 MOC.md",
     "YEAR MOC⌛.md",
     "胸痹心痛短气病脉症并治第九.md",
     "未命名.md",
-    "杂记.md",
-    "未命名 10.md",
-    "吞酸.md"
+    "杂记.md"
   ]
 }
