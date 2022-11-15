@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "神农本草经",
-      "path": "神农本草经.md"
-    },
-    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
+      "basename": "模仿者",
+      "path": "模仿者.md"
+    },
+    {
+      "basename": "原则",
+      "path": "原则.md"
+    },
+    {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "活法",
+      "path": "活法.md"
+    },
+    {
+      "basename": "你干嘛在乎别人怎么想",
+      "path": "你干嘛在乎别人怎么想.md"
+    },
+    {
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "人纪 - 针灸",
+      "path": "人纪 - 针灸.md"
+    },
+    {
+      "basename": "金匮-人纪",
+      "path": "金匮-人纪.md"
+    },
+    {
+      "basename": "黄帝外经",
+      "path": "黄帝外经.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
+    },
+    {
+      "basename": "胸痹心痛短气病脉症并治第九",
+      "path": "胸痹心痛短气病脉症并治第九.md"
+    },
+    {
+      "basename": "吞酸",
+      "path": "吞酸.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "杂记.md"
+    },
+    {
+      "basename": "愿望清单 MOC",
+      "path": "愿望清单 MOC.md"
+    },
+    {
+      "basename": "神农本草经",
+      "path": "神农本草经.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -21,24 +81,8 @@
       "path": "NotToDo.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
-    },
-    {
       "basename": "丹砂",
       "path": "丹砂.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "杂记.md"
-    },
-    {
-      "basename": "模仿者",
-      "path": "模仿者.md"
-    },
-    {
-      "basename": "人纪 - 针灸",
-      "path": "人纪 - 针灸.md"
     },
     {
       "basename": "胸痹",
@@ -47,10 +91,6 @@
     {
       "basename": "人物 MOC",
       "path": "人物 MOC.md"
-    },
-    {
-      "basename": "YEAR MOC⌛",
-      "path": "YEAR MOC⌛.md"
     },
     {
       "basename": "项目 MOC",
@@ -79,10 +119,6 @@
     {
       "basename": "中药",
       "path": "中药.md"
-    },
-    {
-      "basename": "黄帝内经",
-      "path": "黄帝内经.md"
     },
     {
       "basename": "易经真的很容易",
@@ -133,10 +169,6 @@
       "path": "手少阴心经.md"
     },
     {
-      "basename": "未命名 7",
-      "path": "未命名 7.md"
-    },
-    {
       "basename": "手太阳小肠经",
       "path": "手太阳小肠经.md"
     },
@@ -153,10 +185,6 @@
       "path": "足太阴脾经.md"
     },
     {
-      "basename": "未命名 6",
-      "path": "未命名 6.md"
-    },
-    {
       "basename": "针灸时机",
       "path": "针灸时机.md"
     },
@@ -167,38 +195,6 @@
     {
       "basename": "什么是癌症",
       "path": "什么是癌症.md"
-    },
-    {
-      "basename": "强者的温柔",
-      "path": "强者的温柔.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "未命名 5",
-      "path": "未命名 5.md"
-    },
-    {
-      "basename": "你干嘛在乎别人怎么想",
-      "path": "你干嘛在乎别人怎么想.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "Templates/Template - 日记.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "DailyNotes/2021-12-13.md"
-    },
-    {
-      "basename": "2022-09-26",
-      "path": "DailyNotes/2022-09-26.md"
     }
   ],
   "omittedPaths": [],

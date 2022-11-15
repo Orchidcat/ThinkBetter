@@ -24,7 +24,7 @@ sort file.ctime DESC
 table desc as "评价",
 dateformat(file.cday, "yyyy-MM-dd") as "创建日期"
 from #articles  
-where dateformat(file.cday,"yyyy")="2022"
+where dateformat(file.cday,"yyyy")="2022" and file.name not like 'template'
 sort file.ctime DESC
 ```
 
