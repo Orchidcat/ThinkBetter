@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "酸",
+                "query": "醋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b867488596f52dd7",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/读书 MOC.md",
     "ThinkBetter/杂记.md",
