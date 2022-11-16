@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "搞定I.md",
+                "file": "ThinkBetter/神农本草经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "醋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "搞定I.md"
+                "file": "ThinkBetter/神农本草经.md"
               }
             }
           }
@@ -112,11 +111,11 @@
   },
   "active": "5cb81436a1499c5e",
   "lastOpenFiles": [
+    "搞定I.md",
     "ThinkBetter/阅读的基本规则.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/中医诊断学.md",
-    "搞定I.md",
     "读书 MOC.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/读书 MOC.md",
