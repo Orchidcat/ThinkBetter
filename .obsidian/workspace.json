@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f2af97e42574bf53",
+        "id": "fc96fb662724f071",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb744523591e630",
+            "id": "2a196cbdbc6ef243",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/读书 MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "醋",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/读书 MOC.md"
+              }
             }
           }
         ]
@@ -101,8 +108,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbb744523591e630",
+  "active": "2a196cbdbc6ef243",
   "lastOpenFiles": [
+    "ThinkBetter/+Home.md",
     "+HomeMOC.md",
     "ThinkBetter/神农本草经.md",
     "ThinkBetter/读书 MOC.md",
@@ -110,7 +118,6 @@
     "ThinkBetter/子午流注.md",
     "ThinkBetter/胸痹.md",
     "ThinkBetter/人纪 - 针灸.md",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/学习高手.md"
   ]
