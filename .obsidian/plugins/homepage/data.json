@@ -6,5 +6,5 @@
   "hasRibbonIcon": true,
   "openMode": "Replace all open notes",
   "view": "Default view",
-  "refreshDataview": false
+  "refreshDataview": true
 }
