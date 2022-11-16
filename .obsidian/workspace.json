@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb5ea6a95e39728",
+        "id": "acb351afe096e621",
         "type": "tabs",
         "children": [
           {
-            "id": "bc000238584852fc",
+            "id": "f35176443a44354a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/中医诊断学.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/中医诊断学.md"
+              }
             }
           }
         ],
@@ -103,13 +110,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bc000238584852fc",
+  "active": "f35176443a44354a",
   "lastOpenFiles": [
+    "搞定I.md",
     "读书 MOC.md",
     "ThinkBetter/+Home.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/一句话的玩味.md",
-    "搞定I.md",
     "ThinkBetter/读书 MOC.md",
     "ThinkBetter/中医诊断学.md",
     "+HomeMOC.md",
