@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "703f67ce1961802d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "读书 MOC.md",
-            "mode": "source",
-            "source": false
+        "id": "b66f98212c5ba41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b023672c3121d08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +181,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "703f67ce1961802d",
+  "active": "b023672c3121d08d",
   "lastOpenFiles": [
     "模仿者.md",
     "原则.md",
