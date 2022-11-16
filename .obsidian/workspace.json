@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc96fb662724f071",
+        "id": "1fb5ea6a95e39728",
         "type": "tabs",
         "children": [
           {
-            "id": "2a196cbdbc6ef243",
+            "id": "bc000238584852fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/读书 MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -96,29 +92,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/读书 MOC.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "2a196cbdbc6ef243",
+  "active": "bc000238584852fc",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "ThinkBetter/+Home.md",
+    "conflict-files-obsidian-git.md",
+    "ThinkBetter/一句话的玩味.md",
+    "搞定I.md",
+    "ThinkBetter/读书 MOC.md",
+    "ThinkBetter/中医诊断学.md",
     "+HomeMOC.md",
     "ThinkBetter/神农本草经.md",
-    "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/杂记.md",
-    "ThinkBetter/子午流注.md",
-    "ThinkBetter/胸痹.md",
-    "ThinkBetter/人纪 - 针灸.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/学习高手.md"
+    "ThinkBetter/杂记.md"
   ]
 }
