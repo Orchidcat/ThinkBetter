@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +187,12 @@
     "活法.md",
     "读书 MOC.md",
     "+Home.md",
+    "YEAR MOC⌛.md",
+    "愿望清单 MOC.md",
+    "Tools.md",
+    "心智模型 MOC.md",
     "模仿者.md",
     "原则.md",
-    "学习高手.md",
-    "你干嘛在乎别人怎么想.md",
-    "黄帝内经.md",
-    "一句话的玩味.md",
-    "人纪 - 针灸.md"
+    "学习高手.md"
   ]
 }
