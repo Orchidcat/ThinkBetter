@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b66f98212c5ba41d",
+        "id": "dbfd35520be4404d",
         "type": "tabs",
         "children": [
           {
-            "id": "b023672c3121d08d",
+            "id": "3f40865180c4e1c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "活法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aab991b6d7c7e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1aab991b6d7c7e58",
+  "active": "3f40865180c4e1c0",
   "lastOpenFiles": [
     "活法.md",
     "读书 MOC.md",
