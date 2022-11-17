@@ -5,6 +5,14 @@
       "path": "中医诊断学.md"
     },
     {
+      "basename": "活法",
+      "path": "活法.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "除了你，谁能做出这个决定",
       "path": "除了你，谁能做出这个决定.md"
-    },
-    {
-      "basename": "活法",
-      "path": "活法.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "手太阴心经",
       "path": "手太阴心经.md"
-    },
-    {
-      "basename": "足太阴脾经",
-      "path": "足太阴脾经.md"
     }
   ],
   "omittedPaths": [],
