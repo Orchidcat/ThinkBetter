@@ -9,12 +9,40 @@
       "path": "活法.md"
     },
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
+      "basename": "Steve Jobs - 2005 stanford commencement Address",
+      "path": "Steve Jobs - 2005 stanford commencement Address.md"
+    },
+    {
+      "basename": "除了你，谁能做出这个决定",
+      "path": "除了你，谁能做出这个决定.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
+    },
+    {
+      "basename": "愿望清单 MOC",
+      "path": "愿望清单 MOC.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
     },
     {
       "basename": "模仿者",
@@ -53,10 +81,6 @@
       "path": "黄帝外经.md"
     },
     {
-      "basename": "YEAR MOC⌛",
-      "path": "YEAR MOC⌛.md"
-    },
-    {
       "basename": "胸痹心痛短气病脉症并治第九",
       "path": "胸痹心痛短气病脉症并治第九.md"
     },
@@ -69,16 +93,8 @@
       "path": "杂记.md"
     },
     {
-      "basename": "愿望清单 MOC",
-      "path": "愿望清单 MOC.md"
-    },
-    {
       "basename": "神农本草经",
       "path": "神农本草经.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     },
     {
       "basename": "NotToDo",
@@ -183,22 +199,6 @@
     {
       "basename": "手太阴心经",
       "path": "手太阴心经.md"
-    },
-    {
-      "basename": "足太阴脾经",
-      "path": "足太阴脾经.md"
-    },
-    {
-      "basename": "针灸时机",
-      "path": "针灸时机.md"
-    },
-    {
-      "basename": "足太阴",
-      "path": "足太阴.md"
-    },
-    {
-      "basename": "什么是癌症",
-      "path": "什么是癌症.md"
     }
   ],
   "omittedPaths": [],
