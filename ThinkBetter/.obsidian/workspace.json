@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问疼痛.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问疼痛.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问疼痛.md",
+                "file": "中医诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +192,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "8707998c476f8f06",
   "lastOpenFiles": [
+    "问疼痛.md",
     "中医诊断学.md",
     "二问汗.md",
     "一问寒热.md",
@@ -203,7 +203,6 @@
     "读书 MOC.md",
     "+Home.md",
     "活法.md",
-    "未命名.md",
-    "Steve Jobs - 2005 stanford commencement Address.md"
+    "未命名.md"
   ]
 }
