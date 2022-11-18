@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "808811b9dc917fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "二问汗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "二问汗.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "二问汗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "二问汗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +194,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8707998c476f8f06",
+  "active": "808811b9dc917fdc",
   "lastOpenFiles": [
-    "肠鸣^.md",
     "中医诊断学.md",
+    "一问寒热.md",
+    "肠鸣^.md",
     "肠鸣.md",
     "读书 MOC.md",
     "+Home.md",
     "活法.md",
     "未命名.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
-    "除了你，谁能做出这个决定.md",
-    "YEAR MOC⌛.md"
+    "除了你，谁能做出这个决定.md"
   ]
 }
