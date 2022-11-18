@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "灸",
+                "query": "卫气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
