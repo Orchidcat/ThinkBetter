@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "二问汗",
-      "path": "二问汗.md"
+      "basename": "问疼痛",
+      "path": "问疼痛.md"
     },
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "二问汗",
+      "path": "二问汗.md"
     },
     {
       "basename": "一问寒热",
@@ -195,10 +199,6 @@
     {
       "basename": "足少阴肾经",
       "path": "足少阴肾经.md"
-    },
-    {
-      "basename": "足太阳膀胱经",
-      "path": "足太阳膀胱经.md"
     }
   ],
   "omittedPaths": [],

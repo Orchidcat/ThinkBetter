@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "005498157b18e626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "问疼痛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "808811b9dc917fdc",
             "type": "leaf",
             "state": {
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二问汗.md"
+                "file": "问疼痛.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二问汗.md",
+                "file": "问疼痛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二问汗.md",
+                "file": "问疼痛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,9 +206,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "808811b9dc917fdc",
+  "active": "005498157b18e626",
   "lastOpenFiles": [
     "中医诊断学.md",
+    "二问汗.md",
     "一问寒热.md",
     "肠鸣^.md",
     "肠鸣.md",
@@ -204,7 +217,6 @@
     "+Home.md",
     "活法.md",
     "未命名.md",
-    "Steve Jobs - 2005 stanford commencement Address.md",
-    "除了你，谁能做出这个决定.md"
+    "Steve Jobs - 2005 stanford commencement Address.md"
   ]
 }
