@@ -5,6 +5,14 @@
       "path": "中医诊断学.md"
     },
     {
+      "basename": "肠鸣^",
+      "path": "肠鸣^.md"
+    },
+    {
+      "basename": "肠鸣",
+      "path": "肠鸣.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "手太阳小肠经",
       "path": "手太阳小肠经.md"
-    },
-    {
-      "basename": "足阳明胃经",
-      "path": "足阳明胃经.md"
-    },
-    {
-      "basename": "手太阴心经",
-      "path": "手太阴心经.md"
     }
   ],
   "omittedPaths": [],
