@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卫气",
+                "query": "少阳",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -194,7 +193,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "005498157b18e626",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "中医诊断学.md",
     "二问汗.md",
