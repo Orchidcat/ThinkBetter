@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "三问头身",
-      "path": "三问头身.md"
+      "basename": "问耳目",
+      "path": "问耳目.md"
     },
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "三问头身",
+      "path": "三问头身.md"
     },
     {
       "basename": "问疼痛",
@@ -195,10 +199,6 @@
     {
       "basename": "手少阳三焦经",
       "path": "手少阳三焦经.md"
-    },
-    {
-      "basename": "手厥阴心包经",
-      "path": "手厥阴心包经.md"
     }
   ],
   "omittedPaths": [],

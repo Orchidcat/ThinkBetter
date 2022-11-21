@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三问头身.md",
+                "file": "中医诊断学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "795077b76d3761fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "问耳目.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三问头身.md"
+                "file": "问耳目.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三问头身.md",
+                "file": "问耳目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三问头身.md",
+                "file": "问耳目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +206,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "daf5e2594c3ed1ad",
+  "active": "795077b76d3761fc",
   "lastOpenFiles": [
     "中医诊断学.md",
+    "三问头身.md",
     "问疼痛.md",
     "读书 MOC.md",
     "+Home.md",
-    "三问头身.md",
     "二问汗.md",
     "一问寒热.md",
     "肠鸣^.md",
