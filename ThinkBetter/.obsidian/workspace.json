@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "少阳",
+                "query": "纳呆",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "daf5e2594c3ed1ad",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "中医诊断学.md",
     "五问饮食.md",
