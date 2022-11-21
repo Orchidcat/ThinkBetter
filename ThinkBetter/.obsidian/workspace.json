@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "19b519db57e9b66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动脉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7f3eadcd3428458",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "滑脉.md"
+                "file": "动脉.md"
               }
             }
           },
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "滑脉.md",
+                "file": "动脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "滑脉.md",
+                "file": "动脉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,8 +301,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "35459ba350106f62",
+  "active": "19b519db57e9b66f",
   "lastOpenFiles": [
+    "滑脉.md",
     "脉诊.md",
     "细脉.md",
     "微脉.md",
@@ -299,7 +312,6 @@
     "大脉.md",
     "洪脉.md",
     "实脉.md",
-    "长脉.md",
-    "虚脉.md"
+    "长脉.md"
   ]
 }

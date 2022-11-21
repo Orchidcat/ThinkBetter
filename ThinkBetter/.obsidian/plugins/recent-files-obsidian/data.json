@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "动脉",
+      "path": "动脉.md"
+    },
+    {
       "basename": "滑脉",
       "path": "滑脉.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习高手",
       "path": "学习高手.md"
-    },
-    {
-      "basename": "你干嘛在乎别人怎么想",
-      "path": "你干嘛在乎别人怎么想.md"
     }
   ],
   "omittedPaths": [],
