@@ -20,67 +20,18 @@
             }
           },
           {
-            "id": "047a45d190baae60",
+            "id": "e68bd72618aaae38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问经带.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95e7a4d6000db28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "五问饮食.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c89f52155a0afcf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "问睡眠.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "795077b76d3761fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "问耳目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f391feb058b4e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "问疼痛.md",
+                "file": "问小儿.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "问经带.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -190,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "问经带.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问经带.md",
+                "file": "中医诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,17 +192,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "047a45d190baae60",
+  "active": "daf5e2594c3ed1ad",
   "lastOpenFiles": [
+    "问小儿.md",
     "中医诊断学.md",
+    "问经带.md",
     "四问便.md",
     "五问饮食.md",
     "问睡眠.md",
     "问耳目.md",
     "三问头身.md",
     "问疼痛.md",
-    "读书 MOC.md",
-    "+Home.md",
-    "二问汗.md"
+    "读书 MOC.md"
   ]
 }

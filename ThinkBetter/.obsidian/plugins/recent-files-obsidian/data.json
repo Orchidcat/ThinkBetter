@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "问经带",
-      "path": "问经带.md"
-    },
-    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "问小儿",
+      "path": "问小儿.md"
+    },
+    {
+      "basename": "问经带",
+      "path": "问经带.md"
     },
     {
       "basename": "四问便",
@@ -195,10 +199,6 @@
     {
       "basename": "营卫之气",
       "path": "营卫之气.md"
-    },
-    {
-      "basename": "足少阳胆经",
-      "path": "足少阳胆经.md"
     }
   ],
   "omittedPaths": [],
