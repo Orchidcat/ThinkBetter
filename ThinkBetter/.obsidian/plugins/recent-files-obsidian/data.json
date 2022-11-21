@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "虚脉",
-      "path": "虚脉.md"
+      "basename": "实脉",
+      "path": "实脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
+    },
+    {
+      "basename": "短脉",
+      "path": "短脉.md"
+    },
+    {
+      "basename": "虚脉",
+      "path": "虚脉.md"
     },
     {
       "basename": "疾脉",
@@ -191,14 +199,6 @@
     {
       "basename": "杂记",
       "path": "杂记.md"
-    },
-    {
-      "basename": "神农本草经",
-      "path": "神农本草经.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
     }
   ],
   "omittedPaths": [],
