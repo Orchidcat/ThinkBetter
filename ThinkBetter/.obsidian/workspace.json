@@ -20,48 +20,24 @@
             }
           },
           {
+            "id": "a94e3cc50dc8631f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "迟脉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3deeb0291c809ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "沉脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f73694ba3865ae6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "浮脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ccf67f954053516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芤脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e68bd72618aaae38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "问小儿.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "沉脉.md"
+                "file": "迟脉.md"
               }
             }
           },
@@ -179,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "沉脉.md",
+                "file": "迟脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沉脉.md",
+                "file": "迟脉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,17 +206,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3deeb0291c809ac4",
+  "active": "a94e3cc50dc8631f",
   "lastOpenFiles": [
     "脉诊.md",
+    "沉脉.md",
+    "牢脉.md",
+    "伏脉.md",
     "浮脉.md",
     "革脉.md",
     "芤脉.md",
     "散脉.md",
     "读书 MOC.md",
-    "问小儿.md",
-    "中医诊断学.md",
-    "问经带.md",
-    "四问便.md"
+    "问小儿.md"
   ]
 }

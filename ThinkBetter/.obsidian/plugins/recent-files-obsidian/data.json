@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "沉脉",
-      "path": "沉脉.md"
+      "basename": "迟脉",
+      "path": "迟脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
+    },
+    {
+      "basename": "沉脉",
+      "path": "沉脉.md"
+    },
+    {
+      "basename": "牢脉",
+      "path": "牢脉.md"
+    },
+    {
+      "basename": "伏脉",
+      "path": "伏脉.md"
     },
     {
       "basename": "浮脉",
@@ -187,18 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "项目 MOC.md"
-    },
-    {
-      "basename": "手阳明大肠经",
-      "path": "手阳明大肠经.md"
-    },
-    {
-      "basename": "子午流注",
-      "path": "子午流注.md"
-    },
-    {
-      "basename": "手太阴肺经",
-      "path": "手太阴肺经.md"
     }
   ],
   "omittedPaths": [],
