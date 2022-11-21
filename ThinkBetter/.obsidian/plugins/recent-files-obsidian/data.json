@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "五问饮食",
-      "path": "五问饮食.md"
+      "basename": "四问便",
+      "path": "四问便.md"
     },
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "五问饮食",
+      "path": "五问饮食.md"
     },
     {
       "basename": "问睡眠",
@@ -195,10 +199,6 @@
     {
       "basename": "足厥阴肝经",
       "path": "足厥阴肝经.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
     }
   ],
   "omittedPaths": [],

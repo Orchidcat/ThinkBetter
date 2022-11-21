@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "四问便.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "五问饮食.md"
+                "file": "四问便.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "五问饮食.md",
+                "file": "四问便.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "五问饮食.md",
+                "file": "四问便.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +229,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "95e7a4d6000db28d",
+  "active": "daf5e2594c3ed1ad",
   "lastOpenFiles": [
     "中医诊断学.md",
+    "五问饮食.md",
     "问睡眠.md",
     "问耳目.md",
     "三问头身.md",
@@ -240,7 +240,6 @@
     "读书 MOC.md",
     "+Home.md",
     "二问汗.md",
-    "一问寒热.md",
-    "肠鸣^.md"
+    "一问寒热.md"
   ]
 }
