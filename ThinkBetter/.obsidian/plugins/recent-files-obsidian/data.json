@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "迟脉",
-      "path": "迟脉.md"
+      "basename": "数脉",
+      "path": "数脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
+    },
+    {
+      "basename": "迟脉",
+      "path": "迟脉.md"
+    },
+    {
+      "basename": "缓脉",
+      "path": "缓脉.md"
     },
     {
       "basename": "沉脉",
@@ -191,14 +199,6 @@
     {
       "basename": "胸痹",
       "path": "胸痹.md"
-    },
-    {
-      "basename": "人物 MOC",
-      "path": "人物 MOC.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     }
   ],
   "omittedPaths": [],

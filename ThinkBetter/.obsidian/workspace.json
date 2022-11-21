@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "751715045c4ca1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数脉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a94e3cc50dc8631f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "迟脉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "319f77c99837ac7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缓脉.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迟脉.md"
+                "file": "数脉.md"
               }
             }
           },
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "迟脉.md",
+                "file": "数脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迟脉.md",
+                "file": "数脉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +230,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a94e3cc50dc8631f",
+  "active": "751715045c4ca1b7",
   "lastOpenFiles": [
     "脉诊.md",
+    "迟脉.md",
+    "缓脉.md",
     "沉脉.md",
     "牢脉.md",
     "伏脉.md",
     "浮脉.md",
     "革脉.md",
     "芤脉.md",
-    "散脉.md",
-    "读书 MOC.md",
-    "问小儿.md"
+    "散脉.md"
   ]
 }
