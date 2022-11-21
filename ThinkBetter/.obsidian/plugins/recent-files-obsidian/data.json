@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "脉诊",
+      "path": "脉诊.md"
+    },
+    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "佐藤可士和的超整理术",
       "path": "佐藤可士和的超整理术.md"
-    },
-    {
-      "basename": "营卫之气",
-      "path": "营卫之气.md"
     }
   ],
   "omittedPaths": [],
