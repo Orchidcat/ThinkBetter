@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动脉.md"
+                "file": "脉诊.md"
               }
             }
           },
@@ -250,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动脉.md",
+                "file": "脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动脉.md",
+                "file": "脉诊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,8 +300,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "19b519db57e9b66f",
+  "active": "15a8f475d6e7d197",
   "lastOpenFiles": [
+    "动脉.md",
     "滑脉.md",
     "脉诊.md",
     "细脉.md",
@@ -311,7 +311,6 @@
     "濡脉.md",
     "大脉.md",
     "洪脉.md",
-    "实脉.md",
-    "长脉.md"
+    "实脉.md"
   ]
 }
