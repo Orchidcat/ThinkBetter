@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "问睡眠",
-      "path": "问睡眠.md"
+      "basename": "五问饮食",
+      "path": "五问饮食.md"
     },
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "问睡眠",
+      "path": "问睡眠.md"
     },
     {
       "basename": "问耳目",
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
     }
   ],
   "omittedPaths": [],
