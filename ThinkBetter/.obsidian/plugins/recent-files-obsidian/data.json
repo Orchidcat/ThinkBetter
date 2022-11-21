@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "实脉",
-      "path": "实脉.md"
+      "basename": "大脉",
+      "path": "大脉.md"
+    },
+    {
+      "basename": "洪脉",
+      "path": "洪脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
     },
     {
-      "basename": "短脉",
-      "path": "短脉.md"
+      "basename": "实脉",
+      "path": "实脉.md"
+    },
+    {
+      "basename": "长脉",
+      "path": "长脉.md"
     },
     {
       "basename": "虚脉",
       "path": "虚脉.md"
+    },
+    {
+      "basename": "短脉",
+      "path": "短脉.md"
     },
     {
       "basename": "疾脉",
@@ -187,18 +199,6 @@
     {
       "basename": "黄帝外经",
       "path": "黄帝外经.md"
-    },
-    {
-      "basename": "胸痹心痛短气病脉症并治第九",
-      "path": "胸痹心痛短气病脉症并治第九.md"
-    },
-    {
-      "basename": "吞酸",
-      "path": "吞酸.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "杂记.md"
     }
   ],
   "omittedPaths": [],
