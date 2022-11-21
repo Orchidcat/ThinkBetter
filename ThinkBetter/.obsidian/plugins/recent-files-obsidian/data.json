@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "数脉",
-      "path": "数脉.md"
+      "basename": "虚脉",
+      "path": "虚脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
+    },
+    {
+      "basename": "疾脉",
+      "path": "疾脉.md"
+    },
+    {
+      "basename": "数脉",
+      "path": "数脉.md"
+    },
+    {
+      "basename": "问睡眠",
+      "path": "问睡眠.md"
     },
     {
       "basename": "迟脉",
@@ -67,10 +79,6 @@
     {
       "basename": "五问饮食",
       "path": "五问饮食.md"
-    },
-    {
-      "basename": "问睡眠",
-      "path": "问睡眠.md"
     },
     {
       "basename": "问耳目",
@@ -191,14 +199,6 @@
     {
       "basename": "NotToDo",
       "path": "NotToDo.md"
-    },
-    {
-      "basename": "丹砂",
-      "path": "丹砂.md"
-    },
-    {
-      "basename": "胸痹",
-      "path": "胸痹.md"
     }
   ],
   "omittedPaths": [],
