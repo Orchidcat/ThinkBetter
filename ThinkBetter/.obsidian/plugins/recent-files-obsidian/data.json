@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "问耳目",
-      "path": "问耳目.md"
+      "basename": "问睡眠",
+      "path": "问睡眠.md"
     },
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "问耳目",
+      "path": "问耳目.md"
     },
     {
       "basename": "三问头身",
@@ -195,10 +199,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "手少阳三焦经",
-      "path": "手少阳三焦经.md"
     }
   ],
   "omittedPaths": [],
