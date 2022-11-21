@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "芤脉",
+      "path": "芤脉.md"
+    },
+    {
       "basename": "浮脉",
       "path": "浮脉.md"
+    },
+    {
+      "basename": "散脉",
+      "path": "散脉.md"
     },
     {
       "basename": "脉诊",
@@ -191,14 +199,6 @@
     {
       "basename": "医案经方",
       "path": "医案经方.md"
-    },
-    {
-      "basename": "中药",
-      "path": "中药.md"
-    },
-    {
-      "basename": "易经真的很容易",
-      "path": "易经真的很容易.md"
     }
   ],
   "omittedPaths": [],
