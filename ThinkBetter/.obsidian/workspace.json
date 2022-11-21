@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "纳呆",
+                "query": "溏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,9 +231,9 @@
   "active": "daf5e2594c3ed1ad",
   "lastOpenFiles": [
     "中医诊断学.md",
-    "问睡眠.md",
-    "四问便.md",
     "五问饮食.md",
+    "四问便.md",
+    "问睡眠.md",
     "问耳目.md",
     "三问头身.md",
     "问疼痛.md",
