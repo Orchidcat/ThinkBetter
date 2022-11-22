@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "促脉.md"
+                "file": "脉诊.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "促脉.md",
+                "file": "脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "促脉.md",
+                "file": "脉诊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,9 +240,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f8e71ebb0287bc23",
+  "active": "41aba83e4f97fb81",
   "lastOpenFiles": [
     "结脉.md",
+    "促脉.md",
     "代脉.md",
     "脉诊.md",
     "紧脉.md",
@@ -251,7 +251,6 @@
     "涩脉.md",
     "滑脉.md",
     "中医诊断学.md",
-    "读书 MOC.md",
-    "+Home.md"
+    "读书 MOC.md"
   ]
 }
