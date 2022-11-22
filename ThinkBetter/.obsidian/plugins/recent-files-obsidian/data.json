@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "涩脉",
+      "path": "涩脉.md"
+    },
+    {
       "basename": "脉诊",
       "path": "脉诊.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "原则",
       "path": "原则.md"
-    },
-    {
-      "basename": "学习高手",
-      "path": "学习高手.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊.md",
+                "file": "涩脉.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊.md"
+                "file": "涩脉.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊.md",
+                "file": "涩脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊.md",
+                "file": "涩脉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +174,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "41aba83e4f97fb81",
   "lastOpenFiles": [
-    "滑脉.md",
     "脉诊.md",
+    "滑脉.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "+Home.md",
