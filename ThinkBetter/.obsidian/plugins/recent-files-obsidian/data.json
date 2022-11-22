@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "脉诊",
       "path": "脉诊.md"
     },
     {
-      "basename": "动脉",
-      "path": "动脉.md"
-    },
-    {
       "basename": "滑脉",
       "path": "滑脉.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "动脉",
+      "path": "动脉.md"
     },
     {
       "basename": "细脉",
@@ -105,16 +113,8 @@
       "path": "散脉.md"
     },
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
       "basename": "问小儿",
       "path": "问小儿.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
     },
     {
       "basename": "问经带",
