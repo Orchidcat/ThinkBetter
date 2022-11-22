@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "促脉",
+      "path": "促脉.md"
+    },
+    {
+      "basename": "结脉",
+      "path": "结脉.md"
+    },
+    {
+      "basename": "代脉",
+      "path": "代脉.md"
+    },
+    {
+      "basename": "脉诊",
+      "path": "脉诊.md"
+    },
+    {
       "basename": "紧脉",
       "path": "紧脉.md"
     },
     {
       "basename": "弦脉",
       "path": "弦脉.md"
-    },
-    {
-      "basename": "脉诊",
-      "path": "脉诊.md"
     },
     {
       "basename": "涩脉",
@@ -187,18 +199,6 @@
     {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "愿望清单 MOC",
-      "path": "愿望清单 MOC.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Tools.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     }
   ],
   "omittedPaths": [],
