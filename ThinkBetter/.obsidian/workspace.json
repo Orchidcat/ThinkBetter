@@ -4,136 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0808c098ed073baf",
+        "id": "9838a43ec5f6e72c",
         "type": "tabs",
         "children": [
           {
-            "id": "15a8f475d6e7d197",
+            "id": "41aba83e4f97fb81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35459ba350106f62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "滑脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b519db57e9b66f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f3eadcd3428458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "细脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70754c709c8e3cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1d2415f99885145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "弱脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc9838939884276a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "濡脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb1f7184e6649291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "洪脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e1e71c6f6ce9434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "663ab2de70eed3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1d5d9796fabbd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "长脉.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -249,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "15a8f475d6e7d197",
+  "active": "41aba83e4f97fb81",
   "lastOpenFiles": [
     "动脉.md",
     "滑脉.md",
