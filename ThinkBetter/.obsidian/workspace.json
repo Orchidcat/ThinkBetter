@@ -4,112 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9838a43ec5f6e72c",
+        "id": "aaa5ba3ae8ade987",
         "type": "tabs",
         "children": [
           {
-            "id": "41aba83e4f97fb81",
+            "id": "760202620e67b44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc94bbd070b7022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "小儿脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "912aa339cb578f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "妇人脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07a7c2db11b1e35c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "真脏脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a9d2f7e238aabc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "结脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8e71ebb0287bc23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "促脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "499d26466222ab82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7abb777745a6fc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "弦脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "266fd19d2ce88e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "紧脉.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -225,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊.md",
+                "file": "中医诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "41aba83e4f97fb81",
+  "active": "760202620e67b44d",
   "lastOpenFiles": [
-    "妇人脉.md",
-    "脉诊.md",
-    "小儿脉.md",
-    "真脏脉.md",
-    "结脉.md",
-    "促脉.md",
-    "代脉.md",
+    "按诊.md",
+    "中医诊断学.md",
+    "读书 MOC.md",
+    "+Home.md",
     "紧脉.md",
     "弦脉.md",
-    "涩脉.md"
+    "代脉.md",
+    "促脉.md",
+    "结脉.md",
+    "真脏脉.md"
   ]
 }

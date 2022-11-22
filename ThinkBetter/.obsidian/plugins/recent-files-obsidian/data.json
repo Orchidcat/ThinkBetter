@@ -1,32 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "脉诊",
-      "path": "脉诊.md"
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
     },
     {
-      "basename": "妇人脉",
-      "path": "妇人脉.md"
+      "basename": "按诊",
+      "path": "按诊.md"
     },
     {
-      "basename": "小儿脉",
-      "path": "小儿脉.md"
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
-      "basename": "真脏脉",
-      "path": "真脏脉.md"
-    },
-    {
-      "basename": "结脉",
-      "path": "结脉.md"
-    },
-    {
-      "basename": "促脉",
-      "path": "促脉.md"
-    },
-    {
-      "basename": "代脉",
-      "path": "代脉.md"
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "紧脉",
@@ -37,24 +25,40 @@
       "path": "弦脉.md"
     },
     {
+      "basename": "代脉",
+      "path": "代脉.md"
+    },
+    {
+      "basename": "促脉",
+      "path": "促脉.md"
+    },
+    {
+      "basename": "结脉",
+      "path": "结脉.md"
+    },
+    {
+      "basename": "真脏脉",
+      "path": "真脏脉.md"
+    },
+    {
+      "basename": "妇人脉",
+      "path": "妇人脉.md"
+    },
+    {
+      "basename": "小儿脉",
+      "path": "小儿脉.md"
+    },
+    {
+      "basename": "脉诊",
+      "path": "脉诊.md"
+    },
+    {
       "basename": "涩脉",
       "path": "涩脉.md"
     },
     {
       "basename": "滑脉",
       "path": "滑脉.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "动脉",
@@ -195,10 +199,6 @@
     {
       "basename": "活法",
       "path": "活法.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     }
   ],
   "omittedPaths": [],
