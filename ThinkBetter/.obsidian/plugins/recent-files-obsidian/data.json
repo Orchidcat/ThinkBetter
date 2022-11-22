@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "按诊",
-      "path": "按诊.md"
+      "basename": "八纲辨证",
+      "path": "八纲辨证.md"
     },
     {
       "basename": "中医诊断学",
@@ -11,6 +11,10 @@
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "按诊",
+      "path": "按诊.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "肠鸣",
       "path": "肠鸣.md"
-    },
-    {
-      "basename": "活法",
-      "path": "活法.md"
     }
   ],
   "omittedPaths": [],
