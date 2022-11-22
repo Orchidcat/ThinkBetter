@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "912aa339cb578f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "妇人脉.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "07a7c2db11b1e35c",
             "type": "leaf",
             "state": {
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "真脏脉.md"
+                "file": "妇人脉.md"
               }
             }
           },
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "真脏脉.md",
+                "file": "妇人脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "真脏脉.md",
+                "file": "妇人脉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,9 +265,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "07a7c2db11b1e35c",
+  "active": "912aa339cb578f0d",
   "lastOpenFiles": [
     "脉诊.md",
+    "真脏脉.md",
     "结脉.md",
     "促脉.md",
     "代脉.md",
@@ -263,7 +276,6 @@
     "弦脉.md",
     "涩脉.md",
     "滑脉.md",
-    "中医诊断学.md",
-    "读书 MOC.md"
+    "中医诊断学.md"
   ]
 }
