@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "涩脉",
-      "path": "涩脉.md"
+      "basename": "紧脉",
+      "path": "紧脉.md"
+    },
+    {
+      "basename": "弦脉",
+      "path": "弦脉.md"
     },
     {
       "basename": "脉诊",
       "path": "脉诊.md"
+    },
+    {
+      "basename": "涩脉",
+      "path": "涩脉.md"
     },
     {
       "basename": "滑脉",
@@ -191,14 +199,6 @@
     {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "模仿者",
-      "path": "模仿者.md"
-    },
-    {
-      "basename": "原则",
-      "path": "原则.md"
     }
   ],
   "omittedPaths": [],
