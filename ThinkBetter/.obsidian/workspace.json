@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小儿脉.md"
+                "file": "脉诊.md"
               }
             }
           },
@@ -226,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小儿脉.md",
+                "file": "脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小儿脉.md",
+                "file": "脉诊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,8 +275,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ebc94bbd070b7022",
+  "active": "41aba83e4f97fb81",
   "lastOpenFiles": [
+    "小儿脉.md",
     "脉诊.md",
     "妇人脉.md",
     "真脏脉.md",
@@ -287,7 +286,6 @@
     "代脉.md",
     "紧脉.md",
     "弦脉.md",
-    "涩脉.md",
-    "滑脉.md"
+    "涩脉.md"
   ]
 }
