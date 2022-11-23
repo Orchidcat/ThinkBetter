@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "舌下",
+                "query": "表里",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -218,7 +217,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "114df2b64debed7f",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "病性辩证.md",
     "肾结石.md",
