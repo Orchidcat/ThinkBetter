@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aaa5ba3ae8ade987",
+        "id": "5a170005b10feb95",
         "type": "tabs",
         "children": [
           {
-            "id": "760202620e67b44d",
+            "id": "549cf8999386a8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a031dfa6da9e80e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八纲辨证.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八纲辨证.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a031dfa6da9e80e4",
+  "active": "549cf8999386a8dc",
   "lastOpenFiles": [
     "中医诊断学.md",
     "读书 MOC.md",
