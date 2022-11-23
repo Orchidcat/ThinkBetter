@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阴阳虚损辩证.md",
+                "file": "亡阳证.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阴阳虚损辩证.md"
+                "file": "亡阳证.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阴阳虚损辩证.md",
+                "file": "亡阳证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阴阳虚损辩证.md",
+                "file": "亡阳证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,7 @@
   },
   "active": "6195b450913ea697",
   "lastOpenFiles": [
+    "阴阳虚损辩证.md",
     "病性辩证.md",
     "六淫辩证.md",
     "肾结石.md",
@@ -239,7 +240,6 @@
     "八纲辨证.md",
     "+Home.md",
     "按诊.md",
-    "紧脉.md",
-    "弦脉.md"
+    "紧脉.md"
   ]
 }
