@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "饭后",
+                "query": "舌下",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,12 +97,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -180,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "549cf8999386a8dc",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "中医诊断学.md",
     "读书 MOC.md",
