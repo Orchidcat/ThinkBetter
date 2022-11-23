@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95daf3bbfe180b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医诊断学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ee658a95b00248c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病性辩证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca62560c1dfc8984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八纲辨证.md"
+                "file": "未命名 1.md"
               }
             }
           },
@@ -130,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +218,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "549cf8999386a8dc",
+  "active": "ca62560c1dfc8984",
   "lastOpenFiles": [
+    "病性辩证.md",
     "中医诊断学.md",
     "读书 MOC.md",
+    "八纲辨证.md",
     "+Home.md",
     "按诊.md",
     "紧脉.md",
     "弦脉.md",
     "代脉.md",
-    "促脉.md",
-    "结脉.md",
-    "真脏脉.md"
+    "促脉.md"
   ]
 }
