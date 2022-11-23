@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病性辩证.md",
+                "file": "阴阳虚损辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "亡阳证.md"
+                "file": "阴阳虚损辩证.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "亡阳证.md",
+                "file": "阴阳虚损辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "亡阳证.md",
+                "file": "阴阳虚损辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,17 +229,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6195b450913ea697",
+  "active": "2ee658a95b00248c",
   "lastOpenFiles": [
-    "阴阳虚损辩证.md",
     "病性辩证.md",
+    "亡阳证.md",
+    "阴阳虚损辩证.md",
     "六淫辩证.md",
     "肾结石.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "八纲辨证.md",
     "+Home.md",
-    "按诊.md",
-    "紧脉.md"
+    "按诊.md"
   ]
 }
