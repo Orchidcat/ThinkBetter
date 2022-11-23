@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "114df2b64debed7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "六淫辩证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病性辩证.md"
+                "file": "六淫辩证.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病性辩证.md",
+                "file": "六淫辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病性辩证.md",
+                "file": "六淫辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +218,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2ee658a95b00248c",
+  "active": "114df2b64debed7f",
   "lastOpenFiles": [
-    "肾结石.md",
     "病性辩证.md",
+    "肾结石.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "八纲辨证.md",

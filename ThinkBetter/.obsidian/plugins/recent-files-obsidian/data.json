@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "六淫辩证",
+      "path": "六淫辩证.md"
+    },
+    {
       "basename": "病性辩证",
       "path": "病性辩证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "二问汗",
       "path": "二问汗.md"
-    },
-    {
-      "basename": "一问寒热",
-      "path": "一问寒热.md"
     }
   ],
   "omittedPaths": [],
