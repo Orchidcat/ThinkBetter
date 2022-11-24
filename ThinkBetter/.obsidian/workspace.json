@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "ab716b0d219d6291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病位辩证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9566b91c2e4af2d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脏腑辩证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f347bf30fc7c2a6",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -141,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +217,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6917c2bbd8a92543",
+  "active": "9566b91c2e4af2d8",
   "lastOpenFiles": [
+    "病位辩证.md",
+    "脏腑辩证.md",
+    "中医诊断学.md",
     "病性辩证.md",
     "津液辩证.md",
     "滑脉.md",
     "气血辩证.md",
-    "中医诊断学.md",
     "阴阳虚损辩证.md",
     "一句话的玩味.md",
-    "+Home.md",
-    "读书 MOC.md",
-    "亡阳证.md"
+    "+Home.md"
   ]
 }
