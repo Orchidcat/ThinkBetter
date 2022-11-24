@@ -5,6 +5,10 @@
       "path": "津液辩证.md"
     },
     {
+      "basename": "滑脉",
+      "path": "滑脉.md"
+    },
+    {
       "basename": "病性辩证",
       "path": "病性辩证.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "涩脉",
       "path": "涩脉.md"
-    },
-    {
-      "basename": "滑脉",
-      "path": "滑脉.md"
     },
     {
       "basename": "动脉",
