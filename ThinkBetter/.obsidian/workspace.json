@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "津液辩证.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "津液辩证.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "津液辩证.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "津液辩证.md",
+                "file": "中医诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,9 +194,9 @@
   },
   "active": "6917c2bbd8a92543",
   "lastOpenFiles": [
-    "滑脉.md",
-    "津液辩证.md",
     "病性辩证.md",
+    "津液辩证.md",
+    "滑脉.md",
     "气血辩证.md",
     "中医诊断学.md",
     "阴阳虚损辩证.md",
