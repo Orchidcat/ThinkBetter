@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "气血辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "气血辩证.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "气血辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "气血辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,15 +183,15 @@
   },
   "active": "6917c2bbd8a92543",
   "lastOpenFiles": [
+    "病性辩证.md",
+    "中医诊断学.md",
+    "阴阳虚损辩证.md",
+    "一句话的玩味.md",
     "+Home.md",
     "读书 MOC.md",
-    "病性辩证.md",
     "亡阳证.md",
-    "阴阳虚损辩证.md",
     "六淫辩证.md",
     "肾结石.md",
-    "中医诊断学.md",
-    "八纲辨证.md",
-    "按诊.md"
+    "八纲辨证.md"
   ]
 }

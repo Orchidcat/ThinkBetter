@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "气血辩证",
+      "path": "气血辩证.md"
+    },
+    {
+      "basename": "病性辩证",
+      "path": "病性辩证.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "阴阳虚损辩证",
+      "path": "阴阳虚损辩证.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -13,14 +29,6 @@
       "path": "读书 MOC.md"
     },
     {
-      "basename": "阴阳虚损辩证",
-      "path": "阴阳虚损辩证.md"
-    },
-    {
-      "basename": "病性辩证",
-      "path": "病性辩证.md"
-    },
-    {
       "basename": "亡阳证",
       "path": "亡阳证.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "肾结石",
       "path": "肾结石.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
     },
     {
       "basename": "八纲辨证",
@@ -195,10 +199,6 @@
     {
       "basename": "五问饮食",
       "path": "五问饮食.md"
-    },
-    {
-      "basename": "问耳目",
-      "path": "问耳目.md"
     }
   ],
   "omittedPaths": [],
