@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "气血辩证.md",
+                "file": "病性辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "气血辩证.md"
+                "file": "病性辩证.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "气血辩证.md",
+                "file": "病性辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "气血辩证.md",
+                "file": "病性辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
   },
   "active": "6917c2bbd8a92543",
   "lastOpenFiles": [
+    "气血辩证.md",
     "病性辩证.md",
     "中医诊断学.md",
     "阴阳虚损辩证.md",
@@ -191,7 +192,6 @@
     "读书 MOC.md",
     "亡阳证.md",
     "六淫辩证.md",
-    "肾结石.md",
-    "八纲辨证.md"
+    "肾结石.md"
   ]
 }
