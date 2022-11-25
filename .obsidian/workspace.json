@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7fbd891f6d57db8a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/脏腑辩证.md"
+              }
             }
           }
         ],
@@ -117,7 +110,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "7fbd891f6d57db8a",
+  "active": "f3818fc10abe1b37",
   "lastOpenFiles": [
     "ThinkBetter/脏腑辩证.md",
     "ThinkBetter/病位辩证.md",
