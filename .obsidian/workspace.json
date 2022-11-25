@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/+Home.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/+Home.md"
+                "file": "读书 MOC.md"
               }
             }
           }
@@ -112,8 +112,8 @@
   },
   "active": "db66cd8a74ddf417",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "ThinkBetter/+Home.md",
+    "读书 MOC.md",
     "ThinkBetter/一句话的玩味.md",
     "搞定I.md",
     "ThinkBetter/中医诊断学.md",
