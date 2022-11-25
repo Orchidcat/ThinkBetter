@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3974541c108752b2",
+        "id": "40cfe2e613a74228",
         "type": "tabs",
         "children": [
           {
-            "id": "db66cd8a74ddf417",
+            "id": "f3818fc10abe1b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "ThinkBetter/脏腑辩证.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "ThinkBetter/脏腑辩证.md"
               }
             }
           }
@@ -110,17 +110,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "db66cd8a74ddf417",
+  "active": "f3818fc10abe1b37",
   "lastOpenFiles": [
-    "ThinkBetter/+Home.md",
+    "ThinkBetter/病位辩证.md",
+    "ThinkBetter/中医诊断学.md",
     "读书 MOC.md",
+    "ThinkBetter/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "搞定I.md",
-    "ThinkBetter/中医诊断学.md",
     "ThinkBetter/阅读的基本规则.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/读书 MOC.md",
-    "+HomeMOC.md",
-    "ThinkBetter/神农本草经.md"
+    "+HomeMOC.md"
   ]
 }
