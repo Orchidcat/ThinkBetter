@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05e1807d22938510",
+        "id": "3974541c108752b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9c7b6a992a5197",
+            "id": "db66cd8a74ddf417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/+Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/+Home.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -110,10 +103,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6b9c7b6a992a5197",
+  "active": "db66cd8a74ddf417",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "ThinkBetter/+Home.md",
+    "读书 MOC.md",
     "ThinkBetter/一句话的玩味.md",
     "搞定I.md",
     "ThinkBetter/中医诊断学.md",
