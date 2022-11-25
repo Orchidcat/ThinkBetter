@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "水饮.md"
+                "file": "ThinkBetter/脏腑辩证.md"
               }
             }
           }
@@ -122,8 +122,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "f965950406dd8323",
+  "active": "15a3e5ed6d6e1048",
   "lastOpenFiles": [
+    "水饮.md",
     "ThinkBetter/脏腑辩证.md",
     "削骨.md",
     "ThinkBetter/病位辩证.md",
@@ -132,7 +133,6 @@
     "ThinkBetter/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "搞定I.md",
-    "ThinkBetter/阅读的基本规则.md",
-    "conflict-files-obsidian-git.md"
+    "ThinkBetter/阅读的基本规则.md"
   ]
 }
