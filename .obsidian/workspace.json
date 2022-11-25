@@ -11,8 +11,13 @@
             "id": "db66cd8a74ddf417",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/+Home.md"
+              }
             }
           }
         ],
@@ -105,8 +112,8 @@
   },
   "active": "db66cd8a74ddf417",
   "lastOpenFiles": [
-    "ThinkBetter/+Home.md",
     "读书 MOC.md",
+    "ThinkBetter/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "搞定I.md",
     "ThinkBetter/中医诊断学.md",
