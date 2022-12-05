@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,7 @@
   "active": "8938cafa834c395b",
   "lastOpenFiles": [
     "+Home.md",
+    "一句话的玩味.md",
     "第一性原理.md",
     "心智模型 MOC.md",
     "100种心智模型.md",
@@ -203,7 +204,6 @@
     "除了你，谁能做出这个决定.md",
     "原则.md",
     "可持续.md",
-    "病位辩证.md",
-    "滑脉.md"
+    "病位辩证.md"
   ]
 }
