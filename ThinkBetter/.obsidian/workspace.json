@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可持续.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可持续.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可持续.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8439e214e0f2a762",
+  "active": "8938cafa834c395b",
   "lastOpenFiles": [
+    "除了你，谁能做出这个决定.md",
+    "可持续.md",
+    "读书 MOC.md",
     "+Home.md",
+    "心智模型 MOC.md",
     "病位辩证.md",
     "滑脉.md",
     "脏腑辩证.md",
     "中医诊断学.md",
-    "病性辩证.md",
-    "津液辩证.md",
-    "气血辩证.md",
-    "阴阳虚损辩证.md",
-    "一句话的玩味.md"
+    "病性辩证.md"
   ]
 }

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "除了你，谁能做出这个决定",
+      "path": "除了你，谁能做出这个决定.md"
+    },
+    {
       "basename": "可持续",
       "path": "可持续.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
     },
     {
       "basename": "中医诊断学",
@@ -43,10 +55,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "亡阳证",
@@ -191,14 +199,6 @@
     {
       "basename": "革脉",
       "path": "革脉.md"
-    },
-    {
-      "basename": "芤脉",
-      "path": "芤脉.md"
-    },
-    {
-      "basename": "散脉",
-      "path": "散脉.md"
     }
   ],
   "omittedPaths": [],
