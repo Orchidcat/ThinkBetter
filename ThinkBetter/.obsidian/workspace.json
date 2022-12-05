@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c48f4c3ab5041ebd",
+        "id": "11112f811858adf4",
         "type": "tabs",
         "children": [
           {
-            "id": "6917c2bbd8a92543",
+            "id": "8938cafa834c395b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab716b0d219d6291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病位辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9566b91c2e4af2d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脏腑辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f347bf30fc7c2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "滑脉.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脏腑辩证.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -166,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +180,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9566b91c2e4af2d8",
+  "active": "8938cafa834c395b",
   "lastOpenFiles": [
     "病位辩证.md",
+    "滑脉.md",
     "脏腑辩证.md",
     "中医诊断学.md",
     "病性辩证.md",
     "津液辩证.md",
-    "滑脉.md",
     "气血辩证.md",
     "阴阳虚损辩证.md",
     "一句话的玩味.md",
