@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "舌苔",
+                "query": "舌裂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "15a3e5ed6d6e1048",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/八纲辨证.md",
     "ThinkBetter/脏腑辩证.md",
