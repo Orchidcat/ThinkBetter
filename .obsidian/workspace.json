@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md",
+                "file": "ThinkBetter/四问便.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "水饮",
+                "query": "舌苔",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md"
+                "file": "ThinkBetter/四问便.md"
               }
             }
           }
@@ -124,15 +123,15 @@
   },
   "active": "15a3e5ed6d6e1048",
   "lastOpenFiles": [
-    "水饮.md",
+    "ThinkBetter/八纲辨证.md",
     "ThinkBetter/脏腑辩证.md",
+    "水饮.md",
     "削骨.md",
     "ThinkBetter/病位辩证.md",
     "ThinkBetter/中医诊断学.md",
     "读书 MOC.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/一句话的玩味.md",
-    "搞定I.md",
-    "ThinkBetter/阅读的基本规则.md"
+    "搞定I.md"
   ]
 }
