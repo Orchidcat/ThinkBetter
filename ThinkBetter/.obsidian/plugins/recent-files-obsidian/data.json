@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "脾阳虚证",
-      "path": "脾阳虚证.md"
+      "basename": "脾不统血证",
+      "path": "脾不统血证.md"
     },
     {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "脾阳虚证",
+      "path": "脾阳虚证.md"
     },
     {
       "basename": "脾虚气陷证",
@@ -195,10 +199,6 @@
     {
       "basename": "疾脉",
       "path": "疾脉.md"
-    },
-    {
-      "basename": "数脉",
-      "path": "数脉.md"
     }
   ],
   "omittedPaths": [],
