@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "736b9abbd7263181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胃气虚证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "03896d2d21957116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "寒湿困脾证.md",
+                "file": "纳呆.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "寒湿困脾证.md"
+                "file": "胃气虚证.md"
               }
             }
           },
@@ -203,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "寒湿困脾证.md",
+                "file": "胃气虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "寒湿困脾证.md",
+                "file": "胃气虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,17 +266,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "03896d2d21957116",
+  "active": "736b9abbd7263181",
   "lastOpenFiles": [
     "脏腑辩证.md",
+    "纳呆.md",
+    "寒湿困脾证.md",
     "湿热蕴脾证.md",
     "脾不统血证.md",
     "脾阳虚证.md",
     "脾虚气陷证.md",
     "脾气虚证.md",
     "病位辩证.md",
-    "中医诊断学.md",
-    "读书 MOC.md",
-    "时间管理的本质.md"
+    "中医诊断学.md"
   ]
 }
