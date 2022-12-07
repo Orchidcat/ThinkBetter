@@ -149,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄",
+                "query": "发热",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -266,7 +265,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "736b9abbd7263181",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "脏腑辩证.md",
     "纳呆.md",
