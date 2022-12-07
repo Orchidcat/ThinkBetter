@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "风寒",
+                "query": "舌红 ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "按诊.md"
+                "file": "脾阳虚证.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "按诊.md",
+                "file": "脾阳虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "按诊.md",
+                "file": "脾阳虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,17 +265,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "736b9abbd7263181",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "湿热蕴脾证.md",
+    "按诊.md",
     "胃气虚证.md",
     "脏腑辩证.md",
     "纳呆.md",
     "寒湿困脾证.md",
-    "湿热蕴脾证.md",
     "脾不统血证.md",
     "脾阳虚证.md",
     "脾虚气陷证.md",
-    "脾气虚证.md",
-    "病位辩证.md"
+    "脾气虚证.md"
   ]
 }
