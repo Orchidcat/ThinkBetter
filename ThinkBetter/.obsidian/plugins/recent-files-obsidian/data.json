@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
       "basename": "时间管理的本质",
       "path": "时间管理的本质.md"
+    },
+    {
+      "basename": "人，永远有选择自己态度的自由",
+      "path": "人，永远有选择自己态度的自由.md"
     },
     {
       "basename": "除了你，谁能做出这个决定",
@@ -41,20 +57,8 @@
       "path": "可持续.md"
     },
     {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
-    },
-    {
       "basename": "滑脉",
       "path": "滑脉.md"
-    },
-    {
-      "basename": "脏腑辩证",
-      "path": "脏腑辩证.md"
     },
     {
       "basename": "病性辩证",
@@ -195,10 +199,6 @@
     {
       "basename": "缓脉",
       "path": "缓脉.md"
-    },
-    {
-      "basename": "沉脉",
-      "path": "沉脉.md"
     }
   ],
   "omittedPaths": [],
