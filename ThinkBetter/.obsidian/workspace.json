@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "64a19027e70ea1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脾阳虚证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbd36218330df29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脾虚气陷证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59472af2f9ecd8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脾气虚证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "028b4dff15772433",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脏腑辩证.md"
+                "file": "脾阳虚证.md"
               }
             }
           },
@@ -142,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "脾阳虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "脾阳虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +229,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "08624688d93f5358",
+  "active": "64a19027e70ea1d2",
   "lastOpenFiles": [
+    "脏腑辩证.md",
+    "脾虚气陷证.md",
+    "脾气虚证.md",
     "病位辩证.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "时间管理的本质.md",
     "人，永远有选择自己态度的自由.md",
     "除了你，谁能做出这个决定.md",
-    "+Home.md",
-    "一句话的玩味.md",
-    "第一性原理.md",
-    "心智模型 MOC.md"
+    "+Home.md"
   ]
 }

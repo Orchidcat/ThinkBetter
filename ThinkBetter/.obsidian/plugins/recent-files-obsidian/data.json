@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "脾阳虚证",
+      "path": "脾阳虚证.md"
+    },
+    {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "脾虚气陷证",
+      "path": "脾虚气陷证.md"
+    },
+    {
+      "basename": "脾气虚证",
+      "path": "脾气虚证.md"
     },
     {
       "basename": "病位辩证",
@@ -187,18 +199,6 @@
     {
       "basename": "数脉",
       "path": "数脉.md"
-    },
-    {
-      "basename": "问睡眠",
-      "path": "问睡眠.md"
-    },
-    {
-      "basename": "迟脉",
-      "path": "迟脉.md"
-    },
-    {
-      "basename": "缓脉",
-      "path": "缓脉.md"
     }
   ],
   "omittedPaths": [],
