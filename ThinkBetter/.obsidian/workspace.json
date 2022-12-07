@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时间管理的本质.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时间管理的本质.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时间管理的本质.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +193,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "028b4dff15772433",
+  "active": "08624688d93f5358",
   "lastOpenFiles": [
+    "时间管理的本质.md",
     "读书 MOC.md",
     "除了你，谁能做出这个决定.md",
     "+Home.md",
@@ -204,7 +204,6 @@
     "心智模型 MOC.md",
     "100种心智模型.md",
     "原则.md",
-    "可持续.md",
-    "病位辩证.md"
+    "可持续.md"
   ]
 }

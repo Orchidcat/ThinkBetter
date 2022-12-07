@@ -8,7 +8,8 @@ sort startDate desc
 
 
 ```dataview
-table type as "描述", Date as "开始日期" from #articles 
+table desc as "描述", Date as "开始日期" from #articles 
+sort date desc
 ```
 
 
