@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "时间管理的本质",
+      "path": "时间管理的本质.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "除了你，谁能做出这个决定",
+      "path": "除了你，谁能做出这个决定.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "一句话的玩味",
@@ -23,10 +31,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "除了你，谁能做出这个决定",
-      "path": "除了你，谁能做出这个决定.md"
     },
     {
       "basename": "原则",
@@ -195,10 +199,6 @@
     {
       "basename": "沉脉",
       "path": "沉脉.md"
-    },
-    {
-      "basename": "牢脉",
-      "path": "牢脉.md"
     }
   ],
   "omittedPaths": [],
