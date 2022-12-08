@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "阴虚动风.md",
+            "file": "血虚生风.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阴虚动风.md"
+                "file": "血虚生风.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阴虚动风.md",
+                "file": "血虚生风.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阴虚动风.md",
+                "file": "血虚生风.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
     "肝风内动证.md",
+    "阴虚动风.md",
     "热极生风.md",
     "肝阳化风.md",
     "脏腑辩证.md",
@@ -184,7 +185,6 @@
     "肝火炽盛证.md",
     "肝郁气滞证.md",
     "肝阴虚证.md",
-    "肝血虚证.md",
-    "病位辩证.md"
+    "肝血虚证.md"
   ]
 }
