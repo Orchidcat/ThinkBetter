@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "八纲辨证.md",
+            "file": "五问饮食.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八纲辨证.md"
+                "file": "五问饮食.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "五问饮食.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "五问饮食.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
+    "八纲辨证.md",
     "寒滞胃脘证.md",
     "脏腑辩证.md",
     "胃阴虚证.md",
@@ -184,7 +185,6 @@
     "中医诊断学.md",
     "读书 MOC.md",
     "+Home.md",
-    "湿热蕴脾证.md",
-    "按诊.md"
+    "湿热蕴脾证.md"
   ]
 }
