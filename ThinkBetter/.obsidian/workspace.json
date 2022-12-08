@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "肝阳上亢证.md",
+            "file": "脏腑辩证.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肝阳上亢证.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肝阳上亢证.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肝阳上亢证.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
+    "肝阳上亢证.md",
     "脏腑辩证.md",
     "肝火炽盛证.md",
     "肝郁气滞证.md",
@@ -184,7 +185,6 @@
     "病位辩证.md",
     "食滞胃脘证.md",
     "胃热炽盛证.md",
-    "寒滞胃脘证.md",
-    "八纲辨证.md"
+    "寒滞胃脘证.md"
   ]
 }
