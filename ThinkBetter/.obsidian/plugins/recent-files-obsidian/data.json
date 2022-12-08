@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "肝阴虚证",
-      "path": "肝阴虚证.md"
+      "basename": "肝郁气滞证",
+      "path": "肝郁气滞证.md"
     },
     {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "肝阴虚证",
+      "path": "肝阴虚证.md"
     },
     {
       "basename": "肝血虚证",
@@ -195,10 +199,6 @@
     {
       "basename": "脉诊",
       "path": "脉诊.md"
-    },
-    {
-      "basename": "涩脉",
-      "path": "涩脉.md"
     }
   ],
   "omittedPaths": [],
