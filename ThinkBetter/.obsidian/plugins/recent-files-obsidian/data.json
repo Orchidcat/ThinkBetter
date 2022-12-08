@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "八纲辨证",
+      "path": "八纲辨证.md"
+    },
+    {
+      "basename": "寒滞胃脘证",
+      "path": "寒滞胃脘证.md"
+    },
+    {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
     },
@@ -133,10 +141,6 @@
       "path": "肾结石.md"
     },
     {
-      "basename": "八纲辨证",
-      "path": "八纲辨证.md"
-    },
-    {
       "basename": "紧脉",
       "path": "紧脉.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "濡脉",
       "path": "濡脉.md"
-    },
-    {
-      "basename": "大脉",
-      "path": "大脉.md"
     }
   ],
   "omittedPaths": [],
