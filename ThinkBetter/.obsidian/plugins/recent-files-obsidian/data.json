@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "胃热炽盛证",
-      "path": "胃热炽盛证.md"
+      "basename": "食滞胃脘证",
+      "path": "食滞胃脘证.md"
     },
     {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "胃热炽盛证",
+      "path": "胃热炽盛证.md"
     },
     {
       "basename": "寒滞胃脘证",
@@ -195,10 +199,6 @@
     {
       "basename": "细脉",
       "path": "细脉.md"
-    },
-    {
-      "basename": "微脉",
-      "path": "微脉.md"
     }
   ],
   "omittedPaths": [],
