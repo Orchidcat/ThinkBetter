@@ -4,107 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac18cf97f652a6d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08624688d93f5358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脏腑辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "736b9abbd7263181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "按诊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03896d2d21957116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "纳呆.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe7847f3868b7cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "湿热蕴脾证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64a19027e70ea1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脾阳虚证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbd36218330df29a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脾虚气陷证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59472af2f9ecd8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脾气虚证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028b4dff15772433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "时间管理的本质.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "1004a3d9db183fd8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "currentTab": 4
+        }
       }
     ],
     "direction": "vertical"
@@ -204,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脾阳虚证.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -214,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脾阳虚证.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脾阳虚证.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +174,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b29475884b4470c5",
+  "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
     "湿热蕴脾证.md",
     "按诊.md",
