@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "食滞胃脘证.md",
+            "file": "脏腑辩证.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "食滞胃脘证.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "食滞胃脘证.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "食滞胃脘证.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +176,15 @@
   },
   "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
+    "病位辩证.md",
     "脏腑辩证.md",
+    "食滞胃脘证.md",
     "胃热炽盛证.md",
     "寒滞胃脘证.md",
     "八纲辨证.md",
     "五问饮食.md",
     "胃阴虚证.md",
-    "病位辩证.md",
     "胃阳虚证.md",
-    "中医诊断学.md",
-    "读书 MOC.md"
+    "中医诊断学.md"
   ]
 }
