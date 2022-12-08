@@ -6,10 +6,24 @@
       {
         "id": "1004a3d9db183fd8",
         "type": "leaf",
+        "dimension": 18.674136321195146,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "脏腑辩证.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9136d10d514bc6cd",
+        "type": "leaf",
+        "dimension": 81.32586367880485,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "胃阳虚证.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "胃阳虚证.md"
               }
             }
           },
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "胃阳虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "胃阳虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1004a3d9db183fd8",
+  "active": "9136d10d514bc6cd",
   "lastOpenFiles": [
+    "脏腑辩证.md",
+    "胃阳虚证.md",
+    "病位辩证.md",
+    "中医诊断学.md",
+    "读书 MOC.md",
+    "+Home.md",
     "湿热蕴脾证.md",
     "按诊.md",
     "胃气虚证.md",
-    "脏腑辩证.md",
-    "纳呆.md",
-    "寒湿困脾证.md",
-    "脾不统血证.md",
-    "脾阳虚证.md",
-    "脾虚气陷证.md",
-    "脾气虚证.md"
+    "纳呆.md"
   ]
 }

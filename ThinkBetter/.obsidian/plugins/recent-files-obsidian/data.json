@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "胃阳虚证",
+      "path": "胃阳虚证.md"
+    },
+    {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -21,10 +41,6 @@
       "path": "胃气虚证.md"
     },
     {
-      "basename": "脏腑辩证",
-      "path": "脏腑辩证.md"
-    },
-    {
       "basename": "纳呆",
       "path": "纳呆.md"
     },
@@ -43,18 +59,6 @@
     {
       "basename": "脾气虚证",
       "path": "脾气虚证.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "时间管理的本质",
@@ -195,10 +199,6 @@
     {
       "basename": "洪脉",
       "path": "洪脉.md"
-    },
-    {
-      "basename": "实脉",
-      "path": "实脉.md"
     }
   ],
   "omittedPaths": [],
