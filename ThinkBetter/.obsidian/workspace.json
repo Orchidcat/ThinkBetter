@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "胃阴虚证.md",
+            "file": "脏腑辩证.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胃阴虚证.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胃阴虚证.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胃阴虚证.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
+    "胃阴虚证.md",
     "脏腑辩证.md",
     "病位辩证.md",
     "胃阳虚证.md",
@@ -184,7 +185,6 @@
     "+Home.md",
     "湿热蕴脾证.md",
     "按诊.md",
-    "胃气虚证.md",
-    "纳呆.md"
+    "胃气虚证.md"
   ]
 }
