@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "阴虚动风",
+      "path": "阴虚动风.md"
+    },
+    {
       "basename": "肝风内动证",
       "path": "肝风内动证.md"
+    },
+    {
+      "basename": "热极生风",
+      "path": "热极生风.md"
+    },
+    {
+      "basename": "肝阳化风",
+      "path": "肝阳化风.md"
     },
     {
       "basename": "脏腑辩证",
@@ -187,18 +199,6 @@
     {
       "basename": "代脉",
       "path": "代脉.md"
-    },
-    {
-      "basename": "促脉",
-      "path": "促脉.md"
-    },
-    {
-      "basename": "结脉",
-      "path": "结脉.md"
-    },
-    {
-      "basename": "真脏脉",
-      "path": "真脏脉.md"
     }
   ],
   "omittedPaths": [],
