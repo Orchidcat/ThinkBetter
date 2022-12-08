@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "五问饮食",
-      "path": "五问饮食.md"
+      "basename": "胃热炽盛证",
+      "path": "胃热炽盛证.md"
     },
     {
-      "basename": "八纲辨证",
-      "path": "八纲辨证.md"
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
     },
     {
       "basename": "寒滞胃脘证",
       "path": "寒滞胃脘证.md"
     },
     {
-      "basename": "脏腑辩证",
-      "path": "脏腑辩证.md"
+      "basename": "八纲辨证",
+      "path": "八纲辨证.md"
+    },
+    {
+      "basename": "五问饮食",
+      "path": "五问饮食.md"
     },
     {
       "basename": "胃阴虚证",
@@ -195,10 +199,6 @@
     {
       "basename": "微脉",
       "path": "微脉.md"
-    },
-    {
-      "basename": "弱脉",
-      "path": "弱脉.md"
     }
   ],
   "omittedPaths": [],
