@@ -6,24 +6,10 @@
       {
         "id": "1004a3d9db183fd8",
         "type": "leaf",
-        "dimension": 18.674136321195146,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "脏腑辩证.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9136d10d514bc6cd",
-        "type": "leaf",
-        "dimension": 81.32586367880485,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "胃阳虚证.md",
+            "file": "胃阴虚证.md",
             "mode": "source",
             "source": false
           }
@@ -127,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胃阳虚证.md"
+                "file": "胃阴虚证.md"
               }
             }
           },
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胃阳虚证.md",
+                "file": "胃阴虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胃阳虚证.md",
+                "file": "胃阴虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,11 +174,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9136d10d514bc6cd",
+  "active": "1004a3d9db183fd8",
   "lastOpenFiles": [
     "脏腑辩证.md",
-    "胃阳虚证.md",
     "病位辩证.md",
+    "胃阳虚证.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "+Home.md",

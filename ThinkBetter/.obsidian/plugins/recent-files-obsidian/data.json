@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "胃阳虚证",
-      "path": "胃阳虚证.md"
+      "basename": "胃阴虚证",
+      "path": "胃阴虚证.md"
     },
     {
       "basename": "脏腑辩证",
@@ -11,6 +11,10 @@
     {
       "basename": "病位辩证",
       "path": "病位辩证.md"
+    },
+    {
+      "basename": "胃阳虚证",
+      "path": "胃阳虚证.md"
     },
     {
       "basename": "中医诊断学",
@@ -195,10 +199,6 @@
     {
       "basename": "大脉",
       "path": "大脉.md"
-    },
-    {
-      "basename": "洪脉",
-      "path": "洪脉.md"
     }
   ],
   "omittedPaths": [],
