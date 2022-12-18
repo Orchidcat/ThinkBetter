@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心脾两虚证.md",
+                "file": "肺肾阴虚证.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "048a7b1bb5a2d383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脾肺气虚证.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "心脾两虚证.md"
+                "file": "肺肾阴虚证.md"
               }
             }
           },
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "心脾两虚证.md",
+                "file": "肺肾阴虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心脾两虚证.md",
+                "file": "肺肾阴虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,14 +155,14 @@
   "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
     "ThinkBetter/脏腑辩证.md",
+    "脾肺气虚证.md",
+    "心肝血虚证.md",
+    "心脾两虚证.md",
     "心肺气虚证.md",
     "心肾阳虚证.md",
     "心肾不交证.md",
     "膀胱湿热证.md",
     "肾不纳气证.md",
-    "肾气不固证.md",
-    "肾精不足证.md",
-    "肾阴虚证.md",
-    "肾虚水泛证.md"
+    "肾气不固证.md"
   ]
 }
