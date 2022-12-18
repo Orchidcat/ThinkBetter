@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肝郁脾虚证.md",
+                "file": "肝肾阴虚证.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肝郁脾虚证.md"
+                "file": "肝肾阴虚证.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肝郁脾虚证.md",
+                "file": "肝肾阴虚证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肝郁脾虚证.md",
+                "file": "肝肾阴虚证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,14 +155,14 @@
   "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
     "ThinkBetter/脏腑辩证.md",
+    "肝胆湿热证.md",
+    "肝郁脾虚证.md",
     "肝胃不和证.md",
     "肝火犯肺证.md",
     "肺肾阴虚证.md",
     "脾肺气虚证.md",
     "心肝血虚证.md",
     "心脾两虚证.md",
-    "心肺气虚证.md",
-    "心肾阳虚证.md",
-    "心肾不交证.md"
+    "心肺气虚证.md"
   ]
 }
