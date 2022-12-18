@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/病位辩证.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd34f2304fb56ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "传经.md",
+                "file": "卫气营血辨证.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "传经.md"
+                "file": "卫气营血辨证.md"
               }
             }
           },
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "传经.md",
+                "file": "卫气营血辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "传经.md",
+                "file": "卫气营血辨证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +152,17 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "bd34f2304fb56ea3",
+  "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
+    "ThinkBetter/病位辩证.md",
     "六经辩证.md",
+    "并病.md",
+    "合病.md",
+    "直中.md",
+    "传经.md",
     "厥阴病证.md",
     "少阴病证.md",
     "太阴病证.md",
-    "少阳病证.md",
-    "鼻炎.md",
-    "阳明病证.md",
-    "脾肺气虚证.md",
-    "太阳病证.md",
-    "ThinkBetter/病位辩证.md"
+    "少阳病证.md"
   ]
 }
