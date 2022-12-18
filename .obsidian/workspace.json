@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md",
+                "file": "肾精不足证.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md"
+                "file": "肾精不足证.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md",
+                "file": "肾精不足证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md",
+                "file": "肾精不足证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
-    "胆郁痰扰证.md",
     "ThinkBetter/脏腑辩证.md",
+    "肾阴虚证.md",
+    "肾虚水泛证.md",
+    "肾阳虚证.md",
+    "胆郁痰扰证.md",
     "寒滞肝脉证.md",
     "ThinkBetter/病位辩证.md",
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/肝血虚证.md",
-    "ThinkBetter/别闹了，费曼先生.md",
-    "ThinkBetter/时间管理的本质.md",
-    "ThinkBetter/+Home.md"
+    "ThinkBetter/肝血虚证.md"
   ]
 }
