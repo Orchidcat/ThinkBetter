@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4aa13777dc2263c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "寒滞肝脉证.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脏腑辩证.md"
+                "file": "寒滞肝脉证.md"
               }
             }
           },
@@ -122,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "寒滞肝脉证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,25 +147,29 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "寒滞肝脉证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 386,
+    "collapsed": true
   },
-  "active": "c4aab8cde6aa4d93",
+  "active": "4aa13777dc2263c1",
   "lastOpenFiles": [
+    "ThinkBetter/脏腑辩证.md",
+    "ThinkBetter/肝血虚证.md",
     "ThinkBetter/病位辩证.md",
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/读书 MOC.md",
@@ -159,8 +177,6 @@
     "ThinkBetter/时间管理的本质.md",
     "ThinkBetter/+Home.md",
     "读书 MOC.md",
-    "ThinkBetter/四问便.md",
-    "ThinkBetter/八纲辨证.md",
-    "ThinkBetter/脏腑辩证.md"
+    "ThinkBetter/四问便.md"
   ]
 }
