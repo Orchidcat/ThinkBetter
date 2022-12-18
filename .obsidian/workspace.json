@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肾精不足证.md",
+                "file": "膀胱湿热证.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肾精不足证.md"
+                "file": "膀胱湿热证.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肾精不足证.md",
+                "file": "膀胱湿热证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肾精不足证.md",
+                "file": "膀胱湿热证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,14 +142,14 @@
   "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
     "ThinkBetter/脏腑辩证.md",
+    "肾不纳气证.md",
+    "肾气不固证.md",
+    "肾精不足证.md",
     "肾阴虚证.md",
     "肾虚水泛证.md",
     "肾阳虚证.md",
     "胆郁痰扰证.md",
     "寒滞肝脉证.md",
-    "ThinkBetter/病位辩证.md",
-    "ThinkBetter/中医诊断学.md",
-    "ThinkBetter/读书 MOC.md",
-    "ThinkBetter/肝血虚证.md"
+    "ThinkBetter/病位辩证.md"
   ]
 }
