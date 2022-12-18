@@ -2,7 +2,7 @@
 
 
 ```dataview
-table type as "描述", startDate as "开始日期" from #book
+table type as "描述", startDate as "开始日期" from #Book 
 sort startDate desc
 ```
 

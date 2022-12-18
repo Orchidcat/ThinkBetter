@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca2086d6ffcf468",
+        "id": "e959677297ad5ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "15a3e5ed6d6e1048",
+            "id": "c6d1f72d13215c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/四问便.md",
+                "file": "ThinkBetter/别闹了，费曼先生.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "f965950406dd8323",
+            "id": "c4aab8cde6aa4d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "水饮.md",
+                "file": "ThinkBetter/脏腑辩证.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "舌裂",
+                "query": "tag:#Book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -110,28 +112,55 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/四问便.md"
+                "file": "ThinkBetter/脏腑辩证.md"
+              }
+            }
+          },
+          {
+            "id": "ecac03052e0e0f83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d51fd6b1c35b97f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "c4aab8cde6aa4d93",
   "lastOpenFiles": [
-    "ThinkBetter/八纲辨证.md",
-    "ThinkBetter/脏腑辩证.md",
-    "水饮.md",
-    "削骨.md",
     "ThinkBetter/病位辩证.md",
     "ThinkBetter/中医诊断学.md",
-    "读书 MOC.md",
+    "ThinkBetter/读书 MOC.md",
+    "ThinkBetter/别闹了，费曼先生.md",
+    "ThinkBetter/时间管理的本质.md",
     "ThinkBetter/+Home.md",
-    "ThinkBetter/一句话的玩味.md",
-    "搞定I.md"
+    "读书 MOC.md",
+    "ThinkBetter/四问便.md",
+    "ThinkBetter/八纲辨证.md",
+    "ThinkBetter/脏腑辩证.md"
   ]
 }
