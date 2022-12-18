@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e959677297ad5ca5",
+        "id": "554967fc694214dd",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d1f72d13215c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/别闹了，费曼先生.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4aab8cde6aa4d93",
+            "id": "59c4ebb35bb44c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/脏腑辩证.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aa13777dc2263c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "寒滞肝脉证.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "寒滞肝脉证.md"
+                "file": "ThinkBetter/脏腑辩证.md"
               }
             }
           },
@@ -135,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "寒滞肝脉证.md",
+                "file": "ThinkBetter/脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "寒滞肝脉证.md",
+                "file": "ThinkBetter/脏腑辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +139,17 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "4aa13777dc2263c1",
+  "active": "59c4ebb35bb44c13",
   "lastOpenFiles": [
+    "胆郁痰扰证.md",
     "ThinkBetter/脏腑辩证.md",
-    "ThinkBetter/肝血虚证.md",
+    "寒滞肝脉证.md",
     "ThinkBetter/病位辩证.md",
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/读书 MOC.md",
+    "ThinkBetter/肝血虚证.md",
     "ThinkBetter/别闹了，费曼先生.md",
     "ThinkBetter/时间管理的本质.md",
-    "ThinkBetter/+Home.md",
-    "读书 MOC.md",
-    "ThinkBetter/四问便.md"
+    "ThinkBetter/+Home.md"
   ]
 }
