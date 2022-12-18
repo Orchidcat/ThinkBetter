@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "太阴病证.md",
+                "file": "传经.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "太阴病证.md"
+                "file": "传经.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "太阴病证.md",
+                "file": "传经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "太阴病证.md",
+                "file": "传经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,14 +169,14 @@
   "active": "bd34f2304fb56ea3",
   "lastOpenFiles": [
     "六经辩证.md",
+    "厥阴病证.md",
+    "少阴病证.md",
+    "太阴病证.md",
     "少阳病证.md",
     "鼻炎.md",
     "阳明病证.md",
     "脾肺气虚证.md",
     "太阳病证.md",
-    "ThinkBetter/病位辩证.md",
-    "ThinkBetter/脏腑辩证.md",
-    "脾肾阳虚证.md",
-    "肝肾阴虚证.md"
+    "ThinkBetter/病位辩证.md"
   ]
 }
