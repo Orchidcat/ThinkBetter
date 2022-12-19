@@ -9,8 +9,16 @@
       "path": "六经辩证.md"
     },
     {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "经络辨证",
+      "path": "经络辨证.md"
     },
     {
       "basename": "中医诊断学",
@@ -43,10 +51,6 @@
     {
       "basename": "肝阳化风",
       "path": "肝阳化风.md"
-    },
-    {
-      "basename": "脏腑辩证",
-      "path": "脏腑辩证.md"
     },
     {
       "basename": "肝阳上亢证",
@@ -195,10 +199,6 @@
     {
       "basename": "六淫辩证",
       "path": "六淫辩证.md"
-    },
-    {
-      "basename": "肾结石",
-      "path": "肾结石.md"
     }
   ],
   "omittedPaths": [],
