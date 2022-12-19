@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1004a3d9db183fd8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "肝风内动证.md",
-            "mode": "source",
-            "source": false
+        "id": "a5b4fdb2326865c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7646c7eac86611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肝风内动证.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肝风内动证.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肝风内动证.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1004a3d9db183fd8",
+  "active": "ca7646c7eac86611",
   "lastOpenFiles": [
     "血虚生风.md",
     "肝风内动证.md",
