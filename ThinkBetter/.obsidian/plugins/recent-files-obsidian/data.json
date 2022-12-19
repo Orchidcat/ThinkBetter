@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
+      "basename": "六经辩证",
+      "path": "六经辩证.md"
+    },
+    {
+      "basename": "卫气营血辨证",
+      "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "肝风内动证",
@@ -53,10 +69,6 @@
       "path": "肝血虚证.md"
     },
     {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
-    },
-    {
       "basename": "食滞胃脘证",
       "path": "食滞胃脘证.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "胃阳虚证",
       "path": "胃阳虚证.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
     },
     {
       "basename": "脾阳虚证",
@@ -191,14 +199,6 @@
     {
       "basename": "肾结石",
       "path": "肾结石.md"
-    },
-    {
-      "basename": "紧脉",
-      "path": "紧脉.md"
-    },
-    {
-      "basename": "弦脉",
-      "path": "弦脉.md"
     }
   ],
   "omittedPaths": [],
