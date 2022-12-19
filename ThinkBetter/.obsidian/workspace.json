@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
-                "mode": "source",
+                "file": "一句话的玩味.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,15 +183,15 @@
   },
   "active": "1b6b8b8a94cd5858",
   "lastOpenFiles": [
+    "+Home.md",
+    "WorkFlowMOC.md",
+    "YEAR MOC⌛.md",
     "卫气营血辨证.md",
     "病位辩证.md",
     "六经辩证.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "活法.md",
-    "脏腑辩证.md",
-    "经络辨证.md",
-    "+Home.md",
-    "血虚生风.md"
+    "脏腑辩证.md"
   ]
 }
