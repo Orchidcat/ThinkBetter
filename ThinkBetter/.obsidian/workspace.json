@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "活法.md",
+                "file": "病位辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "活法.md"
+                "file": "病位辩证.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "活法.md",
+                "file": "病位辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "活法.md",
+                "file": "病位辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,15 +183,15 @@
   },
   "active": "6d125f4485c44cea",
   "lastOpenFiles": [
-    "读书 MOC.md",
-    "中医诊断学.md",
+    "卫气营血辨证.md",
     "病位辩证.md",
     "六经辩证.md",
+    "中医诊断学.md",
+    "读书 MOC.md",
+    "活法.md",
     "脏腑辩证.md",
-    "卫气营血辨证.md",
     "经络辨证.md",
     "+Home.md",
-    "血虚生风.md",
-    "肝风内动证.md"
+    "血虚生风.md"
   ]
 }
