@@ -2,7 +2,7 @@
 
 **想要阅读的list**
 ```dataview
-list [author](file.name) from #UnReadBook 
+list author  from #UnReadBook 
 ```
 
 
