@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "普林斯顿大学.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "普林斯顿大学.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "普林斯顿大学.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "852d4b832b7e6ab2",
+  "active": "f9356d560de0bfdb",
   "lastOpenFiles": [
+    "中医诊断学.md",
     "读书 MOC.md",
+    "普林斯顿大学.md",
     "The Rape of Nanking - The Forgotten Holocaust of World War II.md",
     "+Home.md",
     "一句话的玩味.md",
     "活法.md",
     "WorkFlowMOC.md",
     "YEAR MOC⌛.md",
-    "卫气营血辨证.md",
-    "病位辩证.md",
-    "六经辩证.md"
+    "卫气营血辨证.md"
   ]
 }
