@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,7 +217,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f9356d560de0bfdb",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "从一到无穷大.md",
     "读书 MOC.md",
