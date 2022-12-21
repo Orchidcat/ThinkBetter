@@ -5,6 +5,14 @@
       "path": "读书 MOC.md"
     },
     {
+      "basename": "从一到无穷大",
+      "path": "从一到无穷大.md"
+    },
+    {
+      "basename": "生命是什么",
+      "path": "生命是什么.md"
+    },
+    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "可持续",
       "path": "可持续.md"
-    },
-    {
-      "basename": "滑脉",
-      "path": "滑脉.md"
-    },
-    {
-      "basename": "病性辩证",
-      "path": "病性辩证.md"
     }
   ],
   "omittedPaths": [],

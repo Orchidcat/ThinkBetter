@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "0e40dffbfe2928c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "从一到无穷大.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1c2e0ef643d66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生命是什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "852d4b832b7e6ab2",
             "type": "leaf",
             "state": {
@@ -195,15 +219,15 @@
   },
   "active": "f9356d560de0bfdb",
   "lastOpenFiles": [
-    "中医诊断学.md",
+    "从一到无穷大.md",
     "读书 MOC.md",
+    "生命是什么.md",
+    "中医诊断学.md",
     "普林斯顿大学.md",
     "The Rape of Nanking - The Forgotten Holocaust of World War II.md",
     "+Home.md",
     "一句话的玩味.md",
     "活法.md",
-    "WorkFlowMOC.md",
-    "YEAR MOC⌛.md",
-    "卫气营血辨证.md"
+    "WorkFlowMOC.md"
   ]
 }
