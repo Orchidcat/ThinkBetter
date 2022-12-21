@@ -7,7 +7,7 @@ list author  from #UnReadBook
 
 
 ```dataview
-table type as "描述", startDate as "开始日期" from #Book 
+list type ,startdate from #Book 
 sort startDate desc
 ```
 
