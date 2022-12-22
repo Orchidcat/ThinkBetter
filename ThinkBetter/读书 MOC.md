@@ -2,7 +2,7 @@
 
 **想要阅读的list**
 ```dataview
-list author + "" + rating  from #UnReadBook 
+list author + rating  from #UnReadBook 
 ```
 
 
