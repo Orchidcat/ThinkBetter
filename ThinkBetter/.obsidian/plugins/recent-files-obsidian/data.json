@@ -5,12 +5,16 @@
       "path": "读书 MOC.md"
     },
     {
-      "basename": "真正的天才：约翰·巴丁的生平与学术",
-      "path": "真正的天才：约翰·巴丁的生平与学术.md"
+      "basename": "American Steel",
+      "path": "American Steel.md"
     },
     {
       "basename": "从一到无穷大",
       "path": "从一到无穷大.md"
+    },
+    {
+      "basename": "真正的天才：约翰·巴丁的生平与学术",
+      "path": "真正的天才：约翰·巴丁的生平与学术.md"
     },
     {
       "basename": "胸痹",
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     }
   ],
   "omittedPaths": [],
