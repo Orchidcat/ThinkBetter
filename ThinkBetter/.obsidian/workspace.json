@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "真正的天才：约翰·巴丁的生平与学术.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "真正的天才：约翰·巴丁的生平与学术.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "真正的天才：约翰·巴丁的生平与学术.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "真正的天才：约翰·巴丁的生平与学术.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,8 @@
   },
   "active": "60aa65944e19cf82",
   "lastOpenFiles": [
-    "从一到无穷大.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
+    "从一到无穷大.md",
     "读书 MOC.md",
     "胸痹.md",
     "脏腑辩证.md",
