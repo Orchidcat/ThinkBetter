@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "胸痹.md",
+                "file": "从一到无穷大.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60aa65944e19cf82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真正的天才：约翰·巴丁的生平与学术.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胸痹.md"
+                "file": "真正的天才：约翰·巴丁的生平与学术.md"
               }
             }
           },
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胸痹.md",
+                "file": "真正的天才：约翰·巴丁的生平与学术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胸痹.md",
+                "file": "真正的天才：约翰·巴丁的生平与学术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,17 +229,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad1c2e0ef643d66b",
+  "active": "60aa65944e19cf82",
   "lastOpenFiles": [
+    "从一到无穷大.md",
+    "真正的天才：约翰·巴丁的生平与学术.md",
+    "读书 MOC.md",
+    "胸痹.md",
     "脏腑辩证.md",
     "张纯如 - 无法忘记历史的女子.md",
-    "读书 MOC.md",
     "生命是什么.md",
-    "从一到无穷大.md",
     "The Rape of Nanking - The Forgotten Holocaust of World War II.md",
     "一句话的玩味.md",
-    "+Home.md",
-    "中医诊断学.md",
-    "普林斯顿大学.md"
+    "+Home.md"
   ]
 }
