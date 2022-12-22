@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
+                "file": "胸痹.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "舌苔黄",
+                "query": "吞酸",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md"
+                "file": "胸痹.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
+                "file": "胸痹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
+                "file": "胸痹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,15 +219,15 @@
   },
   "active": "ad1c2e0ef643d66b",
   "lastOpenFiles": [
+    "脏腑辩证.md",
+    "张纯如 - 无法忘记历史的女子.md",
     "读书 MOC.md",
     "生命是什么.md",
     "从一到无穷大.md",
     "The Rape of Nanking - The Forgotten Holocaust of World War II.md",
-    "张纯如 - 无法忘记历史的女子.md",
     "一句话的玩味.md",
     "+Home.md",
     "中医诊断学.md",
-    "普林斯顿大学.md",
-    "活法.md"
+    "普林斯顿大学.md"
   ]
 }
