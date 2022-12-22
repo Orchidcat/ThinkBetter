@@ -28,6 +28,7 @@ path does not include Templates
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
 	- [[Tools]]
+	- [[写点儿啥]]
 
 
 
