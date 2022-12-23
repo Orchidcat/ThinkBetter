@@ -5,16 +5,48 @@
       "path": "张纯如 - 无法忘记历史的女子.md"
     },
     {
-      "basename": "丑陋的中国人",
-      "path": "丑陋的中国人.md"
+      "basename": "真正的天才：约翰·巴丁的生平与学术",
+      "path": "真正的天才：约翰·巴丁的生平与学术.md"
+    },
+    {
+      "basename": "日瓦戈医生",
+      "path": "日瓦戈医生.md"
     },
     {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
     },
     {
+      "basename": "不能承受的生命之轻",
+      "path": "不能承受的生命之轻.md"
+    },
+    {
+      "basename": "尤利西斯",
+      "path": "尤利西斯.md"
+    },
+    {
+      "basename": "杀死一只知更鸟",
+      "path": "杀死一只知更鸟.md"
+    },
+    {
+      "basename": "五号屠场",
+      "path": "五号屠场.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "American Steel",
+      "path": "American Steel.md"
+    },
+    {
+      "basename": "愤怒的葡萄",
+      "path": "愤怒的葡萄.md"
+    },
+    {
+      "basename": "丑陋的中国人",
+      "path": "丑陋的中国人.md"
     },
     {
       "basename": "+Home",
@@ -29,16 +61,8 @@
       "path": "写点儿啥.md"
     },
     {
-      "basename": "American Steel",
-      "path": "American Steel.md"
-    },
-    {
       "basename": "从一到无穷大",
       "path": "从一到无穷大.md"
-    },
-    {
-      "basename": "真正的天才：约翰·巴丁的生平与学术",
-      "path": "真正的天才：约翰·巴丁的生平与学术.md"
     },
     {
       "basename": "胸痹",
@@ -175,30 +199,6 @@
     {
       "basename": "胃气虚证",
       "path": "胃气虚证.md"
-    },
-    {
-      "basename": "纳呆",
-      "path": "纳呆.md"
-    },
-    {
-      "basename": "寒湿困脾证",
-      "path": "寒湿困脾证.md"
-    },
-    {
-      "basename": "脾不统血证",
-      "path": "脾不统血证.md"
-    },
-    {
-      "basename": "脾虚气陷证",
-      "path": "脾虚气陷证.md"
-    },
-    {
-      "basename": "脾气虚证",
-      "path": "脾气虚证.md"
-    },
-    {
-      "basename": "时间管理的本质",
-      "path": "时间管理的本质.md"
     }
   ],
   "omittedPaths": [],
