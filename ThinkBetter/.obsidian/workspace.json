@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "a8978b605221beac",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +185,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a8978b605221beac",
+  "active": "a3f9ca92407f1278",
   "lastOpenFiles": [
+    "new Canvas.canvas",
     "American Steel.md",
     "写点儿啥.md",
     "+Home.md",
@@ -210,7 +196,6 @@
     "真正的天才：约翰·巴丁的生平与学术.md",
     "胸痹.md",
     "脏腑辩证.md",
-    "张纯如 - 无法忘记历史的女子.md",
-    "生命是什么.md"
+    "张纯如 - 无法忘记历史的女子.md"
   ]
 }

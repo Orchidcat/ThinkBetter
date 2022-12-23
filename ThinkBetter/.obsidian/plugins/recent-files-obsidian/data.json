@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "new Canvas",
+      "path": "new Canvas.canvas"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "写点儿啥",
@@ -11,10 +19,6 @@
     {
       "basename": "American Steel",
       "path": "American Steel.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "从一到无穷大",
@@ -195,10 +199,6 @@
     {
       "basename": "人，永远有选择自己态度的自由",
       "path": "人，永远有选择自己态度的自由.md"
-    },
-    {
-      "basename": "除了你，谁能做出这个决定",
-      "path": "除了你，谁能做出这个决定.md"
     }
   ],
   "omittedPaths": [],
