@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "张纯如写给爸爸的退休仪式.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "张纯如写给爸爸的退休仪式.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张纯如写给爸爸的退休仪式.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,8 +266,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2fd3136087b37572",
+  "active": "0e23e2d8bd9f050d",
   "lastOpenFiles": [
+    "张纯如写给爸爸的退休仪式.md",
     "读书 MOC.md",
     "张纯如 - 无法忘记历史的女子.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
@@ -275,7 +277,6 @@
     "不能承受的生命之轻.md",
     "尤利西斯.md",
     "杀死一只知更鸟.md",
-    "五号屠场.md",
-    "American Steel.md"
+    "五号屠场.md"
   ]
 }
