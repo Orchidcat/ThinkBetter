@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md"
+                "file": "YEAR MOC⌛.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
+                "file": "YEAR MOC⌛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
+                "file": "YEAR MOC⌛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +205,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0e23e2d8bd9f050d",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
+    "张纯如 - 无法忘记历史的女子.md",
     "读书 MOC.md",
     "YEAR MOC⌛.md",
     "+Home.md",
@@ -215,7 +216,6 @@
     "写点儿啥.md",
     "从一到无穷大.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
-    "胸痹.md",
-    "脏腑辩证.md"
+    "胸痹.md"
   ]
 }
