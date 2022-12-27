@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "945fe26dfe6bec4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "张纯如 - 无法忘记历史的女子.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61e06ae5445fefb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "蚕丝-钱学森传.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "蚕丝-钱学森传.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "蚕丝-钱学森传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "蚕丝-钱学森传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,15 +195,15 @@
   },
   "active": "61e06ae5445fefb1",
   "lastOpenFiles": [
-    "蚕丝-钱学森传.md",
+    "事件timing.md",
     "张纯如 - 无法忘记历史的女子.md",
+    "+Home.md",
+    "蚕丝-钱学森传.md",
     "读书 MOC.md",
     "五号屠场.md",
     "一句话的玩味.md",
     "张纯如写给爸爸的退休仪式.md",
-    "+Home.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
-    "日瓦戈医生.md",
-    "YEAR MOC⌛.md"
+    "日瓦戈医生.md"
   ]
 }

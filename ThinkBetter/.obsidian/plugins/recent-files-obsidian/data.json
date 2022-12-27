@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "蚕丝-钱学森传",
       "path": "蚕丝-钱学森传.md"
     },
     {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
       "basename": "张纯如 - 无法忘记历史的女子",
       "path": "张纯如 - 无法忘记历史的女子.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "读书 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "脾阳虚证",
       "path": "脾阳虚证.md"
-    },
-    {
-      "basename": "湿热蕴脾证",
-      "path": "湿热蕴脾证.md"
     }
   ],
   "omittedPaths": [],
