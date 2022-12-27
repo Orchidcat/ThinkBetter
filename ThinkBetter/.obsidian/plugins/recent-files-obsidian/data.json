@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "外语",
+      "path": "外语.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "张纯如 - 无法忘记历史的女子",
       "path": "张纯如 - 无法忘记历史的女子.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "五号屠场",
@@ -195,10 +199,6 @@
     {
       "basename": "胃阳虚证",
       "path": "胃阳虚证.md"
-    },
-    {
-      "basename": "脾阳虚证",
-      "path": "脾阳虚证.md"
     }
   ],
   "omittedPaths": [],

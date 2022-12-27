@@ -29,6 +29,7 @@ path does not include Templates
 		- [[一句话的玩味]]
 	- [[Tools]]
 	- [[写点儿啥]]
+	- [[外语]]
 
 
 
