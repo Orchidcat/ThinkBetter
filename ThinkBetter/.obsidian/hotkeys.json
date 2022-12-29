@@ -53,7 +53,8 @@
   "zk-prefixer": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "K"
     }
