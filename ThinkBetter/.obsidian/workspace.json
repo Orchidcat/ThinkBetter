@@ -11,8 +11,12 @@
             "id": "e786aa17d54a247e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "美国华人史.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "美国华人史.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +196,15 @@
   },
   "active": "e786aa17d54a247e",
   "lastOpenFiles": [
+    "蚕丝-钱学森传.md",
+    "读书 MOC.md",
+    "美国华人史.md",
     "202212290921.md",
     "+Home.md",
-    "读书 MOC.md",
-    "蚕丝-钱学森传.md",
     "事件timing.md",
     "张纯如 - 无法忘记历史的女子.md",
     "五号屠场.md",
     "一句话的玩味.md",
-    "张纯如写给爸爸的退休仪式.md",
-    "真正的天才：约翰·巴丁的生平与学术.md"
+    "张纯如写给爸爸的退休仪式.md"
   ]
 }
