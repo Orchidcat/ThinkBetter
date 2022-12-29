@@ -49,5 +49,13 @@
       ],
       "key": "C"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }
