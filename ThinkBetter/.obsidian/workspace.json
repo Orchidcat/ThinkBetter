@@ -11,8 +11,12 @@
             "id": "86ba7a12c55a57b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "机械原理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "机械原理.md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "机械原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "机械原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
