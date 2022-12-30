@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7107295628889b57",
+        "id": "bc9b032305b602a5",
         "type": "tabs",
         "children": [
           {
-            "id": "12c2e6d05591c47f",
+            "id": "bbaa07bedb482f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一性原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41708a35c90899a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉诊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "882278a4f203be65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机械原理.md",
+                "file": "一句话的玩味.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械原理.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -153,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械原理.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械原理.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,15 +192,15 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "882278a4f203be65",
+  "active": "bbaa07bedb482f75",
   "lastOpenFiles": [
+    "+Home.md",
     "第一性原理.md",
+    "脉诊.md",
+    "机械原理.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
-    "+Home.md",
-    "机械原理.md",
     "读书 MOC.md",
-    "脉诊.md",
     "美国华人史.md",
     "你干嘛在乎别人怎么想.md",
     "理查德·费曼传.md"
