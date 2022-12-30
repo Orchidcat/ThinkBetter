@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "机械原理",
+      "path": "机械原理.md"
+    },
+    {
       "basename": "脉诊",
       "path": "脉诊.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "寒滞胃脘证",
       "path": "寒滞胃脘证.md"
-    },
-    {
-      "basename": "八纲辨证",
-      "path": "八纲辨证.md"
     }
   ],
   "omittedPaths": [],

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "882278a4f203be65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机械原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊.md"
+                "file": "机械原理.md"
               }
             }
           },
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊.md",
+                "file": "机械原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊.md",
+                "file": "机械原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +217,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "41708a35c90899a9",
+  "active": "882278a4f203be65",
   "lastOpenFiles": [
+    "脉诊.md",
     "+Home.md",
     "读书 MOC.md",
     "美国华人史.md",
@@ -215,7 +228,6 @@
     "阅读是一座随身携带的避难所.md",
     "蚕丝-钱学森传.md",
     "202212290921.md",
-    "事件timing.md",
-    "张纯如 - 无法忘记历史的女子.md"
+    "事件timing.md"
   ]
 }
