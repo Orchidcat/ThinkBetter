@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美国华人史.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "41708a35c90899a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "美国华人史.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +197,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "12c2e6d05591c47f",
+  "active": "41708a35c90899a9",
   "lastOpenFiles": [
+    "+Home.md",
     "读书 MOC.md",
     "美国华人史.md",
     "你干嘛在乎别人怎么想.md",
@@ -203,7 +207,6 @@
     "阅读是一座随身携带的避难所.md",
     "蚕丝-钱学森传.md",
     "202212290921.md",
-    "+Home.md",
     "事件timing.md",
     "张纯如 - 无法忘记历史的女子.md"
   ]
