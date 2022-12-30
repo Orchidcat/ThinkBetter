@@ -5,8 +5,16 @@
       "path": "机械原理.md"
     },
     {
-      "basename": "脉诊",
-      "path": "脉诊.md"
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
     },
     {
       "basename": "+Home",
@@ -15,6 +23,10 @@
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "脉诊",
+      "path": "脉诊.md"
     },
     {
       "basename": "美国华人史",
@@ -187,18 +199,6 @@
     {
       "basename": "肝血虚证",
       "path": "肝血虚证.md"
-    },
-    {
-      "basename": "食滞胃脘证",
-      "path": "食滞胃脘证.md"
-    },
-    {
-      "basename": "胃热炽盛证",
-      "path": "胃热炽盛证.md"
-    },
-    {
-      "basename": "寒滞胃脘证",
-      "path": "寒滞胃脘证.md"
     }
   ],
   "omittedPaths": [],
