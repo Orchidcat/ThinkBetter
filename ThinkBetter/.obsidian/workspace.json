@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9b032305b602a5",
+        "id": "120b422b53ec8215",
         "type": "tabs",
         "children": [
           {
-            "id": "bbaa07bedb482f75",
+            "id": "86ba7a12c55a57b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +184,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "bbaa07bedb482f75",
+  "active": "86ba7a12c55a57b7",
   "lastOpenFiles": [
+    "DailyNotes/2021-12-13.md",
+    "一句话的玩味.md",
     "+Home.md",
     "第一性原理.md",
     "脉诊.md",
@@ -201,8 +195,6 @@
     "100种心智模型.md",
     "心智模型 MOC.md",
     "读书 MOC.md",
-    "美国华人史.md",
-    "你干嘛在乎别人怎么想.md",
-    "理查德·费曼传.md"
+    "美国华人史.md"
   ]
 }
