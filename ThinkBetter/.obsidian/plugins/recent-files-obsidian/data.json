@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "脉诊",
+      "path": "脉诊.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "八纲辨证",
       "path": "八纲辨证.md"
-    },
-    {
-      "basename": "五问饮食",
-      "path": "五问饮食.md"
     }
   ],
   "omittedPaths": [],
