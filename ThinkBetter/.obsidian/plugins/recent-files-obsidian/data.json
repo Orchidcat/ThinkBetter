@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "营分证",
-      "path": "营分证.md"
+      "basename": "血分证",
+      "path": "血分证.md"
     },
     {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "营分证",
+      "path": "营分证.md"
     },
     {
       "basename": "气分证",
@@ -195,10 +199,6 @@
     {
       "basename": "热极生风",
       "path": "热极生风.md"
-    },
-    {
-      "basename": "肝阳化风",
-      "path": "肝阳化风.md"
     }
   ],
   "omittedPaths": [],
