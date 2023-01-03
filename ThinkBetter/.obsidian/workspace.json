@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "厥阴病证.md",
+                "file": "六经辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "厥阴病证.md"
+                "file": "六经辩证.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "厥阴病证.md",
+                "file": "六经辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "厥阴病证.md",
+                "file": "六经辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,6 +240,7 @@
   },
   "active": "cbf3599b6f6f8ee1",
   "lastOpenFiles": [
+    "厥阴病证.md",
     "六经辩证.md",
     "少阴病证.md",
     "太阴病证.md",
@@ -248,7 +249,6 @@
     "黄帝外经.md",
     "十二.md",
     "经络辨证.md",
-    "阳明病证.md",
-    "太阳蓄血证.md"
+    "阳明病证.md"
   ]
 }
