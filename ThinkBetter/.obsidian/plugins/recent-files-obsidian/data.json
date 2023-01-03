@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "三焦辨证",
+      "path": "三焦辨证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "卫分证",
       "path": "卫分证.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
     },
     {
       "basename": "六经辨证",
@@ -195,10 +199,6 @@
     {
       "basename": "阴虚动风",
       "path": "阴虚动风.md"
-    },
-    {
-      "basename": "热极生风",
-      "path": "热极生风.md"
     }
   ],
   "omittedPaths": [],
