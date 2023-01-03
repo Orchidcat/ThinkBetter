@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "阳明病证",
+      "path": "阳明病证.md"
+    },
+    {
+      "basename": "六经辩证",
+      "path": "六经辩证.md"
+    },
+    {
       "basename": "太阳病证",
       "path": "太阳病证.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "太阳中风证",
       "path": "太阳中风证.md"
-    },
-    {
-      "basename": "六经辩证",
-      "path": "六经辩证.md"
     },
     {
       "basename": "病位辩证",
@@ -195,10 +199,6 @@
     {
       "basename": "从一到无穷大",
       "path": "从一到无穷大.md"
-    },
-    {
-      "basename": "胸痹",
-      "path": "胸痹.md"
     }
   ],
   "omittedPaths": [],
