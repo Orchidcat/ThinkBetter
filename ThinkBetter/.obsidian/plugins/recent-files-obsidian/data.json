@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "少阳病证",
-      "path": "少阳病证.md"
+      "basename": "太阴病证",
+      "path": "太阴病证.md"
     },
     {
       "basename": "六经辩证",
       "path": "六经辩证.md"
+    },
+    {
+      "basename": "少阳病证",
+      "path": "少阳病证.md"
     },
     {
       "basename": "太阳病证",
@@ -195,10 +199,6 @@
     {
       "basename": "丑陋的中国人",
       "path": "丑陋的中国人.md"
-    },
-    {
-      "basename": "new Canvas",
-      "path": "new Canvas.canvas"
     }
   ],
   "omittedPaths": [],
