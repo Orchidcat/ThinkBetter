@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "120b422b53ec8215",
+        "id": "4a5b49981d93a3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "86ba7a12c55a57b7",
+            "id": "cbf3599b6f6f8ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械原理.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机械原理.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机械原理.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械原理.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "86ba7a12c55a57b7",
+  "active": "cbf3599b6f6f8ee1",
   "lastOpenFiles": [
     "DailyNotes/2021-12-13.md",
     "一句话的玩味.md",
