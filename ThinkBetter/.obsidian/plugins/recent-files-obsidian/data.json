@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "问耳目",
+      "path": "问耳目.md"
+    },
+    {
       "basename": "下焦病证",
       "path": "下焦病证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "WorkFlowMOC",
       "path": "WorkFlowMOC.md"
-    },
-    {
-      "basename": "经络辨证",
-      "path": "经络辨证.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "下焦病证.md",
+                "file": "问耳目.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "耳聋",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,11 +97,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 527.0110359191895,
     "collapsed": true
   },
   "right": {
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "下焦病证.md"
+                "file": "问耳目.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "下焦病证.md",
+                "file": "问耳目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "下焦病证.md",
+                "file": "问耳目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +196,7 @@
   },
   "active": "cbf3599b6f6f8ee1",
   "lastOpenFiles": [
+    "下焦病证.md",
     "三焦辨证.md",
     "中焦病证.md",
     "上焦病证.md",
@@ -203,7 +205,6 @@
     "血分证.md",
     "营分证.md",
     "气分证.md",
-    "卫分证.md",
-    "六经辨证.md"
+    "卫分证.md"
   ]
 }
