@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病位辩证.md",
+                "file": "六经辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病位辩证.md"
+                "file": "六经辩证.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病位辩证.md",
+                "file": "六经辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病位辩证.md",
+                "file": "六经辩证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +208,8 @@
   },
   "active": "cbf3599b6f6f8ee1",
   "lastOpenFiles": [
-    "经络辨证.md",
     "病位辩证.md",
+    "经络辨证.md",
     "三焦辨证.md",
     "下焦病证.md",
     "问耳目.md",
