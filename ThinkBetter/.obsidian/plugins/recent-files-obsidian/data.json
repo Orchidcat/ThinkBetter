@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "中焦病证",
-      "path": "中焦病证.md"
+      "basename": "下焦病证",
+      "path": "下焦病证.md"
     },
     {
       "basename": "三焦辨证",
       "path": "三焦辨证.md"
+    },
+    {
+      "basename": "中焦病证",
+      "path": "中焦病证.md"
     },
     {
       "basename": "上焦病证",
@@ -195,10 +199,6 @@
     {
       "basename": "经络辨证",
       "path": "经络辨证.md"
-    },
-    {
-      "basename": "肝风内动证",
-      "path": "肝风内动证.md"
     }
   ],
   "omittedPaths": [],
