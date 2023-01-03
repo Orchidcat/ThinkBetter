@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中焦病证.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "上焦病证.md"
+                "file": "中焦病证.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中焦病证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中焦病证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,7 @@
   "active": "cbf3599b6f6f8ee1",
   "lastOpenFiles": [
     "三焦辨证.md",
+    "上焦病证.md",
     "病位辩证.md",
     "卫气营血辨证.md",
     "血分证.md",
@@ -203,7 +204,6 @@
     "气分证.md",
     "卫分证.md",
     "六经辨证.md",
-    "六经辩证.md",
-    "脏腑辩证.md"
+    "六经辩证.md"
   ]
 }
