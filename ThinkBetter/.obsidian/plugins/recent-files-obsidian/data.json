@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "卫分证",
+      "path": "卫分证.md"
+    },
+    {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
     },
     {
       "basename": "病位辩证",
       "path": "病位辩证.md"
+    },
+    {
+      "basename": "六经辨证",
+      "path": "六经辨证.md"
     },
     {
       "basename": "六经辩证",
@@ -191,14 +199,6 @@
     {
       "basename": "肝火炽盛证",
       "path": "肝火炽盛证.md"
-    },
-    {
-      "basename": "肝郁气滞证",
-      "path": "肝郁气滞证.md"
-    },
-    {
-      "basename": "肝阴虚证",
-      "path": "肝阴虚证.md"
     }
   ],
   "omittedPaths": [],
