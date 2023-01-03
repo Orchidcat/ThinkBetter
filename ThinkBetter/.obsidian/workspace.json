@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "耳聋",
+                "query": "酒制",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.0110359191895,
-    "collapsed": true
+    "width": 527.0110359191895
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -207,7 +206,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e2225e1a6e601e90",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "病位辩证.md",
     "经络辨证.md",
