@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "上焦病证",
+      "path": "上焦病证.md"
+    },
+    {
       "basename": "三焦辨证",
       "path": "三焦辨证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "血虚生风",
       "path": "血虚生风.md"
-    },
-    {
-      "basename": "阴虚动风",
-      "path": "阴虚动风.md"
     }
   ],
   "omittedPaths": [],
