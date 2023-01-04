@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "中药学",
+      "path": "中药学.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -109,10 +121,6 @@
       "path": "脏腑辩证.md"
     },
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "尤利西斯",
       "path": "尤利西斯.md"
-    },
-    {
-      "basename": "杀死一只知更鸟",
-      "path": "杀死一只知更鸟.md"
-    },
-    {
-      "basename": "American Steel",
-      "path": "American Steel.md"
     }
   ],
   "omittedPaths": [],
