@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "四气",
-      "path": "四气.md"
+      "basename": "五味",
+      "path": "五味.md"
     },
     {
       "basename": "中药学",
       "path": "中药学.md"
+    },
+    {
+      "basename": "四气",
+      "path": "四气.md"
     },
     {
       "basename": "中医诊断学",
@@ -195,10 +199,6 @@
     {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "不能承受的生命之轻",
-      "path": "不能承受的生命之轻.md"
     }
   ],
   "omittedPaths": [],
