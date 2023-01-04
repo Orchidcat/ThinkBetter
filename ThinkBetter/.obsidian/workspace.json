@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "五味.md",
+                "file": "升降沉浮.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "五味.md"
+                "file": "升降沉浮.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "五味.md",
+                "file": "升降沉浮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "五味.md",
+                "file": "升降沉浮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +197,8 @@
   "active": "6f0af5499337a854",
   "lastOpenFiles": [
     "中药学.md",
-    "四气.md",
     "五味.md",
+    "四气.md",
     "中医诊断学.md",
     "读书 MOC.md",
     "愤怒的葡萄.md",
