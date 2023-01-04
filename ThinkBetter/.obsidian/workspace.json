@@ -8,56 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbf3599b6f6f8ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六经辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed9e2fac99637cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "太阳蓄水证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f71298ba635bf23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "太阳伤寒证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2225e1a6e601e90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7f2a8a123fc172c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "黄帝外经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "六经辩证.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -174,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "六经辩证.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "六经辩证.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +194,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "cbf3599b6f6f8ee1",
+  "active": "e2225e1a6e601e90",
   "lastOpenFiles": [
     "厥阴病证.md",
     "六经辩证.md",
