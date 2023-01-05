@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药学.md"
+                "file": "神农本草经.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中药学.md",
+                "file": "神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药学.md",
+                "file": "神农本草经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,10 +206,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "027e652e4e7b2593",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
-    "神农本草经.md",
     "中药学.md",
+    "神农本草经.md",
     "汤剂煎煮法.md",
     "煎汤代水.md",
     "冲服.md",
