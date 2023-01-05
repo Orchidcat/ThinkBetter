@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药学.md",
+                "file": "相恶.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相杀.md"
+                "file": "相恶.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相杀.md",
+                "file": "相恶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相杀.md",
+                "file": "相恶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,9 +206,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "c161c9344c0d5f3f",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
     "中药学.md",
+    "相杀.md",
     "相畏.md",
     "相使.md",
     "相须.md",
@@ -217,7 +217,6 @@
     "中毒的临床表现.md",
     "一句话的玩味.md",
     "+Home.md",
-    "读书 MOC.md",
-    "引经药.md"
+    "读书 MOC.md"
   ]
 }

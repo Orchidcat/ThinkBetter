@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "相杀",
-      "path": "相杀.md"
+      "basename": "相恶",
+      "path": "相恶.md"
     },
     {
       "basename": "中药学",
       "path": "中药学.md"
+    },
+    {
+      "basename": "相杀",
+      "path": "相杀.md"
     },
     {
       "basename": "相畏",
@@ -195,10 +199,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "美国华人史",
-      "path": "美国华人史.md"
     }
   ],
   "omittedPaths": [],
