@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "027e652e4e7b2593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药学.md",
+                "file": "生命是什么.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药学.md"
+                "file": "生命是什么.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中药学.md",
+                "file": "生命是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药学.md",
+                "file": "生命是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,12 +194,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "027e652e4e7b2593",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
     "读书 MOC.md",
-    "美国华人史.md",
-    "中药学.md",
     "生命是什么.md",
+    "中药学.md",
+    "美国华人史.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
     "心智模型 MOC.md",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "中药学",
-      "path": "中药学.md"
+      "basename": "生命是什么",
+      "path": "生命是什么.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
+    },
+    {
+      "basename": "中药学",
+      "path": "中药学.md"
     },
     {
       "basename": "美国华人史",
@@ -195,10 +199,6 @@
     {
       "basename": "中焦病证",
       "path": "中焦病证.md"
-    },
-    {
-      "basename": "上焦病证",
-      "path": "上焦病证.md"
     }
   ],
   "omittedPaths": [],
