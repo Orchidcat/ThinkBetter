@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神农本草经.md",
-                "mode": "source",
+                "file": "项目 MOC.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "怀山药",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神农本草经.md"
+                "file": "项目 MOC.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神农本草经.md",
+                "file": "项目 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神农本草经.md",
+                "file": "项目 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,15 +208,15 @@
   },
   "active": "db1b51feab943ffc",
   "lastOpenFiles": [
-    "中药学.md",
+    "+Home.md",
+    "项目 MOC.md",
     "神农本草经.md",
+    "中药学.md",
     "汤剂煎煮法.md",
     "煎汤代水.md",
     "冲服.md",
     "泡服.md",
     "烊化.md",
-    "另煎.md",
-    "包煎.md",
-    "后下.md"
+    "另煎.md"
   ]
 }
