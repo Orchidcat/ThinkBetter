@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "相恶",
-      "path": "相恶.md"
+      "basename": "相反",
+      "path": "相反.md"
     },
     {
       "basename": "中药学",
       "path": "中药学.md"
+    },
+    {
+      "basename": "相恶",
+      "path": "相恶.md"
     },
     {
       "basename": "相杀",
@@ -195,10 +199,6 @@
     {
       "basename": "脉诊",
       "path": "脉诊.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
     }
   ],
   "omittedPaths": [],
