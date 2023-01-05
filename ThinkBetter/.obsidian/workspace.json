@@ -23,12 +23,15 @@
             "id": "ab60a05c69b349be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100种心智模型.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "生命是什么.md"
+              }
             }
           },
           {
@@ -137,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "生命是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "生命是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,17 +206,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ab60a05c69b349be",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
+    "倒置.md",
     "生命是什么.md",
+    "100种心智模型.md",
+    "心智模型 MOC.md",
+    "+Home.md",
     "读书 MOC.md",
     "日瓦戈医生.md",
     "杀死一只知更鸟.md",
     "中药学.md",
-    "美国华人史.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "+Home.md",
-    "心智模型 MOC.md",
-    "第一性原理.md"
+    "美国华人史.md"
   ]
 }

@@ -5,6 +5,22 @@
       "path": "生命是什么.md"
     },
     {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "倒置",
+      "path": "倒置.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "美国华人史",
       "path": "美国华人史.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "项目 MOC",
@@ -187,18 +199,6 @@
     {
       "basename": "三焦辨证",
       "path": "三焦辨证.md"
-    },
-    {
-      "basename": "下焦病证",
-      "path": "下焦病证.md"
-    },
-    {
-      "basename": "问耳目",
-      "path": "问耳目.md"
-    },
-    {
-      "basename": "中焦病证",
-      "path": "中焦病证.md"
     }
   ],
   "omittedPaths": [],
