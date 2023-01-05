@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生命是什么.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生命是什么.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生命是什么.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生命是什么.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "db1b51feab943ffc",
   "lastOpenFiles": [
-    "读书 MOC.md",
+    "日瓦戈医生.md",
+    "杀死一只知更鸟.md",
     "生命是什么.md",
+    "读书 MOC.md",
     "中药学.md",
     "美国华人史.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
     "心智模型 MOC.md",
-    "第一性原理.md",
-    "项目 MOC.md",
-    "神农本草经.md"
+    "第一性原理.md"
   ]
 }
