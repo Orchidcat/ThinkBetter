@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相使.md",
+                "file": "相畏.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相使.md"
+                "file": "相畏.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相使.md",
+                "file": "相畏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相使.md",
+                "file": "相畏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   "active": "db1b51feab943ffc",
   "lastOpenFiles": [
     "中药学.md",
+    "相使.md",
     "相须.md",
     "单行.md",
     "中毒的临床表现.md",
@@ -204,7 +205,6 @@
     "+Home.md",
     "读书 MOC.md",
     "引经药.md",
-    "归经.md",
-    "药引子.md"
+    "归经.md"
   ]
 }
