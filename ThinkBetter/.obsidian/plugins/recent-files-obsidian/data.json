@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "中药学",
       "path": "中药学.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "引经药",
@@ -35,10 +39,6 @@
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "六经辩证",
