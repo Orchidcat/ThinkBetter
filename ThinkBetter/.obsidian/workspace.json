@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单行.md",
+                "file": "相须.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单行.md"
+                "file": "相须.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "单行.md",
+                "file": "相须.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "单行.md",
+                "file": "相须.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   "active": "db1b51feab943ffc",
   "lastOpenFiles": [
     "中药学.md",
+    "单行.md",
     "中毒的临床表现.md",
     "一句话的玩味.md",
     "+Home.md",
@@ -204,7 +205,6 @@
     "引经药.md",
     "归经.md",
     "药引子.md",
-    "升降沉浮.md",
-    "五味.md"
+    "升降沉浮.md"
   ]
 }
