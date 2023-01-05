@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "包煎",
-      "path": "包煎.md"
+      "basename": "另煎",
+      "path": "另煎.md"
     },
     {
       "basename": "汤剂煎煮法",
       "path": "汤剂煎煮法.md"
+    },
+    {
+      "basename": "包煎",
+      "path": "包煎.md"
     },
     {
       "basename": "后下",
@@ -195,10 +199,6 @@
     {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     }
   ],
   "omittedPaths": [],
