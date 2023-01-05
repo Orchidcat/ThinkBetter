@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相反.md",
+                "file": "中药学.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相反.md"
+                "file": "中药学.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相反.md",
+                "file": "中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相反.md",
+                "file": "中药学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +208,7 @@
   },
   "active": "db1b51feab943ffc",
   "lastOpenFiles": [
+    "相反.md",
     "中药学.md",
     "相恶.md",
     "相杀.md",
@@ -216,7 +217,6 @@
     "相须.md",
     "单行.md",
     "中毒的临床表现.md",
-    "一句话的玩味.md",
-    "+Home.md"
+    "一句话的玩味.md"
   ]
 }
