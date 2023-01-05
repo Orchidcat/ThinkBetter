@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "汤剂煎煮法",
+      "path": "汤剂煎煮法.md"
+    },
+    {
       "basename": "中药学",
       "path": "中药学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "脉诊",
-      "path": "脉诊.md"
     }
   ],
   "omittedPaths": [],
