@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "冲服",
-      "path": "冲服.md"
+      "basename": "中药学",
+      "path": "中药学.md"
     },
     {
       "basename": "汤剂煎煮法",
       "path": "汤剂煎煮法.md"
+    },
+    {
+      "basename": "煎汤代水",
+      "path": "煎汤代水.md"
+    },
+    {
+      "basename": "冲服",
+      "path": "冲服.md"
     },
     {
       "basename": "泡服",
@@ -31,10 +39,6 @@
     {
       "basename": "先煎",
       "path": "先煎.md"
-    },
-    {
-      "basename": "中药学",
-      "path": "中药学.md"
     },
     {
       "basename": "相反",
@@ -195,10 +199,6 @@
     {
       "basename": "营分证",
       "path": "营分证.md"
-    },
-    {
-      "basename": "气分证",
-      "path": "气分证.md"
     }
   ],
   "omittedPaths": [],

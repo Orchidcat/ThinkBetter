@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "冲服.md",
+                "file": "汤剂煎煮法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "冲服.md"
+                "file": "中药学.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "冲服.md",
+                "file": "中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "冲服.md",
+                "file": "中药学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,17 +206,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "036efe4c45672306",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
     "汤剂煎煮法.md",
+    "煎汤代水.md",
+    "冲服.md",
     "泡服.md",
     "烊化.md",
     "另煎.md",
     "包煎.md",
     "后下.md",
     "先煎.md",
-    "中药学.md",
-    "相反.md",
-    "相恶.md"
+    "中药学.md"
   ]
 }
