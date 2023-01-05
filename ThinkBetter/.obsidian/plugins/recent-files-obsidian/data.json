@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "后下",
+      "path": "后下.md"
+    },
+    {
       "basename": "汤剂煎煮法",
       "path": "汤剂煎煮法.md"
+    },
+    {
+      "basename": "先煎",
+      "path": "先煎.md"
     },
     {
       "basename": "中药学",
@@ -191,14 +199,6 @@
     {
       "basename": "机械原理",
       "path": "机械原理.md"
-    },
-    {
-      "basename": "2021-12-13",
-      "path": "DailyNotes/2021-12-13.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
     }
   ],
   "omittedPaths": [],
