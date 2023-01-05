@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美国华人史.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美国华人史.md"
+                "file": "中药学.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美国华人史.md",
+                "file": "中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美国华人史.md",
+                "file": "中药学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +207,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "db1b51feab943ffc",
+  "active": "027e652e4e7b2593",
   "lastOpenFiles": [
     "读书 MOC.md",
+    "美国华人史.md",
+    "中药学.md",
     "生命是什么.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
     "心智模型 MOC.md",
     "第一性原理.md",
     "项目 MOC.md",
-    "神农本草经.md",
-    "中药学.md",
-    "汤剂煎煮法.md"
+    "神农本草经.md"
   ]
 }
