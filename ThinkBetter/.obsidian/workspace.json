@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "生命是什么.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "生命是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "生命是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +219,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "db1b51feab943ffc",
+  "active": "ab91f639cd3615d2",
   "lastOpenFiles": [
-    "生命是什么.md",
     "一句话的玩味.md",
+    "生命是什么.md",
     "100种心智模型.md",
     "+Home.md",
     "倒置.md",
