@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab91f639cd3615d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生命是什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,13 +218,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ab60a05c69b349be",
+  "active": "db1b51feab943ffc",
   "lastOpenFiles": [
-    "一句话的玩味.md",
-    "+Home.md",
     "生命是什么.md",
-    "倒置.md",
+    "一句话的玩味.md",
     "100种心智模型.md",
+    "+Home.md",
+    "倒置.md",
     "心智模型 MOC.md",
     "读书 MOC.md",
     "日瓦戈医生.md",
