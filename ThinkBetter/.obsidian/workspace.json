@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生命是什么.md",
+                "file": "一句话的玩味.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生命是什么.md"
+                "file": "100种心智模型.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生命是什么.md",
+                "file": "100种心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生命是什么.md",
+                "file": "100种心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +207,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "db1b51feab943ffc",
+  "active": "ab60a05c69b349be",
   "lastOpenFiles": [
-    "倒置.md",
+    "一句话的玩味.md",
+    "+Home.md",
     "生命是什么.md",
+    "倒置.md",
     "100种心智模型.md",
     "心智模型 MOC.md",
-    "+Home.md",
     "读书 MOC.md",
     "日瓦戈医生.md",
     "杀死一只知更鸟.md",
-    "中药学.md",
-    "美国华人史.md"
+    "中药学.md"
   ]
 }
