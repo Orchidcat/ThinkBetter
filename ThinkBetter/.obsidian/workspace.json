@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后设学习.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后设学习.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后设学习.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后设学习.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +220,8 @@
   },
   "active": "16056ecada360f5f",
   "lastOpenFiles": [
-    "超速学习.md",
     "后设学习.md",
+    "超速学习.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "一句话的玩味.md",
