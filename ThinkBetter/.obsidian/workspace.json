@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习高手.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习高手.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习高手.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习高手.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +206,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
+    "学习高手.md",
     "超速学习.md",
     "读书 MOC.md",
     "学习方法.md",
@@ -215,7 +217,6 @@
     "美国华人史.md",
     "+Home.md",
     "100种心智模型.md",
-    "生命是什么.md",
-    "倒置.md"
+    "生命是什么.md"
   ]
 }
