@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "99ce5bb3ed27b82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习迁移.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f2a2c2fe3ab5b466",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "学习迁移.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "学习迁移.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "学习迁移.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +231,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "16056ecada360f5f",
+  "active": "99ce5bb3ed27b82c",
   "lastOpenFiles": [
-    "学习迁移.md",
     "超速学习.md",
+    "学习迁移.md",
     "学习方法.md",
     "分心.md",
     "拖延.md",
