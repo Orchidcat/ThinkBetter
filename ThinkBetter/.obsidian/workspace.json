@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5b19278a5bc9eee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后设学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c26733da2150c8b",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "后设学习.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "后设学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "后设学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +231,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "16056ecada360f5f",
+  "active": "5b19278a5bc9eee5",
   "lastOpenFiles": [
-    "一句话的玩味.md",
     "超速学习.md",
+    "一句话的玩味.md",
     "学习方法.md",
     "+Home.md",
     "读书 MOC.md",
