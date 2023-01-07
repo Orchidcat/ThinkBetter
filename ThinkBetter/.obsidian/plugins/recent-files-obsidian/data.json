@@ -5,6 +5,10 @@
       "path": "超速学习.md"
     },
     {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
       "basename": "学习迁移",
       "path": "学习迁移.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "太阳病证",
       "path": "太阳病证.md"
-    },
-    {
-      "basename": "黄帝外经",
-      "path": "黄帝外经.md"
     }
   ],
   "omittedPaths": [],
