@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习迁移.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习迁移.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习迁移.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,8 +218,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f2a2c2fe3ab5b466",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
+    "学习迁移.md",
     "超速学习.md",
     "学习方法.md",
     "分心.md",
@@ -229,7 +229,6 @@
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "一句话的玩味.md",
-    "+Home.md",
-    "学习高手.md"
+    "+Home.md"
   ]
 }
