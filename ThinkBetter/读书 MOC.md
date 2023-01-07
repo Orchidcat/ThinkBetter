@@ -1,7 +1,7 @@
 ### 读书
 
 ```dataview
-list startDate+author + rating  from #UnReadBook 
+list startDate+author + rating  from #学习方法
 ```
 
 **想要阅读的list**
