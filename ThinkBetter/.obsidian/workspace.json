@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后设学习.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后设学习.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后设学习.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +230,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "5b19278a5bc9eee5",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
+    "后设学习.md",
     "超速学习.md",
     "一句话的玩味.md",
     "学习方法.md",
@@ -241,7 +241,6 @@
     "真正的天才：约翰·巴丁的生平与学术.md",
     "学习高手.md",
     "make it stick.md",
-    "美国华人史.md",
-    "100种心智模型.md"
+    "美国华人史.md"
   ]
 }
