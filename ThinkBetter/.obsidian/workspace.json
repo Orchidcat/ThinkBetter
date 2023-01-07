@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "语文",
+                "query": "下腹",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "16056ecada360f5f",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "超速学习.md",
     "读书 MOC.md",
