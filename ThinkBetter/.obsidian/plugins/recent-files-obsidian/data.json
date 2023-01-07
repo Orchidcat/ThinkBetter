@@ -5,6 +5,10 @@
       "path": "后设学习.md"
     },
     {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "超速学习",
       "path": "超速学习.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "+Home",
       "path": "+Home.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "学习高手",
