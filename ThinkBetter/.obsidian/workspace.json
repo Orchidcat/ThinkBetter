@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习方法.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习方法.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习方法.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习方法.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +208,8 @@
   },
   "active": "16056ecada360f5f",
   "lastOpenFiles": [
-    "make it stick.md",
     "学习方法.md",
+    "make it stick.md",
     "一句话的玩味.md",
     "美国华人史.md",
     "读书 MOC.md",

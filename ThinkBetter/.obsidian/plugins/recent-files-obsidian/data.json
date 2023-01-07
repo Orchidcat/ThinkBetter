@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "超速学习",
+      "path": "超速学习.md"
+    },
+    {
       "basename": "学习方法",
       "path": "学习方法.md"
     },
     {
-      "basename": "美国华人史",
-      "path": "美国华人史.md"
-    },
-    {
       "basename": "make it stick",
       "path": "make it stick.md"
+    },
+    {
+      "basename": "美国华人史",
+      "path": "美国华人史.md"
     },
     {
       "basename": "读书 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "太阳伤寒证",
       "path": "太阳伤寒证.md"
-    },
-    {
-      "basename": "太阳中风证",
-      "path": "太阳中风证.md"
     }
   ],
   "omittedPaths": [],
