@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超速学习.md",
+                "file": "学习高手.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "语文",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.0110359191895,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "学习高手.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "学习高手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "学习高手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +205,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "超速学习.md",
+    "读书 MOC.md",
     "学习方法.md",
     "make it stick.md",
     "一句话的玩味.md",
