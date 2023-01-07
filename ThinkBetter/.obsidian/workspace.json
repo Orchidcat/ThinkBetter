@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一性原理.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习高手.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习高手.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习高手.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,17 +243,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "16056ecada360f5f",
+  "active": "b19d1d0d35b3329c",
   "lastOpenFiles": [
-    "超速学习.md",
     "第一性原理.md",
     "学习迁移.md",
+    "学习高手.md",
+    "超速学习.md",
     "学习方法.md",
     "分心.md",
     "拖延.md",
     "后设学习.md",
     "读书 MOC.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "一句话的玩味.md"
+    "真正的天才：约翰·巴丁的生平与学术.md"
   ]
 }
