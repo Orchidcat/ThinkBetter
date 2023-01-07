@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d5c2027aa31c693",
+        "id": "c86ac9b3dd7f78f9",
         "type": "tabs",
         "children": [
           {
-            "id": "db1b51feab943ffc",
+            "id": "5e69e12bacf896f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab60a05c69b349be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100种心智模型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab91f639cd3615d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生命是什么.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -154,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +194,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "db1b51feab943ffc",
+  "active": "5e69e12bacf896f4",
   "lastOpenFiles": [
     "100种心智模型.md",
     "生命是什么.md",
