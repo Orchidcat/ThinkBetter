@@ -1,5 +1,9 @@
 ### 读书
 
+```dataview
+list startDate+author + rating  from #UnReadBook 
+```
+
 **想要阅读的list**
 ```dataview
 list startDate+author + rating  from #UnReadBook 

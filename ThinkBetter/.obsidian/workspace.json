@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16056ecada360f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "make it stick.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "make it stick.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "make it stick.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +219,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "4eed546ef64ddaa3",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
+    "make it stick.md",
     "美国华人史.md",
     "读书 MOC.md",
     "+Home.md",
@@ -217,7 +230,6 @@
     "一句话的玩味.md",
     "倒置.md",
     "心智模型 MOC.md",
-    "日瓦戈医生.md",
-    "杀死一只知更鸟.md"
+    "日瓦戈医生.md"
   ]
 }
