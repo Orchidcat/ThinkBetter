@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "170990aa9a37a573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分心.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8e9681f8864fae91",
             "type": "leaf",
             "state": {
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拖延.md"
+                "file": "分心.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拖延.md",
+                "file": "分心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拖延.md",
+                "file": "分心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,9 +219,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "8e9681f8864fae91",
+  "active": "170990aa9a37a573",
   "lastOpenFiles": [
     "超速学习.md",
+    "拖延.md",
     "后设学习.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
@@ -217,7 +230,6 @@
     "学习方法.md",
     "+Home.md",
     "学习高手.md",
-    "make it stick.md",
-    "美国华人史.md"
+    "make it stick.md"
   ]
 }

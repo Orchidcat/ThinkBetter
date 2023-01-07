@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "拖延",
-      "path": "拖延.md"
+      "basename": "分心",
+      "path": "分心.md"
     },
     {
       "basename": "超速学习",
       "path": "超速学习.md"
+    },
+    {
+      "basename": "拖延",
+      "path": "拖延.md"
     },
     {
       "basename": "后设学习",
@@ -195,10 +199,6 @@
     {
       "basename": "经络辨证",
       "path": "经络辨证.md"
-    },
-    {
-      "basename": "阳明病证",
-      "path": "阳明病证.md"
     }
   ],
   "omittedPaths": [],
