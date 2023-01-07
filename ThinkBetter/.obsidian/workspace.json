@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一性原理.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一性原理.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,10 +242,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ba3e8395878b75ac",
+  "active": "16056ecada360f5f",
   "lastOpenFiles": [
-    "超速学习.md",
     "第一性原理.md",
+    "超速学习.md",
     "学习迁移.md",
     "学习方法.md",
     "分心.md",
