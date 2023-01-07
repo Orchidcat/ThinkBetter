@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习迁移",
+      "path": "学习迁移.md"
+    },
+    {
       "basename": "超速学习",
       "path": "超速学习.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "黄帝外经",
       "path": "黄帝外经.md"
-    },
-    {
-      "basename": "经络辨证",
-      "path": "经络辨证.md"
     }
   ],
   "omittedPaths": [],
