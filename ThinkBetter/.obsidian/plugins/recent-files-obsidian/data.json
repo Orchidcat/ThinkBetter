@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "学习方法",
+      "path": "学习方法.md"
     },
     {
       "basename": "读书 MOC",
@@ -15,6 +15,10 @@
     {
       "basename": "美国华人史",
       "path": "美国华人史.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "太阳中风证",
       "path": "太阳中风证.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
     }
   ],
   "omittedPaths": [],
