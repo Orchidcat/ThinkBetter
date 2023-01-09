@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "生命是什么.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "生命是什么.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "生命是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "生命是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,10 +208,10 @@
   },
   "active": "7ea131a415dd478d",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "你干嘛在乎别人怎么想.md",
     "YEAR MOC⌛.md",
     "超速学习.md",
-    "读书 MOC.md",
     "生命是什么.md",
     "make it stick.md",
     "如何成功实验.md",
