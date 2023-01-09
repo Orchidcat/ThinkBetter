@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超速学习.md",
+                "file": "你干嘛在乎别人怎么想.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "语文",
+                "query": "费曼",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "你干嘛在乎别人怎么想.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "你干嘛在乎别人怎么想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "你干嘛在乎别人怎么想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,15 +207,15 @@
   },
   "active": "e57b580b7882834b",
   "lastOpenFiles": [
-    "防止忘记.md",
+    "理查德·费曼传.md",
+    "费曼学习法.md",
     "超速学习.md",
+    "防止忘记.md",
     "一句话的玩味.md",
     "我们是如何衡量学会没有的.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
-    "第一性原理.md",
-    "学习迁移.md",
-    "学习高手.md"
+    "第一性原理.md"
   ]
 }
