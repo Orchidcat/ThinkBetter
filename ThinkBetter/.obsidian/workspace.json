@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c86ac9b3dd7f78f9",
+        "id": "4a089ba33ff8a5e5",
         "type": "tabs",
         "children": [
           {
-            "id": "16056ecada360f5f",
+            "id": "e57b580b7882834b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习高手.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19d1d0d35b3329c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "超速学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ce5bb3ed27b82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习迁移.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2a2c2fe3ab5b466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习迁移.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e9681f8864fae91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拖延.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -179,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +194,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b19d1d0d35b3329c",
+  "active": "e57b580b7882834b",
   "lastOpenFiles": [
     "第一性原理.md",
     "学习迁移.md",
