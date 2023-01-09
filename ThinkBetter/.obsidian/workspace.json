@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5ec95d4edf4c29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何成功实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "如何成功实验.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "如何成功实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "如何成功实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,13 +219,13 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "9b5061b65447133e",
+  "active": "e5ec95d4edf4c29b",
   "lastOpenFiles": [
+    "超速学习.md",
     "防止忘记.md",
     "你干嘛在乎别人怎么想.md",
     "理查德·费曼传.md",
     "费曼学习法.md",
-    "超速学习.md",
     "一句话的玩味.md",
     "我们是如何衡量学会没有的.md",
     "读书 MOC.md",
