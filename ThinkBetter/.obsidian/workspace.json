@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,11 +243,11 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "c2610bb5c6f4233f",
+  "active": "7ea131a415dd478d",
   "lastOpenFiles": [
+    "生命是什么.md",
     "读书 MOC.md",
     "超速学习.md",
-    "生命是什么.md",
     "make it stick.md",
     "YEAR MOC⌛.md",
     "如何成功实验.md",
