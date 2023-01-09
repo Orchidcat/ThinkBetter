@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +221,15 @@
   },
   "active": "9b5061b65447133e",
   "lastOpenFiles": [
-    "如何成功实验.md",
-    "超速学习.md",
-    "防止忘记.md",
+    "目标 MOC.md",
     "你干嘛在乎别人怎么想.md",
+    "+Home.md",
+    "YEAR MOC⌛.md",
+    "超速学习.md",
+    "如何成功实验.md",
+    "防止忘记.md",
     "理查德·费曼传.md",
     "费曼学习法.md",
-    "一句话的玩味.md",
-    "我们是如何衡量学会没有的.md",
-    "读书 MOC.md",
-    "真正的天才：约翰·巴丁的生平与学术.md"
+    "一句话的玩味.md"
   ]
 }
