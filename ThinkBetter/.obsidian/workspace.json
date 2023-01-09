@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "YEAR MOC⌛.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "如何成功实验.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "如何成功实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "如何成功实验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,12 +219,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "9b5061b65447133e",
+  "active": "e5ec95d4edf4c29b",
   "lastOpenFiles": [
+    "YEAR MOC⌛.md",
+    "+Home.md",
     "目标 MOC.md",
     "你干嘛在乎别人怎么想.md",
-    "+Home.md",
-    "YEAR MOC⌛.md",
     "超速学习.md",
     "如何成功实验.md",
     "防止忘记.md",
