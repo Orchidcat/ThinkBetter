@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "防止忘记.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "你干嘛在乎别人怎么想.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +206,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e57b580b7882834b",
+  "active": "9b5061b65447133e",
   "lastOpenFiles": [
+    "防止忘记.md",
+    "你干嘛在乎别人怎么想.md",
     "理查德·费曼传.md",
     "费曼学习法.md",
     "超速学习.md",
-    "防止忘记.md",
     "一句话的玩味.md",
     "我们是如何衡量学会没有的.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
-    "+Home.md",
-    "第一性原理.md"
+    "+Home.md"
   ]
 }
