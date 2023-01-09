@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2610bb5c6f4233f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "超速学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,17 +243,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7ea131a415dd478d",
+  "active": "c2610bb5c6f4233f",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "超速学习.md",
+    "生命是什么.md",
+    "make it stick.md",
     "YEAR MOC⌛.md",
     "如何成功实验.md",
     "+Home.md",
     "目标 MOC.md",
     "你干嘛在乎别人怎么想.md",
-    "防止忘记.md",
-    "理查德·费曼传.md",
-    "费曼学习法.md",
-    "一句话的玩味.md"
+    "防止忘记.md"
   ]
 }
