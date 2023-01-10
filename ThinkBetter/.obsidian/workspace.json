@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "美国华人史.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,14 +197,14 @@
   "active": "6c6f10c0f34cdde4",
   "lastOpenFiles": [
     "读书 MOC.md",
+    "美国华人史.md",
+    "杀死一只知更鸟.md",
+    "+Home.md",
     "你干嘛在乎别人怎么想.md",
     "YEAR MOC⌛.md",
     "超速学习.md",
     "生命是什么.md",
     "make it stick.md",
-    "如何成功实验.md",
-    "+Home.md",
-    "目标 MOC.md",
-    "防止忘记.md"
+    "如何成功实验.md"
   ]
 }
