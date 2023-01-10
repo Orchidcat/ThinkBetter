@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a089ba33ff8a5e5",
+        "id": "82123c8381f1071b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ea131a415dd478d",
+            "id": "6c6f10c0f34cdde4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生命是什么.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2610bb5c6f4233f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "超速学习.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生命是什么.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生命是什么.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生命是什么.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +194,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7ea131a415dd478d",
+  "active": "6c6f10c0f34cdde4",
   "lastOpenFiles": [
     "读书 MOC.md",
     "你干嘛在乎别人怎么想.md",
