@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -206,7 +205,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "0751969a8a86af15",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "+Home.md",
     "基本Q.md",
