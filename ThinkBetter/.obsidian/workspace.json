@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -207,15 +208,15 @@
   },
   "active": "0751969a8a86af15",
   "lastOpenFiles": [
+    "SQL Server MOC.md",
+    "+Home.md",
     "基本Q.md",
     "一句话的玩味.md",
-    "+Home.md",
     "能力圈.md",
     "第一性原理.md",
     "读书 MOC.md",
     "美国华人史.md",
     "杀死一只知更鸟.md",
-    "你干嘛在乎别人怎么想.md",
-    "YEAR MOC⌛.md"
+    "你干嘛在乎别人怎么想.md"
   ]
 }
