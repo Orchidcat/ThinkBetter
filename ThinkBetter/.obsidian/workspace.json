@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
-                "mode": "source",
+                "file": "基本Q.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "基本Q.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "基本Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "基本Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "0751969a8a86af15",
   "lastOpenFiles": [
+    "+Home.md",
+    "基本Q.md",
     "读书 MOC.md",
     "美国华人史.md",
     "杀死一只知更鸟.md",
-    "+Home.md",
     "你干嘛在乎别人怎么想.md",
     "YEAR MOC⌛.md",
     "超速学习.md",
     "生命是什么.md",
-    "make it stick.md",
-    "如何成功实验.md"
+    "make it stick.md"
   ]
 }
