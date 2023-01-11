@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb751ffe1528a6d8",
+        "id": "ddf666c680ad2a89",
         "type": "tabs",
         "children": [
           {
-            "id": "0751969a8a86af15",
+            "id": "2ce58a131d6b2f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学会提问.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f61480142438542e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学会提问.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学会提问.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学会提问.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,12 +193,12 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "0751969a8a86af15",
+  "active": "2ce58a131d6b2f70",
   "lastOpenFiles": [
-    "Templates/Templates - 论证.md",
-    "学会提问.md",
-    "一句话的玩味.md",
     "+Home.md",
+    "学会提问.md",
+    "Templates/Templates - 论证.md",
+    "一句话的玩味.md",
     "基本Q.md",
     "SQL Server MOC.md",
     "能力圈.md",
