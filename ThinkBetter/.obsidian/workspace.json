@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本Q.md",
-                "mode": "source",
+                "file": "+Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "一句话的玩味.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,17 +205,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f61480142438542e",
+  "active": "0751969a8a86af15",
   "lastOpenFiles": [
     "基本Q.md",
+    "一句话的玩味.md",
+    "+Home.md",
     "能力圈.md",
     "第一性原理.md",
-    "+Home.md",
     "读书 MOC.md",
     "美国华人史.md",
     "杀死一只知更鸟.md",
     "你干嘛在乎别人怎么想.md",
-    "YEAR MOC⌛.md",
-    "超速学习.md"
+    "YEAR MOC⌛.md"
   ]
 }
