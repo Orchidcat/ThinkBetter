@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学会提问",
+      "path": "学会提问.md"
+    },
+    {
+      "basename": "Templates - 论证",
+      "path": "Templates/Templates - 论证.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "归经",
       "path": "归经.md"
-    },
-    {
-      "basename": "药引子",
-      "path": "药引子.md"
-    },
-    {
-      "basename": "升降沉浮",
-      "path": "升降沉浮.md"
     }
   ],
   "omittedPaths": [],

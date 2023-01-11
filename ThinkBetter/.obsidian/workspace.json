@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
-                "mode": "preview",
+                "file": "学会提问.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "学会提问",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "学会提问.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "学会提问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "学会提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +205,17 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "0751969a8a86af15",
   "lastOpenFiles": [
+    "Templates/Templates - 论证.md",
+    "学会提问.md",
+    "一句话的玩味.md",
     "+Home.md",
     "基本Q.md",
     "SQL Server MOC.md",
-    "一句话的玩味.md",
     "能力圈.md",
     "第一性原理.md",
     "读书 MOC.md",
-    "美国华人史.md",
-    "杀死一只知更鸟.md",
-    "你干嘛在乎别人怎么想.md"
+    "美国华人史.md"
   ]
 }
