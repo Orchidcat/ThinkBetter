@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2f3dd03b77556ac",
+            "id": "6ec5b81a38f2a03e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一问寒热.md",
+                "file": "美国华人史.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一问寒热.md"
+                "file": "美国华人史.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一问寒热.md",
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一问寒热.md",
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f2f3dd03b77556ac",
+  "active": "6ec5b81a38f2a03e",
   "lastOpenFiles": [
+    "一问寒热.md",
     "美国华人史.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
@@ -204,7 +205,6 @@
     "健康 MOC.md",
     "学会提问.md",
     "Templates/Templates - 论证.md",
-    "一句话的玩味.md",
-    "基本Q.md"
+    "一句话的玩味.md"
   ]
 }
