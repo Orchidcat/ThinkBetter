@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蚕丝-钱学森传.md",
+                "file": "美国华人史.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "钱学森",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945
+    "width": 239.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蚕丝-钱学森传.md"
+                "file": "美国华人史.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "蚕丝-钱学森传.md",
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蚕丝-钱学森传.md",
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +194,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "6ec5b81a38f2a03e",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "蚕丝-钱学森传.md",
     "美国华人史.md",
     "一问寒热.md",
     "读书 MOC.md",
@@ -203,7 +205,6 @@
     "愿望清单 MOC.md",
     "健康 MOC.md",
     "学会提问.md",
-    "Templates/Templates - 论证.md",
-    "一句话的玩味.md"
+    "Templates/Templates - 论证.md"
   ]
 }
