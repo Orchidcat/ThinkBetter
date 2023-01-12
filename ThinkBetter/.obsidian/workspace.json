@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "学会提问",
+                "query": "下午发热",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +193,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f2f3dd03b77556ac",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "读书 MOC.md",
     "美国华人史.md",
