@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "美国华人史.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "f2f3dd03b77556ac",
   "lastOpenFiles": [
+    "读书 MOC.md",
+    "美国华人史.md",
+    "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
+    "愿望清单 MOC.md",
+    "健康 MOC.md",
     "学会提问.md",
     "Templates/Templates - 论证.md",
     "一句话的玩味.md",
-    "基本Q.md",
-    "SQL Server MOC.md",
-    "能力圈.md",
-    "第一性原理.md",
-    "读书 MOC.md",
-    "美国华人史.md"
+    "基本Q.md"
   ]
 }
