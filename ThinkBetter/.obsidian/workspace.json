@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美国华人史.md",
+                "file": "蚕丝-钱学森传.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "发热",
+                "query": "钱学森",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945,
-    "collapsed": true
+    "width": 239.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美国华人史.md"
+                "file": "蚕丝-钱学森传.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美国华人史.md",
+                "file": "蚕丝-钱学森传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美国华人史.md",
+                "file": "蚕丝-钱学森传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +195,8 @@
   },
   "active": "6ec5b81a38f2a03e",
   "lastOpenFiles": [
-    "一问寒热.md",
     "美国华人史.md",
+    "一问寒热.md",
     "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
