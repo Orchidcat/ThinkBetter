@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8556f95dc3b0c3f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ec5b81a38f2a03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "美国华人史.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "b6af0f542d5e5a52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -120,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美国华人史.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美国华人史.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美国华人史.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +188,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "b6af0f542d5e5a52",
   "lastOpenFiles": [
     "蚕丝-钱学森传.md",
     "美国华人史.md",
