@@ -5,4 +5,4 @@
 [Review Heat Map](https://ankiweb.net/shared/info/1771074083) 学习的热力图
 [Multiple Choice for Anki](https://ankiweb.net/shared/info/1566095810)  创建多选项的类型
 awesomeTTS  添加英文发音
-fast word query 多个卡片选择
+fast word query 多个卡片的属性自动选择
