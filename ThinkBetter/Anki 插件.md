@@ -1,0 +1,3 @@
+#Anki
+
+speed focus mode

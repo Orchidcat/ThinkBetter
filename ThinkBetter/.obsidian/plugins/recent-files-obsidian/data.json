@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anki 插件",
+      "path": "Anki 插件.md"
+    },
+    {
       "basename": "美国华人史",
       "path": "美国华人史.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "相畏",
       "path": "相畏.md"
-    },
-    {
-      "basename": "相使",
-      "path": "相使.md"
     }
   ],
   "omittedPaths": [],
