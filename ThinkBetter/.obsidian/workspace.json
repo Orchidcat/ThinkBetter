@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki 插件.md"
+                "file": "Anki 高级设置.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki 插件.md",
+                "file": "Anki 高级设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki 插件.md",
+                "file": "Anki 高级设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "0104ffd538aeecbe",
+  "active": "7e77c9f425e0e9b4",
   "lastOpenFiles": [
-    "Anki 高级设置.md",
     "Anki 插件.md",
+    "Anki 高级设置.md",
     "美国华人史.md",
     "读书 MOC.md",
     "+Home.md",
