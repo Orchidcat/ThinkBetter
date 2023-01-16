@@ -1,4 +1,5 @@
 #Anki 
 
 基础设置
-learning Aspect
+
+屏幕截图功能
