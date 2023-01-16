@@ -13,4 +13,4 @@
 
 
 recommendation:
-switch from using anki recommendations and go into a Time ba
+switch from using anki recommendations and go into a Time basis
