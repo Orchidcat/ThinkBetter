@@ -1,8 +1,15 @@
 ### 读书
 
 
+**想要阅读的list**
 ```dataview
-table type as "描述", startDate as "开始日期" from #Book 
+list startDate+author + rating  from #UnReadBook 
+```
+
+
+
+```dataview
+table type as "描述" ,file.cday from #Book 
 sort startDate desc
 ```
 

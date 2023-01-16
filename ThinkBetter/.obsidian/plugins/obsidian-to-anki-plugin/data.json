@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "填空题": "",
+      "问答题": "",
+      "问答题（同时生成翻转的卡片<可选>）": "",
+      "问答题（同时生成翻转的卡片）": "",
+      "问答题（输入答案）": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "填空题": "文字",
+      "问答题": "正面",
+      "问答题（同时生成翻转的卡片<可选>）": "正面",
+      "问答题（同时生成翻转的卡片）": "正面",
+      "问答题（输入答案）": "正面"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}

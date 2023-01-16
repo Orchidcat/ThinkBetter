@@ -15,6 +15,7 @@ path does not include Templates
 
 
 - 个人😋
+	- [[学习方法]]🔬
 	- [[YEAR MOC⌛]]
 	- [[WorkFlowMOC]]
 	- [[NotToDo]]
@@ -28,6 +29,8 @@ path does not include Templates
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
 	- [[Tools]]
+	- [[写点儿啥]]
+	- [[外语]]
 
 
 
@@ -36,6 +39,7 @@ path does not include Templates
 	- [[概念 MOC]]
 	- [[兴趣 MOC]]
 	- [[人物 MOC]]
+	- [[事件timing]]
 
 - 数据库 🍻
 	- Oracle MOC

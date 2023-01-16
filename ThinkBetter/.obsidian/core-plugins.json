@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -13,6 +14,7 @@
   "command-palette",
   "starred",
   "markdown-importer",
+  "zk-prefixer",
   "outline",
   "word-count",
   "file-recovery"

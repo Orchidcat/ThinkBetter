@@ -1,0 +1,275 @@
+{
+  "strategy": "chinese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "⭐⭐⭐": {
+      "⭐⭐⭐": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1671582823705
+        }
+      }
+    },
+    "割据": {
+      "割据": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671585153103
+        }
+      }
+    },
+    "张纯如 - 无法忘记历史的女子": {
+      "张纯如 - 无法忘记历史的女子": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671695864198
+        }
+      }
+    },
+    "⭐⭐⭐⭐": {
+      "⭐⭐⭐⭐": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1671766616393
+        }
+      }
+    },
+    "日瓦戈医生": {
+      "日瓦戈医生": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671773879865
+        }
+      }
+    },
+    "教科书": {
+      "教科书": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672109960686
+        }
+      }
+    },
+    "史蒂夫·乔布斯": {
+      "史蒂夫·乔布斯": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672281218067
+        }
+      }
+    },
+    "移民": {
+      "移民": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672292290168
+        }
+      }
+    },
+    "一面": {
+      "一面": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672721977132
+        }
+      }
+    },
+    "归经": {
+      "归经": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1672819428341
+        }
+      }
+    },
+    "中药的毒性": {
+      "中药的毒性": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672879543902
+        }
+      }
+    },
+    "中毒": {
+      "中毒": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672882622771
+        }
+      }
+    },
+    "剂量": {
+      "剂量": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672887024893
+        }
+      }
+    },
+    "倒置": {
+      "倒置": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1672900739258
+        }
+      }
+    },
+    "费曼学习法": {
+      "费曼学习法": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673054699620
+        }
+      }
+    },
+    "一句话的玩味": {
+      "一句话的玩味": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673054756420
+        }
+      }
+    },
+    "能力圈": {
+      "能力圈": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673054888509
+        }
+      }
+    },
+    "教练": {
+      "教练": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673055039364
+        }
+      }
+    },
+    "学习": {
+      "学习": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1673078332674
+        }
+      }
+    },
+    "专心致志": {
+      "专心致志": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673057970781
+        }
+      }
+    },
+    "metalearning": {
+      "metalearning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673071152967
+        }
+      }
+    },
+    "」「": {
+      "」「": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673073154616
+        }
+      }
+    },
+    "法则": {
+      "法则": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1673225872196
+        }
+      }
+    },
+    "回馈": {
+      "回馈": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673232253241
+        }
+      }
+    },
+    "时间": {
+      "时间": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673241783729
+        }
+      }
+    },
+    "计划": {
+      "计划": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673241815418
+        }
+      }
+    },
+    "png": {
+      "png": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673855731597
+        }
+      }
+    },
+    "Stack": {
+      "Stack": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1673858115731
+        }
+      }
+    }
+  }
+}
