@@ -19,4 +19,4 @@ recommendation:
 
 
 插入线上字典发音
-awesome 
+	awesomeTTS
