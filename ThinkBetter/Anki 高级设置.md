@@ -12,3 +12,5 @@
 ![[Pasted image 20230116154339.png]]
 
 
+recommendation:
+switch from using anki recommendations and go into a Time ba
