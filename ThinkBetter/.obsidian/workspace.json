@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6af0f542d5e5a52",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "胸痹心痛短气病脉症并治第九.md",
-            "mode": "source",
-            "source": false
+        "id": "6f33c959dca1736f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b453beddfdde81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945
+    "width": 239.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -113,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胸痹心痛短气病脉症并治第九.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胸痹心痛短气病脉症并治第九.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胸痹心痛短气病脉症并治第九.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +194,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b6af0f542d5e5a52",
+  "active": "4b453beddfdde81b",
   "lastOpenFiles": [
     "+Home.md",
     "蚕丝-钱学森传.md",
