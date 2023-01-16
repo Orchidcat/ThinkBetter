@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "美国华人史.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "美国华人史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +196,11 @@
   },
   "active": "4b453beddfdde81b",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "+Home.md",
     "蚕丝-钱学森传.md",
     "美国华人史.md",
     "一问寒热.md",
-    "读书 MOC.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "愿望清单 MOC.md",
     "健康 MOC.md",
