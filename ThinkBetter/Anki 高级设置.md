@@ -16,3 +16,7 @@ recommendation:
 - switch from using anki recommendations and go into a Time basis.
 - Add on Speed Focus App
 
+
+
+插入线上字典发音
+awesome 
