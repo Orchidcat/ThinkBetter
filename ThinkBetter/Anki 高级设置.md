@@ -13,4 +13,6 @@
 
 
 recommendation:
-switch from using anki recommendations and go into a Time basis
+- switch from using anki recommendations and go into a Time basis.
+- Add on Speed Focus App
+
