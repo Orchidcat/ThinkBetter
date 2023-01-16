@@ -11,8 +11,13 @@
             "id": "96ea1e5dab8bb999",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Anki 插件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/Anki 插件.md"
+              }
             }
           },
           {
@@ -101,29 +108,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ThinkBetter/Anki 插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "d51fd6b1c35b97f2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -132,15 +124,15 @@
   },
   "active": "96ea1e5dab8bb999",
   "lastOpenFiles": [
+    "ThinkBetter/读书 MOC.md",
     "读书 MOC.md",
     "ThinkBetter/+Home.md",
+    "+HomeMOC.md",
     "卫气营血辨证.md",
     "ThinkBetter/病位辩证.md",
     "六经辩证.md",
     "并病.md",
     "合病.md",
-    "直中.md",
-    "传经.md",
-    "厥阴病证.md"
+    "直中.md"
   ]
 }
