@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anki 高级设置",
+      "path": "Anki 高级设置.md"
+    },
+    {
       "basename": "Anki 插件",
       "path": "Anki 插件.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "相杀",
       "path": "相杀.md"
-    },
-    {
-      "basename": "相畏",
-      "path": "相畏.md"
     }
   ],
   "omittedPaths": [],
