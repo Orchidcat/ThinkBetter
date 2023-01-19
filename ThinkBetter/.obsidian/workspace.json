@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "手脚冷",
+                "query": "语文",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "超速学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "de303f4f3842c546",
   "lastOpenFiles": [
+    "学习高手.md",
+    "+Home.md",
     "Anki 插件.md",
     "Anki 高级设置.md",
     "美国华人史.md",
     "读书 MOC.md",
-    "+Home.md",
     "蚕丝-钱学森传.md",
     "一问寒热.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
-    "愿望清单 MOC.md",
-    "健康 MOC.md"
+    "愿望清单 MOC.md"
   ]
 }
