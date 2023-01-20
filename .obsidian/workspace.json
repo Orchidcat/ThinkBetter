@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki 基础使用.md",
+                "file": "ThinkBetter/按诊.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "头liang",
+                "query": "手心热",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/按诊.md"
+              }
             }
           }
         ],
@@ -121,17 +123,17 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "15b49f80c1c7e1db",
   "lastOpenFiles": [
+    "ThinkBetter/中医诊断学.md",
+    "ThinkBetter/按诊.md",
+    "Anki 基础使用.md",
     "ThinkBetter/Anki 插件.md",
     "ThinkBetter/读书 MOC.md",
     "读书 MOC.md",
     "ThinkBetter/+Home.md",
     "+HomeMOC.md",
     "卫气营血辨证.md",
-    "ThinkBetter/病位辩证.md",
-    "六经辩证.md",
-    "并病.md",
-    "合病.md"
+    "ThinkBetter/病位辩证.md"
   ]
 }
