@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鼻",
+                "query": "头liang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "15b49f80c1c7e1db",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/Anki 插件.md",
     "ThinkBetter/读书 MOC.md",
