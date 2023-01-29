@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "第一性原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "第一性原理.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "第一性原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "第一性原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "3b2725d6f3fe1655",
   "lastOpenFiles": [
+    "100种心智模型.md",
+    "心智模型 MOC.md",
     "+Home.md",
     "学习高手.md",
     "Anki 插件.md",
@@ -204,8 +206,6 @@
     "美国华人史.md",
     "读书 MOC.md",
     "蚕丝-钱学森传.md",
-    "一问寒热.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "愿望清单 MOC.md"
+    "一问寒热.md"
   ]
 }
