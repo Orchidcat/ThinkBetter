@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24e597e150085461",
+        "id": "13800e3c4f7624d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3b2725d6f3fe1655",
+            "id": "7fc4280c974fd161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一性原理.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一性原理.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一性原理.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3b2725d6f3fe1655",
+  "active": "7fc4280c974fd161",
   "lastOpenFiles": [
     "100种心智模型.md",
     "心智模型 MOC.md",
