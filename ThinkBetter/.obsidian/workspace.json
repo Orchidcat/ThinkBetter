@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "超速",
+                "query": "tag:#card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
