@@ -64,7 +64,7 @@ cards-deck: ZY::诊断学
 皮、肉、脉、筋、骨
 ^1675234463039
 
-心主{cloze},{1:cloze}主皮毛；
+心主{cloze},{1:cloze}主皮毛；脾主{2:cloze}；{3:cloze}主筋；{4:cloze}主骨
 
 
 
