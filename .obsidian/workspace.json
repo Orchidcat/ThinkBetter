@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "手心热",
+                "query": "zy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "96ea1e5dab8bb999",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/按诊.md",
     "ThinkBetter/中医诊断学.md",

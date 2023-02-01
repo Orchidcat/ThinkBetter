@@ -17,5 +17,14 @@
       ],
       "key": "T"
     }
+  ],
+  "flashcards-obsidian:generate-flashcard-current-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }
