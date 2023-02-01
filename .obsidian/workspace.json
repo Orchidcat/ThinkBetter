@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/zy-诊断学.md"
+                "file": "ThinkBetter/中医诊断学.md"
               }
             }
           }
@@ -130,10 +130,10 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "5c3fc715ee10a8aa",
+  "active": "2834a206e7d9efd5",
   "lastOpenFiles": [
-    "ThinkBetter/中医诊断学.md",
     "ThinkBetter/zy-诊断学.md",
+    "ThinkBetter/中医诊断学.md",
     "ThinkBetter/按诊.md",
     "ThinkBetter/Anki 插件.md",
     "Anki 基础使用.md",
