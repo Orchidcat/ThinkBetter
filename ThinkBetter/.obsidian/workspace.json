@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a421e1d909f6b2",
+        "id": "f39ecb897d22ea9b",
         "type": "tabs",
+        "dimension": 46.54234654234654,
         "children": [
           {
-            "id": "de303f4f3842c546",
+            "id": "8a84f38fd8be0a36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超速学习.md",
+                "file": "中医诊断学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "876fc526c7c5f226",
+        "type": "tabs",
+        "dimension": 53.45765345765345,
+        "children": [
+          {
+            "id": "a4233007217a881b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zy-诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "语文",
+                "query": "tag:#card-reversecard-reverse",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945
+    "width": 239.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "zy-诊断学.md"
               }
             }
           },
@@ -129,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "zy-诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "zy-诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,20 +212,20 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "de303f4f3842c546",
+  "active": "a4233007217a881b",
   "lastOpenFiles": [
-    "学习高手.md",
-    "+Home.md",
-    "Anki 插件.md",
-    "Anki 高级设置.md",
-    "美国华人史.md",
+    "中医诊断学.md",
+    "zy-诊断学.md",
+    "未命名 1.md",
+    "FC_基础理论.md",
     "读书 MOC.md",
+    "金匮-人纪.md",
     "蚕丝-钱学森传.md",
-    "一问寒热.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
-    "愿望清单 MOC.md"
+    "David Foster Wallace -  This is Water.md",
+    "+Home.md"
   ]
 }

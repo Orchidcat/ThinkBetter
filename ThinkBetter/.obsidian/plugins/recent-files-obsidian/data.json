@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "超速学习",
-      "path": "超速学习.md"
+      "basename": "zy-诊断学",
+      "path": "zy-诊断学.md"
     },
     {
-      "basename": "学习高手",
-      "path": "学习高手.md"
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "FC_基础理论",
+      "path": "FC_基础理论.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "超速学习",
+      "path": "超速学习.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
+      "basename": "学习高手",
+      "path": "学习高手.md"
     },
     {
       "basename": "美国华人史",
@@ -23,10 +55,6 @@
     {
       "basename": "Anki 高级设置",
       "path": "Anki 高级设置.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     },
     {
       "basename": "胸痹心痛短气病脉症并治第九",
@@ -63,10 +91,6 @@
     {
       "basename": "基本Q",
       "path": "基本Q.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
     },
     {
       "basename": "生命是什么",
@@ -129,16 +153,8 @@
       "path": "make it stick.md"
     },
     {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
       "basename": "倒置",
       "path": "倒置.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     },
     {
       "basename": "中药学",
@@ -183,22 +199,6 @@
     {
       "basename": "后下",
       "path": "后下.md"
-    },
-    {
-      "basename": "先煎",
-      "path": "先煎.md"
-    },
-    {
-      "basename": "相反",
-      "path": "相反.md"
-    },
-    {
-      "basename": "相恶",
-      "path": "相恶.md"
-    },
-    {
-      "basename": "相杀",
-      "path": "相杀.md"
     }
   ],
   "omittedPaths": [],
