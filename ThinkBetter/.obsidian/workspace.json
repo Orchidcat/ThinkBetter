@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "zy-诊断学.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "zy-诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "zy-诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,10 +211,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "8a84f38fd8be0a36",
+  "active": "a4233007217a881b",
   "lastOpenFiles": [
-    "zy-诊断学.md",
     "中医诊断学.md",
+    "zy-诊断学.md",
     "未命名 1.md",
     "FC_基础理论.md",
     "读书 MOC.md",
