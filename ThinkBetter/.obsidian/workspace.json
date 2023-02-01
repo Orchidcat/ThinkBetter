@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcd6de2c2a0ac4b",
+        "id": "27e6ab67f1e65e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "58357dfc742e1d5f",
+            "id": "39d67d57cc6317ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8aca27e10ae2d079",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e10899658567c101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FC_基础理论.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -82,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "zy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FC_基础理论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FC_基础理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FC_基础理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,10 +186,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "e10899658567c101",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "中医诊断学.md",
     "FC_基础理论.md",
+    "中医诊断学.md",
     "读书 MOC.md",
     "金匮-人纪.md",
     "蚕丝-钱学森传.md",
