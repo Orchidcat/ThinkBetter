@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf19677df44b31aa",
+        "id": "90539525dddb25ef",
         "type": "tabs",
-        "dimension": 49.67405475880052,
         "children": [
           {
-            "id": "96ea1e5dab8bb999",
+            "id": "2834a206e7d9efd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,19 +23,18 @@
         ]
       },
       {
-        "id": "ca6b3c57c02a73ed",
+        "id": "067a0bd2ddb04314",
         "type": "tabs",
-        "dimension": 50.32594524119948,
         "children": [
           {
-            "id": "988ed2129809cdb9",
+            "id": "5c3fc715ee10a8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/zy-诊断学.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -120,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/zy-诊断学.md"
+                "file": "ThinkBetter/中医诊断学.md"
               }
             }
           }
@@ -132,10 +130,10 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "988ed2129809cdb9",
+  "active": "2834a206e7d9efd5",
   "lastOpenFiles": [
-    "ThinkBetter/中医诊断学.md",
     "ThinkBetter/zy-诊断学.md",
+    "ThinkBetter/中医诊断学.md",
     "ThinkBetter/按诊.md",
     "ThinkBetter/Anki 插件.md",
     "Anki 基础使用.md",
