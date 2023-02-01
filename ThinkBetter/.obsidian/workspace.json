@@ -13,12 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8aca27e10ae2d079",
+        "type": "tabs",
+        "children": [
           {
             "id": "e10899658567c101",
             "type": "leaf",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +214,15 @@
   },
   "active": "e10899658567c101",
   "lastOpenFiles": [
+    "中医诊断学.md",
     "读书 MOC.md",
+    "金匮-人纪.md",
+    "FC_基础理论.md",
     "蚕丝-钱学森传.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "David Foster Wallace -  This is Water.md",
     "+Home.md",
     "100种心智模型.md",
-    "心智模型 MOC.md",
-    "学习高手.md",
-    "Anki 插件.md",
-    "Anki 高级设置.md"
+    "心智模型 MOC.md"
   ]
 }

@@ -5,6 +5,10 @@
       "path": "FC_基础理论.md"
     },
     {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "相反",
       "path": "相反.md"
-    },
-    {
-      "basename": "相恶",
-      "path": "相恶.md"
     }
   ],
   "omittedPaths": [],
