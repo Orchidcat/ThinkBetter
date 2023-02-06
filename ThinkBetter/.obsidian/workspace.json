@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32d70f5def2ee7ac",
+        "id": "d85dd8b6ca9cf952",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8d0d8a74349296",
+            "id": "6d44025369196891",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,7 +196,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2b8d0d8a74349296",
+  "active": "6d44025369196891",
   "lastOpenFiles": [
     "中医诊断学.md",
     "zy-诊断学.md",
