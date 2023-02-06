@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "3ad9301ac290ef2d",
+        "id": "3c1a14341ff921f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a14f5702e557811d",
+            "id": "2469dfeac9150b94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一问寒热.md"
+                "file": "zy-诊断学.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一问寒热.md",
+                "file": "zy-诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一问寒热.md",
+                "file": "zy-诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +214,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6d44025369196891",
+  "active": "2469dfeac9150b94",
   "lastOpenFiles": [
-    "zy-诊断学.md",
     "一问寒热.md",
+    "未命名.canvas",
+    "zy-诊断学.md",
     "中医诊断学.md",
     "+Home.md",
     "未命名 1.md",
     "FC_基础理论.md",
     "读书 MOC.md",
     "金匮-人纪.md",
-    "蚕丝-钱学森传.md",
-    "真正的天才：约翰·巴丁的生平与学术.md"
+    "蚕丝-钱学森传.md"
   ]
 }
