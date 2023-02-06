@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8441286b1f1b47",
+        "id": "a6b6ed4f99babdb9",
         "type": "tabs",
         "children": [
           {
-            "id": "136b7b0da88961df",
+            "id": "2e89f56f75cb4171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "中医/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,13 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945,
-    "collapsed": true
+    "width": 239.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "中医/未命名.md"
               }
             }
           },
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "中医/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "中医/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +194,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "136b7b0da88961df",
+  "active": "2e89f56f75cb4171",
   "lastOpenFiles": [
+    "中医/未命名看板.md",
+    "+Home.md",
     "中医诊断学.md",
     "zy-总论.md",
     "三问头身.md",
@@ -205,8 +205,6 @@
     "二问汗.md",
     "zy-诊断学.md",
     "未命名.canvas",
-    "+Home.md",
-    "未命名 1.md",
-    "FC_基础理论.md"
+    "未命名 1.md"
   ]
 }

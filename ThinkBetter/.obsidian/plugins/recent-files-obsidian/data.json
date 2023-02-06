@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "中医/未命名.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "冲服",
       "path": "冲服.md"
-    },
-    {
-      "basename": "泡服",
-      "path": "泡服.md"
     }
   ],
   "omittedPaths": [],
