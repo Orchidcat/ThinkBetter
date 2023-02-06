@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e89f56f75cb4171",
+            "id": "6ce92ea61bf8bb02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/@MOC中医.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14b12958995ffee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb36b94516ecd051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医诊断学.md",
+                "file": "方剂学.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ce92ea61bf8bb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "方剂学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945
+    "width": 239.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
