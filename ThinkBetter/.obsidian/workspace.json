@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "93dae7e9f6c6426d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "药味加减.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f31d51f8ca2dc15c",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方剂学.md"
+                "file": "药味加减.md"
               }
             }
           },
@@ -166,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方剂学.md",
+                "file": "药味加减.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂学.md",
+                "file": "药味加减.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +245,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6ce92ea61bf8bb02",
+  "active": "93dae7e9f6c6426d",
   "lastOpenFiles": [
-    "君臣佐使.md",
     "方剂学.md",
+    "君臣佐使.md",
     "半固体型.md",
     "固体剂型.md",
     "液体剂型.md",

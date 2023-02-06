@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "药味加减",
+      "path": "药味加减.md"
+    },
+    {
       "basename": "方剂学",
       "path": "方剂学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "拖延",
       "path": "拖延.md"
-    },
-    {
-      "basename": "后设学习",
-      "path": "后设学习.md"
     }
   ],
   "omittedPaths": [],
