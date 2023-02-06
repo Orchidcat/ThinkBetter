@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大小青龙汤.md",
+                "file": "桂枝汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方剂学.md"
+                "file": "桂枝汤.md"
               }
             }
           },
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方剂学.md",
+                "file": "桂枝汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂学.md",
+                "file": "桂枝汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,12 +268,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6ce92ea61bf8bb02",
+  "active": "1c8be990b8dfbc9f",
   "lastOpenFiles": [
-    "大小青龙汤.md",
     "中医/药/解表剂.md",
     "麻黄汤.md",
     "方剂学.md",
+    "大小青龙汤.md",
     "药量加减.md",
     "药味加减.md",
     "君臣佐使.md",
