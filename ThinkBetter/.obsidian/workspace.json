@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大小青龙汤.md"
+                "file": "方剂学.md"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大小青龙汤.md",
+                "file": "方剂学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大小青龙汤.md",
+                "file": "方剂学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,8 +267,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1c8be990b8dfbc9f",
+  "active": "6ce92ea61bf8bb02",
   "lastOpenFiles": [
+    "大小青龙汤.md",
     "中医/药/解表剂.md",
     "麻黄汤.md",
     "方剂学.md",
@@ -278,7 +278,6 @@
     "君臣佐使.md",
     "半固体型.md",
     "固体剂型.md",
-    "液体剂型.md",
-    "常用8种治法.md"
+    "液体剂型.md"
   ]
 }
