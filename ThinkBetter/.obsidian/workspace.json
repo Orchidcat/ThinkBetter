@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "2caa0e1bcda3cb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "固体剂型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd25d9e1cc5bbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "液体剂型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "950101e9d528d2ee",
             "type": "leaf",
             "state": {
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "固体剂型.md"
+                "file": "方剂学.md"
               }
             }
           },
@@ -179,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "固体剂型.md",
+                "file": "方剂学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "固体剂型.md",
+                "file": "方剂学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,8 +220,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2caa0e1bcda3cb59",
+  "active": "6ce92ea61bf8bb02",
   "lastOpenFiles": [
+    "固体剂型.md",
     "方剂学.md",
     "液体剂型.md",
     "常用8种治法.md",
@@ -255,7 +231,6 @@
     "中医/@MOC中医.md",
     "中医诊断学.md",
     "+Home.md",
-    "外语.md",
-    "中医/未命名看板.md"
+    "外语.md"
   ]
 }
