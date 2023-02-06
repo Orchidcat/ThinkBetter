@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "液体剂型",
+      "path": "液体剂型.md"
+    },
+    {
       "basename": "方剂学",
       "path": "方剂学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "中药学",
       "path": "中药学.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     }
   ],
   "omittedPaths": [],
