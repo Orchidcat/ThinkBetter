@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f3d5373de91b7ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "麻黄汤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93dae7e9f6c6426d",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/药/解表剂.md"
+                "file": "麻黄汤.md"
               }
             }
           },
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "麻黄汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "麻黄汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,8 +268,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "f3d5373de91b7ee2",
   "lastOpenFiles": [
+    "中医/药/解表剂.md",
     "方剂学.md",
     "药量加减.md",
     "药味加减.md",
@@ -266,7 +279,6 @@
     "固体剂型.md",
     "液体剂型.md",
     "常用8种治法.md",
-    "zy-总论.md",
-    "黄帝内经.md"
+    "zy-总论.md"
   ]
 }
