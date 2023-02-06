@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "八纲",
+                "query": "药",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945,
-    "collapsed": true
+    "width": 239.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -244,7 +243,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6ce92ea61bf8bb02",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "药量加减.md",
     "方剂学.md",
