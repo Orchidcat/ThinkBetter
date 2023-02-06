@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card-reversecard-reverse",
+                "query": "插件",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945,
-    "collapsed": true
+    "width": 239.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -196,7 +195,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6d44025369196891",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "中医诊断学.md",
     "zy-诊断学.md",
