@@ -6,7 +6,7 @@
       {
         "id": "d85dd8b6ca9cf952",
         "type": "tabs",
-        "dimension": 56.213017751479285,
+        "dimension": 31.360946745562128,
         "children": [
           {
             "id": "6d44025369196891",
@@ -25,7 +25,7 @@
       {
         "id": "cd68a3a6dff4aead",
         "type": "tabs",
-        "dimension": 43.786982248520715,
+        "dimension": 68.63905325443787,
         "children": [
           {
             "id": "bd196b28da03ffce",
@@ -218,15 +218,15 @@
   },
   "active": "bd196b28da03ffce",
   "lastOpenFiles": [
-    "中医诊断学.md",
+    "三问头身.md",
+    "一问寒热.md",
     "zy-总论.md",
+    "中医诊断学.md",
     "二问汗.md",
     "zy-诊断学.md",
-    "一问寒热.md",
     "未命名.canvas",
     "+Home.md",
     "未命名 1.md",
-    "FC_基础理论.md",
-    "读书 MOC.md"
+    "FC_基础理论.md"
   ]
 }
