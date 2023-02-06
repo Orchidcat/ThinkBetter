@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "桂枝汤.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桂枝汤.md"
+                "file": "营卫之气.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桂枝汤.md",
+                "file": "营卫之气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桂枝汤.md",
+                "file": "营卫之气.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,8 +268,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1c8be990b8dfbc9f",
+  "active": "a841f8ae854e24da",
   "lastOpenFiles": [
+    "桂枝汤.md",
+    "营卫之气.md",
     "中医/药/解表剂.md",
     "麻黄汤.md",
     "方剂学.md",
@@ -277,8 +279,6 @@
     "药量加减.md",
     "药味加减.md",
     "君臣佐使.md",
-    "半固体型.md",
-    "固体剂型.md",
-    "液体剂型.md"
+    "半固体型.md"
   ]
 }
