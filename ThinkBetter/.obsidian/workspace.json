@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f31d51f8ca2dc15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "半固体型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "950101e9d528d2ee",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方剂学.md"
+                "file": "半固体型.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方剂学.md",
+                "file": "半固体型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂学.md",
+                "file": "半固体型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +233,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6ce92ea61bf8bb02",
+  "active": "f31d51f8ca2dc15c",
   "lastOpenFiles": [
-    "固体剂型.md",
     "方剂学.md",
+    "固体剂型.md",
     "液体剂型.md",
     "常用8种治法.md",
     "zy-总论.md",
