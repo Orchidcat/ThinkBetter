@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "药味加减.md"
+                "file": "方剂学.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "药味加减.md",
+                "file": "方剂学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "药味加减.md",
+                "file": "方剂学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,17 +244,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "93dae7e9f6c6426d",
+  "active": "6ce92ea61bf8bb02",
   "lastOpenFiles": [
+    "药量加减.md",
     "方剂学.md",
+    "药味加减.md",
     "君臣佐使.md",
     "半固体型.md",
     "固体剂型.md",
     "液体剂型.md",
     "常用8种治法.md",
     "zy-总论.md",
-    "黄帝内经.md",
-    "中医/@MOC中医.md",
-    "中医诊断学.md"
+    "黄帝内经.md"
   ]
 }

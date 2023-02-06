@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "药味加减",
-      "path": "药味加减.md"
-    },
-    {
       "basename": "方剂学",
       "path": "方剂学.md"
+    },
+    {
+      "basename": "药量加减",
+      "path": "药量加减.md"
+    },
+    {
+      "basename": "药味加减",
+      "path": "药味加减.md"
     },
     {
       "basename": "君臣佐使",
@@ -195,10 +199,6 @@
     {
       "basename": "分心",
       "path": "分心.md"
-    },
-    {
-      "basename": "拖延",
-      "path": "拖延.md"
     }
   ],
   "omittedPaths": [],
