@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "半固体型.md"
+                "file": "方剂学.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "半固体型.md",
+                "file": "方剂学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "半固体型.md",
+                "file": "方剂学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,8 +232,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f31d51f8ca2dc15c",
+  "active": "6ce92ea61bf8bb02",
   "lastOpenFiles": [
+    "半固体型.md",
     "方剂学.md",
     "固体剂型.md",
     "液体剂型.md",
@@ -243,7 +243,6 @@
     "黄帝内经.md",
     "中医/@MOC中医.md",
     "中医诊断学.md",
-    "+Home.md",
-    "外语.md"
+    "+Home.md"
   ]
 }
