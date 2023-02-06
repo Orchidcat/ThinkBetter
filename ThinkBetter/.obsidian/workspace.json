@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ce92ea61bf8bb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方剂学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "方剂学.md"
               }
             }
           },
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "方剂学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "方剂学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,12 +244,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "14b12958995ffee9",
+  "active": "6ce92ea61bf8bb02",
   "lastOpenFiles": [
-    "中医诊断学.md",
-    "zy-总论.md",
     "黄帝内经.md",
     "中医/@MOC中医.md",
+    "zy-总论.md",
+    "中医诊断学.md",
     "+Home.md",
     "外语.md",
     "中医/未命名看板.md",
