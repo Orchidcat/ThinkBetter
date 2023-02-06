@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "桂枝汤",
-      "path": "桂枝汤.md"
+      "basename": "九味羌活汤",
+      "path": "九味羌活汤.md"
     },
     {
       "basename": "解表剂",
       "path": "中医/药/解表剂.md"
     },
     {
-      "basename": "麻黄汤",
-      "path": "麻黄汤.md"
+      "basename": "桂枝汤",
+      "path": "桂枝汤.md"
     },
     {
       "basename": "方剂学",
       "path": "方剂学.md"
+    },
+    {
+      "basename": "麻黄汤",
+      "path": "麻黄汤.md"
     },
     {
       "basename": "大小青龙汤",
@@ -195,10 +199,6 @@
     {
       "basename": "理查德·费曼传",
       "path": "理查德·费曼传.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "费曼学习法.md"
     }
   ],
   "omittedPaths": [],
