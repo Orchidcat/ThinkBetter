@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "zy-诊断学",
-      "path": "zy-诊断学.md"
+      "basename": "二问汗",
+      "path": "二问汗.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
     },
     {
       "basename": "一问寒热",
       "path": "一问寒热.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
+      "basename": "zy-诊断学",
+      "path": "zy-诊断学.md"
     },
     {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
+      "basename": "未命名",
+      "path": "未命名.canvas"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "另煎",
       "path": "另煎.md"
-    },
-    {
-      "basename": "包煎",
-      "path": "包煎.md"
     }
   ],
   "omittedPaths": [],
