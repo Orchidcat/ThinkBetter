@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "液体剂型",
-      "path": "液体剂型.md"
+      "basename": "固体剂型",
+      "path": "固体剂型.md"
     },
     {
       "basename": "方剂学",
       "path": "方剂学.md"
+    },
+    {
+      "basename": "液体剂型",
+      "path": "液体剂型.md"
     },
     {
       "basename": "常用8种治法",
@@ -195,10 +199,6 @@
     {
       "basename": "倒置",
       "path": "倒置.md"
-    },
-    {
-      "basename": "中药学",
-      "path": "中药学.md"
     }
   ],
   "omittedPaths": [],

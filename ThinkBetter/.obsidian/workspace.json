@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2caa0e1bcda3cb59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "固体剂型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cd25d9e1cc5bbab",
             "type": "leaf",
             "state": {
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "液体剂型.md"
+                "file": "固体剂型.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "液体剂型.md",
+                "file": "固体剂型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "液体剂型.md",
+                "file": "固体剂型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,9 +245,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "3cd25d9e1cc5bbab",
+  "active": "2caa0e1bcda3cb59",
   "lastOpenFiles": [
     "方剂学.md",
+    "液体剂型.md",
     "常用8种治法.md",
     "zy-总论.md",
     "黄帝内经.md",
@@ -243,7 +256,6 @@
     "中医诊断学.md",
     "+Home.md",
     "外语.md",
-    "中医/未命名看板.md",
-    "三问头身.md"
+    "中医/未命名看板.md"
   ]
 }
