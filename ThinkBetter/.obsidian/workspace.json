@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "f3d5373de91b7ee2",
+            "id": "9e89bb9853c38ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -268,9 +268,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f3d5373de91b7ee2",
+  "active": "9e89bb9853c38ba6",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
+    "麻黄汤.md",
     "方剂学.md",
     "药量加减.md",
     "药味加减.md",
@@ -278,7 +279,6 @@
     "半固体型.md",
     "固体剂型.md",
     "液体剂型.md",
-    "常用8种治法.md",
-    "zy-总论.md"
+    "常用8种治法.md"
   ]
 }
