@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "cd68a3a6dff4aead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd196b28da03ffce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zy-诊断学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二问汗.md"
+                "file": "zy-诊断学.md"
               }
             }
           },
@@ -130,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二问汗.md",
+                "file": "zy-诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二问汗.md",
+                "file": "zy-诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +214,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6d44025369196891",
+  "active": "bd196b28da03ffce",
   "lastOpenFiles": [
+    "二问汗.md",
     "中医诊断学.md",
     "一问寒热.md",
     "zy-诊断学.md",
@@ -206,7 +225,6 @@
     "未命名 1.md",
     "FC_基础理论.md",
     "读书 MOC.md",
-    "金匮-人纪.md",
-    "蚕丝-钱学森传.md"
+    "金匮-人纪.md"
   ]
 }
