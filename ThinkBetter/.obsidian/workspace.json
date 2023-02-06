@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "中医/@MOC中医.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b12958995ffee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +207,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2e89f56f75cb4171",
+  "active": "14b12958995ffee9",
   "lastOpenFiles": [
     "中医/@MOC中医.md",
     "+Home.md",
+    "外语.md",
     "中医/未命名看板.md",
     "中医诊断学.md",
     "zy-总论.md",
     "三问头身.md",
     "一问寒热.md",
     "二问汗.md",
-    "zy-诊断学.md",
-    "未命名.canvas"
+    "zy-诊断学.md"
   ]
 }

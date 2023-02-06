@@ -33,9 +33,6 @@ path does not include Templates
 	- [[外语]]
 	- [[@MOC中医|中医]]
 
-
-
-
 - 事物🌐
 	- [[概念 MOC]]
 	- [[兴趣 MOC]]
