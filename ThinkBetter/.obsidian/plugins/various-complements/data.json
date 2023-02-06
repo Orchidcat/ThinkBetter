@@ -47,99 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "一面": {
-      "一面": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672721977132
-        }
-      }
-    },
-    "归经": {
-      "归经": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1672819428341
-        }
-      }
-    },
-    "中药的毒性": {
-      "中药的毒性": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1672879543902
-        }
-      }
-    },
-    "中毒": {
-      "中毒": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672882622771
-        }
-      }
-    },
-    "剂量": {
-      "剂量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672887024893
-        }
-      }
-    },
-    "倒置": {
-      "倒置": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1672900739258
-        }
-      }
-    },
-    "费曼学习法": {
-      "费曼学习法": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054699620
-        }
-      }
-    },
-    "一句话的玩味": {
-      "一句话的玩味": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054756420
-        }
-      }
-    },
-    "能力圈": {
-      "能力圈": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054888509
-        }
-      }
-    },
-    "教练": {
-      "教练": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673055039364
-        }
-      }
-    },
     "学习": {
       "学习": {
         "currentFile": {
           "count": 4,
           "lastUpdated": 1673078332674
-        }
-      }
-    },
-    "专心致志": {
-      "专心致志": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673057970781
         }
       }
     },
@@ -220,6 +132,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1675239198180
+        }
+      }
+    },
+    "问诊": {
+      "问诊": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675660473859
         }
       }
     }
