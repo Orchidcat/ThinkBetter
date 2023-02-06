@@ -31,6 +31,7 @@ path does not include Templates
 	- [[Tools]]
 	- [[写点儿啥]]
 	- [[外语]]
+	- [[@MOC中医|中医]]
 
 
 
