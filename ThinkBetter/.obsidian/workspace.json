@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "大小青龙汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "麻黄汤.md"
+                "file": "大小青龙汤.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "麻黄汤.md",
+                "file": "大小青龙汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "麻黄汤.md",
+                "file": "大小青龙汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9e89bb9853c38ba6",
+  "active": "1c8be990b8dfbc9f",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
     "麻黄汤.md",
