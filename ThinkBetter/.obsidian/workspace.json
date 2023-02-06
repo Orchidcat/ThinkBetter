@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "中医诊断学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +232,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "14b12958995ffee9",
+  "active": "bb36b94516ecd051",
   "lastOpenFiles": [
-    "中医诊断学.md",
     "zy-总论.md",
+    "中医诊断学.md",
     "黄帝内经.md",
     "中医/@MOC中医.md",
     "+Home.md",
