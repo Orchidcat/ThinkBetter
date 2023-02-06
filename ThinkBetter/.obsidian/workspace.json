@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb36b94516ecd051",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "黄帝内经.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +211,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "14b12958995ffee9",
+  "active": "bb36b94516ecd051",
   "lastOpenFiles": [
+    "黄帝内经.md",
     "中医/@MOC中医.md",
     "+Home.md",
     "外语.md",
@@ -217,7 +222,6 @@
     "zy-总论.md",
     "三问头身.md",
     "一问寒热.md",
-    "二问汗.md",
-    "zy-诊断学.md"
+    "二问汗.md"
   ]
 }
