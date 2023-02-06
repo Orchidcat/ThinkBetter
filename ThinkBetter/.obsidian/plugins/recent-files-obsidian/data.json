@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "常用8种治法",
+      "path": "常用8种治法.md"
+    },
+    {
       "basename": "方剂学",
       "path": "方剂学.md"
+    },
+    {
+      "basename": "zy-总论",
+      "path": "zy-总论.md"
     },
     {
       "basename": "黄帝内经",
@@ -11,10 +19,6 @@
     {
       "basename": "@MOC中医",
       "path": "中医/@MOC中医.md"
-    },
-    {
-      "basename": "zy-总论",
-      "path": "zy-总论.md"
     },
     {
       "basename": "中医诊断学",
@@ -195,10 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "项目 MOC.md"
-    },
-    {
-      "basename": "神农本草经",
-      "path": "神农本草经.md"
     }
   ],
   "omittedPaths": [],
