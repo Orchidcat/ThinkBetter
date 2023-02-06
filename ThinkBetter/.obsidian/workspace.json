@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d85dd8b6ca9cf952",
+        "id": "1a8441286b1f1b47",
         "type": "tabs",
-        "dimension": 31.360946745562128,
         "children": [
           {
-            "id": "6d44025369196891",
+            "id": "136b7b0da88961df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cd68a3a6dff4aead",
-        "type": "tabs",
-        "dimension": 68.63905325443787,
-        "children": [
-          {
-            "id": "bd196b28da03ffce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zy-总论.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zy-总论.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -150,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zy-总论.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zy-总论.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,12 +196,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "bd196b28da03ffce",
+  "active": "136b7b0da88961df",
   "lastOpenFiles": [
+    "中医诊断学.md",
+    "zy-总论.md",
     "三问头身.md",
     "一问寒热.md",
-    "zy-总论.md",
-    "中医诊断学.md",
     "二问汗.md",
     "zy-诊断学.md",
     "未命名.canvas",
