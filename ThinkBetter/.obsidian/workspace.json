@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "zy-总论.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zy-诊断学.md"
+                "file": "zy-总论.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "zy-总论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "zy-总论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,10 @@
   },
   "active": "bd196b28da03ffce",
   "lastOpenFiles": [
+    "zy-诊断学.md",
     "二问汗.md",
     "中医诊断学.md",
     "一问寒热.md",
-    "zy-诊断学.md",
     "未命名.canvas",
     "+Home.md",
     "未命名 1.md",

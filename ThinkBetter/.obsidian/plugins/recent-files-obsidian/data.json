@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "zy-总论",
+      "path": "zy-总论.md"
+    },
+    {
       "basename": "zy-诊断学",
       "path": "zy-诊断学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "烊化",
       "path": "烊化.md"
-    },
-    {
-      "basename": "另煎",
-      "path": "另煎.md"
     }
   ],
   "omittedPaths": [],
