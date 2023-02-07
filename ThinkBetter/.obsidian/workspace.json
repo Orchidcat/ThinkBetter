@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53ac0f6f53eeec1f",
+        "id": "320f35fff023b65a",
         "type": "tabs",
         "children": [
           {
-            "id": "609aed207a117778",
+            "id": "3c57b6dbd6857183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外语.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b4ceb7cdae4ae0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "词缀.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "词缀.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "词缀.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词缀.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
@@ -208,7 +194,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2b4ceb7cdae4ae0f",
+  "active": "3c57b6dbd6857183",
   "lastOpenFiles": [
     "com-.md",
     "Sources/Pasted image 20230207104724.png",
