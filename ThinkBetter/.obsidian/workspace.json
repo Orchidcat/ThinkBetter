@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词缀.md",
+                "file": "com-.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "词缀.md"
+                "file": "com-.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "词缀.md",
+                "file": "com-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词缀.md",
+                "file": "com-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,15 +210,15 @@
   },
   "active": "2b4ceb7cdae4ae0f",
   "lastOpenFiles": [
+    "Sources/Pasted image 20230207104724.png",
+    "com-.md",
+    "词缀.md",
     "外语.md",
     "+Home.md",
     "中医/药/解表剂.md",
     "桂枝汤.md",
     "方剂学.md",
     "营卫之气.md",
-    "麻黄汤.md",
-    "大小青龙汤.md",
-    "药量加减.md",
-    "药味加减.md"
+    "麻黄汤.md"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "com-",
+      "path": "com-.md"
+    },
+    {
       "basename": "词缀",
       "path": "词缀.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "目标 MOC",
       "path": "目标 MOC.md"
-    },
-    {
-      "basename": "防止忘记",
-      "path": "防止忘记.md"
     }
   ],
   "omittedPaths": [],
