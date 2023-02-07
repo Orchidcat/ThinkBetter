@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "外语.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b4ceb7cdae4ae0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "词缀.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "词缀.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "词缀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "词缀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +208,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "609aed207a117778",
+  "active": "2b4ceb7cdae4ae0f",
   "lastOpenFiles": [
+    "外语.md",
+    "+Home.md",
     "中医/药/解表剂.md",
     "桂枝汤.md",
     "方剂学.md",
@@ -204,8 +219,6 @@
     "麻黄汤.md",
     "大小青龙汤.md",
     "药量加减.md",
-    "药味加减.md",
-    "君臣佐使.md",
-    "半固体型.md"
+    "药味加减.md"
   ]
 }

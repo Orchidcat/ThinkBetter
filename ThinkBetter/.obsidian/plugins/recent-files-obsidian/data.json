@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "词缀",
+      "path": "词缀.md"
+    },
+    {
+      "basename": "外语",
+      "path": "外语.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
-    },
-    {
-      "basename": "外语",
-      "path": "外语.md"
     },
     {
       "basename": "三问头身",
@@ -195,10 +199,6 @@
     {
       "basename": "防止忘记",
       "path": "防止忘记.md"
-    },
-    {
-      "basename": "理查德·费曼传",
-      "path": "理查德·费曼传.md"
     }
   ],
   "omittedPaths": [],
