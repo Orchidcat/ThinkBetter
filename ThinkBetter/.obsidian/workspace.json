@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b6ed4f99babdb9",
+        "id": "53ac0f6f53eeec1f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce92ea61bf8bb02",
+            "id": "609aed207a117778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方剂学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c8be990b8dfbc9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "九味羌活汤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e89bb9853c38ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "麻黄汤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93dae7e9f6c6426d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "药味加减.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31d51f8ca2dc15c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "半固体型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950101e9d528d2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常用8种治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "662df713b713043f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zy-总论.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "九味羌活汤.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -202,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "九味羌活汤.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "九味羌活汤.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +195,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1c8be990b8dfbc9f",
+  "active": "609aed207a117778",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
     "桂枝汤.md",
