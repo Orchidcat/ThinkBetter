@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "麻黄杏仁甘草石膏汤.md",
+                "file": "柴葛解肌汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "麻黄杏仁甘草石膏汤.md"
+                "file": "柴葛解肌汤.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "麻黄杏仁甘草石膏汤.md",
+                "file": "柴葛解肌汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "麻黄杏仁甘草石膏汤.md",
+                "file": "柴葛解肌汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +211,7 @@
   "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
+    "麻黄杏仁甘草石膏汤.md",
     "银翘散.md",
     "桑菊饮.md",
     "止嗽散.md",
@@ -218,7 +219,6 @@
     "香苏散.md",
     "九味羌活汤.md",
     "SQL Server MOC.md",
-    "SQL Server is terminating because of fatal exception 80000003..md",
-    "+Home.md"
+    "SQL Server is terminating because of fatal exception 80000003..md"
   ]
 }
