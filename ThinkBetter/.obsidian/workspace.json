@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c57b6dbd6857183",
+            "id": "65b0adc389be6fd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Server MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6f3534e2c2ad79f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Server is terminating because of fatal exception 80000003..md",
+                "file": "中医/药/解表剂.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Server is terminating because of fatal exception 80000003..md"
+                "file": "中医/药/解表剂.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Server is terminating because of fatal exception 80000003..md",
+                "file": "中医/药/解表剂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Server is terminating because of fatal exception 80000003..md",
+                "file": "中医/药/解表剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,9 +195,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a6f3534e2c2ad79f",
+  "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
     "SQL Server MOC.md",
+    "SQL Server is terminating because of fatal exception 80000003..md",
     "+Home.md",
     "com-.md",
     "Sources/Pasted image 20230207104724.png",
@@ -218,7 +206,6 @@
     "外语.md",
     "中医/药/解表剂.md",
     "桂枝汤.md",
-    "方剂学.md",
-    "营卫之气.md"
+    "方剂学.md"
   ]
 }

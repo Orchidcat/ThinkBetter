@@ -1,6 +1,6 @@
 #SQLServer/2008 #SQLServer/Error
 
-
+sql server 服务异常终止。
 
 SQL Server is terminating because of fatal exception 80000003. This error may be caused by an unhandled Win32 or C++ exception, or by an access violation encountered during exception handling. Check the SQL error log for any related stack dumps or messages. This exception forces SQL Server to shutdown. To recover from this error, restart the server (unless SQLAgent is configured to auto restart).
 
