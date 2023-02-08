@@ -5,6 +5,10 @@
       "path": "中医/药/解表剂.md"
     },
     {
+      "basename": "银翘散",
+      "path": "银翘散.md"
+    },
+    {
       "basename": "止嗽散",
       "path": "止嗽散.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "基本Q",
       "path": "基本Q.md"
-    },
-    {
-      "basename": "生命是什么",
-      "path": "生命是什么.md"
     }
   ],
   "omittedPaths": [],

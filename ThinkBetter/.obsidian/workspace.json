@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2478538c158b04a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "银翘散.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -198,15 +210,15 @@
   },
   "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
-    "止嗽散.md",
+    "银翘散.md",
     "中医/药/解表剂.md",
+    "止嗽散.md",
     "大小青龙汤.md",
     "香苏散.md",
     "九味羌活汤.md",
     "SQL Server MOC.md",
     "SQL Server is terminating because of fatal exception 80000003..md",
     "+Home.md",
-    "com-.md",
-    "Sources/Pasted image 20230207104724.png"
+    "com-.md"
   ]
 }
