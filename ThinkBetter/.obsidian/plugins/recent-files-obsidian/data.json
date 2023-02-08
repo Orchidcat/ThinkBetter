@@ -5,6 +5,10 @@
       "path": "YEAR MOC⌛.md"
     },
     {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
       "basename": "2023-W06",
       "path": "DailyNotes/2023-W06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "蚕丝-钱学森传",
       "path": "蚕丝-钱学森传.md"
-    },
-    {
-      "basename": "愿望清单 MOC",
-      "path": "愿望清单 MOC.md"
     }
   ],
   "omittedPaths": [],

@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d666ba47115a5d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workbench.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -196,6 +208,8 @@
   },
   "active": "6e6b5840357df104",
   "lastOpenFiles": [
+    "Workbench.md",
+    "YEAR MOC⌛.md",
     "DailyNotes/2023-W06.md",
     "桑菊饮.md",
     "柴葛解肌汤.md",
@@ -203,8 +217,6 @@
     "麻黄杏仁甘草石膏汤.md",
     "银翘散.md",
     "止嗽散.md",
-    "大小青龙汤.md",
-    "香苏散.md",
-    "九味羌活汤.md"
+    "大小青龙汤.md"
   ]
 }
