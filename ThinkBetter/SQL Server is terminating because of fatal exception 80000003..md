@@ -22,4 +22,4 @@ error log中有对应的信息
 ![[Pasted image 20230208083511.png]]
 
 
-- 
+- [2个异步进程同时运行上述查询引起的。由于在执行查询的表中有一个触发器，它的执行引发了异常，然后停止了 SQLServer 服务。我通过序列化查询执行来解决它。](https://stackoverflow.com/questions/66437345/sql-server-service-stopped-unexpectedly-event-id-17310-and-17311)
