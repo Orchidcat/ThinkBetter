@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "香苏散.md",
+                "file": "大小青龙汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "香苏散.md"
+                "file": "大小青龙汤.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "香苏散.md",
+                "file": "大小青龙汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "香苏散.md",
+                "file": "大小青龙汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,9 +196,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
+    "香苏散.md",
     "九味羌活汤.md",
     "SQL Server MOC.md",
     "SQL Server is terminating because of fatal exception 80000003..md",
@@ -206,7 +207,6 @@
     "com-.md",
     "Sources/Pasted image 20230207104724.png",
     "词缀.md",
-    "外语.md",
-    "桂枝汤.md"
+    "外语.md"
   ]
 }
