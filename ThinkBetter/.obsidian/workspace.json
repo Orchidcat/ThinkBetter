@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "SQL Server is terminating because of fatal exception 80000003..md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -204,7 +204,8 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "a6f3534e2c2ad79f",
