@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "止嗽散.md",
+                "file": "中医/药/解表剂.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "止嗽散.md"
+                "file": "中医/药/解表剂.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "止嗽散.md",
+                "file": "中医/药/解表剂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "止嗽散.md",
+                "file": "中医/药/解表剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +198,7 @@
   },
   "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
+    "止嗽散.md",
     "中医/药/解表剂.md",
     "大小青龙汤.md",
     "香苏散.md",
@@ -206,7 +207,6 @@
     "SQL Server is terminating because of fatal exception 80000003..md",
     "+Home.md",
     "com-.md",
-    "Sources/Pasted image 20230207104724.png",
-    "词缀.md"
+    "Sources/Pasted image 20230207104724.png"
   ]
 }
