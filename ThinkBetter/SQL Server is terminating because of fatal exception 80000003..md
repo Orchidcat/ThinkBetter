@@ -18,3 +18,5 @@ SQL Server is terminating because of fatal exception 80000003. This error may be
 
 #### 参考
 查看文件路径：SQL Server Configuration Manager -  properties - Advanced - dump directory
+error log中有对应的信息
+![[Pasted image 20230208083511.png]]
