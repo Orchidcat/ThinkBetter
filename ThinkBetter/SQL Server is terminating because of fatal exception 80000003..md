@@ -10,4 +10,7 @@ SQL Server is terminating because of fatal exception 80000003. This error may be
 
 排查方向：
 1. 第三方模块的作用。
-   
+   SELECT * FROM sys.dm_os_loaded_modules WHERE company <> 'Microsoft Corporation';
+   GO
+2. 第三方驱动程序的链接服务器，以及可以在 SQL Server 中加载的任何其他 DLL
+
