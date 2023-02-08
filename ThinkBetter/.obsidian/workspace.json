@@ -11,8 +11,12 @@
             "id": "6e6b5840357df104",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "YEAR MOC⌛.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,13 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.01103591918945,
-    "collapsed": true
+    "width": 237.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -115,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "YEAR MOC⌛.md"
+              }
             }
           },
           {
@@ -124,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "YEAR MOC⌛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YEAR MOC⌛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
