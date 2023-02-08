@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "2478538c158b04a1",
+            "id": "d6e54f501f628d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "银翘散.md",
+                "file": "桑菊饮.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "银翘散.md"
+                "file": "桑菊饮.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "银翘散.md",
+                "file": "桑菊饮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "银翘散.md",
+                "file": "桑菊饮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2478538c158b04a1",
+  "active": "d6e54f501f628d7b",
   "lastOpenFiles": [
     "中医/药/解表剂.md",
     "银翘散.md",
