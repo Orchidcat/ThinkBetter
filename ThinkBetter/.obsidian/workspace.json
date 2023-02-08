@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/药/解表剂.md"
+                "file": "银翘散.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "银翘散.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "银翘散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,10 +209,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "65b0adc389be6fd7",
+  "active": "2478538c158b04a1",
   "lastOpenFiles": [
-    "银翘散.md",
     "中医/药/解表剂.md",
+    "银翘散.md",
     "止嗽散.md",
     "大小青龙汤.md",
     "香苏散.md",
