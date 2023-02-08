@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "320f35fff023b65a",
+        "id": "0159be7c10824e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e54f501f628d7b",
+            "id": "6e6b5840357df104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "桑菊饮.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -119,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "桑菊饮.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桑菊饮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桑菊饮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,14 +188,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d6e54f501f628d7b",
+  "active": "6e6b5840357df104",
   "lastOpenFiles": [
     "DailyNotes/2023-W06.md",
+    "桑菊饮.md",
     "柴葛解肌汤.md",
     "中医/药/解表剂.md",
     "麻黄杏仁甘草石膏汤.md",
     "银翘散.md",
-    "桑菊饮.md",
     "止嗽散.md",
     "大小青龙汤.md",
     "香苏散.md",

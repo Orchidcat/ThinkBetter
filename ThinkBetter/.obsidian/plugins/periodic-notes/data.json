@@ -26,6 +26,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   }
 }
