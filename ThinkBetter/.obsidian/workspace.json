@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "麻黄杏仁甘草石膏汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/药/解表剂.md"
+                "file": "麻黄杏仁甘草石膏汤.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "麻黄杏仁甘草石膏汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "麻黄杏仁甘草石膏汤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +210,8 @@
   },
   "active": "65b0adc389be6fd7",
   "lastOpenFiles": [
-    "银翘散.md",
     "中医/药/解表剂.md",
+    "银翘散.md",
     "桑菊饮.md",
     "止嗽散.md",
     "大小青龙汤.md",
