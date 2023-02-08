@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0159be7c10824e8e",
+        "id": "279903f4702ca075",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6b5840357df104",
+            "id": "510d596548985af6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YEAR MOC⌛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d666ba47115a5d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workbench.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.01103591918945
+    "width": 237.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -129,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YEAR MOC⌛.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YEAR MOC⌛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YEAR MOC⌛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +187,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6e6b5840357df104",
+  "active": "510d596548985af6",
   "lastOpenFiles": [
-    "Workbench.md",
     "YEAR MOC⌛.md",
+    "Workbench.md",
     "DailyNotes/2023-W06.md",
     "桑菊饮.md",
     "柴葛解肌汤.md",
