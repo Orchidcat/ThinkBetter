@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "SQL Server is terminating because of fatal exception 80000003.",
       "path": "SQL Server is terminating because of fatal exception 80000003..md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "词缀",
