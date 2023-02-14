@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "204bac4325f2239a",
+        "id": "1f3b9cf2988ad98d",
         "type": "tabs",
         "children": [
           {
-            "id": "8da06bb9aaa38001",
+            "id": "471e04a2a75acc14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
@@ -195,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8da06bb9aaa38001",
+  "active": "471e04a2a75acc14",
   "lastOpenFiles": [
     "YEAR MOC⌛.md",
     "Workbench.md",
