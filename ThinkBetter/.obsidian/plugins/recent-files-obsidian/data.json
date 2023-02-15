@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023",
+      "path": "2023.md"
+    },
+    {
       "basename": "2023-W07",
       "path": "DailyNotes/2023-W07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Anki 高级设置",
       "path": "Anki 高级设置.md"
-    },
-    {
-      "basename": "胸痹心痛短气病脉症并治第九",
-      "path": "胸痹心痛短气病脉症并治第九.md"
     }
   ],
   "omittedPaths": [],
