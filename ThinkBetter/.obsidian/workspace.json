@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "DailyNotes/2023-W07.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 33.286318758815234,
+        "dimension": 52.038369304556355,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -46,7 +46,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 66.71368124118476,
+        "dimension": 47.961630695443645,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.01103591918945,
-    "collapsed": true
+    "width": 429.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "DailyNotes/2023-W07.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "DailyNotes/2023-W07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "DailyNotes/2023-W07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +197,7 @@
   },
   "active": "e41bcf476fcf30c6",
   "lastOpenFiles": [
+    "+Home.md",
     "YEAR MOC⌛.md",
     "Workbench.md",
     "DailyNotes/2023-W06.md",
@@ -206,7 +206,6 @@
     "中医/药/解表剂.md",
     "麻黄杏仁甘草石膏汤.md",
     "银翘散.md",
-    "止嗽散.md",
-    "大小青龙汤.md"
+    "止嗽散.md"
   ]
 }
