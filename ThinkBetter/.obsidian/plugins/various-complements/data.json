@@ -47,54 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "法则": {
-      "法则": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1673225872196
-        }
-      }
-    },
-    "回馈": {
-      "回馈": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673232253241
-        }
-      }
-    },
-    "时间": {
-      "时间": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673241783729
-        }
-      }
-    },
-    "计划": {
-      "计划": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673241815418
-        }
-      }
-    },
-    "png": {
-      "png": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673855731597
-        }
-      }
-    },
-    "Stack": {
-      "Stack": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673858115731
-        }
-      }
-    },
     "青色": {
       "青色": {
         "currentFile": {
@@ -164,6 +116,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1675836026203
+        }
+      }
+    },
+    "目标": {
+      "目标": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677043419352
         }
       }
     }
