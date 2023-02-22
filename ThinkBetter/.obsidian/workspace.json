@@ -4,28 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0721226fab634a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "超速学习.md",
-            "mode": "source",
-            "source": false
+        "id": "a7bdff05f05e62c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b456b71f7cd88c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "2d56d18dd7f7a681",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "掌控习惯.md",
-            "mode": "source",
-            "source": false
-          }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -135,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "读书 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,17 +196,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2d56d18dd7f7a681",
+  "active": "0b456b71f7cd88c3",
   "lastOpenFiles": [
+    "+Home.md",
+    "掌控习惯.md",
     "超速学习.md",
     "读书 MOC.md",
     "蚕丝-钱学森传.md",
-    "+Home.md",
     "事件timing.md",
     "DailyNotes/2023-W07.md",
     "2023.md",
     "YEAR MOC⌛.md",
-    "Workbench.md",
-    "DailyNotes/2023-W06.md"
+    "Workbench.md"
   ]
 }
