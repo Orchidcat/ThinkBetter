@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b624febf5c63d259",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6cb19ab3452fa3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "f0721226fab634a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "+Home.md",
+            "mode": "source",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -196,7 +190,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "f0721226fab634a6",
   "lastOpenFiles": [
     "+Home.md",
     "事件timing.md",
