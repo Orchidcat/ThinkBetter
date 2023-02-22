@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "掌控习惯",
+      "path": "掌控习惯.md"
+    },
+    {
+      "basename": "超速学习",
+      "path": "超速学习.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -173,14 +185,6 @@
       "path": "FC_基础理论.md"
     },
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "超速学习.md"
-    },
-    {
       "basename": "第一性原理",
       "path": "第一性原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习高手",
       "path": "学习高手.md"
-    },
-    {
-      "basename": "美国华人史",
-      "path": "美国华人史.md"
     }
   ],
   "omittedPaths": [],

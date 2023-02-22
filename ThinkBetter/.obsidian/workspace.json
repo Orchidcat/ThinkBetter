@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Home.md",
+            "file": "超速学习.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2d56d18dd7f7a681",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "掌控习惯.md",
             "mode": "source",
             "source": false
           }
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "掌控习惯.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "掌控习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "掌控习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +202,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f0721226fab634a6",
+  "active": "2d56d18dd7f7a681",
   "lastOpenFiles": [
+    "超速学习.md",
+    "读书 MOC.md",
+    "蚕丝-钱学森传.md",
     "+Home.md",
     "事件timing.md",
     "DailyNotes/2023-W07.md",
     "2023.md",
     "YEAR MOC⌛.md",
     "Workbench.md",
-    "DailyNotes/2023-W06.md",
-    "桑菊饮.md",
-    "柴葛解肌汤.md",
-    "中医/药/解表剂.md"
+    "DailyNotes/2023-W06.md"
   ]
 }
