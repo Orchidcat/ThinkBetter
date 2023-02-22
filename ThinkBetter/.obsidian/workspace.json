@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "掌控习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "掌控习惯.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "掌控习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "掌控习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,12 +197,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0b456b71f7cd88c3",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "+Home.md",
     "掌控习惯.md",
     "超速学习.md",
-    "读书 MOC.md",
     "蚕丝-钱学森传.md",
     "事件timing.md",
     "DailyNotes/2023-W07.md",
