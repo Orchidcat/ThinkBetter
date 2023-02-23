@@ -5,6 +5,10 @@
       "path": "掌控习惯.md"
     },
     {
+      "basename": "拖延",
+      "path": "拖延.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
     }
   ],
   "omittedPaths": [],
