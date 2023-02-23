@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "掌控习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "掌控习惯.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "掌控习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "掌控习惯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +198,10 @@
   },
   "active": "75377c8fcc04d542",
   "lastOpenFiles": [
+    "+Home.md",
     "吸引力.md",
     "掌控习惯.md",
     "一句话的玩味.md",
-    "+Home.md",
     "读书 MOC.md",
     "超速学习.md",
     "蚕丝-钱学森传.md",
