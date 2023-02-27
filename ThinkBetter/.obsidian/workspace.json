@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce327679895cb58a",
+        "id": "0b61f5f8427caca9",
         "type": "tabs",
         "children": [
           {
-            "id": "75377c8fcc04d542",
+            "id": "71e65682559dc1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌控习惯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b83bc7854f9cf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "拖延.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "935701967f79371d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -154,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "75377c8fcc04d542",
+  "active": "71e65682559dc1f0",
   "lastOpenFiles": [
     "一句话的玩味.md",
     "+Home.md",
