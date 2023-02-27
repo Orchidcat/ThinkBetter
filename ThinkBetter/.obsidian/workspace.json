@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80fa1fe5d58cd247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "养育男孩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "养育男孩.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "养育男孩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "养育男孩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +209,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "71e65682559dc1f0",
+  "active": "80fa1fe5d58cd247",
   "lastOpenFiles": [
+    "掌控习惯.md",
     "+Home.md",
     "一句话的玩味.md",
-    "掌控习惯.md",
     "拖延.md",
     "吸引力.md",
     "读书 MOC.md",
