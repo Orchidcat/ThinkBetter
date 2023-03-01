@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "人性的弱点",
+      "path": "人性的弱点.md"
     },
     {
       "basename": "掌控习惯",
       "path": "掌控习惯.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "2023-02-28",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     }
   ],
   "omittedPaths": [],
