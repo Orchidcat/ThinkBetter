@@ -7,7 +7,7 @@ endDate:
 rating: 
 ---
 
-1. 搜索
+- 加载class类之前，就需要加载超类java.lang.Object
 
 
 
