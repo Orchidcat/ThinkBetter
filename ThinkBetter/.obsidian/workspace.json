@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9402c78c26548cc",
+        "id": "e4925fe3576d28ce",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0c61bf464cb476",
+            "id": "05529198ef6cc655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "掌控习惯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "682e2f039e49c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人性的弱点.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人性的弱点.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人性的弱点.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人性的弱点.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
@@ -209,7 +197,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "682e2f039e49c24a",
+  "active": "05529198ef6cc655",
   "lastOpenFiles": [
     "掌控习惯.md",
     "+Home.md",
