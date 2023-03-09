@@ -7,7 +7,7 @@ endDate:
 rating: 
 ---
 
-- 加载class类之前，就需要加载超类java.lang.Object
+- 加载class类之前，就需要加载超类`java.lang.Object`, 在调用main之前需要先读取参数组，就需要加载java.lang.String和java.lang.String[]
 
 
 
