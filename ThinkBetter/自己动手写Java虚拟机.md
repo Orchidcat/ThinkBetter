@@ -12,7 +12,7 @@ rating:
 	- 打印到控制台需要加载`java.lang.System`
 	- 启动类路径 `jre\lib`, java标准库在这个路径，大部分在 rt.jar中 
 	- 扩展类路径 `jre\lib\ext`  自己实现的类，或者第三方类库路径，可通过`-Xbootclasspath`进行修改
-	- 用户类路径`CLASSPATH` 也就是`.`
+	- 用户类路径`CLASSPATH` 也就是`.`，也就是环境变量；通常使用java命令 -classpath(-cp)来修改
 
 
 
