@@ -7,6 +7,9 @@ endDate:
 rating: 
 ---
 
+[[自己动手写Java虚拟机]]
+
+
 #java/jvm
 ![[Pasted image 20230309095702.png]]
 Java自动内存管理
