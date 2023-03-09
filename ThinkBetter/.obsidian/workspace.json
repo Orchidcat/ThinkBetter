@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "人性的弱点.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人性的弱点.md"
+                "file": "深入理解Java虚拟机.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人性的弱点.md",
+                "file": "深入理解Java虚拟机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人性的弱点.md",
+                "file": "深入理解Java虚拟机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,8 +222,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bf98adce3f7424ad",
+  "active": "c63d95b85ec3bef5",
   "lastOpenFiles": [
+    "人性的弱点.md",
     "读书 MOC.md",
     "深入理解Java虚拟机.md",
     "张纯如 - 无法忘记历史的女子.md",
@@ -231,7 +233,6 @@
     "掌控习惯.md",
     "DailyNotes/2023-02-28.md",
     "一句话的玩味.md",
-    "拖延.md",
-    "吸引力.md"
+    "拖延.md"
   ]
 }
