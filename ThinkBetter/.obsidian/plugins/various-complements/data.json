@@ -47,54 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "青色": {
-      "青色": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675233152790
-        }
-      }
-    },
-    "气虚": {
-      "气虚": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675239198180
-        }
-      }
-    },
-    "问诊": {
-      "问诊": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675660473859
-        }
-      }
-    },
-    "八纲辨证": {
-      "八纲辨证": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675664669650
-        }
-      }
-    },
-    "营卫之气": {
-      "营卫之气": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675671691499
-        }
-      }
-    },
-    "方剂学": {
-      "方剂学": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675671858418
-        }
-      }
-    },
     "参考左侧列": {
       "参考左侧列": {
         "internalLink": {
@@ -228,6 +180,14 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1677652562424
+        }
+      }
+    },
+    "java": {
+      "java": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678332961998
         }
       }
     }
