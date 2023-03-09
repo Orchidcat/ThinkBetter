@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63d95b85ec3bef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深入理解Java虚拟机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5bd9e60e1865c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "掌控习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "人性的弱点.md"
               }
             }
           },
@@ -130,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "人性的弱点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "人性的弱点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +221,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "05529198ef6cc655",
+  "active": "bf98adce3f7424ad",
   "lastOpenFiles": [
-    "掌控习惯.md",
+    "读书 MOC.md",
+    "深入理解Java虚拟机.md",
+    "张纯如 - 无法忘记历史的女子.md",
+    "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
+    "掌控习惯.md",
     "DailyNotes/2023-02-28.md",
     "一句话的玩味.md",
     "拖延.md",
-    "吸引力.md",
-    "读书 MOC.md",
-    "超速学习.md",
-    "蚕丝-钱学森传.md",
-    "事件timing.md"
+    "吸引力.md"
   ]
 }
