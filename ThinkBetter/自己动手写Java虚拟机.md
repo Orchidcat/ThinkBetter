@@ -31,7 +31,8 @@ rating:
 
 
 ### ch04
-实现
+实现运行时数据区（run-time data area）
+
 
 
 
