@@ -37,6 +37,8 @@ rating:
 		- 类数据 - 存放在 方法区（Method Area）
 		- 类实例 - 存放在 堆（Heap）
 	- 线程私有区，线程启动时创建，退出时销毁 
+		- 各自的PC寄存器（Program Counter)
+		- 各自的虚拟机栈（JVM Stack）
 
 
 
