@@ -21,7 +21,7 @@ rating:
 - oracle 提供了[标准的classfile结构](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html)
 	- 魔数 
 	- 版本号
-	- 类访问标志（区分私有
+	- 类访问标志（区分私有共有，类还是接口等）
 🧰 javap 可以反编译class文件，查看内容。
 
 
