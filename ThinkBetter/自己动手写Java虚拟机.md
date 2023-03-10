@@ -39,6 +39,7 @@ rating:
 	- 线程私有区，线程启动时创建，退出时销毁 
 		- 各自的PC寄存器（Program Counter)
 		- 各自的虚拟机栈（JVM Stack）
+			- 栈帧（Stack Frame）构成，帧中保存方法的执行状态（局部变量表（Local Variable）和操作数栈（
 
 
 
