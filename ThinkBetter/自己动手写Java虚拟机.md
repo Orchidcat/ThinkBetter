@@ -8,6 +8,7 @@ rating:
 ---
 
 ### ch02
+如何搜索class文件
 - 加载class类之前，就需要加载超类`java.lang.Object`, 
 	- 在调用main之前需要先读取参数组，就需要加载`java.lang.String和java.lang.String[]`;
 	- 打印到控制台需要加载`java.lang.System`
@@ -15,7 +16,9 @@ rating:
 	- 扩展类路径 `jre\lib\ext`  自己实现的类，或者第三方类库路径，可通过`-Xbootclasspath`进行修改
 	- 用户类路径`CLASSPATH` 也就是`.`，也就是环境变量；通常使用java命令 -classpath(-cp)来修改
 
-
+### ch03
+如何解析class文件 
+- 
 
 
 

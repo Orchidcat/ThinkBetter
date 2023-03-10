@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "参考左侧列": {
-      "参考左侧列": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675816084432
-        }
-      }
-    },
     "有效思考的关键要素": {
       "有效思考的关键要素": {
         "internalLink": {
@@ -196,6 +188,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1678333006903
+        }
+      }
+    },
+    "文件": {
+      "文件": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1678408196201
         }
       }
     }
