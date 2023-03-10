@@ -32,7 +32,8 @@ rating:
 
 ### ch04
 实现运行时数据区（run-time data area）
-
+- 内存区域 = 运行时数据区 
+	- 
 
 
 
