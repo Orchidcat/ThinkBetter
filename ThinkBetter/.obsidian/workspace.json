@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4925fe3576d28ce",
+        "id": "fc1af961e050e0cf",
         "type": "tabs",
         "children": [
           {
-            "id": "05529198ef6cc655",
+            "id": "b4c8b9e73848cb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人性的弱点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c63d95b85ec3bef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深入理解Java虚拟机.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "450e0e43df499975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自己动手写Java虚拟机.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5bd9e60e1865c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "掌控习惯.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自己动手写Java虚拟机.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -167,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自己动手写Java虚拟机.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自己动手写Java虚拟机.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,16 +198,16 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "450e0e43df499975",
+  "active": "b4c8b9e73848cb91",
   "lastOpenFiles": [
     "深入理解Java虚拟机.md",
+    "掌控习惯.md",
     "自己动手写Java虚拟机.md",
     "人性的弱点.md",
     "读书 MOC.md",
     "张纯如 - 无法忘记历史的女子.md",
     "真正的天才：约翰·巴丁的生平与学术.md",
     "+Home.md",
-    "掌控习惯.md",
     "DailyNotes/2023-02-28.md",
     "一句话的玩味.md"
   ]
