@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "外语.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外语.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "外语.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "外语.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,15 +199,15 @@
   },
   "active": "8a104cc7084c3d32",
   "lastOpenFiles": [
+    "写点儿啥.md",
+    "张纯如 - 无法忘记历史的女子.md",
     "+Home.md",
+    "外语.md",
     "读书 MOC.md",
     "自己动手写Java虚拟机.md",
     "深入理解Java虚拟机.md",
     "掌控习惯.md",
     "人性的弱点.md",
-    "张纯如 - 无法忘记历史的女子.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "DailyNotes/2023-02-28.md",
-    "一句话的玩味.md"
+    "真正的天才：约翰·巴丁的生平与学术.md"
   ]
 }

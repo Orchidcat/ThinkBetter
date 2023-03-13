@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "外语",
-      "path": "外语.md"
-    },
-    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "写点儿啥.md"
+    },
+    {
+      "basename": "张纯如 - 无法忘记历史的女子",
+      "path": "张纯如 - 无法忘记历史的女子.md"
+    },
+    {
+      "basename": "外语",
+      "path": "外语.md"
     },
     {
       "basename": "读书 MOC",
@@ -191,14 +199,6 @@
     {
       "basename": "三问头身",
       "path": "三问头身.md"
-    },
-    {
-      "basename": "一问寒热",
-      "path": "一问寒热.md"
-    },
-    {
-      "basename": "二问汗",
-      "path": "二问汗.md"
     }
   ],
   "omittedPaths": [],
