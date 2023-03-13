@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "词缀",
+      "path": "词缀.md"
+    },
+    {
+      "basename": "外语",
+      "path": "外语.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "张纯如 - 无法忘记历史的女子",
       "path": "张纯如 - 无法忘记历史的女子.md"
-    },
-    {
-      "basename": "外语",
-      "path": "外语.md"
     },
     {
       "basename": "读书 MOC",
@@ -139,10 +143,6 @@
     {
       "basename": "SQL Server is terminating because of fatal exception 80000003.",
       "path": "SQL Server is terminating because of fatal exception 80000003..md"
-    },
-    {
-      "basename": "词缀",
-      "path": "词缀.md"
     },
     {
       "basename": "com-",
