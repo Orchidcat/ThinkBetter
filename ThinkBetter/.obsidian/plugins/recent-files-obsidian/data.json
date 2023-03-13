@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
+      "basename": "外语",
+      "path": "外语.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
     },
     {
       "basename": "自己动手写Java虚拟机",
@@ -131,10 +135,6 @@
     {
       "basename": "com-",
       "path": "com-.md"
-    },
-    {
-      "basename": "外语",
-      "path": "外语.md"
     },
     {
       "basename": "桂枝汤",
