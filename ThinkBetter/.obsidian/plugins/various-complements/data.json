@@ -47,22 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "有效思考的关键要素": {
-      "有效思考的关键要素": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675816501569
-        }
-      }
-    },
-    "汤剂煎煮法": {
-      "汤剂煎煮法": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675836026203
-        }
-      }
-    },
     "目标": {
       "目标": {
         "currentFile": {
@@ -220,6 +204,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678409708385
+        }
+      }
+    },
+    "BB Drop": {
+      "BB Drop": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678670243153
         }
       }
     }

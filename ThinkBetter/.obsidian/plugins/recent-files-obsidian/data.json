@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "颜色的区分",
+      "path": "颜色的区分.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
-    },
-    {
-      "basename": "三问头身",
-      "path": "三问头身.md"
     }
   ],
   "omittedPaths": [],
