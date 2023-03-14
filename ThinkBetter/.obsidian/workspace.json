@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57d85c203018c590",
+        "id": "9ca5ecc5ade8ffb9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a104cc7084c3d32",
+            "id": "30d11b8f037ada4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己动手写Java虚拟机.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d75ff2918fd14e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腰背维修师，脊柱保健秘诀.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腰背维修师，脊柱保健秘诀.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "腰背维修师，脊柱保健秘诀.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腰背维修师，脊柱保健秘诀.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +197,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d75ff2918fd14e11",
+  "active": "30d11b8f037ada4e",
   "lastOpenFiles": [
     "自己动手写Java虚拟机.md",
     "读书 MOC.md",
