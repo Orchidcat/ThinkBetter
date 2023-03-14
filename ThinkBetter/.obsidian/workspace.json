@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金字塔原理.md"
+                "file": "第一性原理.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金字塔原理.md",
+                "file": "第一性原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金字塔原理.md",
+                "file": "第一性原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,8 +209,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4004746a9d1ada80",
+  "active": "30d11b8f037ada4e",
   "lastOpenFiles": [
+    "金字塔原理.md",
     "第一性原理.md",
     "张纯如 - 无法忘记历史的女子.md",
     "+Home.md",
@@ -220,7 +220,6 @@
     "词缀.md",
     "外语.md",
     "颜色的区分.md",
-    "写点儿啥.md",
-    "深入理解Java虚拟机.md"
+    "写点儿啥.md"
   ]
 }
