@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "金字塔原理",
+      "path": "金字塔原理.md"
+    },
+    {
       "basename": "第一性原理",
       "path": "第一性原理.md"
+    },
+    {
+      "basename": "张纯如 - 无法忘记历史的女子",
+      "path": "张纯如 - 无法忘记历史的女子.md"
     },
     {
       "basename": "+Home",
@@ -35,10 +43,6 @@
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "张纯如 - 无法忘记历史的女子",
-      "path": "张纯如 - 无法忘记历史的女子.md"
     },
     {
       "basename": "人性的弱点",
@@ -195,10 +199,6 @@
     {
       "basename": "常用8种治法",
       "path": "常用8种治法.md"
-    },
-    {
-      "basename": "zy-总论",
-      "path": "zy-总论.md"
     }
   ],
   "omittedPaths": [],
