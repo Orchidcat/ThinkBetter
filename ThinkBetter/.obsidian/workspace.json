@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "历史年代.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "历史年代.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "历史年代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "历史年代.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +200,10 @@
   },
   "active": "dfb6b638358ee569",
   "lastOpenFiles": [
+    "+Home.md",
     "金字塔原理.md",
     "第一性原理.md",
     "张纯如 - 无法忘记历史的女子.md",
-    "+Home.md",
     "自己动手写Java虚拟机.md",
     "读书 MOC.md",
     "词缀.md",

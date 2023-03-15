@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "历史年代",
+      "path": "历史年代.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "液体剂型",
       "path": "液体剂型.md"
-    },
-    {
-      "basename": "常用8种治法",
-      "path": "常用8种治法.md"
     }
   ],
   "omittedPaths": [],
