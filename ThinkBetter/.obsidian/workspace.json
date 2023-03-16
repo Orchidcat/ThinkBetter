@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a396e36b11016c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "年表.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfb8e3f58644861f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "秋风辞.md",
+                "file": "历史年代.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年表.md"
+                "file": "历史年代.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "年表.md",
+                "file": "历史年代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "年表.md",
+                "file": "历史年代.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,17 +197,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a396e36b11016c50",
+  "active": "bfb8e3f58644861f",
   "lastOpenFiles": [
+    "秋风辞.md",
+    "年表.md",
     "历史年代.md",
     "韩熙载夜宴图.md",
-    "秋风辞.md",
     "+Home.md",
     "金字塔原理.md",
     "第一性原理.md",
     "张纯如 - 无法忘记历史的女子.md",
     "自己动手写Java虚拟机.md",
-    "读书 MOC.md",
-    "词缀.md"
+    "读书 MOC.md"
   ]
 }
