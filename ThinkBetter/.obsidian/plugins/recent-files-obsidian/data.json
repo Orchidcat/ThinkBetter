@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "秋风辞",
+      "path": "秋风辞.md"
+    },
+    {
       "basename": "历史年代",
       "path": "历史年代.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "固体剂型",
       "path": "固体剂型.md"
-    },
-    {
-      "basename": "液体剂型",
-      "path": "液体剂型.md"
     }
   ],
   "omittedPaths": [],
