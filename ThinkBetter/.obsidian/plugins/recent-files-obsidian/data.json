@@ -5,6 +5,10 @@
       "path": "历史年代.md"
     },
     {
+      "basename": "韩熙载夜宴图",
+      "path": "韩熙载夜宴图.md"
+    },
+    {
       "basename": "秋风辞",
       "path": "秋风辞.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "半固体型",
       "path": "半固体型.md"
-    },
-    {
-      "basename": "固体剂型",
-      "path": "固体剂型.md"
     }
   ],
   "omittedPaths": [],
