@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史年代.md",
-                "mode": "preview",
+                "file": "年表.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史年代.md"
+                "file": "年表.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史年代.md",
+                "file": "年表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史年代.md",
+                "file": "年表.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +211,8 @@
   },
   "active": "a396e36b11016c50",
   "lastOpenFiles": [
-    "韩熙载夜宴图.md",
     "历史年代.md",
+    "韩熙载夜宴图.md",
     "秋风辞.md",
     "+Home.md",
     "金字塔原理.md",

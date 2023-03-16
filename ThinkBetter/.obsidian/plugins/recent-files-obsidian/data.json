@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "年表",
+      "path": "年表.md"
+    },
+    {
       "basename": "历史年代",
       "path": "历史年代.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "君臣佐使",
       "path": "君臣佐使.md"
-    },
-    {
-      "basename": "半固体型",
-      "path": "半固体型.md"
     }
   ],
   "omittedPaths": [],
