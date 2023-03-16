@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一性原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c74d66206fea44f0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfb8e3f58644861f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workbench.md",
+                "file": "历史年代.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workbench.md"
+                "file": "历史年代.md"
               }
             }
           },
@@ -148,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workbench.md",
+                "file": "历史年代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workbench.md",
+                "file": "历史年代.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +197,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bfb8e3f58644861f",
+  "active": "6f654a0136964d68",
   "lastOpenFiles": [
     "第一性原理.md",
     "Workbench.md",
