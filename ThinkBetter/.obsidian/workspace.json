@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "历史年代.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "历史年代.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "历史年代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "历史年代.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,7 @@
   },
   "active": "f290c6a812298c01",
   "lastOpenFiles": [
+    "一句话的玩味.md",
     "+Home.md",
     "第一性原理.md",
     "Workbench.md",
@@ -208,7 +209,6 @@
     "历史年代.md",
     "年表.md",
     "韩熙载夜宴图.md",
-    "张纯如 - 无法忘记历史的女子.md",
-    "自己动手写Java虚拟机.md"
+    "张纯如 - 无法忘记历史的女子.md"
   ]
 }
