@@ -106,11 +106,12 @@ public synchronized Throwable fillInStackTrace() {
 }
 ```
 
+fillInStackTrace（）是用Java写的，必须借助另外一个本地方法才能访问Java虚拟机栈，这个方法就是重载后的fillInStackTrace（int）
+```java
+private native Throwable fillInStackTrace(int dummy);
+```
 
-
-
-
-
+要想抛出异常，Java虚拟机必须实现这个本地方法.
 
 
 
