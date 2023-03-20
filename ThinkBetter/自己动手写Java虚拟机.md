@@ -93,8 +93,18 @@ Unchecked异常包括java.lang.RuntimeException、java.lang.Error以及它们的
 
 异常是通过`throw`关键字抛出。
 
-
-
+构造函数都调用了超类java.lang.Throwable的构造函数。Throwable的构造函数又调用了fillInStackTrace（）方法记录Java虚拟机栈信息
+```java
+// java.lang.Throwable
+public synchronized Throwable fillInStackTrace() {
+   if (stackTrace != null ||
+      backtrace != null /* Out of protocol state */ ) {
+      fillInStackTrace(0);
+      stackTrace = UNASSIGNED_STACK;
+   }
+   return this;
+}
+```
 
 
 
