@@ -68,8 +68,9 @@ instanceof指令判断对象是否是某个类的实例（或者对象的类是�
 
 ### ch09
 
-
 OpenJDK类库中的本地方法是用JNI(Java Native Interface)
+
+
 
 
 
