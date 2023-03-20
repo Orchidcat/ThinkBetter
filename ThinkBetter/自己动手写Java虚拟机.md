@@ -89,6 +89,9 @@ Unchecked异常包括java.lang.RuntimeException、java.lang.Error以及它们的
 所有异常都最终继承自java.lang.Throwable
 如果一个方法有可能导致Checked异常抛出，则该方法要么需要捕获该异常并妥善处理，要么必须把该异常列在自己的throws子句中，否则无法通过编译。Unchecked异常没有这个限制。
 
+异常可以由Java虚拟机抛出，也可以由Java代码抛出。
+
+
 
 
 
