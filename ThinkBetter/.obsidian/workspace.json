@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b76a3f659c65b4",
+        "id": "89e782590e7c7100",
         "type": "tabs",
         "children": [
           {
-            "id": "f290c6a812298c01",
+            "id": "7317ea631c241e4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "历史年代.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史年代.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史年代.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史年代.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f290c6a812298c01",
+  "active": "7317ea631c241e4a",
   "lastOpenFiles": [
     "一句话的玩味.md",
     "+Home.md",
