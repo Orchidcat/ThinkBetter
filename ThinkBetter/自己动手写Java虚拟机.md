@@ -83,7 +83,10 @@ OpenJDK类库中的本地方法是用JNI(Java Native Interface)
 自动拆装箱，就是为了将原始类型值自动的装换成对应的对象。
 
 
-
+### ch10
+异常可以分为两类：Checked异常和Unchecked异常
+Unchecked异常包括java.lang.RuntimeException、java.lang.Error以及它们的子类，其他异常都是Checked异常
+所有异常都最终继承自java.lang.Throwable
 
 
 
