@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "自己动手写Java虚拟机.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "自己动手写Java虚拟机.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "自己动手写Java虚拟机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "自己动手写Java虚拟机.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,8 @@
   },
   "active": "7317ea631c241e4a",
   "lastOpenFiles": [
-    "一句话的玩味.md",
     "+Home.md",
+    "一句话的玩味.md",
     "第一性原理.md",
     "Workbench.md",
     "金字塔原理.md",

@@ -45,3 +45,4 @@ rating:
 
 🧰 java提供 -Xms 和 -Xmx 选项来调整堆的初始大小和最大大小；-Xss选项来设置Java虚拟机栈大小
 
+### ch06
