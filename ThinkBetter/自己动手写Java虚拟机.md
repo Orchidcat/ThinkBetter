@@ -80,6 +80,9 @@ OpenJDK类库中的本地方法是用JNI(Java Native Interface)
 
 在Java语言中，有两种方式可以获得类对象引用：使用类字面值和调用对象的getClass（）方法。
 
+自动拆装箱，就是为了将原始类型值自动的装换成对应的对象。
+
+
 
 
 
