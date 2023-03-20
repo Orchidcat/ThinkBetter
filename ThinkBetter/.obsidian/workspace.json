@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深入理解Java虚拟机.md"
+                "file": "自己动手写Java虚拟机.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深入理解Java虚拟机.md",
+                "file": "自己动手写Java虚拟机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深入理解Java虚拟机.md",
+                "file": "自己动手写Java虚拟机.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +210,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3bd304efb4155a3a",
+  "active": "7317ea631c241e4a",
   "lastOpenFiles": [
+    "深入理解Java虚拟机.md",
     "自己动手写Java虚拟机.md",
     "+Home.md",
     "一句话的玩味.md",
@@ -221,7 +221,6 @@
     "金字塔原理.md",
     "秋风辞.md",
     "历史年代.md",
-    "年表.md",
-    "韩熙载夜宴图.md"
+    "年表.md"
   ]
 }
