@@ -91,6 +91,7 @@ Unchecked异常包括java.lang.RuntimeException、java.lang.Error以及它们的
 
 异常可以由Java虚拟机抛出，也可以由Java代码抛出。
 
+异常是通过`throw`关键字抛出。
 
 
 
