@@ -47,67 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "目标": {
-      "目标": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677043419352
-        }
-      }
-    },
-    "习惯": {
-      "习惯": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677043851267
-        }
-      }
-    },
     "人物 MOC": {
       "人物 MOC": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1677649848625
-        }
-      }
-    },
-    "看到前线": {
-      "看到前线": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677044237683
-        }
-      }
-    },
-    "行为": {
-      "行为": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677044609234
-        }
-      }
-    },
-    "环境": {
-      "环境": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677046700349
-        }
-      }
-    },
-    "拖延": {
-      "拖延": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1677121429709
-        }
-      }
-    },
-    "显而易见": {
-      "显而易见": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677130779987
         }
       }
     },
@@ -372,6 +316,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679374432063
+        }
+      }
+    },
+    "上面": {
+      "上面": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679896189281
         }
       }
     }
