@@ -23,8 +23,12 @@
             "id": "d19dfd804d3f3597",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "地理知识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -128,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "地理知识.md"
+              }
             }
           },
           {
@@ -137,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "地理知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "地理知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,14 +212,14 @@
   },
   "active": "d19dfd804d3f3597",
   "lastOpenFiles": [
+    "读书 MOC.md",
+    "+Home.md",
     "写点儿啥.md",
     "未命名 2.md",
-    "+Home.md",
     "超速学习.md",
     "历史年代.md",
     "地理知识.md",
     "深入理解Java虚拟机.md",
-    "读书 MOC.md",
     "自己动手写Java虚拟机.md",
     "一句话的玩味.md"
   ]
