@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -221,7 +222,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d19dfd804d3f3597",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "历史年代.md",
     "地理知识.md",
