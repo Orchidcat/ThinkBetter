@@ -30,26 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23f4970bbaf00af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史年代.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6748061d24b8fdf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -232,8 +212,8 @@
   },
   "active": "d19dfd804d3f3597",
   "lastOpenFiles": [
-    "地理知识.md",
     "历史年代.md",
+    "地理知识.md",
     "读书 MOC.md",
     "+Home.md",
     "写点儿啥.md",
