@@ -5,6 +5,10 @@
       "path": "地理知识.md"
     },
     {
+      "basename": "历史年代",
+      "path": "历史年代.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "超速学习",
       "path": "超速学习.md"
-    },
-    {
-      "basename": "历史年代",
-      "path": "历史年代.md"
     },
     {
       "basename": "深入理解Java虚拟机",
