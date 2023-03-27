@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "地理知识.md"
+              }
             }
           },
           {
@@ -161,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "地理知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "地理知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +230,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6748061d24b8fdf5",
+  "active": "d19dfd804d3f3597",
   "lastOpenFiles": [
     "地理知识.md",
     "历史年代.md",
