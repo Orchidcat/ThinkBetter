@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d19dfd804d3f3597",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "写点儿啥.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写点儿啥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写点儿啥.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +202,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f88c908fcbdb052c",
+  "active": "d19dfd804d3f3597",
   "lastOpenFiles": [
-    "未命名 2.md",
     "写点儿啥.md",
+    "未命名 2.md",
     "+Home.md",
     "超速学习.md",
     "历史年代.md",
