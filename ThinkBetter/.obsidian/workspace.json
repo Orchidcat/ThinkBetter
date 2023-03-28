@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da0c5abb42463a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我们现在怎样做父亲.md",
+                "file": "地理知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书 MOC.md"
+                "file": "地理知识.md"
               }
             }
           },
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "地理知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "地理知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +199,9 @@
   },
   "active": "7c7c0a1fd56cb364",
   "lastOpenFiles": [
+    "读书 MOC.md",
     "时间管理的本质.md",
     "可持续.md",
-    "读书 MOC.md",
     "我们现在怎样做父亲.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
     "+Home.md",
