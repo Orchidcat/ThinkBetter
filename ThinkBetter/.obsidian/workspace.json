@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "时间管理的本质.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da0c5abb42463a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我们现在怎样做父亲.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "我们现在怎样做父亲.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "我们现在怎样做父亲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "我们现在怎样做父亲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +210,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7c7c0a1fd56cb364",
+  "active": "2da0c5abb42463a7",
   "lastOpenFiles": [
-    "历史年代.md",
-    "地理知识.md",
+    "时间管理的本质.md",
     "读书 MOC.md",
     "+Home.md",
+    "历史年代.md",
+    "地理知识.md",
     "写点儿啥.md",
     "未命名 2.md",
     "超速学习.md",
     "深入理解Java虚拟机.md",
-    "自己动手写Java虚拟机.md",
-    "一句话的玩味.md"
+    "自己动手写Java虚拟机.md"
   ]
 }
