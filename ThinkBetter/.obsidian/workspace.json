@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隋朝",
+                "query": "督脉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e331625de9935c87",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "读书 MOC.md",
     "时间管理的本质.md",
