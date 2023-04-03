@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "脉诊.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#坂本龙一",
+                "query": "脉诊",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人物 MOC.md"
+                "file": "脉诊.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "脉诊.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +197,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "ee7d30829dd4c2c4",
   "lastOpenFiles": [
+    "按诊.md",
+    "八纲辨证.md",
+    "沉脉.md",
+    "人物 MOC.md",
     "+Home.md",
     "Tools.md",
     "一句话的玩味.md",
     "写点儿啥.md",
     "读书 MOC.md",
-    "时间管理的本质.md",
-    "可持续.md",
-    "我们现在怎样做父亲.md",
-    "Steve Jobs - 2005 stanford commencement Address.md",
-    "历史年代.md"
+    "时间管理的本质.md"
   ]
 }
