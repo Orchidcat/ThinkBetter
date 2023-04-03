@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "人物 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "督脉",
+                "query": "tag:#查理芒格",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "人物 MOC.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "人物 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "人物 MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +197,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ee7d30829dd4c2c4",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
+    "+Home.md",
+    "Tools.md",
+    "一句话的玩味.md",
+    "写点儿啥.md",
     "读书 MOC.md",
     "时间管理的本质.md",
     "可持续.md",
     "我们现在怎样做父亲.md",
     "Steve Jobs - 2005 stanford commencement Address.md",
-    "+Home.md",
-    "历史年代.md",
-    "地理知识.md",
-    "写点儿啥.md",
-    "未命名 2.md"
+    "历史年代.md"
   ]
 }

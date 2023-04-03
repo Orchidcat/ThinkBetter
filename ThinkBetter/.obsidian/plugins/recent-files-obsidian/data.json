@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "写点儿啥.md"
     },
     {
       "basename": "地理知识",
@@ -25,10 +41,6 @@
       "path": "历史年代.md"
     },
     {
-      "basename": "写点儿啥",
-      "path": "写点儿啥.md"
-    },
-    {
       "basename": "未命名 2",
       "path": "未命名 2.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "自己动手写Java虚拟机",
       "path": "自己动手写Java虚拟机.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     },
     {
       "basename": "第一性原理",
@@ -191,14 +199,6 @@
     {
       "basename": "com-",
       "path": "com-.md"
-    },
-    {
-      "basename": "桂枝汤",
-      "path": "桂枝汤.md"
-    },
-    {
-      "basename": "方剂学",
-      "path": "方剂学.md"
     }
   ],
   "omittedPaths": [],
