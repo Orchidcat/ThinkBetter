@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#查理芒格",
+                "query": "tag:#坂本龙一",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,7 +197,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "+Home.md",
     "Tools.md",
