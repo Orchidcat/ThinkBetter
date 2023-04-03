@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d702daa51eb0981",
+        "id": "f28ab4d894a6bbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "e331625de9935c87",
+            "id": "ee7d30829dd4c2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
@@ -197,7 +198,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e331625de9935c87",
+  "active": "ee7d30829dd4c2c4",
   "lastOpenFiles": [
     "读书 MOC.md",
     "时间管理的本质.md",
