@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金字塔原理.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金字塔原理.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金字塔原理.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金字塔原理.md",
+                "file": "中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,8 @@
   },
   "active": "59b5bff8702179e1",
   "lastOpenFiles": [
-    "读书 MOC.md",
     "金字塔原理.md",
+    "读书 MOC.md",
     "美国华人史.md",
     "+Home.md",
     "按诊.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
       "basename": "金字塔原理",
       "path": "金字塔原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "香苏散",
       "path": "香苏散.md"
-    },
-    {
-      "basename": "九味羌活汤",
-      "path": "九味羌活汤.md"
     }
   ],
   "omittedPaths": [],
