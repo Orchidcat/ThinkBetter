@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病位辩证.md",
+                "file": "六经辩证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a444f85a8cc9228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病位辩证.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病位辩证.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病位辩证.md",
+                "file": "黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,17 +221,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "048596dc0b7ef8a2",
+  "active": "3a444f85a8cc9228",
   "lastOpenFiles": [
+    "六经辩证.md",
+    "病位辩证.md",
     "中医诊断学.md",
     "脏腑辩证.md",
-    "病位辩证.md",
     "读书 MOC.md",
     "生命是什么.md",
     "+Home.md",
     "金字塔原理.md",
     "美国华人史.md",
-    "按诊.md",
-    "八纲辨证.md"
+    "按诊.md"
   ]
 }
