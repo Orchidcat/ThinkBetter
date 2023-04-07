@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,15 +199,15 @@
   },
   "active": "debdb3091d8ebc53",
   "lastOpenFiles": [
-    "金字塔原理.md",
     "读书 MOC.md",
-    "美国华人史.md",
+    "中医诊断学.md",
+    "生命是什么.md",
     "+Home.md",
+    "金字塔原理.md",
+    "美国华人史.md",
     "按诊.md",
     "八纲辨证.md",
     "沉脉.md",
-    "人物 MOC.md",
-    "Tools.md",
-    "一句话的玩味.md"
+    "人物 MOC.md"
   ]
 }
