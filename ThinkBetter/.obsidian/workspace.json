@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b701a425a74a664",
+        "id": "802c637258eca3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "59b5bff8702179e1",
+            "id": "debdb3091d8ebc53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "59b5bff8702179e1",
+  "active": "debdb3091d8ebc53",
   "lastOpenFiles": [
     "金字塔原理.md",
     "读书 MOC.md",
