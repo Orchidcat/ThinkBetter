@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脉诊",
+                "query": "脏腑",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "debdb3091d8ebc53",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "读书 MOC.md",
     "中医诊断学.md",
