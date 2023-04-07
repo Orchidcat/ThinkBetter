@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "止嗽散",
       "path": "止嗽散.md"
-    },
-    {
-      "basename": "大小青龙汤",
-      "path": "大小青龙汤.md"
-    },
-    {
-      "basename": "香苏散",
-      "path": "香苏散.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "脏腑辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +196,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "debdb3091d8ebc53",
   "lastOpenFiles": [
-    "读书 MOC.md",
+    "病位辩证.md",
     "中医诊断学.md",
+    "读书 MOC.md",
     "生命是什么.md",
     "+Home.md",
     "金字塔原理.md",
     "美国华人史.md",
     "按诊.md",
     "八纲辨证.md",
-    "沉脉.md",
-    "人物 MOC.md"
+    "沉脉.md"
   ]
 }
