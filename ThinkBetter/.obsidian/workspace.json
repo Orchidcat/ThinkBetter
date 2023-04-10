@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝外经.md"
+                "file": "水运化的过程.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝外经.md",
+                "file": "水运化的过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝外经.md",
+                "file": "水运化的过程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,10 +245,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0df3f2aa6257c4c0",
+  "active": "bdcd7dad2e08818a",
   "lastOpenFiles": [
-    "人纪 - 针灸.md",
     "黄帝外经.md",
+    "人纪 - 针灸.md",
     "子午流注.md",
     "黄帝内经.md",
     "水运化的过程.md",
