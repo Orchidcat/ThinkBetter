@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝外经.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "黄帝外经.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝外经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "黄帝外经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,6 +247,7 @@
   },
   "active": "0df3f2aa6257c4c0",
   "lastOpenFiles": [
+    "人纪 - 针灸.md",
     "黄帝外经.md",
     "子午流注.md",
     "黄帝内经.md",
@@ -255,7 +256,6 @@
     "五味.md",
     "八纲辨证.md",
     "中医诊断学.md",
-    "中医/@MOC中医.md",
-    "中药学.md"
+    "中医/@MOC中医.md"
   ]
 }
