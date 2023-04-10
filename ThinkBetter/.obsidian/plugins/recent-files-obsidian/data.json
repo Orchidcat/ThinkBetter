@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
+    },
+    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
     },
     {
       "basename": "八纲辨证",
       "path": "八纲辨证.md"
+    },
+    {
+      "basename": "病性辩证",
+      "path": "病性辩证.md"
     },
     {
       "basename": "五液",
@@ -87,14 +99,6 @@
     {
       "basename": "六经辩证",
       "path": "六经辩证.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
-    },
-    {
-      "basename": "脏腑辩证",
-      "path": "脏腑辩证.md"
     },
     {
       "basename": "金字塔原理",
@@ -195,10 +199,6 @@
     {
       "basename": "外语",
       "path": "外语.md"
-    },
-    {
-      "basename": "颜色的区分",
-      "path": "颜色的区分.md"
     }
   ],
   "omittedPaths": [],
