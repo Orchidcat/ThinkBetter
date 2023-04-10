@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "水运化的过程.md"
+                "file": "黄帝内经.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "水运化的过程.md",
+                "file": "黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "水运化的过程.md",
+                "file": "黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,10 +233,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bdcd7dad2e08818a",
+  "active": "619dc4894956e522",
   "lastOpenFiles": [
-    "五液.md",
     "水运化的过程.md",
+    "五液.md",
     "黄帝内经.md",
     "五味.md",
     "八纲辨证.md",
