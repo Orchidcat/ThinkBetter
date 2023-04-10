@@ -78,8 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65fdbee002a1fcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三魂七魄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脏腑辩证.md"
+                "file": "三魂七魄.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "三魂七魄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脏腑辩证.md",
+                "file": "三魂七魄.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,8 +268,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "65fdbee002a1fcca",
   "lastOpenFiles": [
+    "脏腑辩证.md",
     "病位辩证.md",
     "中医诊断学.md",
     "八纲辨证.md",
@@ -265,7 +279,6 @@
     "中医/@MOC中医.md",
     "黄帝内经.md",
     "津液.md",
-    "水运化的过程.md",
-    "津液辩证.md"
+    "水运化的过程.md"
   ]
 }
