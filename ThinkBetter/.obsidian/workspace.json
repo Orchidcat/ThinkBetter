@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,8 +232,8 @@
   },
   "active": "fca949e79f0d2dc2",
   "lastOpenFiles": [
-    "中医/@MOC中医.md",
     "中医诊断学.md",
+    "中医/@MOC中医.md",
     "中药学.md",
     "金匮-人纪.md",
     "黄帝内经.md",
