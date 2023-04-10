@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书 MOC.md",
+                "file": "易经真的很容易.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药学.md"
+                "file": "易经真的很容易.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中药学.md",
+                "file": "易经真的很容易.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药学.md",
+                "file": "易经真的很容易.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,17 +230,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "34bb52ef7f049a2a",
+  "active": "619dc4894956e522",
   "lastOpenFiles": [
-    "中医/@MOC中医.md",
-    "+Home.md",
+    "中医诊断学.md",
     "读书 MOC.md",
+    "养育男孩.md",
+    "深入理解Java虚拟机.md",
+    "方剂学.md",
+    "中医/@MOC中医.md",
     "中药学.md",
+    "+Home.md",
     "汤剂煎煮法.md",
-    "中药十八反十九畏.md",
-    "The Rape of Nanking - The Forgotten Holocaust of World War II.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "六经辩证.md",
-    "病位辩证.md"
+    "中药十八反十九畏.md"
   ]
 }
