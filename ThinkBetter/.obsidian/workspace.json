@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "五液.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "五液.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "五液.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,14 +256,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "cfbb7652ba5d0f75",
+  "active": "fca949e79f0d2dc2",
   "lastOpenFiles": [
+    "五液.md",
     "八纲辨证.md",
     "中医/@MOC中医.md",
     "黄帝内经.md",
     "中医诊断学.md",
     "津液.md",
-    "五液.md",
     "水运化的过程.md",
     "津液辩证.md",
     "黄帝外经.md",
