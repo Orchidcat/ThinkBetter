@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金匮-人纪.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮-人纪.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮-人纪.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮-人纪.md",
+                "file": "中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,14 +233,14 @@
   "active": "fca949e79f0d2dc2",
   "lastOpenFiles": [
     "中医/@MOC中医.md",
+    "中医诊断学.md",
+    "中药学.md",
     "金匮-人纪.md",
     "黄帝内经.md",
     "神农本草经.md",
     "读书 MOC.md",
     "学会提问.md",
     "张纯如 - 无法忘记历史的女子.md",
-    "美国华人史.md",
-    "中医诊断学.md",
-    "The Rape of Nanking - The Forgotten Holocaust of World War II.md"
+    "美国华人史.md"
   ]
 }
