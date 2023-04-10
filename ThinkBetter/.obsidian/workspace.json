@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脏腑",
+                "query": "五气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -237,6 +236,7 @@
   "active": "bdcd7dad2e08818a",
   "lastOpenFiles": [
     "黄帝内经.md",
+    "五味.md",
     "水运化的过程.md",
     "八纲辨证.md",
     "中医诊断学.md",
@@ -244,7 +244,6 @@
     "中药学.md",
     "金匮-人纪.md",
     "神农本草经.md",
-    "读书 MOC.md",
-    "学会提问.md"
+    "读书 MOC.md"
   ]
 }

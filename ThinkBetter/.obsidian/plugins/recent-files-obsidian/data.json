@@ -9,6 +9,10 @@
       "path": "黄帝内经.md"
     },
     {
+      "basename": "五味",
+      "path": "五味.md"
+    },
+    {
       "basename": "八纲辨证",
       "path": "八纲辨证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "吸引力",
       "path": "吸引力.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "事件timing.md"
     }
   ],
   "omittedPaths": [],
