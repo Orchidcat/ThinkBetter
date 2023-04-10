@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "津液",
+                "query": "魂",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "fca949e79f0d2dc2",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "病位辩证.md",
     "中医诊断学.md",
