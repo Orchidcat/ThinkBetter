@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "中药学",
+      "path": "中药学.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "麻黄杏仁甘草石膏汤",
       "path": "麻黄杏仁甘草石膏汤.md"
-    },
-    {
-      "basename": "银翘散",
-      "path": "银翘散.md"
     }
   ],
   "omittedPaths": [],
