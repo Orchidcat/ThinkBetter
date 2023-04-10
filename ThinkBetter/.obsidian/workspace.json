@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -219,8 +220,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,7 +245,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5de9afdd0885a751",
+  "active": "74f8fa572dec7213",
   "lastOpenFiles": [
     "津液.md",
     "八纲辨证.md",
