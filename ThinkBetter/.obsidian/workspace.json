@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e4915f77ab18204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "水运化的过程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,13 +257,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "fca949e79f0d2dc2",
   "lastOpenFiles": [
-    "人纪 - 针灸.md",
     "水运化的过程.md",
+    "黄帝内经.md",
+    "人纪 - 针灸.md",
     "黄帝外经.md",
     "子午流注.md",
-    "黄帝内经.md",
     "五液.md",
     "五味.md",
     "八纲辨证.md",
