@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "619dc4894956e522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdcd7dad2e08818a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fca949e79f0d2dc2",
             "type": "leaf",
             "state": {
@@ -66,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfbb7652ba5d0f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "五液.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "水运化的过程.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -178,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "水运化的过程.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "水运化的过程.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,16 +232,16 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8e4915f77ab18204",
+  "active": "fca949e79f0d2dc2",
   "lastOpenFiles": [
-    "黄帝外经.md",
+    "水运化的过程.md",
+    "五液.md",
     "八纲辨证.md",
+    "黄帝外经.md",
     "黄帝内经.md",
     "中药学.md",
-    "水运化的过程.md",
     "人纪 - 针灸.md",
     "子午流注.md",
-    "五液.md",
     "五味.md",
     "中医诊断学.md"
   ]
