@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "津液.md",
+                "file": "津液辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "吸气",
+                "query": "津液",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "津液.md"
+                "file": "津液辩证.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "津液.md",
+                "file": "津液辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "津液.md",
+                "file": "津液辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +247,7 @@
   },
   "active": "5de9afdd0885a751",
   "lastOpenFiles": [
+    "津液.md",
     "八纲辨证.md",
     "水运化的过程.md",
     "五液.md",
@@ -256,7 +256,6 @@
     "中药学.md",
     "人纪 - 针灸.md",
     "子午流注.md",
-    "五味.md",
-    "中医诊断学.md"
+    "五味.md"
   ]
 }
