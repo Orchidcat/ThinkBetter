@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "读书 MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,13 +199,13 @@
   },
   "active": "34bb52ef7f049a2a",
   "lastOpenFiles": [
+    "+Home.md",
     "六经辩证.md",
     "病位辩证.md",
     "中医诊断学.md",
     "脏腑辩证.md",
     "读书 MOC.md",
     "生命是什么.md",
-    "+Home.md",
     "金字塔原理.md",
     "美国华人史.md",
     "按诊.md"
