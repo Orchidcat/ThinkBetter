@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "易经真的很容易",
-      "path": "易经真的很容易.md"
+      "basename": "金匮-人纪",
+      "path": "金匮-人纪.md"
     },
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
       "basename": "@MOC中医",
       "path": "中医/@MOC中医.md"
+    },
+    {
+      "basename": "方剂学",
+      "path": "方剂学.md"
+    },
+    {
+      "basename": "易经真的很容易",
+      "path": "易经真的很容易.md"
     },
     {
       "basename": "中药学",
@@ -39,10 +51,6 @@
     {
       "basename": "病位辩证",
       "path": "病位辩证.md"
-    },
-    {
-      "basename": "中医诊断学",
-      "path": "中医诊断学.md"
     },
     {
       "basename": "脏腑辩证",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-W07",
       "path": "DailyNotes/2023-W07.md"
-    },
-    {
-      "basename": "YEAR MOC⌛",
-      "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "2023-W06",
-      "path": "DailyNotes/2023-W06.md"
     }
   ],
   "omittedPaths": [],
