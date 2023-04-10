@@ -47,110 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "人物 MOC": {
-      "人物 MOC": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1677649848625
-        }
-      }
-    },
-    "缺点": {
-      "缺点": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677461040050
-        }
-      }
-    },
-    "事情": {
-      "事情": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677554637799
-        }
-      }
-    },
-    "争论": {
-      "争论": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677650235073
-        }
-      }
-    },
-    "容易疲惫怎么办": {
-      "容易疲惫怎么办": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677652116528
-        }
-      }
-    },
-    "事件timing": {
-      "事件timing": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677652136967
-        }
-      }
-    },
-    "什么是癌症": {
-      "什么是癌症": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1677652562424
-        }
-      }
-    },
-    "java": {
-      "java": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678332961998
-        }
-      }
-    },
-    "中药": {
-      "中药": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678333006903
-        }
-      }
-    },
-    "文件": {
-      "文件": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678408196201
-        }
-      }
-    },
-    "数脉": {
-      "数脉": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678408401791
-        }
-      }
-    },
-    "区分": {
-      "区分": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678409649520
-        }
-      }
-    },
-    "销毁": {
-      "销毁": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678409708385
-        }
-      }
-    },
     "BB Drop": {
       "BB Drop": {
         "internalLink": {
@@ -364,6 +260,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1679964139897
+        }
+      }
+    },
+    "配伍": {
+      "配伍": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681089013321
         }
       }
     }
