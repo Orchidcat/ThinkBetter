@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病性辩证.md",
+                "file": "津液辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病性辩证.md"
+                "file": "津液辩证.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "病性辩证.md",
+                "file": "津液辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病性辩证.md",
+                "file": "津液辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,15 +234,15 @@
   },
   "active": "8a30f5828a034ff2",
   "lastOpenFiles": [
+    "病性辩证.md",
+    "气血辩证.md",
     "中医诊断学.md",
+    "阴阳虚损辩证.md",
+    "六淫辩证.md",
     "中医/@MOC中医.md",
     "黄帝内经.md",
     "读书 MOC.md",
     "100种心智模型.md",
-    "看到前线.md",
-    "能力圈.md",
-    "习惯与目标.md",
-    "业余者与专业者的区别.md",
-    "如何停止在不重要的细节上浪费时间.md"
+    "看到前线.md"
   ]
 }

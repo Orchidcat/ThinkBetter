@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "津液辩证",
+      "path": "津液辩证.md"
+    },
+    {
       "basename": "病性辩证",
       "path": "病性辩证.md"
     },
     {
+      "basename": "气血辩证",
+      "path": "气血辩证.md"
+    },
+    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "阴阳虚损辩证",
+      "path": "阴阳虚损辩证.md"
+    },
+    {
+      "basename": "六淫辩证",
+      "path": "六淫辩证.md"
     },
     {
       "basename": "@MOC中医",
@@ -47,10 +63,6 @@
     {
       "basename": "三魂七魄",
       "path": "三魂七魄.md"
-    },
-    {
-      "basename": "津液辩证",
-      "path": "津液辩证.md"
     },
     {
       "basename": "脏腑辩证",
@@ -187,18 +199,6 @@
     {
       "basename": "深入理解Java虚拟机",
       "path": "深入理解Java虚拟机.md"
-    },
-    {
-      "basename": "自己动手写Java虚拟机",
-      "path": "自己动手写Java虚拟机.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     }
   ],
   "omittedPaths": [],
