@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "津液辩证",
-      "path": "津液辩证.md"
-    },
-    {
-      "basename": "病性辩证",
-      "path": "病性辩证.md"
+      "basename": "未命名 3",
+      "path": "未命名 3.md"
     },
     {
       "basename": "中医诊断学",
@@ -15,6 +11,14 @@
     {
       "basename": "@MOC中医",
       "path": "中医/@MOC中医.md"
+    },
+    {
+      "basename": "津液辩证",
+      "path": "津液辩证.md"
+    },
+    {
+      "basename": "病性辩证",
+      "path": "病性辩证.md"
     },
     {
       "basename": "习惯与目标",
@@ -195,10 +199,6 @@
     {
       "basename": "超速学习",
       "path": "超速学习.md"
-    },
-    {
-      "basename": "深入理解Java虚拟机",
-      "path": "深入理解Java虚拟机.md"
     }
   ],
   "omittedPaths": [],

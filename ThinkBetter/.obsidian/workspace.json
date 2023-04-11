@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eecf06a646e33efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "津液辩证.md"
+                "file": "未命名 3.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "津液辩证.md",
+                "file": "未命名 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "津液辩证.md",
+                "file": "未命名 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,17 +256,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8a30f5828a034ff2",
+  "active": "eecf06a646e33efb",
   "lastOpenFiles": [
-    "病性辩证.md",
     "中医诊断学.md",
+    "五液.md",
     "中医/@MOC中医.md",
     "津液辩证.md",
+    "病性辩证.md",
     "习惯与目标.md",
     "气血辩证.md",
     "阴阳虚损辩证.md",
     "六淫辩证.md",
-    "黄帝内经.md",
-    "读书 MOC.md"
+    "黄帝内经.md"
   ]
 }
