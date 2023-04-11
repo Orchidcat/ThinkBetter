@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "痰饮水湿.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "痰饮水湿.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "痰饮水湿.md",
+                "file": "中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,8 +257,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "eecf06a646e33efb",
+  "active": "8583634bbbef0c79",
   "lastOpenFiles": [
+    "痰饮水湿.md",
     "中医诊断学.md",
     "五液.md",
     "中医/@MOC中医.md",
@@ -267,7 +268,6 @@
     "习惯与目标.md",
     "气血辩证.md",
     "阴阳虚损辩证.md",
-    "六淫辩证.md",
-    "黄帝内经.md"
+    "六淫辩证.md"
   ]
 }
