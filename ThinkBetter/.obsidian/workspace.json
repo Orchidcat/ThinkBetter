@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a30f5828a034ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100种心智模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "魂",
+                "query": "100",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "习惯与目标.md"
+                "file": "100种心智模型.md"
               }
             }
           },
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "习惯与目标.md",
+                "file": "100种心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "习惯与目标.md",
+                "file": "100种心智模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,10 +232,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c67b16b0645996b4",
+  "active": "8a30f5828a034ff2",
   "lastOpenFiles": [
-    "业余者与专业者的区别.md",
     "习惯与目标.md",
+    "业余者与专业者的区别.md",
     "如何停止在不重要的细节上浪费时间.md",
     "去回顾，而不是反刍.md",
     "糟糕的争论.md",
