@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "卫分证",
-      "path": "卫分证.md"
+      "basename": "气分证",
+      "path": "气分证.md"
     },
     {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "卫分证",
+      "path": "卫分证.md"
     },
     {
       "basename": "病位辩证",
@@ -195,10 +199,6 @@
     {
       "basename": "时间管理的本质",
       "path": "时间管理的本质.md"
-    },
-    {
-      "basename": "历史年代",
-      "path": "历史年代.md"
     }
   ],
   "omittedPaths": [],
