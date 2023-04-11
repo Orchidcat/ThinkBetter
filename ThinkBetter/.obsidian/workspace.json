@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77b7ee9cdc483c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "去回顾，而不是反刍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d03e21815f69825",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,15 +198,15 @@
   },
   "active": "6d03e21815f69825",
   "lastOpenFiles": [
-    "糟糕的争论.md",
     "去回顾，而不是反刍.md",
+    "如何停止在不重要的细节上浪费时间.md",
+    "糟糕的争论.md",
     "读书 MOC.md",
     "模仿者.md",
     "时间管理的本质.md",
     "我们现在怎样做父亲.md",
     "+Home.md",
     "中医/@MOC中医.md",
-    "津液辩证.md",
-    "三魂七魄.md"
+    "津液辩证.md"
   ]
 }
