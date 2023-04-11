@@ -366,6 +366,14 @@
           "lastUpdated": 1681175694530
         }
       }
+    },
+    "中药": {
+      "中药": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681176859219
+        }
+      }
     }
   }
 }
