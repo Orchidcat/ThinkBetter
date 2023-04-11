@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "津液辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8583634bbbef0c79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六淫辩证.md",
+                "file": "气血辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "六淫辩证.md"
+                "file": "气血辩证.md"
               }
             }
           },
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "六淫辩证.md",
+                "file": "气血辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "六淫辩证.md",
+                "file": "气血辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,17 +245,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8583634bbbef0c79",
+  "active": "8a30f5828a034ff2",
   "lastOpenFiles": [
+    "病性辩证.md",
+    "津液辩证.md",
+    "六淫辩证.md",
     "中医诊断学.md",
     "痰饮水湿.md",
     "五液.md",
     "中医/@MOC中医.md",
-    "津液辩证.md",
-    "病性辩证.md",
     "习惯与目标.md",
     "气血辩证.md",
-    "阴阳虚损辩证.md",
-    "六淫辩证.md"
+    "阴阳虚损辩证.md"
   ]
 }
