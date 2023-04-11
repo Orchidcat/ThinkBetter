@@ -9,12 +9,20 @@
       "path": "病性辩证.md"
     },
     {
-      "basename": "气血辩证",
-      "path": "气血辩证.md"
-    },
-    {
       "basename": "中医诊断学",
       "path": "中医诊断学.md"
+    },
+    {
+      "basename": "@MOC中医",
+      "path": "中医/@MOC中医.md"
+    },
+    {
+      "basename": "习惯与目标",
+      "path": "习惯与目标.md"
+    },
+    {
+      "basename": "气血辩证",
+      "path": "气血辩证.md"
     },
     {
       "basename": "阴阳虚损辩证",
@@ -25,20 +33,12 @@
       "path": "六淫辩证.md"
     },
     {
-      "basename": "@MOC中医",
-      "path": "中医/@MOC中医.md"
-    },
-    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "习惯与目标",
-      "path": "习惯与目标.md"
     },
     {
       "basename": "业余者与专业者的区别",
