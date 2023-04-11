@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "六淫辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "六淫辩证.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "六淫辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "六淫辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,8 +259,8 @@
   },
   "active": "8583634bbbef0c79",
   "lastOpenFiles": [
-    "痰饮水湿.md",
     "中医诊断学.md",
+    "痰饮水湿.md",
     "五液.md",
     "中医/@MOC中医.md",
     "津液辩证.md",
