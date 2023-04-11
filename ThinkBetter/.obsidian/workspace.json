@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c67b16b0645996b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "习惯与目标.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -211,15 +223,15 @@
   },
   "active": "7e6dd3c1b1d0dc65",
   "lastOpenFiles": [
-    "如何停止在不重要的细节上浪费时间.md",
+    "习惯与目标.md",
     "业余者与专业者的区别.md",
+    "如何停止在不重要的细节上浪费时间.md",
     "去回顾，而不是反刍.md",
     "糟糕的争论.md",
     "读书 MOC.md",
     "模仿者.md",
     "时间管理的本质.md",
     "我们现在怎样做父亲.md",
-    "+Home.md",
-    "中医/@MOC中医.md"
+    "+Home.md"
   ]
 }
