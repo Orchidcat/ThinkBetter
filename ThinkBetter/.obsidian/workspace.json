@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "业余者与专业者的区别.md"
+                "file": "习惯与目标.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "业余者与专业者的区别.md",
+                "file": "习惯与目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业余者与专业者的区别.md",
+                "file": "习惯与目标.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,10 +221,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7e6dd3c1b1d0dc65",
+  "active": "c67b16b0645996b4",
   "lastOpenFiles": [
-    "习惯与目标.md",
     "业余者与专业者的区别.md",
+    "习惯与目标.md",
     "如何停止在不重要的细节上浪费时间.md",
     "去回顾，而不是反刍.md",
     "糟糕的争论.md",
