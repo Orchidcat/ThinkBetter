@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e6dd3c1b1d0dc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "业余者与专业者的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md"
+                "file": "业余者与专业者的区别.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
+                "file": "业余者与专业者的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
+                "file": "业余者与专业者的区别.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +209,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6d03e21815f69825",
+  "active": "7e6dd3c1b1d0dc65",
   "lastOpenFiles": [
-    "去回顾，而不是反刍.md",
     "如何停止在不重要的细节上浪费时间.md",
+    "业余者与专业者的区别.md",
+    "去回顾，而不是反刍.md",
     "糟糕的争论.md",
     "读书 MOC.md",
     "模仿者.md",
     "时间管理的本质.md",
     "我们现在怎样做父亲.md",
     "+Home.md",
-    "中医/@MOC中医.md",
-    "津液辩证.md"
+    "中医/@MOC中医.md"
   ]
 }
