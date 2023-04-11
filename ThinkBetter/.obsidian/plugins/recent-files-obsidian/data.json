@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "气分证",
-      "path": "气分证.md"
+      "basename": "血分证",
+      "path": "血分证.md"
     },
     {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "营分证",
+      "path": "营分证.md"
+    },
+    {
+      "basename": "气分证",
+      "path": "气分证.md"
     },
     {
       "basename": "卫分证",
@@ -191,14 +199,6 @@
     {
       "basename": "地理知识",
       "path": "地理知识.md"
-    },
-    {
-      "basename": "我们现在怎样做父亲",
-      "path": "我们现在怎样做父亲.md"
-    },
-    {
-      "basename": "时间管理的本质",
-      "path": "时间管理的本质.md"
     }
   ],
   "omittedPaths": [],
