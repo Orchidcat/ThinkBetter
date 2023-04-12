@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "下焦病证.md",
+                "file": "脏腑辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "下焦病证.md"
+                "file": "脏腑辩证.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "下焦病证.md",
+                "file": "脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "下焦病证.md",
+                "file": "脏腑辩证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +246,15 @@
   },
   "active": "01984b02b45954fd",
   "lastOpenFiles": [
+    "病位辩证.md",
+    "六经辩证.md",
+    "经络辨证.md",
     "三焦辨证.md",
+    "下焦病证.md",
     "中焦病证.md",
     "上焦病证.md",
     "中医诊断学.md",
     "脏腑辩证.md",
-    "养育男孩.md",
-    "病位辩证.md",
-    "三焦.md",
-    "卫气营血辨证.md",
-    "血分证.md"
+    "养育男孩.md"
   ]
 }
