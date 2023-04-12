@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "血分证.md",
+                "file": "三焦辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "血分证.md"
+                "file": "三焦辨证.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "血分证.md",
+                "file": "三焦辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "血分证.md",
+                "file": "三焦辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,15 +235,15 @@
   },
   "active": "8a30f5828a034ff2",
   "lastOpenFiles": [
+    "病位辩证.md",
     "卫气营血辨证.md",
+    "血分证.md",
     "营分证.md",
     "气分证.md",
     "卫分证.md",
-    "病位辩证.md",
     "六经辩证.md",
     "脏腑辩证.md",
     "中医诊断学.md",
-    "病性辩证.md",
-    "阴阳虚损辩证.md"
+    "病性辩证.md"
   ]
 }

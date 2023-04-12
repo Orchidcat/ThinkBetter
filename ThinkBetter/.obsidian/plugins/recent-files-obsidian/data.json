@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "血分证",
-      "path": "血分证.md"
+      "basename": "三焦辨证",
+      "path": "三焦辨证.md"
+    },
+    {
+      "basename": "病位辩证",
+      "path": "病位辩证.md"
     },
     {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "血分证",
+      "path": "血分证.md"
     },
     {
       "basename": "营分证",
@@ -19,10 +27,6 @@
     {
       "basename": "卫分证",
       "path": "卫分证.md"
-    },
-    {
-      "basename": "病位辩证",
-      "path": "病位辩证.md"
     },
     {
       "basename": "六经辩证",
@@ -195,10 +199,6 @@
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "地理知识",
-      "path": "地理知识.md"
     }
   ],
   "omittedPaths": [],
