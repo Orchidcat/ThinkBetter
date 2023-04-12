@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三焦",
+                "query": "浆",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "上焦病证.md"
+                "file": "中医诊断学.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "上焦病证.md",
+                "file": "中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,10 +234,10 @@
   },
   "active": "8a30f5828a034ff2",
   "lastOpenFiles": [
+    "上焦病证.md",
     "养育男孩.md",
     "脏腑辩证.md",
     "病位辩证.md",
-    "上焦病证.md",
     "三焦辨证.md",
     "三焦.md",
     "卫气营血辨证.md",
