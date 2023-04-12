@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01984b02b45954fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "上焦病证.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医诊断学.md"
+                "file": "上焦病证.md"
               }
             }
           },
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "上焦病证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医诊断学.md",
+                "file": "上焦病证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,17 +243,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8a30f5828a034ff2",
+  "active": "74f8fa572dec7213",
   "lastOpenFiles": [
+    "中医诊断学.md",
+    "脏腑辩证.md",
     "上焦病证.md",
     "养育男孩.md",
-    "脏腑辩证.md",
     "病位辩证.md",
     "三焦辨证.md",
     "三焦.md",
     "卫气营血辨证.md",
     "血分证.md",
-    "营分证.md",
-    "气分证.md"
+    "营分证.md"
   ]
 }
