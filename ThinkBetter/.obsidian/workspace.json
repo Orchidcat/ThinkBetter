@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上焦病证.md",
+                "file": "三焦辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "上焦病证.md"
+                "file": "三焦辨证.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "上焦病证.md",
+                "file": "三焦辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "上焦病证.md",
+                "file": "三焦辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375,
-    "collapsed": true
+    "width": 375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,9 +246,9 @@
   },
   "active": "01984b02b45954fd",
   "lastOpenFiles": [
+    "上焦病证.md",
     "中医诊断学.md",
     "脏腑辩证.md",
-    "上焦病证.md",
     "养育男孩.md",
     "病位辩证.md",
     "三焦辨证.md",
