@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "三焦",
+      "path": "三焦.md"
+    },
+    {
       "basename": "三焦辨证",
       "path": "三焦辨证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "写点儿啥",
-      "path": "写点儿啥.md"
     }
   ],
   "omittedPaths": [],
