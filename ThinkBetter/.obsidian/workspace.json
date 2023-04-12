@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -223,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +245,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "74f8fa572dec7213",
+  "active": "01984b02b45954fd",
   "lastOpenFiles": [
     "中医诊断学.md",
     "脏腑辩证.md",
