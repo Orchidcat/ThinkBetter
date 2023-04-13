@@ -21,7 +21,7 @@ tags: ['kindle']
 ![[Pasted image 20230413090017.png]]
 
 
-
+- **X-ray** 
 
 
 
