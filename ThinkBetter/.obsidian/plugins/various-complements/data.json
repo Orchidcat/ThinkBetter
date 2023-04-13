@@ -47,38 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "BB Drop": {
-      "BB Drop": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678670243153
-        }
-      }
-    },
-    "评估": {
-      "评估": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678685377802
-        }
-      }
-    },
-    "拆解": {
-      "拆解": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678754202890
-        }
-      }
-    },
-    "解决": {
-      "解决": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678754236279
-        }
-      }
-    },
     "逻辑": {
       "逻辑": {
         "currentFile": {
@@ -452,6 +420,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681180894495
+        }
+      }
+    },
+    "字体": {
+      "字体": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681347186861
         }
       }
     }
