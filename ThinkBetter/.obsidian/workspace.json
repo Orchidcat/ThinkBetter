@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "黑天",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,7 +208,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "53e61d9041df71f9",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "+Home.md",
     "人物 MOC.md",
