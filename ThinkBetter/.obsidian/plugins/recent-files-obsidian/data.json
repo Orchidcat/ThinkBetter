@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
+      "basename": "思考问题的三个过滤器",
+      "path": "思考问题的三个过滤器.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
     },
     {
       "basename": "YEAR MOC⌛",
@@ -191,14 +199,6 @@
     {
       "basename": "子午流注",
       "path": "子午流注.md"
-    },
-    {
-      "basename": "五味",
-      "path": "五味.md"
-    },
-    {
-      "basename": "金匮-人纪",
-      "path": "金匮-人纪.md"
     }
   ],
   "omittedPaths": [],

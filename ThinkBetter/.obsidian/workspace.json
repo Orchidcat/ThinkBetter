@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkFlowMOC.md",
+                "file": "思考问题的三个过滤器.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkFlowMOC.md"
+                "file": "思考问题的三个过滤器.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkFlowMOC.md",
+                "file": "思考问题的三个过滤器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkFlowMOC.md",
+                "file": "思考问题的三个过滤器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "609d5f7a30db14e9",
   "lastOpenFiles": [
+    "NotToDo.md",
     "+Home.md",
+    "WorkFlowMOC.md",
     "YEAR MOC⌛.md",
     "写点儿啥.md",
     "kindle使用技巧.md",
     "人物 MOC.md",
     "事件timing.md",
     "学习方法.md",
-    "make it stick.md",
-    "项目 MOC.md",
-    "五液.md"
+    "make it stick.md"
   ]
 }
