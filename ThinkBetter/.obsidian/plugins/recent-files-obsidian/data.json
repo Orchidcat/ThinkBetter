@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "思考问题的三个过滤器",
-      "path": "思考问题的三个过滤器.md"
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "NotToDo",
       "path": "NotToDo.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "思考问题的三个过滤器",
+      "path": "思考问题的三个过滤器.md"
     },
     {
       "basename": "WorkFlowMOC",
@@ -195,10 +199,6 @@
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
-    },
-    {
-      "basename": "子午流注",
-      "path": "子午流注.md"
     }
   ],
   "omittedPaths": [],
