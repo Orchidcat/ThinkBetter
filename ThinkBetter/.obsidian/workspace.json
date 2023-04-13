@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本Q.md",
+                "file": "第一性原理.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本Q.md"
+                "file": "第一性原理.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本Q.md",
+                "file": "第一性原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本Q.md",
+                "file": "第一性原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +198,8 @@
   },
   "active": "609d5f7a30db14e9",
   "lastOpenFiles": [
-    "+Home.md",
     "基本Q.md",
+    "+Home.md",
     "NotToDo.md",
     "思考问题的三个过滤器.md",
     "WorkFlowMOC.md",
