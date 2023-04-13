@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0040f4b6ec3ef8e6",
+        "id": "c5f84286a40c89c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6d03e21815f69825",
+            "id": "609d5f7a30db14e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a30f5828a034ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf8f3f8d1f8ec46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "养育男孩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4157d8966d92ddc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脏腑辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01984b02b45954fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脏腑辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42abff68027c5128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b63a40ceb0f5a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/@MOC中医.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/@MOC中医.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -203,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/@MOC中医.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/@MOC中医.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +195,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c5b63a40ceb0f5a1",
+  "active": "609d5f7a30db14e9",
   "lastOpenFiles": [
     "五液.md",
     "中医/@MOC中医.md",
