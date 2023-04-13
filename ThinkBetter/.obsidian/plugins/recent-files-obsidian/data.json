@@ -5,6 +5,10 @@
       "path": "+Home.md"
     },
     {
+      "basename": "学习方法",
+      "path": "学习方法.md"
+    },
+    {
       "basename": "@MOC中医",
       "path": "中医/@MOC中医.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "金字塔原理",
       "path": "金字塔原理.md"
-    },
-    {
-      "basename": "脉诊",
-      "path": "脉诊.md"
     }
   ],
   "omittedPaths": [],
