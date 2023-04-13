@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "WorkFlowMOC.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "53e61d9041df71f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kindle使用技巧.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黑天",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kindle使用技巧.md"
+                "file": "WorkFlowMOC.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kindle使用技巧.md",
+                "file": "WorkFlowMOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kindle使用技巧.md",
+                "file": "WorkFlowMOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,17 +195,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "609d5f7a30db14e9",
   "lastOpenFiles": [
     "+Home.md",
+    "YEAR MOC⌛.md",
+    "写点儿啥.md",
+    "kindle使用技巧.md",
     "人物 MOC.md",
     "事件timing.md",
     "学习方法.md",
     "make it stick.md",
     "项目 MOC.md",
-    "五液.md",
-    "中医/@MOC中医.md",
-    "脏腑辩证.md",
-    "中医诊断学.md"
+    "五液.md"
   ]
 }
