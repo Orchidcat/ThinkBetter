@@ -28,7 +28,7 @@ tags: ['kindle']
 
 -  **高效做读书笔记**
 	[Clippings](https://www.clippings.io/zh/#features) 利用插件显示标注 
-
+	[Kindle Mate](http://kmate.me/cn/) 标注笔记生成器
 
 
 
