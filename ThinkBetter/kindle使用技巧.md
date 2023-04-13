@@ -3,7 +3,8 @@ tags: ['kindle']
 ---
 
 - 截屏：同时点中屏幕的四个角
-- 专属ID：
+- 专属ID：设置 - 你的账户 - 设备名称 - 个性化命名 
+![[Pasted image 20230413090602.png]]
 
 - [在搜索中输入](https://ebooks.stackexchange.com/questions/152/what-commands-can-be-given-in-the-kindles-search-box)
 	;411 - 显示kindle server信息  
