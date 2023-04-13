@@ -24,7 +24,7 @@ tags: ['kindle']
 
 
 - **X-ray** 
-
+	这是Kindle设备自带功能，不过也需要电子书支持X-Ray功能才能实现。
 
 -  **高效做读书笔记**
 	[Clippings](https://www.clippings.io/zh/#features) 利用插件显示标注 
