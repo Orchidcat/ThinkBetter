@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f84286a40c89c4",
+        "id": "e621b4e3d6f2f87d",
         "type": "tabs",
         "children": [
           {
-            "id": "609d5f7a30db14e9",
+            "id": "fd9fd38acf616cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一性原理.md",
-                "mode": "preview",
+                "file": "+Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一性原理.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一性原理.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "609d5f7a30db14e9",
+  "active": "fd9fd38acf616cab",
   "lastOpenFiles": [
     "基本Q.md",
     "+Home.md",
