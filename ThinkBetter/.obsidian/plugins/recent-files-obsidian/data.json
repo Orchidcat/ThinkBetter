@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "津液",
       "path": "津液.md"
-    },
-    {
-      "basename": "水运化的过程",
-      "path": "水运化的过程.md"
     }
   ],
   "omittedPaths": [],
