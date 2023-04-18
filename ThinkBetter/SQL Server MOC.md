@@ -40,7 +40,7 @@ https://sqlserverbuilds.blogspot.com/
 #SQLServer/性能调优
 windows server 上使用**powercfg.cpl** 查看功耗模式，确保实在 _高性能_ 状态下。
 
-#SQLServer/2019  在测试过程中比 #SQLServer/2016 ，大约需要增加20%的CPU支出。这并不是
+#SQLServer/2019  在测试过程中比 #SQLServer/2016 ，大约需要[增加20%的CPU](https://www.brentozar.com/archive/2023/03/is-sql-server-2019-more-cpu-intensive-than-sql-server-2016/)支出。这并不是 `LIGHTWEIGHT_QUERY_PROFILING` 造成的 
 
 #SQLServer/TraceFlag
 默认应该启动的TF项目
