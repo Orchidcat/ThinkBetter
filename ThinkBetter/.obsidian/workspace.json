@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "912379d51f01574d",
+        "id": "18a7f9af16921ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b9ec23994b0b7e",
+            "id": "7d3a38fbb9486f80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "写点儿啥.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "写点儿啥.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写点儿啥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写点儿啥.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +188,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f5b9ec23994b0b7e",
+  "active": "7d3a38fbb9486f80",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "写点儿啥.md",
     "+Home.md",
     "子午流注.md",
     "针灸时机.md",
@@ -205,8 +199,6 @@
     "NotToDo.md",
     "思考问题的三个过滤器.md",
     "WorkFlowMOC.md",
-    "YEAR MOC⌛.md",
-    "写点儿啥.md",
-    "kindle使用技巧.md"
+    "YEAR MOC⌛.md"
   ]
 }
