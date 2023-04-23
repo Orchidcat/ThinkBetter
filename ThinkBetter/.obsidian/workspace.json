@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "针灸",
+                "query": "安装架",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,7 +212,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2cc34d9675dd8e29",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "未命名 2.canvas",
     "test.md",

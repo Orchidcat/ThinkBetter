@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "端盖",
+  "search": "安装架",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121357,
+  "scale": 0.7132754626224466,
   "close": false
 }
