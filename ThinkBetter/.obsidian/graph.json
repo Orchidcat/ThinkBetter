@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "底板",
+  "search": "阀底板",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224482,
+  "scale": 0.5087618855792633,
   "close": false
 }
