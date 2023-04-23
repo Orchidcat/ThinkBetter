@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 2",
+      "path": "未命名 2.canvas"
+    },
+    {
       "basename": "test",
       "path": "test.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "三魂七魄",
       "path": "三魂七魄.md"
-    },
-    {
-      "basename": "八纲辨证",
-      "path": "八纲辨证.md"
     }
   ],
   "omittedPaths": [],

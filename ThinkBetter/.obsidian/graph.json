@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "test",
-  "showTags": false,
+  "search": "端盖",
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224458,
+  "scale": 0.36288736930121357,
   "close": false
 }
