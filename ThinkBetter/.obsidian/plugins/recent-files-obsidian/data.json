@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 3",
+      "path": "未命名 3.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "未命名 1",
       "path": "未命名 1.canvas"
     },
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "SQL Server MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "八纲辨证",
       "path": "八纲辨证.md"
-    },
-    {
-      "basename": "五液",
-      "path": "五液.md"
     }
   ],
   "omittedPaths": [],
