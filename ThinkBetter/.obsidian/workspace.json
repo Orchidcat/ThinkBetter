@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18a7f9af16921ba2",
+        "id": "a9a29ac136b70935",
         "type": "tabs",
         "children": [
           {
-            "id": "2cc34d9675dd8e29",
+            "id": "9954750b3912372c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "test.md"
               }
             }
           },
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +195,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2cc34d9675dd8e29",
+  "active": "9954750b3912372c",
   "lastOpenFiles": [
     "test.md",
     "未命名 2.canvas",
