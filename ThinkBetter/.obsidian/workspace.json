@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "安装架",
+                "query": "tag:#树脂管接头",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,7 +212,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2cc34d9675dd8e29",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "test.md",
     "未命名 2.canvas",
