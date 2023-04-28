@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#树脂管接头",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -198,6 +197,7 @@
   },
   "active": "e6752405de08c551",
   "lastOpenFiles": [
+    "人纪 - 神农本草经.md",
     "神农本草经.md",
     "中医/@MOC中医.md",
     "+Home.md",
@@ -206,7 +206,6 @@
     "未命名 1.canvas",
     "写点儿啥.md",
     "子午流注.md",
-    "针灸时机.md",
-    "基本Q.md"
+    "针灸时机.md"
   ]
 }
