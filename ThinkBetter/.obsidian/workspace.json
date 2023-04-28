@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神农本草经.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神农本草经.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神农本草经.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +208,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8420c03d0087fb25",
+  "active": "e6752405de08c551",
   "lastOpenFiles": [
-    "人纪 - 神农本草经.md",
     "神农本草经.md",
+    "人纪 - 神农本草经.md",
     "中医/@MOC中医.md",
     "+Home.md",
     "test.md",
