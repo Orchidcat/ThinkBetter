@@ -23,8 +23,12 @@
             "id": "8420c03d0087fb25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "神农本草经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -73,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "药性总",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "神农本草经.md"
+              }
             }
           },
           {
@@ -137,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
