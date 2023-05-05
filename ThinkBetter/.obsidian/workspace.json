@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9b7ad7fea4216e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪 - 神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb41cee0ab1a230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a75ccb4c49d99b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           },
           {
@@ -149,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
