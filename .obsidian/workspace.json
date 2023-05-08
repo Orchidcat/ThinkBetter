@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90539525dddb25ef",
+        "id": "7b3979e5111d34f3",
         "type": "tabs",
         "children": [
           {
-            "id": "2834a206e7d9efd5",
+            "id": "d2e19932229f5554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/中医诊断学.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "067a0bd2ddb04314",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c3fc715ee10a8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/zy-诊断学.md",
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/zy-诊断学.md"
+                "file": "test.md"
               }
             }
           }
@@ -130,7 +111,7 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "5c3fc715ee10a8aa",
+  "active": "d2e19932229f5554",
   "lastOpenFiles": [
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/zy-诊断学.md",
