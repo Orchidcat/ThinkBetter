@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "search": "树脂管",
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.9655560456566814,
-  "close": true
+  "scale": 0.7132754626224486,
+  "close": false
 }

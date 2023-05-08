@@ -47,179 +47,251 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "一面": {
-      "一面": {
-        "currentFile": {
+    "2023": {
+      "2023": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1672721977132
+          "lastUpdated": 1682660398270
         }
       }
     },
-    "归经": {
-      "归经": {
+    "配伍": {
+      "配伍": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681089013321
+        }
+      }
+    },
+    "相反": {
+      "相反": {
         "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681089130895
+        }
+      }
+    },
+    "砂仁": {
+      "砂仁": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681089592070
+        }
+      }
+    },
+    "不同": {
+      "不同": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681089648297
+        }
+      }
+    },
+    "毒性": {
+      "毒性": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681089689688
+        }
+      }
+    },
+    "黄芩": {
+      "黄芩": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681089803792
+        }
+      }
+    },
+    "津液辩证": {
+      "津液辩证": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681107597508
+        }
+      }
+    },
+    "明显": {
+      "明显": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681107655602
+        }
+      }
+    },
+    "三魂": {
+      "三魂": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681113014681
+        }
+      }
+    },
+    "能力": {
+      "能力": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681113415339
+        }
+      }
+    },
+    "停顿": {
+      "停顿": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681113508443
+        }
+      }
+    },
+    "人性的弱点": {
+      "人性的弱点": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681175188585
+        }
+      }
+    },
+    "地图不是领土": {
+      "地图不是领土": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681175694530
+        }
+      }
+    },
+    "中药": {
+      "中药": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681176859219
+        }
+      }
+    },
+    "过程": {
+      "过程": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681176940026
+        }
+      }
+    },
+    "结果": {
+      "结果": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681176943578
+        }
+      }
+    },
+    "二阶思维": {
+      "二阶思维": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681176965947
+        }
+      }
+    },
+    "好的作品": {
+      "好的作品": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681177060676
+        }
+      }
+    },
+    "业余爱好者": {
+      "业余爱好者": {
+        "currentFile": {
           "count": 2,
-          "lastUpdated": 1672819428341
+          "lastUpdated": 1681177220779
         }
       }
     },
-    "中药的毒性": {
-      "中药的毒性": {
+    "责任": {
+      "责任": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681177114996
+        }
+      }
+    },
+    "出现": {
+      "出现": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681177127139
+        }
+      }
+    },
+    "目标": {
+      "目标": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681178264368
+        }
+      }
+    },
+    "水饮": {
+      "水饮": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1672879543902
+          "lastUpdated": 1681180823400
         }
       }
     },
-    "中毒": {
-      "中毒": {
+    "湿热蕴脾证": {
+      "湿热蕴脾证": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681180894495
+        }
+      }
+    },
+    "字体": {
+      "字体": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681347186861
+        }
+      }
+    },
+    "阅读时间": {
+      "阅读时间": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681347271246
+        }
+      }
+    },
+    "调换": {
+      "调换": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681347605774
+        }
+      }
+    },
+    "命名": {
+      "命名": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681347952708
+        }
+      }
+    },
+    "标注": {
+      "标注": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1672882622771
+          "lastUpdated": 1681348479296
         }
       }
     },
-    "剂量": {
-      "剂量": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672887024893
-        }
-      }
-    },
-    "倒置": {
-      "倒置": {
+    "参考左侧列": {
+      "参考左侧列": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1672900739258
-        }
-      }
-    },
-    "费曼学习法": {
-      "费曼学习法": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054699620
-        }
-      }
-    },
-    "一句话的玩味": {
-      "一句话的玩味": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054756420
-        }
-      }
-    },
-    "能力圈": {
-      "能力圈": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673054888509
-        }
-      }
-    },
-    "教练": {
-      "教练": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673055039364
-        }
-      }
-    },
-    "学习": {
-      "学习": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1673078332674
-        }
-      }
-    },
-    "专心致志": {
-      "专心致志": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673057970781
-        }
-      }
-    },
-    "metalearning": {
-      "metalearning": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673071152967
-        }
-      }
-    },
-    "」「": {
-      "」「": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673073154616
-        }
-      }
-    },
-    "法则": {
-      "法则": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1673225872196
-        }
-      }
-    },
-    "回馈": {
-      "回馈": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673232253241
-        }
-      }
-    },
-    "时间": {
-      "时间": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673241783729
-        }
-      }
-    },
-    "计划": {
-      "计划": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673241815418
-        }
-      }
-    },
-    "png": {
-      "png": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673855731597
-        }
-      }
-    },
-    "Stack": {
-      "Stack": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673858115731
-        }
-      }
-    },
-    "青色": {
-      "青色": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675233152790
-        }
-      }
-    },
-    "气虚": {
-      "气虚": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675239198180
+          "lastUpdated": 1681348833062
         }
       }
     }

@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f39ecb897d22ea9b",
+        "id": "0cacd57352f0319b",
         "type": "tabs",
-        "dimension": 46.54234654234654,
         "children": [
           {
-            "id": "8a84f38fd8be0a36",
+            "id": "4a75ccb4c49d99b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "876fc526c7c5f226",
-        "type": "tabs",
-        "dimension": 53.45765345765345,
-        "children": [
-          {
-            "id": "a4233007217a881b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zy-诊断学.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +31,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 33.286318758815234,
+        "dimension": 31.29890453834116,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -66,7 +46,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 66.71368124118476,
+        "dimension": 68.70109546165885,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -84,10 +64,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card-reversecard-reverse",
+                "query": "药性总",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -122,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.01103591918945,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -140,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zy-诊断学.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -150,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +149,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zy-诊断学.md",
-                "collapseAll": false,
+                "file": "+Home.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -212,20 +192,21 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "a4233007217a881b",
+  "active": "4a75ccb4c49d99b6",
   "lastOpenFiles": [
-    "中医诊断学.md",
-    "zy-诊断学.md",
-    "未命名 1.md",
-    "FC_基础理论.md",
-    "读书 MOC.md",
-    "金匮-人纪.md",
-    "蚕丝-钱学森传.md",
-    "真正的天才：约翰·巴丁的生平与学术.md",
-    "David Foster Wallace -  This is Water.md",
-    "+Home.md"
+    "神农本草经.md",
+    "人纪 - 神农本草经.md",
+    "DBCC CLEANTABLE.md",
+    "SQL Server MOC.md",
+    "未命名 3.md",
+    "+Home.md",
+    "中医/@MOC中医.md",
+    "test.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
   ]
 }
