@@ -44,6 +44,7 @@ path does not include Templates
 	- [[SQL Server MOC]]
 	- MySQL MOC
 	- Redis MOC
+	- [[sqlite MOC]]
 
 - 编程💻
 	- [[Git MOC]] 

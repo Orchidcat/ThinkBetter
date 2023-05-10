@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sqlite MOC",
+      "path": "sqlite MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
-    },
-    {
-      "basename": "业余者与专业者的区别",
-      "path": "业余者与专业者的区别.md"
     }
   ],
   "omittedPaths": [],
