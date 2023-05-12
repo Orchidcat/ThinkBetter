@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -198,15 +197,15 @@
   },
   "active": "e35904e46b5d7916",
   "lastOpenFiles": [
+    "未命名 4.md",
     "+Home.md",
+    "一句话的玩味.md",
     "神农本草经.md",
     "人纪 - 神农本草经.md",
     "DBCC CLEANTABLE.md",
     "SQL Server MOC.md",
     "未命名 3.md",
     "中医/@MOC中医.md",
-    "test.md",
-    "未命名 2.canvas",
-    "未命名 1.canvas"
+    "test.md"
   ]
 }

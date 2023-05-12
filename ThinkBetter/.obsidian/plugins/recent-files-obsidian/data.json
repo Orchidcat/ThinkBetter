@@ -5,6 +5,14 @@
       "path": "+Home.md"
     },
     {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
       "basename": "sqlite MOC",
       "path": "sqlite MOC.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "六淫辩证",
       "path": "六淫辩证.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
     }
   ],
   "omittedPaths": [],
