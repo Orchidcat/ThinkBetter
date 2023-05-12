@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88db1819b7cbf6ee",
+        "id": "531c83965bb0d776",
         "type": "tabs",
         "children": [
           {
-            "id": "5633523b031aeea5",
+            "id": "e35904e46b5d7916",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "956a17a97db2b8cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sqlite MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sqlite MOC.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sqlite MOC.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqlite MOC.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "956a17a97db2b8cf",
+  "active": "e35904e46b5d7916",
   "lastOpenFiles": [
     "+Home.md",
     "神农本草经.md",
