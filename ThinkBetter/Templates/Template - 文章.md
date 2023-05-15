@@ -5,6 +5,6 @@ date:
 link: 
 ---
 
-[[+Home]]-[[读书 MOC]]
+[[+Home]]-[[阅读与书籍 MOC]]
 
 # {{title}}
