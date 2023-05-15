@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20ef638fe9b320c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "掌控习惯.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6790b89b1b21e1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何阅读的方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd0ec56c117bc1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读的建议.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae80f979b0c3990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -166,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,17 +196,17 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "dae80f979b0c3990",
+  "active": "cd0ec56c117bc1f9",
   "lastOpenFiles": [
+    "一句话的玩味.md",
+    "人纪 - 神农本草经.md",
+    "阅读的建议.md",
     "掌控习惯.md",
     "如何阅读的方法.md",
-    "阅读的建议.md",
     "记笔记.md",
     "选择好书.md",
     "阅读水平.md",
     "阅读与书籍 MOC.md",
-    "如何阅读.md",
-    "超速学习.md",
-    "+Home.md"
+    "如何阅读.md"
   ]
 }
