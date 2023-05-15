@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 神农本草经.md"
+                "file": "神农本草经.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +210,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "cd0ec56c117bc1f9",
+  "active": "16a223f06d2edb79",
   "lastOpenFiles": [
-    "神农本草经.md",
     "人纪 - 神农本草经.md",
+    "神农本草经.md",
     "一句话的玩味.md",
     "阅读的建议.md",
     "掌控习惯.md",
