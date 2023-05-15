@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dae80f979b0c3990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一句话的玩味.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何阅读的方法.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何阅读的方法.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何阅读的方法.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,14 +233,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6790b89b1b21e1f2",
+  "active": "dae80f979b0c3990",
   "lastOpenFiles": [
+    "掌控习惯.md",
+    "如何阅读的方法.md",
     "阅读的建议.md",
     "记笔记.md",
     "选择好书.md",
     "阅读水平.md",
-    "如何阅读的方法.md",
-    "掌控习惯.md",
     "阅读与书籍 MOC.md",
     "如何阅读.md",
     "超速学习.md",
