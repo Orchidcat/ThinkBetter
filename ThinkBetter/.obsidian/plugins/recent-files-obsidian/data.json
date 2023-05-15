@@ -5,6 +5,22 @@
       "path": "如何阅读的方法.md"
     },
     {
+      "basename": "阅读的建议",
+      "path": "阅读的建议.md"
+    },
+    {
+      "basename": "记笔记",
+      "path": "记笔记.md"
+    },
+    {
+      "basename": "选择好书",
+      "path": "选择好书.md"
+    },
+    {
+      "basename": "阅读水平",
+      "path": "阅读水平.md"
+    },
+    {
       "basename": "掌控习惯",
       "path": "掌控习惯.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "卫气营血辨证",
       "path": "卫气营血辨证.md"
-    },
-    {
-      "basename": "血分证",
-      "path": "血分证.md"
-    },
-    {
-      "basename": "营分证",
-      "path": "营分证.md"
-    },
-    {
-      "basename": "气分证",
-      "path": "气分证.md"
-    },
-    {
-      "basename": "卫分证",
-      "path": "卫分证.md"
     }
   ],
   "omittedPaths": [],
