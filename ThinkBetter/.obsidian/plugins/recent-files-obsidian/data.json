@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "掌控习惯",
+      "path": "掌控习惯.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "卫分证",
       "path": "卫分证.md"
-    },
-    {
-      "basename": "病性辩证",
-      "path": "病性辩证.md"
     }
   ],
   "omittedPaths": [],

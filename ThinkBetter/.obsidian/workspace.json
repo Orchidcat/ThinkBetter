@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "掌控习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "掌控习惯.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "掌控习惯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "掌控习惯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +198,9 @@
   },
   "active": "20ef638fe9b320c6",
   "lastOpenFiles": [
+    "阅读与书籍 MOC.md",
     "如何阅读的方法.md",
     "如何阅读.md",
-    "阅读与书籍 MOC.md",
     "超速学习.md",
     "+Home.md",
     "心智模型 MOC.md",
