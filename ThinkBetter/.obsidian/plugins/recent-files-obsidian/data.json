@@ -5,6 +5,10 @@
       "path": "读书 MOC.md"
     },
     {
+      "basename": "如何阅读",
+      "path": "如何阅读.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阴阳虚损辩证",
       "path": "阴阳虚损辩证.md"
-    },
-    {
-      "basename": "气血辩证",
-      "path": "气血辩证.md"
     }
   ],
   "omittedPaths": [],
