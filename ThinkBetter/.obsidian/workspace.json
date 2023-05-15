@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "如何阅读的方法.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "如何阅读的方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "如何阅读的方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,10 +209,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "20ef638fe9b320c6",
+  "active": "6790b89b1b21e1f2",
   "lastOpenFiles": [
-    "如何阅读的方法.md",
     "掌控习惯.md",
+    "如何阅读的方法.md",
     "阅读与书籍 MOC.md",
     "如何阅读.md",
     "超速学习.md",
