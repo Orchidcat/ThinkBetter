@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "读书 MOC.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "读书 MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,15 +198,15 @@
   },
   "active": "20ef638fe9b320c6",
   "lastOpenFiles": [
+    "超速学习.md",
+    "读书 MOC.md",
     "+Home.md",
+    "心智模型 MOC.md",
+    "100种心智模型.md",
+    "一句话的玩味.md",
     "DailyNotes/2023-05-12.md",
     "未命名 4.md",
-    "一句话的玩味.md",
     "神农本草经.md",
-    "人纪 - 神农本草经.md",
-    "DBCC CLEANTABLE.md",
-    "SQL Server MOC.md",
-    "未命名 3.md",
-    "中医/@MOC中医.md"
+    "人纪 - 神农本草经.md"
   ]
 }
