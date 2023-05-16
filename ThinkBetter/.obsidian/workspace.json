@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2089bdaa7b84a01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "掌控习惯.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49fd5de6af065503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "反脆弱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神农本草经.md"
+                "file": "反脆弱.md"
               }
             }
           },
@@ -143,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神农本草经.md",
+                "file": "反脆弱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神农本草经.md",
+                "file": "反脆弱.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,13 +234,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "16a223f06d2edb79",
+  "active": "49fd5de6af065503",
   "lastOpenFiles": [
-    "人纪 - 神农本草经.md",
+    "掌控习惯.md",
     "神农本草经.md",
+    "人纪 - 神农本草经.md",
     "一句话的玩味.md",
     "阅读的建议.md",
-    "掌控习惯.md",
     "如何阅读的方法.md",
     "记笔记.md",
     "选择好书.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "反脆弱",
+      "path": "反脆弱.md"
+    },
+    {
+      "basename": "掌控习惯",
+      "path": "掌控习惯.md"
+    },
+    {
       "basename": "神农本草经",
       "path": "神农本草经.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "阅读的建议",
       "path": "阅读的建议.md"
-    },
-    {
-      "basename": "掌控习惯",
-      "path": "掌控习惯.md"
     },
     {
       "basename": "如何阅读的方法",
@@ -195,10 +199,6 @@
     {
       "basename": "三焦",
       "path": "三焦.md"
-    },
-    {
-      "basename": "卫气营血辨证",
-      "path": "卫气营血辨证.md"
     }
   ],
   "omittedPaths": [],
