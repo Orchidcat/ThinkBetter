@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +245,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "31cc0c5175d75a20",
+  "active": "cd0ec56c117bc1f9",
   "lastOpenFiles": [
+    "一句话的玩味.md",
     "+Home.md",
     "人纪 - 神农本草经.md",
     "神农本草经.md",
     "掌控习惯.md",
     "反脆弱.md",
     "+HomeMOC.md",
-    "一句话的玩味.md",
     "阅读的建议.md",
     "如何阅读的方法.md",
     "记笔记.md"
