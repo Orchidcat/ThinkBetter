@@ -5,6 +5,14 @@
       "path": "反脆弱.md"
     },
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
+    },
+    {
       "basename": "掌控习惯",
       "path": "掌控习惯.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "如何阅读",
       "path": "如何阅读.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "养育男孩",
       "path": "养育男孩.md"
-    },
-    {
-      "basename": "三焦",
-      "path": "三焦.md"
     }
   ],
   "omittedPaths": [],
