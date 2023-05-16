@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "药性总",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
