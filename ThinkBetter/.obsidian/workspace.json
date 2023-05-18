@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46a386c8d6d72da6",
+        "id": "64d6be1088d000d3",
         "type": "tabs",
         "children": [
           {
-            "id": "625a665e5899a4d0",
+            "id": "fb92148749c1a5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 神农本草经.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "625a665e5899a4d0",
+  "active": "fb92148749c1a5d9",
   "lastOpenFiles": [
     "+Home.md",
     "一句话的玩味.md",
