@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 神农本草经.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +198,9 @@
   },
   "active": "86bc73fb34a4ab36",
   "lastOpenFiles": [
+    "人纪 - 神农本草经.md",
     "+Home.md",
     "一句话的玩味.md",
-    "人纪 - 神农本草经.md",
     "神农本草经.md",
     "掌控习惯.md",
     "反脆弱.md",
