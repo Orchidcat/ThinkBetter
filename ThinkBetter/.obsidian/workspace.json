@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7e08df80e575500",
+  "active": "86bc73fb34a4ab36",
   "lastOpenFiles": [
     "人纪 - 神农本草经.md",
     "+Home.md",
