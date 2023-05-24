@@ -13,7 +13,7 @@ short mode
 path does not include Templates
 ```
 
->	[!note] test
+
 - 个人😋
 	- [[学习方法]]🔬
 	- [[YEAR MOC⌛]]
