@@ -24,7 +24,7 @@ path does not include Templates
 	- [[健康 MOC]]
 	- [[项目 MOC]]
 	- [[愿望清单 MOC]]
-	- [[读书 MOC]]
+	- [[阅读与书籍 MOC]]
 	- [[心智模型 MOC]]
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
@@ -44,6 +44,7 @@ path does not include Templates
 	- [[SQL Server MOC]]
 	- MySQL MOC
 	- Redis MOC
+	- [[sqlite MOC]]
 
 - 编程💻
 	- [[Git MOC]] 
