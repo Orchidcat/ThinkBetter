@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00c3d710bbfd0ff7",
+        "id": "78bf1eef6a37d6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe9d9d7147094d9",
+            "id": "62825ef416754d58",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -103,8 +103,9 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "dbe9d9d7147094d9",
+  "active": "62825ef416754d58",
   "lastOpenFiles": [
+    "ThinkBetter/人纪 - 神农本草经.md",
     "test.md",
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/zy-诊断学.md",
@@ -113,7 +114,6 @@
     "Anki 基础使用.md",
     "ThinkBetter/读书 MOC.md",
     "读书 MOC.md",
-    "ThinkBetter/+Home.md",
-    "+HomeMOC.md"
+    "ThinkBetter/+Home.md"
   ]
 }
