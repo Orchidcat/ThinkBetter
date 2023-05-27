@@ -46,54 +46,5 @@
     "maxNumberOfHistoryToKeep": 0
   },
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "肝血虚证": {
-      "肝血虚证": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1671323636650
-        }
-      }
-    },
-    "读书 MOC": {
-      "读书 MOC": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1671323643201
-        }
-      }
-    },
-    "第一性原理": {
-      "第一性原理": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1671323651394
-        }
-      }
-    },
-    "辨证": {
-      "辨证": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671324041043
-        }
-      }
-    },
-    "Anki 插件": {
-      "Anki 插件": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1673877428108
-        }
-      }
-    },
-    "BB Drop": {
-      "BB Drop": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1673877443148
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }
