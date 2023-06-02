@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "伤寒论.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +230,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a694ee3df10822ce",
+  "active": "07cffc65297c1a18",
   "lastOpenFiles": [
+    "黄帝内经.md",
     "伤寒论.md",
     "人纪 - 神农本草经.md",
     "中医/@MOC中医.md",
