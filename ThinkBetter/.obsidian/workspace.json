@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "伤寒论.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +229,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4699f6aae0803894",
+  "active": "07cffc65297c1a18",
   "lastOpenFiles": [
-    "伤寒论.md",
     "辨太阳病脉症并治法.md",
+    "伤寒论.md",
     "黄帝内经.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png",
