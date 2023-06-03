@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/辨太阳病脉症并治法.md"
+                "file": "ThinkBetter/伤寒论.md"
               }
             }
           }
@@ -125,8 +124,9 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "760f2c5a7cf5c044",
+  "active": "62825ef416754d58",
   "lastOpenFiles": [
+    "ThinkBetter/辨太阳病脉症并治法.md",
     "ThinkBetter/伤寒论.md",
     "ThinkBetter/人纪 - 神农本草经.md",
     "test.md",
@@ -135,7 +135,6 @@
     "ThinkBetter/按诊.md",
     "ThinkBetter/Anki 插件.md",
     "Anki 基础使用.md",
-    "ThinkBetter/读书 MOC.md",
-    "读书 MOC.md"
+    "ThinkBetter/读书 MOC.md"
   ]
 }
