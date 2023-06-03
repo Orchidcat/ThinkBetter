@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfe5c41191d0d5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪 - 神农本草经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/辨太阳病脉症并治法.md"
+                "file": "ThinkBetter/人纪 - 神农本草经.md"
               }
             }
           }
@@ -125,10 +138,10 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "760f2c5a7cf5c044",
+  "active": "dfe5c41191d0d5b8",
   "lastOpenFiles": [
-    "ThinkBetter/伤寒论.md",
     "ThinkBetter/辨太阳病脉症并治法.md",
+    "ThinkBetter/伤寒论.md",
     "ThinkBetter/人纪 - 神农本草经.md",
     "test.md",
     "ThinkBetter/中医诊断学.md",
