@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪 - 神农本草经.md"
+                "file": "ThinkBetter/辨太阳病脉症并治法.md"
               }
             }
           }
@@ -138,11 +138,11 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "dfe5c41191d0d5b8",
+  "active": "760f2c5a7cf5c044",
   "lastOpenFiles": [
+    "ThinkBetter/伤寒论.md",
     "ThinkBetter/辨太阳病脉症并治法.md",
     "ThinkBetter/人纪 - 神农本草经.md",
-    "ThinkBetter/伤寒论.md",
     "test.md",
     "ThinkBetter/中医诊断学.md",
     "ThinkBetter/zy-诊断学.md",
