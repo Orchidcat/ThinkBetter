@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "营卫之气.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "营卫之气.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "营卫之气.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,8 +278,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "db0702792a5a307a",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
+    "营卫之气.md",
     "辨太阳病脉症并治法.md",
     "少阴病证.md",
     "伤寒论.md",
