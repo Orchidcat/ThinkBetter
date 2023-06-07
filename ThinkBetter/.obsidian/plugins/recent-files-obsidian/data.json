@@ -5,6 +5,10 @@
       "path": "辨太阳病脉症并治法.md"
     },
     {
+      "basename": "麻黄杏仁甘草石膏汤",
+      "path": "麻黄杏仁甘草石膏汤.md"
+    },
+    {
       "basename": "营卫之气",
       "path": "营卫之气.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "经络辨证",
       "path": "经络辨证.md"
-    },
-    {
-      "basename": "三焦辨证",
-      "path": "三焦辨证.md"
     }
   ],
   "omittedPaths": [],
