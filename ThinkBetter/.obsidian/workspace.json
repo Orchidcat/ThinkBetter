@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "伤寒论.md"
               }
             }
           },
@@ -211,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,10 +277,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51ca0cd23900378f",
+  "active": "07cffc65297c1a18",
   "lastOpenFiles": [
-    "麻黄杏仁甘草石膏汤.md",
     "辨太阳病脉症并治法.md",
+    "麻黄杏仁甘草石膏汤.md",
     "营卫之气.md",
     "少阴病证.md",
     "伤寒论.md",
