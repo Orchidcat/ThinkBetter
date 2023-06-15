@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07cffc65297c1a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伤寒论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51ca0cd23900378f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a99397d9143cbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "麻黄杏仁甘草石膏汤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4699f6aae0803894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "桂枝汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "db0702792a5a307a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "营卫之气.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
