@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视觉信息论.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视觉信息论.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视觉信息论.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +261,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "fd1708bf9bc38a78",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
     "视觉信息论.md",
     "一句话的玩味.md",
