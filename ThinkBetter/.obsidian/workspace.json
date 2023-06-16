@@ -47,8 +47,12 @@
             "id": "83ac24d7c396da46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "一句话的玩味.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "一句话的玩味.md"
+              }
             }
           },
           {
@@ -169,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
