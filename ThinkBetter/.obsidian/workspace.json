@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄帝内经.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄帝内经.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,8 +252,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "827264d9a35aae32",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
+    "黄帝内经.md",
     "辨太阳病脉症并治法.md",
     "伤寒论.md",
     "人纪 - 神农本草经.md",
@@ -264,7 +264,6 @@
     "麻黄杏仁甘草石膏汤.md",
     "少阴病证.md",
     "桂枝汤.md",
-    "黄帝内经.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png",
     "中医/@MOC中医.md",
