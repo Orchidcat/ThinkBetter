@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地图",
+                "query": "咖啡",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +237,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a6865603829e4e23",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "气血辩证.md",
     "六淫辩证.md",
