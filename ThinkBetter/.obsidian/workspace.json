@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本的经方家.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本的经方家.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本的经方家.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,14 +240,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5c66eb23e2930a80",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
+    "日本的经方家.md",
     "辨太阳病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "气血辩证.md",
     "六淫辩证.md",
     "归经.md",
-    "日本的经方家.md",
     "伤寒论.md",
     "黄帝内经.md",
     "一句话的玩味.md",
