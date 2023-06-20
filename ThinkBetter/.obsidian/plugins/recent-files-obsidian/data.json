@@ -5,6 +5,10 @@
       "path": "辨太阳病脉症并治法.md"
     },
     {
+      "basename": "伤寒论",
+      "path": "伤寒论.md"
+    },
+    {
       "basename": "日本的经方家",
       "path": "日本的经方家.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "归经",
       "path": "归经.md"
-    },
-    {
-      "basename": "伤寒论",
-      "path": "伤寒论.md"
     },
     {
       "basename": "黄帝内经",
