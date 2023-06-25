@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23f66cb4344815d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "伤寒论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +222,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a7f1cbf352174c91",
+  "active": "23f66cb4344815d7",
   "lastOpenFiles": [
     "辨太阳病脉症并治法.md",
     "伤寒论.md",
