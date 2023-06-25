@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "+HomeMOC",
-      "path": "+HomeMOC.md"
-    },
-    {
       "basename": "辨太阳病脉症并治法",
       "path": "辨太阳病脉症并治法.md"
     },
     {
       "basename": "伤寒论",
       "path": "伤寒论.md"
+    },
+    {
+      "basename": "@MOC中医",
+      "path": "中医/@MOC中医.md"
+    },
+    {
+      "basename": "津液",
+      "path": "津液.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
     },
     {
       "basename": "日本的经方家",
@@ -59,14 +71,6 @@
     {
       "basename": "桂枝汤",
       "path": "桂枝汤.md"
-    },
-    {
-      "basename": "@MOC中医",
-      "path": "中医/@MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "阳明病证",
@@ -195,10 +199,6 @@
     {
       "basename": "事件timing",
       "path": "事件timing.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "学习方法.md"
     }
   ],
   "omittedPaths": [],

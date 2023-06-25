@@ -35,12 +35,15 @@
             "id": "23f66cb4344815d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "中医/@MOC中医.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "辨太阳病脉症并治法.md"
+              }
             }
           },
           {
@@ -157,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +229,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "23f66cb4344815d7",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
-    "辨太阳病脉症并治法.md",
     "伤寒论.md",
+    "中医/@MOC中医.md",
+    "津液.md",
+    "辨太阳病脉症并治法.md",
+    "+Home.md",
+    "+HomeMOC.md",
     "日本的经方家.md",
     "人纪 - 神农本草经.md",
     "气血辩证.md",
@@ -240,14 +251,11 @@
     "桂枝汤.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png",
-    "中医/@MOC中医.md",
-    "+Home.md",
     "阳明病证.md",
     "胃酸.md",
     "神农本草经.md",
     "掌控习惯.md",
     "反脆弱.md",
-    "+HomeMOC.md",
     "阅读的建议.md",
     "如何阅读的方法.md",
     "记笔记.md"
