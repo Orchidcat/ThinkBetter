@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨阳明病脉症并治法.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,11 +217,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a7f1cbf352174c91",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
+    "辨阳明病脉症并治法.md",
     "Sources/069E9B56.png",
     "辨太阳病脉症并治法.md",
-    "辨阳明病脉症并治法.md",
     "涩脉.md",
     "伤寒论.md",
     "中医/@MOC中医.md",
