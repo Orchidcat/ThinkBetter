@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咖啡",
+                "query": "涩脉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -218,7 +217,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a7f1cbf352174c91",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
