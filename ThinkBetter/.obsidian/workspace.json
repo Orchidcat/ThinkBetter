@@ -25,25 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f66cb4344815d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/@MOC中医.md",
+                "file": "辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "辨阳明病脉症并治法.md"
               }
             }
           },
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,12 +218,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51ca0cd23900378f",
+  "active": "a7f1cbf352174c91",
   "lastOpenFiles": [
     "伤寒论.md",
+    "辨阳明病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
     "中医/@MOC中医.md",
     "津液.md",
-    "辨太阳病脉症并治法.md",
     "+Home.md",
     "+HomeMOC.md",
     "日本的经方家.md",
@@ -257,7 +247,6 @@
     "掌控习惯.md",
     "反脆弱.md",
     "阅读的建议.md",
-    "如何阅读的方法.md",
-    "记笔记.md"
+    "如何阅读的方法.md"
   ]
 }
