@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -217,10 +218,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "a7f1cbf352174c91",
   "lastOpenFiles": [
-    "辨太阳病脉症并治法.md",
+    "涩脉.md",
     "辨阳明病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
     "伤寒论.md",
     "中医/@MOC中医.md",
     "津液.md",
@@ -245,7 +247,6 @@
     "神农本草经.md",
     "掌控习惯.md",
     "反脆弱.md",
-    "阅读的建议.md",
-    "如何阅读的方法.md"
+    "阅读的建议.md"
   ]
 }

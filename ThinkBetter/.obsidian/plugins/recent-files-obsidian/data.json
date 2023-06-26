@@ -5,6 +5,10 @@
       "path": "辨阳明病脉症并治法.md"
     },
     {
+      "basename": "涩脉",
+      "path": "涩脉.md"
+    },
+    {
       "basename": "辨太阳病脉症并治法",
       "path": "辨太阳病脉症并治法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "kindle使用技巧",
       "path": "kindle使用技巧.md"
-    },
-    {
-      "basename": "人物 MOC",
-      "path": "人物 MOC.md"
     }
   ],
   "omittedPaths": [],
