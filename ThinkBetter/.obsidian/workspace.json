@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4de19da5ff299245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "辨太阳病脉症并治法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b788d457f90359e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪 - 神农本草经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨阳明病脉症并治法.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -138,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,14 +230,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51ca0cd23900378f",
+  "active": "9b788d457f90359e",
   "lastOpenFiles": [
     "辨太阳病脉症并治法.md",
+    "辨阳明病脉症并治法.md",
     "中医诊断学.md",
     "八纲辨证.md",
     "脏腑辩证.md",
     "什么是癌症.md",
-    "辨阳明病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "Sources/069E9B56.png",
     "涩脉.md",
