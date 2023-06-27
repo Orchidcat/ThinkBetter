@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f1cbf352174c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "八纲辨证.md",
+                "file": "辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八纲辨证.md"
+                "file": "辨阳明病脉症并治法.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "辨阳明病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八纲辨证.md",
+                "file": "辨阳明病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,13 +205,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a7f1cbf352174c91",
+  "active": "51ca0cd23900378f",
   "lastOpenFiles": [
+    "辨太阳病脉症并治法.md",
     "中医诊断学.md",
+    "八纲辨证.md",
     "脏腑辩证.md",
     "什么是癌症.md",
     "辨阳明病脉症并治法.md",
-    "辨太阳病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "Sources/069E9B56.png",
     "涩脉.md",
@@ -246,7 +235,6 @@
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png",
     "阳明病证.md",
-    "胃酸.md",
-    "神农本草经.md"
+    "胃酸.md"
   ]
 }
