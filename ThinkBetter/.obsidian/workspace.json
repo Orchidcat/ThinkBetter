@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鲤鱼",
+                "query": "病程",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨阳明病脉症并治法.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +219,11 @@
   },
   "active": "a7f1cbf352174c91",
   "lastOpenFiles": [
-    "辨太阳病脉症并治法.md",
+    "中医诊断学.md",
+    "脏腑辩证.md",
+    "什么是癌症.md",
     "辨阳明病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "Sources/069E9B56.png",
     "涩脉.md",
@@ -245,8 +247,6 @@
     "Sources/Pasted image 20230602105114.png",
     "阳明病证.md",
     "胃酸.md",
-    "神农本草经.md",
-    "掌控习惯.md",
-    "反脆弱.md"
+    "神农本草经.md"
   ]
 }

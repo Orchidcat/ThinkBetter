@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "八纲辨证",
+      "path": "八纲辨证.md"
+    },
+    {
+      "basename": "中医诊断学",
+      "path": "中医诊断学.md"
+    },
+    {
+      "basename": "脏腑辩证",
+      "path": "脏腑辩证.md"
+    },
+    {
+      "basename": "什么是癌症",
+      "path": "什么是癌症.md"
+    },
+    {
       "basename": "辨阳明病脉症并治法",
       "path": "辨阳明病脉症并治法.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "NotToDo",
       "path": "NotToDo.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "思考问题的三个过滤器.md"
-    },
-    {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
-    },
-    {
-      "basename": "YEAR MOC⌛",
-      "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "kindle使用技巧",
-      "path": "kindle使用技巧.md"
     }
   ],
   "omittedPaths": [],
