@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "少阳病证.md",
+                "file": "辨少阳病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "少阳病证.md"
+                "file": "辨少阳病脉症并治法.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "少阳病证.md",
+                "file": "辨少阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "少阳病证.md",
+                "file": "辨少阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,7 @@
   },
   "active": "20c64a5e2b156db1",
   "lastOpenFiles": [
+    "少阳病证.md",
     "辨少阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "伤寒论.md",
@@ -246,7 +247,6 @@
     "少阴病证.md",
     "桂枝汤.md",
     "Sources/Pasted image 20230602105341.png",
-    "Sources/Pasted image 20230602105114.png",
-    "阳明病证.md"
+    "Sources/Pasted image 20230602105114.png"
   ]
 }
