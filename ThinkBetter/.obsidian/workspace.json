@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51ca0cd23900378f",
+            "id": "20c64a5e2b156db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨少阳病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4797027bfcc2d059",
+            "id": "ba410b54b91dd301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伤寒论.md"
+                "file": "辨少阳病脉症并治法.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨少阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨少阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,9 +217,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51ca0cd23900378f",
+  "active": "20c64a5e2b156db1",
   "lastOpenFiles": [
     "辨阳明病脉症并治法.md",
+    "辨少阳病脉症并治法.md",
+    "伤寒论.md",
     "辨太阳病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "中医诊断学.md",
@@ -228,7 +230,6 @@
     "什么是癌症.md",
     "Sources/069E9B56.png",
     "涩脉.md",
-    "伤寒论.md",
     "中医/@MOC中医.md",
     "津液.md",
     "+Home.md",
@@ -246,7 +247,6 @@
     "桂枝汤.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png",
-    "阳明病证.md",
-    "胃酸.md"
+    "阳明病证.md"
   ]
 }
