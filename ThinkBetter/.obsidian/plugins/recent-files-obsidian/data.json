@@ -5,6 +5,10 @@
       "path": "辨少阳病脉症并治法.md"
     },
     {
+      "basename": "少阳病证",
+      "path": "少阳病证.md"
+    },
+    {
       "basename": "辨阳明病脉症并治法",
       "path": "辨阳明病脉症并治法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "基本Q",
-      "path": "基本Q.md"
     }
   ],
   "omittedPaths": [],
