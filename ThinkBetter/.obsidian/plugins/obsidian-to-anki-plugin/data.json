@@ -1,14 +1,44 @@
 {
   "settings": {
     "CUSTOM_REGEXPS": {
+      "1000 Basic English Words": "",
+      "AllInOne (kprim, mc, sc)": "",
+      "Basic (optional reversed card)": "",
+      "Cloze": "",
+      "English Vocabulary in Use": "",
+      "Image Occlusion Enhanced": "",
+      "Obsidian-basic": "",
+      "Obsidian-basic-reversed": "",
+      "Obsidian-cloze": "",
+      "Obsidian-spaced": "",
+      "ODH": "",
+      "基础": "",
+      "基础 (可选翻转)": "",
+      "基础 (翻转)": "",
       "填空题": "",
+      "诗词": "",
       "问答题": "",
       "问答题（同时生成翻转的卡片<可选>）": "",
       "问答题（同时生成翻转的卡片）": "",
       "问答题（输入答案）": ""
     },
     "FILE_LINK_FIELDS": {
+      "1000 Basic English Words": "Id",
+      "AllInOne (kprim, mc, sc)": "Question",
+      "Basic (optional reversed card)": "Front",
+      "Cloze": "Text",
+      "English Vocabulary in Use": "Id",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Obsidian-basic": "Front",
+      "Obsidian-basic-reversed": "Front",
+      "Obsidian-cloze": "Text",
+      "Obsidian-spaced": "Prompt",
+      "ODH": "expression",
+      "基础": "Front",
+      "基础 (可选翻转)": "Front",
+      "基础 (翻转)": "Front",
       "填空题": "文字",
+      "诗词": "题目",
       "问答题": "正面",
       "问答题（同时生成翻转的卡片<可选>）": "正面",
       "问答题（同时生成翻转的卡片）": "正面",
@@ -39,5 +69,7 @@
       "Add Obsidian Tags": false
     }
   },
+  "Added Media": [],
+  "File Hashes": {},
   "fields_dict": {}
 }
