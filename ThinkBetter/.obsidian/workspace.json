@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "8fe2a69850f61429",
+            "id": "f77d1620c7d15f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "辨厥阴病脉症并治法.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,15 +230,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "f77d1620c7d15f03",
   "lastOpenFiles": [
+    "辨少阴病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
     "八纲辨证.md",
     "辨厥阴病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "辨阳明病脉症并治法.md",
-    "辨少阴病脉症并治法.md",
     "伤寒论.md",
-    "辨太阳病脉症并治法.md",
     "辨少阳病脉症并治法.md",
     "五液.md",
     "问耳目.md",
