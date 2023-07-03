@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伤寒论.md"
+                "file": "辨厥阴病脉症并治法.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伤寒论.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,6 +221,8 @@
   "active": "80a57c39833abba0",
   "lastOpenFiles": [
     "辨少阴病脉症并治法.md",
+    "辨厥阴病脉症并治法.md",
+    "伤寒论.md",
     "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "辨少阳病脉症并治法.md",
@@ -229,7 +231,6 @@
     "黄帝内经.md",
     "Sources/Pasted image 20230703091332.png",
     "辨太阴病脉症并治法.md",
-    "伤寒论.md",
     "少阳病证.md",
     "人纪 - 神农本草经.md",
     "中医诊断学.md",
@@ -247,7 +248,6 @@
     "六淫辩证.md",
     "归经.md",
     "一句话的玩味.md",
-    "视觉信息论.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"
   ]
