@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 神农本草经.md"
+                "file": "辨厥阴病脉症并治法.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "辨厥阴病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8fe2a69850f61429",
+  "active": "80a57c39833abba0",
   "lastOpenFiles": [
+    "人纪 - 神农本草经.md",
     "辨厥阴病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
@@ -243,7 +244,6 @@
     "Sources/Pasted image 20230703091332.png",
     "辨太阴病脉症并治法.md",
     "少阳病证.md",
-    "人纪 - 神农本草经.md",
     "中医诊断学.md",
     "八纲辨证.md",
     "脏腑辩证.md",
