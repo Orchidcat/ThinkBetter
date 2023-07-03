@@ -1,6 +1,11 @@
 {
   "strategy": "chinese",
-  "matchStrategy": "prefix",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "partial",
+  "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -10,6 +15,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -38,174 +48,22 @@
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
+  "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "2023": {
-      "2023": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682660398270
-        }
-      }
-    },
-    "要点": {
-      "要点": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684129270395
-        }
-      }
-    },
-    "阅读的建议": {
-      "阅读的建议": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684129577134
-        }
-      }
-    },
-    "3g": {
-      "3g": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684135875353
-        }
-      }
-    },
-    "毒性": {
-      "毒性": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684309345325
-        }
-      }
-    },
-    "白术": {
-      "白术": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684718443786
-        }
-      }
-    },
-    "药物": {
-      "药物": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1684811477586
-        }
-      }
-    },
-    "平叛": {
-      "平叛": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1684744413585
-        }
-      }
-    },
-    "麦门冬": {
-      "麦门冬": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684741678279
-        }
-      }
-    },
-    "子午流注": {
-      "子午流注": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1684805105414
-        }
-      }
-    },
-    "中药": {
-      "中药": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684742556233
-        }
-      }
-    },
-    "肾结石": {
-      "肾结石": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684744505706
-        }
-      }
-    },
-    "使用": {
-      "使用": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684802960212
-        }
-      }
-    },
-    "实脉": {
-      "实脉": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684802974302
-        }
-      }
-    },
-    "寒滞胃脘证": {
-      "寒滞胃脘证": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684804098885
-        }
-      }
-    },
-    "石膏": {
-      "石膏": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684804813575
-        }
-      }
-    },
-    "祛风": {
-      "祛风": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684809576520
-        }
-      }
-    },
-    "发散": {
-      "发散": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684809780239
-        }
-      }
-    },
-    "可用性启发": {
-      "可用性启发": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1684810148225
-        }
-      }
-    },
-    "用处": {
-      "用处": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1684810282095
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }
