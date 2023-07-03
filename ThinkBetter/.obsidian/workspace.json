@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20c64a5e2b156db1",
+            "id": "0197c38bd42febb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨少阳病脉症并治法.md",
+                "file": "辨少阴病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba410b54b91dd301",
+            "id": "80a57c39833abba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨阳明病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "862c1b2e76a11a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨太阴病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "253e94ab7156fa6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbcbd6e5145ca556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "五液.md",
+                "file": "伤寒论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -176,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "五液.md"
+                "file": "伤寒论.md"
               }
             }
           },
@@ -186,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "五液.md",
+                "file": "伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "五液.md",
+                "file": "伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,16 +218,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "80a57c39833abba0",
   "lastOpenFiles": [
+    "辨少阴病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
+    "辨阳明病脉症并治法.md",
+    "辨少阳病脉症并治法.md",
+    "五液.md",
     "问耳目.md",
     "黄帝内经.md",
-    "辨少阴病脉症并治法.md",
     "Sources/Pasted image 20230703091332.png",
-    "辨少阳病脉症并治法.md",
     "辨太阴病脉症并治法.md",
-    "辨阳明病脉症并治法.md",
-    "辨太阳病脉症并治法.md",
     "伤寒论.md",
     "少阳病证.md",
     "人纪 - 神农本草经.md",
@@ -282,7 +248,6 @@
     "归经.md",
     "一句话的玩味.md",
     "视觉信息论.md",
-    "营卫之气.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"
   ]
