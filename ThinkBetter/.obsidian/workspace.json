@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开窍",
+                "query": "黄柏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -220,11 +219,11 @@
   },
   "active": "80a57c39833abba0",
   "lastOpenFiles": [
-    "辨少阴病脉症并治法.md",
+    "辨阳明病脉症并治法.md",
     "辨厥阴病脉症并治法.md",
+    "辨少阴病脉症并治法.md",
     "伤寒论.md",
     "辨太阳病脉症并治法.md",
-    "辨阳明病脉症并治法.md",
     "辨少阳病脉症并治法.md",
     "五液.md",
     "问耳目.md",
