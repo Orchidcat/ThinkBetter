@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -229,7 +230,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "80a57c39833abba0",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "八纲辨证.md",
     "辨厥阴病脉症并治法.md",
