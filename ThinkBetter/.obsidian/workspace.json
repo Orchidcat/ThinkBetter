@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨少阴病脉症并治法.md",
+                "file": "五液.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "病程",
+                "query": "开窍",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨少阴病脉症并治法.md"
+                "file": "五液.md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨少阴病脉症并治法.md",
+                "file": "五液.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨少阴病脉症并治法.md",
+                "file": "五液.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,10 +253,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "dbcbd6e5145ca556",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "Sources/Pasted image 20230703091332.png",
+    "问耳目.md",
+    "黄帝内经.md",
     "辨少阴病脉症并治法.md",
+    "Sources/Pasted image 20230703091332.png",
     "辨少阳病脉症并治法.md",
     "辨太阴病脉症并治法.md",
     "辨阳明病脉症并治法.md",
@@ -279,7 +280,6 @@
     "气血辩证.md",
     "六淫辩证.md",
     "归经.md",
-    "黄帝内经.md",
     "一句话的玩味.md",
     "视觉信息论.md",
     "营卫之气.md",

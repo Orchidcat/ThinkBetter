@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "五液",
+      "path": "五液.md"
+    },
+    {
+      "basename": "问耳目",
+      "path": "问耳目.md"
+    },
+    {
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
+    },
+    {
       "basename": "辨少阴病脉症并治法",
       "path": "辨少阴病脉症并治法.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "归经",
       "path": "归经.md"
-    },
-    {
-      "basename": "黄帝内经",
-      "path": "黄帝内经.md"
     },
     {
       "basename": "一句话的玩味",
@@ -191,14 +199,6 @@
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "人纪 - 针灸",
-      "path": "人纪 - 针灸.md"
-    },
-    {
-      "basename": "子午流注",
-      "path": "子午流注.md"
     }
   ],
   "omittedPaths": [],
