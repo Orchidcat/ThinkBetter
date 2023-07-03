@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨厥阴病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "诊断",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨厥阴病脉症并治法.md"
+                "file": "八纲辨证.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨厥阴病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨厥阴病脉症并治法.md",
+                "file": "八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,8 +231,8 @@
   },
   "active": "80a57c39833abba0",
   "lastOpenFiles": [
-    "人纪 - 神农本草经.md",
     "辨厥阴病脉症并治法.md",
+    "人纪 - 神农本草经.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
     "伤寒论.md",
