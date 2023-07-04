@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "补药",
+                "query": "桃花汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -233,8 +233,8 @@
   "active": "f77d1620c7d15f03",
   "lastOpenFiles": [
     "辨少阴病脉症并治法.md",
-    "辨太阳病脉症并治法.md",
     "辨厥阴病脉症并治法.md",
+    "辨太阳病脉症并治法.md",
     "八纲辨证.md",
     "人纪 - 神农本草经.md",
     "辨阳明病脉症并治法.md",
