@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论.md",
+                "file": "血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伤寒论.md"
+                "file": "血证论.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伤寒论.md",
+                "file": "血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伤寒论.md",
+                "file": "血证论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,13 +244,14 @@
   },
   "active": "05897744e5116174",
   "lastOpenFiles": [
+    "伤寒论.md",
+    "血证论.md",
     "辨厥阴病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
     "辨太阳病脉症并治法.md",
     "八纲辨证.md",
     "人纪 - 神农本草经.md",
-    "伤寒论.md",
     "辨少阳病脉症并治法.md",
     "五液.md",
     "问耳目.md",
@@ -271,7 +272,6 @@
     "气血辩证.md",
     "六淫辩证.md",
     "归经.md",
-    "一句话的玩味.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"
   ]

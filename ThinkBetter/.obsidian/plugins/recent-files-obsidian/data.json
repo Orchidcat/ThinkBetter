@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "血证论",
+      "path": "血证论.md"
+    },
+    {
       "basename": "伤寒论",
       "path": "伤寒论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server MOC",
       "path": "SQL Server MOC.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
     }
   ],
   "omittedPaths": [],
