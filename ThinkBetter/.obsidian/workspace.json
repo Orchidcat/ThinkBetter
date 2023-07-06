@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 神农本草经.md"
+                "file": "血证论.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 神农本草经.md",
+                "file": "血证论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +229,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ede4b16fe4d47527",
+  "active": "81dd5cd5ac3b6fc1",
   "lastOpenFiles": [
-    "血证论.md",
     "卫气.md",
+    "人纪 - 神农本草经.md",
+    "血证论.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
@@ -248,7 +248,6 @@
     "辨少阴病脉症并治法.md",
     "辨太阳病脉症并治法.md",
     "八纲辨证.md",
-    "人纪 - 神农本草经.md",
     "辨少阳病脉症并治法.md",
     "五液.md",
     "问耳目.md",
