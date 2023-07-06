@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " 吴茱萸汤",
+                "query": " 卫气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -244,10 +243,12 @@
   },
   "active": "81dd5cd5ac3b6fc1",
   "lastOpenFiles": [
+    "归经.md",
+    "人纪 - 针灸.md",
+    "血证论.md",
     "辨厥阴病脉症并治法.md",
     "事件timing.md",
     "+Home.md",
-    "血证论.md",
     "伤寒论.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
@@ -270,8 +271,6 @@
     "津液.md",
     "+HomeMOC.md",
     "日本的经方家.md",
-    "气血辩证.md",
-    "六淫辩证.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"
   ]

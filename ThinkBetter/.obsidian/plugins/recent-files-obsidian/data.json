@@ -5,6 +5,14 @@
       "path": "血证论.md"
     },
     {
+      "basename": "归经",
+      "path": "归经.md"
+    },
+    {
+      "basename": "人纪 - 针灸",
+      "path": "人纪 - 针灸.md"
+    },
+    {
       "basename": "辨厥阴病脉症并治法",
       "path": "辨厥阴病脉症并治法.md"
     },
@@ -105,10 +113,6 @@
       "path": "六淫辩证.md"
     },
     {
-      "basename": "归经",
-      "path": "归经.md"
-    },
-    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sqlite MOC",
       "path": "sqlite MOC.md"
-    },
-    {
-      "basename": "DBCC CLEANTABLE",
-      "path": "DBCC CLEANTABLE.md"
     }
   ],
   "omittedPaths": [],
