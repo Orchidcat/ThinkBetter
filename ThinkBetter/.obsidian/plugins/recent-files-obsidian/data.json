@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "血证论",
       "path": "血证论.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "津液",
       "path": "津液.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "+HomeMOC",
@@ -195,10 +199,6 @@
     {
       "basename": "DBCC CLEANTABLE",
       "path": "DBCC CLEANTABLE.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
     }
   ],
   "omittedPaths": [],
