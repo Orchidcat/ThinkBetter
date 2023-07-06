@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "卫气",
+      "path": "卫气.md"
+    },
+    {
       "basename": "血证论",
       "path": "血证论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-05-12",
       "path": "DailyNotes/2023-05-12.md"
-    },
-    {
-      "basename": "sqlite MOC",
-      "path": "sqlite MOC.md"
     }
   ],
   "omittedPaths": [],
