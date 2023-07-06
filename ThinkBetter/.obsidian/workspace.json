@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ede4b16fe4d47527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪 - 神农本草经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "血证论.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "血证论.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "血证论.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +230,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "81dd5cd5ac3b6fc1",
+  "active": "ede4b16fe4d47527",
   "lastOpenFiles": [
+    "血证论.md",
     "卫气.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
     "Sources/Pasted image 20230706111543.png",
-    "血证论.md",
     "归经.md",
     "人纪 - 针灸.md",
     "辨厥阴病脉症并治法.md",
