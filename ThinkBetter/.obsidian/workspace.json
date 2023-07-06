@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "05897744e5116174",
+            "id": "81dd5cd5ac3b6fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件timing.md",
+                "file": "血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件timing.md"
+                "file": "血证论.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件timing.md",
+                "file": "血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件timing.md",
+                "file": "血证论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,12 +242,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "05897744e5116174",
+  "active": "81dd5cd5ac3b6fc1",
   "lastOpenFiles": [
+    "辨厥阴病脉症并治法.md",
+    "事件timing.md",
     "+Home.md",
     "血证论.md",
     "伤寒论.md",
-    "辨厥阴病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
     "辨太阳病脉症并治法.md",
@@ -271,7 +272,6 @@
     "日本的经方家.md",
     "气血辩证.md",
     "六淫辩证.md",
-    "归经.md",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"
   ]
