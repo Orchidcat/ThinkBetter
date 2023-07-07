@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪 - 针灸.md"
+                "file": "血证论.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪 - 针灸.md",
+                "file": "血证论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +228,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8b70ae1ca0f66f4d",
+  "active": "81dd5cd5ac3b6fc1",
   "lastOpenFiles": [
+    "人纪 - 针灸.md",
     "血证论.md",
     "卫气.md",
     "人纪 - 神农本草经.md",
@@ -239,7 +239,6 @@
     "Sources/Pasted image 20230706111605.png",
     "Sources/Pasted image 20230706111543.png",
     "归经.md",
-    "人纪 - 针灸.md",
     "辨厥阴病脉症并治法.md",
     "事件timing.md",
     "+Home.md",
