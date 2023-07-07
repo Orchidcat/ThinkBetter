@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b70ae1ca0f66f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪 - 针灸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " 卫气",
+                "query": "气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "血证论.md"
+                "file": "人纪 - 针灸.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "血证论.md",
+                "file": "人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "血证论.md",
+                "file": "人纪 - 针灸.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,11 +229,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "81dd5cd5ac3b6fc1",
+  "active": "8b70ae1ca0f66f4d",
   "lastOpenFiles": [
+    "血证论.md",
     "卫气.md",
     "人纪 - 神农本草经.md",
-    "血证论.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
