@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "桑菊饮.md",
+                "file": "中药学.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桑菊饮.md"
+                "file": "中药学.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桑菊饮.md",
+                "file": "中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桑菊饮.md",
+                "file": "中药学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,8 @@
   },
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
+    "银翘散.md",
+    "桑菊饮.md",
     "香苏散.md",
     "五味.md",
     "麻黄汤.md",
@@ -235,8 +237,6 @@
     "问耳目.md",
     "黄帝内经.md",
     "Sources/Pasted image 20230703091332.png",
-    "辨太阴病脉症并治法.md",
-    "少阳病证.md",
     "Sources/069E9B56.png",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "中药学",
+      "path": "中药学.md"
+    },
+    {
+      "basename": "银翘散",
+      "path": "银翘散.md"
+    },
+    {
       "basename": "桑菊饮",
       "path": "桑菊饮.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "掌控习惯",
       "path": "掌控习惯.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "阅读的建议.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "如何阅读的方法.md"
     }
   ],
   "omittedPaths": [],
