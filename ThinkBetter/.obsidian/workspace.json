@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归经.md",
+                "file": "桑菊饮.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "紫苏",
+                "query": "薄荷",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归经.md"
+                "file": "桑菊饮.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归经.md",
+                "file": "桑菊饮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归经.md",
+                "file": "桑菊饮.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,9 @@
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
     "香苏散.md",
+    "五味.md",
+    "麻黄汤.md",
+    "归经.md",
     "血证论.md",
     "金匮要略 - 人纪.md",
     "文式易经经.md",
@@ -224,7 +227,6 @@
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
     "Sources/Pasted image 20230706111543.png",
-    "归经.md",
     "事件timing.md",
     "+Home.md",
     "八纲辨证.md",
@@ -235,8 +237,6 @@
     "Sources/Pasted image 20230703091332.png",
     "辨太阴病脉症并治法.md",
     "少阳病证.md",
-    "中医诊断学.md",
-    "脏腑辩证.md",
     "Sources/069E9B56.png",
     "Sources/Pasted image 20230602105341.png",
     "Sources/Pasted image 20230602105114.png"

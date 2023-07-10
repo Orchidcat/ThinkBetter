@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "归经",
-      "path": "归经.md"
+      "basename": "桑菊饮",
+      "path": "桑菊饮.md"
     },
     {
       "basename": "香苏散",
       "path": "香苏散.md"
+    },
+    {
+      "basename": "五味",
+      "path": "五味.md"
+    },
+    {
+      "basename": "麻黄汤",
+      "path": "麻黄汤.md"
+    },
+    {
+      "basename": "归经",
+      "path": "归经.md"
     },
     {
       "basename": "血证论",
@@ -187,18 +199,6 @@
     {
       "basename": "如何阅读的方法",
       "path": "如何阅读的方法.md"
-    },
-    {
-      "basename": "记笔记",
-      "path": "记笔记.md"
-    },
-    {
-      "basename": "选择好书",
-      "path": "选择好书.md"
-    },
-    {
-      "basename": "阅读水平",
-      "path": "阅读水平.md"
     }
   ],
   "omittedPaths": [],
