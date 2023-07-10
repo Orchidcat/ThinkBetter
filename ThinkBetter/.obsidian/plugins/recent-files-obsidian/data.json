@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "归经",
+      "path": "归经.md"
+    },
+    {
+      "basename": "香苏散",
+      "path": "香苏散.md"
+    },
+    {
       "basename": "血证论",
       "path": "血证论.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
-    },
-    {
-      "basename": "归经",
-      "path": "归经.md"
     },
     {
       "basename": "事件timing",
@@ -195,10 +199,6 @@
     {
       "basename": "阅读水平",
       "path": "阅读水平.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     }
   ],
   "omittedPaths": [],
