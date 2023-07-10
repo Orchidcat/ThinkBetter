@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86739f83d1825681",
+            "id": "8bb16cef2f97c93d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金匮要略 - 人纪.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b44291bda57ceb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文式易经经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133cac2be08946a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胸痹心痛短气病脉症并治第九.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bd525a63cfeba5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "血证论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -164,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "血证论.md"
               }
             }
           },
@@ -174,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "血证论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,17 +205,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6bd525a63cfeba5c",
+  "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
+    "金匮要略 - 人纪.md",
+    "文式易经经.md",
+    "胸痹心痛短气病脉症并治第九.md",
+    "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "升降沉浮.md",
     "伤寒论.md",
     "辨厥阴病脉症并治法.md",
     "辨少阴病脉症并治法.md",
-    "辨太阳病脉症并治法.md",
-    "金匮要略 - 人纪.md",
-    "文式易经经.md",
-    "胸痹心痛短气病脉症并治第九.md",
     "血证论.md",
     "人纪 - 神农本草经.md",
     "卫气.md",
