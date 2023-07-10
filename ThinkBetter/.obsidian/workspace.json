@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "香苏散.md",
+                "file": "人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "紫苏",
+                "query": "羚羊角",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "香苏散.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "香苏散.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "香苏散.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,9 @@
   },
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
+    "另煎.md",
+    "冲服.md",
+    "香苏散.md",
     "五味.md",
     "人纪 - 神农本草经.md",
     "升降沉浮.md",
@@ -221,7 +224,6 @@
     "中医/药/解表剂.md",
     "桂枝汤.md",
     "柴葛解肌汤.md",
-    "香苏散.md",
     "归经.md",
     "后下.md",
     "银翘散.md",
@@ -230,8 +232,6 @@
     "胸痹心痛短气病脉症并治第九.md",
     "辨阳明病脉症并治法.md",
     "伤寒论.md",
-    "辨厥阴病脉症并治法.md",
-    "卫气.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
