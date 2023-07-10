@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "金匮要略 - 人纪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b44291bda57ceb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "文式易经经.md",
                 "mode": "source",
                 "source": false
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "86739f83d1825681",
+  "active": "8b44291bda57ceb9",
   "lastOpenFiles": [
     "金匮要略 - 人纪.md",
     "文式易经经.md",
