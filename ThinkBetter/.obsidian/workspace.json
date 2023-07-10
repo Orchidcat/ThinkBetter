@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恶风.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "恶风.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恶风.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +217,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5575c62f449e157a",
+  "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
-    "辨太阳病脉症并治法.md",
     "恶风.md",
+    "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "麻黄汤.md",
     "中药学.md",
