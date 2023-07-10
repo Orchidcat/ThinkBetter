@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "羚羊角",
+                "query": "麻黄汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8bb16cef2f97c93d",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪 - 神农本草经.md",
     "另煎.md",
