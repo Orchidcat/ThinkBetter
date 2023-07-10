@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药学.md",
+                "file": "升降沉浮.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "薄荷",
+                "query": "苏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中药学.md"
+                "file": "升降沉浮.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中药学.md",
+                "file": "升降沉浮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中药学.md",
+                "file": "升降沉浮.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,12 +206,19 @@
   },
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
-    "银翘散.md",
-    "桑菊饮.md",
+    "人纪 - 神农本草经.md",
+    "麻黄汤.md",
+    "历史年代.md",
+    "中医/药/解表剂.md",
+    "桂枝汤.md",
+    "柴葛解肌汤.md",
     "香苏散.md",
     "五味.md",
-    "麻黄汤.md",
     "归经.md",
+    "后下.md",
+    "中药学.md",
+    "银翘散.md",
+    "桑菊饮.md",
     "血证论.md",
     "金匮要略 - 人纪.md",
     "文式易经经.md",
@@ -222,7 +229,6 @@
     "伤寒论.md",
     "辨厥阴病脉症并治法.md",
     "辨少阴病脉症并治法.md",
-    "人纪 - 神农本草经.md",
     "卫气.md",
     "人纪 - 针灸.md",
     "Sources/Pasted image 20230706134502.png",
@@ -230,12 +236,6 @@
     "Sources/Pasted image 20230706111605.png",
     "Sources/Pasted image 20230706111543.png",
     "事件timing.md",
-    "+Home.md",
-    "八纲辨证.md",
-    "辨少阳病脉症并治法.md",
-    "五液.md",
-    "问耳目.md",
-    "黄帝内经.md",
     "Sources/Pasted image 20230703091332.png",
     "Sources/069E9B56.png",
     "Sources/Pasted image 20230602105341.png",

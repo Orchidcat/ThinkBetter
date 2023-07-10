@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "中药学",
-      "path": "中药学.md"
+      "basename": "升降沉浮",
+      "path": "升降沉浮.md"
     },
     {
-      "basename": "银翘散",
-      "path": "银翘散.md"
+      "basename": "人纪 - 神农本草经",
+      "path": "人纪 - 神农本草经.md"
     },
     {
-      "basename": "桑菊饮",
-      "path": "桑菊饮.md"
+      "basename": "麻黄汤",
+      "path": "麻黄汤.md"
+    },
+    {
+      "basename": "历史年代",
+      "path": "历史年代.md"
+    },
+    {
+      "basename": "解表剂",
+      "path": "中医/药/解表剂.md"
+    },
+    {
+      "basename": "桂枝汤",
+      "path": "桂枝汤.md"
+    },
+    {
+      "basename": "柴葛解肌汤",
+      "path": "柴葛解肌汤.md"
     },
     {
       "basename": "香苏散",
@@ -21,12 +37,24 @@
       "path": "五味.md"
     },
     {
-      "basename": "麻黄汤",
-      "path": "麻黄汤.md"
-    },
-    {
       "basename": "归经",
       "path": "归经.md"
+    },
+    {
+      "basename": "后下",
+      "path": "后下.md"
+    },
+    {
+      "basename": "中药学",
+      "path": "中药学.md"
+    },
+    {
+      "basename": "银翘散",
+      "path": "银翘散.md"
+    },
+    {
+      "basename": "桑菊饮",
+      "path": "桑菊饮.md"
     },
     {
       "basename": "血证论",
@@ -53,10 +81,6 @@
       "path": "辨阳明病脉症并治法.md"
     },
     {
-      "basename": "升降沉浮",
-      "path": "升降沉浮.md"
-    },
-    {
       "basename": "伤寒论",
       "path": "伤寒论.md"
     },
@@ -67,10 +91,6 @@
     {
       "basename": "辨少阴病脉症并治法",
       "path": "辨少阴病脉症并治法.md"
-    },
-    {
-      "basename": "人纪 - 神农本草经",
-      "path": "人纪 - 神农本草经.md"
     },
     {
       "basename": "卫气",
@@ -177,28 +197,8 @@
       "path": "少阴病证.md"
     },
     {
-      "basename": "桂枝汤",
-      "path": "桂枝汤.md"
-    },
-    {
       "basename": "阳明病证",
       "path": "阳明病证.md"
-    },
-    {
-      "basename": "胃酸",
-      "path": "胃酸.md"
-    },
-    {
-      "basename": "反脆弱",
-      "path": "反脆弱.md"
-    },
-    {
-      "basename": "神农本草经",
-      "path": "神农本草经.md"
-    },
-    {
-      "basename": "掌控习惯",
-      "path": "掌控习惯.md"
     }
   ],
   "omittedPaths": [],
