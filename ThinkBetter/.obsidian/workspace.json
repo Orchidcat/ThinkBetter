@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "辨阳明病脉症并治法.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "辨阳明病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,7 @@
   },
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
+    "辨太阳病脉症并治法.md",
     "麻黄汤.md",
     "中药学.md",
     "人纪 - 神农本草经.md",
@@ -218,7 +219,6 @@
     "金匮要略 - 人纪.md",
     "常用8种治法.md",
     "血证论.md",
-    "辨太阳病脉症并治法.md",
     "辨少阴病脉症并治法.md",
     "历史年代.md",
     "中医/药/解表剂.md",
