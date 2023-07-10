@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文式易经经.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文式易经经.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文式易经经.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,10 +229,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8b44291bda57ceb9",
+  "active": "86739f83d1825681",
   "lastOpenFiles": [
-    "金匮要略 - 人纪.md",
     "文式易经经.md",
+    "金匮要略 - 人纪.md",
     "胸痹心痛短气病脉症并治第九.md",
     "血证论.md",
     "伤寒论.md",
