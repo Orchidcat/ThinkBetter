@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,7 +217,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "胸痹心痛短气病脉症并治第九.md",
     "金匮要略 - 人纪.md",
