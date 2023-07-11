@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "麻黄汤",
+                "query": "海藻",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "人纪 - 神农本草经.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +213,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "janitor:Janitor: scan vault": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "8bb16cef2f97c93d",
   "lastOpenFiles": [
-    "恶风.md",
+    "五味.md",
+    "中药十八反十九畏.md",
     "辨太阳病脉症并治法.md",
+    "恶风.md",
     "辨阳明病脉症并治法.md",
     "麻黄汤.md",
     "中药学.md",
@@ -228,7 +230,6 @@
     "另煎.md",
     "冲服.md",
     "香苏散.md",
-    "五味.md",
     "升降沉浮.md",
     "相使.md",
     "金匮要略 - 人纪.md",
@@ -244,7 +245,6 @@
     "银翘散.md",
     "桑菊饮.md",
     "文式易经经.md",
-    "胸痹心痛短气病脉症并治第九.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
