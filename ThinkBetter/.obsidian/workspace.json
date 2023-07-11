@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉症并治法.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉症并治法.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,11 +231,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c223fe1b170cfd0f",
+  "active": "8fea34befd174069",
   "lastOpenFiles": [
+    "辨太阳病脉症并治法.md",
     "金匮要略 - 人纪.md",
     "恶风.md",
-    "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "五味.md",
