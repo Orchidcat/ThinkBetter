@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fea34befd174069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金匮要略 - 人纪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恶风.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "恶风.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恶风.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,13 +219,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5575c62f449e157a",
+  "active": "8fea34befd174069",
   "lastOpenFiles": [
+    "恶风.md",
     "人纪 - 神农本草经.md",
     "五味.md",
     "中药十八反十九畏.md",
     "辨太阳病脉症并治法.md",
-    "恶风.md",
     "辨阳明病脉症并治法.md",
     "麻黄汤.md",
     "中药学.md",
