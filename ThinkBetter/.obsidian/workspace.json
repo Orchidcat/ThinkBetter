@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c223fe1b170cfd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "辨太阳病脉症并治法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "海藻",
+                "query": "茯苓",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "辨太阳病脉症并治法.md"
               }
             }
           },
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "辨太阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "辨太阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,14 +230,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "8fea34befd174069",
+  "active": "c223fe1b170cfd0f",
   "lastOpenFiles": [
+    "辨阳明病脉症并治法.md",
+    "金匮要略 - 人纪.md",
     "恶风.md",
     "人纪 - 神农本草经.md",
     "五味.md",
     "中药十八反十九畏.md",
     "辨太阳病脉症并治法.md",
-    "辨阳明病脉症并治法.md",
     "麻黄汤.md",
     "中药学.md",
     "另煎.md",
@@ -234,7 +246,6 @@
     "香苏散.md",
     "升降沉浮.md",
     "相使.md",
-    "金匮要略 - 人纪.md",
     "常用8种治法.md",
     "血证论.md",
     "辨少阴病脉症并治法.md",
