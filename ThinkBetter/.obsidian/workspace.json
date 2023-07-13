@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文式易经经.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文式易经经.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文式易经经.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,8 +217,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ec66f816aa79d78e",
+  "active": "8fea34befd174069",
   "lastOpenFiles": [
+    "文式易经经.md",
     "金匮要略 - 人纪.md",
     "恶风.md",
     "辨阳明病脉症并治法.md",
@@ -245,7 +245,6 @@
     "归经.md",
     "后下.md",
     "银翘散.md",
-    "桑菊饮.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
