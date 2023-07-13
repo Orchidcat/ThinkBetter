@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "文式易经经",
+      "path": "文式易经经.md"
+    },
+    {
       "basename": "金匮要略 - 人纪",
       "path": "金匮要略 - 人纪.md"
     },
@@ -105,10 +109,6 @@
       "path": "桑菊饮.md"
     },
     {
-      "basename": "文式易经经",
-      "path": "文式易经经.md"
-    },
-    {
       "basename": "胸痹心痛短气病脉症并治第九",
       "path": "胸痹心痛短气病脉症并治第九.md"
     },
@@ -202,5 +202,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

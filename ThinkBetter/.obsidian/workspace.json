@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec66f816aa79d78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文式易经经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "文式易经经.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "文式易经经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "文式易经经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,10 +218,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8fea34befd174069",
+  "active": "ec66f816aa79d78e",
   "lastOpenFiles": [
-    "恶风.md",
     "金匮要略 - 人纪.md",
+    "恶风.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
     "肾结石.md",
