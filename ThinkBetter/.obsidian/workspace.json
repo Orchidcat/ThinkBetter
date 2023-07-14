@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "心藏神",
+                "query": "防己",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -205,7 +204,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8fea34befd174069",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "黄帝内经.md",
     "金匮要略 - 人纪.md",
