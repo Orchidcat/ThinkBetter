@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fea34befd174069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zy-诊断学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebdbe5a489fa1b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "桂枝汤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79b6de7667cef437",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +208,10 @@
   "active": "79b6de7667cef437",
   "lastOpenFiles": [
     "桂枝汤.md",
+    "zy-诊断学.md",
+    "金匮要略 - 人纪.md",
     "常用8种治法.md",
     "大小青龙汤.md",
-    "金匮要略 - 人纪.md",
-    "zy-诊断学.md",
     "辨阳明病脉症并治法.md",
     "辨厥阴病脉症并治法.md",
     "黄帝内经.md",
