@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79b6de7667cef437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金匮要略 - 人纪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桂枝汤.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桂枝汤.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桂枝汤.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +230,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ebdbe5a489fa1b6c",
+  "active": "79b6de7667cef437",
   "lastOpenFiles": [
+    "桂枝汤.md",
     "常用8种治法.md",
     "大小青龙汤.md",
     "金匮要略 - 人纪.md",
@@ -244,7 +258,6 @@
     "相使.md",
     "血证论.md",
     "历史年代.md",
-    "中医/药/解表剂.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
