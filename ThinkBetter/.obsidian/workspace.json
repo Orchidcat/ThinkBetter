@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "防己",
+                "query": "渴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "辨阳明病脉症并治法.md"
               }
             }
           },
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "辨阳明病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "辨阳明病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +206,9 @@
   },
   "active": "8fea34befd174069",
   "lastOpenFiles": [
-    "黄帝内经.md",
+    "辨厥阴病脉症并治法.md",
     "金匮要略 - 人纪.md",
+    "黄帝内经.md",
     "文式易经经.md",
     "辨少阳病脉症并治法.md",
     "恶风.md",
@@ -232,7 +232,6 @@
     "中医/药/解表剂.md",
     "桂枝汤.md",
     "柴葛解肌汤.md",
-    "归经.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
