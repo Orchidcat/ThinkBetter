@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebdbe5a489fa1b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金匮要略 - 人纪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zy-诊断学.md"
+                "file": "金匮要略 - 人纪.md"
               }
             }
           },
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "金匮要略 - 人纪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zy-诊断学.md",
+                "file": "金匮要略 - 人纪.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +218,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8fea34befd174069",
+  "active": "ebdbe5a489fa1b6c",
   "lastOpenFiles": [
+    "zy-诊断学.md",
     "辨阳明病脉症并治法.md",
     "辨厥阴病脉症并治法.md",
     "金匮要略 - 人纪.md",
@@ -231,7 +246,6 @@
     "历史年代.md",
     "中医/药/解表剂.md",
     "桂枝汤.md",
-    "柴葛解肌汤.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
