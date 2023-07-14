@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常用8种治法.md",
+                "file": "桂枝汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常用8种治法.md"
+                "file": "桂枝汤.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常用8种治法.md",
+                "file": "桂枝汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用8种治法.md",
+                "file": "桂枝汤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,7 @@
   },
   "active": "ebdbe5a489fa1b6c",
   "lastOpenFiles": [
+    "常用8种治法.md",
     "大小青龙汤.md",
     "金匮要略 - 人纪.md",
     "zy-诊断学.md",
@@ -230,7 +231,6 @@
     "恶风.md",
     "辨少阴病脉症并治法.md",
     "肾结石.md",
-    "常用8种治法.md",
     "辨太阳病脉症并治法.md",
     "人纪 - 神农本草经.md",
     "五味.md",
