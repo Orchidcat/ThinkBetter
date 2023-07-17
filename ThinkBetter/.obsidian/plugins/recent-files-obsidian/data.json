@@ -5,6 +5,10 @@
       "path": "金匮要略 - 人纪.md"
     },
     {
+      "basename": "子午流注",
+      "path": "子午流注.md"
+    },
+    {
       "basename": "文式易经经",
       "path": "文式易经经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "津液",
       "path": "津液.md"
-    },
-    {
-      "basename": "+HomeMOC",
-      "path": "+HomeMOC.md"
     }
   ],
   "omittedPaths": [],
