@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4a86b3d9e4c62f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胸痹心痛短气病脉症并治第九.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阳脉",
+                "query": "第五椎",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "胸痹心痛短气病脉症并治第九.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "胸痹心痛短气病脉症并治第九.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "胸痹心痛短气病脉症并治第九.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,11 +217,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "79b6de7667cef437",
+  "active": "b4a86b3d9e4c62f3",
   "lastOpenFiles": [
+    "金匮要略 - 人纪.md",
     "辨太阳病脉症并治法.md",
     "辨阳明病脉症并治法.md",
-    "金匮要略 - 人纪.md",
     "子午流注.md",
     "文式易经经.md",
     "桂枝汤.md",
