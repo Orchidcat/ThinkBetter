@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文式易经经.md",
+                "file": "五问饮食.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "理中汤",
+                "query": "胆汁",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文式易经经.md"
+                "file": "五问饮食.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文式易经经.md",
+                "file": "五问饮食.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文式易经经.md",
+                "file": "五问饮食.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,9 +231,12 @@
   },
   "active": "d9858d3c5c41045c",
   "lastOpenFiles": [
+    "湿热蕴脾证.md",
+    "金匮-人纪.md",
+    "黄帝内经.md",
+    "文式易经经.md",
     "辨太阳病脉症并治法.md",
     "金匮要略 - 人纪.md",
-    "文式易经经.md",
     "胸痹心痛短气病脉症并治第九.md",
     "医案经方.md",
     "辨阳明病脉症并治法.md",
@@ -244,7 +246,6 @@
     "常用8种治法.md",
     "大小青龙汤.md",
     "辨厥阴病脉症并治法.md",
-    "黄帝内经.md",
     "辨少阳病脉症并治法.md",
     "恶风.md",
     "辨少阴病脉症并治法.md",
@@ -256,8 +257,6 @@
     "中药学.md",
     "另煎.md",
     "冲服.md",
-    "香苏散.md",
-    "升降沉浮.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",

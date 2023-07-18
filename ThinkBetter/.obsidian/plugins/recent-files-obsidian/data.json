@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "五问饮食",
+      "path": "五问饮食.md"
+    },
+    {
+      "basename": "湿热蕴脾证",
+      "path": "湿热蕴脾证.md"
+    },
+    {
+      "basename": "金匮-人纪",
+      "path": "金匮-人纪.md"
+    },
+    {
+      "basename": "黄帝内经",
+      "path": "黄帝内经.md"
+    },
+    {
       "basename": "文式易经经",
       "path": "文式易经经.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "辨厥阴病脉症并治法",
       "path": "辨厥阴病脉症并治法.md"
-    },
-    {
-      "basename": "黄帝内经",
-      "path": "黄帝内经.md"
     },
     {
       "basename": "辨少阳病脉症并治法",
@@ -187,18 +199,6 @@
     {
       "basename": "脏腑辩证",
       "path": "脏腑辩证.md"
-    },
-    {
-      "basename": "什么是癌症",
-      "path": "什么是癌症.md"
-    },
-    {
-      "basename": "涩脉",
-      "path": "涩脉.md"
-    },
-    {
-      "basename": "@MOC中医",
-      "path": "中医/@MOC中医.md"
     }
   ],
   "omittedPaths": [],
