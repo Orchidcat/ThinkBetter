@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9858d3c5c41045c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文式易经经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "文式易经经.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "文式易经经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "文式易经经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,10 +230,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "79b6de7667cef437",
+  "active": "d9858d3c5c41045c",
   "lastOpenFiles": [
-    "辨太阳病脉症并治法.md",
     "金匮要略 - 人纪.md",
+    "辨太阳病脉症并治法.md",
     "胸痹心痛短气病脉症并治第九.md",
     "医案经方.md",
     "辨阳明病脉症并治法.md",
