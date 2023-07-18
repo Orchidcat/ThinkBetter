@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "水运化的过程.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "营气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金匮要略 - 人纪.md"
+                "file": "水运化的过程.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "水运化的过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金匮要略 - 人纪.md",
+                "file": "水运化的过程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,12 +218,13 @@
   },
   "active": "79b6de7667cef437",
   "lastOpenFiles": [
+    "卫气.md",
     "辨太阳病脉症并治法.md",
+    "辨少阳病脉症并治法.md",
     "金匮要略 - 人纪.md",
     "寒湿困脾证.md",
     "辨阳明病脉症并治法.md",
     "辨少阴病脉症并治法.md",
-    "辨少阳病脉症并治法.md",
     "脏腑辩证.md",
     "湿热蕴脾证.md",
     "五问饮食.md",
@@ -244,7 +244,6 @@
     "人纪 - 神农本草经.md",
     "五味.md",
     "中药十八反十九畏.md",
-    "麻黄汤.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
