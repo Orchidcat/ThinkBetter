@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cdea8e6ef463b14b",
+        "id": "110b0eadb623843f",
         "type": "tabs",
         "children": [
           {
-            "id": "79b6de7667cef437",
+            "id": "cc674409c426beb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨少阳病脉症并治法.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04ff9148ea8c809a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -138,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "辨少阳病脉症并治法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨少阳病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨少阳病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,13 +197,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "79b6de7667cef437",
+  "active": "cc674409c426beb4",
   "lastOpenFiles": [
+    "辨太阳病脉症并治法.md",
+    "辨少阳病脉症并治法.md",
     "营卫之气.md",
     "水运化的过程.md",
     "卫气.md",
-    "辨太阳病脉症并治法.md",
-    "辨少阳病脉症并治法.md",
     "金匮要略 - 人纪.md",
     "寒湿困脾证.md",
     "辨阳明病脉症并治法.md",
