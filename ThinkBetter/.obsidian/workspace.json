@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f2846a75145fcd87",
+        "id": "0a10cb363733748e",
         "type": "tabs",
         "children": [
           {
-            "id": "36ca072d01fdf1e8",
+            "id": "433f41ad902fbf46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -114,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           },
           {
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "canvas:新建白板": false,
       "workbench-obsidian:Workbench": false,
       "switcher:打开快速切换": false,
@@ -185,12 +194,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "homepage:Open homepage": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "36ca072d01fdf1e8",
+  "active": "433f41ad902fbf46",
   "lastOpenFiles": [
+    "DailyNotes/2023-W29.md",
     "未命名.md",
     "Workbench.md",
     "未命名.canvas",
@@ -217,7 +226,6 @@
     "zy-诊断学.md",
     "常用8种治法.md",
     "大小青龙汤.md",
-    "辨厥阴病脉症并治法.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",

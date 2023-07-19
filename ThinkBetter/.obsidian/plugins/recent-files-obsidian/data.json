@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "2023-W29",
+      "path": "DailyNotes/2023-W29.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "人纪 - 针灸",
       "path": "人纪 - 针灸.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "事件timing.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     }
   ],
   "omittedPaths": [],
