@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "110b0eadb623843f",
+        "id": "1fc6adb91d3abf1d",
         "type": "tabs",
         "children": [
           {
-            "id": "cc674409c426beb4",
+            "id": "e3dda6e1074b9cda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#滤芯",
+                "query": "tag:#ZY",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 554,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "ac3da0cf126a8b4e",
   "lastOpenFiles": [
+    "test.md",
     "辨太阳病脉症并治法.md",
     "辨少阳病脉症并治法.md",
     "营卫之气.md",
@@ -223,7 +225,6 @@
     "辨厥阴病脉症并治法.md",
     "恶风.md",
     "肾结石.md",
-    "人纪 - 神农本草经.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
