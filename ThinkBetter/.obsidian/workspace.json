@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc6adb91d3abf1d",
+        "id": "f2846a75145fcd87",
         "type": "tabs",
         "children": [
           {
-            "id": "e3dda6e1074b9cda",
+            "id": "36ca072d01fdf1e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,7 +45,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "36e6d7fb785a359e",
@@ -106,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,8 +198,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ac3da0cf126a8b4e",
+  "active": "36ca072d01fdf1e8",
   "lastOpenFiles": [
+    "Workbench.md",
+    "未命名.canvas",
     "test.md",
     "辨太阳病脉症并治法.md",
     "辨少阳病脉症并治法.md",
@@ -224,7 +227,6 @@
     "大小青龙汤.md",
     "辨厥阴病脉症并治法.md",
     "恶风.md",
-    "肾结石.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
       "basename": "辨太阳病脉症并治法",
       "path": "辨太阳病脉症并治法.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "八纲辨证",
       "path": "八纲辨证.md"
-    },
-    {
-      "basename": "五液",
-      "path": "五液.md"
     }
   ],
   "omittedPaths": [],
