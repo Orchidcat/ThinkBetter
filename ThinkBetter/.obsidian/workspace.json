@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "营气",
+                "query": "tag:#滤芯",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -171,12 +170,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "cc674409c426beb4",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "辨太阳病脉症并治法.md",
     "辨少阳病脉症并治法.md",
