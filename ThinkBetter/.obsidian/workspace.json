@@ -16,9 +16,21 @@
                 "file": "Canvas 使用学习.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 40.45357894897461,
                   "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "af142c36a650b7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100种心智模型.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -202,7 +214,11 @@
   },
   "active": "433f41ad902fbf46",
   "lastOpenFiles": [
+    "100种心智模型.md",
+    "心智模型 MOC.md",
     "+Home.md",
+    "NotToDo.md",
+    "YEAR MOC⌛.md",
     "Canvas 使用学习.canvas",
     "DailyNotes/2023-W29.md",
     "未命名.md",
@@ -226,10 +242,6 @@
     "文式易经经.md",
     "胸痹心痛短气病脉症并治第九.md",
     "医案经方.md",
-    "子午流注.md",
-    "桂枝汤.md",
-    "zy-诊断学.md",
-    "常用8种治法.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",

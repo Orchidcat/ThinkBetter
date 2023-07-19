@@ -5,8 +5,24 @@
       "path": "Canvas 使用学习.canvas"
     },
     {
+      "basename": "100种心智模型",
+      "path": "100种心智模型.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
     },
     {
       "basename": "2023-W29",
@@ -183,22 +199,6 @@
     {
       "basename": "归经",
       "path": "归经.md"
-    },
-    {
-      "basename": "后下",
-      "path": "后下.md"
-    },
-    {
-      "basename": "银翘散",
-      "path": "银翘散.md"
-    },
-    {
-      "basename": "桑菊饮",
-      "path": "桑菊饮.md"
-    },
-    {
-      "basename": "伤寒论",
-      "path": "伤寒论.md"
     }
   ],
   "omittedPaths": [],
