@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "Workbench",
       "path": "Workbench.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "+Home",
       "path": "+Home.md"
-    },
-    {
-      "basename": "八纲辨证",
-      "path": "八纲辨证.md"
     }
   ],
   "omittedPaths": [],
