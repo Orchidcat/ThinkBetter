@@ -11,11 +11,14 @@
             "id": "433f41ad902fbf46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas 使用学习.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Canvas 使用学习.canvas"
               }
             }
           },
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "Canvas 使用学习.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Canvas 使用学习.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +202,8 @@
   },
   "active": "433f41ad902fbf46",
   "lastOpenFiles": [
+    "+Home.md",
+    "Canvas 使用学习.canvas",
     "DailyNotes/2023-W29.md",
     "未命名.md",
     "Workbench.md",
@@ -225,7 +230,6 @@
     "桂枝汤.md",
     "zy-诊断学.md",
     "常用8种治法.md",
-    "大小青龙汤.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
