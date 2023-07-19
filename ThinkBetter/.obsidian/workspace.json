@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "433f41ad902fbf46",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas 使用学习.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 40.45357894897461,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "af142c36a650b7f3",
             "type": "leaf",
             "state": {
@@ -134,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas 使用学习.canvas"
+                "file": "100种心智模型.md"
               }
             }
           },
@@ -144,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas 使用学习.canvas",
+                "file": "100种心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas 使用学习.canvas",
+                "file": "100种心智模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,14 +197,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "433f41ad902fbf46",
+  "active": "af142c36a650b7f3",
   "lastOpenFiles": [
+    "Canvas 使用学习.canvas",
     "100种心智模型.md",
     "心智模型 MOC.md",
     "+Home.md",
     "NotToDo.md",
     "YEAR MOC⌛.md",
-    "Canvas 使用学习.canvas",
     "DailyNotes/2023-W29.md",
     "未命名.md",
     "Workbench.md",
@@ -241,7 +226,6 @@
     "黄帝内经.md",
     "文式易经经.md",
     "胸痹心痛短气病脉症并治第九.md",
-    "医案经方.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
