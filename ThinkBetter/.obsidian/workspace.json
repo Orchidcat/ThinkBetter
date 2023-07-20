@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习高手.md",
+                "file": "嫉妒与妒忌.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#名人",
+                "query": "tag:#查理芒格",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习高手.md"
+                "file": "嫉妒与妒忌.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习高手.md",
+                "file": "嫉妒与妒忌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习高手.md",
+                "file": "嫉妒与妒忌.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +178,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7157adf2b8adfa13",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "DailyNotes/2022-04-27.md",
+    "名人.md",
+    "学习高手.md",
     "嫉妒与妒忌.md",
     "费曼学习法.md",
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
@@ -204,9 +207,6 @@
     "人纪/伤寒论.md",
     "不对称性.md",
     "人纪/解表剂.md",
-    "人纪/什么是癌症.md",
-    "人纪/足太阴.md",
-    "人纪/针灸时机.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
