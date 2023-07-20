@@ -1,5 +1,5 @@
 ---
-alias: ["000", "MOC","ZY"]
+alias: ["000", "MOC","ZY","人纪"]
 ---
 
 ```dataview
