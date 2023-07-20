@@ -5,6 +5,14 @@
       "path": "人纪/@ 人纪 - Map.canvas"
     },
     {
+      "basename": "@MOC中医",
+      "path": "人纪/@MOC中医.md"
+    },
+    {
+      "basename": "zy-总论",
+      "path": "人纪/zy-总论.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -21,10 +29,6 @@
       "path": "人纪/黄帝外经.md"
     },
     {
-      "basename": "@MOC中医",
-      "path": "人纪/@MOC中医.md"
-    },
-    {
       "basename": "中药学",
       "path": "人纪/中药学.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "zy-诊断学",
       "path": "人纪/zy-诊断学.md"
-    },
-    {
-      "basename": "zy-总论",
-      "path": "人纪/zy-总论.md"
     },
     {
       "basename": "人物 MOC",
