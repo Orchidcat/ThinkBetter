@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-06-01",
+      "path": "DailyNotes/2022-06-01.md"
+    },
+    {
+      "basename": "2022-05-30",
+      "path": "DailyNotes/2022-05-30.md"
+    },
+    {
+      "basename": "2022-04-27",
+      "path": "DailyNotes/2022-04-27.md"
+    },
+    {
       "basename": "2022-04-26",
       "path": "DailyNotes/2022-04-26.md"
     },
@@ -38,7 +50,7 @@
     },
     {
       "basename": "解表剂",
-      "path": "中医/药/解表剂.md"
+      "path": "人纪/药/解表剂.md"
     },
     {
       "basename": "(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客",
@@ -187,18 +199,6 @@
     {
       "basename": "金匮-人纪",
       "path": "金匮-人纪.md"
-    },
-    {
-      "basename": "黄帝内经",
-      "path": "黄帝内经.md"
-    },
-    {
-      "basename": "文式易经经",
-      "path": "文式易经经.md"
-    },
-    {
-      "basename": "胸痹心痛短气病脉症并治第九",
-      "path": "胸痹心痛短气病脉症并治第九.md"
     }
   ],
   "omittedPaths": [],
