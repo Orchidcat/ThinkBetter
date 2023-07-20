@@ -8,7 +8,7 @@
   "showFilesFromSubFoldersButton": true,
   "revealActiveFileButton": false,
   "excludedExtensions": "",
-  "folderIcon": "default",
+  "folderIcon": "box-folder",
   "folderCount": true,
   "folderCountOption": "files",
   "evernoteView": "Disabled",
