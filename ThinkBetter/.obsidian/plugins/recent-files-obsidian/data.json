@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "费曼学习法",
+      "path": "费曼学习法.md"
+    },
+    {
       "basename": "Drawing 2023-07-20 13.58.41.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     }
   ],
   "omittedPaths": [],

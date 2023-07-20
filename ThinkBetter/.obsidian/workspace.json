@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "tag:#名人",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
