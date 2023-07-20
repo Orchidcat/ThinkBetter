@@ -112,11 +112,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 306.01103591918945
+    "width": 533.0110359191895
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -206,7 +207,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "632de29ce5184171",
+  "active": "e805437fea5ff742",
   "lastOpenFiles": [
     "DailyNotes/2023-W29.md",
     "+Home.md",
