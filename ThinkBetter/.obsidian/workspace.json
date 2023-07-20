@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "三焦.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "三焦.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "三焦.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "三焦.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,10 +177,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2bcd5e4d6751ea51",
+  "active": "d7197eb054d97e02",
   "lastOpenFiles": [
-    "心智模型 MOC.md",
+    "人纪/三焦辨证.md",
+    "三焦.md",
+    "人纪/一问寒热.md",
+    "人纪/zy-诊断学.md",
+    "人纪/zy-总论.md",
     "+Home.md",
+    "心智模型 MOC.md",
     "人纪/@MOC中医.md",
     "人纪/脉诊.md",
     "人纪/代脉.md",
@@ -193,7 +198,6 @@
     "桂枝加葛根汤.md",
     "人纪/伤寒论.md",
     "不对称性.md",
-    "人纪/zy-总论.md",
     "人纪/解表剂.md",
     "人纪/什么是癌症.md",
     "人纪/足太阴.md",
@@ -201,10 +205,6 @@
     "人纪/手太阴肺经.md",
     "人纪/手阳明大肠经.md",
     "人纪/足阳明胃经.md",
-    "人纪/足太阴脾经.md",
-    "人纪/手太阴心经.md",
-    "人纪/手少阴心经.md",
-    "人纪/手太阳小肠经.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
