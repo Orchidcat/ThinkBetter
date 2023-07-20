@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "5dc452bca68535c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03548b4b807a919b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cd9ff2b289728576",
         "type": "tabs",
         "children": [
@@ -27,7 +45,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 27.89400278940028,
+        "dimension": 42.462845010615716,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -42,7 +60,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 37.79637377963738,
+        "dimension": 57.53715498938429,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -86,25 +104,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "07580c042665e4d3",
-        "type": "tabs",
-        "dimension": 34.30962343096235,
-        "children": [
-          {
-            "id": "03548b4b807a919b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -124,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2023-W29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-W29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-W29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +196,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "632de29ce5184171",
   "lastOpenFiles": [
+    "DailyNotes/2023-W29.md",
     "+Home.md",
     "麻黄汤.md",
     "脉诊.md",
@@ -228,7 +224,6 @@
     "FromWeb/奇客Solidot  手机和应用会弱化你的注意力.md",
     "FromWeb/每周通讯 No.61 - 世说新语.md",
     "FromWeb/【问题解决】CentOS解决： network is unreachable问题 - Ken的杂谈.md",
-    "FromWeb/《超文本和超链接》, Excerpts & Notes.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
