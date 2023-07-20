@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444
+    "width": 264
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ebed1a78815bdf47",
+  "active": "7157adf2b8adfa13",
   "lastOpenFiles": [
     "@ 人纪 - Map.canvas",
     "人纪/@MOC中医.md",
