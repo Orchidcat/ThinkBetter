@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"a50b5321a078608b","x":-215,"y":-762,"width":400,"height":400,"type":"group"}
+		{"id":"15346a630778f258","x":-411,"y":-557,"width":400,"height":400,"type":"file","file":"人纪/黄帝外经.md"},
+		{"id":"ad2b783ab4c2f135","x":-540,"y":-920,"width":400,"height":193,"type":"file","file":"人纪/黄帝内经.md"}
 	],
 	"edges":[]
 }

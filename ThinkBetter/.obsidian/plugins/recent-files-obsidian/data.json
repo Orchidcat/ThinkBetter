@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "黄帝外经",
+      "path": "人纪/黄帝外经.md"
+    },
+    {
       "basename": "@ 人纪 - Map",
       "path": "@ 人纪 - Map.canvas"
+    },
+    {
+      "basename": "黄帝内经",
+      "path": "人纪/黄帝内经.md"
     },
     {
       "basename": "@MOC中医",
@@ -191,14 +199,6 @@
     {
       "basename": "Reasons for optimism after a difficult year",
       "path": "FromWeb/Reasons for optimism after a difficult year.md"
-    },
-    {
-      "basename": "Solitude and Leadership by William Deresiewicz",
-      "path": "FromWeb/Solitude and Leadership by William Deresiewicz.md"
-    },
-    {
-      "basename": "没了滤镜的伦敦，原来真实面目是这样的",
-      "path": "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md"
     }
   ],
   "omittedPaths": [],
