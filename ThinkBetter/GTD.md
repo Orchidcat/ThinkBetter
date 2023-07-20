@@ -1,4 +1,4 @@
-GTD是需要养成一系列的习惯：
+## GTD是需要养成一系列的习惯
 
 1. 将所有想法都列出，而不是永远留在脑海中
 2. 管理项目并将所有与项目有关的东西放在其所属的地方
@@ -8,8 +8,7 @@ GTD是需要养成一系列的习惯：
 6. 不要吧事情都放在日历中，而需要在特定的时间进行处理
 
   
-
-  
+ 
 
   
 
@@ -23,7 +22,7 @@ tips：
 
   
 
-GTD无法解决的5个问题：
+###GTD无法解决的5个问题：
 
 1. 难以维持新习惯
 2. 对于单个项目，没有足够的知识储备，方法，帮助等
@@ -55,19 +54,12 @@ GTD不是什么？
 11. 不是要始终在您的区域内，而是要在跌倒时重新站起来的速度
 12. 不是为了乱七八遭，而是为了让你自由地弄乱
 13. 不仅仅是把事情做好，而是全身关注与你正在做的事情
-    
 14. 不是要一直聪明，而是要在你感到愚蠢和懒惰时做出明智的选择
-    
 15. 不是要做清单上所有的事情，而是对你没有做的事情感觉良好
-    
 16. 不是为你提供问题的解决方案，而是让你在驾驶座上找到自己的解决方案
-    
 17. 不是设置优先级，而是要弄清楚你的优先级是什么
-    
 18. 不是给你的生活一个目的，而是关于发现你生活的目的
-    
 19. 不是目的地，而是一直始终终生的方式
-    
 
   
 
@@ -78,15 +70,10 @@ GTD不是什么？
 GTD形成习惯后的5种感受：
 
 1. 把事情记在脑子里感觉非常不舒服
-    
 2. 经常清空邮件收件箱
-    
 3. 不反对每周进行回顾
-    
 4. 对自己还没有做的事情感觉良好
-    
 5. 开始项目时自然的会问：目的是什么
-    
 
   
 
@@ -97,19 +84,14 @@ GTD形成习惯后的5种感受：
 方法论：
 
 - Collect ---- First thing is to get all of that stuff out of your head and into an inbox;collect everything in one place
-    
-
             20~30 minutes do a through brain dump of everything you've been worrying about
 
 - Process ---- small items,you can do less 2 minitues or less? do it now,check is off,and stop worrying about it.
-    
-
             not your response items ,you need defer item list
 
   
 
 -  Organize ---- let's figure it out where the stuff goes; Project type
-    
 
   
 
@@ -118,15 +100,11 @@ GTD形成习惯后的5种感受：
   
 
 关于拖延的意识点：
-
 对结果的负面定义（例如，预算中没有太多的钱）
-
 对复杂性的畏惧
 
   
 
 how to change：
-
 将负面定义转化为正面定义（先把灯整亮）
-
 将复杂性降为下一步的简单行动（先了解骑车中的电源信息）
