@@ -72,16 +72,6 @@
         "dimension": 57.53715498938429,
         "children": [
           {
-            "id": "496d8b50375bb5e6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "b29475884b4470c5",
             "type": "leaf",
             "state": {
@@ -113,11 +103,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 533.0110359191895
+    "width": 557.5110359191895
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -207,7 +197,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e805437fea5ff742",
+  "active": "d7197eb054d97e02",
   "lastOpenFiles": [
     "DailyNotes/2023-W29.md",
     "+Home.md",
