@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c548896feaf8c9af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +120,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1ef0628f3f9ecc69",
@@ -147,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232,
-    "collapsed": true
+    "width": 232
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +169,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c548896feaf8c9af",
+  "active": "11ff6432636dfbb6",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw",
