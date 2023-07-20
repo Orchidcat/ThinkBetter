@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - Bike.md",
+                "file": "☯️人纪/中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - Bike.md"
+                "file": "☯️人纪/中医诊断学.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template - Bike.md",
+                "file": "☯️人纪/中医诊断学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - Bike.md",
+                "file": "☯️人纪/中医诊断学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +179,12 @@
   },
   "active": "d7197eb054d97e02",
   "lastOpenFiles": [
+    "事件timing.md",
+    "☯️人纪/中医诊断学.md",
+    "沃伦·巴菲特.md",
+    "Actual Seat Tube Angel.md",
+    "微脉.md",
+    "Templates/Template - Bike.md",
     "DailyNotes/2022-06-01.md",
     "DailyNotes/2022-05-30.md",
     "DailyNotes/2022-04-27.md",
@@ -199,12 +205,6 @@
     "NotToDo.md",
     "基本Q.md",
     "☯️人纪/药/解表剂.md",
-    "FromWeb/(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客.md",
-    "FromWeb/单面人 - 世说新语.md",
-    "FromWeb/开源、可定制的网页批注工具——Hypothesis.md",
-    "FromWeb/科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？ - 阮一峰的网络日志.md",
-    "FromWeb/科技爱好者周刊（第 169 期）：五菱汽车的产品设计 - 阮一峰的网络日志.md",
-    "FromWeb/Using Microsoft SQL Server - - Connecting to Your Database.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
