@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "心智模型 MOC.md"
+    },
+    {
       "basename": "@MOC中医",
       "path": "人纪/@MOC中医.md"
     },
@@ -81,10 +89,6 @@
       "path": "DailyNotes/2023-W29.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "GTD",
       "path": "GTD.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "Canvas 使用学习",
       "path": "Canvas 使用学习.canvas"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     },
     {
       "basename": "NotToDo",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/@MOC中医.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,9 +179,11 @@
   },
   "active": "2bcd5e4d6751ea51",
   "lastOpenFiles": [
+    "心智模型 MOC.md",
+    "+Home.md",
+    "人纪/@MOC中医.md",
     "人纪/脉诊.md",
     "人纪/代脉.md",
-    "人纪/@MOC中医.md",
     "人纪/辨厥阴病脉症并治法.md",
     "人纪/金匮-人纪.md",
     "人纪/金匮要略 - 人纪.md",
@@ -203,8 +205,6 @@
     "人纪/手太阴心经.md",
     "人纪/手少阴心经.md",
     "人纪/手太阳小肠经.md",
-    "人纪/足太阳膀胱经.md",
-    "人纪/足少阴肾经.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
