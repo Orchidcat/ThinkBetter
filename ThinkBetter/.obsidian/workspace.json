@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ZY",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +198,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ac5d58869d51911b",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "+Home.md",
     "GTD.md",
+    "+Home.md",
     "学习方法.md",
     "+HomeMOC.md",
     "一句话的玩味.md",
