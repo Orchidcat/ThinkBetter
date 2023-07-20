@@ -11,8 +11,12 @@
             "id": "7157adf2b8adfa13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "学习高手.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -96,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "学习高手.md"
+              }
             }
           },
           {
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学习高手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学习高手.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +178,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "7157adf2b8adfa13",
   "lastOpenFiles": [
+    "嫉妒与妒忌.md",
+    "费曼学习法.md",
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw",
     "人纪/桂枝加葛根汤.md",
@@ -197,8 +207,6 @@
     "人纪/什么是癌症.md",
     "人纪/足太阴.md",
     "人纪/针灸时机.md",
-    "人纪/手太阴肺经.md",
-    "人纪/手阳明大肠经.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",

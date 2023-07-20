@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
+      "basename": "嫉妒与妒忌",
+      "path": "嫉妒与妒忌.md"
+    },
+    {
       "basename": "费曼学习法",
       "path": "费曼学习法.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "YEAR MOC⌛",
       "path": "YEAR MOC⌛.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     }
   ],
   "omittedPaths": [],
