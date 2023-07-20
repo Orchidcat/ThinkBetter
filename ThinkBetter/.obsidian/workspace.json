@@ -11,8 +11,12 @@
             "id": "60812319f2d216fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2023-W29.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 31.29890453834116,
+        "dimension": 27.89400278940028,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -51,7 +55,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 34.350547730829426,
+        "dimension": 37.79637377963738,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -100,7 +104,7 @@
       {
         "id": "07580c042665e4d3",
         "type": "tabs",
-        "dimension": 34.350547730829426,
+        "dimension": 34.30962343096235,
         "children": [
           {
             "id": "03548b4b807a919b",
@@ -118,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.01103591918945
+    "width": 306.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "DailyNotes/2023-W29.md"
               }
             }
           },
@@ -145,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "DailyNotes/2023-W29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "DailyNotes/2023-W29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +218,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "03548b4b807a919b",
+  "active": "60812319f2d216fc",
   "lastOpenFiles": [
     "+Home.md",
     "麻黄汤.md",
