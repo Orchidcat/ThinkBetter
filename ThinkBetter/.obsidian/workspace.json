@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fc82657442a79d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "GTD.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "GTD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,12 +211,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ac5d58869d51911b",
+  "active": "5fc82657442a79d2",
   "lastOpenFiles": [
+    "+HomeMOC.md",
+    "GTD.md",
+    "+Home.md",
     "学习方法.md",
     "一句话的玩味.md",
     "费曼学习法.md",
-    "+Home.md",
     "YEAR MOC⌛.md",
     "WorkFlowMOC.md",
     "NotToDo.md",
@@ -224,8 +239,6 @@
     "FromWeb/Reasons for optimism after a difficult year.md",
     "FromWeb/Solitude and Leadership by William Deresiewicz.md",
     "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md",
-    "FromWeb/从 Analog Desk 到模拟式工作流的建立 - 少数派.md",
-    "100种心智模型.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GTD",
+      "path": "GTD.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "常用8种治法",
       "path": "常用8种治法.md"
-    },
-    {
-      "basename": "大小青龙汤",
-      "path": "大小青龙汤.md"
     }
   ],
   "omittedPaths": [],
