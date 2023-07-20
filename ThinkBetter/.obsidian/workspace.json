@@ -194,11 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "af142c36a650b7f3",
+  "active": "496d8b50375bb5e6",
   "lastOpenFiles": [
+    "FromWeb",
     "愚蠢的来源.md",
     "100种心智模型.md",
     "Canvas 使用学习.canvas",
@@ -226,7 +228,6 @@
     "金匮-人纪.md",
     "黄帝内经.md",
     "文式易经经.md",
-    "胸痹心痛短气病脉症并治第九.md",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
     "Sources/Pasted image 20230706111605.png",
