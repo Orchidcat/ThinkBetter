@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "723fcce16aa2c059",
+        "id": "7627ff90d9d1f46a",
         "type": "tabs",
         "children": [
           {
-            "id": "2bcd5e4d6751ea51",
+            "id": "7157adf2b8adfa13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c548896feaf8c9af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "人纪/桂枝加葛根汤.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/桂枝加葛根汤.md"
+                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
               }
             }
           },
@@ -110,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/桂枝加葛根汤.md",
+                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/桂枝加葛根汤.md",
+                "file": "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +184,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2bcd5e4d6751ea51",
+  "active": "c548896feaf8c9af",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
+    "Excalidraw",
+    "人纪/桂枝加葛根汤.md",
     "人纪/桂枝加附子汤.md",
     "人纪/三焦.md",
     "人纪/三焦辨证.md",
@@ -195,7 +205,6 @@
     "人纪/金匮要略 - 人纪.md",
     "人纪/人纪 - 神农本草经.md",
     "人纪/辨太阳病脉症并治法.md",
-    "人纪/桂枝加葛根汤.md",
     "人纪/伤寒论.md",
     "不对称性.md",
     "人纪/解表剂.md",
@@ -204,7 +213,6 @@
     "人纪/针灸时机.md",
     "人纪/手太阴肺经.md",
     "人纪/手阳明大肠经.md",
-    "人纪/足阳明胃经.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
