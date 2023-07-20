@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/三焦.md",
+                "file": "人纪/003 伤寒论.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/三焦.md"
+                "file": "人纪/003 伤寒论.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/三焦.md",
+                "file": "人纪/003 伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/三焦.md",
+                "file": "人纪/003 伤寒论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,17 +176,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d7197eb054d97e02",
+  "active": "7157adf2b8adfa13",
   "lastOpenFiles": [
-    "人纪/zy-诊断学.md",
-    "人纪/zy-总论.md",
-    "人纪/@MOC中医.md",
-    "人纪/@ 人纪 - Map.canvas",
+    "人纪/002 黄帝内经.md",
+    "人纪/095 三焦.md",
+    "人纪/203 zy-诊断学.md",
+    "人纪/204 zy-总论.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/000 @ 人纪 - Map.canvas",
     "+Home.md",
-    "人纪/黄帝内经.md",
-    "人纪/中药学.md",
-    "人纪/方剂学.md",
-    "人纪/一问寒热.md",
+    "人纪/193 中药学.md",
+    "人纪/034 方剂学.md",
+    "人纪/174 一问寒热.md",
     "人物 MOC.md",
     "嫉妒与妒忌.md",
     "DailyNotes/2022-04-27.md",
@@ -195,16 +196,15 @@
     "费曼学习法.md",
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw",
-    "人纪/桂枝加葛根汤.md",
-    "人纪/桂枝加附子汤.md",
-    "人纪/三焦.md",
-    "人纪/三焦辨证.md",
+    "人纪/049 桂枝加葛根汤.md",
+    "人纪/048 桂枝加附子汤.md",
+    "人纪/096 三焦辨证.md",
     "心智模型 MOC.md",
-    "人纪/脉诊.md",
-    "人纪/代脉.md",
-    "人纪/辨厥阴病脉症并治法.md",
-    "人纪/金匮-人纪.md",
-    "人纪/金匮要略.md",
+    "人纪/079 脉诊.md",
+    "人纪/027 代脉.md",
+    "人纪/009 辨厥阴病脉症并治法.md",
+    "人纪/063 金匮-人纪.md",
+    "人纪/004 金匮要略.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
