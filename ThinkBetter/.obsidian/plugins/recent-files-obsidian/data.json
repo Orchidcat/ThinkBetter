@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "黄帝内经",
-      "path": "人纪/黄帝内经.md"
+      "basename": "@ 人纪 - Map",
+      "path": "人纪/@ 人纪 - Map.canvas"
     },
     {
-      "basename": "@ 人纪 - Map",
-      "path": "@ 人纪 - Map.canvas"
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "黄帝内经",
+      "path": "人纪/黄帝内经.md"
     },
     {
       "basename": "伤寒论",
@@ -83,10 +87,6 @@
     {
       "basename": "三焦辨证",
       "path": "人纪/三焦辨证.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "心智模型 MOC",
