@@ -40,17 +40,8 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "72c31c6f2da8d345",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36e6d7fb785a359e",
@@ -153,6 +144,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "11ff6432636dfbb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
@@ -177,20 +179,8 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "ac3da0cf126a8b4e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +207,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "72c31c6f2da8d345",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "+Home.md",
     "麻黄汤.md",
