@@ -11,8 +11,12 @@
             "id": "ac5d58869d51911b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FromWeb/科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？ - 阮一峰的网络日志.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100种心智模型.md"
+                "file": "FromWeb/科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？ - 阮一峰的网络日志.md"
               }
             }
           },
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "FromWeb/科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？ - 阮一峰的网络日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100种心智模型.md",
+                "file": "FromWeb/科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？ - 阮一峰的网络日志.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,12 +198,17 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "496d8b50375bb5e6",
+  "active": "ac5d58869d51911b",
   "lastOpenFiles": [
+    "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md",
+    "FromWeb/从 Analog Desk 到模拟式工作流的建立 - 少数派.md",
+    "FromWeb/【问题解决】CentOS解决： network is unreachable问题 - Ken的杂谈.md",
+    "FromWeb/《超文本和超链接》, Excerpts & Notes.md",
+    "FromWeb/(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客.md",
+    "100种心智模型.md",
     "FromWeb/Developer  Hypothesis.md",
     "FromWeb/5 Years of Indie Hacking.md",
     "FromWeb/Efficiency is the Enemy.md",
-    "FromWeb/《超文本和超链接》, Excerpts & Notes.md",
     "FromWeb/Reasons for optimism after a difficult year.md",
     "FromWeb/How Not To Be Stupid.md",
     "FromWeb/Why We Focus on Trivial Things.md",
@@ -209,7 +218,6 @@
     "FromWeb/信息茧房 - 世说新语.md",
     "FromWeb/单面人 - 世说新语.md",
     "FromWeb/萧功秦教授：我们的价值观，狭隘到不可思议的程度.md",
-    "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md",
     "FromWeb/Why Math Class Is Boring—and What to Do About It - Farnam Street.md",
     "FromWeb/Half Life The Decay of Knowledge and What to Do About It.md",
     "FromWeb/How to Choose Your Next Book.md",
@@ -218,10 +226,6 @@
     "FromWeb/Learning How to Think The Skill No One Taught You.md",
     "FromWeb/Why You Should Stop Reading News.md",
     "FromWeb/Pain Plus Reflection Equals Progress - Farnam Street.md",
-    "FromWeb/科技爱好者周刊（第 169 期）：五菱汽车的产品设计 - 阮一峰的网络日志.md",
-    "FromWeb/Using Microsoft SQL Server - - Connecting to Your Database.md",
-    "FromWeb/【问题解决】CentOS解决： network is unreachable问题 - Ken的杂谈.md",
-    "FromWeb/What is MaxDOP controlling.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
