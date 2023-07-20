@@ -22,7 +22,7 @@ tips：
 
   
 
-###GTD无法解决的5个问题：
+## GTD无法解决的5个问题
 
 1. 难以维持新习惯
 2. 对于单个项目，没有足够的知识储备，方法，帮助等
@@ -40,7 +40,7 @@ tips：
 
   
 
-GTD不是什么？
+## GTD不是什么？
 1. 不是更好的管理时间，而是管理你的注意力
 2. 不是更好的控制世界，而是要控制你把注意力放到哪儿
 3. 不是关于制定计划和实现固定目标，而是关于拥有探索选项的自由
@@ -67,7 +67,7 @@ GTD不是什么？
 
   
 
-GTD形成习惯后的5种感受：
+## GTD形成习惯后的5种感受
 
 1. 把事情记在脑子里感觉非常不舒服
 2. 经常清空邮件收件箱
@@ -89,13 +89,7 @@ GTD形成习惯后的5种感受：
 - Process ---- small items,you can do less 2 minitues or less? do it now,check is off,and stop worrying about it.
             not your response items ,you need defer item list
 
-  
-
 -  Organize ---- let's figure it out where the stuff goes; Project type
-
-  
-
-  
 
   
 
