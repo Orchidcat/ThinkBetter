@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#伤寒论",
+                "query": "tag:#article",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "11ff6432636dfbb6",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw",
