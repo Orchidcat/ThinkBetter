@@ -10,7 +10,7 @@
   "weekly": {
     "format": "",
     "folder": "DailyNotes/",
-    "template": "Template/Template - 日记",
+    "template": "",
     "enabled": true
   },
   "monthly": {
