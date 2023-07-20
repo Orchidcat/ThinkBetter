@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@ 人纪 - Map",
+      "path": "@ 人纪 - Map.canvas"
+    },
+    {
       "basename": "@MOC中医",
       "path": "人纪/@MOC中医.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "没了滤镜的伦敦，原来真实面目是这样的",
       "path": "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md"
-    },
-    {
-      "basename": "从 Analog Desk 到模拟式工作流的建立 - 少数派",
-      "path": "FromWeb/从 Analog Desk 到模拟式工作流的建立 - 少数派.md"
     }
   ],
   "omittedPaths": [],
