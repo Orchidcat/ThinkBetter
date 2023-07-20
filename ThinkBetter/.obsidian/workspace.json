@@ -11,14 +11,11 @@
             "id": "7157adf2b8adfa13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "@ 人纪 - Map.canvas",
-                "viewState": {
-                  "x": -340,
-                  "y": -781.5117751976882,
-                  "zoom": -1
-                }
+                "file": "人纪/黄帝内经.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@ 人纪 - Map.canvas"
+                "file": "人纪/黄帝内经.md"
               }
             }
           },
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@ 人纪 - Map.canvas",
+                "file": "人纪/黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ef0628f3f9ecc69",
@@ -144,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ 人纪 - Map.canvas",
+                "file": "人纪/黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 444
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +176,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7157adf2b8adfa13",
+  "active": "ebed1a78815bdf47",
   "lastOpenFiles": [
-    "人纪/@MOC中医.md",
     "@ 人纪 - Map.canvas",
+    "人纪/@MOC中医.md",
     "人纪/黄帝内经.md",
     "人纪/中药学.md",
     "人纪/方剂学.md",
