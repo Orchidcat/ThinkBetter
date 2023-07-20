@@ -10,7 +10,7 @@
   "excludedExtensions": "",
   "folderIcon": "default",
   "folderCount": true,
-  "folderCountOption": "notes",
+  "folderCountOption": "files",
   "evernoteView": "Disabled",
   "filePreviewOnHover": false,
   "iconBeforeFileName": true,
