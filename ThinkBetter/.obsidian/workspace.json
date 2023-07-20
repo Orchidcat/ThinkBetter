@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "人纪/脉诊.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -92,7 +93,7 @@
       {
         "id": "a11cc04c14a892a4",
         "type": "tabs",
-        "dimension": 37.12374581939799,
+        "dimension": 62.78089887640449,
         "children": [
           {
             "id": "ebed1a78815bdf47",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/@MOC中医.md"
+                "file": "人纪/脉诊.md"
               }
             }
           },
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "人纪/脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
       {
         "id": "1ef0628f3f9ecc69",
         "type": "tabs",
-        "dimension": 62.87625418060201,
+        "dimension": 37.21910112359551,
         "children": [
           {
             "id": "74f8fa572dec7213",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/@MOC中医.md",
+                "file": "人纪/脉诊.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232,
-    "collapsed": true
+    "width": 232
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2bcd5e4d6751ea51",
+  "active": "ebed1a78815bdf47",
   "lastOpenFiles": [
-    "人纪/辨厥阴病脉症并治法.md",
+    "人纪/代脉.md",
     "人纪/@MOC中医.md",
+    "人纪/辨厥阴病脉症并治法.md",
     "人纪/金匮-人纪.md",
     "人纪/金匮要略 - 人纪.md",
     "人纪/人纪 - 神农本草经.md",
@@ -204,7 +205,6 @@
     "人纪/足太阳膀胱经.md",
     "人纪/足少阴肾经.md",
     "人纪/手厥阴心包经.md",
-    "人纪/手少阳三焦经.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
