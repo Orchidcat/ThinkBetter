@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6af4fddf6536a7",
+        "id": "f81ec4889ea1f8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "03548b4b807a919b",
+            "id": "60812319f2d216fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -55,7 +51,7 @@
       {
         "id": "36e6d7fb785a359e",
         "type": "tabs",
-        "dimension": 68.70109546165885,
+        "dimension": 34.350547730829426,
         "children": [
           {
             "id": "496d8b50375bb5e6",
@@ -100,10 +96,29 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "07580c042665e4d3",
+        "type": "tabs",
+        "dimension": 34.350547730829426,
+        "children": [
+          {
+            "id": "03548b4b807a919b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 494.01103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -201,10 +216,10 @@
   },
   "active": "03548b4b807a919b",
   "lastOpenFiles": [
+    "+Home.md",
     "麻黄汤.md",
     "脉诊.md",
     "大脉.md",
-    "+Home.md",
     "GTD.md",
     "学习方法.md",
     "+HomeMOC.md",
