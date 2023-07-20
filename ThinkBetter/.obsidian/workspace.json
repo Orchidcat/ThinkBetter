@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/药/解表剂.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/药/解表剂.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +200,12 @@
   },
   "active": "ac5d58869d51911b",
   "lastOpenFiles": [
+    "YEAR MOC⌛.md",
+    "WorkFlowMOC.md",
+    "NotToDo.md",
+    "基本Q.md",
+    "+Home.md",
+    "中医/药/解表剂.md",
     "FromWeb/(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客.md",
     "FromWeb/单面人 - 世说新语.md",
     "FromWeb/开源、可定制的网页批注工具——Hypothesis.md",
@@ -220,12 +226,6 @@
     "FromWeb/Developer  Hypothesis.md",
     "FromWeb/5 Years of Indie Hacking.md",
     "FromWeb/Efficiency is the Enemy.md",
-    "FromWeb/How Not To Be Stupid.md",
-    "FromWeb/Why We Focus on Trivial Things.md",
-    "FromWeb/Joseph Tussman Getting the World to Do the Work for You.md",
-    "FromWeb/The Ultimate Guide to Making Smart Decisions.md",
-    "FromWeb/信息茧房 - 世说新语.md",
-    "FromWeb/Why Math Class Is Boring—and What to Do About It - Farnam Street.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",

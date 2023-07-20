@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "解表剂",
       "path": "中医/药/解表剂.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "心智模型 MOC",
       "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "NotToDo",
