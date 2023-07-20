@@ -15,6 +15,7 @@ path does not include Templates
 
 
 - 个人😋
+	- GTD
 	- [[学习方法]]🔬
 	- [[YEAR MOC⌛]]
 	- [[WorkFlowMOC]]
