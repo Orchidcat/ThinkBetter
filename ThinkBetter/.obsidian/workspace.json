@@ -11,8 +11,12 @@
             "id": "2bcd5e4d6751ea51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template - Bike.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Template - Bike.md"
+              }
             }
           },
           {
@@ -104,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Template - Bike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Template - Bike.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +177,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d7197eb054d97e02",
+  "active": "2bcd5e4d6751ea51",
   "lastOpenFiles": [
     "DailyNotes/2022-06-01.md",
     "DailyNotes/2022-05-30.md",
@@ -190,7 +198,7 @@
     "WorkFlowMOC.md",
     "NotToDo.md",
     "基本Q.md",
-    "人纪/药/解表剂.md",
+    "@人纪/药/解表剂.md",
     "FromWeb/(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客.md",
     "FromWeb/单面人 - 世说新语.md",
     "FromWeb/开源、可定制的网页批注工具——Hypothesis.md",

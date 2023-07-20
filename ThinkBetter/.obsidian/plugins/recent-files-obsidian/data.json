@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - Bike",
+      "path": "Templates/Template - Bike.md"
+    },
+    {
       "basename": "2022-06-01",
       "path": "DailyNotes/2022-06-01.md"
     },
@@ -50,7 +54,7 @@
     },
     {
       "basename": "解表剂",
-      "path": "人纪/药/解表剂.md"
+      "path": "@人纪/药/解表剂.md"
     },
     {
       "basename": "(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客",
@@ -195,10 +199,6 @@
     {
       "basename": "五问饮食",
       "path": "五问饮食.md"
-    },
-    {
-      "basename": "金匮-人纪",
-      "path": "金匮-人纪.md"
     }
   ],
   "omittedPaths": [],

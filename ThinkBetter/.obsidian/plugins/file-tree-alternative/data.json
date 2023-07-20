@@ -16,7 +16,7 @@
   "iconBeforeFileName": true,
   "sortFilesBy": "name",
   "sortReverse": false,
-  "sortFoldersBy": "item-number",
+  "sortFoldersBy": "name",
   "fixedHeaderInFileList": true,
   "createdYaml": false,
   "fileNameIsHeader": false,
