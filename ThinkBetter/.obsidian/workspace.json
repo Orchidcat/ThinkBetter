@@ -54,8 +54,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d7197eb054d97e02",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "36e6d7fb785a359e",
@@ -193,7 +202,8 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "periodic-notes:Open this week": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "canvas:新建白板": false
+      "canvas:新建白板": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "632de29ce5184171",
