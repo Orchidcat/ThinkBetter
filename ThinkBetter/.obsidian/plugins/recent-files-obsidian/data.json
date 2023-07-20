@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "人物 MOC",
+      "path": "人物 MOC.md"
+    },
+    {
       "basename": "嫉妒与妒忌",
       "path": "嫉妒与妒忌.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Canvas 使用学习",
       "path": "Canvas 使用学习.canvas"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "NotToDo.md"
     }
   ],
   "omittedPaths": [],
