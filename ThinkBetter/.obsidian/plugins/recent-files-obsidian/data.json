@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "中药学",
+      "path": "人纪/中药学.md"
+    },
+    {
+      "basename": "方剂学",
+      "path": "人纪/方剂学.md"
+    },
+    {
+      "basename": "一问寒热",
+      "path": "人纪/一问寒热.md"
+    },
+    {
+      "basename": "zy-诊断学",
+      "path": "人纪/zy-诊断学.md"
+    },
+    {
+      "basename": "zy-总论",
+      "path": "人纪/zy-总论.md"
+    },
+    {
       "basename": "人物 MOC",
       "path": "人物 MOC.md"
     },
@@ -43,18 +63,6 @@
     {
       "basename": "三焦辨证",
       "path": "人纪/三焦辨证.md"
-    },
-    {
-      "basename": "一问寒热",
-      "path": "人纪/一问寒热.md"
-    },
-    {
-      "basename": "zy-诊断学",
-      "path": "人纪/zy-诊断学.md"
-    },
-    {
-      "basename": "zy-总论",
-      "path": "人纪/zy-总论.md"
     },
     {
       "basename": "+Home",
@@ -191,14 +199,6 @@
     {
       "basename": "从 Analog Desk 到模拟式工作流的建立 - 少数派",
       "path": "FromWeb/从 Analog Desk 到模拟式工作流的建立 - 少数派.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "Canvas 使用学习",
-      "path": "Canvas 使用学习.canvas"
     }
   ],
   "omittedPaths": [],

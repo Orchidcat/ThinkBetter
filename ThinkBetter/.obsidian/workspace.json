@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "人纪/中药学.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人物 MOC.md"
+                "file": "人纪/中药学.md"
               }
             }
           },
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "人纪/中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人物 MOC.md",
+                "file": "人纪/中药学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +179,11 @@
   },
   "active": "7157adf2b8adfa13",
   "lastOpenFiles": [
+    "人纪/方剂学.md",
+    "人纪/一问寒热.md",
+    "人纪/zy-诊断学.md",
+    "人纪/zy-总论.md",
+    "人物 MOC.md",
     "嫉妒与妒忌.md",
     "DailyNotes/2022-04-27.md",
     "名人.md",
@@ -191,9 +195,6 @@
     "人纪/桂枝加附子汤.md",
     "人纪/三焦.md",
     "人纪/三焦辨证.md",
-    "人纪/一问寒热.md",
-    "人纪/zy-诊断学.md",
-    "人纪/zy-总论.md",
     "+Home.md",
     "心智模型 MOC.md",
     "人纪/@MOC中医.md",
@@ -205,8 +206,6 @@
     "人纪/人纪 - 神农本草经.md",
     "人纪/辨太阳病脉症并治法.md",
     "人纪/伤寒论.md",
-    "不对称性.md",
-    "人纪/解表剂.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
