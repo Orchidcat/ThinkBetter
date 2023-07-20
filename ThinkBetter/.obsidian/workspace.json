@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☯️人纪/中医诊断学.md",
+                "file": "不对称性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c443118068191dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "☯️人纪/zy-总论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "☯️人纪/中医诊断学.md"
+                "file": "☯️人纪/zy-总论.md"
               }
             }
           },
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "☯️人纪/中医诊断学.md",
+                "file": "☯️人纪/zy-总论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "☯️人纪/中医诊断学.md",
+                "file": "☯️人纪/zy-总论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +192,12 @@
   },
   "active": "d7197eb054d97e02",
   "lastOpenFiles": [
-    "事件timing.md",
+    "☯️人纪/zy-诊断学.md",
+    "下焦病证.md",
+    "不对称性.md",
+    "☯️人纪/三焦.md",
     "☯️人纪/中医诊断学.md",
+    "事件timing.md",
     "沃伦·巴菲特.md",
     "Actual Seat Tube Angel.md",
     "微脉.md",
@@ -201,10 +218,6 @@
     "一句话的玩味.md",
     "费曼学习法.md",
     "YEAR MOC⌛.md",
-    "WorkFlowMOC.md",
-    "NotToDo.md",
-    "基本Q.md",
-    "☯️人纪/药/解表剂.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
