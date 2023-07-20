@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
-                "mode": "source",
+                "file": "学习方法.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "学习方法.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "学习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "学习方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +200,14 @@
   },
   "active": "ac5d58869d51911b",
   "lastOpenFiles": [
+    "一句话的玩味.md",
+    "费曼学习法.md",
+    "学习方法.md",
+    "+Home.md",
     "YEAR MOC⌛.md",
     "WorkFlowMOC.md",
     "NotToDo.md",
     "基本Q.md",
-    "+Home.md",
     "中医/药/解表剂.md",
     "FromWeb/(3条消息) git 推送更新出现错误： Updates were rejected because the remote contains work that you do_龚清林的博客-CSDN博客.md",
     "FromWeb/单面人 - 世说新语.md",
@@ -223,9 +226,6 @@
     "FromWeb/没了滤镜的伦敦，原来真实面目是这样的.md",
     "FromWeb/从 Analog Desk 到模拟式工作流的建立 - 少数派.md",
     "100种心智模型.md",
-    "FromWeb/Developer  Hypothesis.md",
-    "FromWeb/5 Years of Indie Hacking.md",
-    "FromWeb/Efficiency is the Enemy.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
