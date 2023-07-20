@@ -8,9 +8,18 @@
   "autoSyncInterval": 3,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 0,
-    "totalHighlights": 0
+    "totalArticles": 32,
+    "totalHighlights": 50
   },
-  "groups": [],
-  "useDomainFolders": false
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "lastSyncDate": "2023-07-20T02:58:32.793Z"
 }
