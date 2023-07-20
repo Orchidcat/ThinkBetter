@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/中药学.md",
+                "file": "人纪/@MOC中医.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/中药学.md"
+                "file": "人纪/@MOC中医.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/中药学.md",
+                "file": "人纪/@MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/中药学.md",
+                "file": "人纪/@MOC中医.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +179,9 @@
   },
   "active": "7157adf2b8adfa13",
   "lastOpenFiles": [
+    "人纪/黄帝内经.md",
+    "人纪/@MOC中医.md",
+    "人纪/中药学.md",
     "人纪/方剂学.md",
     "人纪/一问寒热.md",
     "人纪/zy-诊断学.md",
@@ -197,15 +200,12 @@
     "人纪/三焦辨证.md",
     "+Home.md",
     "心智模型 MOC.md",
-    "人纪/@MOC中医.md",
     "人纪/脉诊.md",
     "人纪/代脉.md",
     "人纪/辨厥阴病脉症并治法.md",
     "人纪/金匮-人纪.md",
     "人纪/金匮要略 - 人纪.md",
     "人纪/人纪 - 神农本草经.md",
-    "人纪/辨太阳病脉症并治法.md",
-    "人纪/伤寒论.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
