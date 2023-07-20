@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a10cb363733748e",
+        "id": "1be48f2993952bbd",
         "type": "tabs",
         "children": [
           {
-            "id": "af142c36a650b7f3",
+            "id": "ac5d58869d51911b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100种心智模型.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -198,7 +194,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "af142c36a650b7f3",
+  "active": "496d8b50375bb5e6",
   "lastOpenFiles": [
     "FromWeb",
     "愚蠢的来源.md",
