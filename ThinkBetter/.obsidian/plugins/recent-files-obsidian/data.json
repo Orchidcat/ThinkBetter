@@ -5,6 +5,10 @@
       "path": "@ 人纪 - Map.canvas"
     },
     {
+      "basename": "伤寒论",
+      "path": "人纪/伤寒论.md"
+    },
+    {
       "basename": "黄帝外经",
       "path": "人纪/黄帝外经.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "辨太阳病脉症并治法",
       "path": "人纪/辨太阳病脉症并治法.md"
-    },
-    {
-      "basename": "伤寒论",
-      "path": "人纪/伤寒论.md"
     },
     {
       "basename": "不对称性",
