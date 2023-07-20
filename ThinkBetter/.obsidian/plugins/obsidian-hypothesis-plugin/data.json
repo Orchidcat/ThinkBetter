@@ -18,8 +18,15 @@
       "public": true,
       "type": "open",
       "selected": true
+    },
+    {
+      "id": "4Q9mGQE7",
+      "name": "FromWeb",
+      "public": false,
+      "type": "private",
+      "selected": true
     }
   ],
   "useDomainFolders": false,
-  "lastSyncDate": "2023-07-20T02:58:32.793Z"
+  "lastSyncDate": "2023-07-20T03:01:27.270Z"
 }
