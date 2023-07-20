@@ -45,8 +45,15 @@
       {
         "id": "ac33ce8e4eb06f73",
         "type": "tabs",
-        "dimension": 42.462845010615716,
         "children": [
+          {
+            "id": "d7197eb054d97e02",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
           {
             "id": "f7e7f86bca033ecb",
             "type": "leaf",
@@ -56,21 +63,21 @@
             }
           },
           {
-            "id": "d7197eb054d97e02",
+            "id": "5dc96816b50898db",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "36e6d7fb785a359e",
-        "type": "tabs",
-        "dimension": 57.53715498938429,
-        "children": [
+          },
+          {
+            "id": "e805437fea5ff742",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
           {
             "id": "b29475884b4470c5",
             "type": "leaf",
@@ -85,29 +92,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "e805437fea5ff742",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "5dc96816b50898db",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 557.5110359191895
+    "width": 243.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
