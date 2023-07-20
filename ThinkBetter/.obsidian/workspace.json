@@ -11,8 +11,12 @@
             "id": "03548b4b807a919b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+Home.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +199,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "72c31c6f2da8d345",
+  "active": "03548b4b807a919b",
   "lastOpenFiles": [
     "麻黄汤.md",
     "脉诊.md",
