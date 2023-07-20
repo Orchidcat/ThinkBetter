@@ -3,7 +3,7 @@ alias: ["000", "Home"]
 ---
 
 # Home 
-## 主要思路
+
 [[+HomeMOC]]
 - TASK🍅
 ```tasks

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,12 +209,12 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5fc82657442a79d2",
+  "active": "ac5d58869d51911b",
   "lastOpenFiles": [
-    "+HomeMOC.md",
     "GTD.md",
     "+Home.md",
     "学习方法.md",
+    "+HomeMOC.md",
     "一句话的玩味.md",
     "费曼学习法.md",
     "YEAR MOC⌛.md",
