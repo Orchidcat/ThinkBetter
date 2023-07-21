@@ -16,7 +16,7 @@
                 "file": "人纪/000 @ 人纪 - Map.canvas",
                 "viewState": {
                   "x": -660,
-                  "y": -959.5,
+                  "y": -725.1546847195536,
                   "zoom": -1.3333333333333333
                 }
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/194 中医诊断学.md"
+                "file": "人纪/000 @ 人纪 - Map.canvas"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "人纪/000 @ 人纪 - Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "人纪/000 @ 人纪 - Map.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
