@@ -25,7 +25,7 @@
 | 窗口管理工具 |  obsidian-hover-editor | 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能|
 
 
-obsidian-icon-folder
+| |obsidian-icon-folder
 obsidian-icons-plugin
 obsidian-kanban
 obsidian-mind-map
