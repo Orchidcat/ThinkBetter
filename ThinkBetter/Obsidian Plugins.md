@@ -4,7 +4,8 @@
 | 统计类      | better-word-count                   |                                                              |
 | 编辑增强    | cm-editor-syntax-highlight-obsidian | 允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案 |
 | 插入预览    | convert-url-to-iframe               | 将任何 URL 转换为网页预览插入到笔记中                        |
-|             |   dataview                                  |                                                              |
+|             | dataview                            |                                                              |
+|             |   emoji-shortcodes  |                                                              |
 
 
 
