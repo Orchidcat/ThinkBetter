@@ -21,7 +21,7 @@
 | 图标类      | obsidian-emoji-toolbar              | 快速搜索表情符号并将其插入到您的编辑器中                     |
 |             | obsidian-excalidraw-plugin          |                                                              |
 |             | obsidian-focus-mode                 |                                                              |
-|             |                                     |                                                              |
+|             |  obsidian-git |                                    |
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-obsidian-focus-mode
-obsidian-git
+
+
 obsidian-hover-editor
 obsidian-icon-folder
 obsidian-icons-plugin
