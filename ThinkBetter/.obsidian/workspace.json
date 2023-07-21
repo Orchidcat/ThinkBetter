@@ -41,14 +41,6 @@
             }
           },
           {
-            "id": "f7e7f86bca033ecb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "5dc96816b50898db",
             "type": "leaf",
             "state": {
@@ -79,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,6 +87,14 @@
         "type": "tabs",
         "dimension": 62.78089887640449,
         "children": [
+          {
+            "id": "f7e7f86bca033ecb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "ebed1a78815bdf47",
             "type": "leaf",
@@ -155,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ca26a314d011352f",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "人纪/004 金匮要略.md",
     "人纪/003 伤寒论.md",
