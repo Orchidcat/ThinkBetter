@@ -42,5 +42,6 @@
   "file-order",
   "editor-width-slider",
   "multi-column-markdown",
-  "optimize-canvas-connections"
+  "optimize-canvas-connections",
+  "obsidian-plugin-toc"
 ]
