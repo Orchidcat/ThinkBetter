@@ -8,11 +8,14 @@
 | 图标类      | emoji-shortcodes                    | 通过键入 emoji 对应的短代码方式，快速筛选和输入              |
 | 文件管理类  | file-order                          | 允许你快速给文件夹的文件加上数字编号                         |
 | 文件管理类  | file-tree-alternative               | 提供了一个全新的增强型文件管理器                             |
-|             |flashcards-obsidian |                                                              |
+|             | flashcards-obsidian                 |                                                              |
+|             | homepage                            |                                                              |
+|             | janitor                             |                                                              |
+|             | metadata-menu                                   |                                                              |
 
 
-flashcards-obsidian
-homepage
+
+
 janitor
 metadata-menu
 multi-column-markdown
