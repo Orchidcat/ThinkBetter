@@ -18,7 +18,10 @@
 |             | obsidian-admonition                 |                                                              |
 |             | obsidian-better-command-palette     | 为命令面板添加了一个更用户友好、功能更丰富的强化             |
 |             | obsidian-editor-width-slider        |                                                              |
-|  图标类    | obsidian-emoji-toolbar |   快速搜索表情符号并将其插入到您的编辑器中        |
+| 图标类      | obsidian-emoji-toolbar              | 快速搜索表情符号并将其插入到您的编辑器中                     |
+|             | obsidian-excalidraw-plugin          |                                                              |
+|             | obsidian-focus-mode                 |                                                              |
+|             |                                     |                                                              |
 
 
 
@@ -26,8 +29,7 @@
 
 
 
-obsidian-emoji-toolbar
-obsidian-excalidraw-plugin
+
 obsidian-focus-mode
 obsidian-git
 obsidian-hover-editor
