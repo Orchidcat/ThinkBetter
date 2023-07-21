@@ -1,17 +1,17 @@
-| 类别        | 名称                                | 说明                                                         |     
-| ----------- | ----------------------------------- | ------------------------------------------------------------ | 
+| 类别        | 名称                                | 说明                                                         |
+| ----------- | ----------------------------------- | ------------------------------------------------------------ |
 | 自动化&效率 | auto-note-mover                     | 可以自动将笔记根据规则，移动到各自的文件夹中                 |
-| 统计类      | better-word-count                   |                                                           |
-| 编辑增强    | cm-editor-syntax-highlight-obsidian | 允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案   |
-|             |                                     |                                                                 |
+| 统计类      | better-word-count                   |                                                              |
+| 编辑增强    | cm-editor-syntax-highlight-obsidian | 允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案 |
+| 插入预览    | convert-url-to-iframe               | 将任何 URL 转换为网页预览插入到笔记中                        |
+|             |   dataview                                  |                                                              |
 
 
 
 
 
 
-cm-editor-syntax-highlight-obsidian
-convert-url-to-iframe
+
 dataview
 emoji-shortcodes
 file-order
