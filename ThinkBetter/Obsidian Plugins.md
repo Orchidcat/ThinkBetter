@@ -11,14 +11,15 @@ Largest Column: standard
 
 --- end-multi-column
 
-
+### 自动化&效率
+auto-note-mover 可以自动将笔记根据规则，移动到各自的文件夹中
 ### 文件管理类
 ### 统计类
 better-word-count
 
 
 
-auto-note-mover
+
 
 calendar
 cm-editor-syntax-highlight-obsidian
