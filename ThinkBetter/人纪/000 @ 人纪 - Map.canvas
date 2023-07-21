@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"type":"group","id":"a6ba6d63b6291578","x":-980,"y":-1080,"width":440,"height":380,"label":"伤寒杂病论"},
-		{"type":"file","file":"人纪/003 伤寒论.md","id":"c4506b8a37188ef0","x":-960,"y":-880,"width":400,"height":201,"color":"4"},
+		{"type":"group","id":"a6ba6d63b6291578","x":-1440,"y":-1080,"width":480,"height":520,"label":"伤寒杂病论"},
 		{"type":"file","file":"人纪/002 黄帝内经.md","id":"ad2b783ab4c2f135","x":-1360,"y":-1760,"width":400,"height":240},
 		{"type":"file","file":"人纪/057 黄帝外经.md","id":"15346a630778f258","x":-1560,"y":-1400,"width":200,"height":193},
-		{"type":"file","file":"人纪/004 金匮要略.md","id":"3afdc84a7d274ae1","x":-960,"y":-679,"width":400,"height":159},
-		{"type":"file","file":"人纪/194 中医诊断学.md","id":"f0ebe98d43a05023","x":-160,"y":-879,"width":400,"height":400}
+		{"type":"file","file":"人纪/194 中医诊断学.md","id":"f0ebe98d43a05023","x":-160,"y":-879,"width":400,"height":400},
+		{"type":"file","file":"人纪/004 金匮要略.md","id":"3afdc84a7d274ae1","x":-1420,"y":-758,"width":400,"height":159},
+		{"type":"file","file":"人纪/003 伤寒论.md","id":"c4506b8a37188ef0","x":-1420,"y":-1040,"width":400,"height":201,"color":"4"}
 	],
 	"edges":[
-		{"id":"4ae3d3b08df13cf8","fromNode":"ad2b783ab4c2f135","fromSide":"right","toNode":"f0ebe98d43a05023","toSide":"left"}
+		{"id":"4ae3d3b08df13cf8","fromNode":"ad2b783ab4c2f135","fromSide":"right","toNode":"f0ebe98d43a05023","toSide":"left"},
+		{"id":"a411982384603133","fromNode":"ad2b783ab4c2f135","fromSide":"bottom","toNode":"a6ba6d63b6291578","toSide":"top"}
 	]
 }
