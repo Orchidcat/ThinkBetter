@@ -1,12 +1,13 @@
 
 
-
-
+### 文件管理类
+### 统计类
+better-word-count
 
 
 
 auto-note-mover
-better-word-count
+
 calendar
 cm-editor-syntax-highlight-obsidian
 convert-url-to-iframe
