@@ -32,14 +32,6 @@
             }
           },
           {
-            "id": "6cb43d76e039f482",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "51a47b4354ab700c",
             "type": "leaf",
             "state": {
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -189,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 264,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
