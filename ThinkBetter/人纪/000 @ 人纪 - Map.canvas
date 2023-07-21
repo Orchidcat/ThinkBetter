@@ -1,11 +1,10 @@
 {
 	"nodes":[
-		{"type":"file","file":"人纪/002 黄帝内经.md","id":"ad2b783ab4c2f135","x":-960,"y":-1240,"width":400,"height":193},
-		{"type":"file","file":"人纪/057 黄帝外经.md","id":"15346a630778f258","x":-560,"y":-1240,"width":200,"height":193},
-		{"type":"file","file":"人纪/003 伤寒论.md","id":"c4506b8a37188ef0","x":-960,"y":-880,"width":400,"height":201,"color":"4"}
+		{"type":"file","file":"人纪/003 伤寒论.md","id":"c4506b8a37188ef0","x":-960,"y":-880,"width":400,"height":201,"color":"4"},
+		{"type":"file","file":"人纪/002 黄帝内经.md","id":"ad2b783ab4c2f135","x":-1360,"y":-1760,"width":400,"height":240},
+		{"type":"file","file":"人纪/057 黄帝外经.md","id":"15346a630778f258","x":-1560,"y":-1400,"width":200,"height":193}
 	],
 	"edges":[
-		{"id":"b51fe86f1af130fb","fromNode":"c4506b8a37188ef0","fromSide":"top","toNode":"ad2b783ab4c2f135","toSide":"bottom"},
-		{"id":"c1de4079324f16a8","fromNode":"c4506b8a37188ef0","fromSide":"top","toNode":"15346a630778f258","toSide":"bottom"}
+		{"id":"36ef03dec63a33fc","fromNode":"ad2b783ab4c2f135","fromSide":"bottom","toNode":"c4506b8a37188ef0","toSide":"top"}
 	]
 }
