@@ -12,10 +12,11 @@
 |             | homepage                            |                                                              |
 |             | janitor                             |                                                              |
 |             | metadata-menu                       | 图形化方便修改 YAML 值的一个工具                             |
-| 编辑增强            |                                     |                                                              |
+| 编辑增强    | multi-column-markdown               | 在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。   |
+|  日期           |nldates-obsidian  |使用自然语言插入时间戳，并链接对应笔记中                                                              |
 
 
-multi-column-markdown
+
 nldates-obsidian
 note-refactor-obsidian
 obsidian-admonition
