@@ -2,7 +2,7 @@
 
 
 - auto-note-mover：可以自动将笔记根据规则，移动到各自的文件夹中
-better-word-count
+- better-word-count：
 
 
 
