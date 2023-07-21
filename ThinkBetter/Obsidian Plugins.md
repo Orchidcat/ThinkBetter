@@ -14,7 +14,9 @@
 |             | metadata-menu                       | 图形化方便修改 YAML 值的一个工具                             |
 | 编辑增强    | multi-column-markdown               | 在 Obsidian 的预览模式下创建包含多列内容的 Markdown 文档。   |
 | 日期        | nldates-obsidian                    | 使用自然语言插入时间戳，并链接对应笔记中                     |
-|             |  note-refactor-obsidian |                                                              |
+|             | note-refactor-obsidian              |                                                              |
+|             | obsidian-admonition                 |                                                              |
+|             | obsidian-better-command-palette  | 为命令面板添加了一个更用户友好、功能更丰富的强化   |
 
 
 
