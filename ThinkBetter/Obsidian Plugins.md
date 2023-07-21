@@ -21,18 +21,10 @@
 | 图标类      | obsidian-emoji-toolbar              | 快速搜索表情符号并将其插入到您的编辑器中                     |
 |             | obsidian-excalidraw-plugin          |                                                              |
 |             | obsidian-focus-mode                 |                                                              |
-|             |  obsidian-git |                                    |
+|             | obsidian-git                        |                                                              |
+| 窗口管理工具 |  obsidian-hover-editor | 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能|
 
 
-
-
-
-
-
-
-
-
-obsidian-hover-editor
 obsidian-icon-folder
 obsidian-icons-plugin
 obsidian-kanban
