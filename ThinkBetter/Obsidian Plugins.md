@@ -1,4 +1,7 @@
-
+| 类别 | 名称            | 说明                                         |
+| ---- | --------------- | -------------------------------------------- |
+|      | auto-note-mover | 可以自动将笔记根据规则，移动到各自的文件夹中 |
+|  自动化    | better-word-count              |                                              |
 
 
 - auto-note-mover：可以自动将笔记根据规则，移动到各自的文件夹中
@@ -46,7 +49,7 @@ quick-explorer
 recent-files-obsidian
 sliding-panes-obsidian
 table-editor-obsidian
-tag-wrangler
+tag-wrangler：增强的标签管理体验，从标签面板中重命名、合并、切换和搜索标签面面俱到
 url-into-selection
 various-complements
 workbench-obsidian
