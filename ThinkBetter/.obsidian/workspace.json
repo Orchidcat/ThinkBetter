@@ -30,9 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cb43d76e039f482",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a47b4354ab700c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD.md"
+                "file": "Obsidian Plugins.md"
               }
             }
           },
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD.md",
+                "file": "Obsidian Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD.md",
+                "file": "Obsidian Plugins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +209,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5b47d9a9c0c87b2f",
+  "active": "51a47b4354ab700c",
   "lastOpenFiles": [
+    "Obsidian Plugins.md",
+    "GTD.md",
     "Sources/Pasted image 20230721102144.png",
     "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
@@ -218,7 +240,6 @@
     "费曼学习法.md",
     "Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw",
-    "人纪/049 桂枝加葛根汤.md",
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas",
