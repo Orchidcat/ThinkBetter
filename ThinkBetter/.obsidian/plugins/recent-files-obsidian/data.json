@@ -5,12 +5,20 @@
       "path": "人纪/000 @ 人纪 - Map.canvas"
     },
     {
-      "basename": "057 黄帝外经",
-      "path": "人纪/057 黄帝外经.md"
-    },
-    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "057 黄帝外经",
+      "path": "人纪/057 黄帝外经.md"
     },
     {
       "basename": "003 伤寒论",
@@ -27,10 +35,6 @@
     {
       "basename": "005 八纲辨证",
       "path": "人纪/005 八纲辨证.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "2023-W29",
@@ -131,10 +135,6 @@
     {
       "basename": "不对称性",
       "path": "不对称性.md"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "人纪/194 中医诊断学.md"
     },
     {
       "basename": "Template - Bike",
