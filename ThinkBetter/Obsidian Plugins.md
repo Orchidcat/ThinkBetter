@@ -5,16 +5,9 @@
 | 编辑增强    | cm-editor-syntax-highlight-obsidian | 允许在 Obsidian 的代码块中针对编程语言显示预设的高亮配色方案 |
 | 插入预览    | convert-url-to-iframe               | 将任何 URL 转换为网页预览插入到笔记中                        |
 |             | dataview                            |                                                              |
-|             |   emoji-shortcodes  |                                                              |
+| 图标类      | emoji-shortcodes                    | 通过键入 emoji 对应的短代码方式，快速筛选和输入              |
+| 文件管理类   |  file-order  | 允许你快速给文件夹的文件加上数字编号                                                             |
 
-
-
-
-
-
-
-dataview
-emoji-shortcodes
 file-order
 file-tree-alternative
 flashcards-obsidian
