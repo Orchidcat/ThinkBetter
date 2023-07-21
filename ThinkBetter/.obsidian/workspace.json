@@ -11,8 +11,12 @@
             "id": "ca26a314d011352f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/002 黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/002 黄帝内经.md"
+              }
             }
           },
           {
@@ -104,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
