@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "GTD.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#查理芒格",
+                "query": "GTD",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "GTD.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "GTD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +191,10 @@
   },
   "active": "5b47d9a9c0c87b2f",
   "lastOpenFiles": [
+    "Sources/Pasted image 20230721102144.png",
+    "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "人纪/004 金匮要略.md",
-    "人纪/002 黄帝内经.md",
     "人纪/003 伤寒论.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/007 半固体型.md",
