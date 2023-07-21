@@ -11,13 +11,10 @@
 |             | flashcards-obsidian                 |                                                              |
 |             | homepage                            |                                                              |
 |             | janitor                             |                                                              |
-|             | metadata-menu                                   |                                                              |
+|             | metadata-menu                       | 图形化方便修改 YAML 值的一个工具                             |
+| 编辑增强            |                                     |                                                              |
 
 
-
-
-janitor
-metadata-menu
 multi-column-markdown
 nldates-obsidian
 note-refactor-obsidian
