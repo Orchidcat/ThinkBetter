@@ -25,15 +25,18 @@
 | 窗口管理工具 | obsidian-hover-editor               | 通过将悬停弹窗变成一个功能齐全的编辑器，来增强核心的“页面预览”原有的功能 |
 | 美化         | obsidian-icon-folder                | 允许你添加任何自定义图标 (类型为.svg) 或从图标包中添加到您的文件夹或文件 |
 | 图标类       | obsidian-icons-plugin               | 提供插入图标符号的功能                                                   |
-| 任务类&提醒  |obsidian-kanban  |                                                                          |
+| 任务类&提醒  | obsidian-kanban                     |                                                                          |
+|              | obsidian-mind-map                   |                                                                          |
+|              | obsidian-minimal-settings           |                                                                          |
+|              | obsidian-outliner                                     |                                                                          |
 
 
 
 
 
-obsidian-mind-map
-obsidian-minimal-settings
-obsidian-outliner
+
+
+
 obsidian-pangu
 obsidian-plugin-toc
 obsidian-style-settings
