@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ddf35b0b576d22b",
+            "id": "0ce6010f6539d969",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ce6010f6539d969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/195 子午流注.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,12 +71,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/195 子午流注.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1ef0628f3f9ecc69",
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +177,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0ce6010f6539d969",
+  "active": "ebed1a78815bdf47",
   "lastOpenFiles": [
+    "人纪/195 子午流注.md",
     "人纪/004 金匮要略.md",
     "DailyNotes/2023-W30.md",
     "人纪/014 辨阳明病脉症并治法.md",
@@ -219,7 +207,6 @@
     "人纪/174 一问寒热.md",
     "人物 MOC.md",
     "嫉妒与妒忌.md",
-    "DailyNotes/2022-04-27.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
