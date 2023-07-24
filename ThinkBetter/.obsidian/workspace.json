@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ce6010f6539d969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/195 子午流注.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "子午",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/195 子午流注.md"
               }
             }
           },
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/195 子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/195 子午流注.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +190,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3ddf35b0b576d22b",
+  "active": "0ce6010f6539d969",
   "lastOpenFiles": [
-    "DailyNotes/2023-W30.md",
     "人纪/004 金匮要略.md",
+    "DailyNotes/2023-W30.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
