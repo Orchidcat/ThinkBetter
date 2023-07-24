@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-W30.md",
+                "file": "系统解刨学.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-W30.md"
+                "file": "系统解刨学.md"
               }
             }
           },
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-W30.md",
+                "file": "系统解刨学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-W30.md",
+                "file": "系统解刨学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +180,10 @@
   },
   "active": "0ce6010f6539d969",
   "lastOpenFiles": [
+    "DailyNotes/2023-W30.md",
+    "系统解刨学.md",
     "人纪/004 金匮要略.md",
     "人纪/195 子午流注.md",
-    "DailyNotes/2023-W30.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
@@ -205,7 +208,6 @@
     "人纪/034 方剂学.md",
     "人纪/174 一问寒热.md",
     "人物 MOC.md",
-    "嫉妒与妒忌.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
