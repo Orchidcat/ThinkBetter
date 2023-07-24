@@ -28,7 +28,8 @@
 | 任务类&提醒  | obsidian-kanban                     |                                                                          |
 |              | obsidian-mind-map                   |                                                                          |
 |              | obsidian-minimal-settings           |                                                                          |
-|              | obsidian-outliner                                     |                                                                          |
+|              | obsidian-outliner                   |                                                                          |
+|              |  obsidian-pangu                                   |                                                                          |
 
 
 
@@ -37,7 +38,7 @@
 
 
 
-obsidian-pangu
+
 obsidian-plugin-toc
 obsidian-style-settings
 obsidian-tasks-plugin

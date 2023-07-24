@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3087f99e95aa6bd5",
+        "id": "dedf7ae11c07dc86",
         "type": "tabs",
         "children": [
           {
-            "id": "51a47b4354ab700c",
+            "id": "2e5da137dbeed1aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Plugins.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Plugins.md"
-              }
+              "state": {}
             }
           },
           {
@@ -110,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Plugins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +168,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "51a47b4354ab700c",
+  "active": "2e5da137dbeed1aa",
   "lastOpenFiles": [
     "Obsidian Plugins.md",
     "GTD.md",
