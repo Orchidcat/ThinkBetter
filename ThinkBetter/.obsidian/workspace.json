@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -176,7 +177,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2e5da137dbeed1aa",
+  "active": "d7197eb054d97e02",
   "lastOpenFiles": [
     "Obsidian Plugins.md",
     "GTD.md",
