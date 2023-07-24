@@ -11,8 +11,12 @@
             "id": "2e5da137dbeed1aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/004 金匮要略.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/004 金匮要略.md"
+              }
             }
           },
           {
@@ -104,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
