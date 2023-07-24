@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "DailyNotes/2023-W30.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "DailyNotes/2023-W30.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "DailyNotes/2023-W30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "DailyNotes/2023-W30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +180,9 @@
   },
   "active": "2e5da137dbeed1aa",
   "lastOpenFiles": [
-    "人纪/014 辨阳明病脉症并治法.md",
     "人纪/004 金匮要略.md",
+    "DailyNotes/2023-W30.md",
+    "人纪/014 辨阳明病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
     "Obsidian Plugins.md",
@@ -207,7 +208,6 @@
     "人物 MOC.md",
     "嫉妒与妒忌.md",
     "DailyNotes/2022-04-27.md",
-    "名人.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
