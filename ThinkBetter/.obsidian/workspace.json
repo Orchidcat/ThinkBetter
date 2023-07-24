@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/014 辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "承气汤",
+                "query": "小承气汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -192,6 +191,7 @@
   },
   "active": "2e5da137dbeed1aa",
   "lastOpenFiles": [
+    "人纪/014 辨阳明病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/004 金匮要略.md",
     "人纪/011 辨少阴病脉症并治法.md",
@@ -219,7 +219,6 @@
     "嫉妒与妒忌.md",
     "DailyNotes/2022-04-27.md",
     "名人.md",
-    "学习高手.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
