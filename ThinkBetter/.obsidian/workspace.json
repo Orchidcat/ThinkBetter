@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "解决Git 无法push 问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "解决Git 无法push 问题.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "解决Git 无法push 问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "解决Git 无法push 问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,9 @@
   },
   "active": "0ce6010f6539d969",
   "lastOpenFiles": [
+    "Sources/Pasted image 20230725160132.png",
+    "人纪/166 血证论.md",
+    "解决Git 无法push 问题.md",
     "人纪/002 黄帝内经.md",
     "系统解刨学.md",
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
@@ -205,9 +208,6 @@
     "人纪/005 八纲辨证.md",
     "DailyNotes/2023-W29.md",
     "灰色思维.md",
-    "zoom.md",
-    "人纪/095 三焦.md",
-    "人纪/203 zy-诊断学.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "解决Git 无法push 问题",
+      "path": "解决Git 无法push 问题.md"
+    },
+    {
       "basename": "166 血证论",
       "path": "人纪/166 血证论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - Bike",
       "path": "Templates/Template - Bike.md"
-    },
-    {
-      "basename": "2022-06-01",
-      "path": "DailyNotes/2022-06-01.md"
     }
   ],
   "omittedPaths": [],
