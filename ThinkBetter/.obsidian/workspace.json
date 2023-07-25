@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "胰腺癌",
+                "query": "酸",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0ce6010f6539d969",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/180 引经药.md",
