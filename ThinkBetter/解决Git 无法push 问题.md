@@ -3,9 +3,10 @@
 
 创建sshkey
 ```code
-
+ssh-keygen -t rsa -C "邮箱地址"
 ```
 
+将创建的sshkey 添加到网页的注册key中。拷贝.ssh\id_rsa.pub 文件内容
 
 
 
