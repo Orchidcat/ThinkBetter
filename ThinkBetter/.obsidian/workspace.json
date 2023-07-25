@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
+                "file": "人纪/180 引经药.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "麻黄",
+                "query": "丹皮",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/078 麻黄杏仁甘草石膏汤.md"
+                "file": "人纪/180 引经药.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
+                "file": "人纪/180 引经药.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
+                "file": "人纪/180 引经药.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +180,13 @@
   },
   "active": "0ce6010f6539d969",
   "lastOpenFiles": [
+    "人纪/089 人纪 - 神农本草经.md",
+    "人纪/017 柴葛解肌汤.md",
+    "人纪/004 金匮要略.md",
     "人纪/014 辨阳明病脉症并治法.md",
+    "人纪/078 麻黄杏仁甘草石膏汤.md",
     "系统解刨学.md",
     "DailyNotes/2023-W30.md",
-    "人纪/004 金匮要略.md",
     "人纪/195 子午流注.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
@@ -205,9 +208,6 @@
     "人纪/204 zy-总论.md",
     "+Home.md",
     "人纪/193 中药学.md",
-    "人纪/034 方剂学.md",
-    "人纪/174 一问寒热.md",
-    "人物 MOC.md",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
