@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解决Git 无法push 问题.md",
-                "mode": "preview",
+                "file": "人纪/001 @MOC中医.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "解决Git 无法push 问题.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           },
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "解决Git 无法push 问题.md",
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "解决Git 无法push 问题.md",
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,12 +178,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0ce6010f6539d969",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
+    "人纪/001 @MOC中医.md",
+    "解决Git 无法push 问题.md",
     "Sources/Pasted image 20230725160132.png",
     "人纪/166 血证论.md",
-    "解决Git 无法push 问题.md",
-    "人纪/002 黄帝内经.md",
     "系统解刨学.md",
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/012 辨太阳病脉症并治法.md",
@@ -199,7 +201,6 @@
     "Obsidian Plugins.md",
     "GTD.md",
     "Sources/Pasted image 20230721102144.png",
-    "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/007 半固体型.md",
