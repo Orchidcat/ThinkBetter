@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "sql server 线程",
+      "path": "sql server 线程.md"
+    },
+    {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
+    },
+    {
       "basename": "解决Git 无法push 问题",
       "path": "解决Git 无法push 问题.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "063 金匮-人纪",
       "path": "人纪/063 金匮-人纪.md"
-    },
-    {
-      "basename": "不对称性",
-      "path": "不对称性.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
     }
   ],
   "omittedPaths": [],
