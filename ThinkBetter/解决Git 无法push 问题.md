@@ -29,5 +29,10 @@ github.com ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCj7ndNxQowgcQnjshcLrqPEiiphnt+V
 若出现 fatal: Authentication failed for 等
 
 ```code
-Git
+git remote -v
+
+git remote set-url origin git@github.com:名称/库名.git
+
+git remote -v --查看是否使用ssh方式推送
+
 ```
