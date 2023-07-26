@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "怪诞",
+                "query": "瓜蒂散",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,10 +203,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "db943baa3fd7161a",
   "lastOpenFiles": [
-    "sql server 缓存计划.md",
+    "人纪/009 辨厥阴病脉症并治法.md",
+    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/004 金匮要略.md",
+    "sql server 缓存计划.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
     "sql server 线程.md",
@@ -218,8 +220,6 @@
     "人纪/166 血证论.md",
     "系统解刨学.md",
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
-    "人纪/012 辨太阳病脉症并治法.md",
-    "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/180 引经药.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/017 柴葛解肌汤.md",
