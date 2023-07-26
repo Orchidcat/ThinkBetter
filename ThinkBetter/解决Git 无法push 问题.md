@@ -34,5 +34,9 @@ git remote -v
 git remote set-url origin git@github.com:名称/库名.git
 
 git remote -v --查看是否使用ssh方式推送
+--形如
+origin git@github.com:名称/库名.git(fetch)
+origin git@github.com:名称/库名.git(push)
 
+ssh -T git@github.com
 ```
