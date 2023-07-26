@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72264f2116d57b6d",
+        "id": "067ec22debc22aeb",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce6010f6539d969",
+            "id": "9877d4ffe3ae7c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "解决Git 无法push 问题.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -100,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "解决Git 无法push 问题.md"
-              }
+              "state": {}
             }
           },
           {
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "解决Git 无法push 问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "解决Git 无法push 问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +170,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0ce6010f6539d969",
+  "active": "9877d4ffe3ae7c9b",
   "lastOpenFiles": [
+    "解决Git 无法push 问题.md",
     "人纪/001 @MOC中医.md",
     "人纪/002 黄帝内经.md",
-    "解决Git 无法push 问题.md",
     "Sources/Pasted image 20230725160132.png",
     "人纪/166 血证论.md",
     "系统解刨学.md",
