@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sql server 缓存计划",
+      "path": "sql server 缓存计划.md"
+    },
+    {
       "basename": "sql server 线程",
       "path": "sql server 线程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "027 代脉",
       "path": "人纪/027 代脉.md"
-    },
-    {
-      "basename": "063 金匮-人纪",
-      "path": "人纪/063 金匮-人纪.md"
     }
   ],
   "omittedPaths": [],
