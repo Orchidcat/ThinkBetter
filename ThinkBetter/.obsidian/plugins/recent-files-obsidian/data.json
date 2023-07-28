@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "项目 MOC.md"
+    },
+    {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
     },
@@ -141,10 +149,6 @@
       "path": "人纪/204 zy-总论.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
-    },
-    {
       "basename": "193 中药学",
       "path": "人纪/193 中药学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "096 三焦辨证",
       "path": "人纪/096 三焦辨证.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
     }
   ],
   "omittedPaths": [],
