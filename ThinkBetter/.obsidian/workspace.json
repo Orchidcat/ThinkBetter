@@ -32,19 +32,15 @@
             }
           },
           {
-            "id": "ae20be87bd3d5329",
+            "id": "d9f510b42e5105fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/014 辨阳明病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,13 +194,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "db943baa3fd7161a",
+  "active": "d9f510b42e5105fa",
   "lastOpenFiles": [
-    "项目 MOC.md",
     "+Home.md",
+    "人纪/014 辨阳明病脉症并治法.md",
+    "项目 MOC.md",
     "人纪/001 @MOC中医.md",
     "人纪/004 金匮要略.md",
-    "人纪/014 辨阳明病脉症并治法.md",
     "人纪/087 气血辩证.md",
     "sql server 缓存计划.md",
     "人纪/141 文式易经经.md",
