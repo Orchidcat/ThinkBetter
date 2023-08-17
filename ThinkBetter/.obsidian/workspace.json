@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9877d4ffe3ae7c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sql server 缓存计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db943baa3fd7161a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           },
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +189,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d9f510b42e5105fa",
+  "active": "db943baa3fd7161a",
   "lastOpenFiles": [
     "+Home.md",
     "sql server 缓存计划.md",
