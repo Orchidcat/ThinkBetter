@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/141 文式易经经.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/141 文式易经经.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/141 文式易经经.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +204,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ded0152db06aa452",
+  "active": "d9f510b42e5105fa",
   "lastOpenFiles": [
+    "人纪/141 文式易经经.md",
     "人纪/004 金匮要略.md",
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/006 按诊.md",
@@ -217,7 +218,6 @@
     "人纪/014 辨阳明病脉症并治法.md",
     "项目 MOC.md",
     "人纪/087 气血辩证.md",
-    "人纪/141 文式易经经.md",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
