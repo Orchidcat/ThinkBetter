@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/162 胸痹心痛短气病脉症并治第九.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/162 胸痹心痛短气病脉症并治第九.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/162 胸痹心痛短气病脉症并治第九.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,8 +215,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "53094c81ef47fe67",
+  "active": "d9f510b42e5105fa",
   "lastOpenFiles": [
+    "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/004 金匮要略.md",
     "人纪/006 按诊.md",
     "人纪/195 子午流注.md",
@@ -238,7 +239,6 @@
     "Sources/Pasted image 20230725160132.png",
     "人纪/166 血证论.md",
     "系统解刨学.md",
-    "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/180 引经药.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/017 柴葛解肌汤.md",
