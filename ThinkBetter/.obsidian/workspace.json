@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件timing.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件timing.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件timing.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件timing.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
   },
   "active": "d9f510b42e5105fa",
   "lastOpenFiles": [
+    "事件timing.md",
     "人纪/004 金匮要略.md",
     "人纪/141 文式易经经.md",
     "人纪/017 柴葛解肌汤.md",
@@ -232,7 +233,6 @@
     "Sources/Pasted image 20230725160132.png",
     "人纪/166 血证论.md",
     "系统解刨学.md",
-    "人纪/180 引经药.md",
     "Sources/Pasted image 20230721102144.png",
     "人纪/000 @ 人纪 - Map.canvas",
     "Excalidraw",
