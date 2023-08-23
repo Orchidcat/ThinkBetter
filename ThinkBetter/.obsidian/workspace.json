@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -191,7 +192,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "aaf8003c4e131203",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/047 归经.md",
     "人纪/089 人纪 - 神农本草经.md",
