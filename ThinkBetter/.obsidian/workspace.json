@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,12 +204,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c1716aa64883f460",
+  "active": "4f1a70b2ed21c0af",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/047 归经.md",
     "人纪/006 按诊.md",
-    "人纪/004 金匮要略.md",
     "人纪/141 文式易经经.md",
     "人纪/147 五味.md",
     "人纪/193 中药学.md",
