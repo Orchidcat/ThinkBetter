@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ecd623a813cefe6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/004 金匮要略.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +196,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d9f510b42e5105fa",
+  "active": "7ecd623a813cefe6",
   "lastOpenFiles": [
-    "人纪/141 文式易经经.md",
     "人纪/004 金匮要略.md",
+    "人纪/141 文式易经经.md",
     "事件timing.md",
     "人纪/017 柴葛解肌汤.md",
     "人纪/003 伤寒论.md",
