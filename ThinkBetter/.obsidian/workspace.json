@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/022 冲服.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "僵蚕",
+                "query": "荆芥",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/022 冲服.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/022 冲服.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/022 冲服.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
   },
   "active": "d9f510b42e5105fa",
   "lastOpenFiles": [
+    "人纪/022 冲服.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
     "人纪/026 大小青龙汤.md",
@@ -231,7 +232,6 @@
     "sql server 线程.md",
     "SQL Server MOC.md",
     "解决Git 无法push 问题.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
     "人纪/000 @ 人纪 - Map.canvas",
