@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/193 中药学.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/193 中药学.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/193 中药学.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,11 +203,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2b0bb16eb2ba7275",
+  "active": "aaf8003c4e131203",
   "lastOpenFiles": [
+    "人纪/193 中药学.md",
     "人纪/004 金匮要略.md",
     "人纪/047 归经.md",
-    "人纪/193 中药学.md",
     "防己黄芪汤.md",
     "人纪/141 文式易经经.md",
     "人纪/089 人纪 - 神农本草经.md",
