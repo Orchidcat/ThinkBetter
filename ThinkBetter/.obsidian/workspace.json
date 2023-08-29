@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4413d5279e9bb1ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/004 金匮要略.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +208,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "4413d5279e9bb1ff",
   "lastOpenFiles": [
-    "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/047 归经.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/010 辨少阳病脉症并治法.md",
