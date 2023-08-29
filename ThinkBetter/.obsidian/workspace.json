@@ -47,8 +47,12 @@
             "id": "4413d5279e9bb1ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/141 文式易经经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -134,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/141 文式易经经.md"
+              }
             }
           },
           {
@@ -143,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/141 文式易经经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/141 文式易经经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
