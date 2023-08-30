@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/047 归经.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,10 +191,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e153f5b06f65bb70",
+  "active": "14d64449a5a8aa09",
   "lastOpenFiles": [
-    "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
+    "人纪/047 归经.md",
     "人纪/141 文式易经经.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/089 人纪 - 神农本草经.md",
