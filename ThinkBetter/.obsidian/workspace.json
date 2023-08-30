@@ -158,7 +158,7 @@
               "state": {
                 "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +191,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e153f5b06f65bb70",
+  "active": "74f8fa572dec7213",
   "lastOpenFiles": [
     "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
