@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +192,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "74f8fa572dec7213",
+  "active": "e153f5b06f65bb70",
   "lastOpenFiles": [
     "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
