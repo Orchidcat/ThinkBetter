@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4132e01e26c9c292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/047 归经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "防己",
+                "query": "龙胆",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/141 文式易经经.md"
+                "file": "人纪/047 归经.md"
               }
             }
           },
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/141 文式易经经.md",
+                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/141 文式易经经.md",
+                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,11 +215,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7ce6c0511f815316",
+  "active": "4132e01e26c9c292",
   "lastOpenFiles": [
+    "人纪/147 五味.md",
+    "人纪/193 中药学.md",
+    "人纪/141 文式易经经.md",
     "人纪/004 金匮要略.md",
     "人纪/047 归经.md",
-    "人纪/141 文式易经经.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/003 伤寒论.md",
@@ -216,10 +229,8 @@
     "人纪/010 辨少阳病脉症并治法.md",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/050 桂枝汤.md",
-    "人纪/193 中药学.md",
     "防己黄芪汤.md",
     "人纪/006 按诊.md",
-    "人纪/147 五味.md",
     "人纪/180 引经药.md",
     "人纪/107 升降沉浮.md",
     "人纪/077 麻黄汤.md",
