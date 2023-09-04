@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "龙胆",
+                "query": "心率",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,7 +215,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e153f5b06f65bb70",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/047 归经.md",
     "人纪/147 五味.md",
