@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "心跳",
+                "query": "泻心汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -194,8 +193,9 @@
   },
   "active": "e153f5b06f65bb70",
   "lastOpenFiles": [
-    "人纪/047 归经.md",
+    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/004 金匮要略.md",
+    "人纪/047 归经.md",
     "人纪/097 三问头身.md",
     "人纪/141 文式易经经.md",
     "人纪/147 五味.md",
@@ -203,7 +203,6 @@
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/003 伤寒论.md",
-    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/010 辨少阳病脉症并治法.md",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/050 桂枝汤.md",
