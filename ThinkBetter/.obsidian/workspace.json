@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5eeec528112913a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一句话的玩味.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,10 +203,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f690df4fe86e3693",
+  "active": "b5eeec528112913a",
   "lastOpenFiles": [
-    "清朝灭亡的原因.md",
     "人纪/004 金匮要略.md",
+    "清朝灭亡的原因.md",
     "人纪/005 八纲辨证.md",
     "人纪/002 黄帝内经.md",
     "人纪/047 归经.md",
