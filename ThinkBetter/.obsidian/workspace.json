@@ -30,9 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e43ce82eaad0b569",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c5350489d4359a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "清朝灭亡的原因.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "清朝灭亡的原因.md"
               }
             }
           },
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "清朝灭亡的原因.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "清朝灭亡的原因.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,12 +211,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f690df4fe86e3693",
+  "active": "6c5350489d4359a8",
   "lastOpenFiles": [
+    "清朝灭亡的原因.md",
+    "人纪/004 金匮要略.md",
     "人纪/005 八纲辨证.md",
     "人纪/002 黄帝内经.md",
     "人纪/047 归经.md",
-    "人纪/004 金匮要略.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/097 三问头身.md",
     "人纪/141 文式易经经.md",
@@ -219,7 +240,6 @@
     "事件timing.md",
     "人纪/017 柴葛解肌汤.md",
     "Sources/064F7C83.png",
-    "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
     "人纪/000 @ 人纪 - Map.canvas",
