@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee3fdd3750a98f27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/003 伤寒论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/003 伤寒论.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,7 +209,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/003 伤寒论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,8 +244,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "751c3b615df3580d",
+  "active": "ee3fdd3750a98f27",
   "lastOpenFiles": [
+    "人纪/003 伤寒论.md",
     "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
     "一句话的玩味.md",
@@ -258,7 +263,6 @@
     "人纪/193 中药学.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/003 伤寒论.md",
     "人纪/010 辨少阳病脉症并治法.md",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/050 桂枝汤.md",
