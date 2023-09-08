@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "518d0446ff993245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/076 六淫辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/076 六淫辩证.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/076 六淫辩证.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/076 六淫辩证.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,8 +203,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "518d0446ff993245",
+  "active": "b5eeec528112913a",
   "lastOpenFiles": [
+    "人纪/076 六淫辩证.md",
     "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "一句话的玩味.md",
@@ -242,7 +231,6 @@
     "人纪/160 香苏散.md",
     "人纪/022 冲服.md",
     "人纪/026 大小青龙汤.md",
-    "事件timing.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
