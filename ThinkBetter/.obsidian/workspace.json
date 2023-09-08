@@ -110,7 +110,7 @@
       {
         "id": "a11cc04c14a892a4",
         "type": "tabs",
-        "dimension": 25,
+        "dimension": 12.5,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -121,6 +121,24 @@
             }
           },
           {
+            "id": "11ff6432636dfbb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fccbe231132517e1",
+        "type": "tabs",
+        "dimension": 12.5,
+        "children": [
+          {
             "id": "5ec0f0c438806649",
             "type": "leaf",
             "state": {
@@ -129,17 +147,6 @@
                 "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "11ff6432636dfbb6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
