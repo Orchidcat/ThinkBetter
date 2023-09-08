@@ -67,5 +67,23 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-plugin-toc:create-toc-next-level": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ";"
+    }
   ]
 }
