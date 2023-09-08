@@ -97,12 +97,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +110,7 @@
       {
         "id": "a11cc04c14a892a4",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 25,
         "children": [
           {
             "id": "f7e7f86bca033ecb",
@@ -119,16 +118,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "ebed1a78815bdf47",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "人纪/004 金匮要略.md"
-              }
             }
           },
           {
@@ -154,8 +143,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b272512ab0ff31a4",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "ebed1a78815bdf47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人纪/004 金匮要略.md"
+              }
+            }
+          }
+        ]
       },
       {
         "id": "1ef0628f3f9ecc69",
@@ -183,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +208,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f690df4fe86e3693",
+  "active": "f7e7f86bca033ecb",
   "lastOpenFiles": [
     "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
