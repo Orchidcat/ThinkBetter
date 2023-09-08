@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +230,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ebed1a78815bdf47",
+  "active": "ee3fdd3750a98f27",
   "lastOpenFiles": [
     "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
