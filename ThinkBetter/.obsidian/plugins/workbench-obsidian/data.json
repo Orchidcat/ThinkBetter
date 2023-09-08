@@ -1,7 +1,7 @@
 {
   "workbenchNoteName": "Workbench",
   "workbenchLinePrefix": "- ",
-  "altClickType": "Embed",
+  "altClickType": "Link",
   "metaAltClickType": "Embed",
   "includeBlankLine": true
 }
