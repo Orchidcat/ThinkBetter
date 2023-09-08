@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -254,6 +254,7 @@
   },
   "active": "ee3fdd3750a98f27",
   "lastOpenFiles": [
+    "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
     "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
@@ -279,7 +280,6 @@
     "人纪/180 引经药.md",
     "人纪/107 升降沉浮.md",
     "人纪/077 麻黄汤.md",
-    "人纪/160 香苏散.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
