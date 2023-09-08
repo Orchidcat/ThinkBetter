@@ -71,8 +71,12 @@
             "id": "ee3fdd3750a98f27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/001 @MOC中医.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -176,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/001 @MOC中医.md"
+              }
             }
           }
         ]
@@ -209,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
