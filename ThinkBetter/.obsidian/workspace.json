@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ef3559e10d0a345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workbench.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/047 归经.md",
+                "file": "Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/047 归经.md"
+                "file": "Workbench.md"
               }
             }
           }
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/047 归经.md",
+                "file": "Workbench.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,11 +228,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "14d64449a5a8aa09",
+  "active": "6ef3559e10d0a345",
   "lastOpenFiles": [
     "一句话的玩味.md",
-    "人纪/004 金匮要略.md",
+    "Workbench.md",
     "人纪/047 归经.md",
+    "人纪/004 金匮要略.md",
     "人纪/105 神农本草经.md",
     "人纪/076 六淫辩证.md",
     "人纪/002 黄帝内经.md",
@@ -242,7 +256,6 @@
     "人纪/107 升降沉浮.md",
     "人纪/077 麻黄汤.md",
     "人纪/160 香苏散.md",
-    "人纪/022 冲服.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",

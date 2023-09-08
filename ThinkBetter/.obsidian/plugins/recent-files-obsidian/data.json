@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "047 归经",
-      "path": "人纪/047 归经.md"
+      "basename": "Workbench",
+      "path": "Workbench.md"
     },
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "047 归经",
+      "path": "人纪/047 归经.md"
     },
     {
       "basename": "004 金匮要略",
@@ -195,10 +199,6 @@
     {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
-    },
-    {
-      "basename": "057 黄帝外经",
-      "path": "人纪/057 黄帝外经.md"
     }
   ],
   "omittedPaths": [],
