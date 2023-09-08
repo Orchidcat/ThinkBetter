@@ -98,6 +98,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d0d722ea627f666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/004 金匮要略.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -252,12 +264,13 @@
   },
   "active": "4183f9be86a4b572",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
+    "阅读与书籍 MOC.md",
     "重来3.md",
     "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
     "人纪/047 归经.md",
-    "人纪/004 金匮要略.md",
     "一句话的玩味.md",
     "Workbench.md",
     "人纪/105 神农本草经.md",
@@ -277,7 +290,6 @@
     "防己黄芪汤.md",
     "人纪/006 按诊.md",
     "人纪/180 引经药.md",
-    "人纪/107 升降沉浮.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",

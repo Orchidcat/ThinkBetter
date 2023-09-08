@@ -5,6 +5,14 @@
       "path": "重来3.md"
     },
     {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "047 归经",
       "path": "人纪/047 归经.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "GTD",
       "path": "GTD.md"
-    },
-    {
-      "basename": "000 @ 人纪 - Map",
-      "path": "人纪/000 @ 人纪 - Map.canvas"
     }
   ],
   "omittedPaths": [],
