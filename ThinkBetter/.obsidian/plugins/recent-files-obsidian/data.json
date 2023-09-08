@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "重来3",
+      "path": "重来3.md"
+    },
+    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "000 @ 人纪 - Map",
       "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "人纪/194 中医诊断学.md"
     }
   ],
   "omittedPaths": [],

@@ -78,9 +78,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "153a55abd40674ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4183f9be86a4b572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "重来3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "重来3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "重来3.md"
               }
             }
           },
@@ -194,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "重来3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,8 +250,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ee3fdd3750a98f27",
+  "active": "4183f9be86a4b572",
   "lastOpenFiles": [
+    "重来3.md",
+    "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
     "人纪/047 归经.md",
@@ -240,7 +262,6 @@
     "Workbench.md",
     "人纪/105 神农本草经.md",
     "人纪/076 六淫辩证.md",
-    "人纪/002 黄帝内经.md",
     "清朝灭亡的原因.md",
     "人纪/005 八纲辨证.md",
     "人纪/012 辨太阳病脉症并治法.md",
@@ -257,7 +278,6 @@
     "人纪/006 按诊.md",
     "人纪/180 引经药.md",
     "人纪/107 升降沉浮.md",
-    "人纪/077 麻黄汤.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
