@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,12 +95,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/047 归经.md"
               }
             }
           }
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,11 +215,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7e7f86bca033ecb",
+  "active": "14d64449a5a8aa09",
   "lastOpenFiles": [
-    "人纪/047 归经.md",
-    "人纪/004 金匮要略.md",
     "一句话的玩味.md",
+    "人纪/004 金匮要略.md",
+    "人纪/047 归经.md",
     "人纪/105 神农本草经.md",
     "人纪/076 六淫辩证.md",
     "人纪/002 黄帝内经.md",
