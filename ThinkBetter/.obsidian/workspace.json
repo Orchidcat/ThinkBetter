@@ -80,26 +80,6 @@
             }
           },
           {
-            "id": "153a55abd40674ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4183f9be86a4b572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重来3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d0d722ea627f666",
             "type": "leaf",
             "state": {
@@ -112,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "重来3.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "重来3.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -226,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "重来3.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -262,11 +242,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4183f9be86a4b572",
+  "active": "ee3fdd3750a98f27",
   "lastOpenFiles": [
+    "重来3.md",
     "人纪/004 金匮要略.md",
     "阅读与书籍 MOC.md",
-    "重来3.md",
     "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "人纪/003 伤寒论.md",
