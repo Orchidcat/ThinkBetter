@@ -83,8 +83,12 @@
             "id": "a4bf1994c95a8dd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/195 子午流注.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -180,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/195 子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/195 子午流注.md"
+              }
             }
           },
           {
@@ -199,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/195 子午流注.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
