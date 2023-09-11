@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "b4c5daa734386f51",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "0d0d722ea627f666",
             "type": "leaf",
             "state": {
@@ -89,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -181,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/047 归经.md"
               }
             }
           },
@@ -203,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,14 +229,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b4c5daa734386f51",
+  "active": "14d64449a5a8aa09",
   "lastOpenFiles": [
-    "人纪/003 伤寒论.md",
-    "人纪/047 归经.md",
     "人纪/004 金匮要略.md",
+    "人纪/047 归经.md",
+    "人纪/003 伤寒论.md",
+    "人纪/002 黄帝内经.md",
     "一句话的玩味.md",
     "Workbench.md",
-    "人纪/002 黄帝内经.md",
     "重来3.md",
     "阅读与书籍 MOC.md",
     "人纪/001 @MOC中医.md",
