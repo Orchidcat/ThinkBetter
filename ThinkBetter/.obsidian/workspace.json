@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "b4c5daa734386f51",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "0d0d722ea627f666",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -230,7 +239,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ee3fdd3750a98f27",
+  "active": "b4c5daa734386f51",
   "lastOpenFiles": [
     "人纪/003 伤寒论.md",
     "人纪/047 归经.md",

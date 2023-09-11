@@ -4,9 +4,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "attachmentFolderPath": "Sources",
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "showInlineTitle": false,
   "pdfExportSettings": {
