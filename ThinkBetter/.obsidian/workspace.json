@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,8 +242,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "751c3b615df3580d",
+  "active": "ee3fdd3750a98f27",
   "lastOpenFiles": [
+    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/003 伤寒论.md",
     "人纪/195 子午流注.md",
     "人纪/047 归经.md",
@@ -258,7 +259,6 @@
     "人纪/076 六淫辩证.md",
     "清朝灭亡的原因.md",
     "人纪/005 八纲辨证.md",
-    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/097 三问头身.md",
     "人纪/141 文式易经经.md",
     "人纪/147 五味.md",
