@@ -78,8 +78,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4bf1994c95a8dd6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/047 归经.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,11 +234,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "14d64449a5a8aa09",
+  "active": "a4bf1994c95a8dd6",
   "lastOpenFiles": [
-    "人纪/004 金匮要略.md",
-    "人纪/047 归经.md",
     "人纪/003 伤寒论.md",
+    "人纪/047 归经.md",
+    "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
     "一句话的玩味.md",
     "Workbench.md",
