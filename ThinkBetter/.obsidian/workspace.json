@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/193 中药学.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阿胶",
+                "query": "产地",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/193 中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/193 中药学.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/193 中药学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -234,8 +233,8 @@
   },
   "active": "f690df4fe86e3693",
   "lastOpenFiles": [
-    "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/002 黄帝内经.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/166 血证论.md",
