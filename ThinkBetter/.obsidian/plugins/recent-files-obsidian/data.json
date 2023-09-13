@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "未命名 1.canvas"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
       "basename": "166 血证论",
       "path": "人纪/166 血证论.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "011 辨少阴病脉症并治法",
       "path": "人纪/011 辨少阴病脉症并治法.md"
-    },
-    {
-      "basename": "Obsidian Plugins",
-      "path": "Obsidian Plugins.md"
-    },
-    {
-      "basename": "GTD",
-      "path": "GTD.md"
     }
   ],
   "omittedPaths": [],
