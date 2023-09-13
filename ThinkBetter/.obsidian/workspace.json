@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/195 子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/195 子午流注.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/195 子午流注.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8dcaefb2d80a5c46",
+  "active": "a4bf1994c95a8dd6",
   "lastOpenFiles": [
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/166 血证论.md",
     "人纪/195 子午流注.md",
     "人体流转.canvas",
@@ -242,7 +243,6 @@
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/047 归经.md",
     "人纪/193 中药学.md",
-    "人纪/089 人纪 - 神农本草经.md",
     "一句话的玩味.md",
     "人纪/003 伤寒论.md",
     "Workbench.md",
