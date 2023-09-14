@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4879fc2caa944db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一句话的玩味.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/195 子午流注.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,11 +242,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d7197eb054d97e02",
+  "active": "4879fc2caa944db3",
   "lastOpenFiles": [
+    "人纪/195 子午流注.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/166 血证论.md",
-    "人纪/195 子午流注.md",
     "人体流转.canvas",
     "人纪/004 金匮要略.md",
     "人纪/012 辨太阳病脉症并治法.md",
