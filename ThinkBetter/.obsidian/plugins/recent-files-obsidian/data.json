@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "基本Q",
       "path": "基本Q.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "系统解刨学",
       "path": "系统解刨学.md"
-    },
-    {
-      "basename": "078 麻黄杏仁甘草石膏汤",
-      "path": "人纪/078 麻黄杏仁甘草石膏汤.md"
     }
   ],
   "omittedPaths": [],
