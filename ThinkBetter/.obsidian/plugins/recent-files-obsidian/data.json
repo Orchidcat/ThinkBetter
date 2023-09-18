@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "078 麻黄杏仁甘草石膏汤",
       "path": "人纪/078 麻黄杏仁甘草石膏汤.md"
-    },
-    {
-      "basename": "2023-W30",
-      "path": "DailyNotes/2023-W30.md"
-    },
-    {
-      "basename": "011 辨少阴病脉症并治法",
-      "path": "人纪/011 辨少阴病脉症并治法.md"
     }
   ],
   "omittedPaths": [],

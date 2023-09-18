@@ -95,9 +95,11 @@
             "id": "f7537267b16799d5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "基本Q.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -145,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "气行血",
+                "query": "第一性",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "基本Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "基本Q.md"
               }
             }
           },
@@ -215,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "基本Q.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,6 +267,7 @@
   },
   "active": "f7537267b16799d5",
   "lastOpenFiles": [
+    "第一性原理.md",
     "人纪/195 子午流注.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/166 血证论.md",
