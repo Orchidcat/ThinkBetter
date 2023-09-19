@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "105 神农本草经",
+      "path": "人纪/105 神农本草经.md"
+    },
+    {
+      "basename": "077 麻黄汤",
+      "path": "人纪/077 麻黄汤.md"
+    },
+    {
+      "basename": "068 九味羌活汤",
+      "path": "人纪/068 九味羌活汤.md"
+    },
+    {
+      "basename": "050 桂枝汤",
+      "path": "人纪/050 桂枝汤.md"
+    },
+    {
+      "basename": "012 辨太阳病脉症并治法",
+      "path": "人纪/012 辨太阳病脉症并治法.md"
+    },
+    {
+      "basename": "011 辨少阴病脉症并治法",
+      "path": "人纪/011 辨少阴病脉症并治法.md"
+    },
+    {
+      "basename": "009 辨厥阴病脉症并治法",
+      "path": "人纪/009 辨厥阴病脉症并治法.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "062 解表剂",
+      "path": "人纪/062 解表剂.md"
+    },
+    {
+      "basename": "026 大小青龙汤",
+      "path": "人纪/026 大小青龙汤.md"
+    },
+    {
       "basename": "166 血证论",
       "path": "人纪/166 血证论.md"
     },
@@ -49,14 +89,6 @@
       "path": "人体流转.canvas"
     },
     {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "012 辨太阳病脉症并治法",
-      "path": "人纪/012 辨太阳病脉症并治法.md"
-    },
-    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -87,10 +119,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "105 神农本草经",
-      "path": "人纪/105 神农本草经.md"
     },
     {
       "basename": "076 六淫辩证",
@@ -125,14 +153,6 @@
       "path": "人纪/010 辨少阳病脉症并治法.md"
     },
     {
-      "basename": "009 辨厥阴病脉症并治法",
-      "path": "人纪/009 辨厥阴病脉症并治法.md"
-    },
-    {
-      "basename": "050 桂枝汤",
-      "path": "人纪/050 桂枝汤.md"
-    },
-    {
       "basename": "防己黄芪汤",
       "path": "防己黄芪汤.md"
     },
@@ -149,20 +169,12 @@
       "path": "人纪/107 升降沉浮.md"
     },
     {
-      "basename": "077 麻黄汤",
-      "path": "人纪/077 麻黄汤.md"
-    },
-    {
       "basename": "160 香苏散",
       "path": "人纪/160 香苏散.md"
     },
     {
       "basename": "022 冲服",
       "path": "人纪/022 冲服.md"
-    },
-    {
-      "basename": "026 大小青龙汤",
-      "path": "人纪/026 大小青龙汤.md"
     },
     {
       "basename": "事件timing",
@@ -187,18 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "项目 MOC.md"
-    },
-    {
-      "basename": "087 气血辩证",
-      "path": "人纪/087 气血辩证.md"
-    },
-    {
-      "basename": "sql server 线程",
-      "path": "sql server 线程.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
     }
   ],
   "omittedPaths": [],
