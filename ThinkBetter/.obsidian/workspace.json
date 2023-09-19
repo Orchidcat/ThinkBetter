@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14d64449a5a8aa09",
+            "id": "c59075b42925b1ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/047 归经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f690df4fe86e3693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/004 金匮要略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "751c3b615df3580d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee3fdd3750a98f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4bf1994c95a8dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/195 子午流注.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dcaefb2d80a5c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4879fc2caa944db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7537267b16799d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -218,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -265,8 +180,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7537267b16799d5",
+  "active": "c59075b42925b1ba",
   "lastOpenFiles": [
+    "人纪/047 归经.md",
+    "+Home.md",
     "超速学习.md",
     "基本Q.md",
     "mindmap.md",
@@ -280,7 +197,6 @@
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/002 黄帝内经.md",
     "人纪/000 @ 人纪 - Map.canvas",
-    "人纪/047 归经.md",
     "人纪/193 中药学.md",
     "一句话的玩味.md",
     "人纪/003 伤寒论.md",
@@ -294,7 +210,6 @@
     "人纪/005 八纲辨证.md",
     "人纪/097 三问头身.md",
     "人纪/141 文式易经经.md",
-    "人纪/147 五味.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
