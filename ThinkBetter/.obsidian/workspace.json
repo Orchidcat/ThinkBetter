@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/105 神农本草经.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "甘草",
+                "query": "解毒",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/105 神农本草经.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/105 神农本草经.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/105 神农本草经.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,6 +182,12 @@
   },
   "active": "c59075b42925b1ba",
   "lastOpenFiles": [
+    "人纪/179 银翘散.md",
+    "人纪/188 止嗽散.md",
+    "人纪/192 中药十八反十九畏.md",
+    "防己黄芪汤.md",
+    "杂记.md",
+    "人纪/105 神农本草经.md",
     "人纪/077 麻黄汤.md",
     "人纪/068 九味羌活汤.md",
     "人纪/050 桂枝汤.md",
@@ -204,12 +210,6 @@
     "人体流转.canvas",
     "人纪/002 黄帝内经.md",
     "人纪/000 @ 人纪 - Map.canvas",
-    "人纪/193 中药学.md",
-    "一句话的玩味.md",
-    "人纪/003 伤寒论.md",
-    "Workbench.md",
-    "重来3.md",
-    "阅读与书籍 MOC.md",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",

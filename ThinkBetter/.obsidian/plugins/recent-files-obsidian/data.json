@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "179 银翘散",
+      "path": "人纪/179 银翘散.md"
+    },
+    {
+      "basename": "188 止嗽散",
+      "path": "人纪/188 止嗽散.md"
+    },
+    {
+      "basename": "192 中药十八反十九畏",
+      "path": "人纪/192 中药十八反十九畏.md"
+    },
+    {
+      "basename": "防己黄芪汤",
+      "path": "防己黄芪汤.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "杂记.md"
+    },
+    {
       "basename": "105 神农本草经",
       "path": "人纪/105 神农本草经.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "009 辨厥阴病脉症并治法",
       "path": "人纪/009 辨厥阴病脉症并治法.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "062 解表剂",
@@ -153,10 +173,6 @@
       "path": "人纪/010 辨少阳病脉症并治法.md"
     },
     {
-      "basename": "防己黄芪汤",
-      "path": "防己黄芪汤.md"
-    },
-    {
       "basename": "006 按诊",
       "path": "人纪/006 按诊.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "017 柴葛解肌汤",
       "path": "人纪/017 柴葛解肌汤.md"
-    },
-    {
-      "basename": "162 胸痹心痛短气病脉症并治第九",
-      "path": "人纪/162 胸痹心痛短气病脉症并治第九.md"
-    },
-    {
-      "basename": "007 半固体型",
-      "path": "人纪/007 半固体型.md"
-    },
-    {
-      "basename": "sql server 缓存计划",
-      "path": "sql server 缓存计划.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "项目 MOC.md"
     }
   ],
   "omittedPaths": [],
