@@ -15,5 +15,5 @@
     "downscalePercent": 96
   },
   "strictLineBreaks": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "hidden"
 }

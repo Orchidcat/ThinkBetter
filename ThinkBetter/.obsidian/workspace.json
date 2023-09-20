@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/057 黄帝外经.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1bd38416a59ee083",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "解毒",
+                "query": "手三阴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/057 黄帝外经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           },
@@ -155,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/057 黄帝外经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           }
@@ -191,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +202,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "36633fabe8d8fa3b",
+  "active": "c59075b42925b1ba",
   "lastOpenFiles": [
-    "中医执业.md",
     "人纪/004 金匮要略.md",
+    "中医执业.md",
     "人纪/179 银翘散.md",
     "人纪/188 止嗽散.md",
     "人纪/192 中药十八反十九畏.md",
