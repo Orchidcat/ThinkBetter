@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -202,10 +203,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c59075b42925b1ba",
+  "active": "5f25dd5c08b3450f",
   "lastOpenFiles": [
-    "中医执业.md",
     "人纪/002 黄帝内经.md",
+    "中医执业.md",
     "人纪/183 脏腑辩证.md",
     "人纪/005 八纲辨证.md",
     "人纪/057 黄帝外经.md",
