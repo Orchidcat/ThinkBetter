@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天干",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,7 +239,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bb7fde1873c0df86",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "天干地支.md",
     "人纪/195 子午流注.md",
