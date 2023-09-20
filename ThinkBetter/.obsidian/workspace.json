@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -174,14 +175,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "36633fabe8d8fa3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "中医执业.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +211,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5f25dd5c08b3450f",
+  "active": "36633fabe8d8fa3b",
   "lastOpenFiles": [
     "中医执业.md",
     "人纪/004 金匮要略.md",
