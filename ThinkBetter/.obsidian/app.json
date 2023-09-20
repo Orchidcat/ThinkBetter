@@ -14,5 +14,6 @@
     "margin": "2",
     "downscalePercent": 96
   },
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "propertiesInDocument": "source"
 }
