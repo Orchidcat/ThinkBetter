@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "天干地支",
+      "path": "天干地支.md"
+    },
+    {
       "basename": "中医执业",
       "path": "中医执业.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "107 升降沉浮",
       "path": "人纪/107 升降沉浮.md"
-    },
-    {
-      "basename": "160 香苏散",
-      "path": "人纪/160 香苏散.md"
     }
   ],
   "omittedPaths": [],
