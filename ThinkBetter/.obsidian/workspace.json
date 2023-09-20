@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -240,8 +240,8 @@
   },
   "active": "5f25dd5c08b3450f",
   "lastOpenFiles": [
-    "人纪/176 易经真的很容易.md",
     "中医执业.md",
+    "人纪/176 易经真的很容易.md",
     "人纪/195 子午流注.md",
     "天干地支.md",
     "人纪/003 伤寒论.md",
