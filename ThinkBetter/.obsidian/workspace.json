@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/057 黄帝外经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/057 黄帝外经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           }
@@ -203,11 +202,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5f25dd5c08b3450f",
+  "active": "c59075b42925b1ba",
   "lastOpenFiles": [
+    "中医执业.md",
     "人纪/057 黄帝外经.md",
     "人纪/004 金匮要略.md",
-    "中医执业.md",
     "人纪/179 银翘散.md",
     "人纪/188 止嗽散.md",
     "人纪/192 中药十八反十九畏.md",
