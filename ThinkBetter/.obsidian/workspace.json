@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天干地支.md",
+                "file": "人纪/176 易经真的很容易.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五运六气",
+                "query": "卦",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "天干地支.md",
+                "file": "人纪/176 易经真的很容易.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "天干地支.md"
+                "file": "人纪/176 易经真的很容易.md"
               }
             }
           },
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "天干地支.md",
+                "file": "人纪/176 易经真的很容易.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "天干地支.md"
+                "file": "人纪/176 易经真的很容易.md"
               }
             }
           }
@@ -230,10 +229,10 @@
   },
   "active": "d13283f1933109aa",
   "lastOpenFiles": [
+    "天干地支.md",
     "人纪/003 伤寒论.md",
     "人纪/002 黄帝内经.md",
     "中医执业.md",
-    "天干地支.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
