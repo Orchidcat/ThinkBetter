@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "中医执业.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -253,6 +253,7 @@
   },
   "active": "221985fe5c660ee9",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
     "中医执业.md",
     "人纪/195 子午流注.md",
     "天干地支.md",
@@ -265,7 +266,6 @@
     "人纪/183 脏腑辩证.md",
     "人纪/005 八纲辨证.md",
     "人纪/057 黄帝外经.md",
-    "人纪/004 金匮要略.md",
     "人纪/179 银翘散.md",
     "人纪/188 止嗽散.md",
     "人纪/192 中药十八反十九畏.md",
