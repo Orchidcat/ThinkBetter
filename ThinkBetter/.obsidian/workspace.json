@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/195 子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/195 子午流注.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/195 子午流注.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/195 子午流注.md"
               }
             }
           }
@@ -238,14 +239,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5f25dd5c08b3450f",
+  "active": "bb7fde1873c0df86",
   "lastOpenFiles": [
+    "天干地支.md",
+    "人纪/195 子午流注.md",
+    "人纪/002 黄帝内经.md",
     "中医执业.md",
     "人纪/176 易经真的很容易.md",
-    "人纪/195 子午流注.md",
-    "天干地支.md",
     "人纪/003 伤寒论.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
