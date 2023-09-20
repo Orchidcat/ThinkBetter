@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/005 八纲辨证.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/005 八纲辨证.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/005 八纲辨证.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/005 八纲辨证.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/005 八纲辨证.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -204,6 +204,8 @@
   },
   "active": "c59075b42925b1ba",
   "lastOpenFiles": [
+    "人纪/183 脏腑辩证.md",
+    "人纪/005 八纲辨证.md",
     "人纪/057 黄帝外经.md",
     "中医执业.md",
     "人纪/004 金匮要略.md",
@@ -228,8 +230,6 @@
     "基本Q.md",
     "mindmap.md",
     "test.md",
-    "第一性原理.md",
-    "人纪/195 子午流注.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
