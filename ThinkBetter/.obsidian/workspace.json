@@ -83,8 +83,12 @@
             "id": "c2cf199cb5cc8959",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "中医执业.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -180,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "中医执业.md"
+              }
             }
           },
           {
@@ -199,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "中医执业.md"
+              }
             }
           }
         ],
