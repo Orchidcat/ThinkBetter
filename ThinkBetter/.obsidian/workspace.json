@@ -86,9 +86,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3c77b5ecfca52fbe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -140,8 +150,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/002 黄帝内经.md"
+              }
             }
           },
           {
@@ -199,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/002 黄帝内经.md"
+              }
             }
           }
         ],
@@ -237,6 +252,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "workbench-obsidian:Workbench": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -253,7 +269,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b8f8dc40ccfc97b1",
+  "active": "3c77b5ecfca52fbe",
   "lastOpenFiles": [
     "人纪/203 zy-诊断学.md",
     "人纪/195 子午流注.md",
