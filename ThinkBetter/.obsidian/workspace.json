@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -275,12 +275,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "36633fabe8d8fa3b",
+  "active": "c3905071a857a7e4",
   "lastOpenFiles": [
+    "中医执业.md",
     "十二经络歌诀.md",
     "人纪/195 子午流注.md",
     "人纪/005 八纲辨证.md",
-    "中医执业.md",
     "人纪/194 中医诊断学.md",
     "人纪/004 金匮要略.md",
     "人纪/003 伤寒论.md",
