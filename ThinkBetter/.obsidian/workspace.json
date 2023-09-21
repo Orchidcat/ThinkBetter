@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -256,7 +257,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -287,8 +288,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5f25dd5c08b3450f",
+  "active": "807ba6c727fa2dda",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "人纪/195 子午流注.md",
     "十二经络歌诀.md",
     "人纪/090 人纪 - 针灸.md",
@@ -305,7 +307,6 @@
     "人纪/176 易经真的很容易.md",
     "FC_基础理论.md",
     "天干地支.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
