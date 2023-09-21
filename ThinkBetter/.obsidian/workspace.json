@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "人纪/057 黄帝外经.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "寒热",
+                "query": "募穴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "人纪/057 黄帝外经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           },
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "人纪/057 黄帝外经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -246,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "人纪/057 黄帝外经.md"
               }
             }
           }
@@ -279,8 +278,9 @@
   },
   "active": "c3905071a857a7e4",
   "lastOpenFiles": [
-    "中医执业.md",
+    "人纪/090 人纪 - 针灸.md",
     "十二经络歌诀.md",
+    "中医执业.md",
     "人纪/195 子午流注.md",
     "人纪/005 八纲辨证.md",
     "人纪/194 中医诊断学.md",
@@ -307,7 +307,6 @@
     "人纪/050 桂枝汤.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/011 辨少阴病脉症并治法.md",
-    "人纪/009 辨厥阴病脉症并治法.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
