@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "005 八纲辨证",
-      "path": "人纪/005 八纲辨证.md"
-    },
-    {
       "basename": "中医执业",
       "path": "中医执业.md"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
+    },
+    {
+      "basename": "005 八纲辨证",
+      "path": "人纪/005 八纲辨证.md"
     },
     {
       "basename": "195 子午流注",
@@ -195,10 +199,6 @@
     {
       "basename": "147 五味",
       "path": "人纪/147 五味.md"
-    },
-    {
-      "basename": "014 辨阳明病脉症并治法",
-      "path": "人纪/014 辨阳明病脉症并治法.md"
     }
   ],
   "omittedPaths": [],
