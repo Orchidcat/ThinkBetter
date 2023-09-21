@@ -86,19 +86,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3c77b5ecfca52fbe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -189,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -211,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -238,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -269,7 +260,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3c77b5ecfca52fbe",
+  "active": "221985fe5c660ee9",
   "lastOpenFiles": [
     "人纪/203 zy-诊断学.md",
     "人纪/195 子午流注.md",
