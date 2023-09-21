@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -264,10 +264,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b19844630b3eda9e",
+  "active": "221985fe5c660ee9",
   "lastOpenFiles": [
-    "中医执业.md",
     "十二经络歌诀.md",
+    "中医执业.md",
     "人纪/203 zy-诊断学.md",
     "人纪/195 子午流注.md",
     "人纪/176 易经真的很容易.md",
