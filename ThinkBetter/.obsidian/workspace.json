@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b19844630b3eda9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "十二经络歌诀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -252,11 +264,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "221985fe5c660ee9",
+  "active": "b19844630b3eda9e",
   "lastOpenFiles": [
+    "中医执业.md",
+    "十二经络歌诀.md",
     "人纪/203 zy-诊断学.md",
     "人纪/195 子午流注.md",
-    "中医执业.md",
     "人纪/176 易经真的很容易.md",
     "FC_基础理论.md",
     "天干地支.md",
@@ -282,7 +295,6 @@
     "人纪/011 辨少阴病脉症并治法.md",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/062 解表剂.md",
-    "人纪/026 大小青龙汤.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
