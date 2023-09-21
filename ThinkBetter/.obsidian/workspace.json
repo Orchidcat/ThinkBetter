@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/005 八纲辨证.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "人纪/090 人纪 - 针灸.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "人纪/090 人纪 - 针灸.md"
               }
             }
           }
@@ -276,13 +276,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "807ba6c727fa2dda",
+  "active": "221985fe5c660ee9",
   "lastOpenFiles": [
     "人纪/005 八纲辨证.md",
     "人纪/057 黄帝外经.md",
-    "人纪/090 人纪 - 针灸.md",
-    "十二经络歌诀.md",
     "中医执业.md",
+    "十二经络歌诀.md",
+    "人纪/090 人纪 - 针灸.md",
     "人纪/195 子午流注.md",
     "人纪/194 中医诊断学.md",
     "人纪/004 金匮要略.md",
