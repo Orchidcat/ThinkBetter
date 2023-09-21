@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/005 八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "寒热",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -144,12 +144,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/005 八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/005 八纲辨证.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/005 八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/005 八纲辨证.md"
               }
             }
           }
@@ -266,9 +266,9 @@
   },
   "active": "221985fe5c660ee9",
   "lastOpenFiles": [
+    "中医执业.md",
     "人纪/194 中医诊断学.md",
     "人纪/005 八纲辨证.md",
-    "中医执业.md",
     "人纪/195 子午流注.md",
     "人纪/203 zy-诊断学.md",
     "十二经络歌诀.md",
