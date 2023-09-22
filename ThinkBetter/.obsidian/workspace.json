@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f25dd5c08b3450f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807ba6c727fa2dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "88c23fea0a9592e4",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "天干地支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "天干地支.md"
               }
             }
           },
@@ -170,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "天干地支.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "天干地支.md"
               }
             }
           }
@@ -228,14 +203,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "03dd0ce9132ee7cc",
+  "active": "88c23fea0a9592e4",
   "lastOpenFiles": [
     "人纪/002 黄帝内经.md",
-    "人纪/090 人纪 - 针灸.md",
+    "天干地支.md",
     "十二经络歌诀.md",
+    "人纪/090 人纪 - 针灸.md",
     "人纪/176 易经真的很容易.md",
     "人纪/057 黄帝外经.md",
-    "天干地支.md",
     "人纪/195 子午流注.md",
     "中医执业.md",
     "人纪/202 足阳明胃经.md",
