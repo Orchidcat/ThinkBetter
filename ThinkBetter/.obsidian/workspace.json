@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -228,11 +227,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "807ba6c727fa2dda",
+  "active": "03dd0ce9132ee7cc",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "人纪/090 人纪 - 针灸.md",
     "十二经络歌诀.md",
-    "人纪/002 黄帝内经.md",
     "人纪/176 易经真的很容易.md",
     "人纪/057 黄帝外经.md",
     "天干地支.md",
