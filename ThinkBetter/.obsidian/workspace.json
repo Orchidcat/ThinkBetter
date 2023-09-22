@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a0239f393f87110",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "十二经络歌诀.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "十二经络歌诀.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -204,14 +206,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "03dd0ce9132ee7cc",
+  "active": "1a0239f393f87110",
   "lastOpenFiles": [
-    "第一性原理.md",
+    "天干地支.md",
     "十二经络歌诀.md",
+    "第一性原理.md",
     "人纪/090 人纪 - 针灸.md",
     "+Home.md",
     "+HomeMOC.md",
-    "天干地支.md",
     "人纪/002 黄帝内经.md",
     "人纪/176 易经真的很容易.md",
     "人纪/057 黄帝外经.md",
