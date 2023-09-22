@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30d3ac21cc065143",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/090 人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/090 人纪 - 针灸.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/090 人纪 - 针灸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/090 人纪 - 针灸.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -216,12 +218,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "30d3ac21cc065143",
   "lastOpenFiles": [
+    "人纪/090 人纪 - 针灸.md",
     "十二经络歌诀.md",
     "天干地支.md",
     "人纪/002 黄帝内经.md",
-    "人纪/090 人纪 - 针灸.md",
     "人纪/176 易经真的很容易.md",
     "人纪/057 黄帝外经.md",
     "人纪/195 子午流注.md",

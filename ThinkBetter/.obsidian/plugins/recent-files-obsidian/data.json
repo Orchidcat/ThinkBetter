@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
+    },
+    {
       "basename": "090 人纪 - 针灸",
       "path": "人纪/090 人纪 - 针灸.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "076 六淫辩证",
-      "path": "人纪/076 六淫辩证.md"
     }
   ],
   "omittedPaths": [],
