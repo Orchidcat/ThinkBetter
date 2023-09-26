@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "workbench-obsidian:Workbench": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
