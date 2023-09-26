@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a0239f393f87110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医执业.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -216,9 +204,9 @@
   },
   "active": "03dd0ce9132ee7cc",
   "lastOpenFiles": [
-    "中医执业.md",
     "天干地支.md",
     "十二经络歌诀.md",
+    "中医执业.md",
     "第一性原理.md",
     "人纪/090 人纪 - 针灸.md",
     "+Home.md",
