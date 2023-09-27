@@ -96,12 +96,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -215,7 +215,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e399031071ae6721",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "十二经络歌诀.md",
     "天干地支.md",
