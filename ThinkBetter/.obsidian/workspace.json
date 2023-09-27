@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e399031071ae6721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医执业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -202,10 +214,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "03dd0ce9132ee7cc",
+  "active": "e399031071ae6721",
   "lastOpenFiles": [
-    "天干地支.md",
     "十二经络歌诀.md",
+    "天干地支.md",
     "中医执业.md",
     "第一性原理.md",
     "人纪/090 人纪 - 针灸.md",
