@@ -8,85 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88c23fea0a9592e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天干地支.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6861e558a46ca17e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "03dd0ce9132ee7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "十二经络歌诀.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e399031071ae6721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医执业.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00303ed431951fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44e52d5c39f14043",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9226a9eb4b12e3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "埃隆马斯克转.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,11 +71,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -177,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "埃隆马斯克转.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "埃隆马斯克转.md"
               }
             }
           },
@@ -199,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "埃隆马斯克转.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名 1.md"
+                "file": "埃隆马斯克转.md"
               }
             }
           }
@@ -258,7 +193,7 @@
   },
   "active": "9226a9eb4b12e3d0",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "埃隆马斯克转.md",
     "天干地支.md",
     "十二经络歌诀.md",
     "中医执业.md",
