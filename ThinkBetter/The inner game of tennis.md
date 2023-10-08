@@ -10,9 +10,9 @@ rating:
 
 
 
-内在的技能习得规律，被称为Inner game;
+内在的技能习得规律，被称为Inner game;Just let it happen 是其终极目标
 擅长inner game 的选手将“放松的关注”；**刻意的专注往往不能达到最高的专注层次且难以持续**
-Just let it happen 
+
 
 
 
