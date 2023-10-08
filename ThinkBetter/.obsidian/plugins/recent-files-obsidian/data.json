@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "The inner game of tennis",
       "path": "The inner game of tennis.md"
     },
     {
-      "basename": "埃隆马斯克转",
-      "path": "埃隆马斯克转.md"
-    },
-    {
       "basename": "090 人纪 - 针灸",
       "path": "人纪/090 人纪 - 针灸.md"
+    },
+    {
+      "basename": "埃隆马斯克转",
+      "path": "埃隆马斯克转.md"
     },
     {
       "basename": "天干地支",
@@ -31,10 +39,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "+HomeMOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "重来3",
-      "path": "重来3.md"
     }
   ],
   "omittedPaths": [],
