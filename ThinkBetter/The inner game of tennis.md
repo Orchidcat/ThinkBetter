@@ -10,7 +10,7 @@ rating:
 
 
 
-
+内在的技能习得规律，被称为Inner game
 
 
 
