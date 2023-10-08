@@ -1,10 +1,11 @@
 ---
 author: W.Timothy Gallwey
-tags: ['Book']
+tags:
+  - Book
 type: 
 startDate: 2023-10-08
-endDate:
-rating: 
+endDate: 
+rating:
 ---
 
 - 如何才能自信或拥有良好的态度（某种程度上是一种角色扮演）

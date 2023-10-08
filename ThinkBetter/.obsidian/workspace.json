@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "The inner game of tennis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "重来3.md",
+                "file": "The inner game of tennis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "重来3.md"
+                "file": "The inner game of tennis.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "重来3.md",
+                "file": "The inner game of tennis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "重来3.md"
+                "file": "The inner game of tennis.md"
               }
             }
           }
@@ -194,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +213,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c9aae4eeffde892b",
+  "active": "36633fabe8d8fa3b",
   "lastOpenFiles": [
+    "重来3.md",
     "阅读与书籍 MOC.md",
     "埃隆马斯克传.md",
     "人纪/090 人纪 - 针灸.md",
@@ -245,7 +244,6 @@
     "Sources/Pasted image 20230920091036.png",
     "人纪/183 脏腑辩证.md",
     "人纪/179 银翘散.md",
-    "人纪/188 止嗽散.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
