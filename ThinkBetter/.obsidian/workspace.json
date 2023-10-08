@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
-                "mode": "preview",
+                "file": "重来3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "重来3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "重来3.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "重来3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "重来3.md"
               }
             }
           }
@@ -217,10 +217,11 @@
   },
   "active": "c9aae4eeffde892b",
   "lastOpenFiles": [
+    "阅读与书籍 MOC.md",
+    "埃隆马斯克传.md",
+    "人纪/090 人纪 - 针灸.md",
     "+Home.md",
     "The inner game of tennis.md",
-    "人纪/090 人纪 - 针灸.md",
-    "埃隆马斯克转.md",
     "天干地支.md",
     "十二经络歌诀.md",
     "中医执业.md",
@@ -245,7 +246,6 @@
     "人纪/183 脏腑辩证.md",
     "人纪/179 银翘散.md",
     "人纪/188 止嗽散.md",
-    "人纪/192 中药十八反十九畏.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",

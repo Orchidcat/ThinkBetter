@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "重来3",
+      "path": "重来3.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
+    },
+    {
+      "basename": "埃隆马斯克传",
+      "path": "埃隆马斯克传.md"
+    },
+    {
+      "basename": "090 人纪 - 针灸",
+      "path": "人纪/090 人纪 - 针灸.md"
     },
     {
       "basename": "+Home",
@@ -11,14 +23,6 @@
     {
       "basename": "The inner game of tennis",
       "path": "The inner game of tennis.md"
-    },
-    {
-      "basename": "090 人纪 - 针灸",
-      "path": "人纪/090 人纪 - 针灸.md"
-    },
-    {
-      "basename": "埃隆马斯克转",
-      "path": "埃隆马斯克转.md"
     },
     {
       "basename": "天干地支",
@@ -195,10 +199,6 @@
     {
       "basename": "193 中药学",
       "path": "人纪/193 中药学.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     }
   ],
   "omittedPaths": [],
