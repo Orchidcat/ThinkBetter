@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "身心合一的奇迹力量.md",
+                "file": "The inner game of tennis.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "身心合一的奇迹力量.md",
+                "file": "埃隆马斯克转.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "身心合一的奇迹力量.md"
+                "file": "埃隆马斯克转.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "身心合一的奇迹力量.md",
+                "file": "埃隆马斯克转.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "身心合一的奇迹力量.md"
+                "file": "埃隆马斯克转.md"
               }
             }
           }
@@ -215,10 +214,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "25288481ef15897c",
+  "active": "9226a9eb4b12e3d0",
   "lastOpenFiles": [
+    "The inner game of tennis.md",
     "埃隆马斯克转.md",
-    "身心合一的奇迹力量.md",
     "人纪/090 人纪 - 针灸.md",
     "天干地支.md",
     "十二经络歌诀.md",
