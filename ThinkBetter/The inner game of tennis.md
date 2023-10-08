@@ -21,6 +21,7 @@ rating:
 
 
 内心中的两个“我”；一个发出指令（teller)，一个执行指令(doer)。改善teller和doer的关系将知行合一。
+经常犯错误，或者说产生问题的是teller，但doer却受到了
 
 
 
