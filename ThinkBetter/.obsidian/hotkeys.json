@@ -86,7 +86,15 @@
       "key": ";"
     }
   ],
-  "note-composer:extract-heading": [
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
     {
       "modifiers": [
         "Alt"
