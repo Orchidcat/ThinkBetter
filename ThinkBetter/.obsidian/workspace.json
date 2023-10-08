@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +214,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "25288481ef15897c",
+  "active": "36633fabe8d8fa3b",
   "lastOpenFiles": [
     "人纪/090 人纪 - 针灸.md",
     "The inner game of tennis.md",
