@@ -10,7 +10,9 @@ rating:
 
 
 
-内在的技能习得规律，被称为Inner game
+内在的技能习得规律，被称为Inner game;
+擅长inner game 的选手将“放松的关注”；**刻意的专注
+
 
 
 
