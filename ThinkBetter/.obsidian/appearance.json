@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "translucency": false,
   "accentColor": "",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "textFontFamily": "Input Sans"
 }
