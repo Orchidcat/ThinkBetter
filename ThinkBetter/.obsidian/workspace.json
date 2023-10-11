@@ -54,8 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17e8739406dbdc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12951a11f8d3a912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读与书籍 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -147,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The inner game of tennis.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The inner game of tennis.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -169,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The inner game of tennis.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The inner game of tennis.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           }
@@ -226,15 +252,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "25288481ef15897c",
+  "active": "12951a11f8d3a912",
   "lastOpenFiles": [
+    "+Home.md",
+    "The inner game of tennis.md",
     "人纪/090 人纪 - 针灸.md",
     "重来3.md",
     "基本Q.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/001 @MOC中医.md",
-    "+Home.md",
-    "The inner game of tennis.md",
     "阅读与书籍 MOC.md",
     "埃隆马斯克传.md",
     "天干地支.md",
