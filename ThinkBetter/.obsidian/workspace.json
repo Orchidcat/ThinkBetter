@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "红枣",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -240,6 +241,7 @@
   },
   "active": "2733480b282abdab",
   "lastOpenFiles": [
+    "人纪/001 @MOC中医.md",
     "+Home.md",
     "基本Q.md",
     "The inner game of tennis.md",
@@ -268,7 +270,6 @@
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
-    "人纪/183 脏腑辩证.md",
     "人体流转.canvas",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
