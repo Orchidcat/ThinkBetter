@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "基本Q",
-      "path": "基本Q.md"
+      "basename": "001 @MOC中医",
+      "path": "人纪/001 @MOC中医.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "基本Q",
+      "path": "基本Q.md"
     },
     {
       "basename": "The inner game of tennis",
@@ -195,10 +199,6 @@
     {
       "basename": "000 @ 人纪 - Map",
       "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
-      "basename": "193 中药学",
-      "path": "人纪/193 中药学.md"
     }
   ],
   "omittedPaths": [],
