@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "埃隆马斯克传.md",
+                "file": "基本Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "埃隆马斯克传.md"
+                "file": "基本Q.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "埃隆马斯克传.md",
+                "file": "基本Q.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "埃隆马斯克传.md"
+                "file": "基本Q.md"
               }
             }
           }
@@ -252,18 +252,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "12951a11f8d3a912",
+  "active": "6561f18f55c505df",
   "lastOpenFiles": [
-    "阅读与书籍 MOC.md",
-    "超速学习.md",
-    "+Home.md",
-    "The inner game of tennis.md",
     "人纪/090 人纪 - 针灸.md",
-    "重来3.md",
     "基本Q.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/001 @MOC中医.md",
+    "+Home.md",
     "埃隆马斯克传.md",
+    "阅读与书籍 MOC.md",
+    "超速学习.md",
+    "The inner game of tennis.md",
+    "重来3.md",
+    "人纪/001 @MOC中医.md",
     "天干地支.md",
     "十二经络歌诀.md",
     "中医执业.md",
