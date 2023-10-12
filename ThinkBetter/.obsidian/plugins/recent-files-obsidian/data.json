@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "秦皮",
+      "path": "秦皮.md"
+    },
+    {
+      "basename": "龙胆",
+      "path": "龙胆.md"
+    },
+    {
       "basename": "黄柏",
       "path": "黄柏.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "090 人纪 - 针灸",
       "path": "人纪/090 人纪 - 针灸.md"
-    },
-    {
-      "basename": "埃隆马斯克传",
-      "path": "埃隆马斯克传.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     }
   ],
   "omittedPaths": [],
