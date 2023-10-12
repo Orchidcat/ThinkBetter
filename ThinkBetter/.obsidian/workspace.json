@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6193c09062c1f2db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "红枣",
+                "query": "合穴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "十二经络歌诀.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "十二经络歌诀.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,8 +193,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "84b2a5b275562bf4",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "十二经络歌诀.md",
     "中医执业.md",
     "人纪/001 @MOC中医.md",
     "人纪/000 @ 人纪 - Map.canvas",
@@ -204,7 +209,6 @@
     "超速学习.md",
     "重来3.md",
     "天干地支.md",
-    "十二经络歌诀.md",
     "人纪/002 黄帝内经.md",
     "第一性原理.md",
     "+HomeMOC.md",
