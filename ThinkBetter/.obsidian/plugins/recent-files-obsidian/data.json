@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "防风",
+      "path": "防风.md"
+    },
+    {
       "basename": "香薷",
       "path": "人纪/香薷.md"
+    },
+    {
+      "basename": "荆芥",
+      "path": "人纪/荆芥.md"
     },
     {
       "basename": "生姜",
@@ -191,14 +199,6 @@
     {
       "basename": "011 辨少阴病脉症并治法",
       "path": "人纪/011 辨少阴病脉症并治法.md"
-    },
-    {
-      "basename": "009 辨厥阴病脉症并治法",
-      "path": "人纪/009 辨厥阴病脉症并治法.md"
-    },
-    {
-      "basename": "062 解表剂",
-      "path": "人纪/062 解表剂.md"
     }
   ],
   "omittedPaths": [],
