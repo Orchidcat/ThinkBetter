@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "黄芩",
+      "path": "黄芩.md"
+    },
+    {
+      "basename": "决明子",
+      "path": "决明子.md"
+    },
+    {
       "basename": "夏枯草",
       "path": "夏枯草.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "重来3",
       "path": "重来3.md"
-    },
-    {
-      "basename": "天干地支",
-      "path": "天干地支.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
     }
   ],
   "omittedPaths": [],
