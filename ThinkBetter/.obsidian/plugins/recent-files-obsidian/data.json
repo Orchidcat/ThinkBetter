@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "藁本",
-      "path": "藁本.md"
-    },
-    {
-      "basename": "荆芥",
-      "path": "人纪/荆芥.md"
+      "basename": "辛夷",
+      "path": "辛夷.md"
     },
     {
       "basename": "苍耳子",
       "path": "苍耳子.md"
     },
     {
-      "basename": "白芷",
-      "path": "白芷.md"
-    },
-    {
       "basename": "桂枝",
       "path": "人纪/桂枝.md"
+    },
+    {
+      "basename": "羌活",
+      "path": "人纪/羌活.md"
     },
     {
       "basename": "香薷",
@@ -29,8 +25,16 @@
       "path": "人纪/防风.md"
     },
     {
-      "basename": "羌活",
-      "path": "人纪/羌活.md"
+      "basename": "白芷",
+      "path": "白芷.md"
+    },
+    {
+      "basename": "藁本",
+      "path": "藁本.md"
+    },
+    {
+      "basename": "荆芥",
+      "path": "人纪/荆芥.md"
     },
     {
       "basename": "细辛",
@@ -195,10 +199,6 @@
     {
       "basename": "杂记",
       "path": "杂记.md"
-    },
-    {
-      "basename": "105 神农本草经",
-      "path": "人纪/105 神农本草经.md"
     }
   ],
   "omittedPaths": [],
