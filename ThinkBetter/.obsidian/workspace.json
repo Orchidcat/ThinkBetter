@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "847e7c6030b1617f",
+        "id": "52bd26c8c061e2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8887211c781337",
+            "id": "38cf58f26b0246f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "薄荷.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffa31f741bcc135f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "牛蒡子.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "薄荷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "薄荷.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "薄荷.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "薄荷.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -201,7 +179,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "dd8887211c781337",
+  "active": "38cf58f26b0246f7",
   "lastOpenFiles": [
     "牛蒡子.md",
     "薄荷.md",
