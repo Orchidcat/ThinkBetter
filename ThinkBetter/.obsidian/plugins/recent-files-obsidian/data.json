@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "十二经络歌诀",
+      "path": "十二经络歌诀.md"
+    },
+    {
+      "basename": "中医执业",
+      "path": "中医执业.md"
+    },
+    {
+      "basename": "001 @MOC中医",
+      "path": "人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "The inner game of tennis",
+      "path": "The inner game of tennis.md"
+    },
+    {
       "basename": "基本Q",
       "path": "基本Q.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "埃隆马斯克传",
@@ -29,28 +49,12 @@
       "path": "超速学习.md"
     },
     {
-      "basename": "The inner game of tennis",
-      "path": "The inner game of tennis.md"
-    },
-    {
       "basename": "重来3",
       "path": "重来3.md"
     },
     {
-      "basename": "001 @MOC中医",
-      "path": "人纪/001 @MOC中医.md"
-    },
-    {
       "basename": "天干地支",
       "path": "天干地支.md"
-    },
-    {
-      "basename": "十二经络歌诀",
-      "path": "十二经络歌诀.md"
-    },
-    {
-      "basename": "中医执业",
-      "path": "中医执业.md"
     },
     {
       "basename": "002 黄帝内经",
@@ -195,10 +199,6 @@
     {
       "basename": "人体流转",
       "path": "人体流转.canvas"
-    },
-    {
-      "basename": "000 @ 人纪 - Map",
-      "path": "人纪/000 @ 人纪 - Map.canvas"
     }
   ],
   "omittedPaths": [],

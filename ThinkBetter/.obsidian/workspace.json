@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25288481ef15897c",
+            "id": "84b2a5b275562bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The inner game of tennis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a424a57886c1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/090 人纪 - 针灸.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6561f18f55c505df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基本Q.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2733480b282abdab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17e8739406dbdc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12951a11f8d3a912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "埃隆马斯克传.md",
+                "file": "十二经络歌诀.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,13 +71,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -173,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本Q.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本Q.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -195,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本Q.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "基本Q.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -252,21 +189,22 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6561f18f55c505df",
+  "active": "84b2a5b275562bf4",
   "lastOpenFiles": [
-    "人纪/090 人纪 - 针灸.md",
-    "基本Q.md",
-    "人纪/089 人纪 - 神农本草经.md",
+    "中医执业.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/000 @ 人纪 - Map.canvas",
     "+Home.md",
+    "The inner game of tennis.md",
+    "基本Q.md",
+    "人纪/090 人纪 - 针灸.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "埃隆马斯克传.md",
     "阅读与书籍 MOC.md",
     "超速学习.md",
-    "The inner game of tennis.md",
     "重来3.md",
-    "人纪/001 @MOC中医.md",
     "天干地支.md",
     "十二经络歌诀.md",
-    "中医执业.md",
     "人纪/002 黄帝内经.md",
     "第一性原理.md",
     "+HomeMOC.md",
@@ -279,12 +217,10 @@
     "人纪/005 八纲辨证.md",
     "人纪/194 中医诊断学.md",
     "人纪/004 金匮要略.md",
-    "人纪/003 伤寒论.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
     "人体流转.canvas",
-    "人纪/000 @ 人纪 - Map.canvas",
     "Sources/064F7C83.png",
     "Sources/Pasted image 20230725160132.png",
     "Sources/Pasted image 20230721102144.png",
