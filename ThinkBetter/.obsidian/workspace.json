@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38cf58f26b0246f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5e66f4ce5dde7ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蔓荆子.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#中医/药/解表药/散热",
+                "query": "柴胡",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "柴胡.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "柴胡.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -190,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "柴胡.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "柴胡.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -226,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +238,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "402120a9d04e93d4",
+  "active": "5e66f4ce5dde7ed8",
   "lastOpenFiles": [
+    "人纪/047 归经.md",
     "蔓荆子.md",
     "柴胡.md",
     "菊花.md",
@@ -276,7 +269,6 @@
     "解表药.md",
     "人纪/002 黄帝内经.md",
     "人纪/014 辨阳明病脉症并治法.md",
-    "人纪/001 @MOC中医.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
