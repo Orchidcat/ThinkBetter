@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "黄柏",
+      "path": "黄柏.md"
+    },
+    {
+      "basename": "黄连",
+      "path": "黄连.md"
+    },
+    {
       "basename": "黄芩",
       "path": "黄芩.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "超速学习.md"
-    },
-    {
-      "basename": "重来3",
-      "path": "重来3.md"
     }
   ],
   "omittedPaths": [],

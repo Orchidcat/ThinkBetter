@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8570a2243972e834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黄连.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da8fec6277f89d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黄柏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄芩.md",
+                "file": "黄柏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄芩.md"
+                "file": "黄柏.md"
               }
             }
           },
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄芩.md",
+                "file": "黄柏.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "黄芩.md"
+                "file": "黄柏.md"
               }
             }
           }
@@ -200,8 +224,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "272934b831ad115d",
+  "active": "da8fec6277f89d25",
   "lastOpenFiles": [
+    "黄连.md",
+    "黄柏.md",
     "黄芩.md",
     "决明子.md",
     "夏枯草.md",
@@ -227,8 +253,6 @@
     "薄荷.md",
     "辛夷.md",
     "苍耳子.md",
-    "人纪/桂枝.md",
-    "人纪/羌活.md",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
