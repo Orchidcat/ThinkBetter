@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "柴胡",
+      "path": "柴胡.md"
+    },
+    {
+      "basename": "蔓荆子",
+      "path": "蔓荆子.md"
+    },
+    {
       "basename": "菊花",
       "path": "菊花.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "203 zy-诊断学",
       "path": "人纪/203 zy-诊断学.md"
-    },
-    {
-      "basename": "FC_基础理论",
-      "path": "FC_基础理论.md"
-    },
-    {
-      "basename": "183 脏腑辩证",
-      "path": "人纪/183 脏腑辩证.md"
     }
   ],
   "omittedPaths": [],
