@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +224,7 @@
   },
   "active": "ac633da40fc1c5b4",
   "lastOpenFiles": [
+    "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
     "麻黄.md",
     "中医执业.md",
@@ -265,7 +265,6 @@
     "未命名.canvas",
     "Sources/Pasted image 20230706134502.png",
     "Sources/Pasted image 20230706131705.png",
-    "Sources/Pasted image 20230706111605.png",
-    "Sources/Pasted image 20230706111543.png"
+    "Sources/Pasted image 20230706111605.png"
   ]
 }
