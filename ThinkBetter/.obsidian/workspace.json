@@ -61,10 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天花粉.md",
+                "file": "天花粉(栝楼根）.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "23a12db9ca27c648",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -161,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "天花粉.md",
+                "file": "天花粉(栝楼根）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "天花粉.md"
+                "file": "天花粉(栝楼根）.md"
               }
             }
           },
@@ -183,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "天花粉.md",
+                "file": "天花粉(栝楼根）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "天花粉.md"
+                "file": "天花粉(栝楼根）.md"
               }
             }
           }
@@ -242,8 +250,8 @@
   },
   "active": "a31fa61aff3c024a",
   "lastOpenFiles": [
+    "天花粉(栝楼根）.md",
     "芦根.md",
-    "天花粉.md",
     "知母.md",
     "石膏.md",
     "柴胡.md",
