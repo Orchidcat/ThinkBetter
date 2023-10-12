@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "细辛.md",
+                "file": "人纪/细辛.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,13 +132,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "细辛.md",
+                "file": "人纪/细辛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "细辛.md"
+                "file": "人纪/细辛.md"
               }
             }
           },
@@ -195,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "细辛.md",
+                "file": "人纪/细辛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "细辛.md"
+                "file": "人纪/细辛.md"
               }
             }
           }
@@ -252,10 +250,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2dc5085fe81b122c",
+  "active": "d7197eb054d97e02",
   "lastOpenFiles": [
+    "人纪/中药材",
     "白芷.md",
-    "细辛.md",
+    "人纪/细辛.md",
     "人纪/羌活.md",
     "人纪/防风.md",
     "人纪/香薷.md",
@@ -282,7 +281,6 @@
     "阅读与书籍 MOC.md",
     "超速学习.md",
     "重来3.md",
-    "天干地支.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
