@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "细辛",
+      "path": "细辛.md"
+    },
+    {
+      "basename": "白芷",
+      "path": "白芷.md"
+    },
+    {
+      "basename": "羌活",
+      "path": "人纪/羌活.md"
+    },
+    {
       "basename": "防风",
-      "path": "防风.md"
+      "path": "人纪/防风.md"
     },
     {
       "basename": "香薷",
@@ -187,18 +199,6 @@
     {
       "basename": "068 九味羌活汤",
       "path": "人纪/068 九味羌活汤.md"
-    },
-    {
-      "basename": "050 桂枝汤",
-      "path": "人纪/050 桂枝汤.md"
-    },
-    {
-      "basename": "012 辨太阳病脉症并治法",
-      "path": "人纪/012 辨太阳病脉症并治法.md"
-    },
-    {
-      "basename": "011 辨少阴病脉症并治法",
-      "path": "人纪/011 辨少阴病脉症并治法.md"
     }
   ],
   "omittedPaths": [],
