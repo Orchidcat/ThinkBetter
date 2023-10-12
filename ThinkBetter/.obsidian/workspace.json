@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "8a618ac6cd65660f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/180 引经药.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9ec9f964dbb7288",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -196,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/180 引经药.md",
+                "file": "葛根.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/180 引经药.md"
+                "file": "葛根.md"
               }
             }
           },
@@ -218,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/180 引经药.md",
+                "file": "葛根.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -245,7 +234,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/180 引经药.md"
+                "file": "葛根.md"
               }
             }
           }
@@ -275,8 +264,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8a618ac6cd65660f",
+  "active": "b29b6708017468ab",
   "lastOpenFiles": [
+    "人纪/180 引经药.md",
     "淡豆豉.md",
     "葛根.md",
     "升麻.md",
@@ -303,7 +293,6 @@
     "人纪/生姜.md",
     "十二经络歌诀.md",
     "中医执业.md",
-    "紫苏.md",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
     "人纪/000 @ 人纪 - Map.canvas",
