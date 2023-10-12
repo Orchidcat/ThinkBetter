@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a265143a64618bf2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "dd8887211c781337",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "牛蒡子.md",
+                "file": "薄荷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "牛蒡子.md"
+                "file": "薄荷.md"
               }
             }
           },
@@ -154,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "牛蒡子.md",
+                "file": "薄荷.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "牛蒡子.md"
+                "file": "薄荷.md"
               }
             }
           }
@@ -210,10 +201,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ffa31f741bcc135f",
+  "active": "dd8887211c781337",
   "lastOpenFiles": [
-    "薄荷.md",
     "牛蒡子.md",
+    "薄荷.md",
     "辛夷.md",
     "苍耳子.md",
     "人纪/桂枝.md",
