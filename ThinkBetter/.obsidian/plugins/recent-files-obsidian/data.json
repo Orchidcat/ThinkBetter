@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "葛根",
+      "path": "葛根.md"
+    },
+    {
+      "basename": "升麻",
+      "path": "升麻.md"
+    },
+    {
+      "basename": "柴胡",
+      "path": "柴胡.md"
+    },
+    {
       "basename": "089 人纪 - 神农本草经",
       "path": "人纪/089 人纪 - 神农本草经.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "蔓荆子",
       "path": "蔓荆子.md"
-    },
-    {
-      "basename": "柴胡",
-      "path": "柴胡.md"
     },
     {
       "basename": "菊花",
@@ -191,14 +199,6 @@
     {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "003 伤寒论",
-      "path": "人纪/003 伤寒论.md"
     }
   ],
   "omittedPaths": [],

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "bbb80ea66467dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "升麻.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b29b6708017468ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "葛根.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9ec9f964dbb7288",
             "type": "leaf",
             "state": {
@@ -67,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "葛根.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "葛根.md"
               }
             }
           },
@@ -181,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "葛根.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "葛根.md"
               }
             }
           }
@@ -238,11 +263,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5e66f4ce5dde7ed8",
+  "active": "b29b6708017468ab",
   "lastOpenFiles": [
+    "升麻.md",
+    "葛根.md",
+    "柴胡.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/047 归经.md",
     "蔓荆子.md",
-    "柴胡.md",
     "菊花.md",
     "桑叶.md",
     "蝉兑.md",
@@ -266,9 +294,6 @@
     "麻黄.md",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
-    "解表药.md",
-    "人纪/002 黄帝内经.md",
-    "人纪/014 辨阳明病脉症并治法.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
