@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "cd99c88a0c1b3035",
+            "id": "fd57e8b537bd1aef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "桂枝.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -52,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "桂枝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "麻黄.md",
+                "file": "桂枝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "麻黄.md"
+                "file": "桂枝.md"
               }
             }
           },
@@ -166,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "麻黄.md",
+                "file": "桂枝.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,12 +197,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "麻黄.md"
+                "file": "桂枝.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,12 +226,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ac633da40fc1c5b4",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "中医执业.md",
+    "桂枝.md",
+    "麻黄.md",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
-    "麻黄.md",
-    "中医执业.md",
     "解表药.md",
     "人纪/002 黄帝内经.md",
     "十二经络歌诀.md",
@@ -264,7 +269,6 @@
     "Canvas 使用学习.canvas",
     "未命名.canvas",
     "Sources/Pasted image 20230706134502.png",
-    "Sources/Pasted image 20230706131705.png",
-    "Sources/Pasted image 20230706111605.png"
+    "Sources/Pasted image 20230706131705.png"
   ]
 }

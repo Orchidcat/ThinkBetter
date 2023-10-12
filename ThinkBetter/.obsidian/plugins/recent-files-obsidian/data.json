@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "麻黄",
-      "path": "麻黄.md"
+      "basename": "桂枝",
+      "path": "桂枝.md"
     },
     {
       "basename": "中医执业",
       "path": "中医执业.md"
+    },
+    {
+      "basename": "麻黄",
+      "path": "麻黄.md"
     },
     {
       "basename": "解表药",
@@ -195,10 +199,6 @@
     {
       "basename": "047 归经",
       "path": "人纪/047 归经.md"
-    },
-    {
-      "basename": "mindmap",
-      "path": "mindmap.md"
     }
   ],
   "omittedPaths": [],
