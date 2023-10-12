@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a883f52d0adb33c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "837f93be515e3163",
             "type": "leaf",
             "state": {
@@ -87,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#中医/药/清热药/燥湿",
+                "query": "tag:#中医/药/清热药/去火",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,7 +250,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "837f93be515e3163",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "白鲜皮.md",
     "苦参.md",
