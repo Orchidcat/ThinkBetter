@@ -23,12 +23,15 @@
             "id": "6193c09062c1f2db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/002 黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "合穴",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "十二经络歌诀.md"
+              }
             }
           },
           {
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "十二经络歌诀.md"
+              }
             }
           }
         ],
@@ -193,8 +202,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "84b2a5b275562bf4",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
+    "人纪/014 辨阳明病脉症并治法.md",
     "十二经络歌诀.md",
     "中医执业.md",
     "人纪/001 @MOC中医.md",
@@ -209,7 +220,6 @@
     "超速学习.md",
     "重来3.md",
     "天干地支.md",
-    "人纪/002 黄帝内经.md",
     "第一性原理.md",
     "+HomeMOC.md",
     "人纪/176 易经真的很容易.md",
