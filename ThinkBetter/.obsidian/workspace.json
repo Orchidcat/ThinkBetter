@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/桂枝.md",
+                "file": "白芷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/桂枝.md"
+                "file": "白芷.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/桂枝.md",
+                "file": "白芷.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/桂枝.md"
+                "file": "白芷.md"
               }
             }
           }
@@ -250,20 +250,20 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "d7197eb054d97e02",
+  "active": "7c7a127839aef6d0",
   "lastOpenFiles": [
+    "人纪/桂枝.md",
+    "人纪/香薷.md",
+    "人纪/防风.md",
+    "人纪/羌活.md",
+    "人纪/荆芥.md",
     "人纪/细辛.md",
     "人纪/中药材",
     "白芷.md",
-    "人纪/羌活.md",
-    "人纪/防风.md",
-    "人纪/香薷.md",
-    "人纪/荆芥.md",
     "人纪/生姜.md",
     "十二经络歌诀.md",
     "中医执业.md",
     "紫苏.md",
-    "人纪/桂枝.md",
     "麻黄.md",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
