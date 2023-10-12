@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "6193c09062c1f2db",
   "lastOpenFiles": [
-    "十二经络歌诀.md",
     "人纪/002 黄帝内经.md",
+    "十二经络歌诀.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "中医执业.md",
     "人纪/001 @MOC中医.md",
