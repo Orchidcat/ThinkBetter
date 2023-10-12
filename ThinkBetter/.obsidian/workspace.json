@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "d9ec9f964dbb7288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "菊花.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7fae3c22e429b16f",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "桑叶.md",
+                "file": "菊花.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "桑叶.md"
+                "file": "菊花.md"
               }
             }
           },
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "桑叶.md",
+                "file": "菊花.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "桑叶.md"
+                "file": "菊花.md"
               }
             }
           }
@@ -210,10 +222,11 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "c3eb2b441a3c2579",
+  "active": "d9ec9f964dbb7288",
   "lastOpenFiles": [
-    "蝉兑.md",
+    "菊花.md",
     "桑叶.md",
+    "蝉兑.md",
     "牛蒡子.md",
     "薄荷.md",
     "辛夷.md",
@@ -241,7 +254,6 @@
     "人纪/000 @ 人纪 - Map.canvas",
     "+Home.md",
     "The inner game of tennis.md",
-    "基本Q.md",
     "Sources/Pasted image 20230920091437.png",
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
