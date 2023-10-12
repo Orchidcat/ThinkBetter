@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85a69b511c2ac5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "苦参.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "柴胡",
+                "query": "tag:#中医/药/清热药/燥湿",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -169,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "秦皮.md",
+                "file": "苦参.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "秦皮.md"
+                "file": "苦参.md"
               }
             }
           },
@@ -191,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "秦皮.md",
+                "file": "苦参.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "秦皮.md"
+                "file": "苦参.md"
               }
             }
           }
@@ -248,11 +259,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "5f943df8ef8c2ca8",
+  "active": "85a69b511c2ac5a6",
   "lastOpenFiles": [
+    "Sources/Pasted image 20231012134710.png",
+    "秦皮.md",
+    "苦参.md",
     "Sources/Pasted image 20231012134419.png",
     "龙胆.md",
-    "秦皮.md",
     "黄柏.md",
     "黄连.md",
     "黄芩.md",
@@ -276,7 +289,6 @@
     "菊花.md",
     "桑叶.md",
     "蝉兑.md",
-    "牛蒡子.md",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
@@ -291,7 +303,6 @@
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
-    "未命名.canvas",
-    "Sources/Pasted image 20230706134502.png"
+    "未命名.canvas"
   ]
 }
