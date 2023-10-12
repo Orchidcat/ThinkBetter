@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "解表药",
-      "path": "解表药.md"
+      "basename": "麻黄",
+      "path": "麻黄.md"
     },
     {
       "basename": "中医执业",
       "path": "中医执业.md"
+    },
+    {
+      "basename": "解表药",
+      "path": "解表药.md"
     },
     {
       "basename": "002 黄帝内经",
@@ -195,10 +199,6 @@
     {
       "basename": "mindmap",
       "path": "mindmap.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
     }
   ],
   "omittedPaths": [],
