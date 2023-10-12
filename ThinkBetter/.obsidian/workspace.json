@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "7c7a127839aef6d0",
+            "id": "2dc5085fe81b122c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "白芷.md",
+                "file": "人纪/桂枝.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dc5085fe81b122c",
+            "id": "7c7a127839aef6d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/细辛.md",
+                "file": "白芷.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/细辛.md",
+                "file": "人纪/桂枝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/细辛.md"
+                "file": "人纪/桂枝.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/细辛.md",
+                "file": "人纪/桂枝.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/细辛.md"
+                "file": "人纪/桂枝.md"
               }
             }
           }
@@ -252,9 +252,9 @@
   },
   "active": "d7197eb054d97e02",
   "lastOpenFiles": [
+    "人纪/细辛.md",
     "人纪/中药材",
     "白芷.md",
-    "人纪/细辛.md",
     "人纪/羌活.md",
     "人纪/防风.md",
     "人纪/香薷.md",
