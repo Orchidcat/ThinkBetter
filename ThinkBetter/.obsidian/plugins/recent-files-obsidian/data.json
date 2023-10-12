@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "知母",
+      "path": "知母.md"
+    },
+    {
+      "basename": "石膏",
+      "path": "石膏.md"
+    },
+    {
+      "basename": "柴胡",
+      "path": "柴胡.md"
+    },
+    {
       "basename": "葛根",
       "path": "葛根.md"
     },
     {
       "basename": "升麻",
       "path": "升麻.md"
-    },
-    {
-      "basename": "柴胡",
-      "path": "柴胡.md"
     },
     {
       "basename": "180 引经药",
@@ -191,14 +199,6 @@
     {
       "basename": "202 足阳明胃经",
       "path": "人纪/202 足阳明胃经.md"
-    },
-    {
-      "basename": "117 手阳明大肠经",
-      "path": "人纪/117 手阳明大肠经.md"
-    },
-    {
-      "basename": "115 手太阴肺经",
-      "path": "人纪/115 手太阴肺经.md"
     }
   ],
   "omittedPaths": [],

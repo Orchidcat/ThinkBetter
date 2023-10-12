@@ -20,60 +20,24 @@
             }
           },
           {
-            "id": "bbb80ea66467dec1",
+            "id": "36900fb6d6bbc760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "升麻.md",
+                "file": "石膏.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b29b6708017468ab",
+            "id": "3b88e1688177de56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "葛根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ec9f964dbb7288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "菊花.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fae3c22e429b16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蝉兑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3eb2b441a3c2579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "桑叶.md",
+                "file": "知母.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "葛根.md",
+                "file": "知母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "葛根.md"
+                "file": "知母.md"
               }
             }
           },
@@ -195,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "葛根.md",
+                "file": "知母.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -222,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "葛根.md"
+                "file": "知母.md"
               }
             }
           }
@@ -252,11 +216,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29b6708017468ab",
+  "active": "3b88e1688177de56",
   "lastOpenFiles": [
-    "升麻.md",
+    "石膏.md",
+    "知母.md",
     "柴胡.md",
     "葛根.md",
+    "升麻.md",
     "人纪/180 引经药.md",
     "淡豆豉.md",
     "人纪/089 人纪 - 神农本草经.md",
@@ -279,8 +245,6 @@
     "人纪/细辛.md",
     "人纪/中药材",
     "人纪/生姜.md",
-    "十二经络歌诀.md",
-    "中医执业.md",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
     "人纪/000 @ 人纪 - Map.canvas",
