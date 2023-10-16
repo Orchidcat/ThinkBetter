@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eed0ff2fe3df1e48",
+        "id": "2cecdf490f31bbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "837f93be515e3163",
+            "id": "2bb5cc4646407607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "苦参.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "272934b831ad115d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄芩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8570a2243972e834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄连.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8fec6277f89d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄柏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d732a9fbc5a01639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "龙胆.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85a69b511c2ac5a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "苦参.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -170,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "苦参.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "苦参.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -192,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "苦参.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "苦参.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           }
@@ -249,10 +190,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "2bb5cc4646407607",
   "lastOpenFiles": [
-    "白鲜皮.md",
     "苦参.md",
+    "白鲜皮.md",
     "Sources/Pasted image 20231012134710.png",
     "秦皮.md",
     "Sources/Pasted image 20231012134419.png",
