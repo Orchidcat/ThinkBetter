@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "079 脉诊",
+      "path": "人纪/079 脉诊.md"
+    },
+    {
       "basename": "004 金匮要略",
       "path": "人纪/004 金匮要略.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "000 @ 人纪 - Map",
       "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     }
   ],
   "omittedPaths": [],
