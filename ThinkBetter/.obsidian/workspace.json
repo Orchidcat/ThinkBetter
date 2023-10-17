@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/182 营卫之气.md",
+                "file": "人纪/079 脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/182 营卫之气.md"
+                "file": "人纪/079 脉诊.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/182 营卫之气.md",
+                "file": "人纪/079 脉诊.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/182 营卫之气.md"
+                "file": "人纪/079 脉诊.md"
               }
             }
           }
@@ -203,10 +202,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3622f67f48f79745",
+  "active": "bcd194b2cfd01b5d",
   "lastOpenFiles": [
-    "人纪/079 脉诊.md",
     "人纪/182 营卫之气.md",
+    "人纪/079 脉诊.md",
     "人纪/134 卫气.md",
     "人纪/004 金匮要略.md",
     "人纪/012 辨太阳病脉症并治法.md",
