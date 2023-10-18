@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/182 营卫之气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/182 营卫之气.md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/182 营卫之气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/182 营卫之气.md"
               }
             }
           }
@@ -202,8 +203,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bcd194b2cfd01b5d",
+  "active": "3622f67f48f79745",
   "lastOpenFiles": [
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/062 解表剂.md",
     "葛根.md",
     "人纪/004 金匮要略.md",
@@ -232,7 +234,6 @@
     "芦根.md",
     "知母.md",
     "石膏.md",
-    "柴胡.md",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
