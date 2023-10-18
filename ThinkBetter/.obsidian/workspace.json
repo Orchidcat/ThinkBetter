@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/182 营卫之气.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "葛根",
+                "query": "人参",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/182 营卫之气.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/182 营卫之气.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/182 营卫之气.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/182 营卫之气.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -205,13 +205,13 @@
   },
   "active": "3622f67f48f79745",
   "lastOpenFiles": [
+    "人纪/182 营卫之气.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/062 解表剂.md",
     "葛根.md",
     "人纪/004 金匮要略.md",
     "人纪/003 伤寒论.md",
     "人纪/079 脉诊.md",
-    "人纪/182 营卫之气.md",
     "人纪/134 卫气.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/119 水运化的过程.md",
