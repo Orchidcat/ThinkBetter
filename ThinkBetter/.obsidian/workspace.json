@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人参",
+                "query": "山药",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           }
@@ -206,6 +206,10 @@
   "active": "3622f67f48f79745",
   "lastOpenFiles": [
     "人纪/089 人纪 - 神农本草经.md",
+    "杂记.md",
+    "人纪/193 中药学.md",
+    "人纪/120 四气.md",
+    "人纪/166 血证论.md",
     "人纪/182 营卫之气.md",
     "人纪/062 解表剂.md",
     "葛根.md",
@@ -229,11 +233,7 @@
     "夏枯草.md",
     "栀子.md",
     "淡竹叶.md",
-    "天花粉(栝楼根）.md",
     "Sources/Pasted image 20231012133925.png",
-    "芦根.md",
-    "知母.md",
-    "石膏.md",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
     "Sources/Pasted image 20231012104750.png",
