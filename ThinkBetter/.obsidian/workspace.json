@@ -23,9 +23,11 @@
             "id": "d1d8a9d7d73bb7c8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "人纪/089 人纪 - 神农本草经.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -213,8 +215,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "d1d8a9d7d73bb7c8",
   "lastOpenFiles": [
+    "人纪/152 先煎.md",
+    "决明子.md",
     "人纪/004 金匮要略.md",
     "人纪/089 人纪 - 神农本草经.md",
     "杂记.md",
@@ -239,10 +243,8 @@
     "黄柏.md",
     "黄连.md",
     "黄芩.md",
-    "决明子.md",
     "夏枯草.md",
     "栀子.md",
-    "淡竹叶.md",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
@@ -258,3 +260,5 @@
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas"
+  ]
+}
