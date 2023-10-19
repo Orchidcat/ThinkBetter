@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/183 脏腑辩证.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "决明",
+                "query": "肝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/183 脏腑辩证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/183 脏腑辩证.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/183 脏腑辩证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,17 +185,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/183 脏腑辩证.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +216,11 @@
   },
   "active": "d1d8a9d7d73bb7c8",
   "lastOpenFiles": [
+    "人纪/044 肝郁气滞证.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/152 先煎.md",
     "决明子.md",
     "人纪/004 金匮要略.md",
-    "人纪/089 人纪 - 神农本草经.md",
     "杂记.md",
     "人纪/193 中药学.md",
     "人纪/120 四气.md",
@@ -244,7 +244,6 @@
     "黄连.md",
     "黄芩.md",
     "夏枯草.md",
-    "栀子.md",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
