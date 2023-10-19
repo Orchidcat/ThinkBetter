@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d1d8a9d7d73bb7c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "3622f67f48f79745",
             "type": "leaf",
             "state": {
@@ -75,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "山药",
+                "query": "决明",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -203,8 +213,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3622f67f48f79745",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
     "人纪/089 人纪 - 神农本草经.md",
     "杂记.md",
     "人纪/193 中药学.md",
@@ -213,7 +224,6 @@
     "人纪/182 营卫之气.md",
     "人纪/062 解表剂.md",
     "葛根.md",
-    "人纪/004 金匮要略.md",
     "人纪/003 伤寒论.md",
     "人纪/079 脉诊.md",
     "人纪/134 卫气.md",
@@ -248,5 +258,3 @@
     "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas"
-  ]
-}
