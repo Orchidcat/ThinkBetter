@@ -5,6 +5,18 @@
       "path": "人纪/089 人纪 - 神农本草经.md"
     },
     {
+      "basename": "黄芩",
+      "path": "黄芩.md"
+    },
+    {
+      "basename": "068 九味羌活汤",
+      "path": "人纪/068 九味羌活汤.md"
+    },
+    {
+      "basename": "017 柴葛解肌汤",
+      "path": "人纪/017 柴葛解肌汤.md"
+    },
+    {
       "basename": "193 中药学",
       "path": "人纪/193 中药学.md"
     },
@@ -101,10 +113,6 @@
       "path": "黄连.md"
     },
     {
-      "basename": "黄芩",
-      "path": "黄芩.md"
-    },
-    {
       "basename": "夏枯草",
       "path": "夏枯草.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "羌活",
       "path": "人纪/羌活.md"
-    },
-    {
-      "basename": "香薷",
-      "path": "人纪/香薷.md"
-    },
-    {
-      "basename": "防风",
-      "path": "人纪/防风.md"
     }
   ],
   "omittedPaths": [],

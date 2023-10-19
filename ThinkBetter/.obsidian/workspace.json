@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天麻",
+                "query": "黄芩",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,10 +214,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "d1d8a9d7d73bb7c8",
   "lastOpenFiles": [
-    "人纪/193 中药学.md",
+    "黄芩.md",
+    "人纪/068 九味羌活汤.md",
+    "人纪/017 柴葛解肌汤.md",
     "人纪/089 人纪 - 神农本草经.md",
+    "人纪/193 中药学.md",
     "人纪/183 脏腑辩证.md",
     "人纪/044 肝郁气滞证.md",
     "人纪/152 先煎.md",
@@ -241,9 +244,6 @@
     "秦皮.md",
     "Sources/Pasted image 20231012134419.png",
     "龙胆.md",
-    "黄柏.md",
-    "黄连.md",
-    "黄芩.md",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
