@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2cecdf490f31bbb1",
+        "id": "af6dec013059bc61",
         "type": "tabs",
         "children": [
           {
-            "id": "e99d54df096d5a55",
+            "id": "8be0875c8c940e66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科举.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daf3acb61ab1461a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -202,8 +179,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "daf3acb61ab1461a",
+  "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "一句话的玩味.md",
     "科举.md",
     "人纪/004 金匮要略.md",
     "人纪/089 人纪 - 神农本草经.md",
@@ -229,7 +207,6 @@
     "人纪/079 脉诊.md",
     "人纪/134 卫气.md",
     "人纪/119 水运化的过程.md",
-    "中医执业.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
