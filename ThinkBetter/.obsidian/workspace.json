@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/014 辨阳明病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "忧",
+                "query": "阳明",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,12 +116,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/014 辨阳明病脉症并治法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "人纪/014 辨阳明病脉症并治法.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/014 辨阳明病脉症并治法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "人纪/014 辨阳明病脉症并治法.md"
               }
             }
           }
