@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afb26dd2ba6f2019",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4572b4b4f28bc05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "临床应用伤寒论解说.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "临床应用伤寒论解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           },
@@ -157,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "临床应用伤寒论解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           }
@@ -193,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,13 +233,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "2a0808ed1346f2b4",
+  "active": "36633fabe8d8fa3b",
   "lastOpenFiles": [
+    "临床应用伤寒论解说.md",
     "人纪/013 辨太阴病脉症并治法.md",
-    "人纪/002 黄帝内经.md",
-    "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
     "一句话的玩味.md",
+    "人纪/002 黄帝内经.md",
+    "人纪/004 金匮要略.md",
     "科举.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/014 辨阳明病脉症并治法.md",
@@ -241,7 +261,6 @@
     "人纪/062 解表剂.md",
     "葛根.md",
     "人纪/003 伤寒论.md",
-    "人纪/079 脉诊.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
