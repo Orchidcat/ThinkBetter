@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阳明",
+                "query": "小建中汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,7 +239,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "afb26dd2ba6f2019",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/014 辨阳明病脉症并治法.md",
     "临床应用伤寒论解说.md",
