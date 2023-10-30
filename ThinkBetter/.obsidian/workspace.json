@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 257.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -168,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           },
           {
@@ -187,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           }
         ],
@@ -241,7 +247,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "bc3b1ea41dfb1935",
+  "active": "8be0875c8c940e66",
   "lastOpenFiles": [
     "人纪/166 血证论.md",
     "临床应用伤寒论解说.md",
