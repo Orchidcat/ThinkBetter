@@ -66,8 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc3b1ea41dfb1935",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -238,12 +241,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "bc3b1ea41dfb1935",
   "lastOpenFiles": [
+    "人纪/166 血证论.md",
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "十二经络歌诀.md",
-    "人纪/166 血证论.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "一句话的玩味.md",
