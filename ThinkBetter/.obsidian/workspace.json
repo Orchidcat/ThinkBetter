@@ -59,12 +59,15 @@
             "id": "279932c84623056d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "十二经络歌诀.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           },
           {
@@ -175,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           }
         ],
@@ -229,12 +238,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "279932c84623056d",
+  "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "临床应用伤寒论解说.md",
+    "人纪/014 辨阳明病脉症并治法.md",
+    "十二经络歌诀.md",
     "人纪/166 血证论.md",
     "人纪/013 辨太阴病脉症并治法.md",
-    "人纪/014 辨阳明病脉症并治法.md",
-    "临床应用伤寒论解说.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "一句话的玩味.md",
     "人纪/002 黄帝内经.md",
@@ -256,7 +266,6 @@
     "人纪/182 营卫之气.md",
     "人纪/062 解表剂.md",
     "葛根.md",
-    "人纪/003 伤寒论.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
