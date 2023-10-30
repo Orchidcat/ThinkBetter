@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抵挡汤",
+                "query": "当归",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,12 +119,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -238,7 +238,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8be0875c8c940e66",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
