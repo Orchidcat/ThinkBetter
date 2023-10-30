@@ -54,8 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "279932c84623056d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -226,14 +229,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8be0875c8c940e66",
+  "active": "279932c84623056d",
   "lastOpenFiles": [
+    "人纪/166 血证论.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "临床应用伤寒论解说.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "一句话的玩味.md",
-    "人纪/166 血证论.md",
     "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "科举.md",
