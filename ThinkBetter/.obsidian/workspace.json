@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/005 八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "当归",
+                "query": "舌苔",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/005 八纲辨证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/005 八纲辨证.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/005 八纲辨证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/005 八纲辨证.md"
               }
             }
           }
@@ -241,32 +240,32 @@
   },
   "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
+    "人纪/005 八纲辨证.md",
+    "人纪/017 柴葛解肌汤.md",
+    "人纪/026 大小青龙汤.md",
+    "人纪/076 六淫辩证.md",
+    "人纪/077 麻黄汤.md",
+    "人纪/110 食滞胃脘证.md",
+    "人纪/087 气血辩证.md",
+    "人纪/121 四问便.md",
+    "人纪/148 五问饮食.md",
+    "人纪/162 胸痹心痛短气病脉症并治第九.md",
+    "人纪/166 血证论.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "临床应用伤寒论解说.md",
-    "人纪/166 血证论.md",
     "十二经络歌诀.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "一句话的玩味.md",
     "人纪/002 黄帝内经.md",
-    "人纪/004 金匮要略.md",
     "科举.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/011 辨少阴病脉症并治法.md",
     "人纪/147 五味.md",
     "黄芩.md",
     "人纪/068 九味羌活汤.md",
-    "人纪/017 柴葛解肌汤.md",
     "人纪/193 中药学.md",
-    "人纪/183 脏腑辩证.md",
-    "人纪/044 肝郁气滞证.md",
-    "人纪/152 先煎.md",
-    "决明子.md",
-    "杂记.md",
-    "人纪/120 四气.md",
-    "人纪/182 营卫之气.md",
-    "人纪/062 解表剂.md",
-    "葛根.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
