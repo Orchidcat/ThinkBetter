@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "193 中药学",
+      "path": "人纪/193 中药学.md"
+    },
+    {
+      "basename": "反脆弱",
+      "path": "反脆弱.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "杂记.md"
+    },
+    {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
     },
@@ -129,10 +141,6 @@
       "path": "人纪/068 九味羌活汤.md"
     },
     {
-      "basename": "193 中药学",
-      "path": "人纪/193 中药学.md"
-    },
-    {
       "basename": "044 肝郁气滞证",
       "path": "人纪/044 肝郁气滞证.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "决明子",
       "path": "决明子.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "杂记.md"
     },
     {
       "basename": "120 四气",
@@ -195,10 +199,6 @@
     {
       "basename": "秦皮",
       "path": "秦皮.md"
-    },
-    {
-      "basename": "龙胆",
-      "path": "龙胆.md"
     }
   ],
   "omittedPaths": [],
