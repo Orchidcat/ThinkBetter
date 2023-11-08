@@ -71,8 +71,12 @@
             "id": "4b64779d53b0390c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/193 中药学.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -119,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正常",
+                "query": "贵州",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,12 +132,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945,
-    "collapsed": true
+    "width": 257.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -168,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/193 中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/193 中药学.md"
+              }
             }
           },
           {
@@ -187,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/193 中药学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/193 中药学.md"
+              }
             }
           }
         ],
