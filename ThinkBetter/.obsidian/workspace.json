@@ -66,8 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b64779d53b0390c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -238,8 +241,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "8be0875c8c940e66",
+  "active": "4b64779d53b0390c",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "一句话的玩味.md",
     "人纪/193 中药学.md",
     "反脆弱.md",
     "杂记.md",
@@ -264,8 +269,6 @@
     "人纪/166 血证论.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "临床应用伤寒论解说.md",
-    "十二经络歌诀.md",
-    "人纪/014 辨阳明病脉症并治法.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
