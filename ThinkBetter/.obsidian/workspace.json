@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/193 中药学.md",
+                "file": "人纪/105 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贵州",
+                "query": "甘草",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/193 中药学.md",
+                "file": "人纪/105 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/193 中药学.md"
+                "file": "人纪/105 神农本草经.md"
               }
             }
           },
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/193 中药学.md",
+                "file": "人纪/105 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/193 中药学.md"
+                "file": "人纪/105 神农本草经.md"
               }
             }
           }
@@ -252,11 +253,16 @@
   },
   "active": "4b64779d53b0390c",
   "lastOpenFiles": [
+    "人纪/192 中药十八反十九畏.md",
+    "防己黄芪汤.md",
+    "中医执业.md",
+    "杂记.md",
+    "人纪/009 辨厥阴病脉症并治法.md",
+    "人纪/004 金匮要略.md",
+    "人纪/193 中药学.md",
     "未命名 1.md",
     "一句话的玩味.md",
-    "人纪/193 中药学.md",
     "反脆弱.md",
-    "杂记.md",
     "人纪/194 中医诊断学.md",
     "人纪/033 二问汗.md",
     "人纪/160 香苏散.md",
@@ -266,7 +272,6 @@
     "人纪/188 止嗽散.md",
     "人纪/190 中焦病证.md",
     "人纪/005 八纲辨证.md",
-    "人纪/004 金匮要略.md",
     "人纪/017 柴葛解肌汤.md",
     "人纪/026 大小青龙汤.md",
     "人纪/076 六淫辩证.md",
@@ -274,10 +279,6 @@
     "人纪/110 食滞胃脘证.md",
     "人纪/087 气血辩证.md",
     "人纪/121 四问便.md",
-    "人纪/148 五问饮食.md",
-    "人纪/166 血证论.md",
-    "人纪/013 辨太阴病脉症并治法.md",
-    "临床应用伤寒论解说.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
