@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8be0875c8c940e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/细辛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42b58fc6abf6f97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/013 辨太阴病脉症并治法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afb26dd2ba6f2019",
             "type": "leaf",
             "state": {
@@ -55,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.51103591918945
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -147,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/细辛.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/细辛.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -169,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/细辛.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/细辛.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -226,15 +203,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8be0875c8c940e66",
+  "active": "279932c84623056d",
   "lastOpenFiles": [
+    "临床应用伤寒论解说.md",
+    "人纪/细辛.md",
+    "人纪/013 辨太阴病脉症并治法.md",
     "人纪/香薷.md",
     "辛夷.md",
     "紫苏.md",
     "人纪/桂枝.md",
     "一句话的玩味.md",
-    "人纪/013 辨太阴病脉症并治法.md",
-    "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "十二经络歌诀.md",
     "人纪/099 桑菊饮.md",
@@ -253,7 +231,6 @@
     "人纪/160 香苏散.md",
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/183 脏腑辩证.md",
-    "人纪/167 阳明病证.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
