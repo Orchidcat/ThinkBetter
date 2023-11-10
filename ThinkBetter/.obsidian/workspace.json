@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/香薷.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肺",
+                "query": "tag:#中医/药/解表药/散寒",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/香薷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪/香薷.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/香薷.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪/香薷.md"
               }
             }
           }
@@ -228,6 +228,10 @@
   },
   "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "辛夷.md",
+    "紫苏.md",
+    "人纪/桂枝.md",
+    "一句话的玩味.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
@@ -242,7 +246,6 @@
     "人纪/004 金匮要略.md",
     "人纪/193 中药学.md",
     "未命名 1.md",
-    "一句话的玩味.md",
     "反脆弱.md",
     "人纪/194 中医诊断学.md",
     "人纪/033 二问汗.md",
@@ -251,9 +254,6 @@
     "人纪/183 脏腑辩证.md",
     "人纪/167 阳明病证.md",
     "人纪/188 止嗽散.md",
-    "人纪/190 中焦病证.md",
-    "人纪/005 八纲辨证.md",
-    "人纪/017 柴葛解肌汤.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
