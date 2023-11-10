@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/香薷.md",
+                "file": "人纪/细辛.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/香薷.md",
+                "file": "人纪/细辛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/香薷.md"
+                "file": "人纪/细辛.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/香薷.md",
+                "file": "人纪/细辛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/香薷.md"
+                "file": "人纪/细辛.md"
               }
             }
           }
@@ -228,6 +228,7 @@
   },
   "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "人纪/香薷.md",
     "辛夷.md",
     "紫苏.md",
     "人纪/桂枝.md",
@@ -253,7 +254,6 @@
     "人纪/162 胸痹心痛短气病脉症并治第九.md",
     "人纪/183 脏腑辩证.md",
     "人纪/167 阳明病证.md",
-    "人纪/188 止嗽散.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
