@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "十二经络歌诀",
-      "path": "十二经络歌诀.md"
+      "basename": "Template - 心智模型",
+      "path": "Templates/Template - 心智模型.md"
+    },
+    {
+      "basename": "Templates - 论证",
+      "path": "Templates/Templates - 论证.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "Template - 文章",
+      "path": "Templates/Template - 文章.md"
+    },
+    {
+      "basename": "Template - Bike",
+      "path": "Templates/Template - Bike.md"
+    },
+    {
+      "basename": "Pasted image 20231012134419",
+      "path": "Sources/Pasted image 20231012134419.png"
     },
     {
       "basename": "临床应用伤寒论解说",
       "path": "临床应用伤寒论解说.md"
+    },
+    {
+      "basename": "十二经络歌诀",
+      "path": "十二经络歌诀.md"
     },
     {
       "basename": "细辛",
@@ -175,30 +199,6 @@
     {
       "basename": "011 辨少阴病脉症并治法",
       "path": "人纪/011 辨少阴病脉症并治法.md"
-    },
-    {
-      "basename": "147 五味",
-      "path": "人纪/147 五味.md"
-    },
-    {
-      "basename": "黄芩",
-      "path": "黄芩.md"
-    },
-    {
-      "basename": "068 九味羌活汤",
-      "path": "人纪/068 九味羌活汤.md"
-    },
-    {
-      "basename": "044 肝郁气滞证",
-      "path": "人纪/044 肝郁气滞证.md"
-    },
-    {
-      "basename": "152 先煎",
-      "path": "人纪/152 先煎.md"
-    },
-    {
-      "basename": "决明子",
-      "path": "决明子.md"
     }
   ],
   "omittedPaths": [],

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临床应用伤寒论解说.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "279932c84623056d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "十二经络歌诀.md",
+                "file": "Templates/Template - 心智模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "Templates/Template - 心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "Templates/Template - 心智模型.md"
               }
             }
           },
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "Templates/Template - 心智模型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "Templates/Template - 心智模型.md"
               }
             }
           }
@@ -203,9 +190,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "279932c84623056d",
+  "active": "afb26dd2ba6f2019",
   "lastOpenFiles": [
+    "Templates/Templates - 论证.md",
+    "Templates/Template - 读书.md",
+    "Templates/Template - 文章.md",
+    "Templates/Template - Bike.md",
+    "Sources/Pasted image 20231012134419.png",
     "临床应用伤寒论解说.md",
+    "十二经络歌诀.md",
     "人纪/细辛.md",
     "人纪/013 辨太阴病脉症并治法.md",
     "人纪/香薷.md",
@@ -214,7 +207,6 @@
     "人纪/桂枝.md",
     "一句话的玩味.md",
     "人纪/014 辨阳明病脉症并治法.md",
-    "十二经络歌诀.md",
     "人纪/099 桑菊饮.md",
     "人纪/105 神农本草经.md",
     "人纪/192 中药十八反十九畏.md",
@@ -227,12 +219,7 @@
     "未命名 1.md",
     "反脆弱.md",
     "人纪/194 中医诊断学.md",
-    "人纪/033 二问汗.md",
-    "人纪/160 香苏散.md",
-    "人纪/162 胸痹心痛短气病脉症并治第九.md",
-    "人纪/183 脏腑辩证.md",
     "Sources/Pasted image 20231012134710.png",
-    "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
     "Sources/Pasted image 20231012105156.png",
