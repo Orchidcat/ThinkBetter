@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - 心智模型.md",
+                "file": "人纪/134 卫气.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template - 心智模型.md",
+                "file": "人纪/134 卫气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - 心智模型.md"
+                "file": "人纪/134 卫气.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - 心智模型.md",
+                "file": "人纪/134 卫气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Template - 心智模型.md"
+                "file": "人纪/134 卫气.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "afb26dd2ba6f2019",
   "lastOpenFiles": [
+    "Templates/Template - 心智模型.md",
     "Templates/Templates - 论证.md",
     "Templates/Template - 读书.md",
     "Templates/Template - 文章.md",
@@ -218,7 +219,6 @@
     "人纪/193 中药学.md",
     "未命名 1.md",
     "反脆弱.md",
-    "人纪/194 中医诊断学.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
