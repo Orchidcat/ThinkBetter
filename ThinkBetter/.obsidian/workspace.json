@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/013 辨太阴病脉症并治法.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/013 辨太阴病脉症并治法.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/013 辨太阴病脉症并治法.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/013 辨太阴病脉症并治法.md"
+                "file": "一句话的玩味.md"
               }
             }
           }
@@ -227,8 +226,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e805437fea5ff742",
+  "active": "8be0875c8c940e66",
   "lastOpenFiles": [
+    "人纪/013 辨太阴病脉症并治法.md",
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "十二经络歌诀.md",
@@ -254,7 +254,6 @@
     "人纪/190 中焦病证.md",
     "人纪/005 八纲辨证.md",
     "人纪/017 柴葛解肌汤.md",
-    "人纪/026 大小青龙汤.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
