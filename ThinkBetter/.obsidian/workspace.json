@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b64779d53b0390c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/099 桑菊饮.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/099 桑菊饮.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/099 桑菊饮.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -193,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/099 桑菊饮.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/099 桑菊饮.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -250,8 +238,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4b64779d53b0390c",
+  "active": "279932c84623056d",
   "lastOpenFiles": [
+    "人纪/099 桑菊饮.md",
     "人纪/105 神农本草经.md",
     "人纪/192 中药十八反十九畏.md",
     "防己黄芪汤.md",
@@ -277,7 +266,6 @@
     "人纪/076 六淫辩证.md",
     "人纪/077 麻黄汤.md",
     "人纪/110 食滞胃脘证.md",
-    "人纪/087 气血辩证.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012133925.png",
