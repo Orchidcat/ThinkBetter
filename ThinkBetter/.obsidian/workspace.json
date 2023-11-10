@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af6dec013059bc61",
+        "id": "8e66c3df07d24b89",
         "type": "tabs",
         "children": [
           {
-            "id": "afb26dd2ba6f2019",
+            "id": "c24ff3945011be1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Templates - 论证.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Templates - 论证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Templates - 论证.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates - 论证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Templates/Templates - 论证.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,11 +179,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "afb26dd2ba6f2019",
+  "active": "c24ff3945011be1e",
   "lastOpenFiles": [
+    "Templates/Templates - 论证.md",
     "Templates/Template - 心智模型.md",
     "人纪/134 卫气.md",
-    "Templates/Templates - 论证.md",
     "Templates/Template - 读书.md",
     "Templates/Template - 文章.md",
     "Templates/Template - Bike.md",
