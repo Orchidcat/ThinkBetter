@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "甘草",
+                "query": "肺",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "42b58fc6abf6f97a",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
