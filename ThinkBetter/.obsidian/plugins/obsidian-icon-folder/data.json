@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "twemoji",
@@ -16,7 +16,10 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "人纪/000 @ 人纪 - Map.canvas": "⚓"
 }

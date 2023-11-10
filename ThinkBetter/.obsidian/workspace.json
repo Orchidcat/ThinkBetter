@@ -70,14 +70,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7197eb054d97e02",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "5dc96816b50898db",
             "type": "leaf",
             "state": {
@@ -107,9 +99,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5a2eccb64c6bcae7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,15 +219,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "flashcards-obsidian:Generate flashcards": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open this week": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open this week": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "42b58fc6abf6f97a",
+  "active": "e805437fea5ff742",
   "lastOpenFiles": [
     "临床应用伤寒论解说.md",
     "人纪/014 辨阳明病脉症并治法.md",
