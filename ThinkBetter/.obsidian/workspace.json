@@ -11,12 +11,8 @@
             "id": "c24ff3945011be1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
