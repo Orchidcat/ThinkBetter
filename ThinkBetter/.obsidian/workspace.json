@@ -11,8 +11,12 @@
             "id": "c24ff3945011be1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名 1.md"
+              }
             }
           },
           {
@@ -126,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "未命名 1.md"
+              }
             }
           }
         ],
@@ -179,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c24ff3945011be1e",
+  "active": "5a2eccb64c6bcae7",
   "lastOpenFiles": [
     "Templates/Templates - 论证.md",
     "Templates/Template - 心智模型.md",
