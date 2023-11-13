@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfcf9ae1a53a75e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "清燥救肺汤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f999cf34dbd448b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/101 上焦病证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -78,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "气分",
+                "query": "肌肉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -213,15 +190,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
+    "清燥救肺汤.md",
+    "人纪/101 上焦病证.md",
+    "人纪/166 血证论.md",
+    "人纪/004 金匮要略.md",
+    "人纪/010 辨少阳病脉症并治法.md",
+    "人纪/019 常用8种治法.md",
+    "人纪/097 三问头身.md",
     "中医执业.md",
     "血分.md",
     "气分.md",
-    "人纪/166 血证论.md",
-    "人纪/004 金匮要略.md",
-    "清燥救肺汤.md",
-    "人纪/101 上焦病证.md",
     "临床应用伤寒论解说.md",
     "一句话的玩味.md",
     "未命名 1.md",
@@ -239,9 +219,6 @@
     "辛夷.md",
     "紫苏.md",
     "人纪/桂枝.md",
-    "人纪/014 辨阳明病脉症并治法.md",
-    "人纪/099 桑菊饮.md",
-    "人纪/105 神农本草经.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
