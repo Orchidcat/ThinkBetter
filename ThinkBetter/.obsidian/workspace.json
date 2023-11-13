@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -214,7 +213,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "中医执业.md",
     "血分.md",
