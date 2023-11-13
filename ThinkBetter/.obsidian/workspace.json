@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bfcf9ae1a53a75e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "清燥救肺汤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f999cf34dbd448b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "清燥救肺汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "清燥救肺汤.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "清燥救肺汤.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "清燥救肺汤.md"
               }
             }
           }
@@ -202,10 +215,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "bfcf9ae1a53a75e4",
   "lastOpenFiles": [
-    "人纪/101 上焦病证.md",
     "人纪/166 血证论.md",
+    "清燥救肺汤.md",
+    "人纪/101 上焦病证.md",
     "临床应用伤寒论解说.md",
     "一句话的玩味.md",
     "未命名 1.md",
@@ -230,7 +244,6 @@
     "防己黄芪汤.md",
     "中医执业.md",
     "杂记.md",
-    "人纪/009 辨厥阴病脉症并治法.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
