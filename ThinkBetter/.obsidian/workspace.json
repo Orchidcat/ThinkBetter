@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "中医执业.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四君子",
+                "query": "气分",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -216,8 +215,11 @@
   },
   "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
-    "人纪/004 金匮要略.md",
+    "血分.md",
+    "中医执业.md",
+    "气分.md",
     "人纪/166 血证论.md",
+    "人纪/004 金匮要略.md",
     "清燥救肺汤.md",
     "人纪/101 上焦病证.md",
     "临床应用伤寒论解说.md",
@@ -240,9 +242,6 @@
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/099 桑菊饮.md",
     "人纪/105 神农本草经.md",
-    "人纪/192 中药十八反十九畏.md",
-    "防己黄芪汤.md",
-    "中医执业.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
