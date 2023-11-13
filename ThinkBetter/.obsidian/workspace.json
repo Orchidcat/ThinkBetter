@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7012cf3fc3dfa93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +198,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c24ff3945011be1e",
+  "active": "fe8959ff80662826",
   "lastOpenFiles": [
-    "一句话的玩味.md",
     "临床应用伤寒论解说.md",
+    "一句话的玩味.md",
     "未命名 1.md",
     "Templates/Templates - 论证.md",
     "Templates/Template - 心智模型.md",
