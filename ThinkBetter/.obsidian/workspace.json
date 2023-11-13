@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c24ff3945011be1e",
+            "id": "c7012cf3fc3dfa93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7012cf3fc3dfa93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -198,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe8959ff80662826",
+  "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
     "临床应用伤寒论解说.md",
     "一句话的玩味.md",
