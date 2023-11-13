@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开窍 鼻",
+                "query": "四君子",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,8 +215,9 @@
   },
   "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
-    "清燥救肺汤.md",
+    "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
+    "清燥救肺汤.md",
     "人纪/101 上焦病证.md",
     "临床应用伤寒论解说.md",
     "一句话的玩味.md",
@@ -242,7 +242,6 @@
     "人纪/192 中药十八反十九畏.md",
     "防己黄芪汤.md",
     "中医执业.md",
-    "杂记.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
