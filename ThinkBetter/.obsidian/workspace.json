@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/090 人纪 - 针灸.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/090 人纪 - 针灸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/090 人纪 - 针灸.md"
               }
             }
           }
@@ -204,6 +204,7 @@
   },
   "active": "e328b6a9f3a53008",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "人纪/166 血证论.md",
     "清燥救肺汤.md",
     "人纪/101 上焦病证.md",
@@ -230,7 +231,6 @@
     "人纪/香薷.md",
     "辛夷.md",
     "紫苏.md",
-    "人纪/桂枝.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
