@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芪",
+                "query": "虚",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
