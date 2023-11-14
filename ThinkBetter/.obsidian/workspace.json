@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -189,10 +189,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
-    "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
+    "人纪/004 金匮要略.md",
     "人纪/090 人纪 - 针灸.md",
     "人纪/002 黄帝内经.md",
     "清燥救肺汤.md",
