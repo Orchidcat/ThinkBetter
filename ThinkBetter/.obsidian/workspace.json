@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95dc9f8606eb5e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/107 升降沉浮.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "虚",
+                "query": "牡蛎",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/107 升降沉浮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/107 升降沉浮.md"
               }
             }
           },
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/107 升降沉浮.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/107 升降沉浮.md"
               }
             }
           }
@@ -190,10 +202,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "95dc9f8606eb5e00",
   "lastOpenFiles": [
-    "人纪/002 黄帝内经.md",
     "人纪/166 血证论.md",
+    "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "人纪/090 人纪 - 针灸.md",
     "清燥救肺汤.md",
