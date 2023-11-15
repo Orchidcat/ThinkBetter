@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/099 桑菊饮.md",
+                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/099 桑菊饮.md",
+                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/099 桑菊饮.md"
+                "file": "人纪/078 麻黄杏仁甘草石膏汤.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/099 桑菊饮.md",
+                "file": "人纪/078 麻黄杏仁甘草石膏汤.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/099 桑菊饮.md"
+                "file": "人纪/078 麻黄杏仁甘草石膏汤.md"
               }
             }
           }
@@ -204,6 +204,7 @@
   },
   "active": "95dc9f8606eb5e00",
   "lastOpenFiles": [
+    "人纪/099 桑菊饮.md",
     "人纪/078 麻黄杏仁甘草石膏汤.md",
     "人纪/076 六淫辩证.md",
     "人纪/047 归经.md",
@@ -229,7 +230,6 @@
     "未命名 1.md",
     "Templates/Templates - 论证.md",
     "Templates/Template - 心智模型.md",
-    "人纪/134 卫气.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
