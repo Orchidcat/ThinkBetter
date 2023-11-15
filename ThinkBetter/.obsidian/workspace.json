@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/183 脏腑辩证.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/183 脏腑辩证.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/183 脏腑辩证.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/183 脏腑辩证.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/183 脏腑辩证.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -202,8 +202,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "95dc9f8606eb5e00",
   "lastOpenFiles": [
+    "人纪/183 脏腑辩证.md",
     "人纪/142 问耳目.md",
     "人纪/166 血证论.md",
     "人纪/004 金匮要略.md",
@@ -230,7 +231,6 @@
     "Templates/Template - Bike.md",
     "Sources/Pasted image 20231012134419.png",
     "十二经络歌诀.md",
-    "人纪/细辛.md",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
     "人纪/中药材",
