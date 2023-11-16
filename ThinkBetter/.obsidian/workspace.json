@@ -26,8 +26,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "75b9be397cc44b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扶桑丸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "扶桑丸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "扶桑丸.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "扶桑丸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "扶桑丸.md"
               }
             }
           }
@@ -198,8 +211,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "75b9be397cc44b16",
   "lastOpenFiles": [
+    "扶桑丸.md",
     "人纪/166 血证论.md",
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
@@ -225,7 +239,6 @@
     "中医执业.md",
     "血分.md",
     "气分.md",
-    "临床应用伤寒论解说.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
