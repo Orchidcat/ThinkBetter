@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/068 九味羌活汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/068 九味羌活汤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/068 九味羌活汤.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/068 九味羌活汤.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/068 九味羌活汤.md"
               }
             }
           }
@@ -204,12 +204,14 @@
   },
   "active": "95dc9f8606eb5e00",
   "lastOpenFiles": [
+    "人纪/051 寒湿困脾证.md",
+    "人纪/033 二问汗.md",
+    "人纪/004 金匮要略.md",
     "人纪/078 麻黄杏仁甘草石膏汤.md",
     "人纪/099 桑菊饮.md",
     "人纪/076 六淫辩证.md",
     "人纪/047 归经.md",
     "人纪/005 八纲辨证.md",
-    "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
     "人纪/166 血证论.md",
     "人纪/183 脏腑辩证.md",
@@ -228,8 +230,6 @@
     "临床应用伤寒论解说.md",
     "一句话的玩味.md",
     "未命名 1.md",
-    "Templates/Templates - 论证.md",
-    "Templates/Template - 心智模型.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
