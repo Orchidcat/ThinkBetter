@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "88728a9588397822",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "75b9be397cc44b16",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "扶桑丸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "扶桑丸.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "扶桑丸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "扶桑丸.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -211,7 +196,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "75b9be397cc44b16",
+  "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
     "扶桑丸.md",
     "人纪/166 血证论.md",
