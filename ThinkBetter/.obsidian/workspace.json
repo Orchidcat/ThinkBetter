@@ -84,12 +84,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -124,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           },
           {
@@ -143,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/166 血证论.md"
+              }
             }
           }
         ],
