@@ -13,25 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "学习高手.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75b9be397cc44b16",
+            "id": "67b315513e32e131",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扶桑丸.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/004 金匮要略.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/004 金匮要略.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -201,16 +192,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c7012cf3fc3dfa93",
+  "active": "67b315513e32e131",
   "lastOpenFiles": [
-    "人纪/166 血证论.md",
     "扶桑丸.md",
+    "学习高手.md",
+    "人纪/004 金匮要略.md",
+    "人纪/166 血证论.md",
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
     "人纪/068 九味羌活汤.md",
     "人纪/051 寒湿困脾证.md",
     "人纪/033 二问汗.md",
-    "人纪/004 金匮要略.md",
     "人纪/078 麻黄杏仁甘草石膏汤.md",
     "人纪/099 桑菊饮.md",
     "人纪/076 六淫辩证.md",
@@ -228,7 +220,6 @@
     "人纪/019 常用8种治法.md",
     "中医执业.md",
     "血分.md",
-    "气分.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
