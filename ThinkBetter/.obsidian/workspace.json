@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3c4be26b63c0943",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/122 太阳病证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/122 太阳病证.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/122 太阳病证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/122 太阳病证.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -215,11 +217,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b839e15b6f990100",
+  "active": "a3c4be26b63c0943",
   "lastOpenFiles": [
+    "人纪/122 太阳病证.md",
     "临床应用伤寒论解说.md",
     "学习高手.md",
-    "人纪/122 太阳病证.md",
     "人纪/075 六经辩证.md",
     "人纪/003 伤寒论.md",
     "血分.md",
