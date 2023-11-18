@@ -47,8 +47,12 @@
             "id": "a3c4be26b63c0943",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/126 太阳中风证.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -87,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "伤寒论",
+                "query": "中风",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/126 太阳中风证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/126 太阳中风证.md"
+              }
             }
           },
           {
@@ -164,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/126 太阳中风证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/126 太阳中风证.md"
+              }
             }
           }
         ],
@@ -219,10 +228,10 @@
   },
   "active": "a3c4be26b63c0943",
   "lastOpenFiles": [
+    "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
     "临床应用伤寒论解说.md",
     "学习高手.md",
-    "人纪/075 六经辩证.md",
     "人纪/003 伤寒论.md",
     "血分.md",
     "气分.md",
