@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "附子",
+                "query": "麻黄",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,7 +226,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67b315513e32e131",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/003 伤寒论.md",
     "临床应用伤寒论解说.md",
