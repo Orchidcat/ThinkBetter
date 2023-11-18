@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "麻黄",
+                "query": "桂枝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
