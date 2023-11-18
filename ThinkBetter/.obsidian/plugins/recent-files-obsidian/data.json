@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "122 太阳病证",
+      "path": "人纪/122 太阳病证.md"
+    },
+    {
+      "basename": "临床应用伤寒论解说",
+      "path": "临床应用伤寒论解说.md"
+    },
+    {
+      "basename": "学习高手",
+      "path": "学习高手.md"
+    },
+    {
       "basename": "075 六经辩证",
       "path": "人纪/075 六经辩证.md"
     },
     {
       "basename": "003 伤寒论",
       "path": "人纪/003 伤寒论.md"
-    },
-    {
-      "basename": "临床应用伤寒论解说",
-      "path": "临床应用伤寒论解说.md"
     },
     {
       "basename": "血分",
@@ -27,10 +35,6 @@
     {
       "basename": "扶桑丸",
       "path": "扶桑丸.md"
-    },
-    {
-      "basename": "学习高手",
-      "path": "学习高手.md"
     },
     {
       "basename": "166 血证论",
@@ -195,10 +199,6 @@
     {
       "basename": "防己黄芪汤",
       "path": "防己黄芪汤.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "杂记.md"
     }
   ],
   "omittedPaths": [],
