@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "血分.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "血分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "血分.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "血分.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "血分.md"
               }
             }
           }
@@ -204,9 +204,10 @@
   },
   "active": "67b315513e32e131",
   "lastOpenFiles": [
+    "气分.md",
+    "人纪/004 金匮要略.md",
     "扶桑丸.md",
     "学习高手.md",
-    "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
@@ -229,7 +230,6 @@
     "人纪/010 辨少阳病脉症并治法.md",
     "人纪/019 常用8种治法.md",
     "中医执业.md",
-    "血分.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
