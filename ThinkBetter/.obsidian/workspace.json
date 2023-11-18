@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/126 太阳中风证.md",
+                "file": "临床应用伤寒论解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/126 太阳中风证.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/126 太阳中风证.md",
+                "file": "临床应用伤寒论解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/126 太阳中风证.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           }
@@ -226,8 +226,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a3c4be26b63c0943",
+  "active": "67b315513e32e131",
   "lastOpenFiles": [
+    "人纪/126 太阳中风证.md",
     "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
     "临床应用伤寒论解说.md",
@@ -253,7 +254,6 @@
     "人纪/142 问耳目.md",
     "人纪/006 按诊.md",
     "人纪/107 升降沉浮.md",
-    "人纪/090 人纪 - 针灸.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
