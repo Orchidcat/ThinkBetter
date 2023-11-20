@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bfcc16ef640ec3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "临床应用伤寒论解说.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "临床应用伤寒论解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "临床应用伤寒论解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           }
@@ -238,19 +250,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d89caba9d68fd53",
+  "active": "9bfcc16ef640ec3a",
   "lastOpenFiles": [
     "人纪/004 金匮要略.md",
+    "学习高手.md",
+    "人纪/166 血证论.md",
     "人纪/003 伤寒论.md",
     "临床应用伤寒论解说.md",
     "人纪/126 太阳中风证.md",
     "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
-    "学习高手.md",
     "血分.md",
     "气分.md",
     "扶桑丸.md",
-    "人纪/166 血证论.md",
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
     "人纪/068 九味羌活汤.md",
