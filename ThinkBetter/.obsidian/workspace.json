@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/193 中药学.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "血证论",
+                "query": "饭前",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/193 中药学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/193 中药学.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "人纪/193 中药学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "人纪/193 中药学.md"
               }
             }
           }
@@ -252,9 +252,11 @@
   },
   "active": "9d89caba9d68fd53",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
+    "人纪/175 医案经方.md",
+    "人纪/166 血证论.md",
     "临床应用伤寒论解说.md",
     "气分.md",
-    "人纪/166 血证论.md",
     "人纪/004 金匮要略.md",
     "学习高手.md",
     "人纪/003 伤寒论.md",
@@ -273,11 +275,9 @@
     "人纪/076 六淫辩证.md",
     "人纪/047 归经.md",
     "人纪/005 八纲辨证.md",
-    "人纪/002 黄帝内经.md",
     "人纪/183 脏腑辩证.md",
     "人纪/142 问耳目.md",
     "人纪/006 按诊.md",
-    "人纪/107 升降沉浮.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
