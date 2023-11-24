@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "小建中汤",
+                "query": "甜",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           }
@@ -249,8 +249,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "c7012cf3fc3dfa93",
   "lastOpenFiles": [
+    "人纪/007 半固体型.md",
+    "人纪/148 五问饮食.md",
+    "人纪/173 液体剂型.md",
+    "人纪/201 足太阴脾经.md",
+    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "人纪/065 津液辩证.md",
@@ -272,11 +277,6 @@
     "人纪/077 麻黄汤.md",
     "人纪/068 九味羌活汤.md",
     "人纪/051 寒湿困脾证.md",
-    "人纪/033 二问汗.md",
-    "人纪/078 麻黄杏仁甘草石膏汤.md",
-    "人纪/099 桑菊饮.md",
-    "人纪/076 六淫辩证.md",
-    "人纪/047 归经.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
