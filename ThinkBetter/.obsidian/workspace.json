@@ -8,79 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7012cf3fc3dfa93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/004 金匮要略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67b315513e32e131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/004 金匮要略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b839e15b6f990100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/122 太阳病证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3c4be26b63c0943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/126 太阳中风证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d89caba9d68fd53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/004 金匮要略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bfcc16ef640ec3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "临床应用伤寒论解说.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e4f009cf73cc9b5",
+            "id": "8acfc7be7336cab4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -88,31 +16,19 @@
             }
           },
           {
-            "id": "e893778eca78aefa",
+            "id": "5fdf2f9ade1e3ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记忆框架的建立.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94ff12bbdc21c18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "The Psychology of Money.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "The Psychology of Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md"
+                "file": "The Psychology of Money.md"
               }
             }
           },
@@ -226,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md",
+                "file": "The Psychology of Money.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/012 辨太阳病脉症并治法.md"
+                "file": "The Psychology of Money.md"
               }
             }
           }
@@ -282,13 +198,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "94ff12bbdc21c18f",
+  "active": "5fdf2f9ade1e3ca7",
   "lastOpenFiles": [
+    "The Psychology of Money.md",
+    "人纪/004 金匮要略.md",
+    "人纪/012 辨太阳病脉症并治法.md",
     "人纪/047 归经.md",
     "人纪/026 大小青龙汤.md",
-    "人纪/012 辨太阳病脉症并治法.md",
     "杂记.md",
-    "人纪/004 金匮要略.md",
     "胸痹.md",
     "人纪/128 痰饮水湿.md",
     "人纪/065 津液辩证.md",
@@ -309,7 +226,6 @@
     "临床应用伤寒论解说.md",
     "气分.md",
     "人纪/003 伤寒论.md",
-    "人纪/075 六经辩证.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The Psychology of Money",
+      "path": "The Psychology of Money.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
       "basename": "012 辨太阳病脉症并治法",
       "path": "人纪/012 辨太阳病脉症并治法.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "杂记",
       "path": "杂记.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "胸痹",
@@ -195,10 +199,6 @@
     {
       "basename": "Templates - 论证",
       "path": "Templates/Templates - 论证.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "Templates/Template - 心智模型.md"
     }
   ],
   "omittedPaths": [],
