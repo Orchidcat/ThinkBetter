@@ -98,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94ff12bbdc21c18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记忆框架的建立.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记忆框架的建立.md"
+                "file": "未命名 1.md"
               }
             }
           },
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记忆框架的建立.md",
+                "file": "未命名 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "记忆框架的建立.md"
+                "file": "未命名 1.md"
               }
             }
           }
@@ -270,9 +282,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e893778eca78aefa",
+  "active": "94ff12bbdc21c18f",
   "lastOpenFiles": [
     "记忆框架的建立.md",
+    "未命名 1.md",
     "人纪/126 太阳中风证.md",
     "人纪/004 金匮要略.md",
     "人纪/007 半固体型.md",
@@ -297,7 +310,6 @@
     "扶桑丸.md",
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
-    "人纪/068 九味羌活汤.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
