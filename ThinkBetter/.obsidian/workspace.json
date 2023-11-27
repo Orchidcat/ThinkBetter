@@ -78,9 +78,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e4f009cf73cc9b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e893778eca78aefa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "记忆框架的建立.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/126 太阳中风证.md",
+                "file": "记忆框架的建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/126 太阳中风证.md"
+                "file": "记忆框架的建立.md"
               }
             }
           },
@@ -194,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/126 太阳中风证.md",
+                "file": "记忆框架的建立.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +241,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/126 太阳中风证.md"
+                "file": "记忆框架的建立.md"
               }
             }
           }
@@ -250,8 +270,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a3c4be26b63c0943",
+  "active": "e893778eca78aefa",
   "lastOpenFiles": [
+    "记忆框架的建立.md",
+    "人纪/126 太阳中风证.md",
     "人纪/004 金匮要略.md",
     "人纪/007 半固体型.md",
     "人纪/148 五问饮食.md",
@@ -269,7 +291,6 @@
     "临床应用伤寒论解说.md",
     "气分.md",
     "人纪/003 伤寒论.md",
-    "人纪/126 太阳中风证.md",
     "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
     "血分.md",
@@ -277,7 +298,6 @@
     "人纪/097 三问头身.md",
     "人纪/077 麻黄汤.md",
     "人纪/068 九味羌活汤.md",
-    "人纪/051 寒湿困脾证.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
