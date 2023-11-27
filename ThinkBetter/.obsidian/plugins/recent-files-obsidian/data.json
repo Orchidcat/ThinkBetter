@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "065 津液辩证",
-      "path": "人纪/065 津液辩证.md"
+      "basename": "杂记",
+      "path": "杂记.md"
     },
     {
       "basename": "012 辨太阳病脉症并治法",
       "path": "人纪/012 辨太阳病脉症并治法.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "胸痹",
+      "path": "胸痹.md"
+    },
+    {
+      "basename": "128 痰饮水湿",
+      "path": "人纪/128 痰饮水湿.md"
+    },
+    {
+      "basename": "065 津液辩证",
+      "path": "人纪/065 津液辩证.md"
     },
     {
       "basename": "未命名 1",
@@ -19,10 +35,6 @@
     {
       "basename": "126 太阳中风证",
       "path": "人纪/126 太阳中风证.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "007 半固体型",
@@ -187,18 +199,6 @@
     {
       "basename": "134 卫气",
       "path": "人纪/134 卫气.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "Template - 文章",
-      "path": "Templates/Template - 文章.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "Templates/Template - Bike.md"
     }
   ],
   "omittedPaths": [],
