@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记.md",
+                "file": "人纪/047 归经.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "十枣汤",
+                "query": "止咳",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记.md",
+                "file": "人纪/047 归经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记.md"
+                "file": "人纪/047 归经.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记.md",
+                "file": "人纪/047 归经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "杂记.md"
+                "file": "人纪/047 归经.md"
               }
             }
           }
@@ -284,7 +284,9 @@
   },
   "active": "94ff12bbdc21c18f",
   "lastOpenFiles": [
+    "人纪/026 大小青龙汤.md",
     "人纪/012 辨太阳病脉症并治法.md",
+    "杂记.md",
     "人纪/004 金匮要略.md",
     "胸痹.md",
     "人纪/128 痰饮水湿.md",
@@ -308,8 +310,6 @@
     "人纪/003 伤寒论.md",
     "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
-    "血分.md",
-    "扶桑丸.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
