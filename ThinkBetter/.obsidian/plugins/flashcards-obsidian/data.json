@@ -6,7 +6,7 @@
   "contextSeparator": " > ",
   "deck": "人纪",
   "folderBasedDeck": true,
-  "flashcardsTag": "flashcard",
+  "flashcardsTag": "anki",
   "inlineSeparator": "::",
   "inlineSeparatorReverse": ":::",
   "defaultAnkiTag": "obsidian",
