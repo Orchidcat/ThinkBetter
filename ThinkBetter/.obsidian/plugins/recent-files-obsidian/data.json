@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "Templates/Template - 日记.md"
+    },
+    {
       "basename": "The Psychology of Money",
       "path": "The Psychology of Money.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "中医执业",
       "path": "中医执业.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "Templates - 论证",
-      "path": "Templates/Templates - 论证.md"
     }
   ],
   "omittedPaths": [],
