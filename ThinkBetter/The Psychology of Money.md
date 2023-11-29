@@ -29,6 +29,10 @@ Date: 2023-11-27
 - There is no reason to risk what you have and need for what you don’t have and don’t need.---- Warren Buffett
   
   
+  
+  
+  
+  
 
 
 
