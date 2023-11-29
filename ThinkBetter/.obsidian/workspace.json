@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "发热",
+                "query": "犀角",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -227,7 +227,9 @@
   },
   "active": "8acfc7be7336cab4",
   "lastOpenFiles": [
+    "人纪/099 桑菊饮.md",
     "人纪/089 人纪 - 神农本草经.md",
+    "人纪/002 黄帝内经.md",
     "人纪/193 中药学.md",
     "人纪/073 另煎.md",
     "人纪/019 常用8种治法.md",
@@ -249,10 +251,8 @@
     "人纪/148 五问饮食.md",
     "人纪/173 液体剂型.md",
     "人纪/201 足太阴脾经.md",
-    "人纪/002 黄帝内经.md",
     "人纪/101 上焦病证.md",
     "学习高手.md",
-    "人纪/175 医案经方.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
