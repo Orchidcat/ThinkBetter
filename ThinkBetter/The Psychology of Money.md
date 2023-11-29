@@ -32,7 +32,7 @@ Date: 2023-11-27
   2. Social comparison is the problem here.
   3. “Enough” is not too little.
   4. There are many things never worth risking, no matter the potential gain.
-     声誉，自由等
+     声誉，自由，家庭，朋友等
 
 
 
