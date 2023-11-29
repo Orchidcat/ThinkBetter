@@ -28,11 +28,11 @@ Date: 2023-11-27
 - focus more on broad patterns and focus less on specific individuals.
 - **There is no reason to risk what you have and need for what you don’t have and don’t need.---- Warren Buffett**
   
-  
-  The hardest financial skill is getting the goalpost to stop moving.
-  
-  
-  
+  1. The hardest financial skill is getting the goalpost to stop moving.
+  2. Social comparison is the problem here.
+    
+    
+    
 
 
 
