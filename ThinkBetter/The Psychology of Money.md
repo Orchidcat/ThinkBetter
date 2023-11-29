@@ -26,10 +26,10 @@ Date: 2023-11-27
 - The line between bold and reckless can be thin. When we don’t give risk and luck their proper billing it’s often invisible.
 - **Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming.**
 - focus more on broad patterns and focus less on specific individuals.
-- There is no reason to risk what you have and need for what you don’t have and don’t need.---- Warren Buffett
+- **There is no reason to risk what you have and need for what you don’t have and don’t need.---- Warren Buffett**
   
   
-  
+  The hardest financial skill is getting the goalpost to stop moving.
   
   
   
