@@ -23,7 +23,7 @@ Date: 2023-11-27
   个人投资的选择严重依赖于个人历史。
 - 个人有尊严的养老，这一概念是1978年才出现
 - Nothing is as good or as bad as it seems.
-- When we don’t give risk and luck their proper billing it’s often invisible.
+- The line between bold and reckless can be thin. When we don’t give risk and luck their proper billing it’s often invisible.
   
 
 
