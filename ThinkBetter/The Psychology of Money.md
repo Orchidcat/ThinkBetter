@@ -24,6 +24,7 @@ Date: 2023-11-27
 - 个人有尊严的养老，这一概念是1978年才出现
 - Nothing is as good or as bad as it seems.
 - The line between bold and reckless can be thin. When we don’t give risk and luck their proper billing it’s often invisible.
+- **Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming.**
   
 
 
