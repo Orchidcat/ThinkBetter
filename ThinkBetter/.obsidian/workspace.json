@@ -30,32 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "95ef86d9c68c783e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template - 日记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d53344a5f5d50780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template - 读书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "The Psychology of Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "The Psychology of Money.md"
               }
             }
           },
@@ -169,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "The Psychology of Money.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "The Psychology of Money.md"
               }
             }
           }
@@ -225,8 +202,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8acfc7be7336cab4",
+  "active": "5fdf2f9ade1e3ca7",
   "lastOpenFiles": [
+    "Templates/Template - 日记.md",
+    "Templates/Template - 读书.md",
+    "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
     "中医执业.md",
     "人纪/192 中药十八反十九畏.md",
@@ -236,10 +216,7 @@
     "人纪/193 中药学.md",
     "人纪/073 另煎.md",
     "人纪/019 常用8种治法.md",
-    "Templates/Template - 读书.md",
-    "Templates/Template - 日记.md",
     "The Psychology of Money.md",
-    "人纪/004 金匮要略.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/047 归经.md",
     "人纪/026 大小青龙汤.md",
