@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "羚羊角",
+                "query": "发热",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -227,8 +227,8 @@
   },
   "active": "8acfc7be7336cab4",
   "lastOpenFiles": [
-    "人纪/193 中药学.md",
     "人纪/089 人纪 - 神农本草经.md",
+    "人纪/193 中药学.md",
     "人纪/073 另煎.md",
     "人纪/019 常用8种治法.md",
     "Templates/Template - 读书.md",
