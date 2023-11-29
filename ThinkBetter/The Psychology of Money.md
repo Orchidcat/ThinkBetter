@@ -30,6 +30,7 @@ Date: 2023-11-27
   
   1. The hardest financial skill is getting the goalpost to stop moving.
   2. Social comparison is the problem here.
+  3. “Enough” is not too little.
     
     
     
