@@ -11,8 +11,12 @@
             "id": "8acfc7be7336cab4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/089 人纪 - 神农本草经.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -51,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "止咳",
+                "query": "凉血",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template - 读书.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - 读书.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -166,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - 读书.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Template - 读书.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -222,8 +225,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d53344a5f5d50780",
+  "active": "8acfc7be7336cab4",
   "lastOpenFiles": [
+    "人纪/019 常用8种治法.md",
+    "Templates/Template - 读书.md",
     "Templates/Template - 日记.md",
     "The Psychology of Money.md",
     "人纪/004 金匮要略.md",
@@ -248,8 +253,6 @@
     "人纪/193 中药学.md",
     "人纪/175 医案经方.md",
     "人纪/166 血证论.md",
-    "临床应用伤寒论解说.md",
-    "气分.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
