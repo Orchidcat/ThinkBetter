@@ -19,7 +19,9 @@ Date: 2023-11-27
 
 
 
-- Our findings suggest that individual investors’ willingness to bear risk depends on personal history.
+- individual investors’ willingness to bear risk depends on personal history.
+  个人投资的选择严重依赖于个人历史。
+- 
 
 
 
