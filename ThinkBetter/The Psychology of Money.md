@@ -25,7 +25,8 @@ Date: 2023-11-27
 - Nothing is as good or as bad as it seems.
 - The line between bold and reckless can be thin. When we don’t give risk and luck their proper billing it’s often invisible.
 - **Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming.**
-- focus more on broad patterns and focus less on specific individuals
+- focus more on broad patterns and focus less on specific individuals.
+- If you risk something that is important to you for something that is unimportant to you, it just does not make any sense.---- Warren Buffett
   
 
 
