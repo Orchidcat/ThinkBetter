@@ -37,6 +37,9 @@ Good investing is not necessarily about make good decisions. it's about consiste
 
 
 Getting money requires taking risks, being optimistic, and putting yourself out there. But keeping money is different strategy. Compounding works. **Time**
+The Survival mindset
+1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
+2. 
 
 
 
