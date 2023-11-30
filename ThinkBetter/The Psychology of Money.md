@@ -40,6 +40,7 @@ Getting money requires taking risks, being optimistic, and putting yourself out 
 The Survival mindset
 1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
 2. <mark style="background: #FF5582A6;">Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.</mark>
+3. 
 
 
 
