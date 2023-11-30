@@ -42,7 +42,7 @@ The Survival mindset
 2. <mark style="background: #FF5582A6;">Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.</mark>A plan is only useful if it can survive reality.
 3. optimistic about the future, but paranoid about what will prevent you from getting to the future—is vital. Growth amid loss.
 
-大多数上市公司将失去其大部分的价值，最终也无法恢复。这样的比例高达70%，只有7%左右的公司得以盈利。
+大多数上市公司将失去其大部分的价值，最终也无法恢复。这样的比例高达70%，只有7%左右的公司得以盈利。并且这少数的7%仍然有很长的 <mark style="background: #FFB8EBA6;">tail events</mark> 。
 
 
 
