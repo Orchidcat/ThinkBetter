@@ -50,6 +50,7 @@ no one makes good decisions all the time.
 
 Controlling your time is the highest dividend money pays.
 
+Having a strong sense of controlling one’s life is a more dependable predictor of positive feelings of wellbeing than any of the objective conditions of life we have considered.
 
 
 
