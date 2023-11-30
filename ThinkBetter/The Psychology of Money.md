@@ -44,6 +44,7 @@ The Survival mindset
 
 大多数上市公司将失去其大部分的价值，最终也无法恢复。这样的比例高达70%，只有7%左右的公司得以盈利。并且这少数的7%仍然有很长的 <mark style="background: #FFB8EBA6;">tail events</mark> 。
 
+no one makes good decisions all the time.
 
 
 
