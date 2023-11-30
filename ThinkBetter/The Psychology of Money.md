@@ -46,7 +46,7 @@ The Survival mindset
 
 no one makes good decisions all the time.
 
-一些反直觉的，
+一些反直觉的，投资不是一直在盈利区，反而是要部分投入在风险区。
 
 
 
