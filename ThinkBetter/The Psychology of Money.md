@@ -30,7 +30,7 @@ Date: 2023-11-27
 
 
 
-Good investing isn't necessarily about earning the highest returns , 
+Good investing isn't necessarily about earning the highest returns , It's about pretty good returns which can be repeated for the longest period of time.
 
 
 
