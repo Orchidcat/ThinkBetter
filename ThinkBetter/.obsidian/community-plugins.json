@@ -43,5 +43,6 @@
   "multi-column-markdown",
   "optimize-canvas-connections",
   "obsidian-plugin-toc",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "highlightr-plugin"
 ]
