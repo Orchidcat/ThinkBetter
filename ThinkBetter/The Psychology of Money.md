@@ -46,6 +46,8 @@ The Survival mindset
 
 no one makes good decisions all the time.
 
+一些反直觉的，
+
 
 
 
