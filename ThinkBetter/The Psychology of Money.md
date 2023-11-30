@@ -36,7 +36,7 @@ Good investing is not necessarily about make good decisions. it's about consiste
 
 
 
-Getting money requires taking risks, being optimistic, and putting yourself out there.
+Getting money requires taking risks, being optimistic, and putting yourself out there.But keeping money is different tragi
 
 
 
