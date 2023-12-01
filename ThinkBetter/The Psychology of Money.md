@@ -61,6 +61,7 @@ that wealth is what you don’t see.
 想成为亿万富翁，通常考虑的是花掉亿万，这正好与成为亿万富翁相反。（财富的定义是不乱花钱）
 
 
+Wealth vs Rich
 
 
 
