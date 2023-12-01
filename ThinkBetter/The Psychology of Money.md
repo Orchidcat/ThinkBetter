@@ -53,7 +53,10 @@ Controlling your time is the highest dividend money pays.
 Having a strong sense of controlling one’s life is a more dependable predictor of positive feelings of wellbeing than any of the objective conditions of life we have considered.
 
 
-好车名表并不能让你对持有他们的人表达敬意。相反，你在看到这些东西的时候，想到的是自己拥有它时候的
+好车名表并不能让你对持有他们的人表达敬意。相反，你在看到这些东西的时候，想到的是自己拥有它时候的样子。 
+
+
+
 
 
 
