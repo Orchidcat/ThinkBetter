@@ -64,6 +64,7 @@ that wealth is what you don’t see.
 Wealth vs Rich
 
 Wealth is income， rich is outcome.
+have money is not to spend money.
 
 
 
