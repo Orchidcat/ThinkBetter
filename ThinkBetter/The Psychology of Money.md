@@ -57,7 +57,7 @@ Having a strong sense of controlling one’s life is a more dependable predictor
 
 
 
-
+that wealth is what you don’t see.
 
 
 
