@@ -72,7 +72,7 @@ have money is not to spend money. restraint it takes to actually be wealthy.
 学会使用更少的钱来创造快乐，将会在你拥有和你想要中间创造出一个间隙。这个间隙就是你能控制的范围。
 
 
-
+That flexibility and control over your time is an unseen return on wealth.
 
 
 
