@@ -89,7 +89,7 @@ The most important driver of anything tied to money is the stories people tell t
 
 经验比预测能力更容易导致过度自信。
 
-
+安全边际的目的是使预测变得不必要。——Benjamin Graham
 
 
 
