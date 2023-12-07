@@ -80,6 +80,7 @@ That flexibility and control over your time is an unseen return on wealth.
 
 
 预测本身是合乎人性的合理行为，但其本身的预测结果并非理性。
+历史是对变化的研究，讽刺的是，它被用作未来的地图
 
 
 
