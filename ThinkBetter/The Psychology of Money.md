@@ -77,6 +77,8 @@ That flexibility and control over your time is an unseen return on wealth.
 
 
 学术金融致力于寻找数学上最优的投资策略。而现实情况是人们在寻找的并非数学上的最优投资策略。
+1. 尽量减少将来的遗憾
+2. 
 
 
 
