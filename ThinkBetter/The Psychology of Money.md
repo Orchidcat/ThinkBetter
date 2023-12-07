@@ -76,7 +76,7 @@ That flexibility and control over your time is an unseen return on wealth.
 
 
 
-
+学术金融致力于寻找数学上最优的投资策略。而现实情况
 
 
 
