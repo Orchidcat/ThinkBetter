@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "毒",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,12 +84,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Psychology of Money.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Psychology of Money.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -200,16 +198,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "homepage:Open homepage": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "5fdf2f9ade1e3ca7",
+  "active": "8acfc7be7336cab4",
   "lastOpenFiles": [
-    "Templates/Template - 日记.md",
-    "Templates/Template - 读书.md",
     "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
+    "人纪/076 六淫辩证.md",
+    "The Psychology of Money.md",
+    "Templates/Template - 日记.md",
+    "Templates/Template - 读书.md",
     "中医执业.md",
     "人纪/192 中药十八反十九畏.md",
     "人纪/166 血证论.md",
@@ -218,7 +217,6 @@
     "人纪/193 中药学.md",
     "人纪/073 另煎.md",
     "人纪/019 常用8种治法.md",
-    "The Psychology of Money.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/047 归经.md",
     "人纪/026 大小青龙汤.md",
@@ -231,7 +229,6 @@
     "人纪/126 太阳中风证.md",
     "人纪/007 半固体型.md",
     "人纪/148 五问饮食.md",
-    "人纪/173 液体剂型.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
