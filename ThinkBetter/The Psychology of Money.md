@@ -87,7 +87,7 @@ That flexibility and control over your time is an unseen return on wealth.
 The most important driver of anything tied to money is the stories people tell themselves and the preferences they have for goods and services. Those things don’t tend to sit still. They change with culture and generation. They’re always changing and always will.
 
 
-
+经验比预测能力更容易导致过度自信。
 
 
 
