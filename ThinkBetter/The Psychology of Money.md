@@ -84,6 +84,8 @@ That flexibility and control over your time is an unseen return on wealth.
 **历史可以做什么，校准期望，研究哪里容易出现问题，提供一个粗略的指导**。
 
 
+The most important driver of anything tied to money is the stories people tell themselves and the preferences they have for goods and services. Those things don’t tend to sit still. They change with culture and generation. They’re always changing and always will.
+
 
 
 
