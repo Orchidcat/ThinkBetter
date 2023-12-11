@@ -93,7 +93,7 @@ The most important driver of anything tied to money is the stories people tell t
 
 
 在做一个长期决定时，应该考虑的：
-1.避免财务规划的极端结果
+1.避免财务规划的极端结果；当给一个计划，几年或者几十年的增长时，将会是一个比较好的过程。
 
 
 
