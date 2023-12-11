@@ -92,7 +92,8 @@ The most important driver of anything tied to money is the stories people tell t
 安全边际的目的是使预测变得不必要。——Benjamin Graham
 
 
-
+在做一个长期决定时，应该考虑的：
+1.
 
 
 
