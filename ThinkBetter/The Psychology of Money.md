@@ -102,5 +102,6 @@ The most important driver of anything tied to money is the stories people tell t
 
 Every job looks easy when you’re not the one doing it.
 
-
+**泡沫是如何形成的**：
+金融的一条铁律是，金钱追求最大程度的回报。如果一种资产有动量——它在一段时间内持续上涨——一群短线交易者认为它会继续上涨并不疯狂。不是无限期的;只是在他们需要的短时间内。动量以一种合理的方式吸引短线交易者。然后就开始比赛了。  当短期回报的势头吸引了足够多的资金，投资者的构成从以长期为主转向以短期为主时，泡沫就形成了。
 
