@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "针灸甲乙经",
+      "path": "人纪/针灸甲乙经.md"
+    },
+    {
       "basename": "004 金匮要略",
       "path": "人纪/004 金匮要略.md"
     },
     {
-      "basename": "002 黄帝内经",
-      "path": "人纪/002 黄帝内经.md"
-    },
-    {
       "basename": "The Psychology of Money",
       "path": "The Psychology of Money.md"
+    },
+    {
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
     },
     {
       "basename": "166 血证论",
@@ -195,10 +199,6 @@
     {
       "basename": "107 升降沉浮",
       "path": "人纪/107 升降沉浮.md"
-    },
-    {
-      "basename": "090 人纪 - 针灸",
-      "path": "人纪/090 人纪 - 针灸.md"
     }
   ],
   "omittedPaths": [],
