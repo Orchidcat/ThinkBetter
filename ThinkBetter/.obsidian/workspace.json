@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8acfc7be7336cab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/166 血证论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "25057c09a7ed63de",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
