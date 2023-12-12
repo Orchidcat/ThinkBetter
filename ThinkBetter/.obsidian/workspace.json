@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Psychology of Money.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Psychology of Money.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Psychology of Money.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           }
@@ -192,9 +192,11 @@
   },
   "active": "25057c09a7ed63de",
   "lastOpenFiles": [
+    "+Home.md",
+    "The Psychology of Money.md",
+    "+HomeMOC.md",
     "人纪/针灸甲乙经.md",
     "人纪/004 金匮要略.md",
-    "The Psychology of Money.md",
     "人纪/002 黄帝内经.md",
     "人纪/166 血证论.md",
     "人纪/076 六淫辩证.md",
@@ -216,8 +218,6 @@
     "人纪/065 津液辩证.md",
     "未命名 1.md",
     "记忆框架的建立.md",
-    "人纪/126 太阳中风证.md",
-    "人纪/007 半固体型.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
