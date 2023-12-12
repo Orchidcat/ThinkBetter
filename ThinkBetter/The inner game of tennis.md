@@ -2,7 +2,7 @@
 author: W.Timothy Gallwey
 tags:
   - Book
-type: 一旦我们开始深思熟虑，将非语言的东西概念化，原始的无意识状态就会因思想的介入而变异
+type: 一旦我们开始深思熟虑，将非语言的东西概念化，原始的无意识状态就会因思想的介入而变异（daoji）
 startDate: 2023-10-08
 endDate: 
 rating:
