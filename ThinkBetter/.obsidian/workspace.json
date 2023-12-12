@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "The Psychology of Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "The Psychology of Money.md"
               }
             }
           },
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "The Psychology of Money.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "The Psychology of Money.md"
               }
             }
           }
@@ -215,11 +214,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4e02f7f58c2088e9",
+  "active": "f677b75aa6e4019e",
   "lastOpenFiles": [
-    "The Psychology of Money.md",
     "临床应用伤寒论解说.md",
     "阅读与书籍 MOC.md",
+    "The Psychology of Money.md",
     "The inner game of tennis.md",
     "佐藤可士和的超整理术.md",
     "美国华人史.md",
