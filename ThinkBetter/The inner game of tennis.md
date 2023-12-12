@@ -2,7 +2,7 @@
 author: W.Timothy Gallwey
 tags:
   - Book
-type: 一旦我们开始深思熟虑，将非语言的东西概念化，原始的无意识状态就会因思想的介入而变异（<mark style="background: #FF5582A6;">知行合一</mark>）
+type: 一旦我们开始深思熟虑，将非语言的东西概念化，原始的无意识状态就会因思想的介入而变异（知行合一）
 startDate: 2023-10-08
 endDate: 
 rating:
