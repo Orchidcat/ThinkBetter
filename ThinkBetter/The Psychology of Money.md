@@ -1,8 +1,8 @@
 ---
 author: 何柳
 tags: ['Book']
-type: 
-startDate: 
+type: Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
+startDate: 2022-12-01
 endDate: 
 rating:
 ---

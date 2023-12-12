@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25057c09a7ed63de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读与书籍 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f677b75aa6e4019e",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad55455d763fff35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读与书籍 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +203,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25057c09a7ed63de",
+  "active": "ad55455d763fff35",
   "lastOpenFiles": [
     "The Psychology of Money.md",
     "阅读与书籍 MOC.md",
