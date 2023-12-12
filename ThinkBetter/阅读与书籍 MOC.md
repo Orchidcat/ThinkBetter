@@ -25,7 +25,7 @@ list startDate+author + rating  from #UnReadBook
 
 
 ```dataview
-table type as "描述" ,file.cday from #Book 
+table type as "描述" ,file.cday.year from #Book 
 sort startDate desc
 ```
 
