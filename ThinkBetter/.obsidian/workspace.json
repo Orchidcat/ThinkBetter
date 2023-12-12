@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咳嗽",
+                "query": "肌肉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -226,7 +225,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25057c09a7ed63de",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/针灸甲乙经.md",
     "人纪/004 金匮要略.md",
