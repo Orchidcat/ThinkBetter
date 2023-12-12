@@ -5,12 +5,16 @@
       "path": "阅读与书籍 MOC.md"
     },
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "美国华人史",
+      "path": "美国华人史.md"
     },
     {
       "basename": "The Psychology of Money",
       "path": "The Psychology of Money.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "+HomeMOC",
@@ -195,10 +199,6 @@
     {
       "basename": "005 八纲辨证",
       "path": "人纪/005 八纲辨证.md"
-    },
-    {
-      "basename": "183 脏腑辩证",
-      "path": "人纪/183 脏腑辩证.md"
     }
   ],
   "omittedPaths": [],
