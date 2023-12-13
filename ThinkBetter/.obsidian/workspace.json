@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "皇汉医学.md",
+                "file": "临床应用伤寒论解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "皇汉医学.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "皇汉医学.md",
+                "file": "临床应用伤寒论解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "皇汉医学.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           }
@@ -203,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4f76996cc74eacc5",
+  "active": "1953dd1e53d4150f",
   "lastOpenFiles": [
     "皇汉医学.md",
     "临床应用伤寒论解说.md",
