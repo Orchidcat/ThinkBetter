@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 3.md",
+                "file": "有效写作-史蒂文平克的见解.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 3.md",
+                "file": "有效写作-史蒂文平克的见解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 3.md"
+                "file": "有效写作-史蒂文平克的见解.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 3.md",
+                "file": "有效写作-史蒂文平克的见解.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名 3.md"
+                "file": "有效写作-史蒂文平克的见解.md"
               }
             }
           }
@@ -236,7 +237,7 @@
   },
   "active": "665b7d8a2dbdaea5",
   "lastOpenFiles": [
-    "未命名 3.md",
+    "有效写作-史蒂文平克的见解.md",
     "如何停止在不重要的细节上浪费时间.md",
     "阅读与书籍 MOC.md",
     "活法.md",
