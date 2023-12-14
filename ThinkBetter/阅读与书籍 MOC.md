@@ -32,7 +32,10 @@ sort file.cday.year desc,file.cday.month desc
 
 
 ```dataview
-table desc as "描述", date as "开始日期" from #articles 
+table desc as "描述", [date as "开始日期"](<file.cday.year as "年",file.cday.month as "月">) from #articles 
+from #Book 
+where file.cday.year=2023
+sort file.cday.year desc,file.cday.month desc
 sort date desc
 ```
 
