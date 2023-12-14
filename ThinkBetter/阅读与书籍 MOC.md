@@ -39,5 +39,5 @@ sort file.cday.year desc,file.cday.month desc
 
 
 ```dataview
-table type as "描述",file.cday.year as "年",file.cday.month as "月" from #Speeches 
+table file.cday.year as "年",file.cday.month as "月" from #Speeches 
 ```
