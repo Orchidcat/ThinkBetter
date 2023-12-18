@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何阅读的方法.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肌肉",
+                "query": "甘草干姜",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何阅读的方法.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何阅读的方法.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何阅读的方法.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "如何阅读的方法.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -238,10 +238,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b356aba2644095c",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "有效写作-史蒂文平克的见解.md",
+    "人纪/004 金匮要略.md",
     "如何阅读的方法.md",
+    "有效写作-史蒂文平克的见解.md",
     "阅读与书籍 MOC.md",
     "我们现在怎样做父亲.md",
     "如何停止在不重要的细节上浪费时间.md",
@@ -256,7 +257,6 @@
     "+Home.md",
     "+HomeMOC.md",
     "人纪/针灸甲乙经.md",
-    "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
     "人纪/166 血证论.md",
     "人纪/076 六淫辩证.md",
