@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5daa5d342159cf88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "665b7d8a2dbdaea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有效写作-史蒂文平克的见解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0e0e1b98eaecb42",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
