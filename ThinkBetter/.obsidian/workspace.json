@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "风格感觉.md",
+                "file": "人纪/157 相使.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五味子",
+                "query": "枸杞",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "风格感觉.md",
+                "file": "人纪/157 相使.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "风格感觉.md"
+                "file": "人纪/157 相使.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "风格感觉.md",
+                "file": "人纪/157 相使.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "风格感觉.md"
+                "file": "人纪/157 相使.md"
               }
             }
           }
@@ -192,9 +191,10 @@
   },
   "active": "c0e0e1b98eaecb42",
   "lastOpenFiles": [
-    "有效写作-史蒂文平克的见解.md",
-    "风格感觉.md",
+    "人纪/147 五味.md",
     "人纪/089 人纪 - 神农本草经.md",
+    "风格感觉.md",
+    "有效写作-史蒂文平克的见解.md",
     "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
     "人纪/012 辨太阳病脉症并治法.md",
@@ -217,7 +217,6 @@
     "人纪/076 六淫辩证.md",
     "Templates/Template - 日记.md",
     "Templates/Template - 读书.md",
-    "中医执业.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
