@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "风格感觉.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "风格感觉.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "风格感觉.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "风格感觉.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           }
@@ -215,12 +215,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c807fe3a0d4ac6ed",
+  "active": "1ea42eee958d1e9c",
   "lastOpenFiles": [
+    "风格感觉.md",
     "阅读与书籍 MOC.md",
     "如何阅读的方法.md",
     "The Psychology of Money.md",
-    "风格感觉.md",
     "+Home.md",
     "皇汉医学.md",
     "+HomeMOC.md",
