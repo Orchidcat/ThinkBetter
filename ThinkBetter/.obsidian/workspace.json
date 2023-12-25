@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/087 气血辩证.md",
+                "file": "气血学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/087 气血辩证.md",
+                "file": "气血学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/087 气血辩证.md"
+                "file": "气血学习.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/087 气血辩证.md",
+                "file": "气血学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/087 气血辩证.md"
+                "file": "气血学习.md"
               }
             }
           }
@@ -216,6 +217,8 @@
   },
   "active": "6cf5f2a8eb99e6de",
   "lastOpenFiles": [
+    "人纪/087 气血辩证.md",
+    "气血学习.md",
     "人纪/166 血证论.md",
     "人纪/082 脾不统血证.md",
     "超速学习.md",
@@ -241,8 +244,6 @@
     "人纪/147 五味.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
-    "人纪/012 辨太阳病脉症并治法.md",
-    "如何停止在不重要的细节上浪费时间.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
