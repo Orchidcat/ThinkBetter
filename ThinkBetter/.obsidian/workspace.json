@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "超速学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "风格感觉.md",
+                "file": "超速学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "风格感觉.md"
+                "file": "超速学习.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "风格感觉.md",
+                "file": "超速学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "风格感觉.md"
+                "file": "超速学习.md"
               }
             }
           }
@@ -202,12 +202,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c807fe3a0d4ac6ed",
+  "active": "1ea42eee958d1e9c",
   "lastOpenFiles": [
     "阅读与书籍 MOC.md",
+    "风格感觉.md",
     "人纪/157 相使.md",
     "有效写作-史蒂文平克的见解.md",
-    "风格感觉.md",
     "如何阅读的方法.md",
     "The Psychology of Money.md",
     "+Home.md",
