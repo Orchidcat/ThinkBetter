@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "拖延.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "拖延.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "拖延.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "超速学习.md"
+                "file": "拖延.md"
               }
             }
           }
@@ -190,8 +190,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ea42eee958d1e9c",
+  "active": "51ab515c36db9c2b",
   "lastOpenFiles": [
+    "超速学习.md",
     "阅读与书籍 MOC.md",
     "风格感觉.md",
     "人纪/157 相使.md",
