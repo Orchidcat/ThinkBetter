@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c5ad08fb3b71205",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/166 血证论.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,8 +193,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1d8b7c1b019cc4f5",
+  "active": "3c5ad08fb3b71205",
   "lastOpenFiles": [
+    "人纪/166 血证论.md",
     "超速学习.md",
     "第一性原理.md",
     "如何成功实验.md",
@@ -215,7 +219,6 @@
     "人纪/147 五味.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
-    "人纪/166 血证论.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "如何停止在不重要的细节上浪费时间.md",
     "我们现在怎样做父亲.md",
