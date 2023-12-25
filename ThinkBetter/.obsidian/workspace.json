@@ -23,8 +23,12 @@
             "id": "3c5ad08fb3b71205",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/082 脾不统血证.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -121,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/082 脾不统血证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/082 脾不统血证.md"
+              }
             }
           },
           {
@@ -140,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/082 脾不统血证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/082 脾不统血证.md"
+              }
             }
           }
         ],
