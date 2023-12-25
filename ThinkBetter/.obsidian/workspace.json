@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "气血学习.md",
+                "file": "人纪/082 脾不统血证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "气血学习.md"
+                "file": "人纪/082 脾不统血证.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "气血学习.md",
+                "file": "人纪/082 脾不统血证.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "气血学习.md"
+                "file": "人纪/082 脾不统血证.md"
               }
             }
           }
@@ -215,10 +215,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6cf5f2a8eb99e6de",
+  "active": "3c5ad08fb3b71205",
   "lastOpenFiles": [
-    "人纪/082 脾不统血证.md",
     "气血学习.md",
+    "人纪/082 脾不统血证.md",
     "人纪/087 气血辩证.md",
     "人纪/166 血证论.md",
     "超速学习.md",
