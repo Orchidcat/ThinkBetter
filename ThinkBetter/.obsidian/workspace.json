@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/082 脾不统血证.md",
+                "file": "气血学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/082 脾不统血证.md"
+                "file": "气血学习.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/082 脾不统血证.md",
+                "file": "气血学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/082 脾不统血证.md"
+                "file": "气血学习.md"
               }
             }
           }
@@ -215,12 +215,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c5ad08fb3b71205",
+  "active": "6cf5f2a8eb99e6de",
   "lastOpenFiles": [
-    "气血学习.md",
-    "人纪/082 脾不统血证.md",
-    "人纪/087 气血辩证.md",
     "人纪/166 血证论.md",
+    "人纪/082 脾不统血证.md",
+    "气血学习.md",
+    "人纪/087 气血辩证.md",
     "超速学习.md",
     "第一性原理.md",
     "如何成功实验.md",
