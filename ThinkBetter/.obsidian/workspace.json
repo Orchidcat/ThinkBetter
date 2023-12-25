@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拖延.md",
+                "file": "分心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拖延.md"
+                "file": "分心.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拖延.md",
+                "file": "分心.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "拖延.md"
+                "file": "分心.md"
               }
             }
           }
@@ -190,9 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "51ab515c36db9c2b",
+  "active": "1c03c4d65e3d09cf",
   "lastOpenFiles": [
     "超速学习.md",
+    "拖延.md",
     "阅读与书籍 MOC.md",
     "风格感觉.md",
     "人纪/157 相使.md",
@@ -218,7 +219,6 @@
     "佐藤可士和的超整理术.md",
     "美国华人史.md",
     "人纪/针灸甲乙经.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",

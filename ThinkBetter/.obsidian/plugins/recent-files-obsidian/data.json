@@ -5,6 +5,10 @@
       "path": "超速学习.md"
     },
     {
+      "basename": "拖延",
+      "path": "拖延.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "175 医案经方",
       "path": "人纪/175 医案经方.md"
-    },
-    {
-      "basename": "气分",
-      "path": "气分.md"
     }
   ],
   "omittedPaths": [],
