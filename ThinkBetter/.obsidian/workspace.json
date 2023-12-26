@@ -54,41 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2b9e03a44fe46b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/079 脉诊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a6667e3b9d2f62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉诊学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "473faccad119f55f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/036 浮脉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/036 浮脉.md"
+              }
             }
           },
           {
@@ -199,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/036 浮脉.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/036 浮脉.md"
+              }
             }
           }
         ],
@@ -252,17 +226,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "473faccad119f55f",
+  "active": "c3190892490af37c",
   "lastOpenFiles": [
+    "人纪/079 脉诊.md",
+    "气血学习.md",
+    "脉诊学习.md",
     "人纪/195 子午流注.md",
     "人纪/204 zy-总论.md",
     "人纪/002 黄帝内经.md",
-    "人纪/079 脉诊.md",
-    "脉诊学习.md",
     "人纪/036 浮脉.md",
     "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
-    "气血学习.md",
     "人纪/082 脾不统血证.md",
     "Sources/Pasted image 20231226090616.png",
     "人纪/087 气血辩证.md",
