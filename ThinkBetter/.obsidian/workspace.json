@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "疝瘕",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,10 +241,10 @@
   },
   "active": "a2b9e03a44fe46b5",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
     "人纪/036 浮脉.md",
     "脉诊学习.md",
     "人纪/166 血证论.md",
-    "人纪/004 金匮要略.md",
     "气血学习.md",
     "人纪/082 脾不统血证.md",
     "Sources/Pasted image 20231226090616.png",
