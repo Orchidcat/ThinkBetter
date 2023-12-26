@@ -90,9 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "473faccad119f55f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/195 子午流注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/195 子午流注.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,7 +211,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/195 子午流注.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,9 +236,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/195 子午流注.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -262,8 +264,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eeae87a88afe701b",
+  "active": "473faccad119f55f",
   "lastOpenFiles": [
+    "人纪/195 子午流注.md",
     "人纪/204 zy-总论.md",
     "人纪/002 黄帝内经.md",
     "人纪/079 脉诊.md",
@@ -290,7 +293,6 @@
     "有效写作-史蒂文平克的见解.md",
     "如何阅读的方法.md",
     "The Psychology of Money.md",
-    "+Home.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
