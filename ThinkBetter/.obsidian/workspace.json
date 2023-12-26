@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/079 脉诊.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "疝瘕",
+                "query": "六部",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/079 脉诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/079 脉诊.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/079 脉诊.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/079 脉诊.md"
               }
             }
           }
@@ -241,9 +240,9 @@
   },
   "active": "a2b9e03a44fe46b5",
   "lastOpenFiles": [
+    "脉诊学习.md",
     "人纪/004 金匮要略.md",
     "人纪/036 浮脉.md",
-    "脉诊学习.md",
     "人纪/166 血证论.md",
     "气血学习.md",
     "人纪/082 脾不统血证.md",
