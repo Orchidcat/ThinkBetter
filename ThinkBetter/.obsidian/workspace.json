@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -157,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -179,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -235,13 +233,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2b9e03a44fe46b5",
+  "active": "1d8b7c1b019cc4f5",
   "lastOpenFiles": [
-    "Sources/Pasted image 20231226090616.png",
-    "脉诊学习.md",
-    "人纪/166 血证论.md",
     "人纪/082 脾不统血证.md",
     "气血学习.md",
+    "脉诊学习.md",
+    "Sources/Pasted image 20231226090616.png",
+    "人纪/166 血证论.md",
     "人纪/087 气血辩证.md",
     "超速学习.md",
     "第一性原理.md",
@@ -275,7 +273,6 @@
     "Sources/Pasted image 20230920091342.png",
     "Sources/Pasted image 20230920091036.png",
     "人体流转.canvas",
-    "Sources/064F7C83.png",
     "Excalidraw",
     "FromWeb",
     "Canvas 使用学习.canvas",
