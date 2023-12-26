@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "eeae87a88afe701b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/195 子午流注.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "473faccad119f55f",
             "type": "leaf",
             "state": {
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
