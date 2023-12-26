@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a6667e3b9d2f62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脉诊学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeae87a88afe701b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/002 黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -103,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "六部",
+                "query": "表里",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/079 脉诊.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/079 脉诊.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/079 脉诊.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/079 脉诊.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -238,11 +262,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2b9e03a44fe46b5",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/079 脉诊.md",
     "脉诊学习.md",
-    "人纪/004 金匮要略.md",
     "人纪/036 浮脉.md",
+    "人纪/004 金匮要略.md",
     "人纪/166 血证论.md",
     "气血学习.md",
     "人纪/082 脾不统血证.md",
@@ -267,7 +292,6 @@
     "皇汉医学.md",
     "+HomeMOC.md",
     "Sources/Pasted image 20231220091424.png",
-    "人纪/193 中药学.md",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
     "Sources/Pasted image 20231012133925.png",
