@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2e3f588b3584d63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -103,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "筋",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -161,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/002 黄帝内经.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/002 黄帝内经.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -239,8 +240,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76347927123a6620",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "中医执业.md",
     "脉诊学习.md",
@@ -251,7 +253,6 @@
     "人纪/079 脉诊.md",
     "人纪/195 子午流注.md",
     "人纪/204 zy-总论.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20231226090616.png",
     "人纪/087 气血辩证.md",
     "超速学习.md",
