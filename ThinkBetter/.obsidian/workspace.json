@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "中医执业.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "表里",
+                "query": "口渴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "中医执业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "中医执业.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "中医执业.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "中医执业.md"
               }
             }
           }
@@ -228,12 +228,12 @@
   },
   "active": "26fcc0f564703fb0",
   "lastOpenFiles": [
+    "脉诊学习.md",
     "人纪/166 血证论.md",
     "人纪/082 脾不统血证.md",
     "气血学习.md",
     "人纪/036 浮脉.md",
     "人纪/079 脉诊.md",
-    "脉诊学习.md",
     "人纪/195 子午流注.md",
     "人纪/204 zy-总论.md",
     "人纪/002 黄帝内经.md",
