@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/004 金匮要略.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76347927123a6620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "口渴",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医执业.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "中医执业.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -226,8 +238,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "26fcc0f564703fb0",
+  "active": "76347927123a6620",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
+    "中医执业.md",
     "脉诊学习.md",
     "人纪/166 血证论.md",
     "人纪/082 脾不统血证.md",
@@ -237,7 +251,6 @@
     "人纪/195 子午流注.md",
     "人纪/204 zy-总论.md",
     "人纪/002 黄帝内经.md",
-    "人纪/004 金匮要略.md",
     "Sources/Pasted image 20231226090616.png",
     "人纪/087 气血辩证.md",
     "超速学习.md",
@@ -254,7 +267,6 @@
     "人纪/157 相使.md",
     "有效写作-史蒂文平克的见解.md",
     "如何阅读的方法.md",
-    "The Psychology of Money.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
