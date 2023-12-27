@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "筋",
+                "query": "八风",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -239,7 +238,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2e3f588b3584d63",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
