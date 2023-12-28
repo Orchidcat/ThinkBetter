@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fa9f6d7da4ba566",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,12 +131,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -200,7 +209,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -239,7 +250,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2e3f588b3584d63",
+  "active": "0fa9f6d7da4ba566",
   "lastOpenFiles": [
     "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
