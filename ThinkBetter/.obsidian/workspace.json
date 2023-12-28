@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "0fa9f6d7da4ba566",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
             "id": "9a5c8ca0b62d9eb7",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeizeTheDay.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeizeTheDay.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -204,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeizeTheDay.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +223,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SeizeTheDay.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -262,7 +252,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9a5c8ca0b62d9eb7",
+  "active": "d2e3f588b3584d63",
   "lastOpenFiles": [
     "SeizeTheDay.md",
     "Seize the Day",
