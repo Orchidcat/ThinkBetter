@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58f623b7cfdbcbcf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/004 金匮要略.md"
+              }
             }
           },
           {
@@ -139,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "人纪/004 金匮要略.md"
+              }
             }
           }
         ],
@@ -194,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58f623b7cfdbcbcf",
+  "active": "26fcc0f564703fb0",
   "lastOpenFiles": [
+    "阅读是一座随身携带的避难所.md",
     "人纪/004 金匮要略.md",
     "人纪/002 黄帝内经.md",
     "SeizeTheDay.md",
@@ -223,7 +221,6 @@
     "阅读与书籍 MOC.md",
     "风格感觉.md",
     "人纪/157 相使.md",
-    "有效写作-史蒂文平克的见解.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
