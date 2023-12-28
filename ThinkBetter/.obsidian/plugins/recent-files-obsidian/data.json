@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SeizeTheDay",
+      "path": "SeizeTheDay.md"
+    },
+    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "065 津液辩证",
       "path": "人纪/065 津液辩证.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     }
   ],
   "omittedPaths": [],
