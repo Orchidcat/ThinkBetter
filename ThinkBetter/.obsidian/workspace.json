@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d8b7c1b019cc4f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/166 血证论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c5ad08fb3b71205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/082 脾不统血证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cf5f2a8eb99e6de",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "气血学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "气血学习.md"
               }
             }
           },
@@ -194,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "气血学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "气血学习.md"
               }
             }
           }
@@ -252,11 +227,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2e3f588b3584d63",
+  "active": "6cf5f2a8eb99e6de",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "SeizeTheDay.md",
     "Seize the Day",
-    "人纪/002 黄帝内经.md",
     "人纪/004 金匮要略.md",
     "中医执业.md",
     "脉诊学习.md",
