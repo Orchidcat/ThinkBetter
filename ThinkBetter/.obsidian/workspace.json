@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72ffa6cbc78e31f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "气血学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "气血学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "气血学习.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "气血学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "气血学习.md"
               }
             }
           }
@@ -191,10 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "26fcc0f564703fb0",
+  "active": "72ffa6cbc78e31f2",
   "lastOpenFiles": [
-    "阅读是一座随身携带的避难所.md",
     "人纪/004 金匮要略.md",
+    "阅读是一座随身携带的避难所.md",
     "人纪/002 黄帝内经.md",
     "SeizeTheDay.md",
     "气血学习.md",
