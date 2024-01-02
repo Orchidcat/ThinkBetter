@@ -22,6 +22,18 @@
             "group": "a07a9e5febf076f6"
           },
           {
+            "id": "03962c12d1597a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/脾胃病症.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f3434bb9c361c0ce",
             "type": "leaf",
             "state": {
@@ -263,9 +275,10 @@
   },
   "active": "d95ef92482aeec9d",
   "lastOpenFiles": [
+    "人纪/脾胃病症.md",
+    "人纪/中医内科学.md",
     "人纪/便秘.md",
     "人纪/里急后重.md",
-    "人纪/中医内科学.md",
     "人纪/痢疾.md",
     "人纪/泄泻.md",
     "Sources/Pasted image 20240102103322.png",
@@ -290,7 +303,6 @@
     "脉诊学习.md",
     "人纪/166 血证论.md",
     "人纪/082 脾不统血证.md",
-    "人纪/036 浮脉.md",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",

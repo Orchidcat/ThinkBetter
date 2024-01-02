@@ -5,6 +5,10 @@
       "path": "人纪/中医内科学.md"
     },
     {
+      "basename": "脾胃病症",
+      "path": "人纪/脾胃病症.md"
+    },
+    {
       "basename": "便秘",
       "path": "人纪/便秘.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "临床应用伤寒论解说",
       "path": "临床应用伤寒论解说.md"
-    },
-    {
-      "basename": "The inner game of tennis",
-      "path": "The inner game of tennis.md"
     }
   ],
   "omittedPaths": [],
