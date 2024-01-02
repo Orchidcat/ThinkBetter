@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超速学习.md",
+                "file": "防止忘记.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超速学习.md",
+                "file": "防止忘记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超速学习.md"
+                "file": "防止忘记.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超速学习.md",
+                "file": "防止忘记.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "超速学习.md"
+                "file": "防止忘记.md"
               }
             }
           }
@@ -266,8 +266,8 @@
   },
   "active": "0610b83dcd823416",
   "lastOpenFiles": [
-    "我们是如何衡量学会没有的.md",
     "超速学习.md",
+    "我们是如何衡量学会没有的.md",
     "学习迁移.md",
     "后设学习.md",
     "人纪/真心痛.md",
