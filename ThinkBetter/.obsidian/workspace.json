@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e7084fc8b9a0a605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/呕吐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc563b7e6442dff2",
             "type": "leaf",
             "state": {
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/痞满.md",
+                "file": "人纪/呕吐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/痞满.md"
+                "file": "人纪/呕吐.md"
               }
             }
           },
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/痞满.md",
+                "file": "人纪/呕吐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/痞满.md"
+                "file": "人纪/呕吐.md"
               }
             }
           }
@@ -205,9 +217,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc563b7e6442dff2",
+  "active": "e7084fc8b9a0a605",
   "lastOpenFiles": [
     "人纪/中医内科学.md",
+    "人纪/呕吐.md",
     "人纪/痞满.md",
     "胃痛.md",
     "目标 MOC.md",
@@ -234,7 +247,6 @@
     "超速学习.md",
     "第一性原理.md",
     "如何成功实验.md",
-    "一句话的玩味.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
