@@ -22,6 +22,18 @@
             "group": "a07a9e5febf076f6"
           },
           {
+            "id": "753c55b321d5f989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/心系病症.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "03962c12d1597a7d",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a82ebeb7c486e625",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/中医内科学.md",
+                "file": "人纪/心系病症.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/中医内科学.md"
+                "file": "人纪/心系病症.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/中医内科学.md",
+                "file": "人纪/心系病症.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +257,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/中医内科学.md"
+                "file": "人纪/心系病症.md"
               }
             }
           }
@@ -273,10 +286,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d95ef92482aeec9d",
+  "active": "753c55b321d5f989",
   "lastOpenFiles": [
-    "人纪/脾胃病症.md",
     "人纪/中医内科学.md",
+    "人纪/心系病症.md",
+    "人纪/脾胃病症.md",
     "人纪/便秘.md",
     "人纪/里急后重.md",
     "人纪/痢疾.md",
@@ -302,7 +316,6 @@
     "中医执业.md",
     "脉诊学习.md",
     "人纪/166 血证论.md",
-    "人纪/082 脾不统血证.md",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
