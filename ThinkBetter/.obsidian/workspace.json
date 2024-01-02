@@ -6,7 +6,6 @@
       {
         "id": "b96fff8232404753",
         "type": "tabs",
-        "dimension": 36.191425722831504,
         "children": [
           {
             "id": "d95ef92482aeec9d",
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "a07a9e5febf076f6"
+            }
           },
           {
             "id": "753c55b321d5f989",
@@ -34,86 +32,19 @@
             }
           },
           {
-            "id": "03962c12d1597a7d",
+            "id": "317997e823603ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/脾胃病症.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3434bb9c361c0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/便秘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c624de7aa83af287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/里急后重.md",
+                "file": "人纪/心悸.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "a82ebeb7c486e625",
-        "type": "tabs",
-        "dimension": 63.808574277168496,
-        "children": [
-          {
-            "id": "7229cf6bcbe22060",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "人纪/中医内科学.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224423,
-                  "close": true
-                }
-              }
-            },
-            "group": "a07a9e5febf076f6"
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/心系病症.md",
+                "file": "人纪/心悸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/心系病症.md"
+                "file": "人纪/心悸.md"
               }
             }
           },
@@ -228,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/心系病症.md",
+                "file": "人纪/心悸.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -257,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/心系病症.md"
+                "file": "人纪/心悸.md"
               }
             }
           }
@@ -286,10 +217,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "753c55b321d5f989",
+  "active": "317997e823603ecf",
   "lastOpenFiles": [
-    "人纪/中医内科学.md",
     "人纪/心系病症.md",
+    "人纪/心悸.md",
+    "人纪/中医内科学.md",
     "人纪/脾胃病症.md",
     "人纪/便秘.md",
     "人纪/里急后重.md",
@@ -315,7 +247,6 @@
     "Seize the Day",
     "中医执业.md",
     "脉诊学习.md",
-    "人纪/166 血证论.md",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
