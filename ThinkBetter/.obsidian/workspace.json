@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71e161bc9d75b8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脉诊学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "脉诊学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "脉诊学习.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "脉诊学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "脉诊学习.md"
               }
             }
           }
@@ -240,8 +252,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "61d857ff351d5e64",
+  "active": "71e161bc9d75b8db",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "胸痹.md",
     "人纪/真心痛.md",
     "人纪/心系病症.md",
@@ -268,7 +281,6 @@
     "风格感觉.md",
     "气血学习.md",
     "阅读是一座随身携带的避难所.md",
-    "人纪/002 黄帝内经.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
