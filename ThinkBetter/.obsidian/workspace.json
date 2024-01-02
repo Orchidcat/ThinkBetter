@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/真心痛.md",
+                "file": "胸痹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/真心痛.md"
+                "file": "胸痹.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/真心痛.md",
+                "file": "胸痹.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/真心痛.md"
+                "file": "胸痹.md"
               }
             }
           }
@@ -241,10 +241,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0d6586f6cdb13684",
+  "active": "61d857ff351d5e64",
   "lastOpenFiles": [
-    "人纪/心系病症.md",
     "人纪/真心痛.md",
+    "人纪/心系病症.md",
     "胸痹.md",
     "人纪/胸痹.md",
     "人纪/心悸.md",
