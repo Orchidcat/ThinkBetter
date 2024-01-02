@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习迁移.md",
+                "file": "我们是如何衡量学会没有的.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习迁移.md",
+                "file": "我们是如何衡量学会没有的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习迁移.md"
+                "file": "我们是如何衡量学会没有的.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习迁移.md",
+                "file": "我们是如何衡量学会没有的.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "学习迁移.md"
+                "file": "我们是如何衡量学会没有的.md"
               }
             }
           }
@@ -267,6 +267,7 @@
   "active": "0610b83dcd823416",
   "lastOpenFiles": [
     "超速学习.md",
+    "学习迁移.md",
     "后设学习.md",
     "人纪/真心痛.md",
     "人纪/心系病症.md",
@@ -292,7 +293,6 @@
     "Just Do it - 2024.md",
     "未命名 3.md",
     "人纪/004 金匮要略.md",
-    "+Home.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
