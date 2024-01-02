@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "八风",
+                "query": "吐",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -204,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "72ffa6cbc78e31f2",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "气血学习.md",
     "人纪/004 金匮要略.md",
