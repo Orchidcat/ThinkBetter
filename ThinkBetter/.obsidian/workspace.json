@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a82ebeb7c486e625",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/腹痛.md",
+                "file": "人纪/中医内科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/腹痛.md"
+                "file": "人纪/中医内科学.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/腹痛.md",
+                "file": "人纪/中医内科学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/腹痛.md"
+                "file": "人纪/中医内科学.md"
               }
             }
           }
@@ -250,10 +249,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d0461a70f956d5b0",
+  "active": "d95ef92482aeec9d",
   "lastOpenFiles": [
-    "人纪/中医内科学.md",
     "人纪/腹痛.md",
+    "人纪/中医内科学.md",
     "人纪/呃逆.md",
     "人纪/噎膈.md",
     "人纪/呕吐.md",
