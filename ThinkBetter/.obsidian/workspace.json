@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "胸痹.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "肝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "胸痹.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "胸痹.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胸痹.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "胸痹.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -243,9 +242,9 @@
   },
   "active": "61d857ff351d5e64",
   "lastOpenFiles": [
+    "胸痹.md",
     "人纪/真心痛.md",
     "人纪/心系病症.md",
-    "胸痹.md",
     "人纪/胸痹.md",
     "人纪/心悸.md",
     "人纪/中医内科学.md",
