@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后设学习.md",
+                "file": "学习迁移.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后设学习.md",
+                "file": "学习迁移.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后设学习.md"
+                "file": "学习迁移.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后设学习.md",
+                "file": "学习迁移.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "后设学习.md"
+                "file": "学习迁移.md"
               }
             }
           }
@@ -267,6 +267,7 @@
   "active": "0610b83dcd823416",
   "lastOpenFiles": [
     "超速学习.md",
+    "后设学习.md",
     "人纪/真心痛.md",
     "人纪/心系病症.md",
     "人纪/中医内科学.md",
@@ -292,7 +293,6 @@
     "未命名 3.md",
     "人纪/004 金匮要略.md",
     "+Home.md",
-    "风格感觉.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
