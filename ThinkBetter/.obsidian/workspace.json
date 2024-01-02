@@ -11,8 +11,12 @@
             "id": "d95ef92482aeec9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "中医内科学.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "吐",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,11 +72,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "中医内科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "中医内科学.md"
+              }
             }
           },
           {
@@ -126,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "中医内科学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "中医内科学.md"
+              }
             }
           }
         ],
@@ -183,6 +194,7 @@
   },
   "active": "d95ef92482aeec9d",
   "lastOpenFiles": [
+    "中医内科学.md",
     "目标 MOC.md",
     "Just Do it - 2024.md",
     "未命名 3.md",
@@ -210,7 +222,6 @@
     "一句话的玩味.md",
     "防止忘记.md",
     "我们是如何衡量学会没有的.md",
-    "学习迁移.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",

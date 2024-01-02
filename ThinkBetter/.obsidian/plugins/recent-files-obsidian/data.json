@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "中医内科学",
+      "path": "中医内科学.md"
+    },
+    {
       "basename": "目标 MOC",
       "path": "目标 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "047 归经",
       "path": "人纪/047 归经.md"
-    },
-    {
-      "basename": "026 大小青龙汤",
-      "path": "人纪/026 大小青龙汤.md"
     }
   ],
   "omittedPaths": [],
