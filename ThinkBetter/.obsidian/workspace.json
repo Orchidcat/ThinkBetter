@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/真心痛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/真心痛.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/真心痛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/真心痛.md"
               }
             }
           }
@@ -252,15 +252,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71e161bc9d75b8db",
+  "active": "0d6586f6cdb13684",
   "lastOpenFiles": [
+    "人纪/心系病症.md",
+    "人纪/中医内科学.md",
+    "脉诊学习.md",
     "人纪/002 黄帝内经.md",
     "胸痹.md",
     "人纪/真心痛.md",
-    "人纪/心系病症.md",
     "人纪/胸痹.md",
     "人纪/心悸.md",
-    "人纪/中医内科学.md",
     "人纪/脾胃病症.md",
     "人纪/便秘.md",
     "人纪/里急后重.md",
@@ -280,7 +281,6 @@
     "+Home.md",
     "风格感觉.md",
     "气血学习.md",
-    "阅读是一座随身携带的避难所.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
