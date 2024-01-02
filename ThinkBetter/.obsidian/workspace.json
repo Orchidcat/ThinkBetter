@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/中医内科学.md",
+                "file": "胃痛.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/中医内科学.md",
+                "file": "胃痛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/中医内科学.md"
+                "file": "胃痛.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/中医内科学.md",
+                "file": "胃痛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/中医内科学.md"
+                "file": "胃痛.md"
               }
             }
           }
@@ -195,6 +195,7 @@
   "active": "d95ef92482aeec9d",
   "lastOpenFiles": [
     "人纪/中医内科学.md",
+    "胃痛.md",
     "目标 MOC.md",
     "Just Do it - 2024.md",
     "未命名 3.md",
@@ -221,7 +222,6 @@
     "如何成功实验.md",
     "一句话的玩味.md",
     "防止忘记.md",
-    "我们是如何衡量学会没有的.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
