@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a9b80a7d1f5b66",
+        "id": "95c5014bf5edf2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "46d8c6a41fd0e093",
+            "id": "f010b1994f1ff3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 3.md",
+                "file": "目标 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4556dc42834fbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Just Do it - 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 3.md",
+                "file": "Just Do it - 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 3.md"
+                "file": "Just Do it - 2024.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 3.md",
+                "file": "Just Do it - 2024.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名 3.md"
+                "file": "Just Do it - 2024.md"
               }
             }
           }
@@ -191,11 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "46d8c6a41fd0e093",
+  "active": "e4556dc42834fbdd",
   "lastOpenFiles": [
+    "目标 MOC.md",
+    "Just Do it - 2024.md",
     "未命名 3.md",
     "人纪/004 金匮要略.md",
-    "目标 MOC.md",
     "+Home.md",
     "风格感觉.md",
     "气血学习.md",
@@ -220,7 +234,6 @@
     "防止忘记.md",
     "我们是如何衡量学会没有的.md",
     "学习迁移.md",
-    "分心.md",
     "Sources/Pasted image 20231220091424.png",
     "Sources/Pasted image 20231012134419.png",
     "Sources/Pasted image 20231012134710.png",
