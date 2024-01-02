@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a82ebeb7c486e625",
@@ -82,7 +81,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/便秘.md",
+                "file": "人纪/中医内科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/便秘.md"
+                "file": "人纪/中医内科学.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/便秘.md",
+                "file": "人纪/中医内科学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/便秘.md"
+                "file": "人纪/中医内科学.md"
               }
             }
           }
@@ -262,12 +261,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3434bb9c361c0ce",
+  "active": "d95ef92482aeec9d",
   "lastOpenFiles": [
-    "人纪/中医内科学.md",
     "人纪/便秘.md",
-    "人纪/痢疾.md",
     "人纪/里急后重.md",
+    "人纪/中医内科学.md",
+    "人纪/痢疾.md",
     "人纪/泄泻.md",
     "Sources/Pasted image 20240102103322.png",
     "人纪/腹痛.md",
