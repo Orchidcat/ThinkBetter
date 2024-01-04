@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "打开心智.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "打开心智.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "打开心智.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "打开心智.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "打开心智.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "27e7ba071ee72d04",
   "lastOpenFiles": [
-    "脉诊学习.md",
     "打开心智.md",
+    "脉诊学习.md",
     "人纪/002 黄帝内经.md",
     "防止忘记.md",
     "stackoverflow Database.md",

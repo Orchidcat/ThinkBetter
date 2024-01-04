@@ -9,7 +9,9 @@
       "refreshDataview": true,
       "value": "+Home",
       "kind": "File",
-      "commands": []
+      "commands": [],
+      "openOnStartup": true,
+      "openWhenEmpty": true
     }
   },
   "separateMobile": false
