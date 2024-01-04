@@ -85,26 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "防止忘记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70fc3b43ddda8a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stackoverflow Database.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 512.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stackoverflow Database.md",
+                "file": "脉诊学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stackoverflow Database.md"
+                "file": "脉诊学习.md"
               }
             }
           },
@@ -218,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stackoverflow Database.md",
+                "file": "脉诊学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "stackoverflow Database.md"
+                "file": "脉诊学习.md"
               }
             }
           }
@@ -276,11 +264,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70fc3b43ddda8a52",
+  "active": "71e161bc9d75b8db",
   "lastOpenFiles": [
-    "Sources/Pasted image 20240104083814.png",
-    "stackoverflow Database.md",
+    "人纪/002 黄帝内经.md",
     "防止忘记.md",
+    "stackoverflow Database.md",
+    "Sources/Pasted image 20240104083814.png",
     "超速学习.md",
     "我们是如何衡量学会没有的.md",
     "学习迁移.md",
@@ -289,7 +278,6 @@
     "人纪/心系病症.md",
     "人纪/中医内科学.md",
     "脉诊学习.md",
-    "人纪/002 黄帝内经.md",
     "胸痹.md",
     "人纪/胸痹.md",
     "人纪/心悸.md",
@@ -316,7 +304,6 @@
     "Sources/Pasted image 20231012104750.png",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/Pasted image 20230920091437.png",
-    "Sources/Pasted image 20230920091342.png",
     "人体流转.canvas",
     "Excalidraw",
     "FromWeb",
