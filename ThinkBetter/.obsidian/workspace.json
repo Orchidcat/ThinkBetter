@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/心系病症.md",
+                "file": "人纪/不寐.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/175 医案经方.md",
+                "file": "人纪/不寐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/175 医案经方.md"
+                "file": "人纪/不寐.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/175 医案经方.md",
+                "file": "人纪/不寐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/175 医案经方.md"
+                "file": "人纪/不寐.md"
               }
             }
           }
@@ -228,12 +229,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0f9cea7041375804",
+  "active": "f8cf3ca17fa333b3",
   "lastOpenFiles": [
+    "人纪/心系病症.md",
+    "人纪/175 医案经方.md",
     "人纪/191 中药.md",
     "人纪/004 金匮要略.md",
     "人纪/不寐.md",
-    "人纪/心系病症.md",
     "人纪/中医内科学.md",
     "阅读与书籍 MOC.md",
     "+Home.md",
@@ -256,7 +258,6 @@
     "人纪/脾胃病症.md",
     "人纪/便秘.md",
     "人纪/里急后重.md",
-    "人纪/痢疾.md",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
