@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/191 中药.md",
+                "file": "人纪/175 医案经方.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/191 中药.md",
+                "file": "人纪/175 医案经方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/191 中药.md"
+                "file": "人纪/175 医案经方.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/191 中药.md",
+                "file": "人纪/175 医案经方.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/191 中药.md"
+                "file": "人纪/175 医案经方.md"
               }
             }
           }
@@ -228,8 +228,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "0f9cea7041375804",
   "lastOpenFiles": [
+    "人纪/191 中药.md",
     "人纪/004 金匮要略.md",
     "人纪/不寐.md",
     "人纪/心系病症.md",
@@ -256,7 +257,6 @@
     "人纪/便秘.md",
     "人纪/里急后重.md",
     "人纪/痢疾.md",
-    "人纪/泄泻.md",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
