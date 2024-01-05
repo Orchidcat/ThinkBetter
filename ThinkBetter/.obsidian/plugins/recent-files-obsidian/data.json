@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "皇汉医学",
+      "path": "皇汉医学.md"
+    },
+    {
       "basename": "不寐",
       "path": "人纪/不寐.md"
     },
     {
-      "basename": "心系病症",
-      "path": "人纪/心系病症.md"
-    },
-    {
       "basename": "175 医案经方",
       "path": "人纪/175 医案经方.md"
+    },
+    {
+      "basename": "心系病症",
+      "path": "人纪/心系病症.md"
     },
     {
       "basename": "191 中药",
@@ -195,10 +199,6 @@
     {
       "basename": "157 相使",
       "path": "人纪/157 相使.md"
-    },
-    {
-      "basename": "有效写作-史蒂文平克的见解",
-      "path": "有效写作-史蒂文平克的见解.md"
     }
   ],
   "omittedPaths": [],
