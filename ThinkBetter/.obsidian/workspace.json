@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "钢铁是怎样练成的.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7262cf8c5de7148f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,9 +205,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d9d2c99943d69255",
+  "active": "7262cf8c5de7148f",
   "lastOpenFiles": [
     "+Home.md",
+    "钢铁是怎样练成的.md",
+    "阅读与书籍 MOC.md",
     "人纪/002 黄帝内经.md",
     "NotToDo.md",
     "打开心智.md",
@@ -220,8 +235,6 @@
     "Sources/Pasted image 20240102103322.png",
     "人纪/腹痛.md",
     "人纪/呃逆.md",
-    "人纪/噎膈.md",
-    "人纪/呕吐.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",

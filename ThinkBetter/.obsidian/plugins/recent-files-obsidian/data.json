@@ -9,6 +9,10 @@
       "path": "+Home.md"
     },
     {
+      "basename": "钢铁是怎样练成的",
+      "path": "钢铁是怎样练成的.md"
+    },
+    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "皇汉医学",
       "path": "皇汉医学.md"
-    },
-    {
-      "basename": "+HomeMOC",
-      "path": "+HomeMOC.md"
     }
   ],
   "omittedPaths": [],
