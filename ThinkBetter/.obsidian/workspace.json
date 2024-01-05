@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8cf3ca17fa333b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/心系病症.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9cea7041375804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/不寐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/不寐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "人纪/不寐.md"
               }
             }
           },
@@ -147,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/不寐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "人纪/不寐.md"
               }
             }
           }
@@ -205,11 +229,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7262cf8c5de7148f",
+  "active": "0f9cea7041375804",
   "lastOpenFiles": [
+    "人纪/心系病症.md",
+    "人纪/不寐.md",
+    "人纪/中医内科学.md",
+    "阅读与书籍 MOC.md",
     "+Home.md",
     "钢铁是怎样练成的.md",
-    "阅读与书籍 MOC.md",
     "人纪/002 黄帝内经.md",
     "NotToDo.md",
     "打开心智.md",
@@ -222,8 +249,6 @@
     "学习迁移.md",
     "后设学习.md",
     "人纪/真心痛.md",
-    "人纪/心系病症.md",
-    "人纪/中医内科学.md",
     "胸痹.md",
     "人纪/胸痹.md",
     "人纪/心悸.md",
@@ -234,7 +259,6 @@
     "人纪/泄泻.md",
     "Sources/Pasted image 20240102103322.png",
     "人纪/腹痛.md",
-    "人纪/呃逆.md",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
     "Sources/Pasted image 20231220091424.png",
