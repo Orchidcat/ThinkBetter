@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "皇汉医学.md",
+                "file": "临床应用伤寒论解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "皇汉医学.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "皇汉医学.md",
+                "file": "临床应用伤寒论解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "皇汉医学.md"
+                "file": "临床应用伤寒论解说.md"
               }
             }
           }
@@ -241,10 +241,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92357eee20eb2a99",
+  "active": "79c29a34f138724c",
   "lastOpenFiles": [
-    "临床应用伤寒论解说.md",
     "皇汉医学.md",
+    "临床应用伤寒论解说.md",
     "人纪/不寐.md",
     "人纪/175 医案经方.md",
     "人纪/心系病症.md",
