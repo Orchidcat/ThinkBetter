@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "022e09c1e4e98b92",
+        "id": "084fddb717c67cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d2c99943d69255",
+            "id": "630645c63d89686f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "钢铁是怎样练成的.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7262cf8c5de7148f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读与书籍 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8cf3ca17fa333b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/不寐.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53577e204ac3fec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "皇汉医学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c29a34f138724c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,12 +72,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -161,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -183,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "临床应用伤寒论解说.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "临床应用伤寒论解说.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -241,19 +191,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79c29a34f138724c",
+  "active": "630645c63d89686f",
   "lastOpenFiles": [
-    "皇汉医学.md",
     "临床应用伤寒论解说.md",
+    "皇汉医学.md",
+    "钢铁是怎样练成的.md",
     "人纪/不寐.md",
+    "阅读与书籍 MOC.md",
     "人纪/175 医案经方.md",
     "人纪/心系病症.md",
     "人纪/191 中药.md",
     "人纪/004 金匮要略.md",
     "人纪/中医内科学.md",
-    "阅读与书籍 MOC.md",
     "+Home.md",
-    "钢铁是怎样练成的.md",
     "人纪/002 黄帝内经.md",
     "NotToDo.md",
     "打开心智.md",
