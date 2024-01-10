@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "圆运动的古中医学.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "圆运动的古中医学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/166 血证论.md",
+                "file": "圆运动的古中医学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/166 血证论.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           }
@@ -191,8 +192,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "710c9c63e5e6c1bc",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/166 血证论.md",
+    "圆运动的古中医学.md",
     "打开心智.md",
     "+Home.md",
     "阅读与书籍 MOC.md",
@@ -218,8 +221,6 @@
     "人纪/真心痛.md",
     "胸痹.md",
     "人纪/胸痹.md",
-    "人纪/心悸.md",
-    "人纪/脾胃病症.md",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
