@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "打开心智.md",
+                "file": "人纪/166 血证论.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "打开心智.md",
+                "file": "人纪/166 血证论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "打开心智.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "打开心智.md",
+                "file": "人纪/166 血证论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "打开心智.md"
+                "file": "人纪/166 血证论.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "710c9c63e5e6c1bc",
   "lastOpenFiles": [
+    "打开心智.md",
     "+Home.md",
     "阅读与书籍 MOC.md",
     "临床应用伤寒论解说.md",
@@ -206,7 +207,6 @@
     "人纪/中医内科学.md",
     "人纪/002 黄帝内经.md",
     "NotToDo.md",
-    "打开心智.md",
     "脉诊学习.md",
     "防止忘记.md",
     "stackoverflow Database.md",
