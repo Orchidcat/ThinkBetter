@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "六气",
+                "query": "肺",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -192,7 +191,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9efa46719dd78cae",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/002 黄帝内经.md",
     "圆运动的古中医学.md",
