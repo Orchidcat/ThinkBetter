@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -191,10 +191,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "710c9c63e5e6c1bc",
   "lastOpenFiles": [
-    "人纪/166 血证论.md",
+    "人纪/195 子午流注.md",
+    "人纪/003 伤寒论.md",
     "圆运动的古中医学.md",
+    "人纪/166 血证论.md",
     "打开心智.md",
     "+Home.md",
     "阅读与书籍 MOC.md",
@@ -218,8 +220,6 @@
     "学习迁移.md",
     "后设学习.md",
     "人纪/真心痛.md",
-    "胸痹.md",
-    "人纪/胸痹.md",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",

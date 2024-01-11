@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "195 子午流注",
+      "path": "人纪/195 子午流注.md"
+    },
+    {
+      "basename": "003 伤寒论",
+      "path": "人纪/003 伤寒论.md"
+    },
+    {
       "basename": "圆运动的古中医学",
       "path": "圆运动的古中医学.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "中医内科学",
       "path": "人纪/中医内科学.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "人纪/002 黄帝内经.md"
     },
     {
       "basename": "脉诊学习",
@@ -189,16 +197,8 @@
       "path": "人纪/079 脉诊.md"
     },
     {
-      "basename": "195 子午流注",
-      "path": "人纪/195 子午流注.md"
-    },
-    {
       "basename": "204 zy-总论",
       "path": "人纪/204 zy-总论.md"
-    },
-    {
-      "basename": "087 气血辩证",
-      "path": "人纪/087 气血辩证.md"
     }
   ],
   "omittedPaths": [],
