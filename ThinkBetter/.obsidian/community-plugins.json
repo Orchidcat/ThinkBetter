@@ -44,5 +44,6 @@
   "optimize-canvas-connections",
   "obsidian-plugin-toc",
   "remember-cursor-position",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "quickadd"
 ]
