@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "脉法篇",
+      "path": "脉法篇.md"
+    },
+    {
       "basename": "圆运动的古中医学",
       "path": "圆运动的古中医学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阅读是一座随身携带的避难所",
       "path": "阅读是一座随身携带的避难所.md"
-    },
-    {
-      "basename": "SeizeTheDay",
-      "path": "SeizeTheDay.md"
     }
   ],
   "omittedPaths": [],
