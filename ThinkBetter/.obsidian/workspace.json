@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb409e9e9eeb2048",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "苦酒",
+                "query": "同身",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "圆运动的古中医学.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "圆运动的古中医学.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -192,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f7e067573cc4e5",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "古方上篇.md",
     "圆运动的古中医学.md",
+    "古方上篇.md",
     "人纪/003 伤寒论.md",
     "人纪/089 人纪 - 神农本草经.md",
     "Sources/Pasted image 20240112144517.png",
