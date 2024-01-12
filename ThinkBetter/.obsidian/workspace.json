@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "圆运动的古中医学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "圆运动的古中医学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           }
@@ -204,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c3e9c4d9975063e7",
+  "active": "98f7e067573cc4e5",
   "lastOpenFiles": [
+    "脉诊学习.md",
     "圆运动的古中医学.md",
     "10个写作的技巧.md",
     "人纪/002 黄帝内经.md",
@@ -231,7 +232,6 @@
     "人纪/191 中药.md",
     "人纪/中医内科学.md",
     "NotToDo.md",
-    "脉诊学习.md",
     "防止忘记.md",
     "stackoverflow Database.md",
     "Sources/Pasted image 20240104083814.png",
