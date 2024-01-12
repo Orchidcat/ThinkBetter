@@ -1,13 +1,6 @@
 {
   "choices": [],
-  "macros": [
-    {
-      "name": "add new",
-      "id": "d431740d-f207-4830-827c-b706c896cd9d",
-      "commands": [],
-      "runOnStartup": false
-    }
-  ],
+  "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
