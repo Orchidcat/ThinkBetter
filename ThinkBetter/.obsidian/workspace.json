@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隔逆",
+                "query": " 嗝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/002 黄帝内经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/002 黄帝内经.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "9efa46719dd78cae",
   "lastOpenFiles": [
-    "人纪/089 人纪 - 神农本草经.md",
     "圆运动的古中医学.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/002 黄帝内经.md",
     "人纪/003 伤寒论.md",
     "+Home.md",
