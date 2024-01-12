@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "人纪/009 辨厥阴病脉症并治法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f7e067573cc4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "圆运动的古中医学.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " 嗝",
+                "query": "不渴",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "圆运动的古中医学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "圆运动的古中医学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           }
@@ -191,11 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9efa46719dd78cae",
+  "active": "98f7e067573cc4e5",
   "lastOpenFiles": [
+    "人纪/009 辨厥阴病脉症并治法.md",
+    "人纪/002 黄帝内经.md",
     "圆运动的古中医学.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/002 黄帝内经.md",
     "人纪/003 伤寒论.md",
     "+Home.md",
     "人纪/195 子午流注.md",
@@ -219,7 +233,6 @@
     "超速学习.md",
     "我们是如何衡量学会没有的.md",
     "学习迁移.md",
-    "后设学习.md",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
     "Sources/Pasted image 20231226090616.png",
