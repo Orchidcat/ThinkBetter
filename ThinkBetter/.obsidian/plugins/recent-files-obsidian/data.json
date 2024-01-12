@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10个写作的技巧",
+      "path": "10个写作的技巧.md"
+    },
+    {
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
+    },
+    {
       "basename": "圆运动的古中医学",
       "path": "圆运动的古中医学.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "009 辨厥阴病脉症并治法",
       "path": "人纪/009 辨厥阴病脉症并治法.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "人纪/002 黄帝内经.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "SeizeTheDay",
       "path": "SeizeTheDay.md"
-    },
-    {
-      "basename": "中医执业",
-      "path": "中医执业.md"
     }
   ],
   "omittedPaths": [],
