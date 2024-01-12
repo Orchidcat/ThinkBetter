@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "脉法篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "脉法篇.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "脉法篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "脉法篇.md"
               }
             }
           }
@@ -204,12 +205,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f7e067573cc4e5",
+  "active": "00b6e6a9f8671832",
   "lastOpenFiles": [
-    "古方上篇.md",
-    "圆运动的古中医学.md",
-    "脉法篇.md",
     "脉诊学习.md",
+    "脉法篇.md",
+    "圆运动的古中医学.md",
+    "古方上篇.md",
     "10个写作的技巧.md",
     "人纪/002 黄帝内经.md",
     "人纪/003 伤寒论.md",
