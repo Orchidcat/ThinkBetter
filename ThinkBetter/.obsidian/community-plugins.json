@@ -45,5 +45,6 @@
   "obsidian-plugin-toc",
   "remember-cursor-position",
   "highlightr-plugin",
-  "quickadd"
+  "quickadd",
+  "obsidian-local-rest-api"
 ]
