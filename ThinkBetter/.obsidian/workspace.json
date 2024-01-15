@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fe63b56994281a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "药性提纲篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f96edacddb4d828",
             "type": "leaf",
             "state": {
@@ -231,8 +243,9 @@
   },
   "active": "e08c8d9039456a30",
   "lastOpenFiles": [
-    "人纪/089 人纪 - 神农本草经.md",
+    "药性提纲篇.md",
     "圆运动的古中医学.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "脉法篇.md",
@@ -258,7 +271,6 @@
     "人纪/心系病症.md",
     "人纪/191 中药.md",
     "人纪/中医内科学.md",
-    "NotToDo.md",
     "Sources/Pasted image 20240104083814.png",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
