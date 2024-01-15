@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/004 金匮要略.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/004 金匮要略.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -216,8 +216,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "2f96edacddb4d828",
   "lastOpenFiles": [
+    "人纪/004 金匮要略.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "人纪/089 人纪 - 神农本草经.md",
     "圆运动的古中医学.md",
@@ -230,7 +231,6 @@
     "人纪/003 伤寒论.md",
     "Sources/Pasted image 20240112144517.png",
     "人纪/011 辨少阴病脉症并治法.md",
-    "人纪/004 金匮要略.md",
     "Sources/Pasted image 20240112111437.png",
     "人纪/009 辨厥阴病脉症并治法.md",
     "人纪/195 子午流注.md",
