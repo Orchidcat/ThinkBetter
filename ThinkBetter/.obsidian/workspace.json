@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -229,7 +228,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52038c5e2fefe815",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "圆运动的古中医学.md",
     "温病本气篇.md",
