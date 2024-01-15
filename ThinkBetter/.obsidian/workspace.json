@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -205,12 +204,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e08c8d9039456a30",
+  "active": "2fc27ddf430c1ea4",
   "lastOpenFiles": [
-    "脉法篇.md",
     "脉诊学习.md",
-    "圆运动的古中医学.md",
     "+Home.md",
+    "脉法篇.md",
+    "圆运动的古中医学.md",
     "古方上篇.md",
     "10个写作的技巧.md",
     "人纪/002 黄帝内经.md",
