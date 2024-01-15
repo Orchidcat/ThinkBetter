@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "圆运动的古中医学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "圆运动的古中医学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "圆运动的古中医学.md"
               }
             }
           }
@@ -228,10 +229,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "e08c8d9039456a30",
   "lastOpenFiles": [
-    "圆运动的古中医学.md",
     "人纪/089 人纪 - 神农本草经.md",
+    "圆运动的古中医学.md",
     "人纪/004 金匮要略.md",
     "人纪/014 辨阳明病脉症并治法.md",
     "脉法篇.md",
