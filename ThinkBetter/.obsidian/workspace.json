@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -228,11 +229,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "52038c5e2fefe815",
   "lastOpenFiles": [
+    "药性提纲篇.md",
     "圆运动的古中医学.md",
     "温病本气篇.md",
-    "药性提纲篇.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/004 金匮要略.md",
     "人纪/014 辨阳明病脉症并治法.md",
