@@ -13,6 +13,10 @@
       "path": "圆运动的古中医学.md"
     },
     {
+      "basename": "脉法篇",
+      "path": "脉法篇.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "温病本气篇",
       "path": "温病本气篇.md"
-    },
-    {
-      "basename": "脉法篇",
-      "path": "脉法篇.md"
     },
     {
       "basename": "药性提纲篇",
