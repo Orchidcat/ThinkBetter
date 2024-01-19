@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "温病本气篇",
+      "path": "温病本气篇.md"
+    },
+    {
+      "basename": "188 止嗽散",
+      "path": "人纪/188 止嗽散.md"
+    },
+    {
       "basename": "时病本气篇",
       "path": "时病本气篇.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "儿病本气篇",
       "path": "儿病本气篇.md"
-    },
-    {
-      "basename": "温病本气篇",
-      "path": "温病本气篇.md"
     },
     {
       "basename": "药性提纲篇",
@@ -195,10 +199,6 @@
     {
       "basename": "噎膈",
       "path": "人纪/噎膈.md"
-    },
-    {
-      "basename": "呕吐",
-      "path": "人纪/呕吐.md"
     }
   ],
   "omittedPaths": [],

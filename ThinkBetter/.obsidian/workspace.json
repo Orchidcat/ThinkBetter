@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时病本气篇.md",
+                "file": "温病本气篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时病本气篇.md",
+                "file": "温病本气篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时病本气篇.md"
+                "file": "温病本气篇.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时病本气篇.md",
+                "file": "温病本气篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "时病本气篇.md"
+                "file": "温病本气篇.md"
               }
             }
           }
@@ -207,9 +206,10 @@
   },
   "active": "6e74fdcccee4bd9a",
   "lastOpenFiles": [
+    "人纪/188 止嗽散.md",
+    "时病本气篇.md",
     "人纪/019 常用8种治法.md",
     "人纪/099 桑菊饮.md",
-    "时病本气篇.md",
     "古方上篇.md",
     "圆运动的古中医学.md",
     "脉法篇.md",
@@ -234,7 +234,6 @@
     "人纪/166 血证论.md",
     "打开心智.md",
     "阅读与书籍 MOC.md",
-    "临床应用伤寒论解说.md",
     "Sources/Pasted image 20240104083814.png",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
