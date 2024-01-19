@@ -5,6 +5,14 @@
       "path": "时病本气篇.md"
     },
     {
+      "basename": "019 常用8种治法",
+      "path": "人纪/019 常用8种治法.md"
+    },
+    {
+      "basename": "099 桑菊饮",
+      "path": "人纪/099 桑菊饮.md"
+    },
+    {
       "basename": "古方上篇",
       "path": "古方上篇.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "呕吐",
       "path": "人纪/呕吐.md"
-    },
-    {
-      "basename": "痞满",
-      "path": "人纪/痞满.md"
-    },
-    {
-      "basename": "胃痛",
-      "path": "胃痛.md"
     }
   ],
   "omittedPaths": [],

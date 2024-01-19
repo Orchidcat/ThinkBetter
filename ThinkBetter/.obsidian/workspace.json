@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "腹证",
+                "query": "咳嗽",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,11 +207,13 @@
   },
   "active": "6e74fdcccee4bd9a",
   "lastOpenFiles": [
+    "人纪/019 常用8种治法.md",
+    "人纪/099 桑菊饮.md",
+    "时病本气篇.md",
     "古方上篇.md",
     "圆运动的古中医学.md",
     "脉法篇.md",
     "脉诊学习.md",
-    "时病本气篇.md",
     "+Home.md",
     "人纪/091 日本的经方家.md",
     "皇汉医学.md",
@@ -233,8 +235,6 @@
     "打开心智.md",
     "阅读与书籍 MOC.md",
     "临床应用伤寒论解说.md",
-    "钢铁是怎样练成的.md",
-    "人纪/不寐.md",
     "Sources/Pasted image 20240104083814.png",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
