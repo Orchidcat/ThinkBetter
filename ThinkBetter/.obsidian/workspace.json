@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咳嗽",
+                "query": "石膏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
