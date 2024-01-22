@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c0d677db6fb6897",
+            "id": "1f11d552106e1df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/186 真脏脉.md",
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f80e16629c347ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/182 营卫之气.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "荣卫",
+                "query": "营气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/186 真脏脉.md",
+                "file": "人纪/182 营卫之气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/186 真脏脉.md"
+                "file": "人纪/182 营卫之气.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/186 真脏脉.md",
+                "file": "人纪/182 营卫之气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/186 真脏脉.md"
+                "file": "人纪/182 营卫之气.md"
               }
             }
           }
@@ -191,14 +204,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9c0d677db6fb6897",
+  "active": "f80e16629c347ca0",
   "lastOpenFiles": [
+    "荣气与卫气.md",
+    "+Home.md",
+    "人纪/134 卫气.md",
+    "人纪/186 真脏脉.md",
     "伤寒论六经原文读法篇.md",
     "圆运动的古中医学.md",
     "时病本气篇.md",
     "脉法篇.md",
     "脉诊学习.md",
-    "+Home.md",
     "人纪/188 止嗽散.md",
     "温病本气篇.md",
     "人纪/019 常用8种治法.md",
@@ -218,9 +234,6 @@
     "人纪/011 辨少阴病脉症并治法.md",
     "Sources/Pasted image 20240112111437.png",
     "人纪/009 辨厥阴病脉症并治法.md",
-    "人纪/195 子午流注.md",
-    "人纪/166 血证论.md",
-    "打开心智.md",
     "Sources/Pasted image 20240104083814.png",
     "Sources/Pasted image 20240102103322.png",
     "Seize the Day",
