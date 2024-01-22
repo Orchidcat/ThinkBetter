@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f13864fe0c4e634",
+        "id": "bfa7bbc1f89f5159",
         "type": "tabs",
         "children": [
           {
-            "id": "6e74fdcccee4bd9a",
+            "id": "332743ca7481ca69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "时病本气篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7854d0ade0e3e89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "古方上篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +72,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -201,22 +188,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "homepage:Open homepage": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "6e74fdcccee4bd9a",
+  "active": "332743ca7481ca69",
   "lastOpenFiles": [
+    "圆运动的古中医学.md",
+    "+Home.md",
     "人纪/188 止嗽散.md",
     "温病本气篇.md",
     "时病本气篇.md",
     "人纪/019 常用8种治法.md",
     "人纪/099 桑菊饮.md",
     "古方上篇.md",
-    "圆运动的古中医学.md",
     "脉法篇.md",
     "脉诊学习.md",
-    "+Home.md",
     "人纪/091 日本的经方家.md",
     "皇汉医学.md",
     "儿病本气篇.md",
