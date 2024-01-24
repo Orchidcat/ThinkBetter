@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论六经原文读法篇.md",
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "营气",
+                "query": "风痹",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伤寒论六经原文读法篇.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伤寒论六经原文读法篇.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伤寒论六经原文读法篇.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "伤寒论六经原文读法篇.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           }
@@ -204,10 +203,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0cbef62bd1f19169",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "圆运动的古中医学.md",
     "伤寒论六经原文读法篇.md",
+    "圆运动的古中医学.md",
     "+Home.md",
     "人纪/134 卫气.md",
     "人纪/182 营卫之气.md",
