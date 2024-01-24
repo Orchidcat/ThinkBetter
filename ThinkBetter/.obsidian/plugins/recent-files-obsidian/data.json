@@ -5,6 +5,10 @@
       "path": "伤寒论六经原文读法篇.md"
     },
     {
+      "basename": "如何荒废？",
+      "path": "如何荒废？.md"
+    },
+    {
       "basename": "圆运动的古中医学",
       "path": "圆运动的古中医学.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "便秘",
       "path": "人纪/便秘.md"
-    },
-    {
-      "basename": "里急后重",
-      "path": "人纪/里急后重.md"
     }
   ],
   "omittedPaths": [],
