@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "清胃",
+                "query": "姜",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2aa406b5d3d584c4",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/189 中毒的临床表现.md",
     "圆运动的古中医学.md",
