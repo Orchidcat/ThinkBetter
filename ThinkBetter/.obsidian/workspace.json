@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "荣卫",
+                "query": "清胃",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,12 +85,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "人纪/089 人纪 - 神农本草经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "人纪/089 人纪 - 神农本草经.md"
               }
             }
           }
@@ -207,6 +206,8 @@
   },
   "active": "2aa406b5d3d584c4",
   "lastOpenFiles": [
+    "人纪/189 中毒的临床表现.md",
+    "圆运动的古中医学.md",
     "生命宇宙篇.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
@@ -214,7 +215,6 @@
     "人纪/001 @MOC中医.md",
     "防己黄芪汤.md",
     "+Home.md",
-    "圆运动的古中医学.md",
     "伤寒论六经原文读法篇.md",
     "如何荒废？.md",
     "人纪/004 金匮要略.md",
