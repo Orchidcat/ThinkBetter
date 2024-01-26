@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa7bbc1f89f5159",
+        "id": "176d303168561988",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4a655823df80a9",
+            "id": "00e0cfe9c7572794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒论六经原文读法篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d80a37bd77f9486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何荒废？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20bb25e44afc8103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "圆运动的古中医学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3e04af09e9adbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生命宇宙篇.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,12 +72,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -149,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生命宇宙篇.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生命宇宙篇.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -171,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生命宇宙篇.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "生命宇宙篇.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -229,7 +191,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3e04af09e9adbaf",
+  "active": "00e0cfe9c7572794",
   "lastOpenFiles": [
     "圆运动的古中医学.md",
     "生命宇宙篇.md",
