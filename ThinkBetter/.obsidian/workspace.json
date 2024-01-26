@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "生命宇宙篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "生命宇宙篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "生命宇宙篇.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "生命宇宙篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "生命宇宙篇.md"
               }
             }
           }
@@ -193,8 +194,9 @@
   },
   "active": "00e0cfe9c7572794",
   "lastOpenFiles": [
-    "防己黄芪汤.md",
+    "Sources/Pasted image 20240126100032.png",
     "人纪/001 @MOC中医.md",
+    "防己黄芪汤.md",
     "+Home.md",
     "圆运动的古中医学.md",
     "生命宇宙篇.md",
@@ -218,7 +220,6 @@
     "儿病本气篇.md",
     "药性提纲篇.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/014 辨阳明病脉症并治法.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Sources/Pasted image 20240104083814.png",
