@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "+Home.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           }
@@ -193,12 +193,14 @@
   },
   "active": "00e0cfe9c7572794",
   "lastOpenFiles": [
+    "防己黄芪汤.md",
+    "人纪/001 @MOC中医.md",
+    "+Home.md",
     "圆运动的古中医学.md",
     "生命宇宙篇.md",
     "伤寒论六经原文读法篇.md",
     "如何荒废？.md",
     "人纪/004 金匮要略.md",
-    "+Home.md",
     "人纪/134 卫气.md",
     "人纪/182 营卫之气.md",
     "荣气与卫气.md",
@@ -217,8 +219,6 @@
     "药性提纲篇.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/014 辨阳明病脉症并治法.md",
-    "10个写作的技巧.md",
-    "人纪/002 黄帝内经.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Sources/Pasted image 20240104083814.png",
