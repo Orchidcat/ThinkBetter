@@ -25,6 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "古方上篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6804229bb76b030c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/195 子午流注.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf53ea156185530a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "圆运动的古中医学.md",
                 "mode": "source",
                 "source": false
@@ -89,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -124,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "古方上篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "古方上篇.md"
               }
             }
           },
@@ -146,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "古方上篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "古方上篇.md"
               }
             }
           }
@@ -206,9 +231,11 @@
   },
   "active": "14c9e6b5c0f0815f",
   "lastOpenFiles": [
+    "人纪/195 子午流注.md",
+    "古方上篇.md",
+    "圆运动的古中医学.md",
     "+Home.md",
     "人纪/189 中毒的临床表现.md",
-    "圆运动的古中医学.md",
     "生命宇宙篇.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
@@ -229,12 +256,10 @@
     "温病本气篇.md",
     "人纪/019 常用8种治法.md",
     "人纪/099 桑菊饮.md",
-    "古方上篇.md",
     "人纪/091 日本的经方家.md",
     "皇汉医学.md",
     "儿病本气篇.md",
     "药性提纲篇.md",
-    "人纪/089 人纪 - 神农本草经.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Sources/Pasted image 20240104083814.png",
