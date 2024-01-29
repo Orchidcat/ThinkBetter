@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "97a719d72d7335f9",
+        "id": "9466a6fa6d0ce179",
         "type": "tabs",
         "children": [
           {
-            "id": "c916cde625c07ba5",
+            "id": "03a8bb43a6e33132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14c9e6b5c0f0815f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -191,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c916cde625c07ba5",
+  "active": "14c9e6b5c0f0815f",
   "lastOpenFiles": [
     "+Home.md",
     "人纪/189 中毒的临床表现.md",
