@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "伤寒读法总纲",
+      "path": "伤寒读法总纲.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
+    },
+    {
       "basename": "伤寒理路",
       "path": "伤寒理路.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "195 子午流注",
       "path": "人纪/195 子午流注.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "圆运动的古中医学.md"
     },
     {
       "basename": "古方上篇",
@@ -195,10 +199,6 @@
     {
       "basename": "学习迁移",
       "path": "学习迁移.md"
-    },
-    {
-      "basename": "后设学习",
-      "path": "后设学习.md"
     }
   ],
   "omittedPaths": [],
