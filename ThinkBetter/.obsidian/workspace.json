@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc72aa29b66fc77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伤寒理路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "古方上篇.md",
+                "file": "伤寒理路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "古方上篇.md"
+                "file": "伤寒理路.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "古方上篇.md",
+                "file": "伤寒理路.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "古方上篇.md"
+                "file": "伤寒理路.md"
               }
             }
           }
@@ -229,11 +241,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "14c9e6b5c0f0815f",
+  "active": "dc72aa29b66fc77a",
   "lastOpenFiles": [
-    "人纪/195 子午流注.md",
-    "古方上篇.md",
     "圆运动的古中医学.md",
+    "伤寒理路.md",
+    "古方上篇.md",
+    "人纪/195 子午流注.md",
     "+Home.md",
     "人纪/189 中毒的临床表现.md",
     "生命宇宙篇.md",
@@ -259,7 +272,6 @@
     "人纪/091 日本的经方家.md",
     "皇汉医学.md",
     "儿病本气篇.md",
-    "药性提纲篇.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Sources/Pasted image 20240104083814.png",
