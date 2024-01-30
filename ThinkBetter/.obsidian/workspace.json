@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9466a6fa6d0ce179",
+        "id": "177a963e58872470",
         "type": "tabs",
         "children": [
           {
-            "id": "03a8bb43a6e33132",
+            "id": "45b83c3860ce4187",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,93 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14c9e6b5c0f0815f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "古方上篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6804229bb76b030c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/195 子午流注.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf53ea156185530a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉法篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f40afa07085f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉诊学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc72aa29b66fc77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伤寒理路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857e387988091aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伤寒读法总纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f58d2881fecbb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/055 滑脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/055 滑脉.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/055 滑脉.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -219,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/055 滑脉.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -248,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/055 滑脉.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -277,7 +191,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7f58d2881fecbb46",
+  "active": "45b83c3860ce4187",
   "lastOpenFiles": [
     "八纲脉.md",
     "人纪/055 滑脉.md",
