@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/153 弦脉.md",
+                "file": "圆运动的古中医学（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/153 弦脉.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           },
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/153 弦脉.md",
+                "file": "圆运动的古中医学（续）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/153 弦脉.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           }
@@ -217,9 +216,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cfc4393c1930bc40",
+  "active": "db3e62962ca982bf",
   "lastOpenFiles": [
     "脉法篇.md",
+    "人纪/153 弦脉.md",
     "悬脉.md",
     "脉诊学习.md",
     "圆运动的古中医学（续）.md",
@@ -247,7 +247,6 @@
     "荣气与卫气.md",
     "人纪/186 真脏脉.md",
     "时病本气篇.md",
-    "人纪/188 止嗽散.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Sources/Pasted image 20240104083814.png",
