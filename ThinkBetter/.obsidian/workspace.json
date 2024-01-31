@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0ba28a139eb0305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脉法篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "脉法篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学（续）.md"
+                "file": "脉法篇.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "脉法篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学（续）.md"
+                "file": "脉法篇.md"
               }
             }
           }
@@ -192,14 +205,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "db3e62962ca982bf",
+  "active": "b0ba28a139eb0305",
   "lastOpenFiles": [
-    "圆运动的古中医学.md",
+    "脉诊学习.md",
+    "脉法篇.md",
     "圆运动的古中医学（续）.md",
+    "圆运动的古中医学.md",
     "+Home.md",
     "伤寒读法总纲.md",
-    "脉法篇.md",
-    "脉诊学习.md",
     "人纪/001 @MOC中医.md",
     "+HomeMOC.md",
     "八纲脉.md",
