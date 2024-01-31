@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "圆运动的古中医学（续）",
+      "path": "圆运动的古中医学（续）.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
       "basename": "伤寒读法总纲",
       "path": "伤寒读法总纲.md"
     },
@@ -13,16 +25,8 @@
       "path": "脉诊学习.md"
     },
     {
-      "basename": "圆运动的古中医学",
-      "path": "圆运动的古中医学.md"
-    },
-    {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "+HomeMOC",
@@ -195,10 +199,6 @@
     {
       "basename": "防止忘记",
       "path": "防止忘记.md"
-    },
-    {
-      "basename": "stackoverflow Database",
-      "path": "stackoverflow Database.md"
     }
   ],
   "omittedPaths": [],
