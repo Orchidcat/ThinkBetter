@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0ba28a139eb0305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉法篇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfc4393c1930bc40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/153 弦脉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b44507263fe7b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "河图洛书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f0ed86b47d56173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
+                "file": "随手摘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md"
+                "file": "随手摘.md"
               }
             }
           },
@@ -182,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md",
+                "file": "随手摘.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "如何停止在不重要的细节上浪费时间.md"
+                "file": "随手摘.md"
               }
             }
           }
@@ -240,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1f0ed86b47d56173",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "如何停止在不重要的细节上浪费时间.md",
     "GTD.md",
     "一句话的玩味.md",
     "超速学习.md",
@@ -275,7 +227,6 @@
     "防己黄芪汤.md",
     "伤寒论六经原文读法篇.md",
     "如何荒废？.md",
-    "人纪/004 金匮要略.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Seize the Day",
