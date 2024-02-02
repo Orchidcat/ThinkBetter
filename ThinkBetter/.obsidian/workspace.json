@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计划",
-                "matchingCase": true,
+                "query": "plan",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随手摘.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随手摘.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手摘.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "随手摘.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           }
@@ -191,8 +191,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "db3e62962ca982bf",
   "lastOpenFiles": [
+    "The Psychology of Money.md",
+    "学会提问.md",
+    "随手摘.md",
     "如何停止在不重要的细节上浪费时间.md",
     "GTD.md",
     "一句话的玩味.md",
@@ -224,9 +227,6 @@
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
     "Sources/Pasted image 20240126100032.png",
-    "防己黄芪汤.md",
-    "伤寒论六经原文读法篇.md",
-    "如何荒废？.md",
     "Sources/Pasted image 20240112144517.png",
     "Sources/Pasted image 20240112111437.png",
     "Seize the Day",
