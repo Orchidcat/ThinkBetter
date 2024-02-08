@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "177a963e58872470",
+        "id": "1b52d3a4b86aae24",
         "type": "tabs",
         "children": [
           {
-            "id": "db3e62962ca982bf",
+            "id": "647fb637de4736c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "375480684b578295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/105 神农本草经.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecc47b41857890b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plan",
+                "query": "收敛",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -137,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -159,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/089 人纪 - 神农本草经.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -217,7 +191,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ecc47b41857890b9",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/105 神农本草经.md",
     "阅读与书籍 MOC.md",
