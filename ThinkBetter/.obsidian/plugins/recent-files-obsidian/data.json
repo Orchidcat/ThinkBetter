@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10个写作的技巧",
       "path": "10个写作的技巧.md"
-    },
-    {
-      "basename": "003 伤寒论",
-      "path": "人纪/003 伤寒论.md"
     }
   ],
   "omittedPaths": [],

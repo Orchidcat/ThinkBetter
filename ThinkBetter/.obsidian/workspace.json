@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "事件timing.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "官",
+                "query": "事件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "事件timing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "事件timing.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/002 黄帝内经.md",
+                "file": "事件timing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/002 黄帝内经.md"
+                "file": "事件timing.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "647fb637de4736c1",
   "lastOpenFiles": [
+    "人纪/002 黄帝内经.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/105 神农本草经.md",
     "+Home.md",
@@ -223,7 +224,6 @@
     "八纲脉.md",
     "人纪/055 滑脉.md",
     "伤寒理路.md",
-    "人纪/195 子午流注.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
     "Sources/Pasted image 20240126100032.png",
