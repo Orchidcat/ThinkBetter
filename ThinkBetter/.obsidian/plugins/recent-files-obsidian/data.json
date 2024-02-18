@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "肥尾曲线",
+      "path": "肥尾曲线.md"
+    },
+    {
       "basename": "事件timing",
       "path": "事件timing.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "105 神农本草经",
       "path": "人纪/105 神农本草经.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "014 辨阳明病脉症并治法",
       "path": "人纪/014 辨阳明病脉症并治法.md"
-    },
-    {
-      "basename": "10个写作的技巧",
-      "path": "10个写作的技巧.md"
     }
   ],
   "omittedPaths": [],

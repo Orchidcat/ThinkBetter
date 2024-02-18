@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b52d3a4b86aae24",
+        "id": "bc8d2c9ab38ef013",
         "type": "tabs",
         "children": [
           {
-            "id": "647fb637de4736c1",
+            "id": "de0d131297619479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件timing.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件timing.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件timing.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件timing.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "事件timing.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "647fb637de4736c1",
+  "active": "de0d131297619479",
   "lastOpenFiles": [
+    "事件timing.md",
     "人纪/002 黄帝内经.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/105 神农本草经.md",
@@ -223,7 +224,6 @@
     "+HomeMOC.md",
     "八纲脉.md",
     "人纪/055 滑脉.md",
-    "伤寒理路.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
     "Sources/Pasted image 20240126100032.png",
