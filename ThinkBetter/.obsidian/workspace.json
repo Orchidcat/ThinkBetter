@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写点儿啥.md",
+                "file": "圆运动的古中医学.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "写点儿啥.md",
+                "file": "六气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写点儿啥.md"
+                "file": "六气.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写点儿啥.md",
+                "file": "六气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "写点儿啥.md"
+                "file": "六气.md"
               }
             }
           }
@@ -241,19 +241,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f02bb0ee3ec8dce7",
+  "active": "e4954906b13a1622",
   "lastOpenFiles": [
-    "+Home.md",
-    "第一性原理.md",
-    "圆运动的古中医学.md",
-    "+HomeMOC.md",
-    "六气.md",
-    "Sources/Pasted image 20240218112932.png",
     "圆运动的古中医学（续）.md",
+    "六气.md",
+    "圆运动的古中医学.md",
+    "+Home.md",
+    "写点儿啥.md",
+    "脉诊学习.md",
+    "第一性原理.md",
+    "+HomeMOC.md",
+    "Sources/Pasted image 20240218112932.png",
     "伤寒理路.md",
     "伤寒读法总纲.md",
     "荣气与卫气.md",
-    "脉诊学习.md",
     "事件timing.md",
     "人纪/002 黄帝内经.md",
     "人纪/089 人纪 - 神农本草经.md",
@@ -274,7 +275,6 @@
     "Sources/Pasted image 20240201111953.png",
     "Sources/Pasted image 20240201111941.png",
     "脉法篇.md",
-    "人纪/153 弦脉.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
     "Sources/Pasted image 20240126100032.png",
