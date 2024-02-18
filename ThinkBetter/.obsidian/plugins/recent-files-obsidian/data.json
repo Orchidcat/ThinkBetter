@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "写点儿啥",
+      "path": "写点儿啥.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
+    },
+    {
       "basename": "六气",
       "path": "六气.md"
     },
     {
       "basename": "圆运动的古中医学（续）",
       "path": "圆运动的古中医学（续）.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "圆运动的古中医学.md"
     },
     {
       "basename": "伤寒理路",
@@ -27,10 +39,6 @@
     {
       "basename": "脉诊学习",
       "path": "脉诊学习.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "肥尾曲线",
@@ -107,10 +115,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+HomeMOC",
-      "path": "+HomeMOC.md"
     },
     {
       "basename": "055 滑脉",
@@ -195,10 +199,6 @@
     {
       "basename": "儿病本气篇",
       "path": "儿病本气篇.md"
-    },
-    {
-      "basename": "药性提纲篇",
-      "path": "药性提纲篇.md"
     }
   ],
   "omittedPaths": [],
