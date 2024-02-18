@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "圆运动的古中医学（续）.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "圆运动的古中医学（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "圆运动的古中医学（续）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "+Home.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           }
@@ -193,11 +194,11 @@
   },
   "active": "de0d131297619479",
   "lastOpenFiles": [
+    "+Home.md",
     "事件timing.md",
     "人纪/002 黄帝内经.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/105 神农本草经.md",
-    "+Home.md",
     "阅读与书籍 MOC.md",
     "The Psychology of Money.md",
     "学会提问.md",
