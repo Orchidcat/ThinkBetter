@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "六气.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "六气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学（续）.md"
+                "file": "六气.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学（续）.md",
+                "file": "六气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学（续）.md"
+                "file": "六气.md"
               }
             }
           }
@@ -204,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "c48467af9c46fd41",
   "lastOpenFiles": [
+    "圆运动的古中医学（续）.md",
     "+Home.md",
     "圆运动的古中医学.md",
-    "圆运动的古中医学（续）.md",
     "六气.md",
     "写点儿啥.md",
     "脉诊学习.md",
