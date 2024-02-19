@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "人纪/005 八纲辨证.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "六气.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d4922dadac3f86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "圆运动的古中医学（续）.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "六淫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,11 +217,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "720dd65ab40dc9d8",
+  "active": "3d4922dadac3f86e",
   "lastOpenFiles": [
-    "+Home.md",
+    "人纪/005 八纲辨证.md",
+    "人纪/076 六淫辩证.md",
+    "人纪/001 @MOC中医.md",
     "六气.md",
     "圆运动的古中医学（续）.md",
+    "+Home.md",
     "圆运动的古中医学.md",
     "写点儿啥.md",
     "脉诊学习.md",
@@ -231,14 +246,11 @@
     "GTD.md",
     "一句话的玩味.md",
     "超速学习.md",
-    "河图洛书.md",
-    "风格感觉.md",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",
     "Sources/Pasted image 20240201112025.png",
     "Sources/Pasted image 20240201111953.png",
     "Sources/Pasted image 20240201111941.png",
-    "脉法篇.md",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
     "Sources/Pasted image 20240126100032.png",
