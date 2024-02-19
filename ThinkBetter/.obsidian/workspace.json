@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四逆汤",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -204,7 +205,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "720dd65ab40dc9d8",
   "lastOpenFiles": [
     "+Home.md",
     "六气.md",
