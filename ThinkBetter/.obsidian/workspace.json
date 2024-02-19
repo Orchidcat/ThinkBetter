@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "雨水",
+                "query": "四逆汤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "720dd65ab40dc9d8",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "+Home.md",
     "六气.md",
