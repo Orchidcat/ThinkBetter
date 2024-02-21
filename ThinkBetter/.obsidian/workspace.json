@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "掌控习惯.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "掌控习惯.md"
+                "file": "一句话的玩味.md"
               }
             }
           }
@@ -241,11 +241,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f515fa07679db86",
+  "active": "b8dfd2bcb11e8772",
   "lastOpenFiles": [
+    "掌控习惯.md",
     "一句话的玩味.md",
     "Clear Thinking.md",
-    "掌控习惯.md",
     "阅读与书籍 MOC.md",
     "风格感觉.md",
     "钢铁是怎样练成的.md",
