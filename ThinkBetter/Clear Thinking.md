@@ -35,7 +35,7 @@ A man can do as he wills, but not will as he wills. 人可以随心所欲，但�
 —ARTHUR SCHOPENHAUER
 ```
 
-
+你选择的环境将代替意志力来监督你做出对的选择。
 
 
 
