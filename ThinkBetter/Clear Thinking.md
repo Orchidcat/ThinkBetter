@@ -18,11 +18,18 @@ link:
 - 识别生物本能时刻（这通常就是需要停下来做思考的时候）
 	- 自我保护
 	- 无意识的领土欲
-- 了解自己的出厂设置
-	- 情绪设定，自我设定，社交设定，惯性设定
+- 了解自己的出厂设置（defaults)
+	- 情绪设定：倾向于对情绪做出反应，而不是理由以及事实
+	- 自我设定：倾向于对威胁自我，以及威胁自我定位的事做出反应
+	- 社交设定：倾向于遵循社交圈(很容易低估我们融入人群的生物本能)
+	- 惰性设定：对抗改变，以及相似的想法，进程，环境等
 
+People who master their defaults get the best real-world results.
 
-
+```ad-quote
+Where all think alike, no one thinks very much.
+—WALTER LIPPMANN, The Stakes of Diplomacy
+```
 
 
 
