@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "舌苔篇",
+      "path": "舌苔篇.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "六气",
       "path": "六气.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "圆运动的古中医学.md"
     },
     {
       "basename": "写点儿啥",
@@ -195,10 +199,6 @@
     {
       "basename": "188 止嗽散",
       "path": "人纪/188 止嗽散.md"
-    },
-    {
-      "basename": "温病本气篇",
-      "path": "温病本气篇.md"
     }
   ],
   "omittedPaths": [],

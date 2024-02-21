@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d02304a981d3861d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "舌苔篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "舌苔篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "舌苔篇.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "舌苔篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "舌苔篇.md"
               }
             }
           }
@@ -241,10 +253,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b8dfd2bcb11e8772",
+  "active": "d02304a981d3861d",
   "lastOpenFiles": [
-    "掌控习惯.md",
+    "圆运动的古中医学.md",
+    "舌苔篇.md",
     "一句话的玩味.md",
+    "掌控习惯.md",
     "Clear Thinking.md",
     "阅读与书籍 MOC.md",
     "风格感觉.md",
@@ -256,7 +270,6 @@
     "人纪/076 六淫辩证.md",
     "人纪/001 @MOC中医.md",
     "六气.md",
-    "圆运动的古中医学.md",
     "写点儿啥.md",
     "脉诊学习.md",
     "第一性原理.md",
@@ -269,7 +282,6 @@
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/105 神农本草经.md",
     "The Psychology of Money.md",
-    "学会提问.md",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",
     "Sources/Pasted image 20240201112025.png",
