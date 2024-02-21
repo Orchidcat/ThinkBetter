@@ -26,7 +26,7 @@ list startDate+author + rating  from #UnReadBook
 
 ```dataview
 table type as "描述" ,file.cday.year as "年",file.cday.month as "月" from #Book 
-where file.cday.year=2023
+where file.cday.year=2024
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
