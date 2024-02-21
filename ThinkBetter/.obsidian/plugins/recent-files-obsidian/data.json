@@ -5,6 +5,10 @@
       "path": "Clear Thinking.md"
     },
     {
+      "basename": "掌控习惯",
+      "path": "掌控习惯.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "温病本气篇",
       "path": "温病本气篇.md"
-    },
-    {
-      "basename": "019 常用8种治法",
-      "path": "人纪/019 常用8种治法.md"
     }
   ],
   "omittedPaths": [],
