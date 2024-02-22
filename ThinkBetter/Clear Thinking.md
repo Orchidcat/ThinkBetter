@@ -39,6 +39,34 @@ A man can do as he wills, but not will as he wills. 人可以随心所欲，但�
 
 
 
+### Building Strength
+
+增强力量是用来驯服我们天性中的野马，来改善生活。
+
+对抗清晰思维，不仅仅需要意志力。
+
+清晰思维依赖于习惯的力量，来对抗上述默认设置。
+**建立习惯是创造积极惯性的关键**。
+
+- 自我问责（Self-accountability)
+- 自我认知（Self-Knowledge)
+- 自我控制（Self-control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

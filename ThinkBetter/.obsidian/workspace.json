@@ -23,8 +23,12 @@
             "id": "fafc8c11866cc4de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Clear Thinking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -85,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clear Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Clear Thinking.md"
+              }
             }
           },
           {
@@ -139,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clear Thinking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Clear Thinking.md"
+              }
             }
           }
         ],
