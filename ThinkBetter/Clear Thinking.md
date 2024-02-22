@@ -67,7 +67,8 @@ as you find it, not as you would have it be.
 ```
 
 <mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark>
-The path to being exceptional begins when you decide to be responsible for your actions no matter the situation.
+- The path to being exceptional begins when you decide to be responsible for your actions no matter the situation.
+- When you put outcome over ego, you get better results.
 
 当人们的行为与他们对自己的看法不一致时，他们倾向于通过指责他人或不利的环境来隔离自己的自我。心理学家甚至有一个术语来形容这种倾向。自利偏见（self-serving bias）
 
@@ -77,6 +78,9 @@ The path to being exceptional begins when you decide to be responsible for your 
 一开始就不应该陷入这样的境地等。
 
 
+行动时：
+1. 询问自己是否该行动会是将来更好
+2. 
 
 
 
@@ -84,3 +88,5 @@ The path to being exceptional begins when you decide to be responsible for your 
 
 
 
+参考：
+Exceptional people  杰出的人。
