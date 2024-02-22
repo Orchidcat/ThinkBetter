@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e70bcdbd2bf7956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "甘草.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "甘草.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "甘草.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "甘草.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "+Home.md"
+                "file": "甘草.md"
               }
             }
           }
@@ -204,11 +217,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1894fa2ce997208c",
+  "active": "5e70bcdbd2bf7956",
   "lastOpenFiles": [
+    "甘草.md",
     "Clear Thinking.md",
-    "Sources/Pasted image 20240222103952.png",
+    "人纪/078 麻黄杏仁甘草石膏汤.md",
     "+Home.md",
+    "Sources/Pasted image 20240222103952.png",
     "一句话的玩味.md",
     "舌苔篇.md",
     "Sources/Pasted image 20240221133236.png",
@@ -233,7 +248,6 @@
     "事件timing.md",
     "人纪/002 黄帝内经.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/105 神农本草经.md",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",
     "Sources/Pasted image 20240201112025.png",

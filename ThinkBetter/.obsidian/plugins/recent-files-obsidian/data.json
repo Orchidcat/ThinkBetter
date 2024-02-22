@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "甘草",
+      "path": "甘草.md"
     },
     {
       "basename": "Clear Thinking",
       "path": "Clear Thinking.md"
+    },
+    {
+      "basename": "078 麻黄杏仁甘草石膏汤",
+      "path": "人纪/078 麻黄杏仁甘草石膏汤.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "舌苔篇",
@@ -191,14 +199,6 @@
     {
       "basename": "186 真脏脉",
       "path": "人纪/186 真脏脉.md"
-    },
-    {
-      "basename": "时病本气篇",
-      "path": "时病本气篇.md"
-    },
-    {
-      "basename": "188 止嗽散",
-      "path": "人纪/188 止嗽散.md"
     }
   ],
   "omittedPaths": [],
