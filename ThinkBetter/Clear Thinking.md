@@ -48,13 +48,23 @@ A man can do as he wills, but not will as he wills. 人可以随心所欲，但�
 清晰思维依赖于习惯的力量，来对抗上述默认设置。
 **建立习惯是创造积极惯性的关键**。
 
-- 自我问责（Self-accountability)
-- 自我认知（Self-Knowledge)
-- 自我控制（Self-control
+- **自我问责**（Self-accountability):让自己对发展自己的能力负责，管理自己的不足，用理性来管理自己的行为
+- **自我认知**（Self-knowledge):了解自己的长处和短处——你能做什么，不能做什么
+- **自我控制**（Self-control):控制你的恐惧、欲望和情绪
+- **自信**（Self-confidence):相信自己的能力和对他人的价值
 
 
+#### 自我问责
+I am the master of my fate, I am the captain of my soul.
+—W. E. HENLEY, “INVICTUS”
 
+缺乏自我问责，相当于人生实在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。
 
+```ad-quote
+Complaining is not a strategy. You have to work with the world
+as you find it, not as you would have it be.
+—JEFF BEZOS
+```
 
 
 
