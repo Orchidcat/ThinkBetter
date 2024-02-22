@@ -118,11 +118,12 @@ Outcome over ego.
 
 
 
+The most successful people have the **highest standards**, not only for others but for themselves.
+
+<mark style="background: #FFB86CA6;">you don’t speak unless you know what you’re talking about.</mark>
 
 
-
-
-
+为什么我们会有低标准？
 
 
 
