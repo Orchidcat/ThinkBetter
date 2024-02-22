@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clear Thinking.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clear Thinking.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clear Thinking.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clear Thinking.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -205,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fafc8c11866cc4de",
+  "active": "1894fa2ce997208c",
   "lastOpenFiles": [
+    "Clear Thinking.md",
     "Sources/Pasted image 20240222103952.png",
     "+Home.md",
     "一句话的玩味.md",
@@ -214,7 +214,6 @@
     "Sources/Pasted image 20240221133236.png",
     "圆运动的古中医学.md",
     "掌控习惯.md",
-    "Clear Thinking.md",
     "阅读与书籍 MOC.md",
     "风格感觉.md",
     "钢铁是怎样练成的.md",
@@ -242,7 +241,6 @@
     "Sources/Pasted image 20240201111941.png",
     "Sources/Pasted image 20240126105810.png",
     "Sources/Pasted image 20240126105330.png",
-    "Sources/Pasted image 20240126100032.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",
