@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "甘草.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "甘草.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "甘草.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "甘草.md"
+                "file": "+Home.md"
               }
             }
           }
@@ -217,7 +216,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5e70bcdbd2bf7956",
+  "active": "1894fa2ce997208c",
   "lastOpenFiles": [
     "甘草.md",
     "Clear Thinking.md",
