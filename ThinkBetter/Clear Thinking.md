@@ -133,3 +133,31 @@ The most successful people have the **highest standards**, not only for others b
 
 参考：
 Exceptional people  杰出的人。
+
+### Managing Weakness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
