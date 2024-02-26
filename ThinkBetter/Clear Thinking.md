@@ -260,9 +260,12 @@ Exceptional people  杰出的人。
 最难对付的挫折是哪些我们没有准备，并且没有预期的挫折。这就是为什么我们要防患于未然。（许多人认为他们不善于解决问题，而实际上他们不善于预测问题。）
 
 - 想象未来会出错的问题；而不仅仅是自己期望的结果。
-- 二级思维，多问自己“然后呢？” （Tiny choices compound. That’s why second-level thinking is needed.）
+- 二元思维（[[二阶思维]]的问题是只有yes和no，没有中间地带，但现实不是这样的。这种思维方式，实际上是降低了思维的维度。），多问自己“然后呢？” （Tiny choices compound. That’s why second-level thinking is needed.）
+- 强迫自己发现问题可能的解决方法，至少三个。
 
-
+```ad-quote
+Simplicity is the end result of long, hard work, not the starting point.
+```
 
 
 
