@@ -139,9 +139,9 @@ The decision itself should represent the outcome of the decision-making process.
 
 If the only tool you have is a hammer, you tend to see every problem as a nail。 拥有尽量丰富的工具盒，将会提供给你更好的选择。
 
-
-
-
+#### Define the problem
+只有对结果负责的人，才能定义问题。
+定义问题首先要确定两件事:  (1)你想达到什么目标;(2)实现目标的道路上有什么障碍。
 
 
 
