@@ -128,6 +128,10 @@ If you choose not to decide, you still have made a choice.
 —NEIL PEART
 ```
 
+The decision = the judgment that a certain option is the best one
+The decision itself should represent the outcome of the decision-making process. That process is about weighing your options with the aim of selecting the best one, and it’s composed of four stages: defining the problem, exploring possible solutions, evaluating the options, and finally making the judgment and executing the best option.
+
+![[Pasted image 20240226085912.png|300x250]]
 
 
 
