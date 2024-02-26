@@ -22,23 +22,23 @@ link:
 - 了解自己的出厂设置（defaults)
 	- 情绪设定：倾向于对情绪做出反应，而不是理由以及事实
 	- 自我设定：倾向于对威胁自我，以及威胁自我定位的事做出反应
-	- 社交设定：倾向于从众(很容易低估我们融入人群的生物本能)；把集体的舒适误认为你所做的事情会带来更好结果的证据，是社会默认的大谎言。当意识到你在做别人都在做的事情是，那么是时候改思考一下，做一些不一样的事儿了。
+	- 社交设定：倾向于从众(很容易低估我们融入人群的生物本能)；把集体的舒适误认为你所做的事情会带来更好结果的证据，是社会默认的大谎言。<mark style="background: #ADCCFFA6;">当意识到你在做别人都在做的事情是，那么是时候改思考一下，做一些不一样的事儿了。</mark>
 	- 惰性设定：对抗改变，以及相似的想法，进程，环境等（**权重最高**）[[掌控习惯]]
 	- 犯错时加倍下注
 
 People who master their defaults get the best real-world results.
 
 ```ad-quote
-Where all think alike, no one thinks very much. 在于我们想法一样的地方，没人再思考
+Where all think alike, no one thinks very much. 
+我们想法一样的地方，没人再思考
 —WALTER LIPPMANN, The Stakes of Diplomacy
 
-A man can do as he wills, but not will as he wills. 人可以随心所欲，但不能随心所欲
+A man can do as he wills, but not will as he wills. 
+人可以随心所欲，但不能随心所欲
 —ARTHUR SCHOPENHAUER
 ```
 
 你选择的环境将代替意志力来监督你做出对的选择。
-
-
 
 ### Building Strength
 
