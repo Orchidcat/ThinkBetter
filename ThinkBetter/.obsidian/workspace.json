@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二阶思维.md",
+                "file": "Clear Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二阶思维.md",
+                "file": "Clear Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二阶思维.md"
+                "file": "Clear Thinking.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二阶思维.md",
+                "file": "Clear Thinking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "二阶思维.md"
+                "file": "Clear Thinking.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "d49fc90538fb4d33",
   "lastOpenFiles": [
-    "Clear Thinking.md",
     "二阶思维.md",
+    "Clear Thinking.md",
     "Sources/Pasted image 20240226085912.png",
     "+Home.md",
     "WorkFlowMOC.md",
