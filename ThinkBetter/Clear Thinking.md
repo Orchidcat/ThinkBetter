@@ -59,7 +59,7 @@ A man can do as he wills, but not will as he wills.
 I am the master of my fate, I am the captain of my soul.
 —W. E. HENLEY, “INVICTUS”
 
-缺乏自我问责，相当于人生实在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。
+缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。
 
 ```ad-quote
 Complaining is not a strategy. You have to work with the world
@@ -88,16 +88,13 @@ as you find it, not as you would have it be.
 
 
 
-重要的不是你拥有多少知识，而是你如何运用它。
+<mark style="background: #FF5582A6;">重要的不是你拥有多少知识，而是你如何运用它。</mark>
 
 #### 自我控制
 
 获得成功的很大一部分是有自制力去做任何需要做的事情，不管你现在是否想做。
 
 #### 自信
-
-
-
 
 当自我试图阻止你承认你可能有的任何缺陷时，自信给你承认这些缺陷的力量。这就是你学会谦卑的方法。有自信的人从不向绝望或毫无价值的感觉屈服。
 
@@ -124,6 +121,12 @@ The most successful people have the **highest standards**, not only for others b
 <mark style="background: #FFB86CA6;">you don’t speak unless you know what you’re talking about.</mark>
 
 
+### Decisions:Clear thinking in action
+
+```ad-quote
+If you choose not to decide, you still have made a choice.
+—NEIL PEART
+```
 
 
 

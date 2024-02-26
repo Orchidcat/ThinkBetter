@@ -1,7 +1,7 @@
 ---
 alias: ["000", "Home"]
 ---
-
+![[Pasted image 20240222103952.png]]
 # Home 
 
 [[+HomeMOC]]
