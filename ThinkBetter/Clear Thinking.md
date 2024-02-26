@@ -134,6 +134,12 @@ The decision itself should represent the outcome of the decision-making process.
 ![[Pasted image 20240226085912.png|300x250]]
 
 
+当风险很低时，迅速做出选择，应该是更好的。（尽量少花费时间）
+当风险很高时，就需要做决策，而不是选择了。
+
+If the only tool you have is a hammer, you tend to see every problem as a nail。 拥有尽量丰富的工具盒，将会提供给你更好的选择。
+
+
 
 
 
