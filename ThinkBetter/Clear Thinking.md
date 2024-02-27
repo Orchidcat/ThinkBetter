@@ -238,21 +238,6 @@ To understand is to know what to do.
 
 
 
-
-
-
-参考：
-Exceptional people  杰出的人。
-As the old saying goes ， 俗话说
-by contrast  想比之下
-
-
-
-
-
-
-
-
 #### Explore possible solutions
 
 想象不同的解决方式，是想象世界未来的改变。—— 回避残酷的现实是决策指定阶段最大的问题。
@@ -386,7 +371,13 @@ If you don’t know where you want to go, any road will take you there.
 ![[Pasted image 20240227112818.png|400x350]]
 
 
-已经达到
+已经达到收集信息的极限情况的迹象：
+- 你能够从各个角度对你正在考虑的选择进行可信的支持和反对。
+- 你通过向那些离问题不止一步的人或没有解决这类问题经验的人寻求建议来拓展你的洞察力。
+- 你觉得你需要学习更多，但你已经停止了学习新的东西，而是一遍又一遍地回顾相同的信息(或相同的论点)。
+
+
+知道该做什么是不够的，你需要去做。
 
 
 
@@ -396,4 +387,8 @@ If you don’t know where you want to go, any road will take you there.
 
 
 
+参考：
+Exceptional people  杰出的人。
+As the old saying goes ， 俗话说
+by contrast  想比之下
 
