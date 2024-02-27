@@ -5,6 +5,10 @@
       "path": "Clear Thinking.md"
     },
     {
+      "basename": "没有理解的信息是危险的",
+      "path": "没有理解的信息是危险的.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "189 中毒的临床表现",
       "path": "人纪/189 中毒的临床表现.md"
-    },
-    {
-      "basename": "生命宇宙篇",
-      "path": "生命宇宙篇.md"
     }
   ],
   "omittedPaths": [],
