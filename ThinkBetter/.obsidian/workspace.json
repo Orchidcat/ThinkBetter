@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c93f7eaa09efe6b",
+            "id": "fc1d79aebbda7e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "六淫",
+                "query": "超速",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,16 +191,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1c93f7eaa09efe6b",
+  "active": "fc1d79aebbda7e36",
   "lastOpenFiles": [
+    "超速学习.md",
+    "+Home.md",
+    "风格感觉.md",
+    "有效写作-史蒂文平克的见解.md",
+    "阅读与书籍 MOC.md",
     "二阶思维.md",
     "Clear Thinking.md",
     "Sources/Pasted image 20240226085912.png",
-    "+Home.md",
     "WorkFlowMOC.md",
     "100种心智模型.md",
     "愚蠢的来源.md",
-    "阅读与书籍 MOC.md",
     "心智模型 MOC.md",
     "一句话的玩味.md",
     "甘草.md",
@@ -210,7 +213,6 @@
     "Sources/Pasted image 20240221133236.png",
     "圆运动的古中医学.md",
     "掌控习惯.md",
-    "风格感觉.md",
     "钢铁是怎样练成的.md",
     "伤寒理路.md",
     "圆运动的古中医学（续）.md",
@@ -220,8 +222,6 @@
     "六气.md",
     "写点儿啥.md",
     "脉诊学习.md",
-    "第一性原理.md",
-    "+HomeMOC.md",
     "Sources/Pasted image 20240218112932.png",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",
