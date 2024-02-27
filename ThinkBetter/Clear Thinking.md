@@ -243,6 +243,8 @@ To understand is to know what to do.
 
 参考：
 Exceptional people  杰出的人。
+As the old saying goes ， 俗话说
+by contrast  想比之下
 
 
 
@@ -285,6 +287,18 @@ Simplicity is the end result of long, hard work, not the starting point.
 	3. 果断：标准必须只支持一种选择;他们不能导致几个人打成平局。（优柔寡断的标准是另一个迹象，表明你没有完全理解问题，并且担心自己会出错。）
 2. 如何应用1
 
+
+
+```ad-quote
+If you don’t know where you want to go, any road will take you there.
+```
+
+定义最重要的事情
+
+参考一个决定体系：
+1. 在没有我的情况下，他们可以进行决策
+2. 在分享他们的决策原因的情况下，我可以进行二次确认
+3. 我想自己做的决策
 
 
 
