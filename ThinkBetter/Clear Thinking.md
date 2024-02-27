@@ -455,7 +455,9 @@ If you don’t know where you want to go, any road will take you there.
 3. 把你的手绑起来，保证你的执行
 
 
+#### 从你的决策中学习
 
+伟大的决策者掌握了从错误和成功中学习的能力。正是这种能力让他们与众不同。它使他们能够重复成功，避免重复失败。
 
 
 
