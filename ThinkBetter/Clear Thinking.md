@@ -279,7 +279,8 @@ Simplicity is the end result of long, hard work, not the starting point.
 2. 从这三个角度来看待机会成本:(1)与什么相比?（2）然后呢?(3)以什么为代价?
 
 #### 评估选择
-
+1. 评估的标准（标准必须显而易见
+2. 如何应用1
 
 
 
