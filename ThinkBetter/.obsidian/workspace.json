@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f3a8406ab4847a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "有效思维的5个要素.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "有效思维的5个要素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "有效思维的5个要素.md"
               }
             }
           },
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "有效思维的5个要素.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "有效思维的5个要素.md"
               }
             }
           }
@@ -205,8 +217,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9406f9c3ef350056",
+  "active": "6f3a8406ab4847a8",
   "lastOpenFiles": [
+    "阅读与书籍 MOC.md",
     "Clear Thinking.md",
     "+Home.md",
     "Sources/Pasted image 20240227112818.png",
@@ -215,7 +228,6 @@
     "超速学习.md",
     "风格感觉.md",
     "有效写作-史蒂文平克的见解.md",
-    "阅读与书籍 MOC.md",
     "二阶思维.md",
     "Sources/Pasted image 20240226085912.png",
     "WorkFlowMOC.md",
