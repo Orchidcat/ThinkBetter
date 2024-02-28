@@ -1,6 +1,6 @@
 ---
 tags: ['articles','book','thinking']
-type: 
+type: 如果今天是你的最后一天，你仍会做今天你准备做的事儿吗
 date: 2024-02-21
 link: 
 ---
@@ -535,6 +535,28 @@ Let us prepare our minds as if we had come to the very end of life
 提醒自己即将死去是我一生中遇到的最重要的工具，它帮助我做出了人生中的重大选择。因为几乎所有的事情——所有的外界期望，所有的骄傲，所有对尴尬或失败的恐惧——在死亡面前都会消失，留下的只有真正重要的东西。记住你会死，是我所知道的避免陷入“你会失去什么”思维陷阱的最好方法。
 ---- 乔布斯
 ```
+
+如果每天早晨在镜子中，询问自己：如果今天是你的最后一天，你仍会做今天你准备做的事儿吗？
+
+```ad-tip
+It is not that we have a short time to live, but that we waste a lot of it.
+—SENECA, On the Shortness of Life
+```
+
+
+#### life lessons from death
+
+
+以终为始的心态会让他们更容易决定走哪条路。一般来说，生活也是如此。
+
+
+
+
+
+
+
+
+
 
 
 
