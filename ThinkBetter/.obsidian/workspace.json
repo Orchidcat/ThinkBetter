@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9406f9c3ef350056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读与书籍 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clear Thinking.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clear Thinking.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clear Thinking.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clear Thinking.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           }
@@ -192,10 +205,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5d8376b4d6f94d1c",
+  "active": "9406f9c3ef350056",
   "lastOpenFiles": [
-    "+Home.md",
     "Clear Thinking.md",
+    "+Home.md",
     "Sources/Pasted image 20240227112818.png",
     "Sources/Pasted image 20240227111548.png",
     "没有理解的信息是危险的.md",
