@@ -494,6 +494,7 @@ Think of yourself as dead. You have lived your life. Now take what’s left and 
 真正的智慧不是来自于追求成功，而是来自于塑造品格。正如吉姆·柯林斯所写，  “没有纪律就没有效率，没有品格就没有纪律。”
 
 
+你追求的东西的质量决定了你生活的质量。Comparison is the thief of joy（攀比是偷走快乐的小偷）
 
 
 
