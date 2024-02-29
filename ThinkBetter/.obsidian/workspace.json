@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "983eb9e61b5f85e5",
+        "id": "d44be1ba50826d22",
         "type": "tabs",
         "children": [
           {
-            "id": "6b03c8d2532e7da1",
+            "id": "5d530d14b32ce7b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/长沙药解.md",
+                "file": "圆运动的古中医学（续）.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/长沙药解.md",
+                "file": "圆运动的古中医学（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/长沙药解.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/长沙药解.md",
+                "file": "圆运动的古中医学（续）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "人纪/长沙药解.md"
+                "file": "圆运动的古中医学（续）.md"
               }
             }
           }
@@ -191,10 +192,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6b03c8d2532e7da1",
+  "active": "5d530d14b32ce7b3",
   "lastOpenFiles": [
-    "人纪/长沙药解.md",
     "+Home.md",
+    "甘草.md",
+    "人纪/长沙药解.md",
     "阅读与书籍 MOC.md",
     "Clear Thinking.md",
     "Sources/Pasted image 20240227112818.png",
@@ -210,7 +212,6 @@
     "愚蠢的来源.md",
     "心智模型 MOC.md",
     "一句话的玩味.md",
-    "甘草.md",
     "人纪/078 麻黄杏仁甘草石膏汤.md",
     "Sources/Pasted image 20240222103952.png",
     "舌苔篇.md",
