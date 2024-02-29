@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/Clear Thinking.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -138,7 +139,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "884acab7f7bdeb02",
+  "active": "baf4eaeea9226d3e",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
     "ThinkBetter/+HomeMOC.md",
