@@ -1,10 +1,11 @@
 ---
 author: 何柳
-tags: ['Book']
+tags:
+  - Book
 type: Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
 startDate: 2022-12-01
 endDate: 
-rating:
+rating: 
 ---
 
 ## 书名：The Psychology of Money📖

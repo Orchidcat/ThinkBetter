@@ -1,5 +1,6 @@
 ---
-tags: ['articles']
+tags:
+  - articles
 date: 2022-07-01
 desc: 时间是世界上唯一应该节俭的东西
 ---

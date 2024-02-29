@@ -1,5 +1,6 @@
 ---
-tags: ['Speeches']
+tags:
+  - Speeches
 desc: 犯错误；享受旅程；
 date: 2022-07-18
 ---

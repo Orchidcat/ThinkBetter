@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 整辆车的宽度
 attr: 一般为肩宽
 ---

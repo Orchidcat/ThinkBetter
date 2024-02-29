@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 轮组大小
 attr: 
 ---

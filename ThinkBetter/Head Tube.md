@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 头管长度
 attr: 较长的头管会提升手部位置，但Stack是更好的衡量标准
 ---

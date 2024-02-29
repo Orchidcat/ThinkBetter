@@ -1,10 +1,11 @@
 ---
 author: 张纯如
-tags: ['Book']
+tags:
+  - Book
 type: 遗忘是第二次屠杀
 startDate: 2022-12-21
-endDate:
-rating: ⭐⭐⭐ 
+endDate: 
+rating: ⭐⭐⭐
 ---
 
 历史的反思：

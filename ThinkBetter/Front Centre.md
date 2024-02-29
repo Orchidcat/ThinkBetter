@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 五通中心到前轴的距离
 attr: 
 ---

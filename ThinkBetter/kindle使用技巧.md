@@ -1,5 +1,6 @@
 ---
-tags: ['kindle']
+tags:
+  - kindle
 ---
 
 - 截屏：同时点中屏幕的四个角

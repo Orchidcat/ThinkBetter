@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 车架所需的座杆直径
 attr: 
 ---

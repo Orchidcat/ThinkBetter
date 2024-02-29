@@ -47,5 +47,6 @@
   "highlightr-plugin",
   "quickadd",
   "obsidian-local-rest-api",
-  "smart-connections"
+  "smart-connections",
+  "make-md"
 ]

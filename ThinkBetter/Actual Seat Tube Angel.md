@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 
 attr: 用于座管与BB并不相交的情况
 ---

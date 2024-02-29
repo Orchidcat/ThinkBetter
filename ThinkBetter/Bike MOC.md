@@ -1,5 +1,7 @@
 ---
-tags: ['MOC','Bike']
+tags:
+  - MOC
+  - Bike
 ---
 
 [[+Home]]

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ae34e7aa3ea2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,9 +81,17 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "aade679beb38c553",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/圆运动的古中医学（续）.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人纪/圆运动的古中医学（续）.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,17 +196,20 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "canvas:新建白板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
       "janitor:Janitor: scan vault": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5d530d14b32ce7b3",
+  "active": "5ae34e7aa3ea2a8f",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "人纪/圆运动的古中医学（续）.md",
     "+Home.md",
     "甘草.md",
     "人纪/长沙药解.md",
@@ -220,11 +236,9 @@
     "掌控习惯.md",
     "钢铁是怎样练成的.md",
     "伤寒理路.md",
-    "人纪/圆运动的古中医学（续）.md",
     "人纪/005 八纲辨证.md",
     "人纪/076 六淫辩证.md",
     "人纪/001 @MOC中医.md",
-    "六气.md",
     "Sources/Pasted image 20240218112932.png",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",

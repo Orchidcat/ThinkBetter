@@ -1,5 +1,6 @@
 ---
-tags: ['Bike/几何学']
+tags:
+  - Bike/几何学
 desc: 实际的上管长度（在非水平上管)
 attr: 
 ---

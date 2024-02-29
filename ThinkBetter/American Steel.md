@@ -1,9 +1,10 @@
 ---
 author: Richard Preston
-tags: ['UnReadBook']
+tags:
+  - UnReadBook
 type: 
 startDate: 
-endDate:
+endDate: 
 rating: ⭐
 ---
 
