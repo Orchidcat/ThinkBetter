@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "十二经络歌诀.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "循行",
+                "query": "大肠",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "十二经络歌诀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "十二经络歌诀.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆运动的古中医学.md",
+                "file": "十二经络歌诀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "圆运动的古中医学.md"
+                "file": "十二经络歌诀.md"
               }
             }
           }
@@ -201,6 +201,7 @@
   },
   "active": "4b21b0ba7ab09194",
   "lastOpenFiles": [
+    "圆运动的古中医学.md",
     "古方上篇.md",
     "人纪/004 金匮要略.md",
     "人纪/195 子午流注.md",
@@ -232,7 +233,6 @@
     "一句话的玩味.md",
     "人纪/078 麻黄杏仁甘草石膏汤.md",
     "Sources/Pasted image 20240222103952.png",
-    "舌苔篇.md",
     "Sources/Pasted image 20240221133236.png",
     "Sources/Pasted image 20240218112932.png",
     "Sources/Pasted image 20240201112054.png",
