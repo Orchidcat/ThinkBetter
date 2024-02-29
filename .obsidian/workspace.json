@@ -65,9 +65,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "884acab7f7bdeb02",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "baf4eaeea9226d3e",
+  "active": "884acab7f7bdeb02",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
     "ThinkBetter/+HomeMOC.md",
