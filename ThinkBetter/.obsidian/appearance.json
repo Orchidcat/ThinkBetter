@@ -1,8 +1,8 @@
 {
   "baseFontSize": 15,
   "cssTheme": "Things",
-  "theme": "system",
-  "translucency": false,
+  "theme": "obsidian",
+  "translucency": true,
   "accentColor": "",
   "showViewHeader": false,
   "textFontFamily": "Input Sans"
