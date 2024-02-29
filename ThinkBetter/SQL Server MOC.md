@@ -1,9 +1,5 @@
 
 
-
-
-
-
 - datamask 
 - query Store
 - natively compile models(#hekaton)

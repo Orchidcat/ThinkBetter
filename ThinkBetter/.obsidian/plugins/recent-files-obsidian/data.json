@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "make it stick",
+      "path": "make it stick.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "SQL Server MOC",
+      "path": "SQL Server MOC.md"
     },
     {
       "basename": "古方上篇",
@@ -63,10 +75,6 @@
     {
       "basename": "有效思维的5个要素",
       "path": "有效思维的5个要素.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "Clear Thinking",
@@ -191,14 +199,6 @@
     {
       "basename": "The Psychology of Money",
       "path": "The Psychology of Money.md"
-    },
-    {
-      "basename": "学会提问",
-      "path": "学会提问.md"
-    },
-    {
-      "basename": "随手摘",
-      "path": "随手摘.md"
     }
   ],
   "omittedPaths": [],
