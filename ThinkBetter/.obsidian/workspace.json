@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9712b7dd44b2ad2",
+        "id": "89cedca43a34d80e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b21b0ba7ab09194",
+            "id": "c0ad18093bdea432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28f94f1a6479084b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "古方上篇.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "古方上篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "古方上篇.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "古方上篇.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "古方上篇.md"
               }
             }
           }
@@ -199,8 +212,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4b21b0ba7ab09194",
+  "active": "28f94f1a6479084b",
   "lastOpenFiles": [
+    "+Home.md",
+    "十二经络歌诀.md",
     "圆运动的古中医学.md",
     "古方上篇.md",
     "人纪/004 金匮要略.md",
@@ -214,7 +229,6 @@
     "人纪/圆运动的古中医学（续）.md",
     "Spaces/Home",
     "Spaces",
-    "+Home.md",
     "甘草.md",
     "人纪/长沙药解.md",
     "阅读与书籍 MOC.md",
@@ -231,7 +245,6 @@
     "愚蠢的来源.md",
     "心智模型 MOC.md",
     "一句话的玩味.md",
-    "人纪/078 麻黄杏仁甘草石膏汤.md",
     "Sources/Pasted image 20240222103952.png",
     "Sources/Pasted image 20240221133236.png",
     "Sources/Pasted image 20240218112932.png",
