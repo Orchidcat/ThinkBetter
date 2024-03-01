@@ -12,6 +12,11 @@
       "folder": "人纪",
       "tag": "#中医",
       "pattern": ""
+    },
+    {
+      "folder": "Book",
+      "tag": "#book",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

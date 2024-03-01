@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "噪声",
+      "path": "Book/噪声.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "Clear Thinking.md"
+      "basename": "2023-W29",
+      "path": "DailyNotes/2023-W29.md"
+    },
+    {
+      "basename": "2022-04-27",
+      "path": "DailyNotes/2022-04-27.md"
+    },
+    {
+      "basename": "2023-W30",
+      "path": "DailyNotes/2023-W30.md"
+    },
+    {
+      "basename": "2023-05-12",
+      "path": "DailyNotes/2023-05-12.md"
+    },
+    {
+      "basename": "2023-02-28",
+      "path": "DailyNotes/2023-02-28.md"
+    },
+    {
+      "basename": "2023-W06",
+      "path": "DailyNotes/2023-W06.md"
+    },
+    {
+      "basename": "2023-W07",
+      "path": "DailyNotes/2023-W07.md"
     },
     {
       "basename": "107 升降沉浮",
@@ -167,38 +199,6 @@
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
-    },
-    {
-      "basename": "+HomeMOC",
-      "path": "+HomeMOC.md"
-    },
-    {
-      "basename": "伤寒读法总纲",
-      "path": "伤寒读法总纲.md"
-    },
-    {
-      "basename": "荣气与卫气",
-      "path": "荣气与卫气.md"
-    },
-    {
-      "basename": "肥尾曲线",
-      "path": "肥尾曲线.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "事件timing.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "人纪/002 黄帝内经.md"
-    },
-    {
-      "basename": "105 神农本草经",
-      "path": "人纪/105 神农本草经.md"
     }
   ],
   "omittedPaths": [],
