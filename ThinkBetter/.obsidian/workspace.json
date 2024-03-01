@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "Book/噪声.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Book/噪声.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Book/噪声.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "+Home.md"
+                "file": "Book/噪声.md"
               }
             }
           }
@@ -211,10 +212,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0e550ad98dc8ea3e",
+  "active": "a606c21c01a5a422",
   "lastOpenFiles": [
-    "Book/噪声.md",
     "+Home.md",
+    "Book/噪声.md",
     "Book/Clear Thinking.md",
     "Sources/013C1D99.png",
     "DailyNotes/2023-W29.md",
