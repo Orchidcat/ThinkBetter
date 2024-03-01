@@ -4,7 +4,7 @@ alias:
   - Home
 ---
 ![[Pasted image 20240222103952.png]]
-[[Clear Thinking^]]
+[[Clear Thinking#^924db7]]
 # Home 
 
 [[+HomeMOC]]
