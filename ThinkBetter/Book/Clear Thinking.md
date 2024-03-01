@@ -88,7 +88,7 @@ as you find it, not as you would have it be.
 
 #### 自我认知（know yourself)
 ![[Pasted image 20240222103952.png]]
-古希腊的训诫“认识你自己”刻在德尔菲阿波罗神庙的前院。
+古希腊的训诫“认识你自己”刻在德尔菲阿波罗神庙的前院。 ^924db7
 
 
 
