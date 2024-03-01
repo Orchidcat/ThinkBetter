@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
-                "mode": "source",
+                "file": "愿望清单 MOC.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/噪声.md",
+                "file": "愿望清单 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/噪声.md"
+                "file": "愿望清单 MOC.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/噪声.md",
+                "file": "愿望清单 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Book/噪声.md"
+                "file": "愿望清单 MOC.md"
               }
             }
           }
@@ -209,13 +208,15 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "a606c21c01a5a422",
+  "active": "0e550ad98dc8ea3e",
   "lastOpenFiles": [
-    "+Home.md",
     "Book/噪声.md",
+    "愿望清单 MOC.md",
+    "+Home.md",
     "Book/Clear Thinking.md",
     "Sources/013C1D99.png",
     "DailyNotes/2023-W29.md",

@@ -2,6 +2,7 @@
 alias:
   - "000"
   - Home
+sticker: emoji//1f6b2
 ---
 ![[Pasted image 20240222103952.png]]
 [[Clear Thinking#^924db7]]
