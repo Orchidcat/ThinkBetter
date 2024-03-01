@@ -5,6 +5,10 @@
       "path": "+Home.md"
     },
     {
+      "basename": "Clear Thinking",
+      "path": "Clear Thinking.md"
+    },
+    {
       "basename": "107 升降沉浮",
       "path": "人纪/107 升降沉浮.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "有效思维的5个要素",
       "path": "有效思维的5个要素.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "Clear Thinking.md"
     },
     {
       "basename": "没有理解的信息是危险的",
