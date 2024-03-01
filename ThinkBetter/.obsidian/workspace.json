@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f01ed7d0594b16f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Clear Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -226,9 +214,10 @@
   },
   "active": "a606c21c01a5a422",
   "lastOpenFiles": [
+    "Sources/013C1D99.png",
     "Book/Clear Thinking.md",
-    "Book/噪声.md",
     "+Home.md",
+    "Book/噪声.md",
     "DailyNotes/2023-W29.md",
     "DailyNotes/2022-04-27.md",
     "DailyNotes/2023-W30.md",
@@ -252,7 +241,6 @@
     "人纪/134 卫气.md",
     "风格感觉.md",
     "SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
-    "SQL Server 中查询执行周期.md",
     "Spaces/Home",
     "Spaces",
     "Sources/Pasted image 20240227112818.png",
