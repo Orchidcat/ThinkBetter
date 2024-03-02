@@ -40,8 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5454d659d53f39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "二十四节气.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "二十四节气.md"
               }
             }
           }
@@ -160,9 +174,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1c25d42e21feba50",
+  "active": "d5454d659d53f39f",
   "lastOpenFiles": [
+    "二十四节气.md",
     "ThinkBetter/圆运动的古中医学.md",
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book/噪声.md",
     "ThinkBetter/Book/Clear Thinking.md",
