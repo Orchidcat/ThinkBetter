@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二十四节气.md",
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "长夏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二十四节气.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -176,8 +175,8 @@
   },
   "active": "d5454d659d53f39f",
   "lastOpenFiles": [
-    "ThinkBetter/圆运动的古中医学.md",
     "二十四节气.md",
+    "ThinkBetter/圆运动的古中医学.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book/噪声.md",
