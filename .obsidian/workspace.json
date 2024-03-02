@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SQLServer/2016",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5d6bdbe87f53a71",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/Clear Thinking.md",
     "cedict_ts.u8",
