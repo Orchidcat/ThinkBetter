@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "六气",
-      "path": "六气.md"
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "圆运动的古中医学",
       "path": "圆运动的古中医学.md"
+    },
+    {
+      "basename": "六气",
+      "path": "六气.md"
     },
     {
       "basename": "古方上篇",
@@ -195,10 +199,6 @@
     {
       "basename": "076 六淫辩证",
       "path": "人纪/076 六淫辩证.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "人纪/001 @MOC中医.md"
     }
   ],
   "omittedPaths": [],
