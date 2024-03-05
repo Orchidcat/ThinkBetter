@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "六气",
+      "path": "六气.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
+    },
+    {
+      "basename": "古方上篇",
+      "path": "古方上篇.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -69,16 +81,8 @@
       "path": "SQL Server MOC.md"
     },
     {
-      "basename": "古方上篇",
-      "path": "古方上篇.md"
-    },
-    {
       "basename": "十二经络歌诀",
       "path": "十二经络歌诀.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "圆运动的古中医学.md"
     },
     {
       "basename": "195 子午流注",
@@ -195,10 +199,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "六气",
-      "path": "六气.md"
     }
   ],
   "omittedPaths": [],
