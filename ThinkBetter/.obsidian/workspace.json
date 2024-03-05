@@ -177,28 +177,6 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "8da4540cd08a5ad8",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "36633fabe8d8fa3b",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "人纪/医学衷中参西录.md"
-              }
-            }
           }
         ]
       }
@@ -227,9 +205,9 @@
   },
   "active": "cc6ee5d8e2ff5b3f",
   "lastOpenFiles": [
-    "圆运动的古中医学.md",
     "六气.md",
     "人纪/医学衷中参西录.md",
+    "圆运动的古中医学.md",
     "古方上篇.md",
     "+Home.md",
     "Book/噪声.md",
