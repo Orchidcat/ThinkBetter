@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "山药.md"
+                "file": "ThinkBetter/人纪/医学衷中参西录.md"
               }
             }
           }
@@ -193,7 +193,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6bab91aa18187567",
+  "active": "eb1171afdb2204e5",
   "lastOpenFiles": [
     "山药.md",
     "ThinkBetter/脉诊学习.md",
