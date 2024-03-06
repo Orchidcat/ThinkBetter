@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d21d4ad646fe5e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/脉诊学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄芪.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -166,10 +179,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "34ddee64cf9f178b",
+  "active": "d21d4ad646fe5e3b",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "黄芪.md",
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/人参.md",
     "ThinkBetter/防己黄芪汤.md",
     "ThinkBetter/脉诊学习.md",
