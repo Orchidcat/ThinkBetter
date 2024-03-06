@@ -45,5 +45,6 @@
   "remember-cursor-position",
   "highlightr-plugin",
   "quickadd",
-  "obsidian-calibre-plugin"
+  "obsidian-calibre-plugin",
+  "templater-obsidian"
 ]

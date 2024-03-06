@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "人参",
+      "path": "人纪/人参.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "人纪/089 人纪 - 神农本草经.md"
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "Template - 药解",
+      "path": "Templates/Template - 药解.md"
     },
     {
       "basename": "石膏",
       "path": "人纪/石膏.md"
+    },
+    {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "人纪/089 人纪 - 神农本草经.md"
     },
     {
       "basename": "脉诊学习",
@@ -31,10 +43,6 @@
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
     },
     {
       "basename": "107 升降沉浮",
@@ -191,10 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "078 麻黄杏仁甘草石膏汤",
-      "path": "人纪/078 麻黄杏仁甘草石膏汤.md"
     }
   ],
   "omittedPaths": [],
