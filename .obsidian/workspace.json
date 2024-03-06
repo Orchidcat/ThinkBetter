@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "b56eb8a101e39ca1",
+            "id": "bc1a0a825938becb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山茱萸肉.md",
+                "file": "白术.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md"
+                "file": "白术.md"
               }
             }
           }
@@ -192,11 +192,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d21d4ad646fe5e3b",
+  "active": "bc1a0a825938becb",
   "lastOpenFiles": [
+    "白术.md",
+    "ThinkBetter/脉诊学习.md",
     "山茱萸肉.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
-    "ThinkBetter/脉诊学习.md",
     "黄芪.md",
     "ThinkBetter/人纪/人参.md",
     "ThinkBetter/防己黄芪汤.md",
@@ -221,7 +222,6 @@
     "cedict_ts.u8",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/+HomeMOC.md",
-    "鼻炎.md",
-    "膀胱湿热证.md"
+    "鼻炎.md"
   ]
 }
