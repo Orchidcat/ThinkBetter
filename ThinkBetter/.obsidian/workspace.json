@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "1cbceb72ebb47747",
+            "id": "f2c74f32bc1b510a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "人纪/原一，二，三期合编第一卷.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/原一，二，三期合编第一卷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/医学衷中参西录.md"
+                "file": "人纪/原一，二，三期合编第一卷.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/原一，二，三期合编第一卷.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,10 +191,11 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "cc6ee5d8e2ff5b3f",
+  "active": "f2c74f32bc1b510a",
   "lastOpenFiles": [
-    "人纪/195 子午流注.md",
     "人纪/医学衷中参西录.md",
+    "人纪/原一，二，三期合编第一卷.md",
+    "人纪/195 子午流注.md",
     "六气.md",
     "圆运动的古中医学.md",
     "古方上篇.md",
@@ -219,7 +221,6 @@
     "十二经络歌诀.md",
     "人纪/006 按诊.md",
     "笔记方法.md",
-    "人纪/134 卫气.md",
     "Spaces/Home",
     "Spaces",
     "Sources/Pasted image 20240227112818.png",
