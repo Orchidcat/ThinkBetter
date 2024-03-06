@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dda543d266788404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/脉诊学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/人参.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -139,8 +153,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "19366fd235215e20",
+  "active": "dda543d266788404",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/人参.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/未命名 5.md",
@@ -148,7 +163,6 @@
     "ThinkBetter/人纪/石膏.md",
     "ThinkBetter/人纪/原一，二，三期合编第一卷.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
-    "ThinkBetter/人纪/人参.md",
     "ThinkBetter/Templates/Template - 药解.md",
     "人参.md",
     "ThinkBetter/圆运动的古中医学.md",
