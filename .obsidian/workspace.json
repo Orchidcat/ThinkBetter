@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md"
+                "file": "ThinkBetter/人纪/人参.md"
               }
             }
           }
@@ -153,8 +152,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dda543d266788404",
+  "active": "19366fd235215e20",
   "lastOpenFiles": [
+    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/人参.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/+Home.md",
@@ -182,7 +182,6 @@
     "+HomeMOC.md",
     "ThinkBetter/伤寒论.md",
     "ThinkBetter/辨太阳病脉症并治法.md",
-    "ThinkBetter/人纪 - 神农本草经.md",
-    "test.md"
+    "ThinkBetter/人纪 - 神农本草经.md"
   ]
 }
