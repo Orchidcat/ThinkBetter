@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md"
+                "file": "山药.md"
               }
             }
           }
@@ -193,14 +193,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eb1171afdb2204e5",
+  "active": "6bab91aa18187567",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "山药.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/Templates/Template - 药解.md",
     "白术.md",
     "山茱萸肉.md",
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "黄芪.md",
     "ThinkBetter/人纪/人参.md",
     "ThinkBetter/防己黄芪汤.md",
