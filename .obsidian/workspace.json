@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "白术.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc1a0a825938becb",
+  "active": "d21d4ad646fe5e3b",
   "lastOpenFiles": [
-    "ThinkBetter/Templates/Template - 药解.md",
     "白术.md",
+    "ThinkBetter/Templates/Template - 药解.md",
     "ThinkBetter/脉诊学习.md",
     "山茱萸肉.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
