@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md"
+                "file": "西洋参.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eb1171afdb2204e5",
+  "active": "56c906921016623e",
   "lastOpenFiles": [
-    "西洋参.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
+    "西洋参.md",
     "ThinkBetter/人纪/人参.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
