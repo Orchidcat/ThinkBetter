@@ -13,6 +13,10 @@
       "path": "Book/Clear Thinking.md"
     },
     {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "钢铁是怎样练成的",
       "path": "钢铁是怎样练成的.md"
-    },
-    {
-      "basename": "伤寒理路",
-      "path": "伤寒理路.md"
     }
   ],
   "omittedPaths": [],
