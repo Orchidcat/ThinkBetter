@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/人纪/人参.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "长夏",
+                "query": "人参",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md"
+                "file": "ThinkBetter/人纪/人参.md"
               }
             }
           }
@@ -139,11 +138,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "19366fd235215e20",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/002 黄帝内经.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/未命名 5.md",
+    "ThinkBetter/未命名 4.md",
+    "ThinkBetter/人纪/石膏.md",
+    "ThinkBetter/人纪/原一，二，三期合编第一卷.md",
+    "ThinkBetter/人纪/医学衷中参西录.md",
+    "ThinkBetter/人纪/人参.md",
+    "ThinkBetter/Templates/Template - 药解.md",
     "人参.md",
     "ThinkBetter/圆运动的古中医学.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "二十四节气.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/Sources/013C1D99.png",
@@ -161,12 +168,6 @@
     "ThinkBetter/伤寒论.md",
     "ThinkBetter/辨太阳病脉症并治法.md",
     "ThinkBetter/人纪 - 神农本草经.md",
-    "test.md",
-    "ThinkBetter/中医诊断学.md",
-    "ThinkBetter/zy-诊断学.md",
-    "ThinkBetter/按诊.md",
-    "ThinkBetter/Anki 插件.md",
-    "Anki 基础使用.md",
-    "ThinkBetter/读书 MOC.md"
+    "test.md"
   ]
 }
