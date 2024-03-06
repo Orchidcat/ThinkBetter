@@ -4,45 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d753bc27a3785da",
+        "id": "a2b73a4e8224a616",
         "type": "tabs",
-        "dimension": 36.904761904761905,
         "children": [
           {
-            "id": "e5d6bdbe87f53a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/圆运动的古中医学.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb59658fe21aa9e5",
-        "type": "tabs",
-        "dimension": 63.095238095238095,
-        "children": [
-          {
-            "id": "1c25d42e21feba50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5454d659d53f39f",
+            "id": "19366fd235215e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/圆运动的古中医学.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -173,11 +139,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5d6bdbe87f53a71",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "人参.md",
+    "ThinkBetter/圆运动的古中医学.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "二十四节气.md",
-    "ThinkBetter/圆运动的古中医学.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book/噪声.md",
