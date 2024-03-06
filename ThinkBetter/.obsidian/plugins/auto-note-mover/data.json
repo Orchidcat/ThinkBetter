@@ -19,10 +19,10 @@
       "pattern": ""
     }
   ],
-  "use_regex_to_check_for_excluded_folder": false,
+  "use_regex_to_check_for_excluded_folder": true,
   "excluded_folder": [
     {
-      "folder": ""
+      "folder": "Templates"
     }
   ]
 }

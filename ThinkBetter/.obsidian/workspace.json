@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10cebcd9edc41752",
+        "id": "46b24cf3af5c8c58",
         "type": "tabs",
         "children": [
           {
-            "id": "8285beefa585ac77",
+            "id": "7291dc4b97deae05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/石膏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0ec406e1148d8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/医学衷中参西录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74fa53255d77e8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Clear Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38036a92259c3390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉诊学习.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,12 +76,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324,
-    "collapsed": true
+    "width": 286.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -156,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/石膏.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/石膏.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -178,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/石膏.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,15 +173,18 @@
       "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "8285beefa585ac77",
+  "active": "33a4aebe71b51376",
   "lastOpenFiles": [
-    "人纪/医学衷中参西录.md",
+    "人纪/Template - 药解.md",
+    "人纪/089 人纪 - 神农本草经.md",
     "人纪/石膏.md",
-    "Book/Clear Thinking.md",
     "脉诊学习.md",
+    "未命名 5.md",
+    "Book/Clear Thinking.md",
+    "人纪/医学衷中参西录.md",
+    "未命名 4.md",
     "阅读与书籍 MOC.md",
     "+Home.md",
-    "人纪/089 人纪 - 神农本草经.md",
     "人纪/107 升降沉浮.md",
     "人纪/原一，二，三期合编第一卷.md",
     "人纪/195 子午流注.md",
@@ -241,9 +203,6 @@
     "DailyNotes/2023-W07.md",
     "Book",
     "人纪/004 金匮要略.md",
-    "make it stick.md",
-    "SQL Server MOC.md",
-    "十二经络歌诀.md",
     "Spaces/Home",
     "Spaces",
     "Sources/Pasted image 20240227112818.png",
