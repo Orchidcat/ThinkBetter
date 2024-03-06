@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "石膏解",
-      "path": "石膏解.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "+Home.md"
+      "basename": "石膏",
+      "path": "Book/石膏.md"
     },
     {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "+Home.md"
     },
     {
       "basename": "089 人纪 - 神农本草经",
@@ -49,10 +57,6 @@
       "path": "Book/噪声.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
-    },
-    {
       "basename": "2023-W29",
       "path": "DailyNotes/2023-W29.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "make it stick",
       "path": "make it stick.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "SQL Server MOC",
