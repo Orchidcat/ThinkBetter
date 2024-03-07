@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "厚朴",
+      "path": "人纪/厚朴.md"
+    },
+    {
+      "basename": "大黄",
+      "path": "人纪/大黄.md"
+    },
+    {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "人纪/089 人纪 - 神农本草经.md"
+    },
+    {
       "basename": "朴硝，硝石",
       "path": "人纪/朴硝，硝石.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
-    },
-    {
-      "basename": "大黄",
-      "path": "人纪/大黄.md"
     },
     {
       "basename": "芍药",
@@ -91,10 +99,6 @@
     {
       "basename": "石膏",
       "path": "人纪/石膏.md"
-    },
-    {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "人纪/089 人纪 - 神农本草经.md"
     },
     {
       "basename": "脉诊学习",
@@ -195,10 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "笔记方法.md"
-    },
-    {
-      "basename": "134 卫气",
-      "path": "人纪/134 卫气.md"
     }
   ],
   "omittedPaths": [],
