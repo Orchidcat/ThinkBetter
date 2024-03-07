@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "桂枝",
+      "path": "人纪/桂枝.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "人参",
+      "path": "人纪/人参.md"
+    },
+    {
       "basename": "柴胡",
       "path": "人纪/柴胡.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "芍药",
       "path": "人纪/芍药.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "当归",
@@ -95,10 +103,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "人参",
-      "path": "人纪/人参.md"
     },
     {
       "basename": "Template - 药解",
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server MOC",
       "path": "SQL Server MOC.md"
-    },
-    {
-      "basename": "十二经络歌诀",
-      "path": "十二经络歌诀.md"
     }
   ],
   "omittedPaths": [],
