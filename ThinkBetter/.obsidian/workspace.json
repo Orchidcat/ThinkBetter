@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "足少",
+                "query": "小柴胡",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "88d833444ff4c24d",
   "lastOpenFiles": [
     "人纪/麻黄.md",
     "人纪/朴硝，硝石.md",
