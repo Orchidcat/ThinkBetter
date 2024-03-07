@@ -20,31 +20,15 @@
             }
           },
           {
-            "id": "6de8ab885e7737cd",
+            "id": "bdcdec50953d6488",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/医学衷中参西录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a12a87a28729c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/当归.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/当归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/当归.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/当归.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,12 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a12a87a28729c44",
+  "active": "bdcdec50953d6488",
   "lastOpenFiles": [
     "人纪/医学衷中参西录.md",
+    "人纪/当归.md",
     "人纪/玄参.md",
     "人纪/086 气分证.md",
-    "人纪/当归.md",
     "气分.md",
     "人纪/石决明.md",
     "人纪/牡蛎.md",
