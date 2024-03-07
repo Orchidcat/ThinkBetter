@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "当归",
+      "path": "人纪/当归.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "玄参",
       "path": "人纪/玄参.md"
+    },
+    {
+      "basename": "086 气分证",
+      "path": "人纪/086 气分证.md"
+    },
+    {
+      "basename": "气分",
+      "path": "气分.md"
     },
     {
       "basename": "石决明",
@@ -187,18 +199,6 @@
     {
       "basename": "SQL Server 中查询执行周期",
       "path": "SQL Server 中查询执行周期.md"
-    },
-    {
-      "basename": "圆运动的古中医学（续）",
-      "path": "人纪/圆运动的古中医学（续）.md"
-    },
-    {
-      "basename": "长沙药解",
-      "path": "人纪/长沙药解.md"
-    },
-    {
-      "basename": "有效思维的5个要素",
-      "path": "有效思维的5个要素.md"
     }
   ],
   "omittedPaths": [],
