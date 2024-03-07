@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/牡蛎.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50c87bee02ebb40d",
+            "id": "6de8ab885e7737cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/龙骨.md",
+                "file": "人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/龙骨.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/龙骨.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/龙骨.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,13 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50c87bee02ebb40d",
+  "active": "6de8ab885e7737cd",
   "lastOpenFiles": [
+    "人纪/牡蛎.md",
+    "人纪/医学衷中参西录.md",
     "人纪/龙骨.md",
     "人纪/朱砂.md",
     "人纪/+Home.md",
     "人纪/甘草.md",
-    "人纪/医学衷中参西录.md",
     "人纪/195 子午流注.md",
     "未命名 6.md",
     "人纪/地黄.md",
@@ -231,7 +232,6 @@
     "人纪/原一，二，三期合编第一卷.md",
     "六气.md",
     "圆运动的古中医学.md",
-    "古方上篇.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

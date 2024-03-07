@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "牡蛎",
+      "path": "人纪/牡蛎.md"
+    },
+    {
       "basename": "龙骨",
       "path": "人纪/龙骨.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "甘草",
       "path": "人纪/甘草.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "195 子午流注",
@@ -195,10 +199,6 @@
     {
       "basename": "超速学习",
       "path": "超速学习.md"
-    },
-    {
-      "basename": "有效写作-史蒂文平克的见解",
-      "path": "有效写作-史蒂文平克的见解.md"
     }
   ],
   "omittedPaths": [],
