@@ -23,8 +23,12 @@
             "id": "bdcdec50953d6488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/芍药.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -129,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/芍药.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/芍药.md"
+              }
             }
           },
           {
@@ -148,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/芍药.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,6 +194,7 @@
   },
   "active": "bdcdec50953d6488",
   "lastOpenFiles": [
+    "人纪/芍药.md",
     "人纪/医学衷中参西录.md",
     "人纪/当归.md",
     "人纪/玄参.md",
@@ -211,7 +220,6 @@
     "脉诊学习.md",
     "未命名 5.md",
     "Book/Clear Thinking.md",
-    "未命名 4.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

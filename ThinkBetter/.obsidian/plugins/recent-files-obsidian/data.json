@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "芍药",
+      "path": "人纪/芍药.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
       "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
-    },
-    {
-      "basename": "SQL Server 中查询执行周期",
-      "path": "SQL Server 中查询执行周期.md"
     }
   ],
   "omittedPaths": [],
