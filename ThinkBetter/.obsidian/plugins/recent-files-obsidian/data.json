@@ -5,16 +5,20 @@
       "path": "人纪/桂枝.md"
     },
     {
+      "basename": "柴胡",
+      "path": "人纪/柴胡.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "人参",
       "path": "人纪/人参.md"
-    },
-    {
-      "basename": "柴胡",
-      "path": "人纪/柴胡.md"
     },
     {
       "basename": "麻黄",
@@ -111,10 +115,6 @@
     {
       "basename": "石膏",
       "path": "人纪/石膏.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
     },
     {
       "basename": "未命名 5",
