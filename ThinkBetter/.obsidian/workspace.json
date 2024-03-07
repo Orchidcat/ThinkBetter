@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48dfe8cb02342242",
+        "id": "1bc26749a417626f",
         "type": "tabs",
         "children": [
           {
-            "id": "19781ad7a2391b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e4d0af55fea526d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/人参.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fecc441ec9c18b3",
+            "id": "c631dd306ae2421a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鸡",
+                "query": "赭石",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 286.51103591918945,
-    "collapsed": true
+    "width": 286.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/人参.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/人参.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -167,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/人参.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e4d0af55fea526d",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
-    "人纪/医学衷中参西录.md",
-    "人纪/人参.md",
     "人纪/+Home.md",
+    "人纪/人参.md",
+    "人纪/医学衷中参西录.md",
     "Templates/Template - 药解.md",
     "人纪/石膏.md",
     "人纪/Template - 药解.md",
