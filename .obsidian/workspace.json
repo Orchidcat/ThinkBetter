@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/桂枝.md",
+                "file": "山茱萸肉.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/桂枝.md"
+                "file": "山茱萸肉.md"
               }
             }
           }
@@ -140,8 +139,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fe6ba6022b1badb",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/山药.md",
+    "人参.md",
+    "ThinkBetter/人纪/西洋参.md",
+    "ThinkBetter/人纪/桂枝.md",
     "ThinkBetter/人纪/甘草.md",
     "ThinkBetter/未命名 6.md",
     "ThinkBetter/人纪/龙骨.md",
@@ -159,15 +162,11 @@
     "ThinkBetter/人纪/厚朴.md",
     "ThinkBetter/人纪/三七.md",
     "ThinkBetter/+Home.md",
-    "赭石.md",
+    "ThinkBetter/人纪/赭石.md",
     "ThinkBetter/脉诊学习.md",
-    "山药.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Templates/Template - 药解.md",
     "白术.md",
-    "山茱萸肉.md",
-    "黄芪.md",
-    "ThinkBetter/人纪/人参.md",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book",
     "cedict_ts.u8"
