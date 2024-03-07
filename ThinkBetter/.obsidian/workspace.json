@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/麻黄.md",
+                "file": "人纪/柴胡.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "越婢",
+                "query": "足少",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/麻黄.md",
+                "file": "人纪/柴胡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/麻黄.md"
+                "file": "人纪/柴胡.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/麻黄.md",
+                "file": "人纪/柴胡.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88d833444ff4c24d",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/麻黄.md",
     "人纪/朴硝，硝石.md",
     "人纪/厚朴.md",
     "人纪/大黄.md",
@@ -206,7 +207,6 @@
     "人纪/人参.md",
     "Templates/Template - 药解.md",
     "人纪/石膏.md",
-    "人纪/Template - 药解.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
