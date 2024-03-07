@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/芍药.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/芍药.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/芍药.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdcdec50953d6488",
+  "active": "d596f2a863eb3b96",
   "lastOpenFiles": [
     "人纪/芍药.md",
     "人纪/医学衷中参西录.md",
