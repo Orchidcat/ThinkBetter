@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "地黄",
+      "path": "人纪/地黄.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "写点儿啥.md"
     },
     {
       "basename": "医学衷中参西录",
@@ -183,22 +199,6 @@
     {
       "basename": "第一性原理",
       "path": "第一性原理.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "愚蠢的来源",
-      "path": "愚蠢的来源.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     }
   ],
   "omittedPaths": [],
