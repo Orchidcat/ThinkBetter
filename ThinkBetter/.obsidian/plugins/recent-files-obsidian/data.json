@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "龙骨",
+      "path": "人纪/龙骨.md"
+    },
+    {
+      "basename": "朱砂",
+      "path": "人纪/朱砂.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
       "basename": "甘草",
       "path": "人纪/甘草.md"
     },
     {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "195 子午流注",
@@ -191,14 +199,6 @@
     {
       "basename": "有效写作-史蒂文平克的见解",
       "path": "有效写作-史蒂文平克的见解.md"
-    },
-    {
-      "basename": "二阶思维",
-      "path": "二阶思维.md"
-    },
-    {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
     }
   ],
   "omittedPaths": [],
