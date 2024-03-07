@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea08c916e2f72ec9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人纪/地黄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人纪/地黄.md"
+              }
             }
           },
           {
@@ -160,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人纪/地黄.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,14 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea08c916e2f72ec9",
+  "active": "81caa7a731a002de",
   "lastOpenFiles": [
+    "人纪/医学衷中参西录.md",
     "人纪/地黄.md",
     "人纪/+Home.md",
+    "写点儿啥.md",
     "事件timing.md",
     "一句话的玩味.md",
-    "写点儿啥.md",
-    "人纪/医学衷中参西录.md",
     "人纪/人参.md",
     "Templates/Template - 药解.md",
     "人纪/石膏.md",
