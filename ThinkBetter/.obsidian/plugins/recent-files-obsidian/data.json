@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "玄参",
+      "path": "人纪/玄参.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "石决明",
       "path": "人纪/石决明.md"
     },
     {
       "basename": "牡蛎",
       "path": "人纪/牡蛎.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "龙骨",
@@ -195,10 +199,6 @@
     {
       "basename": "有效思维的5个要素",
       "path": "有效思维的5个要素.md"
-    },
-    {
-      "basename": "没有理解的信息是危险的",
-      "path": "没有理解的信息是危险的.md"
     }
   ],
   "omittedPaths": [],
