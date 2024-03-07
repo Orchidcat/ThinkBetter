@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "三七",
+      "path": "人纪/三七.md"
+    },
+    {
+      "basename": "柴胡",
+      "path": "人纪/柴胡.md"
+    },
+    {
+      "basename": "094 三魂七魄",
+      "path": "人纪/094 三魂七魄.md"
+    },
+    {
       "basename": "桂枝",
       "path": "人纪/桂枝.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
-    },
-    {
-      "basename": "柴胡",
-      "path": "人纪/柴胡.md"
     },
     {
       "basename": "人参",
@@ -191,14 +199,6 @@
     {
       "basename": "004 金匮要略",
       "path": "人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "make it stick",
-      "path": "make it stick.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
     }
   ],
   "omittedPaths": [],
