@@ -5,6 +5,10 @@
       "path": "人纪/三七.md"
     },
     {
+      "basename": "地黄",
+      "path": "人纪/地黄.md"
+    },
+    {
       "basename": "柴胡",
       "path": "人纪/柴胡.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "未命名 6",
       "path": "未命名 6.md"
-    },
-    {
-      "basename": "地黄",
-      "path": "人纪/地黄.md"
     },
     {
       "basename": "写点儿啥",

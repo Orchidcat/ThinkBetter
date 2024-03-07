@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/三七.md",
+                "file": "人纪/地黄.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc86088138618100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/三七.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "小柴胡",
+                "query": "地黄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.51103591918945,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -216,10 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "319d1a9b5090af08",
+  "active": "bc86088138618100",
   "lastOpenFiles": [
-    "人纪/柴胡.md",
+    "人纪/地黄.md",
     "人纪/三七.md",
+    "人纪/柴胡.md",
     "人纪/094 三魂七魄.md",
     "人纪/桂枝.md",
     "脉诊学习.md",
@@ -243,7 +255,6 @@
     "人纪/甘草.md",
     "人纪/195 子午流注.md",
     "未命名 6.md",
-    "人纪/地黄.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
