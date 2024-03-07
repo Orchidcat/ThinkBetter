@@ -1,16 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "人参",
-      "path": "人纪/人参.md"
+      "basename": "三七",
+      "path": "人纪/三七.md"
+    },
+    {
+      "basename": "地黄",
+      "path": "人纪/地黄.md"
+    },
+    {
+      "basename": "柴胡",
+      "path": "人纪/柴胡.md"
+    },
+    {
+      "basename": "094 三魂七魄",
+      "path": "人纪/094 三魂七魄.md"
+    },
+    {
+      "basename": "桂枝",
+      "path": "人纪/桂枝.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
     },
     {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
+      "basename": "人参",
+      "path": "人纪/人参.md"
+    },
+    {
+      "basename": "麻黄",
+      "path": "人纪/麻黄.md"
+    },
+    {
+      "basename": "朴硝，硝石",
+      "path": "人纪/朴硝，硝石.md"
+    },
+    {
+      "basename": "厚朴",
+      "path": "人纪/厚朴.md"
+    },
+    {
+      "basename": "大黄",
+      "path": "人纪/大黄.md"
+    },
+    {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "人纪/089 人纪 - 神农本草经.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "芍药",
+      "path": "人纪/芍药.md"
+    },
+    {
+      "basename": "当归",
+      "path": "人纪/当归.md"
+    },
+    {
+      "basename": "玄参",
+      "path": "人纪/玄参.md"
+    },
+    {
+      "basename": "086 气分证",
+      "path": "人纪/086 气分证.md"
+    },
+    {
+      "basename": "气分",
+      "path": "气分.md"
+    },
+    {
+      "basename": "石决明",
+      "path": "人纪/石决明.md"
+    },
+    {
+      "basename": "牡蛎",
+      "path": "人纪/牡蛎.md"
+    },
+    {
+      "basename": "龙骨",
+      "path": "人纪/龙骨.md"
+    },
+    {
+      "basename": "朱砂",
+      "path": "人纪/朱砂.md"
+    },
+    {
+      "basename": "甘草",
+      "path": "人纪/甘草.md"
+    },
+    {
+      "basename": "195 子午流注",
+      "path": "人纪/195 子午流注.md"
+    },
+    {
+      "basename": "未命名 6",
+      "path": "未命名 6.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "写点儿啥.md"
+    },
+    {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
     },
     {
       "basename": "Template - 药解",
@@ -19,14 +123,6 @@
     {
       "basename": "石膏",
       "path": "人纪/石膏.md"
-    },
-    {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
     },
     {
       "basename": "未命名 5",
@@ -51,10 +147,6 @@
     {
       "basename": "原一，二，三期合编第一卷",
       "path": "人纪/原一，二，三期合编第一卷.md"
-    },
-    {
-      "basename": "195 子午流注",
-      "path": "人纪/195 子午流注.md"
     },
     {
       "basename": "六气",
@@ -107,98 +199,6 @@
     {
       "basename": "004 金匮要略",
       "path": "人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "make it stick",
-      "path": "make it stick.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "SQL Server MOC.md"
-    },
-    {
-      "basename": "十二经络歌诀",
-      "path": "十二经络歌诀.md"
-    },
-    {
-      "basename": "006 按诊",
-      "path": "人纪/006 按诊.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "笔记方法.md"
-    },
-    {
-      "basename": "134 卫气",
-      "path": "人纪/134 卫气.md"
-    },
-    {
-      "basename": "风格感觉",
-      "path": "风格感觉.md"
-    },
-    {
-      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
-      "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
-    },
-    {
-      "basename": "SQL Server 中查询执行周期",
-      "path": "SQL Server 中查询执行周期.md"
-    },
-    {
-      "basename": "圆运动的古中医学（续）",
-      "path": "人纪/圆运动的古中医学（续）.md"
-    },
-    {
-      "basename": "甘草",
-      "path": "甘草.md"
-    },
-    {
-      "basename": "长沙药解",
-      "path": "人纪/长沙药解.md"
-    },
-    {
-      "basename": "有效思维的5个要素",
-      "path": "有效思维的5个要素.md"
-    },
-    {
-      "basename": "没有理解的信息是危险的",
-      "path": "没有理解的信息是危险的.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "超速学习.md"
-    },
-    {
-      "basename": "有效写作-史蒂文平克的见解",
-      "path": "有效写作-史蒂文平克的见解.md"
-    },
-    {
-      "basename": "二阶思维",
-      "path": "二阶思维.md"
-    },
-    {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "100种心智模型.md"
-    },
-    {
-      "basename": "愚蠢的来源",
-      "path": "愚蠢的来源.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "心智模型 MOC.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     }
   ],
   "omittedPaths": [],
