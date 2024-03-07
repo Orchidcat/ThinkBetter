@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.51103591918945
+    "width": 286.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -178,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "88d833444ff4c24d",
   "lastOpenFiles": [
     "人纪/朴硝，硝石.md",
     "人纪/厚朴.md",
