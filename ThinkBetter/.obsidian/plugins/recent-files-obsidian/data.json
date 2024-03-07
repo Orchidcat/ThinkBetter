@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
+      "basename": "石决明",
+      "path": "人纪/石决明.md"
     },
     {
       "basename": "牡蛎",
       "path": "人纪/牡蛎.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "龙骨",
@@ -195,10 +199,6 @@
     {
       "basename": "没有理解的信息是危险的",
       "path": "没有理解的信息是危险的.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "超速学习.md"
     }
   ],
   "omittedPaths": [],
