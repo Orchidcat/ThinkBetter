@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "大黄",
+      "path": "人纪/大黄.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "风格感觉",
       "path": "风格感觉.md"
-    },
-    {
-      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
-      "path": "SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
     }
   ],
   "omittedPaths": [],
