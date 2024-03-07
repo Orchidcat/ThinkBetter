@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/玄参.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/玄参.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/玄参.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5d3e97b67b80f27",
+  "active": "6de8ab885e7737cd",
   "lastOpenFiles": [
     "人纪/玄参.md",
     "人纪/医学衷中参西录.md",
