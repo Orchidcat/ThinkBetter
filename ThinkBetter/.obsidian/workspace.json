@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "厚朴",
+                "query": "越婢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.51103591918945,
-    "collapsed": true
+    "width": 286.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -179,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88d833444ff4c24d",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "人纪/朴硝，硝石.md",
     "人纪/厚朴.md",
