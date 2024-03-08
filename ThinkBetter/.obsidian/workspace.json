@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件timing.md",
+                "file": "六气.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地黄",
+                "query": "春分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,12 +105,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件timing.md",
+                "file": "六气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件timing.md"
+                "file": "六气.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件timing.md",
+                "file": "六气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,6 +205,7 @@
   },
   "active": "80c3a7f14cde8fcc",
   "lastOpenFiles": [
+    "事件timing.md",
     "人纪/牛膝.md",
     "人纪/滑石.md",
     "一句话的玩味.md",
@@ -231,7 +231,6 @@
     "人纪/芍药.md",
     "人纪/当归.md",
     "人纪/玄参.md",
-    "人纪/086 气分证.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
