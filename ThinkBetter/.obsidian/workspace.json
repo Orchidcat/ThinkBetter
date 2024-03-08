@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/滑石.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪/滑石.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/滑石.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,10 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ffcf2579f968cee",
+  "active": "ba1e31fcca7ddf87",
   "lastOpenFiles": [
-    "人纪/滑石.md",
     "一句话的玩味.md",
+    "人纪/滑石.md",
     "人纪/赭石.md",
     "人纪/西洋参.md",
     "人纪/山药.md",
