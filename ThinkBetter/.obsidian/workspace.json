@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/干姜.md",
+                "file": "人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/干姜.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/干姜.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/干姜.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,8 +230,9 @@
   },
   "active": "c350f48c76901a0c",
   "lastOpenFiles": [
-    "人纪/半夏.md",
     "人纪/干姜.md",
+    "未命名 7.md",
+    "人纪/半夏.md",
     "+Home.md",
     "人纪/栝楼.md",
     "人纪/天花粉.md",
@@ -255,7 +256,6 @@
     "人纪/桂枝.md",
     "脉诊学习.md",
     "人纪/人参.md",
-    "人纪/麻黄.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
