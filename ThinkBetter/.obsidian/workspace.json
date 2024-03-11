@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c350f48c76901a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/干姜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/天花粉.md",
+                "file": "人纪/干姜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/天花粉.md"
+                "file": "人纪/干姜.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/天花粉.md",
+                "file": "人纪/干姜.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,13 +228,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef10226b968a264d",
+  "active": "c350f48c76901a0c",
   "lastOpenFiles": [
+    "人纪/半夏.md",
+    "人纪/干姜.md",
+    "+Home.md",
     "人纪/栝楼.md",
     "人纪/天花粉.md",
-    "人纪/半夏.md",
     "人纪/龙胆草.md",
-    "+Home.md",
     "人纪/远志.md",
     "人纪/地黄.md",
     "人纪/医学衷中参西录.md",
@@ -243,7 +256,6 @@
     "脉诊学习.md",
     "人纪/人参.md",
     "人纪/麻黄.md",
-    "人纪/朴硝，硝石.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
