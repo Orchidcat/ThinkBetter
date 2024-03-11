@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/天门冬.md",
+                "file": "黄连.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/天门冬.md",
+                "file": "黄连.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/天门冬.md"
+                "file": "黄连.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/天门冬.md",
+                "file": "黄连.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,9 @@
   },
   "active": "89868790066a2174",
   "lastOpenFiles": [
-    "人纪/知母.md",
+    "人纪/麦门冬.md",
     "人纪/天门冬.md",
+    "人纪/知母.md",
     "人纪/肉桂.md",
     "脉诊学习.md",
     "人纪/大黄.md",
@@ -219,7 +220,6 @@
     "人纪/赭石.md",
     "人纪/西洋参.md",
     "人纪/山药.md",
-    "人纪/山茱萸肉.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "黄连",
+      "path": "黄连.md"
+    },
+    {
+      "basename": "麦门冬",
+      "path": "人纪/麦门冬.md"
+    },
+    {
       "basename": "天门冬",
       "path": "人纪/天门冬.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "石膏",
       "path": "人纪/石膏.md"
-    },
-    {
-      "basename": "未命名 5",
-      "path": "未命名 5.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
     }
   ],
   "omittedPaths": [],
