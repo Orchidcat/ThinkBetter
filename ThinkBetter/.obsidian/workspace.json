@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "728e839c217c850b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/枸杞子.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/枸杞子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/枸杞子.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/枸杞子.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,8 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19e2e95e177d5d92",
+  "active": "728e839c217c850b",
   "lastOpenFiles": [
+    "人纪/枸杞子.md",
+    "脉诊学习.md",
     "人纪/鸡内金.md",
     "人纪/黄芩.md",
     "人纪/黄连.md",
@@ -225,7 +239,6 @@
     "人纪/天门冬.md",
     "人纪/知母.md",
     "人纪/肉桂.md",
-    "脉诊学习.md",
     "人纪/大黄.md",
     "人纪/附子，乌头，天雄.md",
     "生姜.md",
@@ -243,7 +256,6 @@
     "牛膝.md",
     "事件timing.md",
     "人纪/滑石.md",
-    "一句话的玩味.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
