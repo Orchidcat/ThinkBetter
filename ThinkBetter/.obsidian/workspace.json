@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4f399b85c748f8",
+        "id": "dc740c33c53aaeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "5ffcf2579f968cee",
+            "id": "6cd2b7216c8df3b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba1e31fcca7ddf87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/滑石.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c3a7f14cde8fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六气.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "六气.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "六气.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -166,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "六气.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80c3a7f14cde8fcc",
+  "active": "6cd2b7216c8df3b0",
   "lastOpenFiles": [
     "事件timing.md",
     "人纪/牛膝.md",
