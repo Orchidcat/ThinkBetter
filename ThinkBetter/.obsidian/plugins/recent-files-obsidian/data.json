@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "知母",
+      "path": "人纪/知母.md"
+    },
+    {
       "basename": "肉桂",
       "path": "人纪/肉桂.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
     },
     {
       "basename": "大黄",
@@ -101,10 +109,6 @@
       "path": "人纪/桂枝.md"
     },
     {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
-    },
-    {
       "basename": "人参",
       "path": "人纪/人参.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 4",
       "path": "未命名 4.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/肉桂.md",
+                "file": "人纪/知母.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/肉桂.md",
+                "file": "人纪/知母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/肉桂.md"
+                "file": "人纪/知母.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/肉桂.md",
+                "file": "人纪/知母.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,9 @@
   },
   "active": "89868790066a2174",
   "lastOpenFiles": [
-    "人纪/大黄.md",
     "人纪/肉桂.md",
+    "脉诊学习.md",
+    "人纪/大黄.md",
     "人纪/附子，乌头，天雄.md",
     "生姜.md",
     "人纪/干姜.md",
@@ -219,7 +220,6 @@
     "人纪/山茱萸肉.md",
     "人纪/+Home.md",
     "人纪/三七.md",
-    "人纪/柴胡.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
