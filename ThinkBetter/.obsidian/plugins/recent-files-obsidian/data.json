@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "核桃",
-      "path": "人纪/核桃.md"
+      "basename": "五味子",
+      "path": "人纪/五味子.md"
     },
     {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "核桃",
+      "path": "人纪/核桃.md"
     },
     {
       "basename": "柏子仁",
@@ -195,10 +199,6 @@
     {
       "basename": "086 气分证",
       "path": "人纪/086 气分证.md"
-    },
-    {
-      "basename": "气分",
-      "path": "气分.md"
     }
   ],
   "omittedPaths": [],
