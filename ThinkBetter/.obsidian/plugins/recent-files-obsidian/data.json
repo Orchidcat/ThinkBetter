@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "牛膝",
+      "path": "牛膝.md"
+    },
+    {
       "basename": "+Home",
       "path": "+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2023-05-12",
       "path": "DailyNotes/2023-05-12.md"
-    },
-    {
-      "basename": "2023-02-28",
-      "path": "DailyNotes/2023-02-28.md"
     }
   ],
   "omittedPaths": [],
