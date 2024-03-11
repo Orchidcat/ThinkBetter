@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
+      "basename": "鸡内金",
+      "path": "人纪/鸡内金.md"
+    },
+    {
       "basename": "黄芩",
       "path": "人纪/黄芩.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "肉桂",
       "path": "人纪/肉桂.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
     },
     {
       "basename": "大黄",
@@ -195,10 +199,6 @@
     {
       "basename": "写点儿啥",
       "path": "写点儿啥.md"
-    },
-    {
-      "basename": "Template - 药解",
-      "path": "Templates/Template - 药解.md"
     }
   ],
   "omittedPaths": [],

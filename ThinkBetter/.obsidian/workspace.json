@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/黄芩.md",
+                "file": "人纪/鸡内金.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19e2e95e177d5d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脉诊学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/黄芩.md",
+                "file": "脉诊学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/黄芩.md"
+                "file": "脉诊学习.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/黄芩.md",
+                "file": "脉诊学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,8 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62e20f1b944779d5",
+  "active": "19e2e95e177d5d92",
   "lastOpenFiles": [
+    "人纪/鸡内金.md",
+    "人纪/黄芩.md",
     "人纪/黄连.md",
     "人纪/麦门冬.md",
     "人纪/天门冬.md",
@@ -230,8 +244,6 @@
     "事件timing.md",
     "人纪/滑石.md",
     "一句话的玩味.md",
-    "人纪/赭石.md",
-    "人纪/西洋参.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
