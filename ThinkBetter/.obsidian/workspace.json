@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cd2b7216c8df3b0",
+            "id": "afc58312c538c395",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7c21bdf6598722be",
+            "id": "f073e61b99f8bf69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "牛膝.md",
+                "file": "人纪/远志.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "牛膝.md",
+                "file": "人纪/远志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "牛膝.md"
+                "file": "人纪/远志.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "牛膝.md",
+                "file": "人纪/远志.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,12 +192,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c21bdf6598722be",
+  "active": "f073e61b99f8bf69",
   "lastOpenFiles": [
-    "牛膝.md",
     "+Home.md",
-    "事件timing.md",
+    "人纪/地黄.md",
+    "人纪/远志.md",
+    "人纪/医学衷中参西录.md",
     "人纪/牛膝.md",
+    "牛膝.md",
+    "事件timing.md",
     "人纪/滑石.md",
     "一句话的玩味.md",
     "人纪/赭石.md",
@@ -205,13 +208,11 @@
     "人纪/山药.md",
     "人纪/山茱萸肉.md",
     "人纪/+Home.md",
-    "人纪/地黄.md",
     "人纪/三七.md",
     "人纪/柴胡.md",
     "人纪/094 三魂七魄.md",
     "人纪/桂枝.md",
     "脉诊学习.md",
-    "人纪/医学衷中参西录.md",
     "人纪/人参.md",
     "人纪/麻黄.md",
     "人纪/朴硝，硝石.md",
@@ -219,7 +220,6 @@
     "人纪/大黄.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/芍药.md",
-    "人纪/当归.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

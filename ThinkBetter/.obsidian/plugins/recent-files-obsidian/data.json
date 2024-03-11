@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "牛膝",
-      "path": "牛膝.md"
+      "basename": "远志",
+      "path": "人纪/远志.md"
     },
     {
       "basename": "+Home",
       "path": "+Home.md"
+    },
+    {
+      "basename": "地黄",
+      "path": "人纪/地黄.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "牛膝",
+      "path": "人纪/牛膝.md"
+    },
+    {
+      "basename": "牛膝",
+      "path": "牛膝.md"
     },
     {
       "basename": "六气",
@@ -15,10 +31,6 @@
     {
       "basename": "事件timing",
       "path": "事件timing.md"
-    },
-    {
-      "basename": "牛膝",
-      "path": "人纪/牛膝.md"
     },
     {
       "basename": "滑石",
@@ -37,10 +49,6 @@
       "path": "人纪/三七.md"
     },
     {
-      "basename": "地黄",
-      "path": "人纪/地黄.md"
-    },
-    {
       "basename": "柴胡",
       "path": "人纪/柴胡.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "脉诊学习",
       "path": "脉诊学习.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "人参",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-W30",
       "path": "DailyNotes/2023-W30.md"
-    },
-    {
-      "basename": "2023-05-12",
-      "path": "DailyNotes/2023-05-12.md"
     }
   ],
   "omittedPaths": [],
