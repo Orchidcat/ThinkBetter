@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "沙参",
+      "path": "人纪/沙参.md"
+    },
+    {
+      "basename": "连翘",
+      "path": "人纪/连翘.md"
+    },
+    {
+      "basename": "指甲",
+      "path": "人纪/指甲.md"
+    },
+    {
+      "basename": "干姜",
+      "path": "人纪/干姜.md"
+    },
+    {
+      "basename": "柏子仁",
+      "path": "人纪/柏子仁.md"
+    },
+    {
       "basename": "血余炭",
       "path": "人纪/血余炭.md"
+    },
+    {
+      "basename": "三七",
+      "path": "人纪/三七.md"
     },
     {
       "basename": "羚羊角",
@@ -15,10 +39,6 @@
     {
       "basename": "核桃",
       "path": "人纪/核桃.md"
-    },
-    {
-      "basename": "柏子仁",
-      "path": "人纪/柏子仁.md"
     },
     {
       "basename": "蝉兑",
@@ -35,10 +55,6 @@
     {
       "basename": "葛根",
       "path": "葛根.md"
-    },
-    {
-      "basename": "干姜",
-      "path": "人纪/干姜.md"
     },
     {
       "basename": "黄连",
@@ -161,10 +177,6 @@
       "path": "人纪/+Home.md"
     },
     {
-      "basename": "三七",
-      "path": "人纪/三七.md"
-    },
-    {
       "basename": "柴胡",
       "path": "人纪/柴胡.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "朴硝，硝石",
       "path": "人纪/朴硝，硝石.md"
-    },
-    {
-      "basename": "厚朴",
-      "path": "人纪/厚朴.md"
-    },
-    {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "芍药",
-      "path": "人纪/芍药.md"
     }
   ],
   "omittedPaths": [],
