@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "黄芩",
+      "path": "人纪/黄芩.md"
+    },
+    {
       "basename": "黄连",
-      "path": "黄连.md"
+      "path": "人纪/黄连.md"
     },
     {
       "basename": "麦门冬",
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 药解",
       "path": "Templates/Template - 药解.md"
-    },
-    {
-      "basename": "石膏",
-      "path": "人纪/石膏.md"
     }
   ],
   "omittedPaths": [],
