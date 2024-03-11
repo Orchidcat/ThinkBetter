@@ -5,8 +5,20 @@
       "path": "人纪/核桃.md"
     },
     {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "柏子仁",
       "path": "人纪/柏子仁.md"
+    },
+    {
+      "basename": "知母",
+      "path": "人纪/知母.md"
+    },
+    {
+      "basename": "葛根",
+      "path": "葛根.md"
     },
     {
       "basename": "干姜",
@@ -57,10 +69,6 @@
       "path": "人纪/天门冬.md"
     },
     {
-      "basename": "知母",
-      "path": "人纪/知母.md"
-    },
-    {
       "basename": "肉桂",
       "path": "人纪/肉桂.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "+Home",
       "path": "+Home.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "半夏",
@@ -195,10 +199,6 @@
     {
       "basename": "气分",
       "path": "气分.md"
-    },
-    {
-      "basename": "石决明",
-      "path": "人纪/石决明.md"
     }
   ],
   "omittedPaths": [],
