@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "天花粉",
+      "path": "人纪/天花粉.md"
+    },
+    {
+      "basename": "栝楼",
+      "path": "人纪/栝楼.md"
+    },
+    {
       "basename": "半夏",
       "path": "人纪/半夏.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "愿望清单 MOC",
       "path": "愿望清单 MOC.md"
-    },
-    {
-      "basename": "噪声",
-      "path": "Book/噪声.md"
-    },
-    {
-      "basename": "2023-W29",
-      "path": "DailyNotes/2023-W29.md"
     }
   ],
   "omittedPaths": [],
