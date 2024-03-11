@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "694ddb21d3f97cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/五味子.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e501c17541e0f450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6083a1ddfce36b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/核桃.md",
+                "file": "人纪/血余炭.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/五味子.md",
+                "file": "人纪/血余炭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/五味子.md"
+                "file": "人纪/血余炭.md"
               }
             }
           },
@@ -191,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/五味子.md",
+                "file": "人纪/血余炭.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,11 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "694ddb21d3f97cbc",
+  "active": "e501c17541e0f450",
   "lastOpenFiles": [
+    "人纪/羚羊角.md",
+    "人纪/血余炭.md",
     "人纪/医学衷中参西录.md",
     "人纪/核桃.md",
     "人纪/柏子仁.md",
+    "人纪/蝉兑.md",
     "人纪/五味子.md",
     "人纪/知母.md",
     "葛根.md",
@@ -253,9 +232,6 @@
     "人纪/附子，乌头，天雄.md",
     "生姜.md",
     "+Home.md",
-    "人纪/半夏.md",
-    "人纪/栝楼.md",
-    "人纪/天花粉.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "五味子",
-      "path": "人纪/五味子.md"
+      "basename": "血余炭",
+      "path": "人纪/血余炭.md"
+    },
+    {
+      "basename": "羚羊角",
+      "path": "人纪/羚羊角.md"
     },
     {
       "basename": "医学衷中参西录",
@@ -15,6 +19,14 @@
     {
       "basename": "柏子仁",
       "path": "人纪/柏子仁.md"
+    },
+    {
+      "basename": "蝉兑",
+      "path": "人纪/蝉兑.md"
+    },
+    {
+      "basename": "五味子",
+      "path": "人纪/五味子.md"
     },
     {
       "basename": "知母",
@@ -187,18 +199,6 @@
     {
       "basename": "芍药",
       "path": "人纪/芍药.md"
-    },
-    {
-      "basename": "当归",
-      "path": "人纪/当归.md"
-    },
-    {
-      "basename": "玄参",
-      "path": "人纪/玄参.md"
-    },
-    {
-      "basename": "086 气分证",
-      "path": "人纪/086 气分证.md"
     }
   ],
   "omittedPaths": [],
