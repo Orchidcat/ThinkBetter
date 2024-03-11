@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "山楂",
+      "path": "山楂.md"
+    },
+    {
+      "basename": "木通",
+      "path": "人纪/木通.md"
+    },
+    {
       "basename": "茯苓，茯神",
       "path": "人纪/茯苓，茯神.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "朱砂",
       "path": "人纪/朱砂.md"
-    },
-    {
-      "basename": "甘草",
-      "path": "人纪/甘草.md"
-    },
-    {
-      "basename": "195 子午流注",
-      "path": "人纪/195 子午流注.md"
     }
   ],
   "omittedPaths": [],
