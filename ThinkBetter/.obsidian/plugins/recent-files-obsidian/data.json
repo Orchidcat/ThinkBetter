@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "核桃",
+      "path": "人纪/核桃.md"
+    },
+    {
+      "basename": "柏子仁",
+      "path": "人纪/柏子仁.md"
+    },
+    {
+      "basename": "干姜",
+      "path": "人纪/干姜.md"
+    },
+    {
+      "basename": "黄连",
+      "path": "人纪/黄连.md"
+    },
+    {
+      "basename": "鸡内金",
+      "path": "人纪/鸡内金.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
       "basename": "龙眼肉",
       "path": "人纪/龙眼肉.md"
     },
@@ -21,20 +45,8 @@
       "path": "人纪/枸杞子.md"
     },
     {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
-    },
-    {
-      "basename": "鸡内金",
-      "path": "人纪/鸡内金.md"
-    },
-    {
       "basename": "黄芩",
       "path": "人纪/黄芩.md"
-    },
-    {
-      "basename": "黄连",
-      "path": "人纪/黄连.md"
     },
     {
       "basename": "麦门冬",
@@ -63,10 +75,6 @@
     {
       "basename": "生姜",
       "path": "生姜.md"
-    },
-    {
-      "basename": "干姜",
-      "path": "人纪/干姜.md"
     },
     {
       "basename": "+Home",
@@ -191,14 +199,6 @@
     {
       "basename": "石决明",
       "path": "人纪/石决明.md"
-    },
-    {
-      "basename": "牡蛎",
-      "path": "人纪/牡蛎.md"
-    },
-    {
-      "basename": "龙骨",
-      "path": "人纪/龙骨.md"
     }
   ],
   "omittedPaths": [],
