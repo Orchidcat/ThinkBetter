@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "如何学习",
+      "path": "Book/如何学习.md"
+    },
+    {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "六气",
       "path": "六气.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "事件timing.md"
     }
   ],
   "omittedPaths": [],
