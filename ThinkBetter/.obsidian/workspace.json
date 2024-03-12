@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea477d5f2b4e7227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "事件timing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "事件timing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "事件timing.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "事件timing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,13 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9d5953124ca312d",
+  "active": "ea477d5f2b4e7227",
   "lastOpenFiles": [
+    "Book/如何学习.md",
+    "Book/Clear Thinking.md",
     "Sources/Pasted image 20240312104643.png",
     "遗忘曲线.md",
     "Sources/Pasted image 20240312091441.png",
-    "Book/如何学习.md",
-    "Book/Clear Thinking.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
     "+Home.md",
@@ -244,7 +256,6 @@
     "Sources/Pasted image 20240221133236.png",
     "Sources/Pasted image 20240218112932.png",
     "Sources/Pasted image 20240201112054.png",
-    "Sources/Pasted image 20240201112044.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "事件timing.md"
+    },
+    {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
     },
     {
-      "basename": "遗忘曲线",
-      "path": "遗忘曲线.md"
-    },
-    {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "遗忘曲线",
+      "path": "遗忘曲线.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "牛膝",
       "path": "人纪/牛膝.md"
-    },
-    {
-      "basename": "牛膝",
-      "path": "牛膝.md"
     }
   ],
   "omittedPaths": [],
