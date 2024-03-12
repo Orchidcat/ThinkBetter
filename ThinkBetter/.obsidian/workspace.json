@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d687cdc2e8acf37e",
+        "id": "dcc9b0add9b7b613",
         "type": "tabs",
         "children": [
           {
-            "id": "dcbd1d3ceafa955b",
+            "id": "d9228de7a46fa438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Home.md",
+                "file": "Book/Clear Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "少阳",
+                "query": "如何学习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
+                "file": "Book/Clear Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Home.md"
+                "file": "Book/Clear Thinking.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
+                "file": "Book/Clear Thinking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,8 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcbd1d3ceafa955b",
+  "active": "d9228de7a46fa438",
   "lastOpenFiles": [
+    "阅读与书籍 MOC.md",
+    "人纪/+Home.md",
+    "+Home.md",
     "人纪/白茅根.md",
     "人纪/龙胆草.md",
     "人纪/干姜.md",
@@ -203,9 +207,6 @@
     "葛根.md",
     "人纪/黄连.md",
     "人纪/鸡内金.md",
-    "脉诊学习.md",
-    "人纪/龙眼肉.md",
-    "人纪/山楂.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
