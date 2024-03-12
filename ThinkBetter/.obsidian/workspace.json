@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc740c33c53aaeaf",
+        "id": "d687cdc2e8acf37e",
         "type": "tabs",
         "children": [
           {
-            "id": "afc58312c538c395",
+            "id": "dcbd1d3ceafa955b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/干姜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffde1776c6270966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/白茅根.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/白茅根.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/白茅根.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/白茅根.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffde1776c6270966",
+  "active": "dcbd1d3ceafa955b",
   "lastOpenFiles": [
     "人纪/白茅根.md",
     "人纪/龙胆草.md",
