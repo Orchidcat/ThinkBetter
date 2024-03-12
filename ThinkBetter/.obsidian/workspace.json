@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f17e77c423ce007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "遗忘曲线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "遗忘曲线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "遗忘曲线.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "遗忘曲线.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,10 +204,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9d5953124ca312d",
+  "active": "4f17e77c423ce007",
   "lastOpenFiles": [
-    "Book/Clear Thinking.md",
+    "Sources/Pasted image 20240312091441.png",
     "Book/如何学习.md",
+    "遗忘曲线.md",
+    "Book/Clear Thinking.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
     "+Home.md",
@@ -218,8 +232,6 @@
     "人纪/核桃.md",
     "人纪/蝉兑.md",
     "人纪/五味子.md",
-    "人纪/知母.md",
-    "葛根.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
