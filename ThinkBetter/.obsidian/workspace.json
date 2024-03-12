@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "遗忘曲线.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遗忘曲线.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗忘曲线.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,11 +204,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f17e77c423ce007",
+  "active": "f9d5953124ca312d",
   "lastOpenFiles": [
+    "遗忘曲线.md",
     "Sources/Pasted image 20240312091441.png",
     "Book/如何学习.md",
-    "遗忘曲线.md",
     "Book/Clear Thinking.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
@@ -244,7 +244,6 @@
     "Sources/Pasted image 20240218112932.png",
     "Sources/Pasted image 20240201112054.png",
     "Sources/Pasted image 20240201112044.png",
-    "Sources/Pasted image 20240201112025.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",
