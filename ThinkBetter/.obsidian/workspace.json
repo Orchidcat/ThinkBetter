@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea477d5f2b4e7227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "事件timing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件timing.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件timing.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -179,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件timing.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,12 +204,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea477d5f2b4e7227",
+  "active": "f9d5953124ca312d",
   "lastOpenFiles": [
+    "遗忘曲线.md",
+    "事件timing.md",
     "Book/如何学习.md",
     "Book/Clear Thinking.md",
     "Sources/Pasted image 20240312104643.png",
-    "遗忘曲线.md",
     "Sources/Pasted image 20240312091441.png",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
