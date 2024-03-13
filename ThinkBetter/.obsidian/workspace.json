@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc9b0add9b7b613",
+        "id": "4409251341760491",
         "type": "tabs",
         "children": [
           {
-            "id": "d9228de7a46fa438",
+            "id": "b94bdcfa09b6c881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Clear Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9d5953124ca312d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/如何学习.md",
+                "file": "+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "+Home.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9d5953124ca312d",
+  "active": "b94bdcfa09b6c881",
   "lastOpenFiles": [
     "Book/Clear Thinking.md",
     "Book/如何学习.md",
