@@ -1,3 +1,6 @@
+
+[Obsidian Plugins Website](https://obsidian.md/plugins)
+
 ### 文本编辑
 - HomePage：主页 #？ 是否可以将主页添加workbench功能
 - Pangu：在中文与英文之间添加空格
