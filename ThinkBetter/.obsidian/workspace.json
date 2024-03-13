@@ -11,12 +11,8 @@
             "id": "b94bdcfa09b6c881",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -120,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,14 +165,15 @@
       "janitor:Janitor: scan vault": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false,
       "obsidian-calibre-plugin:Calibre": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "b94bdcfa09b6c881",
   "lastOpenFiles": [
+    "+Home.md",
     "Book/Clear Thinking.md",
     "Book/如何学习.md",
     "遗忘曲线.md",
@@ -189,7 +182,6 @@
     "Sources/Pasted image 20240312091441.png",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
-    "+Home.md",
     "人纪/白茅根.md",
     "人纪/龙胆草.md",
     "人纪/干姜.md",
