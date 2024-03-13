@@ -11,8 +11,12 @@
             "id": "b94bdcfa09b6c881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OB插件.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OB插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OB插件.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OB插件.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,6 +181,8 @@
   },
   "active": "b94bdcfa09b6c881",
   "lastOpenFiles": [
+    "人纪/+Home.md",
+    "OB插件.md",
     "+Home.md",
     "Book/Clear Thinking.md",
     "Book/如何学习.md",
@@ -181,7 +191,6 @@
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
     "阅读与书籍 MOC.md",
-    "人纪/+Home.md",
     "人纪/白茅根.md",
     "人纪/龙胆草.md",
     "人纪/干姜.md",
@@ -200,7 +209,6 @@
     "人纪/医学衷中参西录.md",
     "人纪/核桃.md",
     "人纪/蝉兑.md",
-    "人纪/五味子.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
