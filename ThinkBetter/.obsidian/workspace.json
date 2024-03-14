@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Book/Clear Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "Book/Clear Thinking.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Book/Clear Thinking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,15 +216,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "00b578a90949e95a",
+  "active": "55803ab75da0c4e7",
   "lastOpenFiles": [
+    "人纪/+Home.md",
     "Book/Clear Thinking.md",
     "一句话的玩味.md",
     "Workbench.md",
     "Book/如何学习.md",
     "未命名.md",
     "阅读与书籍 MOC.md",
-    "人纪/+Home.md",
     "YEAR MOC⌛.md",
     "+HomeMOC.md",
     "佐藤可士和的超整理术.md",
