@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "佐藤可士和的超整理术",
+      "path": "佐藤可士和的超整理术.md"
+    },
+    {
+      "basename": "Standover",
+      "path": "Standover.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
     },
@@ -9,16 +21,16 @@
       "path": "Workbench.md"
     },
     {
+      "basename": "GTD",
+      "path": "GTD.md"
+    },
+    {
       "basename": "OB插件",
       "path": "OB插件.md"
     },
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "大脑睡眠结构图",
@@ -187,18 +199,6 @@
     {
       "basename": "栝楼",
       "path": "人纪/栝楼.md"
-    },
-    {
-      "basename": "天花粉",
-      "path": "人纪/天花粉.md"
-    },
-    {
-      "basename": "远志",
-      "path": "人纪/远志.md"
-    },
-    {
-      "basename": "地黄",
-      "path": "人纪/地黄.md"
     }
   ],
   "omittedPaths": [],
