@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8155114c3661c1f",
+  "active": "5dc96816b50898db",
   "lastOpenFiles": [
     "Book/如何学习.md",
     "OB插件.md",

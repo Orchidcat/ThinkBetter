@@ -6,9 +6,10 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌲",
       "⚓"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 6,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -17,11 +18,12 @@
       "left": 0
     },
     "iconInTabsEnabled": true,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "人纪/000 @ 人纪 - Map.canvas": "⚓"
+  "人纪/000 @ 人纪 - Map.canvas": "⚓",
+  "人纪": "🌲"
 }
