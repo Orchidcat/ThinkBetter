@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a8155114c3661c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OB插件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB插件.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB插件.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -153,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB插件.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,8 +178,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5dc96816b50898db",
+  "active": "e9546e875f8b2033",
   "lastOpenFiles": [
+    "Workbench.md",
     "Book/如何学习.md",
     "OB插件.md",
     "阅读与书籍 MOC.md",
@@ -220,7 +209,6 @@
     "人纪/三七.md",
     "人纪/羚羊角.md",
     "人纪/医学衷中参西录.md",
-    "人纪/核桃.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

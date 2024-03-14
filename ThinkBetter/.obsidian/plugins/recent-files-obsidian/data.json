@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "OB插件",
-      "path": "OB插件.md"
-    },
-    {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "OB插件",
+      "path": "OB插件.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "地黄",
       "path": "人纪/地黄.md"
-    },
-    {
-      "basename": "牛膝",
-      "path": "人纪/牛膝.md"
     }
   ],
   "omittedPaths": [],
