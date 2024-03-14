@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b94bdcfa09b6c881",
+            "id": "e9546e875f8b2033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB插件.md",
+                "file": "Book/如何学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB插件.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB插件.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB插件.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,10 +179,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b94bdcfa09b6c881",
+  "active": "e9546e875f8b2033",
   "lastOpenFiles": [
-    "人纪/+Home.md",
     "OB插件.md",
+    "人纪/+Home.md",
     "+Home.md",
     "Book/Clear Thinking.md",
     "Book/如何学习.md",
