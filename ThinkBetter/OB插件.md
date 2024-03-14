@@ -8,17 +8,17 @@
 - Advanced Tables：制作表格
 - Editor Syntax Highlight: 高亮显示，代码
 - Editor Width Slider: 允许您使用状态栏中的简单滑块调整编辑器线宽。
-- Emoji Shortcodes: 使用Markdown Emoji Shortcodes 😄【已卸载，减少记忆负担】
+- ~~Emoji Shortcodes: 使用Markdown Emoji Shortcodes 😄~~【已卸载，减少记忆负担】
 - Emoji Toolbar: 打开emoji选择窗口，可链接twitter
 - Highlightr：荧光笔
-- Hover Editor：悬停编辑器
+- ~~Hover Editor：悬停编辑器~~ 【已卸载】
 - Natual Language Dates：自然语言日期
 - Outliner：像在 Workflowy 或 RoamResearch 中一样使用您的列表
 - Paste URL into selection: 对文本添加URL路径 
 - Table Of Contents：创建目录
 - Zoom：放大标题或列表
 
-### 日志操作
+###  日志操作
 - Auto Note Mover：自动将日志移动到指定的文件夹中
 - File Order: 为文件添加前导编号，来提供排序
 - Iconize: 为文件，文件夹，文本添加图标
@@ -26,7 +26,7 @@
 - Janitor： 扫描所有文件，提示删除
 - Note Refactor：解析当前信息到新的文件或分离文件
 - Remember Cursor position: 记录每个文件的最后游标位置
-- Templater：模板管理
+- Templater：模板管理 Alt + E
 - [WorkBench](https://github.com/ryanjamurphy/workbench-obsidian)：将当前看到的任何内容添加到“工作台”笔记中。
 
 
