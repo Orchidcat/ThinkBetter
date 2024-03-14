@@ -11,7 +11,6 @@ link:
 
 
 
-
 - 连续且好的决策，很少迫于环境（position）而做出。like Tetris.
 - The greatest aid to judgment is starting from a **good position**.that ordinary moments determine your position, and your position determines your options.
 
@@ -63,7 +62,7 @@ A man can do as he wills, but not will as he wills.
 I am the master of my fate, I am the captain of my soul.
 —W. E. HENLEY, “INVICTUS”
 
-缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。
+缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。 ^lyr8wai
 
 ```ad-quote
 Complaining is not a strategy. You have to work with the world
@@ -71,7 +70,7 @@ as you find it, not as you would have it be.
 —JEFF BEZOS
 ```
 
-<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark>
+<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark> ^azut9x3
 - The path to being exceptional begins when you decide to be responsible for your actions no matter the situation.
 - When you put outcome over ego, you get better results.
 
@@ -83,7 +82,7 @@ as you find it, not as you would have it be.
 一开始就不应该陷入这样的境地等。
 
 
-行动时：询问自己是否该行动会是将来更好（接受已发生的）
+行动时：询问自己是否该行动会使将来更好（接受已发生的） ^mxln34v
 
 
 #### 自我认知（know yourself)

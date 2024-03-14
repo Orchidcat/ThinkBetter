@@ -3,5 +3,5 @@
   "workbenchLinePrefix": "- ",
   "altClickType": "Embed",
   "metaAltClickType": "Embed",
-  "includeBlankLine": true
+  "includeBlankLine": false
 }

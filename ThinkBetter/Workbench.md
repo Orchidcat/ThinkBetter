@@ -4,8 +4,6 @@
 
 
 
-
-
 - [学校是昨天才诞生的新鲜事物。](%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0#^e8gq4s9)
 - [从某种意义上来说，我们仍然是野人：需要适应现代生活，且尚未真正适应。](%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0#^745zv8e)
 
@@ -16,3 +14,8 @@
 - [你选择的环境将代替意志力来监督你做出对的选择。](Clear%20Thinking#^1z7vgd9)
 
 - [**建立习惯是创造积极惯性的关键**。](Clear%20Thinking#^c85s6ei)
+
+- [缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。](Clear%20Thinking#^lyr8wai)
+
+- [<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark>](Clear%20Thinking#^azut9x3)
+- [行动时：询问自己是否该行动会使将来更好（接受已发生的）](Clear%20Thinking#^mxln34v)
