@@ -19,3 +19,5 @@
 
 - [<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark>](Clear%20Thinking#^azut9x3)
 - [行动时：询问自己是否该行动会使将来更好（接受已发生的）](Clear%20Thinking#^mxln34v)
+- [获得成功的很大一部分是有自制力去做任何需要做的事情，不管你现在是否想做。](Clear%20Thinking#^2g2u84z)
+- [Outcome over ego.](Clear%20Thinking#^mavr0gz)
