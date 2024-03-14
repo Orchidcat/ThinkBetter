@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "如何学习",
+      "path": "Book/如何学习.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
     },
     {
       "basename": "+HomeMOC",
@@ -33,20 +53,8 @@
       "path": "Standover.md"
     },
     {
-      "basename": "如何学习",
-      "path": "Book/如何学习.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
-    },
-    {
       "basename": "GTD",
       "path": "GTD.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "大脑睡眠结构图",
@@ -191,14 +199,6 @@
     {
       "basename": "肉桂",
       "path": "人纪/肉桂.md"
-    },
-    {
-      "basename": "大黄",
-      "path": "人纪/大黄.md"
-    },
-    {
-      "basename": "附子，乌头，天雄",
-      "path": "人纪/附子，乌头，天雄.md"
     }
   ],
   "omittedPaths": [],
