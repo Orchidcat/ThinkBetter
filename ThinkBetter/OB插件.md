@@ -8,7 +8,7 @@
 - Advanced Tables：制作表格
 - Editor Syntax Highlight: 高亮显示，代码
 - Editor Width Slider: 允许您使用状态栏中的简单滑块调整编辑器线宽。
-- Emoji Shortcodes: 使用Markdown Emoji Shortcodes 😄
+- Emoji Shortcodes: 使用Markdown Emoji Shortcodes 😄【已卸载，减少记忆负担】
 - Emoji Toolbar: 打开emoji选择窗口，可链接twitter
 - Highlightr：荧光笔
 - Hover Editor：悬停编辑器

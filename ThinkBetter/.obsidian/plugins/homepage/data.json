@@ -11,7 +11,7 @@
       "kind": "File",
       "commands": [],
       "openOnStartup": true,
-      "openWhenEmpty": false
+      "openWhenEmpty": true
     }
   },
   "separateMobile": false
