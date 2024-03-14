@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大脑睡眠结构图.md",
+                "file": "Book/如何学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大脑睡眠结构图.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大脑睡眠结构图.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大脑睡眠结构图.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,8 +181,8 @@
   },
   "active": "e9546e875f8b2033",
   "lastOpenFiles": [
-    "Book/如何学习.md",
     "大脑睡眠结构图.md",
+    "Book/如何学习.md",
     "Sources/Pasted image 20240314103402.png",
     "OB插件.md",
     "人纪/+Home.md",
