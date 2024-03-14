@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8155114c3661c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读与书籍 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,20 +192,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e9546e875f8b2033",
+  "active": "a8155114c3661c1f",
   "lastOpenFiles": [
-    "大脑睡眠结构图.md",
     "Book/如何学习.md",
+    "阅读与书籍 MOC.md",
+    "人纪/+Home.md",
+    "大脑睡眠结构图.md",
     "Sources/Pasted image 20240314103402.png",
     "OB插件.md",
-    "人纪/+Home.md",
     "+Home.md",
     "Book/Clear Thinking.md",
     "遗忘曲线.md",
     "事件timing.md",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
-    "阅读与书籍 MOC.md",
     "人纪/白茅根.md",
     "人纪/龙胆草.md",
     "人纪/干姜.md",
