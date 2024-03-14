@@ -5,6 +5,14 @@
       "path": "Book/Clear Thinking.md"
     },
     {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
       "basename": "Workbench",
       "path": "Workbench.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "YEAR MOC⌛",
@@ -195,10 +199,6 @@
     {
       "basename": "天门冬",
       "path": "人纪/天门冬.md"
-    },
-    {
-      "basename": "肉桂",
-      "path": "人纪/肉桂.md"
     }
   ],
   "omittedPaths": [],
