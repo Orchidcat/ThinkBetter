@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "大脑睡眠结构图.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "大脑睡眠结构图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "大脑睡眠结构图.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "大脑睡眠结构图.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,11 +181,13 @@
   },
   "active": "e9546e875f8b2033",
   "lastOpenFiles": [
+    "Book/如何学习.md",
+    "大脑睡眠结构图.md",
+    "Sources/Pasted image 20240314103402.png",
     "OB插件.md",
     "人纪/+Home.md",
     "+Home.md",
     "Book/Clear Thinking.md",
-    "Book/如何学习.md",
     "遗忘曲线.md",
     "事件timing.md",
     "Sources/Pasted image 20240312104643.png",
@@ -208,7 +210,6 @@
     "人纪/羚羊角.md",
     "人纪/医学衷中参西录.md",
     "人纪/核桃.md",
-    "人纪/蝉兑.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
@@ -219,7 +220,6 @@
     "Sources/Pasted image 20240222103952.png",
     "Sources/Pasted image 20240221133236.png",
     "Sources/Pasted image 20240218112932.png",
-    "Sources/Pasted image 20240201112054.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",
