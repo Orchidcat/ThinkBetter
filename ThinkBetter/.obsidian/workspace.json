@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Workbench.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -218,10 +218,10 @@
   },
   "active": "55803ab75da0c4e7",
   "lastOpenFiles": [
-    "人纪/+Home.md",
-    "Book/Clear Thinking.md",
-    "一句话的玩味.md",
     "Workbench.md",
+    "Book/Clear Thinking.md",
+    "人纪/+Home.md",
+    "一句话的玩味.md",
     "Book/如何学习.md",
     "未命名.md",
     "阅读与书籍 MOC.md",

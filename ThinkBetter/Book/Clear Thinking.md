@@ -162,8 +162,8 @@ The most successful people have the **highest standards**, not only for others b
 	事实会告诉我们两点，第一， 这次你没啥运气；第二，你关于这个事物如何运作的想法是错误的。
 	如果持续的失败，那么就是第二点无疑了。
 	需要记录下每次错误的信息，以便后面进行矫正。
-	
-错误给了你一个选择:是更新你的想法，还是忽略它们带来的失败，继续相信你一直相信的东西。我们中有不少人选择后者。
+
+错误给了你一个选择:是更新你的想法，还是忽略它们带来的失败，继续相信你一直相信的东西。我们中有不少人选择后者。 ^j4gv2zy
 
 掩盖错误有三个问题。首先，如果你忽视自己的错误，你就无法学习。第二，隐藏它们变成了一种习惯。第三，掩盖会使糟糕的情况变得更糟。
 
@@ -184,7 +184,7 @@ If you choose not to decide, you still have made a choice.
 The decision = the judgment that a certain option is the best one
 The decision itself should represent the outcome of the decision-making process. That process is about weighing your options with the aim of selecting the best one, and it’s composed of four stages: defining the problem, exploring possible solutions, evaluating the options, and finally making the judgment and executing the best option.
 
-![[Pasted image 20240226085912.png|300x250]]
+![[Pasted image 20240226085912.png]]
 
 
 当风险很低时，迅速做出选择，应该是更好的。（尽量少花费时间）
@@ -198,7 +198,7 @@ If the only tool you have is a hammer, you tend to see every problem as a nail�
 
 一旦有人提出了一个问题，团队就会进入“解决方案”模式，而不考虑问题是否已经被正确定义。
 
-```ad-tip
+```ad-tip ^5sdts2t
 在通常的教育背景下，我们从小被鼓励解决问题。而不是首先从定义问题开始。
 ```
 
@@ -247,9 +247,10 @@ To understand is to know what to do.
 
 用于不要将最终会胜利的信念与当下现实所受进行混淆。
 
-最难对付的挫折是哪些我们没有准备，并且没有预期的挫折。这就是为什么我们要防患于未然。（许多人认为他们不善于解决问题，而实际上他们不善于预测问题。）
+最难对付的挫折是那些我们没有准备，并且没有预期的挫折。这就是为什么我们要防患于未然。
+（许多人认为他们不善于解决问题，而实际上他们是不善于预测问题。）
 
-- 想象未来会出错的问题；而不仅仅是自己期望的结果。
+- **想象未来会出错的问题；而不仅仅是自己期望的结果**。
 - 二元思维（[[二阶思维]]的问题是只有yes和no，没有中间地带，但现实不是这样的。这种思维方式，实际上是降低了思维的维度。），多问自己“然后呢？” （Tiny choices compound. That’s why second-level thinking is needed.）
 - 强迫自己发现问题可能的解决方法，至少三个。
 

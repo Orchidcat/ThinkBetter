@@ -5,16 +5,16 @@
       "path": "Book/Clear Thinking.md"
     },
     {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     },
     {
       "basename": "如何学习",

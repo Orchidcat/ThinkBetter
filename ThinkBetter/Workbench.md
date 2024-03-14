@@ -21,3 +21,5 @@
 - [行动时：询问自己是否该行动会使将来更好（接受已发生的）](Clear%20Thinking#^mxln34v)
 - [获得成功的很大一部分是有自制力去做任何需要做的事情，不管你现在是否想做。](Clear%20Thinking#^2g2u84z)
 - [Outcome over ego.](Clear%20Thinking#^mavr0gz)
+- [错误给了你一个选择:是更新你的想法，还是忽略它们带来的失败，继续相信你一直相信的东西。我们中有不少人选择后者。](Clear%20Thinking#^j4gv2zy)
+- 
