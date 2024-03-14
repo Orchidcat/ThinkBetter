@@ -41,6 +41,7 @@
 - Tag Wrangler：重命名，合并，分离，查找标签 
 - Tasks：任务管理 
 - Various Complements：自动完善拼写
+- Smart Random Note：可以限定范围的漫游笔记
 
 ### 信息显示
 - Better Word Count: 字数统计 

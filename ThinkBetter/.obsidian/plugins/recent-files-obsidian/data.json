@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
+    },
+    {
       "basename": "佐藤可士和的超整理术",
       "path": "佐藤可士和的超整理术.md"
     },
     {
-      "basename": "Standover",
-      "path": "Standover.md"
+      "basename": "OB插件",
+      "path": "OB插件.md"
     },
     {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
+      "basename": "089 人纪 - 神农本草经",
+      "path": "人纪/089 人纪 - 神农本草经.md"
+    },
+    {
+      "basename": "090 人纪 - 针灸",
+      "path": "人纪/090 人纪 - 针灸.md"
+    },
+    {
+      "basename": "Standover",
+      "path": "Standover.md"
     },
     {
       "basename": "如何学习",
@@ -25,20 +45,12 @@
       "path": "GTD.md"
     },
     {
-      "basename": "OB插件",
-      "path": "OB插件.md"
-    },
-    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "大脑睡眠结构图",
       "path": "大脑睡眠结构图.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
     },
     {
       "basename": "遗忘曲线",
@@ -187,18 +199,6 @@
     {
       "basename": "附子，乌头，天雄",
       "path": "人纪/附子，乌头，天雄.md"
-    },
-    {
-      "basename": "生姜",
-      "path": "生姜.md"
-    },
-    {
-      "basename": "半夏",
-      "path": "人纪/半夏.md"
-    },
-    {
-      "basename": "栝楼",
-      "path": "人纪/栝楼.md"
     }
   ],
   "omittedPaths": [],
