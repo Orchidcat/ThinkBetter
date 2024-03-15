@@ -81,10 +81,6 @@ tips：
 
   
 
-  
-
-  
-
 方法论：
 
 - Collect ---- First thing is to get all of that stuff out of your head and into an inbox;collect everything in one place

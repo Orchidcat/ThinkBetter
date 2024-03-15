@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9760de92eb3bddf7",
+        "id": "e397b987c8106d76",
         "type": "tabs",
         "children": [
           {
-            "id": "92dbe326f0cfcb78",
+            "id": "abb0e20ba5dc33d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有效写作-史蒂文平克的见解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae7384ef58af67bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一周是一年的2%.md",
+                "file": "GTD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一周是一年的2%.md",
+                "file": "GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一周是一年的2%.md"
+                "file": "GTD.md"
               }
             }
           },
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一周是一年的2%.md",
+                "file": "GTD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,12 +180,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ae7384ef58af67bc",
+  "active": "abb0e20ba5dc33d0",
   "lastOpenFiles": [
-    "一周是一年的2%.md",
-    "有效写作-史蒂文平克的见解.md",
-    "阅读与书籍 MOC.md",
     "人纪/+Home.md",
+    "有效写作-史蒂文平克的见解.md",
+    "一周是一年的2%.md",
+    "阅读与书籍 MOC.md",
     "一句话的玩味.md",
     "Book/Clear Thinking.md",
     "Book/贝索斯传.md",
