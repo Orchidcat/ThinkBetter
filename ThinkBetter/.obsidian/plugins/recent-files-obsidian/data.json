@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GTD",
-      "path": "GTD.md"
+      "basename": "学习方法",
+      "path": "学习方法.md"
+    },
+    {
+      "basename": "make it stick",
+      "path": "make it stick.md"
+    },
+    {
+      "basename": "记忆框架的建立",
+      "path": "记忆框架的建立.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "GTD.md"
     },
     {
       "basename": "有效写作-史蒂文平克的见解",
@@ -187,18 +199,6 @@
     {
       "basename": "龙眼肉",
       "path": "人纪/龙眼肉.md"
-    },
-    {
-      "basename": "山楂",
-      "path": "人纪/山楂.md"
-    },
-    {
-      "basename": "木通",
-      "path": "人纪/木通.md"
-    },
-    {
-      "basename": "茯苓，茯神",
-      "path": "人纪/茯苓，茯神.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD.md",
+                "file": "学习方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD.md",
+                "file": "学习方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD.md"
+                "file": "学习方法.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD.md",
+                "file": "学习方法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,11 @@
   },
   "active": "abb0e20ba5dc33d0",
   "lastOpenFiles": [
+    "make it stick.md",
+    "学习方法.md",
+    "记忆框架的建立.md",
     "人纪/+Home.md",
+    "GTD.md",
     "有效写作-史蒂文平克的见解.md",
     "一周是一年的2%.md",
     "阅读与书籍 MOC.md",
@@ -200,7 +204,6 @@
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/090 人纪 - 针灸.md",
     "Standover.md",
-    "GTD.md",
     "大脑睡眠结构图.md",
     "Sources/Pasted image 20240314103402.png",
     "+Home.md",
@@ -208,9 +211,6 @@
     "事件timing.md",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
-    "人纪/白茅根.md",
-    "人纪/龙胆草.md",
-    "人纪/干姜.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
