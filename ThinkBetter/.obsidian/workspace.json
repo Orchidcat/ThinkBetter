@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基本Q.md",
+                "file": "一句话的玩味.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本Q.md",
+                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本Q.md"
+                "file": "一句话的玩味.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本Q.md",
+                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,9 +182,9 @@
   },
   "active": "abb0e20ba5dc33d0",
   "lastOpenFiles": [
-    "第一性原理.md",
-    "基本Q.md",
     "人纪/+Home.md",
+    "基本Q.md",
+    "第一性原理.md",
     "WorkFlowMOC.md",
     "学习方法.md",
     "make it stick.md",
