@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c57f6a25af6de66",
+        "id": "6f396e8342535722",
         "type": "tabs",
         "children": [
           {
-            "id": "55803ab75da0c4e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Clear Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9726a1aa05cdc5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47925c2bc038876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workbench.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00b578a90949e95a",
+            "id": "c9beacaa8d44639c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -156,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/Clear Thinking.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Clear Thinking.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -178,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/Clear Thinking.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,10 +179,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "55803ab75da0c4e7",
+  "active": "c9beacaa8d44639c",
   "lastOpenFiles": [
-    "Workbench.md",
     "Book/Clear Thinking.md",
+    "Workbench.md",
     "人纪/+Home.md",
     "一句话的玩味.md",
     "Book/如何学习.md",
