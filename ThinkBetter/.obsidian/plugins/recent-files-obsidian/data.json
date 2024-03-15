@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "贝索斯传",
+      "path": "Book/贝索斯传.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
     {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "Workbench",
@@ -23,10 +31,6 @@
     {
       "basename": "未命名",
       "path": "未命名.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "YEAR MOC⌛",
@@ -195,10 +199,6 @@
     {
       "basename": "麦门冬",
       "path": "人纪/麦门冬.md"
-    },
-    {
-      "basename": "天门冬",
-      "path": "人纪/天门冬.md"
     }
   ],
   "omittedPaths": [],
