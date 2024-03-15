@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习方法.md",
+                "file": "基本Q.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习方法.md",
+                "file": "基本Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习方法.md"
+                "file": "基本Q.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习方法.md",
+                "file": "基本Q.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,10 +182,13 @@
   },
   "active": "abb0e20ba5dc33d0",
   "lastOpenFiles": [
-    "make it stick.md",
-    "学习方法.md",
-    "记忆框架的建立.md",
+    "第一性原理.md",
+    "基本Q.md",
     "人纪/+Home.md",
+    "WorkFlowMOC.md",
+    "学习方法.md",
+    "make it stick.md",
+    "记忆框架的建立.md",
     "GTD.md",
     "有效写作-史蒂文平克的见解.md",
     "一周是一年的2%.md",
@@ -206,9 +209,6 @@
     "Standover.md",
     "大脑睡眠结构图.md",
     "Sources/Pasted image 20240314103402.png",
-    "+Home.md",
-    "遗忘曲线.md",
-    "事件timing.md",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
     "Sources/013C1D99.png",

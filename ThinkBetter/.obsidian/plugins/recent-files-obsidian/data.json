@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "基本Q",
+      "path": "基本Q.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
+    },
+    {
       "basename": "学习方法",
       "path": "学习方法.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "记忆框架的建立",
       "path": "记忆框架的建立.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "GTD",
@@ -187,18 +199,6 @@
     {
       "basename": "黄连",
       "path": "人纪/黄连.md"
-    },
-    {
-      "basename": "鸡内金",
-      "path": "人纪/鸡内金.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
-    },
-    {
-      "basename": "龙眼肉",
-      "path": "人纪/龙眼肉.md"
     }
   ],
   "omittedPaths": [],
