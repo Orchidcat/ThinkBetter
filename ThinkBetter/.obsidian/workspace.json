@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05531879b668f89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信任.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f91e1e5161a1043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Clear Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -181,9 +205,10 @@
   },
   "active": "43c29e1ab71912e7",
   "lastOpenFiles": [
-    "人纪/+Home.md",
+    "信任.md",
     "Book/贝索斯传.md",
     "Book/Clear Thinking.md",
+    "人纪/+Home.md",
     "阅读与书籍 MOC.md",
     "Workbench.md",
     "一句话的玩味.md",
@@ -209,7 +234,6 @@
     "人纪/干姜.md",
     "人纪/圆运动的古中医学（续）.md",
     "十二经络歌诀.md",
-    "临床应用伤寒论解说.md",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",

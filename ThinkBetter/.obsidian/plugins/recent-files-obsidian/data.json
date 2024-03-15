@@ -5,12 +5,16 @@
       "path": "Book/贝索斯传.md"
     },
     {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
+      "basename": "信任",
+      "path": "信任.md"
     },
     {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "黄芩",
       "path": "人纪/黄芩.md"
-    },
-    {
-      "basename": "麦门冬",
-      "path": "人纪/麦门冬.md"
     }
   ],
   "omittedPaths": [],

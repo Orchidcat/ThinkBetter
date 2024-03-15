@@ -119,7 +119,7 @@ Outcome over ego. ^mavr0gz
 
 
 
-The most successful people have the **highest standards**, not only for others but for themselves.
+The most successful people have the **highest standards**, not only for others but for themselves. ^93e9c4
 
 <mark style="background: #FFB86CA6;">you don’t speak unless you know what you’re talking about.</mark>
 
