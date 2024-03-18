@@ -5,6 +5,10 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
+      "basename": "肝脾位置之解说",
+      "path": "人纪/肝脾位置之解说.md"
+    },
+    {
       "basename": "三焦考",
       "path": "三焦考.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "蝉兑",
       "path": "人纪/蝉兑.md"
-    },
-    {
-      "basename": "五味子",
-      "path": "人纪/五味子.md"
     }
   ],
   "omittedPaths": [],
