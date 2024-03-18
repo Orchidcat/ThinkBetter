@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0f7c010f93a0051f",
+            "id": "f57d17f6c296a6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Clear Thinking.md",
+                "file": "何以为父：影响彼此一生的父子关系.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/Clear Thinking.md",
+                "file": "何以为父：影响彼此一生的父子关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Clear Thinking.md"
+                "file": "何以为父：影响彼此一生的父子关系.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/Clear Thinking.md",
+                "file": "何以为父：影响彼此一生的父子关系.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,8 +193,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0f7c010f93a0051f",
+  "active": "f57d17f6c296a6b0",
   "lastOpenFiles": [
+    "何以为父：影响彼此一生的父子关系.md",
+    "一句话的玩味.md",
+    "Templates/Template - 读书.md",
+    "Book/Clear Thinking.md",
     "人纪/养生之道.md",
     "人纪/医学衷中参西录.md",
     "人纪/胰脏的解说.md",
@@ -207,8 +211,6 @@
     "三焦考.md",
     "脉诊学习.md",
     "人纪/112 手少阳三焦经.md",
-    "Book/Clear Thinking.md",
-    "一句话的玩味.md",
     "阅读与书籍 MOC.md",
     "Book/如何学习.md",
     "Book/贝索斯传.md",
@@ -222,8 +224,6 @@
     "GTD.md",
     "有效写作-史蒂文平克的见解.md",
     "一周是一年的2%.md",
-    "信任.md",
-    "Workbench.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
