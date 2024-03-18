@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三焦考.md",
+                "file": "脉诊学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "手少阳",
+                "query": "肺脉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三焦考.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三焦考.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三焦考.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,10 +216,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f0bca632d34c4fa0",
+  "active": "fb82e98297cee07f",
   "lastOpenFiles": [
-    "人纪/112 手少阳三焦经.md",
+    "脉诊学习.md",
     "三焦考.md",
+    "人纪/112 手少阳三焦经.md",
     "人纪/医学衷中参西录.md",
     "Book/Clear Thinking.md",
     "一句话的玩味.md",
@@ -244,7 +244,6 @@
     "+HomeMOC.md",
     "佐藤可士和的超整理术.md",
     "OB插件.md",
-    "人纪/089 人纪 - 神农本草经.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",

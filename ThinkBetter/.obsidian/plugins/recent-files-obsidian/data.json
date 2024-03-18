@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
       "basename": "三焦考",
       "path": "三焦考.md"
     },
     {
       "basename": "112 手少阳三焦经",
       "path": "人纪/112 手少阳三焦经.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "Clear Thinking",
@@ -195,10 +199,6 @@
     {
       "basename": "五味子",
       "path": "人纪/五味子.md"
-    },
-    {
-      "basename": "知母",
-      "path": "人纪/知母.md"
     }
   ],
   "omittedPaths": [],
