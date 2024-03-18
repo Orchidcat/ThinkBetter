@@ -30,69 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb82e98297cee07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/医学衷中参西录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "519f01fdad1fdcd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/胰脏的解说.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3590c0a6954572b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/肾与生育是否有关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28a66fb588f80358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/肝脾位置之解说.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0bca632d34c4fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "三焦考.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/胰脏的解说.md",
+                "file": "Book/Clear Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/胰脏的解说.md"
+                "file": "Book/Clear Thinking.md"
               }
             }
           },
@@ -215,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/胰脏的解说.md",
+                "file": "Book/Clear Thinking.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,15 +193,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "519f01fdad1fdcd2",
+  "active": "0f7c010f93a0051f",
   "lastOpenFiles": [
+    "人纪/养生之道.md",
+    "人纪/医学衷中参西录.md",
+    "人纪/胰脏的解说.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "人纪/肝脾位置之解说.md",
     "Sources/Pasted image 20240318115040.png",
-    "人纪/医学衷中参西录.md",
     "人纪/内伤黄疸.md",
-    "人纪/胰脏的解说.md",
     "人纪/肾与生育是否有关.md",
     "三焦考.md",
     "脉诊学习.md",
@@ -293,7 +234,6 @@
     "Sources/Pasted image 20240227112818.png",
     "Sources/Pasted image 20240227111548.png",
     "Sources/Pasted image 20240226085912.png",
-    "Sources/Pasted image 20240222103952.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "养生之道",
+      "path": "人纪/养生之道.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "胰脏的解说",
       "path": "人纪/胰脏的解说.md"
     },
     {
       "basename": "肝脾位置之解说",
       "path": "人纪/肝脾位置之解说.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "内伤黄疸",
@@ -31,10 +39,6 @@
     {
       "basename": "112 手少阳三焦经",
       "path": "人纪/112 手少阳三焦经.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "血余炭",
       "path": "人纪/血余炭.md"
-    },
-    {
-      "basename": "三七",
-      "path": "人纪/三七.md"
     }
   ],
   "omittedPaths": [],
