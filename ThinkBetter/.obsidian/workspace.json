@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "909b576ccb7c5cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/内伤黄疸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "519f01fdad1fdcd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/胰脏的解说.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3590c0a6954572b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/肾与生育是否有关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28a66fb588f80358",
             "type": "leaf",
             "state": {
@@ -231,8 +267,11 @@
   },
   "active": "fb82e98297cee07f",
   "lastOpenFiles": [
-    "人纪/肝脾位置之解说.md",
+    "人纪/内伤黄疸.md",
+    "人纪/胰脏的解说.md",
     "人纪/医学衷中参西录.md",
+    "人纪/肾与生育是否有关.md",
+    "人纪/肝脾位置之解说.md",
     "三焦考.md",
     "脉诊学习.md",
     "人纪/112 手少阳三焦经.md",
@@ -254,9 +293,6 @@
     "信任.md",
     "Workbench.md",
     "未命名.md",
-    "YEAR MOC⌛.md",
-    "+HomeMOC.md",
-    "佐藤可士和的超整理术.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
