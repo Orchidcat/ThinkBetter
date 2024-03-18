@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "如何学习",
-      "path": "Book/如何学习.md"
+      "basename": "三焦考",
+      "path": "三焦考.md"
+    },
+    {
+      "basename": "112 手少阳三焦经",
+      "path": "人纪/112 手少阳三焦经.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
     },
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
     {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
+      "basename": "如何学习",
+      "path": "Book/如何学习.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
+      "basename": "贝索斯传",
+      "path": "Book/贝索斯传.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
     },
     {
       "basename": "基本Q",
@@ -51,14 +71,6 @@
     {
       "basename": "一周是一年的2%",
       "path": "一周是一年的2%.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
-    },
-    {
-      "basename": "贝索斯传",
-      "path": "Book/贝索斯传.md"
     },
     {
       "basename": "信任",
@@ -173,10 +185,6 @@
       "path": "人纪/羚羊角.md"
     },
     {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
-    },
-    {
       "basename": "核桃",
       "path": "人纪/核桃.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "知母",
       "path": "人纪/知母.md"
-    },
-    {
-      "basename": "葛根",
-      "path": "葛根.md"
     }
   ],
   "omittedPaths": [],

@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "2adb9a0bb549e865",
+            "id": "0f7c010f93a0051f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "Book/Clear Thinking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b151992ae9f9813e",
+            "id": "fb82e98297cee07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/医学衷中参西录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0bca632d34c4fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三焦考.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "手少阳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "三焦考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "三焦考.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "三焦考.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,13 +217,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2adb9a0bb549e865",
+  "active": "f0bca632d34c4fa0",
   "lastOpenFiles": [
-    "阅读与书籍 MOC.md",
-    "未命名 1.md",
-    "人纪/+Home.md",
-    "Book/如何学习.md",
+    "人纪/112 手少阳三焦经.md",
+    "三焦考.md",
+    "人纪/医学衷中参西录.md",
+    "Book/Clear Thinking.md",
     "一句话的玩味.md",
+    "阅读与书籍 MOC.md",
+    "Book/如何学习.md",
+    "Book/贝索斯传.md",
+    "人纪/+Home.md",
     "基本Q.md",
     "第一性原理.md",
     "WorkFlowMOC.md",
@@ -221,8 +237,6 @@
     "GTD.md",
     "有效写作-史蒂文平克的见解.md",
     "一周是一年的2%.md",
-    "Book/Clear Thinking.md",
-    "Book/贝索斯传.md",
     "信任.md",
     "Workbench.md",
     "未命名.md",
@@ -231,8 +245,6 @@
     "佐藤可士和的超整理术.md",
     "OB插件.md",
     "人纪/089 人纪 - 神农本草经.md",
-    "人纪/090 人纪 - 针灸.md",
-    "Standover.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
