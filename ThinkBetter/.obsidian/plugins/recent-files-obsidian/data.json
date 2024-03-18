@@ -5,12 +5,16 @@
       "path": "Book/如何学习.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
     },
     {
       "basename": "基本Q",
@@ -47,10 +51,6 @@
     {
       "basename": "一周是一年的2%",
       "path": "一周是一年的2%.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "Clear Thinking",
@@ -195,10 +195,6 @@
     {
       "basename": "葛根",
       "path": "葛根.md"
-    },
-    {
-      "basename": "黄连",
-      "path": "人纪/黄连.md"
     }
   ],
   "omittedPaths": [],
