@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e397b987c8106d76",
+        "id": "cb53bf2a56414d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "abb0e20ba5dc33d0",
+            "id": "dc357bb317343159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "abb0e20ba5dc33d0",
+  "active": "dc357bb317343159",
   "lastOpenFiles": [
     "人纪/+Home.md",
     "基本Q.md",
