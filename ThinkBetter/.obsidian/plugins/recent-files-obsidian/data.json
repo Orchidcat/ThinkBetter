@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "蝇王",
+      "path": "蝇王.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
+    },
+    {
+      "basename": "钢铁是怎样练成的",
+      "path": "钢铁是怎样练成的.md"
+    },
+    {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "何以为父：影响彼此一生的父子关系.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
     },
     {
       "basename": "Template - 读书",
@@ -53,20 +69,12 @@
       "path": "人纪/112 手少阳三焦经.md"
     },
     {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
-    },
-    {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
     },
     {
       "basename": "贝索斯传",
       "path": "Book/贝索斯传.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "基本Q",
@@ -191,14 +199,6 @@
     {
       "basename": "指甲",
       "path": "人纪/指甲.md"
-    },
-    {
-      "basename": "连翘",
-      "path": "人纪/连翘.md"
-    },
-    {
-      "basename": "沙参",
-      "path": "人纪/沙参.md"
     }
   ],
   "omittedPaths": [],
