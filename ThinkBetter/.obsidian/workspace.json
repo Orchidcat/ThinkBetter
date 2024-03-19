@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb53bf2a56414d1b",
+        "id": "db6e37739cef7a45",
         "type": "tabs",
         "children": [
           {
-            "id": "dc357bb317343159",
+            "id": "9b812b1a35cb1012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f57d17f6c296a6b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蝇王.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c48cbb7f579c65a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -144,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -166,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,14 +179,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "dc357bb317343159",
+  "active": "9b812b1a35cb1012",
   "lastOpenFiles": [
+    "一句话的玩味.md",
     "蝇王.md",
     "阅读与书籍 MOC.md",
     "钢铁是怎样练成的.md",
     "何以为父：影响彼此一生的父子关系.md",
     "人纪/+Home.md",
-    "一句话的玩味.md",
     "Templates/Template - 读书.md",
     "Book/Clear Thinking.md",
     "人纪/养生之道.md",
