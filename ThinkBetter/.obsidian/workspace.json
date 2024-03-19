@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fda31ace81c7e9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/如何学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "何以为父：影响彼此一生的父子关系.md",
+                "file": "Book/如何学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "何以为父：影响彼此一生的父子关系.md"
+                "file": "Book/如何学习.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "何以为父：影响彼此一生的父子关系.md",
+                "file": "Book/如何学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "9b812b1a35cb1012",
+  "active": "fda31ace81c7e9c8",
   "lastOpenFiles": [
     "Book/Clear Thinking.md",
     "何以为父：影响彼此一生的父子关系.md",
