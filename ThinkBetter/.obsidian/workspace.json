@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d14967f52efd234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Clear Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -182,14 +194,14 @@
   },
   "active": "9b812b1a35cb1012",
   "lastOpenFiles": [
+    "Book/Clear Thinking.md",
+    "何以为父：影响彼此一生的父子关系.md",
     "人纪/+Home.md",
     "一句话的玩味.md",
     "蝇王.md",
     "阅读与书籍 MOC.md",
     "钢铁是怎样练成的.md",
-    "何以为父：影响彼此一生的父子关系.md",
     "Templates/Template - 读书.md",
-    "Book/Clear Thinking.md",
     "人纪/养生之道.md",
     "人纪/医学衷中参西录.md",
     "人纪/胰脏的解说.md",
