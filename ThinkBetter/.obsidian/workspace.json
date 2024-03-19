@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "何以为父：影响彼此一生的父子关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/如何学习.md"
+                "file": "何以为父：影响彼此一生的父子关系.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/如何学习.md",
+                "file": "何以为父：影响彼此一生的父子关系.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,8 +204,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fda31ace81c7e9c8",
+  "active": "9b812b1a35cb1012",
   "lastOpenFiles": [
+    "Book/如何学习.md",
     "Book/Clear Thinking.md",
     "何以为父：影响彼此一生的父子关系.md",
     "人纪/+Home.md",
@@ -227,7 +227,6 @@
     "三焦考.md",
     "脉诊学习.md",
     "人纪/112 手少阳三焦经.md",
-    "Book/如何学习.md",
     "Book/贝索斯传.md",
     "基本Q.md",
     "第一性原理.md",
