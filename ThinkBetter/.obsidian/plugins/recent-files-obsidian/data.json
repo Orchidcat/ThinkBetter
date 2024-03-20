@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "大气",
-      "path": "大气.md"
+      "basename": "六气",
+      "path": "六气.md"
     },
     {
       "basename": "元气",
       "path": "元气.md"
+    },
+    {
+      "basename": "大气",
+      "path": "大气.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "圆运动的古中医学.md"
     },
     {
       "basename": "医学衷中参西录",
@@ -191,14 +199,6 @@
     {
       "basename": "十二经络歌诀",
       "path": "十二经络歌诀.md"
-    },
-    {
-      "basename": "临床应用伤寒论解说",
-      "path": "临床应用伤寒论解说.md"
-    },
-    {
-      "basename": "102 少阳病证",
-      "path": "人纪/102 少阳病证.md"
     }
   ],
   "omittedPaths": [],

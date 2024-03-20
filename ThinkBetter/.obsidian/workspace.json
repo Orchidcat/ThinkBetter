@@ -30,8 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fc2b3863d758628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "六气.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41bf4639703d6abf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "大气.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +172,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,10 +209,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8fe813191c8ac9f6",
+  "active": "41bf4639703d6abf",
   "lastOpenFiles": [
+    "六气.md",
     "元气.md",
     "大气.md",
+    "圆运动的古中医学.md",
     "人纪/医学衷中参西录.md",
     "人纪/养生之道.md",
     "阅读与书籍 MOC.md",
@@ -221,8 +240,6 @@
     "基本Q.md",
     "第一性原理.md",
     "WorkFlowMOC.md",
-    "学习方法.md",
-    "make it stick.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
