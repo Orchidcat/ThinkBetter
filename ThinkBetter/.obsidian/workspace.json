@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "大气.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b447234a527af594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "元气.md",
                 "mode": "source",
                 "source": false
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "元气.md",
+                "file": "大气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "元气.md"
+                "file": "大气.md"
               }
             }
           },
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "元气.md",
+                "file": "大气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,10 +194,11 @@
   },
   "active": "8fe813191c8ac9f6",
   "lastOpenFiles": [
+    "元气.md",
+    "大气.md",
     "人纪/医学衷中参西录.md",
     "人纪/养生之道.md",
     "阅读与书籍 MOC.md",
-    "元气.md",
     "Book/如何学习.md",
     "何以为父：影响彼此一生的父子关系.md",
     "人纪/+Home.md",
@@ -210,7 +223,6 @@
     "WorkFlowMOC.md",
     "学习方法.md",
     "make it stick.md",
-    "记忆框架的建立.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",

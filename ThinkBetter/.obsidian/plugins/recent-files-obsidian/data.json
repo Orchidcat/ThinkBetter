@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "大气",
+      "path": "大气.md"
+    },
+    {
       "basename": "元气",
       "path": "元气.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "102 少阳病证",
       "path": "人纪/102 少阳病证.md"
-    },
-    {
-      "basename": "茵陈",
-      "path": "人纪/茵陈.md"
     }
   ],
   "omittedPaths": [],
