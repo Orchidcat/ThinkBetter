@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Book/如何学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e19dde33262645e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "何以为父：影响彼此一生的父子关系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fe813191c8ac9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "阅读与书籍 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "阅读与书籍 MOC.md"
               }
             }
           },
@@ -141,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "阅读与书籍 MOC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,15 +205,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "339c309b990fe05b",
+  "active": "8fe813191c8ac9f6",
   "lastOpenFiles": [
-    "Book/如何学习.md",
-    "Book/Clear Thinking.md",
-    "何以为父：影响彼此一生的父子关系.md",
     "人纪/+Home.md",
+    "何以为父：影响彼此一生的父子关系.md",
+    "Book/如何学习.md",
+    "阅读与书籍 MOC.md",
+    "Book/Clear Thinking.md",
     "一句话的玩味.md",
     "蝇王.md",
-    "阅读与书籍 MOC.md",
     "钢铁是怎样练成的.md",
     "Templates/Template - 读书.md",
     "人纪/养生之道.md",
