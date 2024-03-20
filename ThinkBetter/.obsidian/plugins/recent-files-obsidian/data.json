@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "脑髓神经",
+      "path": "脑髓神经.md"
+    },
+    {
       "basename": "人身君火相火有先后天之分",
       "path": "人身君火相火有先后天之分.md"
     },
     {
-      "basename": "升陷汤",
-      "path": "升陷汤.md"
-    },
-    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "升陷汤",
+      "path": "升陷汤.md"
     },
     {
       "basename": "大气",
@@ -195,10 +199,6 @@
     {
       "basename": "遗忘曲线",
       "path": "遗忘曲线.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "事件timing.md"
     }
   ],
   "omittedPaths": [],

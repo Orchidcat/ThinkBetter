@@ -13,43 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "脑髓神经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c978b5ef2d6d201c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "人身君火相火有先后天之分.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b447234a527af594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "元气.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc2b3863d758628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六气.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20260de498d2d817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "升陷汤.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人身君火相火有先后天之分.md",
+                "file": "脑髓神经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人身君火相火有先后天之分.md"
+                "file": "脑髓神经.md"
               }
             }
           },
@@ -178,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人身君火相火有先后天之分.md",
+                "file": "脑髓神经.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,9 +194,10 @@
   },
   "active": "8fe813191c8ac9f6",
   "lastOpenFiles": [
-    "升陷汤.md",
     "人身君火相火有先后天之分.md",
+    "脑髓神经.md",
     "人纪/医学衷中参西录.md",
+    "升陷汤.md",
     "大气.md",
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/004 金匮要略.md",
@@ -246,7 +223,6 @@
     "人纪/内伤黄疸.md",
     "人纪/肾与生育是否有关.md",
     "三焦考.md",
-    "脉诊学习.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",
