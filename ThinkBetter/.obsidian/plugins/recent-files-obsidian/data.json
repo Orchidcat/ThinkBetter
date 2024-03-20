@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "养生之道",
+      "path": "人纪/养生之道.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
     {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
+      "basename": "元气",
+      "path": "元气.md"
+    },
+    {
+      "basename": "如何学习",
+      "path": "Book/如何学习.md"
     },
     {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "何以为父：影响彼此一生的父子关系.md"
     },
     {
-      "basename": "如何学习",
-      "path": "Book/如何学习.md"
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
     },
     {
       "basename": "Clear Thinking",
@@ -35,14 +47,6 @@
     {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "养生之道",
-      "path": "人纪/养生之道.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "胰脏的解说",
@@ -195,10 +199,6 @@
     {
       "basename": "茵陈",
       "path": "人纪/茵陈.md"
-    },
-    {
-      "basename": "指甲",
-      "path": "人纪/指甲.md"
     }
   ],
   "omittedPaths": [],
