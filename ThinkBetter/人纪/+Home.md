@@ -11,7 +11,7 @@ sticker: emoji//1f6b2
 
 
 [[+HomeMOC]]
-- TASK🍅
+- 复习🍅
 ```tasks
 not done
 sort by due

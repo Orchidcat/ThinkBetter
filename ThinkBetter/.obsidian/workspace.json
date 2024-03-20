@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d25930ac2946f0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/少阳为游部.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c978b5ef2d6d201c",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/少阳为游部.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/医学衷中参西录.md"
+                "file": "人纪/少阳为游部.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/少阳为游部.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,11 +205,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8fe813191c8ac9f6",
+  "active": "d25930ac2946f0cf",
   "lastOpenFiles": [
-    "脑髓神经.md",
-    "人身君火相火有先后天之分.md",
     "人纪/医学衷中参西录.md",
+    "人纪/少阳为游部.md",
+    "人身君火相火有先后天之分.md",
+    "Workbench.md",
+    "人纪/+Home.md",
+    "脑髓神经.md",
     "升陷汤.md",
     "大气.md",
     "人纪/012 辨太阳病脉症并治法.md",
@@ -209,7 +225,6 @@
     "阅读与书籍 MOC.md",
     "Book/如何学习.md",
     "何以为父：影响彼此一生的父子关系.md",
-    "人纪/+Home.md",
     "Book/Clear Thinking.md",
     "一句话的玩味.md",
     "蝇王.md",
@@ -221,8 +236,6 @@
     "人纪/肝脾位置之解说.md",
     "Sources/Pasted image 20240318115040.png",
     "人纪/内伤黄疸.md",
-    "人纪/肾与生育是否有关.md",
-    "三焦考.md",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
     "Sources/Pasted image 20240312091441.png",

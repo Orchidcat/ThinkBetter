@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "少阳为游部",
+      "path": "人纪/少阳为游部.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
-      "basename": "脑髓神经",
-      "path": "脑髓神经.md"
-    },
-    {
       "basename": "人身君火相火有先后天之分",
       "path": "人身君火相火有先后天之分.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "脑髓神经",
+      "path": "脑髓神经.md"
     },
     {
       "basename": "升陷汤",
@@ -59,10 +71,6 @@
     {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "何以为父：影响彼此一生的父子关系.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "Clear Thinking",
@@ -157,10 +165,6 @@
       "path": "信任.md"
     },
     {
-      "basename": "Workbench",
-      "path": "Workbench.md"
-    },
-    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大脑睡眠结构图",
       "path": "大脑睡眠结构图.md"
-    },
-    {
-      "basename": "遗忘曲线",
-      "path": "遗忘曲线.md"
     }
   ],
   "omittedPaths": [],
