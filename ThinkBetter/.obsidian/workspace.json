@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脑髓神经.md",
+                "file": "人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脑髓神经.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑髓神经.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑髓神经.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,8 @@
   },
   "active": "8fe813191c8ac9f6",
   "lastOpenFiles": [
-    "人身君火相火有先后天之分.md",
     "脑髓神经.md",
+    "人身君火相火有先后天之分.md",
     "人纪/医学衷中参西录.md",
     "升陷汤.md",
     "大气.md",
