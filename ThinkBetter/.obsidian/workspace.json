@@ -20,30 +20,15 @@
             }
           },
           {
-            "id": "7e70552844cadb4f",
+            "id": "005aa38286140b91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/泌尿道路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a560a5e40f2e5332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/胸中之疾.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "人纪/肝脾位置之解说.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,20 +184,23 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5843f2340a21ac29",
+  "active": "005aa38286140b91",
   "lastOpenFiles": [
+    "人纪/肝脾位置之解说.md",
+    "人纪/195 子午流注.md",
+    "人纪/泌尿道路.md",
+    "人纪/胸中之疾.md",
+    "阅读与书籍 MOC.md",
+    "如何阅读的方法.md",
+    "人纪/+Home.md",
     "人纪/医学衷中参西录.md",
     "人纪/少阳为游部.md",
     "三焦考.md",
     "人身君火相火有先后天之分.md",
     "命门.md",
     "人纪/芍药.md",
-    "人纪/泌尿道路.md",
-    "人纪/胸中之疾.md",
     "人纪/134 卫气.md",
     "人纪/090 人纪 - 针灸.md",
-    "阅读与书籍 MOC.md",
-    "人纪/+Home.md",
     "第一性原理.md",
     "河图洛书.md",
     "Workbench.md",
@@ -228,9 +212,6 @@
     "人纪/柴胡.md",
     "六气.md",
     "元气.md",
-    "圆运动的古中医学.md",
-    "人纪/养生之道.md",
-    "Book/如何学习.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
