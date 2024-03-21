@@ -23,8 +23,12 @@
             "id": "005aa38286140b91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "生命是什么.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -63,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "命门",
+                "query": "智慧",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "生命是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "生命是什么.md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "生命是什么.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",

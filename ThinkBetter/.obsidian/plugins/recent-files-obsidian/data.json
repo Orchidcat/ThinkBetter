@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生命是什么",
+      "path": "生命是什么.md"
+    },
+    {
       "basename": "肝脾位置之解说",
       "path": "人纪/肝脾位置之解说.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "一周是一年的2%",
       "path": "一周是一年的2%.md"
-    },
-    {
-      "basename": "信任",
-      "path": "信任.md"
     }
   ],
   "omittedPaths": [],
