@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "河图洛书",
+      "path": "河图洛书.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
       "basename": "少阳为游部",
       "path": "人纪/少阳为游部.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "脑髓神经",
@@ -195,10 +199,6 @@
     {
       "basename": "Standover",
       "path": "Standover.md"
-    },
-    {
-      "basename": "大脑睡眠结构图",
-      "path": "大脑睡眠结构图.md"
     }
   ],
   "omittedPaths": [],

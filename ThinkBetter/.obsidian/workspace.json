@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd489feca428983",
+        "id": "58b2fbdb4c4ed1c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8fe813191c8ac9f6",
+            "id": "b52fdb875a02d7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d25930ac2946f0cf",
+            "id": "e09e7f5523515e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/少阳为游部.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c978b5ef2d6d201c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人身君火相火有先后天之分.md",
+                "file": "河图洛书.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,12 +93,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/少阳为游部.md",
+                "file": "河图洛书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/少阳为游部.md"
+                "file": "河图洛书.md"
               }
             }
           },
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/少阳为游部.md",
+                "file": "河图洛书.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,13 +192,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "d25930ac2946f0cf",
+  "active": "e09e7f5523515e33",
   "lastOpenFiles": [
+    "人纪/+Home.md",
     "人纪/医学衷中参西录.md",
     "人纪/少阳为游部.md",
     "人身君火相火有先后天之分.md",
     "Workbench.md",
-    "人纪/+Home.md",
     "脑髓神经.md",
     "升陷汤.md",
     "大气.md",
