@@ -5,16 +5,20 @@
       "path": "人纪/泌尿道路.md"
     },
     {
+      "basename": "胸中之疾",
+      "path": "人纪/胸中之疾.md"
+    },
+    {
+      "basename": "芍药",
+      "path": "人纪/芍药.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "少阳为游部",
       "path": "人纪/少阳为游部.md"
-    },
-    {
-      "basename": "胸中之疾",
-      "path": "人纪/胸中之疾.md"
     },
     {
       "basename": "134 卫气",
@@ -195,10 +199,6 @@
     {
       "basename": "+HomeMOC",
       "path": "+HomeMOC.md"
-    },
-    {
-      "basename": "佐藤可士和的超整理术",
-      "path": "佐藤可士和的超整理术.md"
     }
   ],
   "omittedPaths": [],
