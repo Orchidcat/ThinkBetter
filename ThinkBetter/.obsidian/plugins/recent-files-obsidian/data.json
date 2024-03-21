@@ -5,6 +5,14 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
+      "basename": "134 卫气",
+      "path": "人纪/134 卫气.md"
+    },
+    {
+      "basename": "090 人纪 - 针灸",
+      "path": "人纪/090 人纪 - 针灸.md"
+    },
+    {
       "basename": "少阳为游部",
       "path": "人纪/少阳为游部.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "090 人纪 - 针灸",
-      "path": "人纪/090 人纪 - 针灸.md"
-    },
-    {
-      "basename": "Standover",
-      "path": "Standover.md"
     }
   ],
   "omittedPaths": [],
