@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "泌尿道路",
+      "path": "人纪/泌尿道路.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "少阳为游部",
+      "path": "人纪/少阳为游部.md"
+    },
+    {
+      "basename": "胸中之疾",
+      "path": "人纪/胸中之疾.md"
     },
     {
       "basename": "134 卫气",
@@ -11,10 +23,6 @@
     {
       "basename": "090 人纪 - 针灸",
       "path": "人纪/090 人纪 - 针灸.md"
-    },
-    {
-      "basename": "少阳为游部",
-      "path": "人纪/少阳为游部.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -191,14 +199,6 @@
     {
       "basename": "佐藤可士和的超整理术",
       "path": "佐藤可士和的超整理术.md"
-    },
-    {
-      "basename": "OB插件",
-      "path": "OB插件.md"
-    },
-    {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "人纪/089 人纪 - 神农本草经.md"
     }
   ],
   "omittedPaths": [],
