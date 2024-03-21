@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/芍药.md",
+                "file": "人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鸠尾",
+                "query": "命门",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/泌尿道路.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/泌尿道路.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -167,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/泌尿道路.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,20 +203,22 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7e70552844cadb4f",
+  "active": "5843f2340a21ac29",
   "lastOpenFiles": [
-    "人纪/胸中之疾.md",
-    "人纪/泌尿道路.md",
-    "人纪/芍药.md",
-    "人纪/医学衷中参西录.md",
     "人纪/少阳为游部.md",
+    "三焦考.md",
+    "人身君火相火有先后天之分.md",
+    "命门.md",
+    "人纪/医学衷中参西录.md",
+    "人纪/芍药.md",
+    "人纪/泌尿道路.md",
+    "人纪/胸中之疾.md",
     "人纪/134 卫气.md",
     "人纪/090 人纪 - 针灸.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
     "第一性原理.md",
     "河图洛书.md",
-    "人身君火相火有先后天之分.md",
     "Workbench.md",
     "脑髓神经.md",
     "升陷汤.md",
@@ -231,8 +231,6 @@
     "圆运动的古中医学.md",
     "人纪/养生之道.md",
     "Book/如何学习.md",
-    "何以为父：影响彼此一生的父子关系.md",
-    "Book/Clear Thinking.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
