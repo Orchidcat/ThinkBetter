@@ -4,7 +4,7 @@
 ——叔本华（德国）
 
 ```ad-note
-任何一种重要的书，应该立即读两遍。只有知道了结尾才能真正理解开头；
+任何重要的书，应该立即读两遍。只有知道了结尾才能真正理解开头；
 
 生命太短暂，不能花在那些不值得阅读的内容上面。
 
@@ -22,12 +22,13 @@
 **想要阅读的list**
 ```dataview
 list startDate+author + rating  from #UnReadBook 
+sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
 
 
 ```dataview
-table type as "描述" ,file.cday.year as "年",file.cday.month as "月" from #Book 
+table type as "描述" ,file.cday.month as "月" from #Book 
 where file.cday.year=2024
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```

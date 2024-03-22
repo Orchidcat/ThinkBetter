@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f9525b3d6819b729",
+        "id": "5b8c48838e3a1056",
         "type": "tabs",
         "children": [
           {
-            "id": "88d833444ff4c24d",
+            "id": "8127b30a51cce455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/柴胡.md",
+                "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "319d1a9b5090af08",
+            "id": "65f99c68fbc03c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/地黄.md",
+                "file": "人纪/医者的自修.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f6e333ba8890346",
+            "id": "a931119e4864e538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2df0c964cfa40698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/医学衷中参西录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc86088138618100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/三七.md",
+                "file": "元气.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地黄",
+                "query": "抱朴子",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -168,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/三七.md",
+                "file": "元气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/三七.md"
+                "file": "元气.md"
               }
             }
           },
@@ -190,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/三七.md",
+                "file": "元气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,40 +198,47 @@
       "janitor:Janitor: scan vault": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "homepage:Open homepage": false,
-      "obsidian-calibre-plugin:Calibre": false,
-      "templater-obsidian:Templater": false
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "bc86088138618100",
+  "active": "a931119e4864e538",
   "lastOpenFiles": [
-    "人纪/地黄.md",
-    "人纪/三七.md",
-    "人纪/柴胡.md",
-    "人纪/094 三魂七魄.md",
-    "人纪/桂枝.md",
-    "脉诊学习.md",
+    "人纪/医者的自修.md",
+    "阅读与书籍 MOC.md",
+    "元气.md",
     "人纪/医学衷中参西录.md",
-    "人纪/人参.md",
-    "人纪/麻黄.md",
-    "人纪/朴硝，硝石.md",
-    "人纪/厚朴.md",
-    "人纪/大黄.md",
-    "人纪/089 人纪 - 神农本草经.md",
+    "人纪/肝脾位置之解说.md",
     "人纪/+Home.md",
-    "人纪/芍药.md",
-    "人纪/当归.md",
-    "人纪/玄参.md",
-    "人纪/086 气分证.md",
-    "气分.md",
-    "人纪/石决明.md",
-    "人纪/牡蛎.md",
-    "人纪/龙骨.md",
-    "人纪/朱砂.md",
-    "人纪/甘草.md",
     "人纪/195 子午流注.md",
-    "未命名 6.md",
+    "人纪/泌尿道路.md",
+    "人纪/胸中之疾.md",
+    "如何阅读的方法.md",
+    "人纪/少阳为游部.md",
+    "三焦考.md",
+    "人身君火相火有先后天之分.md",
+    "命门.md",
+    "人纪/芍药.md",
+    "人纪/134 卫气.md",
+    "人纪/090 人纪 - 针灸.md",
+    "第一性原理.md",
+    "河图洛书.md",
+    "Workbench.md",
+    "脑髓神经.md",
+    "升陷汤.md",
+    "大气.md",
+    "人纪/012 辨太阳病脉症并治法.md",
+    "人纪/004 金匮要略.md",
+    "人纪/柴胡.md",
+    "Sources/Pasted image 20240318115223.png",
+    "Sources/Pasted image 20240318115137.png",
+    "Sources/Pasted image 20240318115040.png",
+    "Sources/Pasted image 20240314103402.png",
+    "Sources/Pasted image 20240312104643.png",
+    "Sources/Pasted image 20240312091441.png",
     "Sources/013C1D99.png",
     "Book",
     "Spaces/Home",
@@ -262,12 +246,6 @@
     "Sources/Pasted image 20240227112818.png",
     "Sources/Pasted image 20240227111548.png",
     "Sources/Pasted image 20240226085912.png",
-    "Sources/Pasted image 20240222103952.png",
-    "Sources/Pasted image 20240221133236.png",
-    "Sources/Pasted image 20240218112932.png",
-    "Sources/Pasted image 20240201112054.png",
-    "Sources/Pasted image 20240201112044.png",
-    "Sources/Pasted image 20240201112025.png",
     "Seize the Day",
     "人纪/中药材",
     "人纪/000 @ 人纪 - Map.canvas",

@@ -11,7 +11,6 @@ link:
 
 
 
-
 - 连续且好的决策，很少迫于环境（position）而做出。like Tetris.
 - The greatest aid to judgment is starting from a **good position**.that ordinary moments determine your position, and your position determines your options.
 
@@ -26,7 +25,7 @@ link:
 - 了解自己的出厂设置（defaults)
 	- 情绪设定：倾向于对情绪做出反应，而不是理由以及事实
 	- 自我设定：倾向于对威胁自我，以及威胁自我定位的事做出反应
-	- 社交设定：倾向于从众(很容易低估我们融入人群的生物本能)；把集体的舒适误认为你所做的事情会带来更好结果的证据，是社会默认的大谎言。<mark style="background: #ADCCFFA6;">当意识到你在做别人都在做的事情是，那么是时候改思考一下，做一些不一样的事儿了。</mark>
+	- 社交设定：倾向于从众(很容易低估我们融入人群的生物本能)；把集体的舒适误认为你所做的事情会带来更好结果的证据，是社会默认的大谎言。<mark style="background: #ADCCFFA6;">当意识到你在做别人都在做的事情是，那么是时候改思考一下，做一些不一样的事儿了。</mark> ^5ti4lpl
 	- 惰性设定：对抗改变，以及相似的想法，进程，环境等（**权重最高**）[[掌控习惯]]
 	- 犯错时加倍下注
 
@@ -42,7 +41,7 @@ A man can do as he wills, but not will as he wills.
 —ARTHUR SCHOPENHAUER
 ```
 
-你选择的环境将代替意志力来监督你做出对的选择。
+你选择的环境将代替意志力来监督你做出对的选择。 ^1z7vgd9
 
 ### Building Strength
 
@@ -51,7 +50,7 @@ A man can do as he wills, but not will as he wills.
 对抗清晰思维，不仅仅需要意志力。
 
 清晰思维依赖于习惯的力量，来对抗上述默认设置。
-**建立习惯是创造积极惯性的关键**。
+**建立习惯是创造积极惯性的关键**。 ^c85s6ei
 
 - **自我问责**（Self-accountability):让自己对发展自己的能力负责，管理自己的不足，用理性来管理自己的行为
 - **自我认知**（Self-knowledge):了解自己的长处和短处——你能做什么，不能做什么
@@ -63,7 +62,7 @@ A man can do as he wills, but not will as he wills.
 I am the master of my fate, I am the captain of my soul.
 —W. E. HENLEY, “INVICTUS”
 
-缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。
+缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。 ^lyr8wai
 
 ```ad-quote
 Complaining is not a strategy. You have to work with the world
@@ -71,7 +70,7 @@ as you find it, not as you would have it be.
 —JEFF BEZOS
 ```
 
-<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark>
+<mark style="background: #FF5582A6;">no one cares about your excuses at all, except you.</mark> ^azut9x3
 - The path to being exceptional begins when you decide to be responsible for your actions no matter the situation.
 - When you put outcome over ego, you get better results.
 
@@ -83,7 +82,7 @@ as you find it, not as you would have it be.
 一开始就不应该陷入这样的境地等。
 
 
-行动时：询问自己是否该行动会是将来更好（接受已发生的）
+行动时：询问自己是否该行动会使将来更好（接受已发生的） ^mxln34v
 
 
 #### 自我认知（know yourself)
@@ -96,7 +95,7 @@ as you find it, not as you would have it be.
 
 #### 自我控制
 
-获得成功的很大一部分是有自制力去做任何需要做的事情，不管你现在是否想做。
+获得成功的很大一部分是有自制力去做任何需要做的事情，不管你现在是否想做。 ^2g2u84z
 
 #### 自信
 
@@ -116,11 +115,11 @@ as you find it, not as you would have it be.
 关注与真正正确的，而不是关注谁对谁错的问题，这将是一个正确的导向。
 
 自信是一种力量，让你专注于什么是对的，而不是谁是对的。这是面对现实的力量。它是承认错误的力量，也是改变主意的力量。自信是站在正确的一方所需要的。
-Outcome over ego.
+Outcome over ego. ^mavr0gz
 
 
 
-The most successful people have the **highest standards**, not only for others but for themselves.
+The most successful people have the **highest standards**, not only for others but for themselves. ^93e9c4
 
 <mark style="background: #FFB86CA6;">you don’t speak unless you know what you’re talking about.</mark>
 
@@ -146,7 +145,7 @@ The most successful people have the **highest standards**, not only for others b
 	_我们一生都被教导要遵守规则，但从来没有人告诉过我们如何创造强大的规则来帮助我们得到我们想要的。
 
 - 对目标相反的事情，制造摩擦
-- 清单化 —— 利用这种护栏系统，将一些判断决策，转化为执行层面的行为。
+- 清单化 —— 利用这种护栏系统，将一些判断决策，转化为执行层面的行为。(例如:骑行户外装备列表)
 - 改变视角
 
 
@@ -163,8 +162,8 @@ The most successful people have the **highest standards**, not only for others b
 	事实会告诉我们两点，第一， 这次你没啥运气；第二，你关于这个事物如何运作的想法是错误的。
 	如果持续的失败，那么就是第二点无疑了。
 	需要记录下每次错误的信息，以便后面进行矫正。
-	
-错误给了你一个选择:是更新你的想法，还是忽略它们带来的失败，继续相信你一直相信的东西。我们中有不少人选择后者。
+
+错误给了你一个选择:是更新你的想法，还是忽略它们带来的失败，继续相信你一直相信的东西。我们中有不少人选择后者。 ^j4gv2zy
 
 掩盖错误有三个问题。首先，如果你忽视自己的错误，你就无法学习。第二，隐藏它们变成了一种习惯。第三，掩盖会使糟糕的情况变得更糟。
 
@@ -185,7 +184,7 @@ If you choose not to decide, you still have made a choice.
 The decision = the judgment that a certain option is the best one
 The decision itself should represent the outcome of the decision-making process. That process is about weighing your options with the aim of selecting the best one, and it’s composed of four stages: defining the problem, exploring possible solutions, evaluating the options, and finally making the judgment and executing the best option.
 
-![[Pasted image 20240226085912.png|300x250]]
+![[Pasted image 20240226085912.png]]
 
 
 当风险很低时，迅速做出选择，应该是更好的。（尽量少花费时间）
@@ -199,7 +198,7 @@ If the only tool you have is a hammer, you tend to see every problem as a nail�
 
 一旦有人提出了一个问题，团队就会进入“解决方案”模式，而不考虑问题是否已经被正确定义。
 
-```ad-tip
+```ad-tip ^5sdts2t
 在通常的教育背景下，我们从小被鼓励解决问题。而不是首先从定义问题开始。
 ```
 
@@ -248,9 +247,10 @@ To understand is to know what to do.
 
 用于不要将最终会胜利的信念与当下现实所受进行混淆。
 
-最难对付的挫折是哪些我们没有准备，并且没有预期的挫折。这就是为什么我们要防患于未然。（许多人认为他们不善于解决问题，而实际上他们不善于预测问题。）
+最难对付的挫折是那些我们没有准备，并且没有预期的挫折。这就是为什么我们要防患于未然。
+（许多人认为他们不善于解决问题，而实际上他们是不善于预测问题。）
 
-- 想象未来会出错的问题；而不仅仅是自己期望的结果。
+- **想象未来会出错的问题；而不仅仅是自己期望的结果**。
 - 二元思维（[[二阶思维]]的问题是只有yes和no，没有中间地带，但现实不是这样的。这种思维方式，实际上是降低了思维的维度。），多问自己“然后呢？” （Tiny choices compound. That’s why second-level thinking is needed.）
 - 强迫自己发现问题可能的解决方法，至少三个。
 
@@ -263,7 +263,7 @@ Simplicity is the end result of long, hard work, not the starting point.
 
 衡量隐性权衡的能力是伟大决策者与其他人的区别之一。这也是领导力的核心要素。
 
-要同时关注选择一个会得到什么，而于此同时，没有选择什么，会失去什么。
+<mark style="background: #ADCCFFA6;">要同时关注选择一个会得到什么，而于此同时，没有选择什么，会失去什么。</mark>
 
 关于机会成本的两个原则：
 1. 考虑一下，当你选择一个选项而不是另一个选项时，你放弃了哪些机会。
@@ -310,7 +310,7 @@ If you don’t know where you want to go, any road will take you there.
 要做到这一点，你需要有满足两个条件的关于这些选项的信息:**它是相关的，并且是准确的。**
 
 大多数信息是不相关的（irrelevant）
-知道该忽略什么——把信号和噪声分开——是不浪费宝贵时间的关键。
+知道该忽略什么——把信号和噪声分开——是不浪费宝贵时间的关键。 ^c1e2we8
 区分信息的重要性，将是未来重要的技能。
 
 
@@ -381,7 +381,7 @@ If you don’t know where you want to go, any road will take you there.
 - 你觉得你需要学习更多，但你已经停止了学习新的东西，而是一遍又一遍地回顾相同的信息(或相同的论点)。
 
 
-知道该做什么是不够的，你需要去做。
+知道该做什么是不够的，你需要去做。 ^ugnvv2j
 
 
 #### 安全边界
@@ -428,7 +428,7 @@ If you don’t know where you want to go, any road will take you there.
 
 如果你还在收集信息，不要在一个选项上过度投资。在把所有的事情都放在一个选择上之前，采取小的、低风险的步骤，尽可能多地选择，让你的未来有更多的选择。
 
-例子：想上医学院吗?跟随医生或住院医生一天。测试MCAT，看看你得多少分，或者申请大学，看看你被哪所大学录取。考虑换一份新工作?先试着每周用几个晚上做自由职业者。考虑推出新产品?在你建造之前，看看人们是否愿意为它付费。
+例子：想上医学院吗?跟随医生或住院医生一天。测试MCAT，看看你得多少分，或者申请大学，看看你被哪所大学录取。考虑换一份新工作?先试着每周用几个晚上做自由职业者。考虑推出新产品?在你建造之前，看看人们是否愿意为它付费。 ^f6vw0i0
 
 ==保留可选择性会让你在短期内看起来很愚蠢，这意味着你不得不忍受人们把你当傻瓜一样对待==。但是，如果你观察一下世界上最成功的人，你会发现他们在很多情况下都是短期愚蠢的，因为他们保留了选择的余地，等待合适的时机采取行动。
 
@@ -445,7 +445,7 @@ If you don’t know where you want to go, any road will take you there.
 例子：
 想象一下，站在珠穆朗玛峰上，离顶峰只有50米。你全身都痛。你的头脑麻木了。感觉就像无论你多么努力呼吸都没有足够的氧气。你训练了这么多年，花了6万美元用于导游和旅行，牺牲了与家人和朋友在一起的时间。你告诉大家今天是你尝试的日子。你为之奋斗的一切就在你面前。你可以看到你的目标。你就快成功了。但是你比预定时间晚了30分钟，而且氧气也快用完了。你是转身还是向前推进?
 
-世界上最优秀的夏尔巴人都知道，登上珠穆朗玛峰最危险的部分不是登顶;这是下降。爬到山顶要消耗大量的能量，即使登山者的体力和氧气都快耗尽了，他们也会继续把自己推向顶峰。他们花了那么多的资源去那里，却忽略了回来的艰辛。他们迷失在“顶峰热”中，忘记了最重要的不是登上顶峰，而是回家。毕竟，如果你活不下去，你就赢不了。
+世界上最优秀的夏尔巴人都知道，登上珠穆朗玛峰最危险的部分不是登顶;而是下降。爬到山顶要消耗大量的能量，即使登山者的体力和氧气都快耗尽了，他们也会继续把自己推向顶峰。他们花了那么多的资源去那里，却忽略了回来的艰辛。他们迷失在“顶峰热”中，忘记了最重要的不是登上顶峰，而是回家。毕竟，如果你活不下去，你就赢不了。
 
 **当你处于最佳状态时，执行防故障措施会利用你的思维，当你处于最糟糕状态时，保护你免受默认情况的影响。**
 
@@ -489,20 +489,23 @@ Think of yourself as dead. You have lived your life. Now take what’s left and 
 - 知道什么是值得期望的（做一个好的决策）
 
 有效的决定会让你得到第一个结果，而好的决定会让你得到最终的结果。
-所有好的决策都是有效的，但并非所有有效的决策都是好的。做出最好的判断归根结底就是做出你真正想要的决定，而不仅仅是你现在认为你想要的。
+所有好的决策都是有效的，但并非所有有效的决策都是好的。做出最好的判断归根结底就是做出你真正想要的决定，而不仅仅是你现在认为你想要的。 ^d11jt3g
 
 在生活中，我们会对做过的事情和没能做的事情感到后悔。最大的遗憾是当我们不能过真正属于自己的生活时，当我们不能按自己的计分板来玩时。
-每次违约都会让我们后悔。**社会默认**促使我们从别人那里继承目标，即使他们的生活环境与我们的非常不同。**惯性默认**鼓励我们继续追求我们过去追求的目标，即使我们已经意识到实现这些目标并不会让我们快乐。这种默认的**情绪**会让我们这样或那样，追逐任何能抓住我们眼前幻想的东西，甚至不惜牺牲更重要的长期目标。**自我默认**说服我们去追求财富、地位和权力，甚至以牺牲我们自己和周围人的幸福为代价。
+每次违约都会让我们后悔。
+**社会默认**促使我们从别人那里继承目标，即使他们的生活环境与我们的非常不同。
+**惯性默认**鼓励我们继续追求我们过去追求的目标，即使我们已经意识到实现这些目标并不会让我们快乐。这种默认的**情绪**会让我们这样或那样，追逐任何能抓住我们眼前幻想的东西，甚至不惜牺牲更重要的长期目标。
+**自我默认**说服我们去追求财富、地位和权力，甚至以牺牲我们自己和周围人的幸福为代价。
 如果你给自己的生活任何默认的指令，你的最终目的地是后悔。不要按照别人的计分板来生活。不要让别人选择你的人生目标。为你所处的位置和前进的方向负责。
 
-真正的智慧不是来自于追求成功，而是来自于塑造品格。正如吉姆·柯林斯所写，  “没有纪律就没有效率，没有品格就没有纪律。”
+真正的智慧不是来自于追求成功，而是来自于塑造品格。正如吉姆·柯林斯所写，  “没有纪律就没有效率，没有品格就没有纪律。” ^iuu5roq
 
 
 你追求的东西的质量决定了你生活的质量。Comparison is the thief of joy（攀比是偷走快乐的小偷）
 
 
 古希腊的词：phronesis（practical wisdom） —— 知道如何安排你的生活以达到最好结果的智慧。
-🔴智慧需要我们所说的所有东西:控制违约的能力，为理性和反思创造空间，运用原则和保障措施做出有效的决定。但成为智者需要更多。这不仅仅是知道如何得到你想要的。它还包括知道哪些东西值得拥有——哪些东西真正重要。**说“不”和说“是”一样重要**。我们不能照搬别人的人生决定，期望得到更好的结果。如果我们想过最好的生活，我们需要一种不同的方法。知道自己想要什么是最重要的。在内心深处，你已经知道该怎么做，你只需要听从自己的建议。有时候，我们给别人的建议恰恰是我们自己最需要遵循的。
+🔴智慧需要我们所说的所有东西:控制违约的能力，为理性和反思创造空间，运用原则和保障措施做出有效的决定。但成为智者需要更多。这不仅仅是知道如何得到你想要的。它还包括知道哪些东西值得拥有——哪些东西真正重要。**说“不”和说“是”一样重要**。我们不能照搬别人的人生决定，期望得到更好的结果。如果我们想过最好的生活，我们需要一种不同的方法。知道自己想要什么是最重要的。在内心深处，你已经知道该怎么做，你只需要听从自己的建议。有时候，我们给别人的建议恰恰是我们自己最需要遵循的。 ^dns5f54
 
 
 #### 幸福专家

@@ -7,11 +7,12 @@
       "openMode": "Replace all open notes",
       "view": "Default view",
       "refreshDataview": true,
-      "value": "+Home",
+      "value": "人纪/+Home",
       "kind": "File",
       "commands": [],
       "openOnStartup": true,
-      "openWhenEmpty": true
+      "openWhenEmpty": true,
+      "alwaysApply": true
     }
   },
   "separateMobile": false
