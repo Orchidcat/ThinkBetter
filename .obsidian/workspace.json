@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "055fb4c9d3d73101",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,8 +160,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f4106f1e34a8c11",
+  "active": "055fb4c9d3d73101",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/山茱萸肉.md",
     "ThinkBetter/人纪/山药.md",
     "人参.md",
@@ -180,7 +187,6 @@
     "ThinkBetter/+Home.md",
     "ThinkBetter/人纪/赭石.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Templates/Template - 药解.md",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book",
