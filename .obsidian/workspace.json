@@ -37,8 +37,13 @@
             "id": "055fb4c9d3d73101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
+              }
             }
           }
         ],
@@ -162,32 +169,38 @@
   },
   "active": "055fb4c9d3d73101",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/医学衷中参西录.md",
-    "ThinkBetter/人纪/山茱萸肉.md",
-    "ThinkBetter/人纪/山药.md",
-    "人参.md",
-    "ThinkBetter/人纪/西洋参.md",
-    "ThinkBetter/人纪/桂枝.md",
-    "ThinkBetter/人纪/甘草.md",
-    "ThinkBetter/未命名 6.md",
-    "ThinkBetter/人纪/龙骨.md",
-    "ThinkBetter/人纪/麻黄.md",
-    "ThinkBetter/人纪/芍药.md",
-    "ThinkBetter/人纪/石决明.md",
-    "ThinkBetter/人纪/玄参.md",
-    "ThinkBetter/人纪/牡蛎.md",
-    "ThinkBetter/人纪/柴胡.md",
-    "ThinkBetter/人纪/朴硝，硝石.md",
-    "ThinkBetter/人纪/朱砂.md",
-    "ThinkBetter/人纪/当归.md",
-    "ThinkBetter/人纪/大黄.md",
-    "ThinkBetter/人纪/地黄.md",
-    "ThinkBetter/人纪/厚朴.md",
-    "ThinkBetter/人纪/三七.md",
-    "ThinkBetter/+Home.md",
-    "ThinkBetter/人纪/赭石.md",
-    "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/Templates/Template - 药解.md",
+    "ThinkBetter/阅读与书籍 MOC.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/遗忘曲线.md",
+    "ThinkBetter/蝇王.md",
+    "ThinkBetter/脑髓神经.md",
+    "ThinkBetter/生姜.md",
+    "ThinkBetter/牛膝.md",
+    "ThinkBetter/大脑睡眠结构图.md",
+    "ThinkBetter/大气.md",
+    "ThinkBetter/命门.md",
+    "ThinkBetter/升陷汤.md",
+    "ThinkBetter/元气.md",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "ThinkBetter/人身君火相火有先后天之分.md",
+    "ThinkBetter/人纪/龙胆草.md",
+    "ThinkBetter/人纪/龙眼肉.md",
+    "ThinkBetter/人纪/黄连.md",
+    "ThinkBetter/人纪/黄芩.md",
+    "ThinkBetter/人纪/麦门冬.md",
+    "ThinkBetter/人纪/鸡内金.md",
+    "ThinkBetter/人纪/附子，乌头，天雄.md",
+    "ThinkBetter/人纪/连翘.md",
+    "ThinkBetter/人纪/远志.md",
+    "ThinkBetter/人纪/血余炭.md",
+    "ThinkBetter/人纪/蝉兑.md",
+    "ThinkBetter/人纪/茵陈.md",
+    "ThinkBetter/Sources/Pasted image 20240318115223.png",
+    "ThinkBetter/Sources/Pasted image 20240318115137.png",
+    "ThinkBetter/Sources/Pasted image 20240318115040.png",
+    "ThinkBetter/Sources/Pasted image 20240314103402.png",
+    "ThinkBetter/Sources/Pasted image 20240312104643.png",
+    "ThinkBetter/Sources/Pasted image 20240312091441.png",
     "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book",
     "cedict_ts.u8"
