@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "阅读与书籍 MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f99c68fbc03c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "人纪/医学衷中参西录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/肝脾位置之解说.md"
+                "file": "人纪/医学衷中参西录.md"
               }
             }
           },
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "人纪/医学衷中参西录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,11 +193,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8127b30a51cce455",
+  "active": "65f99c68fbc03c92",
   "lastOpenFiles": [
     "阅读与书籍 MOC.md",
-    "人纪/+Home.md",
     "人纪/肝脾位置之解说.md",
+    "人纪/+Home.md",
     "人纪/195 子午流注.md",
     "人纪/泌尿道路.md",
     "人纪/胸中之疾.md",
