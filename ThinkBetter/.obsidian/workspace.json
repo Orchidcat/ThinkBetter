@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -207,8 +208,9 @@
   "active": "a931119e4864e538",
   "lastOpenFiles": [
     "人纪/医者的自修.md",
-    "人纪/医学衷中参西录.md",
     "阅读与书籍 MOC.md",
+    "元气.md",
+    "人纪/医学衷中参西录.md",
     "人纪/肝脾位置之解说.md",
     "人纪/+Home.md",
     "人纪/195 子午流注.md",
@@ -231,7 +233,6 @@
     "人纪/012 辨太阳病脉症并治法.md",
     "人纪/004 金匮要略.md",
     "人纪/柴胡.md",
-    "六气.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
