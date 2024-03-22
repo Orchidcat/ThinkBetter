@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "医者的自修",
+      "path": "人纪/医者的自修.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "有效写作-史蒂文平克的见解",
       "path": "有效写作-史蒂文平克的见解.md"
-    },
-    {
-      "basename": "一周是一年的2%",
-      "path": "一周是一年的2%.md"
     }
   ],
   "omittedPaths": [],
