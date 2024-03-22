@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "人纪/肝脾位置之解说.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,13 +182,13 @@
   },
   "active": "8127b30a51cce455",
   "lastOpenFiles": [
+    "阅读与书籍 MOC.md",
+    "人纪/+Home.md",
     "人纪/肝脾位置之解说.md",
     "人纪/195 子午流注.md",
     "人纪/泌尿道路.md",
     "人纪/胸中之疾.md",
-    "阅读与书籍 MOC.md",
     "如何阅读的方法.md",
-    "人纪/+Home.md",
     "人纪/医学衷中参西录.md",
     "人纪/少阳为游部.md",
     "三焦考.md",
