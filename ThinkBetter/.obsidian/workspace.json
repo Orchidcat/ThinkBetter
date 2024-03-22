@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1660a994d68e05a2",
+        "id": "5b8c48838e3a1056",
         "type": "tabs",
         "children": [
           {
-            "id": "5843f2340a21ac29",
+            "id": "8127b30a51cce455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005aa38286140b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生命是什么.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生命是什么.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生命是什么.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -154,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生命是什么.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "005aa38286140b91",
+  "active": "8127b30a51cce455",
   "lastOpenFiles": [
     "人纪/肝脾位置之解说.md",
     "人纪/195 子午流注.md",
