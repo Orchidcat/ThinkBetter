@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "人纪/肝脾位置之解说.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "人纪/肝脾位置之解说.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,10 @@
   },
   "active": "7befc6f4caaab51d",
   "lastOpenFiles": [
+    "人纪/柴胡.md",
+    "人纪/166 血证论.md",
     "人纪/004 金匮要略.md",
+    "脉诊学习.md",
     "人纪/医学衷中参西录.md",
     "人纪/圆运动的古中医学（续）.md",
     "人纪/001 @MOC中医.md",
@@ -229,9 +232,6 @@
     "第一性原理.md",
     "河图洛书.md",
     "Workbench.md",
-    "脑髓神经.md",
-    "升陷汤.md",
-    "大气.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
