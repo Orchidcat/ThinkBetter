@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "圆运动的古中医学（续）",
+      "path": "人纪/圆运动的古中医学（续）.md"
+    },
+    {
+      "basename": "001 @MOC中医",
+      "path": "人纪/001 @MOC中医.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "元气",
@@ -15,10 +31,6 @@
     {
       "basename": "医者的自修",
       "path": "人纪/医者的自修.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "肝脾位置之解说",
@@ -99,10 +111,6 @@
     {
       "basename": "012 辨太阳病脉症并治法",
       "path": "人纪/012 辨太阳病脉症并治法.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
     },
     {
       "basename": "柴胡",
@@ -191,14 +199,6 @@
     {
       "basename": "记忆框架的建立",
       "path": "记忆框架的建立.md"
-    },
-    {
-      "basename": "GTD",
-      "path": "GTD.md"
-    },
-    {
-      "basename": "有效写作-史蒂文平克的见解",
-      "path": "有效写作-史蒂文平克的见解.md"
     }
   ],
   "omittedPaths": [],

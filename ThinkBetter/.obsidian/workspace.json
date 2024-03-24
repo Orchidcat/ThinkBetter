@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/圆运动的古中医学（续）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f696613aef9e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/004 金匮要略.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抱朴子",
+                "query": "tag:#人纪/概念  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/004 金匮要略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读与书籍 MOC.md"
+                "file": "人纪/004 金匮要略.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "人纪/004 金匮要略.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,13 +192,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "cce8636f36527b12",
+  "active": "a0f696613aef9e46",
   "lastOpenFiles": [
-    "人纪/+Home.md",
-    "人纪/医者的自修.md",
-    "阅读与书籍 MOC.md",
-    "元气.md",
     "人纪/医学衷中参西录.md",
+    "人纪/圆运动的古中医学（续）.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/+Home.md",
+    "阅读与书籍 MOC.md",
+    "人纪/医者的自修.md",
+    "元气.md",
     "人纪/肝脾位置之解说.md",
     "人纪/195 子午流注.md",
     "人纪/泌尿道路.md",
@@ -205,8 +220,6 @@
     "升陷汤.md",
     "大气.md",
     "人纪/012 辨太阳病脉症并治法.md",
-    "人纪/004 金匮要略.md",
-    "人纪/柴胡.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
