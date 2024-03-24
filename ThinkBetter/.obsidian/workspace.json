@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "12abb51c29cc9412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六气.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fbc4e6dc925d26ee",
             "type": "leaf",
             "state": {
@@ -90,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2c3f3c9e921e619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "六气.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9262d691dd0d0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脉诊学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.51103591918945
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -254,14 +266,15 @@
   },
   "active": "e6e236ea202195ce",
   "lastOpenFiles": [
-    "人纪/075 六经辩证.md",
-    "人纪/005 八纲辨证.md",
+    "脉诊学习.md",
     "十二经络歌诀.md",
     "六气.md",
-    "人纪/圆运动的古中医学（续）.md",
+    "人纪/075 六经辩证.md",
     "人身君火相火有先后天之分.md",
+    "人纪/圆运动的古中医学（续）.md",
     "人纪/004 金匮要略.md",
     "河图洛书.md",
+    "人纪/005 八纲辨证.md",
     "人纪/泌尿道路.md",
     "人纪/麦门冬.md",
     "人纪/龙骨.md",
@@ -271,7 +284,6 @@
     "人纪/肝脾位置之解说.md",
     "人纪/柴胡.md",
     "人纪/166 血证论.md",
-    "脉诊学习.md",
     "人纪/医学衷中参西录.md",
     "人纪/001 @MOC中医.md",
     "人纪/+Home.md",
