@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "人纪/黄连.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "人纪/黄连.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/肝脾位置之解说.md"
+                "file": "人纪/黄连.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/肝脾位置之解说.md",
+                "file": "人纪/黄连.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,8 +204,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7befc6f4caaab51d",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "人纪/桂枝.md",
+    "人纪/干姜.md",
+    "人纪/肝脾位置之解说.md",
     "人纪/柴胡.md",
     "人纪/166 血证论.md",
     "人纪/004 金匮要略.md",
@@ -217,7 +220,6 @@
     "阅读与书籍 MOC.md",
     "人纪/医者的自修.md",
     "元气.md",
-    "人纪/肝脾位置之解说.md",
     "人纪/195 子午流注.md",
     "人纪/泌尿道路.md",
     "人纪/胸中之疾.md",
@@ -230,8 +232,6 @@
     "人纪/134 卫气.md",
     "人纪/090 人纪 - 针灸.md",
     "第一性原理.md",
-    "河图洛书.md",
-    "Workbench.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
