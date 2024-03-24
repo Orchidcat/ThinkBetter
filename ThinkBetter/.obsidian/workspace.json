@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "脉诊学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "脉诊学习.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "脉诊学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,16 +264,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e6e236ea202195ce",
+  "active": "b9262d691dd0d0b8",
   "lastOpenFiles": [
-    "六气.md",
+    "河图洛书.md",
+    "十二经络歌诀.md",
     "人纪/075 六经辩证.md",
     "脉诊学习.md",
-    "十二经络歌诀.md",
+    "六气.md",
+    "人纪/122 太阳病证.md",
     "人身君火相火有先后天之分.md",
     "人纪/圆运动的古中医学（续）.md",
     "人纪/004 金匮要略.md",
-    "河图洛书.md",
     "人纪/005 八纲辨证.md",
     "人纪/泌尿道路.md",
     "人纪/麦门冬.md",
@@ -291,7 +292,6 @@
     "人纪/医者的自修.md",
     "元气.md",
     "人纪/195 子午流注.md",
-    "人纪/胸中之疾.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
