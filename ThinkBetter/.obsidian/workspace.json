@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f2203246be06e1",
+        "id": "581f203c06687e30",
         "type": "tabs",
         "children": [
           {
-            "id": "cce8636f36527b12",
+            "id": "67061bbe008878a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0f696613aef9e46",
+            "id": "207cec9eaf8e9553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/004 金匮要略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7befc6f4caaab51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人身君火相火有先后天之分.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6d9ea1e924a610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "河图洛书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc4e6dc925d26ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/075 六经辩证.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e236ea202195ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "十二经络歌诀.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c3f3c9e921e619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "六气.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9262d691dd0d0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脉诊学习.md",
+                "file": "真实世界的脉络.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "真实世界的脉络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "十二经络歌诀.md"
+                "file": "真实世界的脉络.md"
               }
             }
           },
@@ -227,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "十二经络歌诀.md",
+                "file": "真实世界的脉络.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -265,8 +193,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e6e236ea202195ce",
+  "active": "207cec9eaf8e9553",
   "lastOpenFiles": [
+    "真实世界的脉络.md",
+    "人纪/+Home.md",
+    "人纪/圆运动的古中医学（续）.md",
+    "六气.md",
+    "十二经络歌诀.md",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
     "Sources/Pasted image 20240324133016.png",
@@ -274,12 +207,9 @@
     "Sources/Pasted image 20240324132118.png",
     "脉诊学习.md",
     "河图洛书.md",
-    "十二经络歌诀.md",
     "人纪/075 六经辩证.md",
-    "六气.md",
     "人纪/122 太阳病证.md",
     "人身君火相火有先后天之分.md",
-    "人纪/圆运动的古中医学（续）.md",
     "人纪/004 金匮要略.md",
     "人纪/005 八纲辨证.md",
     "人纪/泌尿道路.md",
@@ -293,7 +223,6 @@
     "人纪/166 血证论.md",
     "人纪/医学衷中参西录.md",
     "人纪/001 @MOC中医.md",
-    "人纪/+Home.md",
     "阅读与书籍 MOC.md",
     "人纪/医者的自修.md",
     "元气.md",
@@ -302,7 +231,6 @@
     "Sources/Pasted image 20240318115040.png",
     "Sources/Pasted image 20240314103402.png",
     "Sources/Pasted image 20240312104643.png",
-    "Sources/Pasted image 20240312091441.png",
     "Book",
     "Spaces/Home",
     "Spaces",

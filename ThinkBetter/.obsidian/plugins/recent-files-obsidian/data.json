@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "真实世界的脉络",
+      "path": "真实世界的脉络.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "圆运动的古中医学（续）",
+      "path": "人纪/圆运动的古中医学（续）.md"
+    },
+    {
+      "basename": "六气",
+      "path": "六气.md"
+    },
+    {
       "basename": "十二经络歌诀",
       "path": "十二经络歌诀.md"
     },
@@ -17,20 +33,12 @@
       "path": "人纪/075 六经辩证.md"
     },
     {
-      "basename": "六气",
-      "path": "六气.md"
-    },
-    {
       "basename": "122 太阳病证",
       "path": "人纪/122 太阳病证.md"
     },
     {
       "basename": "人身君火相火有先后天之分",
       "path": "人身君火相火有先后天之分.md"
-    },
-    {
-      "basename": "圆运动的古中医学（续）",
-      "path": "人纪/圆运动的古中医学（续）.md"
     },
     {
       "basename": "004 金匮要略",
@@ -83,10 +91,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "钢铁是怎样练成的",
       "path": "钢铁是怎样练成的.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
     }
   ],
   "omittedPaths": [],
