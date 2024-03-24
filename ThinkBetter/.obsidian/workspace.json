@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "六气.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脉诊学习.md"
+                "file": "六气.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉诊学习.md",
+                "file": "六气.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,12 +264,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b9262d691dd0d0b8",
+  "active": "e2c3f3c9e921e619",
   "lastOpenFiles": [
-    "十二经络歌诀.md",
-    "脉诊学习.md",
-    "六气.md",
     "人纪/075 六经辩证.md",
+    "脉诊学习.md",
+    "十二经络歌诀.md",
+    "六气.md",
     "人身君火相火有先后天之分.md",
     "人纪/圆运动的古中医学（续）.md",
     "人纪/004 金匮要略.md",
