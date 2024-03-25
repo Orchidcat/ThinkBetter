@@ -5,12 +5,16 @@
       "path": "伤寒论总论.md"
     },
     {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
+      "basename": "辨太阳病脉证并治中第六",
+      "path": "人纪/伤寒论/辨太阳病脉证并治中第六.md"
     },
     {
       "basename": "伤寒杂病论",
       "path": "人纪/伤寒论/伤寒杂病论.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "脉诊学习",
@@ -23,10 +27,6 @@
     {
       "basename": "Template - 读书",
       "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "辨太阳病脉证并治中第六",
-      "path": "人纪/伤寒论/辨太阳病脉证并治中第六.md"
     },
     {
       "basename": "辨太阳病脉证并治下第七",
