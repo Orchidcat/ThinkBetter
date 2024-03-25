@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cb7a4a75f8b5bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伤寒论总论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/伤寒论/伤寒杂病论.md",
+                "file": "伤寒论总论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/伤寒论/伤寒杂病论.md"
+                "file": "伤寒论总论.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/伤寒论/伤寒杂病论.md",
+                "file": "伤寒论总论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,8 +229,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6516b43dc93d3fd2",
+  "active": "6cb7a4a75f8b5bea",
   "lastOpenFiles": [
+    "人纪/医学衷中参西录.md",
+    "伤寒论总论.md",
+    "人纪/伤寒论/伤寒杂病论.md",
     "脉诊学习.md",
     "人纪/天花粉.md",
     "Templates/Template - 读书.md",
@@ -225,9 +241,7 @@
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "人纪/医者的自修.md",
     "人纪/伤寒论",
-    "人纪/伤寒论/伤寒杂病论.md",
     "人纪/桂枝.md",
-    "人纪/医学衷中参西录.md",
     "元气.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
@@ -249,7 +263,6 @@
     "人纪/泌尿道路.md",
     "人纪/麦门冬.md",
     "人纪/龙骨.md",
-    "人纪/黄连.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",

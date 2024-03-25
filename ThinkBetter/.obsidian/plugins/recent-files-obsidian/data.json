@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "伤寒论总论",
+      "path": "伤寒论总论.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "伤寒杂病论",
       "path": "人纪/伤寒论/伤寒杂病论.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "桂枝",
       "path": "人纪/桂枝.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
     },
     {
       "basename": "元气",
@@ -195,10 +199,6 @@
     {
       "basename": "养生之道",
       "path": "人纪/养生之道.md"
-    },
-    {
-      "basename": "如何学习",
-      "path": "Book/如何学习.md"
     }
   ],
   "omittedPaths": [],
