@@ -5,6 +5,10 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
+      "basename": "天花粉",
+      "path": "人纪/天花粉.md"
+    },
+    {
       "basename": "元气",
       "path": "元气.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "蝇王",
       "path": "蝇王.md"
-    },
-    {
-      "basename": "钢铁是怎样练成的",
-      "path": "钢铁是怎样练成的.md"
     }
   ],
   "omittedPaths": [],
