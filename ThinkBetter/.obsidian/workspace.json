@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "625f83f535204bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/桂枝.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4a0f2261894f330",
             "type": "leaf",
             "state": {
@@ -44,55 +32,31 @@
             }
           },
           {
-            "id": "dd5bf376f3fb2956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/天花粉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "966ccddd7c433959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伤寒杂病论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d701a8f06ccadf26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "辨太阳病脉证并治下第七.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79ef9ee725174391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "辨太阳病脉证并治中第六.md",
+                "file": "人纪/伤寒论/辨太阳病脉证并治中第六.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6516b43dc93d3fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/伤寒论/伤寒杂病论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,12 +116,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -192,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "辨太阳病脉证并治下第七.md",
+                "file": "人纪/伤寒论/伤寒杂病论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨太阳病脉证并治下第七.md"
+                "file": "人纪/伤寒论/伤寒杂病论.md"
               }
             }
           },
@@ -214,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨太阳病脉证并治下第七.md",
+                "file": "人纪/伤寒论/伤寒杂病论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -252,16 +216,19 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "d701a8f06ccadf26",
+  "active": "6516b43dc93d3fd2",
   "lastOpenFiles": [
-    "伤寒杂病论.md",
-    "辨太阳病脉证并治下第七.md",
-    "辨太阳病脉证并治中第六.md",
+    "脉诊学习.md",
+    "人纪/天花粉.md",
+    "Templates/Template - 读书.md",
+    "人纪/伤寒论/辨太阳病脉证并治中第六.md",
+    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
+    "人纪/医者的自修.md",
+    "人纪/伤寒论",
+    "人纪/伤寒论/伤寒杂病论.md",
     "人纪/桂枝.md",
     "人纪/医学衷中参西录.md",
-    "人纪/天花粉.md",
     "元气.md",
-    "脉诊学习.md",
     "阅读与书籍 MOC.md",
     "人纪/+Home.md",
     "真实世界的脉络.md",
@@ -283,8 +250,6 @@
     "人纪/麦门冬.md",
     "人纪/龙骨.md",
     "人纪/黄连.md",
-    "人纪/干姜.md",
-    "人纪/肝脾位置之解说.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",

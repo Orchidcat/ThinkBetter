@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "辨太阳病脉证并治下第七",
-      "path": "辨太阳病脉证并治下第七.md"
+      "basename": "伤寒杂病论",
+      "path": "人纪/伤寒论/伤寒杂病论.md"
     },
     {
-      "basename": "伤寒杂病论",
-      "path": "伤寒杂病论.md"
+      "basename": "脉诊学习",
+      "path": "脉诊学习.md"
+    },
+    {
+      "basename": "天花粉",
+      "path": "人纪/天花粉.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "Templates/Template - 读书.md"
     },
     {
       "basename": "辨太阳病脉证并治中第六",
-      "path": "辨太阳病脉证并治中第六.md"
+      "path": "人纪/伤寒论/辨太阳病脉证并治中第六.md"
+    },
+    {
+      "basename": "辨太阳病脉证并治下第七",
+      "path": "人纪/伤寒论/辨太阳病脉证并治下第七.md"
+    },
+    {
+      "basename": "医者的自修",
+      "path": "人纪/医者的自修.md"
     },
     {
       "basename": "桂枝",
@@ -21,16 +37,8 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
-      "basename": "天花粉",
-      "path": "人纪/天花粉.md"
-    },
-    {
       "basename": "元气",
       "path": "元气.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -117,10 +125,6 @@
       "path": "人纪/001 @MOC中医.md"
     },
     {
-      "basename": "医者的自修",
-      "path": "人纪/医者的自修.md"
-    },
-    {
       "basename": "生命是什么",
       "path": "生命是什么.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
-    },
-    {
-      "basename": "何以为父：影响彼此一生的父子关系",
-      "path": "何以为父：影响彼此一生的父子关系.md"
     }
   ],
   "omittedPaths": [],
