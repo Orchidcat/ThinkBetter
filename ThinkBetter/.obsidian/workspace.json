@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "传经",
+                "query": "抱朴子",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,9 +207,10 @@
   },
   "active": "625f83f535204bfe",
   "lastOpenFiles": [
+    "元气.md",
+    "人纪/医学衷中参西录.md",
     "脉诊学习.md",
     "阅读与书籍 MOC.md",
-    "人纪/医学衷中参西录.md",
     "人纪/+Home.md",
     "真实世界的脉络.md",
     "人纪/圆运动的古中医学（续）.md",
@@ -237,7 +238,6 @@
     "人纪/166 血证论.md",
     "人纪/001 @MOC中医.md",
     "人纪/医者的自修.md",
-    "元气.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",

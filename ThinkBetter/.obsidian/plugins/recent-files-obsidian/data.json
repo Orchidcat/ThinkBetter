@@ -5,6 +5,10 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
+      "basename": "元气",
+      "path": "元气.md"
+    },
+    {
       "basename": "脉诊学习",
       "path": "脉诊学习.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "元气",
-      "path": "元气.md"
     },
     {
       "basename": "医者的自修",
