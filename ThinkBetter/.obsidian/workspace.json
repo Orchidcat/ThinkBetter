@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "人纪/桂枝.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "966ccddd7c433959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伤寒杂病论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "伤寒杂病论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/医学衷中参西录.md"
+                "file": "伤寒杂病论.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/医学衷中参西录.md",
+                "file": "伤寒杂病论.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,10 +229,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "625f83f535204bfe",
+  "active": "966ccddd7c433959",
   "lastOpenFiles": [
-    "人纪/天花粉.md",
+    "伤寒杂病论.md",
+    "人纪/桂枝.md",
     "人纪/医学衷中参西录.md",
+    "人纪/天花粉.md",
     "元气.md",
     "脉诊学习.md",
     "阅读与书籍 MOC.md",
@@ -244,12 +258,10 @@
     "人纪/麦门冬.md",
     "人纪/龙骨.md",
     "人纪/黄连.md",
-    "人纪/桂枝.md",
     "人纪/干姜.md",
     "人纪/肝脾位置之解说.md",
     "人纪/柴胡.md",
     "人纪/166 血证论.md",
-    "人纪/001 @MOC中医.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",

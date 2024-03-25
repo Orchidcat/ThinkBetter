@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "伤寒杂病论",
+      "path": "伤寒杂病论.md"
+    },
+    {
+      "basename": "桂枝",
+      "path": "人纪/桂枝.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "黄连",
       "path": "人纪/黄连.md"
-    },
-    {
-      "basename": "桂枝",
-      "path": "人纪/桂枝.md"
     },
     {
       "basename": "干姜",
@@ -195,10 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "蝇王",
-      "path": "蝇王.md"
     }
   ],
   "omittedPaths": [],
