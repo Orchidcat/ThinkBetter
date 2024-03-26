@@ -56,12 +56,24 @@
             }
           },
           {
+            "id": "5bfd3686796cf65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/伤寒论/平脉法第二.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c91ca734c1a3c0c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/伤寒论/辨脉法第一.md",
+                "file": "拖延.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "目",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,11 +153,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/伤寒论/辨脉法第一.md",
+                "file": "人纪/伤寒论/平脉法第二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/伤寒论/辨脉法第一.md"
+                "file": "人纪/伤寒论/平脉法第二.md"
               }
             }
           },
@@ -202,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/伤寒论/辨脉法第一.md",
+                "file": "人纪/伤寒论/平脉法第二.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,13 +253,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "5bfd3686796cf65d",
   "lastOpenFiles": [
-    "伤寒论总论.md",
-    "脉诊学习.md",
-    "人纪/伤寒论/辨脉法第一.md",
     "人纪/伤寒论/伤寒杂病论.md",
+    "人纪/伤寒论/平脉法第二.md",
+    "人纪/伤寒论/辨脉法第一.md",
     "人纪/伤寒论/辨太阳病脉证并治中第六.md",
+    "拖延.md",
+    "伤寒论总论.md",
+    "十二经络歌诀.md",
+    "脉诊学习.md",
     "人纪/医学衷中参西录.md",
     "人纪/天花粉.md",
     "Templates/Template - 读书.md",
@@ -260,7 +276,6 @@
     "真实世界的脉络.md",
     "人纪/圆运动的古中医学（续）.md",
     "六气.md",
-    "十二经络歌诀.md",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
     "Sources/Pasted image 20240324133016.png",
@@ -272,8 +287,6 @@
     "人身君火相火有先后天之分.md",
     "人纪/004 金匮要略.md",
     "人纪/005 八纲辨证.md",
-    "人纪/泌尿道路.md",
-    "人纪/麦门冬.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
