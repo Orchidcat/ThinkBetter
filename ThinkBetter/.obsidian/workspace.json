@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抱朴子",
+                "query": "目",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,12 +141,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -241,7 +240,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c91ca734c1a3c0c9",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
     "伤寒论总论.md",
     "脉诊学习.md",
