@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "拖延.md",
+                "file": "人纪/圆运动的古中医学（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拖延.md"
+                "file": "人纪/圆运动的古中医学（续）.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拖延.md",
+                "file": "人纪/圆运动的古中医学（续）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,18 +241,18 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c91ca734c1a3c0c9",
+  "active": "559502d2763ece49",
   "lastOpenFiles": [
+    "十二经络歌诀.md",
+    "人纪/医学衷中参西录.md",
+    "拖延.md",
     "脉诊学习.md",
     "人纪/伤寒论/辨太阳病脉证并治中第六.md",
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
-    "人纪/医学衷中参西录.md",
     "伤寒论总论.md",
     "人纪/圆运动的古中医学（续）.md",
-    "十二经络歌诀.md",
     "人纪/伤寒论/伤寒杂病论.md",
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
-    "拖延.md",
     "人纪/伤寒论/平脉法第二.md",
     "人纪/伤寒论/辨脉法第一.md",
     "人纪/天花粉.md",
