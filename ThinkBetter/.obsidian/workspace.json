@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1b0a86ccb564ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/伤寒论/辨脉法第一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md",
+                "file": "人纪/伤寒论/辨脉法第一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md"
+                "file": "人纪/伤寒论/辨脉法第一.md"
               }
             }
           },
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/圆运动的古中医学（续）.md",
+                "file": "人纪/伤寒论/辨脉法第一.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,17 +253,18 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "559502d2763ece49",
+  "active": "a1b0a86ccb564ff1",
   "lastOpenFiles": [
+    "人纪/伤寒论/伤寒杂病论.md",
+    "人纪/圆运动的古中医学（续）.md",
     "十二经络歌诀.md",
     "人纪/医学衷中参西录.md",
-    "拖延.md",
+    "阅读与书籍 MOC.md",
     "脉诊学习.md",
+    "拖延.md",
     "人纪/伤寒论/辨太阳病脉证并治中第六.md",
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "伤寒论总论.md",
-    "人纪/圆运动的古中医学（续）.md",
-    "人纪/伤寒论/伤寒杂病论.md",
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "人纪/伤寒论/平脉法第二.md",
     "人纪/伤寒论/辨脉法第一.md",
@@ -261,7 +274,6 @@
     "人纪/伤寒论",
     "人纪/桂枝.md",
     "元气.md",
-    "阅读与书籍 MOC.md",
     "人纪/+Home.md",
     "真实世界的脉络.md",
     "六气.md",
