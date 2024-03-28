@@ -5,10 +5,6 @@
       "path": "人纪/伤寒论/辨脉法第一.md"
     },
     {
-      "basename": "伤寒杂病论",
-      "path": "人纪/伤寒论/伤寒杂病论.md"
-    },
-    {
       "basename": "圆运动的古中医学（续）",
       "path": "人纪/圆运动的古中医学（续）.md"
     },
@@ -21,16 +17,20 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
-    },
-    {
       "basename": "脉诊学习",
       "path": "脉诊学习.md"
     },
     {
       "basename": "拖延",
       "path": "拖延.md"
+    },
+    {
+      "basename": "伤寒杂病论",
+      "path": "人纪/伤寒论/伤寒杂病论.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "辨太阳病脉证并治中第六",
