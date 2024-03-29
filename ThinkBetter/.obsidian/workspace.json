@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "人纪/一张有趣的图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-29.md"
+                "file": "人纪/一张有趣的图.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "人纪/一张有趣的图.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -288,8 +288,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1be8a8a5d591ccdf",
+  "active": "486ae644e25bbb5e",
   "lastOpenFiles": [
+    "Sources/Pasted image 20240329154744.png",
     "2024-03-29.md",
     "一句话的玩味.md",
     "人纪/一张有趣的图.md",
@@ -322,7 +323,6 @@
     "Sources/Pasted image 20240324133016.png",
     "Sources/Pasted image 20240324132145.png",
     "Sources/Pasted image 20240324132118.png",
-    "河图洛书.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
