@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "糟糕的争论",
       "path": "糟糕的争论.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "辨脉法第一",
@@ -195,10 +199,6 @@
     {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "脑髓神经",
-      "path": "脑髓神经.md"
     }
   ],
   "omittedPaths": [],
