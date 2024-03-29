@@ -102,9 +102,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ac01cd309234ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -139,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "咳嗽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -205,7 +212,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "一句话的玩味.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +231,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -265,8 +268,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7c372730aa7e54f3",
+  "active": "b29475884b4470c5",
   "lastOpenFiles": [
+    "一句话的玩味.md",
     "人纪/+Home.md",
     "阅读与书籍 MOC.md",
     "糟糕的争论.md",
@@ -298,7 +302,6 @@
     "河图洛书.md",
     "人纪/075 六经辩证.md",
     "人纪/122 太阳病证.md",
-    "人身君火相火有先后天之分.md",
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
