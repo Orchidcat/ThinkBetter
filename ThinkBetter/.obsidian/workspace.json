@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43382796f2ed926f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "什么是自学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "什么是自学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "什么是自学.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "什么是自学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,10 +193,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "915e5778bcca5297",
+  "active": "43382796f2ed926f",
   "lastOpenFiles": [
-    "一句话的玩味.md",
     "人纪/+Home.md",
+    "什么是自学.md",
+    "一句话的玩味.md",
     "Sources/Pasted image 20240329154744.png",
     "2024-03-29.md",
     "人纪/一张有趣的图.md",
