@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5f65d9076584ea",
+        "id": "6e9c65672a5d7182",
         "type": "tabs",
         "children": [
           {
-            "id": "d87188aa37e9132b",
+            "id": "915e5778bcca5297",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,14 +179,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "d87188aa37e9132b",
+  "active": "915e5778bcca5297",
   "lastOpenFiles": [
+    "一句话的玩味.md",
+    "人纪/+Home.md",
     "Sources/Pasted image 20240329154744.png",
     "2024-03-29.md",
-    "一句话的玩味.md",
     "人纪/一张有趣的图.md",
     "Sources/dc3a52632a939169e9700605cb16504.png",
-    "人纪/+Home.md",
     "阅读与书籍 MOC.md",
     "糟糕的争论.md",
     "人纪/伤寒论/辨脉法第一.md",
@@ -216,7 +217,6 @@
     "Sources/Pasted image 20240318115223.png",
     "Sources/Pasted image 20240318115137.png",
     "Sources/Pasted image 20240318115040.png",
-    "Sources/Pasted image 20240314103402.png",
     "Book",
     "Spaces/Home",
     "Spaces",
