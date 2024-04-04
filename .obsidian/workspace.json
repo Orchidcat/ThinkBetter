@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "打造第二大脑.md",
+                "file": "ThinkBetter/GTD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人参",
+                "query": "GTD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,13 +88,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "打造第二大脑.md"
+                "file": "ThinkBetter/GTD.md"
               }
             }
           }
@@ -156,11 +154,11 @@
   },
   "active": "9123e6f6d2843eaa",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/山茱萸肉.md",
+    "ThinkBetter/人纪/+Home.md",
     "打造第二大脑.md",
+    "ThinkBetter/人纪/山茱萸肉.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/阅读与书籍 MOC.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/真实世界的脉络.md",
     "ThinkBetter/伤寒论总论.md",
     "ThinkBetter/什么是自学.md",
