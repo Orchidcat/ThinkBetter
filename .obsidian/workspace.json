@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "0f4106f1e34a8c11",
+            "id": "024d32d9005e90db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "055fb4c9d3d73101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/阅读与书籍 MOC.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/阅读与书籍 MOC.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -167,10 +154,31 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "055fb4c9d3d73101",
+  "active": "024d32d9005e90db",
   "lastOpenFiles": [
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "ThinkBetter/真实世界的脉络.md",
+    "ThinkBetter/伤寒论总论.md",
+    "ThinkBetter/什么是自学.md",
+    "ThinkBetter/人纪/伤寒论/辨脉法第一.md",
+    "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治中第六.md",
+    "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md",
+    "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治上第五.md",
+    "ThinkBetter/人纪/伤寒论/平脉法第二.md",
+    "ThinkBetter/人纪/伤寒论/伤寒杂病论.md",
+    "ThinkBetter/人纪/伤寒论",
+    "ThinkBetter/人纪/一张有趣的图.md",
+    "ThinkBetter/Sources/dc3a52632a939169e9700605cb16504.png",
+    "ThinkBetter/Sources/Pasted image 20240329154744.png",
+    "ThinkBetter/Sources/Pasted image 20240324133734.png",
+    "ThinkBetter/Sources/Pasted image 20240324133423.png",
+    "ThinkBetter/Sources/Pasted image 20240324133016.png",
+    "ThinkBetter/Sources/Pasted image 20240324132145.png",
+    "ThinkBetter/Sources/Pasted image 20240324132118.png",
+    "ThinkBetter/2024-03-29.md",
+    "ThinkBetter/人纪/山茱萸肉.md",
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/阅读与书籍 MOC.md",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/遗忘曲线.md",
     "ThinkBetter/蝇王.md",
@@ -182,26 +190,9 @@
     "ThinkBetter/命门.md",
     "ThinkBetter/升陷汤.md",
     "ThinkBetter/元气.md",
-    "ThinkBetter/人身君火相火有先后天之分.md",
-    "ThinkBetter/人纪/龙胆草.md",
-    "ThinkBetter/人纪/龙眼肉.md",
-    "ThinkBetter/人纪/黄连.md",
-    "ThinkBetter/人纪/黄芩.md",
-    "ThinkBetter/人纪/麦门冬.md",
-    "ThinkBetter/人纪/鸡内金.md",
-    "ThinkBetter/人纪/附子，乌头，天雄.md",
-    "ThinkBetter/人纪/连翘.md",
-    "ThinkBetter/人纪/远志.md",
-    "ThinkBetter/人纪/血余炭.md",
-    "ThinkBetter/人纪/蝉兑.md",
-    "ThinkBetter/人纪/茵陈.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/Sources/Pasted image 20240318115137.png",
     "ThinkBetter/Sources/Pasted image 20240318115040.png",
-    "ThinkBetter/Sources/Pasted image 20240314103402.png",
-    "ThinkBetter/Sources/Pasted image 20240312104643.png",
-    "ThinkBetter/Sources/Pasted image 20240312091441.png",
-    "ThinkBetter/Sources/013C1D99.png",
     "ThinkBetter/Book",
     "cedict_ts.u8"
   ]
