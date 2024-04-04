@@ -35,6 +35,7 @@ path does not include Templates
 	- [[心智模型 MOC]]
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
+		- [[一张有趣的图]]
 	- [[Tools]]
 	- [[写点儿啥]]
 	- [[外语]]

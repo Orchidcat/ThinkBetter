@@ -17,6 +17,11 @@
       "folder": "Book",
       "tag": "#book",
       "pattern": ""
+    },
+    {
+      "folder": "人纪/伤寒论",
+      "tag": "#伤寒论",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
