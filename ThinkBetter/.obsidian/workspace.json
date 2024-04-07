@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "6e5243bb1a11a9bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
             "id": "9972d95b6d458e05",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +195,7 @@
   },
   "active": "9972d95b6d458e05",
   "lastOpenFiles": [
+    "Sources/Pasted image 20240407144145.png",
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",
     "Sources/Pasted image 20240407112440.png",
@@ -241,7 +232,6 @@
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
     "Sources/Pasted image 20240324133016.png",
-    "Sources/Pasted image 20240324132145.png",
     "Book",
     "Spaces/Home",
     "Spaces",
