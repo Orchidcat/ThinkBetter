@@ -5,6 +5,10 @@
       "path": "知己.md"
     },
     {
+      "basename": "元气",
+      "path": "元气.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "桂枝",
       "path": "人纪/桂枝.md"
-    },
-    {
-      "basename": "元气",
-      "path": "元气.md"
     },
     {
       "basename": "真实世界的脉络",
