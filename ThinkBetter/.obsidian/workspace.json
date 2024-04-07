@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9c65672a5d7182",
+        "id": "fc4ff004b2f719c6",
         "type": "tabs",
         "children": [
           {
-            "id": "915e5778bcca5297",
+            "id": "c1a834d9c1dc7b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "43382796f2ed926f",
+            "id": "6e5243bb1a11a9bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "什么是自学.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -97,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "什么是自学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "什么是自学.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "什么是自学.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +186,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "43382796f2ed926f",
+  "active": "6e5243bb1a11a9bc",
   "lastOpenFiles": [
     "人纪/+Home.md",
     "什么是自学.md",
