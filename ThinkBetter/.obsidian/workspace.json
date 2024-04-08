@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "61b5dbc52bd47a50",
+        "id": "d768682f6ae5647e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb14c1a50d4cd6d4",
+            "id": "c0fa8b62cd41a8fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a305f420c35b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/折肱漫录.md"
+                "file": "2024-04-08.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "2024-04-08.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +178,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "08a305f420c35b44",
+  "active": "c0fa8b62cd41a8fe",
   "lastOpenFiles": [
     "人纪/+Home.md",
     "Book/折肱漫录.md",
+    "2024-04-08.md",
+    "未命名 1.md",
     "阅读与书籍 MOC.md",
     "知己.md",
     "Sources/Pasted image 20240407144145.png",
@@ -227,9 +214,7 @@
     "人纪/伤寒论/平脉法第二.md",
     "人纪/天花粉.md",
     "Templates/Template - 读书.md",
-    "人纪/医者的自修.md",
     "人纪/伤寒论",
-    "人纪/桂枝.md",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
     "Book",
