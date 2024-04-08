@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d768682f6ae5647e",
+        "id": "77f5a6f582fe77b3",
         "type": "tabs",
         "children": [
           {
-            "id": "c0fa8b62cd41a8fe",
+            "id": "e04b15a747828f2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-08.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -178,11 +174,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c0fa8b62cd41a8fe",
+  "active": "33a4aebe71b51376",
   "lastOpenFiles": [
     "人纪/+Home.md",
-    "Book/折肱漫录.md",
     "2024-04-08.md",
+    "Book/折肱漫录.md",
     "未命名 1.md",
     "阅读与书籍 MOC.md",
     "知己.md",
