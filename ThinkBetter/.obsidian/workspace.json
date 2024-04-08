@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "77f5a6f582fe77b3",
+        "id": "f2ccb6a4ced3fb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e04b15a747828f2f",
+            "id": "7b41cd1dcee80174",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人纪/+Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-08.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-08.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -137,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-08.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,10 +178,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "33a4aebe71b51376",
+  "active": "7b41cd1dcee80174",
   "lastOpenFiles": [
-    "人纪/+Home.md",
     "2024-04-08.md",
+    "人纪/+Home.md",
     "Book/折肱漫录.md",
     "未命名 1.md",
     "阅读与书籍 MOC.md",
