@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "DailyNotes/2023-W07.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "DailyNotes/2023-W07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "DailyNotes/2023-W07.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "DailyNotes/2023-W07.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +181,10 @@
   },
   "active": "7b41cd1dcee80174",
   "lastOpenFiles": [
+    "DailyNotes/2023-02-28.md",
+    "DailyNotes/2023-05-12.md",
+    "DailyNotes/2022-04-27.md",
+    "一句话的玩味.md",
     "人纪/+Home.md",
     "2024-04-08.md",
     "Book/折肱漫录.md",
@@ -195,7 +199,6 @@
     "Sources/Pasted image 20240407104632.png",
     "元气.md",
     "什么是自学.md",
-    "一句话的玩味.md",
     "Sources/Pasted image 20240329154744.png",
     "2024-03-29.md",
     "人纪/一张有趣的图.md",
@@ -212,9 +215,6 @@
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "伤寒论总论.md",
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
-    "人纪/伤寒论/平脉法第二.md",
-    "人纪/天花粉.md",
-    "Templates/Template - 读书.md",
     "人纪/伤寒论",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
