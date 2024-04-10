@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "滑石",
+      "path": "人纪/滑石.md"
+    },
+    {
+      "basename": "伤寒杂病论",
+      "path": "人纪/伤寒论/伤寒杂病论.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "一张有趣的图",
+      "path": "人纪/一张有趣的图.md"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
+      "basename": "191 中药",
+      "path": "人纪/191 中药.md"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
+    },
+    {
+      "basename": "003 伤寒论",
+      "path": "人纪/003 伤寒论.md"
+    },
+    {
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "057 黄帝外经",
+      "path": "人纪/057 黄帝外经.md"
     },
     {
       "basename": "OB插件",
@@ -109,10 +153,6 @@
       "path": "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
-    },
-    {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
     },
@@ -157,48 +197,8 @@
       "path": "什么是自学.md"
     },
     {
-      "basename": "一张有趣的图",
-      "path": "人纪/一张有趣的图.md"
-    },
-    {
       "basename": "2024-03-29",
       "path": "2024-03-29.md"
-    },
-    {
-      "basename": "糟糕的争论",
-      "path": "糟糕的争论.md"
-    },
-    {
-      "basename": "辨脉法第一",
-      "path": "人纪/伤寒论/辨脉法第一.md"
-    },
-    {
-      "basename": "圆运动的古中医学（续）",
-      "path": "人纪/圆运动的古中医学（续）.md"
-    },
-    {
-      "basename": "十二经络歌诀",
-      "path": "十二经络歌诀.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "脉诊学习.md"
-    },
-    {
-      "basename": "拖延",
-      "path": "拖延.md"
-    },
-    {
-      "basename": "伤寒杂病论",
-      "path": "人纪/伤寒论/伤寒杂病论.md"
-    },
-    {
-      "basename": "辨太阳病脉证并治中第六",
-      "path": "人纪/伤寒论/辨太阳病脉证并治中第六.md"
     }
   ],
   "omittedPaths": [],
