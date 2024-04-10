@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "203 zy-诊断学",
+      "path": "人纪/203 zy-诊断学.md"
+    },
+    {
       "basename": "Workbench",
       "path": "Workbench.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
     },
     {
       "basename": "001 @MOC中医",
@@ -31,10 +43,6 @@
     {
       "basename": "000 @ 人纪 - Map",
       "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "人纪/194 中医诊断学.md"
     },
     {
       "basename": "如何学习",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-W07",
       "path": "DailyNotes/2023-W07.md"
-    },
-    {
-      "basename": "2023-02-28",
-      "path": "DailyNotes/2023-02-28.md"
-    },
-    {
-      "basename": "2023-05-12",
-      "path": "DailyNotes/2023-05-12.md"
     }
   ],
   "omittedPaths": [],

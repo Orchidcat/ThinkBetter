@@ -111,12 +111,20 @@
       "key": "T"
     }
   ],
-  "workbench-obsidian:workbench-copy-and-link-current-block": [
+  "workbench-obsidian:workbench-copy-current-block": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "."
+    }
+  ],
+  "workbench-obsidian:workbench-copy-and-link-current-block": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
     }
   ]
 }
