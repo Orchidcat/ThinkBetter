@@ -6,29 +6,9 @@
       {
         "id": "c642ec0c7496d2f2",
         "type": "tabs",
-        "dimension": 47.94776119402985,
         "children": [
           {
-            "id": "247fc6587edd4553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/001 @MOC中医.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e5b5d417a2f10bfe",
-        "type": "tabs",
-        "dimension": 52.052238805970156,
-        "children": [
-          {
-            "id": "cfc8f4859bad8e40",
+            "id": "3f3b6e6842c0c0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -139,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "Workbench.md"
               }
             }
           },
@@ -161,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "Workbench.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,10 +180,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "247fc6587edd4553",
+  "active": "3f3b6e6842c0c0b2",
   "lastOpenFiles": [
-    "Workbench.md",
     "人纪/001 @MOC中医.md",
+    "Workbench.md",
     "人纪/+Home.md",
     "人纪/063 金匮-人纪.md",
     "Book/Clear Thinking.md",
