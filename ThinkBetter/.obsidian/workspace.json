@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4959192ace3a37de",
+        "id": "b4a7c854498cb6c8",
         "type": "tabs",
         "children": [
           {
-            "id": "be31633fd2d72105",
+            "id": "71341ff501c56b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-08.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "孙子兵法",
+                "query": "人参",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-08.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-08.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-08.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,12 +152,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +179,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "be31633fd2d72105",
+  "active": "33a4aebe71b51376",
   "lastOpenFiles": [
+    "Distill",
+    "人纪/+Home.md",
+    "OB插件.md",
+    "人纪/041 肝阳化风.md",
+    "人纪/145 问疼痛.md",
+    "人纪/159 相须.md",
+    "人纪/115 手太阴肺经.md",
     "Tools.md",
+    "2024-04-08.md",
     "Books/天生变态狂：TED心理学家的脑犯罪之旅 by 詹姆斯 and 183;法隆.md",
     "Books/阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆.md",
     "Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
@@ -200,15 +207,7 @@
     "Books/风格感觉：21世纪写作指南 by 美 史蒂芬·平克.md",
     "Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md",
     "Books/圆运动的古中医学 by 彭子益.md",
-    "Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md",
-    "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md",
-    "一句话的玩味.md",
     "Books",
-    "人纪/+Home.md",
-    "Book/Clear Thinking.md",
-    "2024-04-08.md",
-    "DailyNotes/2023-W07.md",
-    "DailyNotes/2023-02-28.md",
     "Sources/Pasted image 20240407144145.png",
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",

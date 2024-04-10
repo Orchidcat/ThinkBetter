@@ -57,6 +57,7 @@
 - Flashcards：Anki
 - Obsidian to ANki ：为批量导出而设计
 - Calibre : 查看Calibre应用的信息
+- Annotator：对PDF进行标注 
 
 
 
