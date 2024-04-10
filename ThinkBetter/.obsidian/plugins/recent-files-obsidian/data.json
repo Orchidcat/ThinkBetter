@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-04-08",
-      "path": "2024-04-08.md"
+      "basename": "Tools",
+      "path": "Tools.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "2024-04-08",
+      "path": "2024-04-08.md"
     },
     {
       "basename": "2023-W07",
@@ -195,10 +199,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "生命是什么",
-      "path": "生命是什么.md"
     }
   ],
   "omittedPaths": [],
