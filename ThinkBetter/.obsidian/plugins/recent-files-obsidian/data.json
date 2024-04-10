@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Tools",
-      "path": "Tools.md"
+      "basename": "一句话的玩味",
+      "path": "一句话的玩味.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
     },
     {
       "basename": "2024-04-08",
@@ -27,10 +35,6 @@
     {
       "basename": "2022-04-27",
       "path": "DailyNotes/2022-04-27.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
     },
     {
       "basename": "折肱漫录",
@@ -195,10 +199,6 @@
     {
       "basename": "166 血证论",
       "path": "人纪/166 血证论.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "人纪/001 @MOC中医.md"
     }
   ],
   "omittedPaths": [],
