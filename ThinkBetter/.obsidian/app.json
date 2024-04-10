@@ -15,5 +15,6 @@
     "downscalePercent": 96
   },
   "strictLineBreaks": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "newFileLocation": "current"
 }

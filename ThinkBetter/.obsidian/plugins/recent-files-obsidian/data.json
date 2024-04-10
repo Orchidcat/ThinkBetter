@@ -5,12 +5,8 @@
       "path": "人纪/医学衷中参西录.md"
     },
     {
-      "basename": "滑石",
-      "path": "人纪/滑石.md"
-    },
-    {
-      "basename": "伤寒杂病论",
-      "path": "人纪/伤寒论/伤寒杂病论.md"
+      "basename": "伤寒论总论",
+      "path": "伤寒论总论.md"
     },
     {
       "basename": "一句话的玩味",
@@ -23,6 +19,14 @@
     {
       "basename": "一张有趣的图",
       "path": "人纪/一张有趣的图.md"
+    },
+    {
+      "basename": "滑石",
+      "path": "人纪/滑石.md"
+    },
+    {
+      "basename": "伤寒杂病论",
+      "path": "人纪/伤寒论/伤寒杂病论.md"
     },
     {
       "basename": "000 @ 人纪 - Map",
@@ -195,10 +199,6 @@
     {
       "basename": "什么是自学",
       "path": "什么是自学.md"
-    },
-    {
-      "basename": "2024-03-29",
-      "path": "2024-03-29.md"
     }
   ],
   "omittedPaths": [],
