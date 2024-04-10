@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "001 @MOC中医",
+      "path": "人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "063 金匮-人纪",
+      "path": "人纪/063 金匮-人纪.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "Book/Clear Thinking.md"
+    },
+    {
+      "basename": "2024-04-10",
+      "path": "2024-04-10.md"
+    },
+    {
+      "basename": "005 八纲辨证",
+      "path": "人纪/005 八纲辨证.md"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
     },
@@ -9,16 +41,8 @@
       "path": "Book/如何学习.md"
     },
     {
-      "basename": "000 @ 人纪 - Map",
-      "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
       "basename": "048 桂枝加附子汤",
       "path": "人纪/048 桂枝加附子汤.md"
-    },
-    {
-      "basename": "005 八纲辨证",
-      "path": "人纪/005 八纲辨证.md"
     },
     {
       "basename": "医学衷中参西录",
@@ -31,10 +55,6 @@
     {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "人纪/+Home.md"
     },
     {
       "basename": "一张有趣的图",
@@ -169,10 +189,6 @@
       "path": "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "Book/Clear Thinking.md"
-    },
-    {
       "basename": "2023-W07",
       "path": "DailyNotes/2023-W07.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2023-05-12",
       "path": "DailyNotes/2023-05-12.md"
-    },
-    {
-      "basename": "2022-04-27",
-      "path": "DailyNotes/2022-04-27.md"
-    },
-    {
-      "basename": "折肱漫录",
-      "path": "Book/折肱漫录.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
-    },
-    {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
     }
   ],
   "omittedPaths": [],
