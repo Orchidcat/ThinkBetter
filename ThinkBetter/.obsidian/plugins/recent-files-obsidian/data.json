@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "如何学习",
+      "path": "Book/如何学习.md"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
+      "basename": "048 桂枝加附子汤",
+      "path": "人纪/048 桂枝加附子汤.md"
+    },
+    {
+      "basename": "005 八纲辨证",
+      "path": "人纪/005 八纲辨证.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "人纪/医学衷中参西录.md"
     },
@@ -29,16 +49,8 @@
       "path": "人纪/伤寒论/伤寒杂病论.md"
     },
     {
-      "basename": "000 @ 人纪 - Map",
-      "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
       "basename": "191 中药",
       "path": "人纪/191 中药.md"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "人纪/194 中医诊断学.md"
     },
     {
       "basename": "003 伤寒论",
@@ -187,18 +199,6 @@
     {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
-    },
-    {
-      "basename": "知己",
-      "path": "知己.md"
-    },
-    {
-      "basename": "元气",
-      "path": "元气.md"
-    },
-    {
-      "basename": "什么是自学",
-      "path": "什么是自学.md"
     }
   ],
   "omittedPaths": [],
