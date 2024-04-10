@@ -8,17 +8,7 @@ sticker:
 [[Clear Thinking#^924db7]]
 # Home 
 
-
 [[+HomeMOC]]
-- 复习🍅
-```tasks
-not done
-sort by due
-short mode
-path does not include Templates
-```
-
-
 - 个人😋
 	- [[GTD]]
 	- [[学习方法]]🔬

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "什么是自学",
+      "path": "什么是自学.md"
+    },
+    {
+      "basename": "遗忘曲线",
+      "path": "遗忘曲线.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "GTD.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "学习方法.md"
     },
     {
       "basename": "中医执业",
@@ -183,22 +199,6 @@
     {
       "basename": "风格感觉：21世纪写作指南 by 美 史蒂芬·平克",
       "path": "Books/风格感觉：21世纪写作指南 by 美 史蒂芬·平克.md"
-    },
-    {
-      "basename": "皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM",
-      "path": "Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md"
-    },
-    {
-      "basename": "圆运动的古中医学 by 彭子益",
-      "path": "Books/圆运动的古中医学 by 彭子益.md"
-    },
-    {
-      "basename": "圆运动的古中医学续集 (古中医学堂丛书) by 彭子益",
-      "path": "Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md"
-    },
-    {
-      "basename": "医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯",
-      "path": "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md"
     }
   ],
   "omittedPaths": [],
