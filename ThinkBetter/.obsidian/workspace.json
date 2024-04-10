@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "2024-04-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "2024-04-08.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "2024-04-08.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,6 +182,7 @@
   },
   "active": "be31633fd2d72105",
   "lastOpenFiles": [
+    "Tools.md",
     "Books/天生变态狂：TED心理学家的脑犯罪之旅 by 詹姆斯 and 183;法隆.md",
     "Books/阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆.md",
     "Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
@@ -204,7 +206,6 @@
     "Books",
     "人纪/+Home.md",
     "Book/Clear Thinking.md",
-    "Tools.md",
     "2024-04-08.md",
     "DailyNotes/2023-W07.md",
     "DailyNotes/2023-02-28.md",
