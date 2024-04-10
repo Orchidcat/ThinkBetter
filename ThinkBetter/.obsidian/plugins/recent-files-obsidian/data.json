@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Tools",
+      "path": "Tools.md"
+    },
+    {
+      "basename": "天生变态狂：TED心理学家的脑犯罪之旅 by 詹姆斯 and 183;法隆",
+      "path": "Books/天生变态狂：TED心理学家的脑犯罪之旅 by 詹姆斯 and 183;法隆.md"
+    },
+    {
+      "basename": "阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆",
+      "path": "Books/阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆.md"
+    },
+    {
+      "basename": "理查德·费曼传 by 劳伦斯·M·克劳斯",
+      "path": "Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md"
+    },
+    {
+      "basename": "你干吗在乎别人怎么想？ by 费曼",
+      "path": "Books/你干吗在乎别人怎么想？ by 费曼.md"
+    },
+    {
+      "basename": "原则 by 美瑞·达利欧",
+      "path": "Books/原则 by 美瑞·达利欧.md"
+    },
+    {
+      "basename": "工作、消费主义和新穷人 by 齐格蒙特·鲍曼",
+      "path": "Books/工作、消费主义和新穷人 by 齐格蒙特·鲍曼.md"
+    },
+    {
+      "basename": "掌控习惯（樊登读书倾力推荐，美国获奖无数的现象级畅销书。得到&吴晓波倾力推荐。豆瓣评分8.3，个人实践版—习惯的力量） by 詹姆斯·克利尔(James Clear)",
+      "path": "Books/掌控习惯（樊登读书倾力推荐，美国获奖无数的现象级畅销书。得到&吴晓波倾力推荐。豆瓣评分8.3，个人实践版—习惯的力量） by 詹姆斯·克利尔(James Clear).md"
+    },
+    {
+      "basename": "反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布",
+      "path": "Books/反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布.md"
+    },
+    {
+      "basename": "重来3：跳出疯狂的忙碌（如果可以重来，你还会做工作狂么？财经作家吴晓波推荐；一个名为“慢公司”时代的来临） by 贾森·弗里德 and 戴维·海涅迈尔·汉森",
+      "path": "Books/重来3：跳出疯狂的忙碌（如果可以重来，你还会做工作狂么？财经作家吴晓波推荐；一个名为“慢公司”时代的来临） by 贾森·弗里德 and 戴维·海涅迈尔·汉森.md"
+    },
+    {
+      "basename": "重来3部合集【更为简单有效的商业思维、更为简单高效的远程工作方式、跳出疯狂的忙碌】 by 贾森•弗里德, 美贾森•弗里德, 戴维•海涅迈尔•汉森, 贾森·弗里德, and 戴维·海涅迈尔·汉森",
+      "path": "Books/重来3部合集【更为简单有效的商业思维、更为简单高效的远程工作方式、跳出疯狂的忙碌】 by 贾森•弗里德, 美贾森•弗里德, 戴维•海涅迈尔•汉森, 贾森·弗里德, and 戴维·海涅迈尔·汉森.md"
+    },
+    {
+      "basename": "身心合一的奇迹力量 by W.Timothy Gallwey",
+      "path": "Books/身心合一的奇迹力量 by W.Timothy Gallwey.md"
+    },
+    {
+      "basename": "歲月, 莫不靜好 by 蔣勳",
+      "path": "Books/歲月, 莫不靜好 by 蔣勳.md"
+    },
+    {
+      "basename": "血证论 by 清·唐容川",
+      "path": "Books/血证论 by 清·唐容川.md"
+    },
+    {
+      "basename": "The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel",
+      "path": "Books/The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel.md"
+    },
+    {
+      "basename": "风格感觉：21世纪写作指南 by 美 史蒂芬·平克",
+      "path": "Books/风格感觉：21世纪写作指南 by 美 史蒂芬·平克.md"
+    },
+    {
+      "basename": "皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM",
+      "path": "Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md"
+    },
+    {
+      "basename": "圆运动的古中医学 by 彭子益",
+      "path": "Books/圆运动的古中医学 by 彭子益.md"
+    },
+    {
+      "basename": "圆运动的古中医学续集 (古中医学堂丛书) by 彭子益",
+      "path": "Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md"
+    },
+    {
+      "basename": "医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯",
+      "path": "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "一句话的玩味.md"
     },
@@ -11,10 +91,6 @@
     {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Tools.md"
     },
     {
       "basename": "2024-04-08",
@@ -123,82 +199,6 @@
     {
       "basename": "天花粉",
       "path": "人纪/天花粉.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "Templates/Template - 读书.md"
-    },
-    {
-      "basename": "医者的自修",
-      "path": "人纪/医者的自修.md"
-    },
-    {
-      "basename": "桂枝",
-      "path": "人纪/桂枝.md"
-    },
-    {
-      "basename": "真实世界的脉络",
-      "path": "真实世界的脉络.md"
-    },
-    {
-      "basename": "六气",
-      "path": "六气.md"
-    },
-    {
-      "basename": "河图洛书",
-      "path": "河图洛书.md"
-    },
-    {
-      "basename": "075 六经辩证",
-      "path": "人纪/075 六经辩证.md"
-    },
-    {
-      "basename": "122 太阳病证",
-      "path": "人纪/122 太阳病证.md"
-    },
-    {
-      "basename": "人身君火相火有先后天之分",
-      "path": "人身君火相火有先后天之分.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "005 八纲辨证",
-      "path": "人纪/005 八纲辨证.md"
-    },
-    {
-      "basename": "泌尿道路",
-      "path": "人纪/泌尿道路.md"
-    },
-    {
-      "basename": "麦门冬",
-      "path": "人纪/麦门冬.md"
-    },
-    {
-      "basename": "龙骨",
-      "path": "人纪/龙骨.md"
-    },
-    {
-      "basename": "黄连",
-      "path": "人纪/黄连.md"
-    },
-    {
-      "basename": "干姜",
-      "path": "人纪/干姜.md"
-    },
-    {
-      "basename": "肝脾位置之解说",
-      "path": "人纪/肝脾位置之解说.md"
-    },
-    {
-      "basename": "柴胡",
-      "path": "人纪/柴胡.md"
-    },
-    {
-      "basename": "166 血证论",
-      "path": "人纪/166 血证论.md"
     }
   ],
   "omittedPaths": [],

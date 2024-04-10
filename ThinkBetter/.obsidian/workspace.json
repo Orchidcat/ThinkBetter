@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "014682df49844792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一句话的玩味.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一句话的玩味.md"
+                "file": "Tools.md"
               }
             }
           },
@@ -154,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一句话的玩味.md",
+                "file": "Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 401.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,42 +179,43 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "014682df49844792",
+  "active": "be31633fd2d72105",
   "lastOpenFiles": [
+    "Books/天生变态狂：TED心理学家的脑犯罪之旅 by 詹姆斯 and 183;法隆.md",
+    "Books/阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆.md",
+    "Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
+    "Books/你干吗在乎别人怎么想？ by 费曼.md",
+    "Books/原则 by 美瑞·达利欧.md",
+    "Books/工作、消费主义和新穷人 by 齐格蒙特·鲍曼.md",
+    "Books/掌控习惯（樊登读书倾力推荐，美国获奖无数的现象级畅销书。得到&吴晓波倾力推荐。豆瓣评分8.3，个人实践版—习惯的力量） by 詹姆斯·克利尔(James Clear).md",
+    "Books/反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布.md",
+    "Books/重来3：跳出疯狂的忙碌（如果可以重来，你还会做工作狂么？财经作家吴晓波推荐；一个名为“慢公司”时代的来临） by 贾森·弗里德 and 戴维·海涅迈尔·汉森.md",
+    "Books/重来3部合集【更为简单有效的商业思维、更为简单高效的远程工作方式、跳出疯狂的忙碌】 by 贾森•弗里德, 美贾森•弗里德, 戴维•海涅迈尔•汉森, 贾森·弗里德, and 戴维·海涅迈尔·汉森.md",
+    "Books/身心合一的奇迹力量 by W.Timothy Gallwey.md",
+    "Books/歲月, 莫不靜好 by 蔣勳.md",
+    "Books/血证论 by 清·唐容川.md",
+    "Books/The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel.md",
+    "Books/风格感觉：21世纪写作指南 by 美 史蒂芬·平克.md",
+    "Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md",
+    "Books/圆运动的古中医学 by 彭子益.md",
+    "Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md",
+    "Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md",
+    "一句话的玩味.md",
+    "Books",
     "人纪/+Home.md",
     "Book/Clear Thinking.md",
     "Tools.md",
     "2024-04-08.md",
     "DailyNotes/2023-W07.md",
     "DailyNotes/2023-02-28.md",
-    "DailyNotes/2023-05-12.md",
-    "DailyNotes/2022-04-27.md",
-    "一句话的玩味.md",
-    "Book/折肱漫录.md",
-    "未命名 1.md",
-    "阅读与书籍 MOC.md",
-    "知己.md",
     "Sources/Pasted image 20240407144145.png",
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",
     "Sources/Pasted image 20240407112440.png",
     "Sources/Pasted image 20240407111559.png",
     "Sources/Pasted image 20240407104632.png",
-    "元气.md",
-    "什么是自学.md",
     "Sources/Pasted image 20240329154744.png",
-    "2024-03-29.md",
-    "人纪/一张有趣的图.md",
     "Sources/dc3a52632a939169e9700605cb16504.png",
-    "糟糕的争论.md",
-    "人纪/伤寒论/辨脉法第一.md",
-    "人纪/圆运动的古中医学（续）.md",
-    "十二经络歌诀.md",
-    "人纪/医学衷中参西录.md",
-    "脉诊学习.md",
-    "拖延.md",
-    "人纪/伤寒论/伤寒杂病论.md",
-    "人纪/伤寒论/辨太阳病脉证并治中第六.md",
     "人纪/伤寒论",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
