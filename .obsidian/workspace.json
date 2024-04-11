@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "干地黄",
+                "query": "砂仁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "f0596c8348e20e7e",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Book/折肱漫录.md",
