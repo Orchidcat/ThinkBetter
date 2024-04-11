@@ -78,13 +78,21 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "3c10cbcb94f26910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.51103591918945
   },
   "right": {
     "id": "54c6b485c34725f9",
