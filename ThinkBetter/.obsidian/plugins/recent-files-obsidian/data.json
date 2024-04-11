@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "折肱漫录",
-      "path": "Book/折肱漫录.md"
-    },
-    {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
     },
     {
+      "basename": "中医执业",
+      "path": "中医执业.md"
+    },
+    {
       "basename": "Workbench",
       "path": "Workbench.md"
+    },
+    {
+      "basename": "折肱漫录",
+      "path": "Book/折肱漫录.md"
+    },
+    {
+      "basename": "知己",
+      "path": "知己.md"
     },
     {
       "basename": "+Home",
@@ -31,10 +39,6 @@
     {
       "basename": "学习方法",
       "path": "学习方法.md"
-    },
-    {
-      "basename": "中医执业",
-      "path": "中医执业.md"
     },
     {
       "basename": "004 金匮要略",
@@ -195,10 +199,6 @@
     {
       "basename": "血证论 by 清·唐容川",
       "path": "Books/血证论 by 清·唐容川.md"
-    },
-    {
-      "basename": "The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel",
-      "path": "Books/The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel.md"
     }
   ],
   "omittedPaths": [],
