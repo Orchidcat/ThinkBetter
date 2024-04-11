@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/PowerBuilder MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/PowerBuilder MOC.md"
               }
             }
           }
@@ -136,11 +136,15 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "workbench-obsidian:Workbench": false
     }
   },
   "active": "30063dcbbe47fe82",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/目标 MOC.md",
+    "ThinkBetter/Workbench.md",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/知己.md",
     "ThinkBetter/未命名 1.md",
@@ -172,10 +176,8 @@
     "ThinkBetter/Books",
     "ThinkBetter/Book/折肱漫录.md",
     "ThinkBetter/2024-04-10.md",
-    "ThinkBetter/2024-04-08.md",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/人纪/伤寒论",
     "ThinkBetter/Sources/dc3a52632a939169e9700605cb16504.png",
     "ThinkBetter/Sources/Pasted image 20240329154744.png",

@@ -1,0 +1,9 @@
+{
+  "id": "workbench-obsidian",
+  "name": "Workbench",
+  "version": "1.6.4",
+  "description": "Keep a workbench of knowledge materials.",
+  "author": "ryanjamurphy",
+  "authorUrl": "fulcra.design",
+  "isDesktopOnly": false
+}
