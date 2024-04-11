@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "知己.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/194 中医诊断学.md"
+                "file": "知己.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "知己.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5a5581b395630071",
+  "active": "e63d027c7198314e",
   "lastOpenFiles": [
-    "中医执业.md",
     "人纪/194 中医诊断学.md",
+    "中医执业.md",
     "Workbench.md",
     "Book/折肱漫录.md",
     "知己.md",
