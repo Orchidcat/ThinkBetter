@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/PowerBuilder MOC.md",
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0596c8348e20e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Book/折肱漫录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/PowerBuilder MOC.md"
+                "file": "ThinkBetter/Book/折肱漫录.md"
               }
             }
           }
@@ -140,9 +154,10 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "f0596c8348e20e7e",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/PowerBuilder MOC.md",
     "ThinkBetter/目标 MOC.md",
     "ThinkBetter/Workbench.md",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
@@ -175,7 +190,6 @@
     "ThinkBetter/Books/The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel.md",
     "ThinkBetter/Books",
     "ThinkBetter/Book/折肱漫录.md",
-    "ThinkBetter/2024-04-10.md",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
     "ThinkBetter/人纪/伤寒论",
