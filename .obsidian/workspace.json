@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab9ab18d07498597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人参",
+                "query": "干地黄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,6 +168,9 @@
   },
   "active": "f0596c8348e20e7e",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "ThinkBetter/Book/折肱漫录.md",
+    "人参.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/PowerBuilder MOC.md",
     "ThinkBetter/目标 MOC.md",
@@ -185,10 +201,7 @@
     "ThinkBetter/Books/反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布.md",
     "ThinkBetter/Books/原则 by 美瑞·达利欧.md",
     "ThinkBetter/Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md",
-    "ThinkBetter/Books/你干吗在乎别人怎么想？ by 费曼.md",
-    "ThinkBetter/Books/The Psychology of Money Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel.md",
     "ThinkBetter/Books",
-    "ThinkBetter/Book/折肱漫录.md",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
     "ThinkBetter/人纪/伤寒论",

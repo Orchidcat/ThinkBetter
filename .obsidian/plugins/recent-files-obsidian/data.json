@@ -5,6 +5,14 @@
       "path": "ThinkBetter/Book/折肱漫录.md"
     },
     {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
+    },
+    {
+      "basename": "人参",
+      "path": "人参.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "山药",
       "path": "ThinkBetter/人纪/山药.md"
-    },
-    {
-      "basename": "人参",
-      "path": "人参.md"
     },
     {
       "basename": "西洋参",
