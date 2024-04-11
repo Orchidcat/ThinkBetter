@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔬",
       "🌲",
       "⚓"
     ],
@@ -25,5 +26,7 @@
     "iconIdentifier": ":"
   },
   "人纪/000 @ 人纪 - Map.canvas": "⚓",
-  "人纪": "🌲"
+  "人纪": "🌲",
+  "2024-04-08.md": "🌲",
+  "Distill": "🔬"
 }

@@ -2,24 +2,13 @@
 aliases:
   - "000"
   - Home
-sticker: emoji//1f6b2
-
+sticker: 
 ---
 ![[Pasted image 20240222103952.png]]
 [[Clear Thinking#^924db7]]
 # Home 
 
-
 [[+HomeMOC]]
-- 复习🍅
-```tasks
-not done
-sort by due
-short mode
-path does not include Templates
-```
-
-
 - 个人😋
 	- [[GTD]]
 	- [[学习方法]]🔬

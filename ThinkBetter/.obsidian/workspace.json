@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9c65672a5d7182",
+        "id": "0f7735e3106c64d5",
         "type": "tabs",
         "children": [
           {
-            "id": "915e5778bcca5297",
+            "id": "a668c4694cce580b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Workbench.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43382796f2ed926f",
+            "id": "5a5581b395630071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "什么是自学.md",
+                "file": "人纪/033 二问汗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b51149a6ee04dc98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/折肱漫录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咳嗽",
+                "query": "肺主",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,14 +103,21 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "3c10cbcb94f26910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -133,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "什么是自学.md",
+                "file": "Book/折肱漫录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "什么是自学.md"
+                "file": "Book/折肱漫录.md"
               }
             }
           },
@@ -155,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "什么是自学.md",
+                "file": "Book/折肱漫录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,66 +200,68 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workbench-obsidian:Workbench": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
       "janitor:Janitor: scan vault": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-calibre-plugin:Calibre": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "homepage:Open homepage": false,
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "43382796f2ed926f",
+  "active": "b51149a6ee04dc98",
   "lastOpenFiles": [
+    "人纪/033 二问汗.md",
+    "Workbench.md",
+    "Book/折肱漫录.md",
+    "知己.md",
+    "OB插件.md",
     "人纪/+Home.md",
+    "人纪/194 中医诊断学.md",
+    "人纪/146 问小儿.md",
+    "人纪/144 问睡眠.md",
+    "人纪/174 一问寒热.md",
+    "中医执业.md",
+    "遗忘曲线.md",
+    "GTD.md",
     "什么是自学.md",
-    "一句话的玩味.md",
-    "Sources/Pasted image 20240329154744.png",
-    "2024-03-29.md",
-    "人纪/一张有趣的图.md",
-    "Sources/dc3a52632a939169e9700605cb16504.png",
-    "阅读与书籍 MOC.md",
-    "糟糕的争论.md",
-    "人纪/伤寒论/辨脉法第一.md",
-    "人纪/圆运动的古中医学（续）.md",
-    "十二经络歌诀.md",
+    "学习方法.md",
+    "人纪/004 金匮要略.md",
+    "人纪/203 zy-诊断学.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/063 金匮-人纪.md",
+    "Book/Clear Thinking.md",
+    "2024-04-10.md",
+    "人纪/005 八纲辨证.md",
+    "人纪/000 @ 人纪 - Map.canvas",
+    "Book/如何学习.md",
+    "人纪/048 桂枝加附子汤.md",
     "人纪/医学衷中参西录.md",
-    "脉诊学习.md",
-    "拖延.md",
-    "人纪/伤寒论/伤寒杂病论.md",
-    "人纪/伤寒论/辨太阳病脉证并治中第六.md",
-    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "伤寒论总论.md",
-    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
-    "人纪/伤寒论/平脉法第二.md",
-    "人纪/天花粉.md",
-    "Templates/Template - 读书.md",
-    "人纪/医者的自修.md",
+    "人纪/药",
+    "Distill",
+    "Books",
+    "Sources/Pasted image 20240407144145.png",
+    "Sources/Pasted image 20240407135252.png",
+    "Sources/Pasted image 20240407120145.png",
+    "Sources/Pasted image 20240407112440.png",
+    "Sources/Pasted image 20240407111559.png",
+    "Sources/Pasted image 20240407104632.png",
+    "Sources/Pasted image 20240329154744.png",
+    "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
-    "人纪/桂枝.md",
-    "元气.md",
-    "真实世界的脉络.md",
-    "六气.md",
     "Sources/Pasted image 20240324133734.png",
     "Sources/Pasted image 20240324133423.png",
-    "Sources/Pasted image 20240324133016.png",
-    "Sources/Pasted image 20240324132145.png",
-    "Sources/Pasted image 20240324132118.png",
-    "Sources/Pasted image 20240318115223.png",
-    "Sources/Pasted image 20240318115137.png",
-    "Sources/Pasted image 20240318115040.png",
     "Book",
     "Spaces/Home",
     "Spaces",
     "Seize the Day",
     "人纪/中药材",
-    "人纪/000 @ 人纪 - Map.canvas",
     "人体流转.canvas",
     "Excalidraw",
-    "FromWeb",
     "Canvas 使用学习.canvas",
     "未命名.canvas"
   ]

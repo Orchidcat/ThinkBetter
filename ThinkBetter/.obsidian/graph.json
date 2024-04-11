@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "参西",
+  "search": "path:人纪  ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224486,
+  "scale": 0.09392927902847109,
   "close": false
 }
