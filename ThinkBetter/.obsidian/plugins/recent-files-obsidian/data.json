@@ -5,6 +5,14 @@
       "path": "Book/折肱漫录.md"
     },
     {
+      "basename": "033 二问汗",
+      "path": "人纪/033 二问汗.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "Workbench.md"
+    },
+    {
       "basename": "知己",
       "path": "知己.md"
     },
@@ -17,20 +25,12 @@
       "path": "人纪/+Home.md"
     },
     {
-      "basename": "033 二问汗",
-      "path": "人纪/033 二问汗.md"
-    },
-    {
       "basename": "194 中医诊断学",
       "path": "人纪/194 中医诊断学.md"
     },
     {
       "basename": "146 问小儿",
       "path": "人纪/146 问小儿.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
     },
     {
       "basename": "144 问睡眠",
