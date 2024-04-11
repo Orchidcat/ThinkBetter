@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "人纪/174 一问寒热.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "Workbench.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/194 中医诊断学.md"
+                "file": "Workbench.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "Workbench.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,11 +223,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5a5581b395630071",
+  "active": "a668c4694cce580b",
   "lastOpenFiles": [
-    "Workbench.md",
-    "人纪/194 中医诊断学.md",
     "知己.md",
+    "人纪/174 一问寒热.md",
+    "人纪/194 中医诊断学.md",
+    "Workbench.md",
     "中医执业.md",
     "Book/折肱漫录.md",
     "人纪/+Home.md",
@@ -253,7 +253,6 @@
     "人纪/药",
     "人纪/滑石.md",
     "人纪/伤寒论/伤寒杂病论.md",
-    "人纪/191 中药.md",
     "Distill",
     "Books",
     "Sources/Pasted image 20240407144145.png",
