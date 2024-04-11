@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e63d027c7198314e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知己.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/033 二问汗.md",
+                "file": "Book/折肱漫录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/033 二问汗.md"
+                "file": "Book/折肱漫录.md"
               }
             }
           },
@@ -186,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/033 二问汗.md",
+                "file": "Book/折肱漫录.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,17 +212,19 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5a5581b395630071",
+  "active": "b51149a6ee04dc98",
   "lastOpenFiles": [
+    "知己.md",
+    "OB插件.md",
+    "人纪/+Home.md",
+    "人纪/033 二问汗.md",
     "人纪/194 中医诊断学.md",
     "人纪/146 问小儿.md",
     "Workbench.md",
     "人纪/144 问睡眠.md",
     "人纪/174 一问寒热.md",
-    "知己.md",
     "中医执业.md",
     "Book/折肱漫录.md",
-    "人纪/+Home.md",
     "遗忘曲线.md",
     "GTD.md",
     "什么是自学.md",
@@ -251,8 +241,6 @@
     "人纪/048 桂枝加附子汤.md",
     "人纪/医学衷中参西录.md",
     "伤寒论总论.md",
-    "一句话的玩味.md",
-    "人纪/一张有趣的图.md",
     "人纪/药",
     "Distill",
     "Books",
