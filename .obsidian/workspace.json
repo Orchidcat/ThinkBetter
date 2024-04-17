@@ -21,29 +21,11 @@
             }
           },
           {
-            "id": "f0596c8348e20e7e",
+            "id": "da6f4206f043322b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Book/折肱漫录.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab9ab18d07498597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -139,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/Book/折肱漫录.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,12 +146,12 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "da6f4206f043322b",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/Book/折肱漫录.md",
-    "人参.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/Book/折肱漫录.md",
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "人参.md",
     "ThinkBetter/PowerBuilder MOC.md",
     "ThinkBetter/目标 MOC.md",
     "ThinkBetter/Workbench.md",
