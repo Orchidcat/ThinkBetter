@@ -48,6 +48,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a5e5273a8b3e06bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d0869b017b5dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-17.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,17 +160,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/胰脏的解说.md"
+                "file": "2024-04-17.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +184,10 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "da6f4206f043322b",
+  "active": "37d0869b017b5dbf",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/胰脏的解说.md",
+    "2024-04-17.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/肝脾位置之解说.md",
     "ThinkBetter/人纪/+Home.md",
@@ -201,8 +220,6 @@
     "ThinkBetter/Books/血证论 by 清·唐容川.md",
     "ThinkBetter/Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md",
     "ThinkBetter/Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
-    "ThinkBetter/Books/歲月, 莫不靜好 by 蔣勳.md",
-    "ThinkBetter/Books/掌控习惯（樊登读书倾力推荐，美国获奖无数的现象级畅销书。得到&吴晓波倾力推荐。豆瓣评分8.3，个人实践版—习惯的力量） by 詹姆斯·克利尔(James Clear).md",
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
