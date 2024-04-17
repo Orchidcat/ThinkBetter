@@ -5,6 +5,14 @@
       "path": "ThinkBetter/人纪/肝脾位置之解说.md"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "脉诊学习",
+      "path": "ThinkBetter/脉诊学习.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "ThinkBetter/人纪/医学衷中参西录.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "原一，二，三期合编第一卷",
       "path": "ThinkBetter/人纪/原一，二，三期合编第一卷.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "折肱漫录",
@@ -83,10 +87,6 @@
     {
       "basename": "赭石",
       "path": "ThinkBetter/人纪/赭石.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "ThinkBetter/脉诊学习.md"
     },
     {
       "basename": "Template - 药解",
