@@ -24,8 +24,13 @@
             "id": "da6f4206f043322b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/医学衷中参西录.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -87,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 721.5041885375977
+    "width": 721.5041885375977,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -121,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/医学衷中参西录.md"
+              }
             }
           }
         ],
@@ -148,6 +156,9 @@
   },
   "active": "da6f4206f043322b",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/概念 MOC.md",
+    "ThinkBetter/人纪/兴趣 MOC.md",
+    "ThinkBetter/Sources/Pasted image 20240412113211.png",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Book/折肱漫录.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
@@ -179,8 +190,6 @@
     "ThinkBetter/Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md",
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "ThinkBetter/Books/反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布.md",
-    "ThinkBetter/Books/原则 by 美瑞·达利欧.md",
-    "ThinkBetter/Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md",
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
@@ -188,7 +197,6 @@
     "ThinkBetter/Sources/dc3a52632a939169e9700605cb16504.png",
     "ThinkBetter/Sources/Pasted image 20240329154744.png",
     "ThinkBetter/Sources/Pasted image 20240324133734.png",
-    "ThinkBetter/Sources/Pasted image 20240324133423.png",
     "ThinkBetter/Book",
     "cedict_ts.u8"
   ]
