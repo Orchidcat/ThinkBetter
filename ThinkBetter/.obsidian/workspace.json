@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7735e3106c64d5",
+        "id": "333c3d242b039a56",
         "type": "tabs",
         "children": [
           {
-            "id": "a668c4694cce580b",
+            "id": "2a277c9c2286eeeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workbench.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b51149a6ee04dc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,12 +88,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/折肱漫录.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -163,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +187,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b51149a6ee04dc98",
+  "active": "2a277c9c2286eeeb",
   "lastOpenFiles": [
     "Sources/Pasted image 20240412113211.png",
     "+Home.md",
