@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/伤寒论/辨太阳病脉证并治上第五.md",
+                "file": "人纪/人参.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肺主",
+                "query": "人参",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/伤寒论/辨太阳病脉证并治上第五.md",
+                "file": "人纪/人参.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/伤寒论/辨太阳病脉证并治上第五.md"
+                "file": "人纪/人参.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/伤寒论/辨太阳病脉证并治上第五.md",
+                "file": "人纪/人参.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,6 +202,9 @@
   },
   "active": "c6614c79d2d53908",
   "lastOpenFiles": [
+    "人纪/089 人纪 - 神农本草经.md",
+    "人纪/鸡内金.md",
+    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "人纪/伤寒论/伤寒杂病论.md",
     "人纪/一张有趣的图.md",
     "人纪/+Home.md",
@@ -212,7 +215,6 @@
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "人纪/001 @MOC中医.md",
     "Tools.md",
-    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "Book/折肱漫录.md",
     "Sources/Pasted image 20240412113211.png",
     "+Home.md",
@@ -227,8 +229,6 @@
     "中医执业.md",
     "遗忘曲线.md",
     "GTD.md",
-    "什么是自学.md",
-    "学习方法.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/药",
     "Distill",
