@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a5e5273a8b3e06bb",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/养生之道.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -185,8 +184,9 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "da6f4206f043322b",
+  "active": "30063dcbbe47fe82",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/内伤黄疸.md",
     "ThinkBetter/人纪/胰脏的解说.md",
@@ -220,7 +220,6 @@
     "ThinkBetter/Books/重来3部合集【更为简单有效的商业思维、更为简单高效的远程工作方式、跳出疯狂的忙碌】 by 贾森•弗里德, 美贾森•弗里德, 戴维•海涅迈尔•汉森, 贾森·弗里德, and 戴维·海涅迈尔·汉森.md",
     "ThinkBetter/Books/身心合一的奇迹力量 by W.Timothy Gallwey.md",
     "ThinkBetter/Books/血证论 by 清·唐容川.md",
-    "ThinkBetter/Books/皇汉医学（修订版） by 汤本求真, 周子叙, and ePUBw.COM.md",
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
