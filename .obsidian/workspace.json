@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/养生之道.md",
+                "file": "ThinkBetter/元气.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a5e5273a8b3e06bb",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/元气.md"
               }
             }
           }
@@ -184,12 +185,12 @@
       "workbench-obsidian:Workbench": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "da6f4206f043322b",
   "lastOpenFiles": [
-    "2024-04-17.md",
-    "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
+    "ThinkBetter/人纪/养生之道.md",
+    "ThinkBetter/人纪/+Home.md",
+    "2024-04-17.md",
     "ThinkBetter/人纪/内伤黄疸.md",
     "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/人纪/肝脾位置之解说.md",
