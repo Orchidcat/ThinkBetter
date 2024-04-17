@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "写点儿啥.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/伤寒论/伤寒杂病论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6568a85486ca7e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/伤寒论/辨太阳病脉证并治下第七.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "写点儿啥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/折肱漫录.md"
+                "file": "写点儿啥.md"
               }
             }
           },
@@ -162,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "写点儿啥.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,9 +211,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c6614c79d2d53908",
+  "active": "2a277c9c2286eeeb",
   "lastOpenFiles": [
     "人纪/+Home.md",
+    "Tools.md",
+    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
+    "人纪/伤寒论/伤寒杂病论.md",
+    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "Book/折肱漫录.md",
     "Sources/Pasted image 20240412113211.png",
     "+Home.md",
@@ -225,10 +240,7 @@
     "人纪/063 金匮-人纪.md",
     "Book/Clear Thinking.md",
     "2024-04-10.md",
-    "人纪/005 八纲辨证.md",
     "人纪/000 @ 人纪 - Map.canvas",
-    "Book/如何学习.md",
-    "人纪/048 桂枝加附子汤.md",
     "人纪/药",
     "Distill",
     "Books",
