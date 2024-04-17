@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7735e3106c64d5",
+        "id": "34caea9943e4f3df",
         "type": "tabs",
         "children": [
           {
-            "id": "a668c4694cce580b",
+            "id": "32e8200e3824af68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workbench.md",
+                "file": "人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a5581b395630071",
+            "id": "85c8bbf60ab0642f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/033 二问汗.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b51149a6ee04dc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "阅读与书籍 MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肺主",
+                "query": "人参",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/折肱漫录.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           },
@@ -174,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/折肱漫录.md",
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,35 +199,36 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b51149a6ee04dc98",
+  "active": "32e8200e3824af68",
   "lastOpenFiles": [
+    "人纪/泌尿道路.md",
+    "阅读与书籍 MOC.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/+Home.md",
+    "人纪/人参.md",
+    "人纪/089 人纪 - 神农本草经.md",
+    "人纪/鸡内金.md",
+    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
+    "人纪/伤寒论/伤寒杂病论.md",
+    "人纪/一张有趣的图.md",
+    "人纪/兴趣 MOC.md",
+    "人纪/概念 MOC.md",
+    "写点儿啥.md",
+    "人纪/医者的自修.md",
+    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
+    "Tools.md",
+    "Book/折肱漫录.md",
+    "Sources/Pasted image 20240412113211.png",
     "+Home.md",
     "人纪/033 二问汗.md",
     "Workbench.md",
-    "Book/折肱漫录.md",
     "知己.md",
     "OB插件.md",
-    "人纪/+Home.md",
     "人纪/194 中医诊断学.md",
     "人纪/146 问小儿.md",
     "人纪/144 问睡眠.md",
     "人纪/174 一问寒热.md",
-    "中医执业.md",
-    "遗忘曲线.md",
-    "GTD.md",
-    "什么是自学.md",
-    "学习方法.md",
-    "人纪/004 金匮要略.md",
-    "人纪/203 zy-诊断学.md",
-    "人纪/001 @MOC中医.md",
-    "人纪/063 金匮-人纪.md",
-    "Book/Clear Thinking.md",
-    "2024-04-10.md",
-    "人纪/005 八纲辨证.md",
     "人纪/000 @ 人纪 - Map.canvas",
-    "Book/如何学习.md",
-    "人纪/048 桂枝加附子汤.md",
-    "人纪/医学衷中参西录.md",
     "人纪/药",
     "Distill",
     "Books",
@@ -254,7 +242,6 @@
     "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
     "Sources/Pasted image 20240324133734.png",
-    "Sources/Pasted image 20240324133423.png",
     "Book",
     "Spaces/Home",
     "Spaces",
