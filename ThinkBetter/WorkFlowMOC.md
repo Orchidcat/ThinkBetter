@@ -1,3 +1,4 @@
+#个人
 # Capture what resonates
 
 ## Notetaking Style

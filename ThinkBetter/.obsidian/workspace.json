@@ -23,11 +23,14 @@
             "id": "e21ab6a28d6f016a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-04-18.md",
-                "mode": "source",
-                "source": false
+                "file": "人纪/000 @ 人纪 - Map.canvas",
+                "viewState": {
+                  "x": -880,
+                  "y": -572.0696491465944,
+                  "zoom": -1.6666666666666665
+                }
               }
             }
           },
@@ -42,9 +45,112 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7786cfd5815448b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkFlowMOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a05f7509367633a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/+Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50e8be52657a191a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本Q.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9bb2ac159c5fc21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotToDo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4242465eaf5a443b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YEAR MOC⌛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4599001e7ed87d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "d0f969e0dafec077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b1a27863651339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9981c6cd724935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/养生之道.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB插件.md",
+                "file": "基本Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB插件.md"
+                "file": "基本Q.md"
               }
             }
           },
@@ -175,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB插件.md",
+                "file": "基本Q.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,10 +320,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "586f80471f00c4a0",
+  "active": "50e8be52657a191a",
   "lastOpenFiles": [
     "人纪/+Home.md",
+    "NotToDo.md",
+    "WorkFlowMOC.md",
+    "YEAR MOC⌛.md",
+    "学习方法.md",
+    "GTD.md",
+    "人纪/养生之道.md",
     "2024-04-18.md",
+    "人纪/000 @ 人纪 - Map.canvas",
+    "OB插件.md",
     "Map.canvas",
     "Book/Clear Thinking.md",
     "人纪/泌尿道路.md",
@@ -236,15 +350,7 @@
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "人纪/伤寒论/伤寒杂病论.md",
     "人纪/一张有趣的图.md",
-    "人纪/兴趣 MOC.md",
-    "写点儿啥.md",
-    "人纪/医者的自修.md",
-    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
-    "Tools.md",
     "Sources/Pasted image 20240412113211.png",
-    "+Home.md",
-    "人纪/033 二问汗.md",
-    "人纪/000 @ 人纪 - Map.canvas",
     "人纪/药",
     "Distill",
     "Books",

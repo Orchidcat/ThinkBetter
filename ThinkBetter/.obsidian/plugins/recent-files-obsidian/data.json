@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "OB插件",
-      "path": "OB插件.md"
+      "basename": "基本Q",
+      "path": "基本Q.md"
     },
     {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
     {
+      "basename": "NotToDo",
+      "path": "NotToDo.md"
+    },
+    {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
+    },
+    {
+      "basename": "YEAR MOC⌛",
+      "path": "YEAR MOC⌛.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "学习方法.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "GTD.md"
+    },
+    {
+      "basename": "养生之道",
+      "path": "人纪/养生之道.md"
+    },
+    {
       "basename": "2024-04-18",
       "path": "2024-04-18.md"
+    },
+    {
+      "basename": "000 @ 人纪 - Map",
+      "path": "人纪/000 @ 人纪 - Map.canvas"
+    },
+    {
+      "basename": "194 中医诊断学",
+      "path": "人纪/194 中医诊断学.md"
+    },
+    {
+      "basename": "057 黄帝外经",
+      "path": "人纪/057 黄帝外经.md"
+    },
+    {
+      "basename": "OB插件",
+      "path": "OB插件.md"
     },
     {
       "basename": "Map",
@@ -113,10 +153,6 @@
       "path": "知己.md"
     },
     {
-      "basename": "194 中医诊断学",
-      "path": "人纪/194 中医诊断学.md"
-    },
-    {
       "basename": "146 问小儿",
       "path": "人纪/146 问小儿.md"
     },
@@ -141,14 +177,6 @@
       "path": "遗忘曲线.md"
     },
     {
-      "basename": "GTD",
-      "path": "GTD.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "学习方法.md"
-    },
-    {
       "basename": "004 金匮要略",
       "path": "人纪/004 金匮要略.md"
     },
@@ -169,36 +197,8 @@
       "path": "人纪/005 八纲辨证.md"
     },
     {
-      "basename": "000 @ 人纪 - Map",
-      "path": "人纪/000 @ 人纪 - Map.canvas"
-    },
-    {
       "basename": "如何学习",
       "path": "Book/如何学习.md"
-    },
-    {
-      "basename": "048 桂枝加附子汤",
-      "path": "人纪/048 桂枝加附子汤.md"
-    },
-    {
-      "basename": "伤寒论总论",
-      "path": "伤寒论总论.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "一句话的玩味.md"
-    },
-    {
-      "basename": "滑石",
-      "path": "人纪/滑石.md"
-    },
-    {
-      "basename": "191 中药",
-      "path": "人纪/191 中药.md"
-    },
-    {
-      "basename": "003 伤寒论",
-      "path": "人纪/003 伤寒论.md"
     }
   ],
   "omittedPaths": [],
