@@ -6,7 +6,7 @@
       {
         "id": "f83b90b955526c29",
         "type": "tabs",
-        "dimension": 43.203883495145625,
+        "dimension": 36.17250673854448,
         "children": [
           {
             "id": "1b75d3e514577efe",
@@ -125,7 +125,7 @@
       {
         "id": "d0f969e0dafec077",
         "type": "tabs",
-        "dimension": 56.79611650485437,
+        "dimension": 63.82749326145552,
         "children": [
           {
             "id": "f6b1a27863651339",
@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-04-18.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脾",
+                "query": "tag:#mcl/list-grid-vide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
