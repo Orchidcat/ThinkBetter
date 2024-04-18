@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "2024-04-18.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,11 +214,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d530cafc5a9706d0",
+  "active": "578f166f4a81f14c",
   "lastOpenFiles": [
     "人纪/001 @MOC中医.md",
-    "人纪/+Home.md",
     "2024-04-18.md",
+    "Sources/Pasted image 20240418121504.png",
+    "人纪/+Home.md",
     "OB插件.md",
     "人纪/养生之道.md",
     "WorkFlowMOC.md",
@@ -243,7 +244,6 @@
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/鸡内金.md",
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
-    "人纪/伤寒论/伤寒杂病论.md",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
     "Distill",
@@ -257,7 +257,6 @@
     "Sources/Pasted image 20240329154744.png",
     "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
-    "Sources/Pasted image 20240324133734.png",
     "Book",
     "Spaces/Home",
     "Spaces",
