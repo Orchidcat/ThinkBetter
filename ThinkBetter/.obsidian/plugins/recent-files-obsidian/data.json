@@ -5,6 +5,10 @@
       "path": "2024-04-18.md"
     },
     {
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
+    },
+    {
       "basename": "阅读与书籍 MOC",
       "path": "阅读与书籍 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-04-10",
       "path": "2024-04-10.md"
-    },
-    {
-      "basename": "如何学习",
-      "path": "Book/如何学习.md"
     }
   ],
   "omittedPaths": [],
