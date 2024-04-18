@@ -5,5 +5,8 @@
   "translucency": true,
   "accentColor": "",
   "showViewHeader": false,
-  "textFontFamily": "Input Sans"
+  "textFontFamily": "Input Sans",
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ]
 }
