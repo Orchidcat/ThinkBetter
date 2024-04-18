@@ -6,7 +6,7 @@
       {
         "id": "f83b90b955526c29",
         "type": "tabs",
-        "dimension": 36.17250673854448,
+        "dimension": 16.289945440374122,
         "children": [
           {
             "id": "1b75d3e514577efe",
@@ -125,7 +125,7 @@
       {
         "id": "d0f969e0dafec077",
         "type": "tabs",
-        "dimension": 63.82749326145552,
+        "dimension": 83.71005455962587,
         "children": [
           {
             "id": "f6b1a27863651339",
@@ -174,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcl/list-grid-vide",
+                "query": "tag:#mcl/list-grid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
