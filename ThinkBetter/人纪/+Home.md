@@ -4,9 +4,18 @@ aliases:
   - Home
 sticker: 
 ---
-![[Pasted image 20240222103952.png]]
-[[Clear Thinking#^924db7]]
-# Home 
+[![[Pasted image 20240222103952.png]](<Clear Thinking>)
+
+> [!multi-column]
+>
+>> [!note]+ 个人🚀
+>> ```dataview 
+>> list from #个人
+>> ```
+>
+>> [!question]+ Q 
+>> your notes or lists here. using markdown formatting
+>
 
 [[+HomeMOC]]
 - 个人😋

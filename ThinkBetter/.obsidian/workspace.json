@@ -6,6 +6,7 @@
       {
         "id": "f83b90b955526c29",
         "type": "tabs",
+        "dimension": 43.203883495145625,
         "children": [
           {
             "id": "1b75d3e514577efe",
@@ -119,11 +120,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "d0f969e0dafec077",
         "type": "tabs",
+        "dimension": 56.79611650485437,
         "children": [
           {
             "id": "f6b1a27863651339",
@@ -149,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基本Q.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基本Q.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -281,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基本Q.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -320,20 +321,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "50e8be52657a191a",
+  "active": "7a05f7509367633a",
   "lastOpenFiles": [
+    "Book/Clear Thinking.md",
     "人纪/+Home.md",
+    "2024-04-18.md",
+    "人纪/养生之道.md",
+    "基本Q.md",
     "NotToDo.md",
     "WorkFlowMOC.md",
     "YEAR MOC⌛.md",
     "学习方法.md",
     "GTD.md",
-    "人纪/养生之道.md",
-    "2024-04-18.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "OB插件.md",
     "Map.canvas",
-    "Book/Clear Thinking.md",
     "人纪/泌尿道路.md",
     "人纪/肝脾位置之解说.md",
     "人纪/脾胃病症.md",
@@ -349,7 +351,6 @@
     "人纪/鸡内金.md",
     "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "人纪/伤寒论/伤寒杂病论.md",
-    "人纪/一张有趣的图.md",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
     "Distill",
