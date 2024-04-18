@@ -1,10 +1,3 @@
----
-aliases:
-  - "000"
-  - Home
-sticker: 
----
-[![[Pasted image 20240222103952.png]](<Clear Thinking>)
 
 > [!multi-column]
 >
