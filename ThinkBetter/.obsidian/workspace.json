@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/泌尿道路.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/泌尿道路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "人纪/泌尿道路.md"
               }
             }
           },
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/泌尿道路.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,13 +188,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1b75d3e514577efe",
+  "active": "33a4aebe71b51376",
   "lastOpenFiles": [
+    "人纪/医学衷中参西录.md",
+    "人纪/泌尿道路.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/+Home.md",
+    "sqlite MOC.md",
+    "Book/折肱漫录.md",
+    "人纪/少阳为游部⭐.md",
     "阅读与书籍 MOC.md",
     "人纪/概念 MOC.md",
-    "人纪/+Home.md",
-    "人纪/001 @MOC中医.md",
-    "人纪/泌尿道路.md",
     "人纪/人参.md",
     "人纪/089 人纪 - 神农本草经.md",
     "人纪/鸡内金.md",
@@ -205,7 +210,6 @@
     "人纪/医者的自修.md",
     "人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "Tools.md",
-    "Book/折肱漫录.md",
     "Sources/Pasted image 20240412113211.png",
     "+Home.md",
     "人纪/033 二问汗.md",
@@ -213,9 +217,6 @@
     "知己.md",
     "OB插件.md",
     "人纪/194 中医诊断学.md",
-    "人纪/146 问小儿.md",
-    "人纪/144 问睡眠.md",
-    "人纪/174 一问寒热.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/药",
     "Distill",

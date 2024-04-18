@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "泌尿道路",
+      "path": "人纪/泌尿道路.md"
+    },
+    {
+      "basename": "医学衷中参西录",
+      "path": "人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "001 @MOC中医",
+      "path": "人纪/001 @MOC中医.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "sqlite MOC",
+      "path": "sqlite MOC.md"
+    },
+    {
+      "basename": "折肱漫录",
+      "path": "Book/折肱漫录.md"
     },
     {
       "basename": "阅读与书籍 MOC",
@@ -11,14 +31,6 @@
     {
       "basename": "概念 MOC",
       "path": "人纪/概念 MOC.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "泌尿道路",
-      "path": "人纪/泌尿道路.md"
     },
     {
       "basename": "人参",
@@ -63,10 +75,6 @@
     {
       "basename": "Tools",
       "path": "Tools.md"
-    },
-    {
-      "basename": "折肱漫录",
-      "path": "Book/折肱漫录.md"
     },
     {
       "basename": "033 二问汗",
@@ -157,10 +165,6 @@
       "path": "人纪/048 桂枝加附子汤.md"
     },
     {
-      "basename": "医学衷中参西录",
-      "path": "人纪/医学衷中参西录.md"
-    },
-    {
       "basename": "伤寒论总论",
       "path": "伤寒论总论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "145 问疼痛",
       "path": "人纪/145 问疼痛.md"
-    },
-    {
-      "basename": "159 相须",
-      "path": "人纪/159 相须.md"
     }
   ],
   "omittedPaths": [],
