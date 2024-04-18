@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "d0f969e0dafec077",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "2024-04-18.md"
               }
             }
           },
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -321,11 +321,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7a05f7509367633a",
+  "active": "f6b1a27863651339",
   "lastOpenFiles": [
-    "Book/Clear Thinking.md",
-    "人纪/+Home.md",
+    "OB插件.md",
     "2024-04-18.md",
+    "人纪/+Home.md",
+    "Book/Clear Thinking.md",
     "人纪/养生之道.md",
     "基本Q.md",
     "NotToDo.md",
@@ -334,7 +335,6 @@
     "学习方法.md",
     "GTD.md",
     "人纪/000 @ 人纪 - Map.canvas",
-    "OB插件.md",
     "Map.canvas",
     "人纪/泌尿道路.md",
     "人纪/肝脾位置之解说.md",
