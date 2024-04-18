@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "0, 132, 255",
+      "icon": {
+        "name": "guitar",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "guitar",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.2.0",
