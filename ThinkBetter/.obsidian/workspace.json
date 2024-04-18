@@ -23,11 +23,14 @@
             "id": "e21ab6a28d6f016a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "人纪/+Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Map.canvas",
+                "viewState": {
+                  "x": -338.8487348483636,
+                  "y": 370.45182519621846,
+                  "zoom": -0.3333333333333334
+                }
               }
             }
           }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "Map.canvas"
               }
             }
           },
@@ -163,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,8 +206,9 @@
   },
   "active": "e21ab6a28d6f016a",
   "lastOpenFiles": [
-    "Book/Clear Thinking.md",
     "人纪/+Home.md",
+    "Map.canvas",
+    "Book/Clear Thinking.md",
     "人纪/泌尿道路.md",
     "人纪/肝脾位置之解说.md",
     "人纪/脾胃病症.md",
@@ -229,7 +233,6 @@
     "Sources/Pasted image 20240412113211.png",
     "+Home.md",
     "人纪/033 二问汗.md",
-    "Workbench.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "人纪/药",
     "Distill",
@@ -251,7 +254,6 @@
     "人纪/中药材",
     "人体流转.canvas",
     "Excalidraw",
-    "Canvas 使用学习.canvas",
-    "未命名.canvas"
+    "Canvas 使用学习.canvas"
   ]
 }

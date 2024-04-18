@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Map",
+      "path": "Map.canvas"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 黄帝内经",
       "path": "人纪/002 黄帝内经.md"
-    },
-    {
-      "basename": "057 黄帝外经",
-      "path": "人纪/057 黄帝外经.md"
     }
   ],
   "omittedPaths": [],
