@@ -5,12 +5,16 @@
       "path": "2024-04-18.md"
     },
     {
-      "basename": "阅读与书籍 MOC",
-      "path": "阅读与书籍 MOC.md"
+      "basename": "002 黄帝内经",
+      "path": "人纪/002 黄帝内经.md"
     },
     {
       "basename": "001 @MOC中医",
       "path": "人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "阅读与书籍 MOC",
+      "path": "阅读与书籍 MOC.md"
     },
     {
       "basename": "+Home",
@@ -27,10 +31,6 @@
     {
       "basename": "Map",
       "path": "Map.canvas"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "人纪/002 黄帝内经.md"
     },
     {
       "basename": "005 八纲辨证",

@@ -57,6 +57,18 @@
                 }
               }
             }
+          },
+          {
+            "id": "1fd0f9b06d09d68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/002 黄帝内经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -231,14 +243,14 @@
   },
   "active": "578f166f4a81f14c",
   "lastOpenFiles": [
-    "阅读与书籍 MOC.md",
+    "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "2024-04-18.md",
+    "阅读与书籍 MOC.md",
     "+Home.md",
     "+HomeMOC.md",
     "202212290921.md",
     "Map.canvas",
-    "人纪/002 黄帝内经.md",
     "人纪/+Home.md",
     "Sources/Pasted image 20240418121504.png",
     "OB插件.md",
