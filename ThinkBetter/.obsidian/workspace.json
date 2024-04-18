@@ -4,131 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f83b90b955526c29",
+        "id": "54c9ea1ab68cd733",
         "type": "tabs",
-        "dimension": 16.289945440374122,
         "children": [
           {
-            "id": "1b75d3e514577efe",
+            "id": "76bf36836b663ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/泌尿道路.md",
+                "file": "人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e21ab6a28d6f016a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "人纪/000 @ 人纪 - Map.canvas",
-                "viewState": {
-                  "x": -880,
-                  "y": -572.0696491465944,
-                  "zoom": -1.6666666666666665
-                }
-              }
-            }
-          },
-          {
-            "id": "586f80471f00c4a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OB插件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7786cfd5815448b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WorkFlowMOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a05f7509367633a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/+Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e8be52657a191a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基本Q.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9bb2ac159c5fc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotToDo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4242465eaf5a443b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YEAR MOC⌛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4599001e7ed87d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d0f969e0dafec077",
-        "type": "tabs",
-        "dimension": 83.71005455962587,
-        "children": [
-          {
-            "id": "f6b1a27863651339",
+            "id": "578f166f4a81f14c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,11 +100,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -247,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "人纪/001 @MOC中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-18.md"
+                "file": "人纪/001 @MOC中医.md"
               }
             }
           },
@@ -269,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "人纪/001 @MOC中医.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -308,13 +201,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f6b1a27863651339",
+  "active": "76bf36836b663ff2",
   "lastOpenFiles": [
-    "OB插件.md",
+    "人纪/+Home.md",
     "2024-04-18.md",
+    "OB插件.md",
     "人纪/养生之道.md",
     "WorkFlowMOC.md",
-    "人纪/+Home.md",
     "Book/Clear Thinking.md",
     "基本Q.md",
     "NotToDo.md",
