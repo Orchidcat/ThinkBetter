@@ -128,12 +128,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -229,7 +228,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "578f166f4a81f14c",
+  "active": "3c10cbcb94f26910",
   "lastOpenFiles": [
     "人纪/002 黄帝内经.md",
     "2024-04-18.md",
