@@ -5,12 +5,16 @@
       "path": "2024-04-18.md"
     },
     {
-      "basename": "WorkFlowMOC",
-      "path": "WorkFlowMOC.md"
-    },
-    {
       "basename": "OB插件",
       "path": "OB插件.md"
+    },
+    {
+      "basename": "养生之道",
+      "path": "人纪/养生之道.md"
+    },
+    {
+      "basename": "WorkFlowMOC",
+      "path": "WorkFlowMOC.md"
     },
     {
       "basename": "+Home",
@@ -19,10 +23,6 @@
     {
       "basename": "Clear Thinking",
       "path": "Book/Clear Thinking.md"
-    },
-    {
-      "basename": "养生之道",
-      "path": "人纪/养生之道.md"
     },
     {
       "basename": "基本Q",

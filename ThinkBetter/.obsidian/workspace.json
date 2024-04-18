@@ -138,18 +138,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd9981c6cd724935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/养生之道.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -322,12 +310,12 @@
   },
   "active": "f6b1a27863651339",
   "lastOpenFiles": [
-    "WorkFlowMOC.md",
-    "2024-04-18.md",
     "OB插件.md",
+    "2024-04-18.md",
+    "人纪/养生之道.md",
+    "WorkFlowMOC.md",
     "人纪/+Home.md",
     "Book/Clear Thinking.md",
-    "人纪/养生之道.md",
     "基本Q.md",
     "NotToDo.md",
     "YEAR MOC⌛.md",
