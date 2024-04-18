@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95a0e42c95ba860c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/脾胃病症.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/泌尿道路.md",
+                "file": "人纪/脾胃病症.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/泌尿道路.md"
+                "file": "人纪/脾胃病症.md"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/泌尿道路.md",
+                "file": "人纪/脾胃病症.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,10 +201,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "33a4aebe71b51376",
+  "active": "95a0e42c95ba860c",
   "lastOpenFiles": [
-    "人纪/医学衷中参西录.md",
     "人纪/泌尿道路.md",
+    "人纪/医学衷中参西录.md",
     "人纪/001 @MOC中医.md",
     "人纪/+Home.md",
     "sqlite MOC.md",
