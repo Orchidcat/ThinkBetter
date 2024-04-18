@@ -59,5 +59,5 @@ new one should we know
 
 
 ```dataview 
-CALENDAR file.mday
+CALENDAR 
 ```
