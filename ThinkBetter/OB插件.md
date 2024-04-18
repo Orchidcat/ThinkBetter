@@ -60,6 +60,18 @@
 - Annotator：对PDF进行标注 
 
 
+[CSS 模块化显示](https://efemkay.github.io/obsidian-modular-css-layout/)
+
+wide Views 
+Multi Column
+	CSS snippet file: [MCL Multi Column.css](https://github.com/efemkay/obsidian-modular-css-layout/blob/main/MCL%20Multi%20Column.css)
+	使用自定义标注的多列布局`[!multi-column]`
+	使用自定义标注的隐形容器`[!blank-container]`
+	多列的子弹列表（a)笔记级别 （b)块级别
+	使用标注元数据的侧/浮动列`<left|right>`
+
+Gallery Cards
+
 
 
 

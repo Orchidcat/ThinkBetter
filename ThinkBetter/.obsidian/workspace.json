@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "586f80471f00c4a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OB插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "OB插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-18.md"
+                "file": "OB插件.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "OB插件.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +214,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e21ab6a28d6f016a",
+  "active": "586f80471f00c4a0",
   "lastOpenFiles": [
     "人纪/+Home.md",
     "2024-04-18.md",
