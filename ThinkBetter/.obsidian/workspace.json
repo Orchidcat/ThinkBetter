@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "阅读与书籍 MOC.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -228,13 +229,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3c10cbcb94f26910",
+  "active": "578f166f4a81f14c",
   "lastOpenFiles": [
-    "人纪/002 黄帝内经.md",
-    "2024-04-18.md",
     "阅读与书籍 MOC.md",
-    "Map.canvas",
     "人纪/001 @MOC中医.md",
+    "2024-04-18.md",
+    "+Home.md",
+    "+HomeMOC.md",
+    "202212290921.md",
+    "Map.canvas",
+    "人纪/002 黄帝内经.md",
     "人纪/+Home.md",
     "Sources/Pasted image 20240418121504.png",
     "OB插件.md",
@@ -256,9 +260,6 @@
     "人纪/少阳为游部⭐.md",
     "人纪/概念 MOC.md",
     "人纪/人参.md",
-    "人纪/089 人纪 - 神农本草经.md",
-    "人纪/鸡内金.md",
-    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
     "Distill",
