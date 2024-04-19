@@ -25,7 +25,6 @@ list startDate+author + rating  from #UnReadBook
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
-[Question:: show new file 123sdf]
 
 ```dataview
 table type as "描述" ,file.cday.month as "月" from #Book 
