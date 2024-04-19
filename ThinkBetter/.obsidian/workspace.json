@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2024",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "2024-04-19.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,9 +188,9 @@
   },
   "active": "7a0bcd64d95a00bb",
   "lastOpenFiles": [
+    "人纪/+Home.md",
     "第一性原理.md",
     "2024-04-19.md",
-    "人纪/+Home.md",
     "2024-04-18.md",
     "愿望清单 MOC.md",
     "目标 MOC.md",
