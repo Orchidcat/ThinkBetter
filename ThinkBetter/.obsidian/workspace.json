@@ -4,74 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54c9ea1ab68cd733",
+        "id": "48da6ebaa1f1e1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "76bf36836b663ff2",
+            "id": "0e5a47bafb03066d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/001 @MOC中医.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578f166f4a81f14c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d530cafc5a9706d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读与书籍 MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb7ae4f3f9ebc364",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Map.canvas",
-                "viewState": {
-                  "x": -484.0826071244657,
-                  "y": 274.59032390623463,
-                  "zoom": -1.1741925735050087
-                }
-              }
-            }
-          },
-          {
-            "id": "1fd0f9b06d09d68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Map.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,16 +177,15 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-calibre-plugin:Calibre": false,
       "templater-obsidian:Templater": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "obsidian42-brat:BRAT": false
+      "smart-random-note:Open Random Note from Search": false
     }
   },
   "active": "e805437fea5ff742",
   "lastOpenFiles": [
+    "2024-04-18.md",
     "人纪/002 黄帝内经.md",
     "阅读与书籍 MOC.md",
     "人纪/001 @MOC中医.md",
-    "2024-04-18.md",
     "Map.canvas",
     "+Home.md",
     "+HomeMOC.md",
