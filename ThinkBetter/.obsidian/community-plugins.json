@@ -41,5 +41,6 @@
   "templater-obsidian",
   "smart-random-note",
   "obsidian-annotator",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "obsidian-snippet-downloader"
 ]

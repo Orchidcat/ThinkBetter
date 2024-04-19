@@ -7,6 +7,8 @@
   "showViewHeader": false,
   "textFontFamily": "Input Sans",
   "enabledCssSnippets": [
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
   ]
 }
