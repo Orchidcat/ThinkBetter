@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,10 +54,22 @@
               "state": {
                 "file": "Map.canvas",
                 "viewState": {
-                  "x": -660,
-                  "y": -55,
-                  "zoom": -0.6166713604484946
+                  "x": 80,
+                  "y": -97,
+                  "zoom": -1
                 }
+              }
+            }
+          },
+          {
+            "id": "9e226fd173fadd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -220,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,16 +256,17 @@
   },
   "active": "179d57aa31fbb5b1",
   "lastOpenFiles": [
-    "人纪/000 @ 人纪 - Map.canvas",
+    "Questions.md",
     "Map.canvas",
+    "人纪/000 @ 人纪 - Map.canvas",
+    "2024-04-19.md",
+    "Books.md",
     "人纪/+Home.md",
     "NotToDo.md",
-    "2024-04-19.md",
     "基本Q.md",
     "第一性原理.md",
     "GTD.md",
     "人纪/养生之道.md",
-    "阅读与书籍 MOC.md",
     "糟糕的争论.md",
     "一周是一年的2%.md",
     "kindle使用技巧.md",
@@ -269,7 +283,6 @@
     "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
     "+Home.md",
-    "+HomeMOC.md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",

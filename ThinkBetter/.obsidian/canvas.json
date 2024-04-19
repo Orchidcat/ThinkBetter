@@ -2,7 +2,7 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "newFileLocation": "current",
-  "defaultWheelBehavior": "zoom",
+  "defaultWheelBehavior": "pan",
   "cardLabelVisibility": "hover",
   "zoomBreakpoint": 0.54
 }
