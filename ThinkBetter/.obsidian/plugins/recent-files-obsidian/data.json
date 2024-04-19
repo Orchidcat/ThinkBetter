@@ -5,6 +5,10 @@
       "path": "人纪/+Home.md"
     },
     {
+      "basename": "Map",
+      "path": "Map.canvas"
+    },
+    {
       "basename": "第一性原理",
       "path": "第一性原理.md"
     },

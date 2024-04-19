@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "107884009bba8851",
+        "id": "5ef1711715f112ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fe66bf41672d2b",
+            "id": "6e210627dc317855",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "question",
+                "query": "canv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,7 +185,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e4fe66bf41672d2b",
+  "active": "6e210627dc317855",
   "lastOpenFiles": [
     "第一性原理.md",
     "糟糕的争论.md",

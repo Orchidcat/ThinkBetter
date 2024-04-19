@@ -1,3 +1,4 @@
 {
-  "preview": true
+  "editor": false,
+  "outline": false
 }

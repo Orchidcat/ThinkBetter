@@ -1,19 +1,8 @@
 [[+HomeMOC]]
 
-DashBoard（tasks and daily notes)
-Questions(Question::This is a question…)
-
-
-
-
-
-
-
-
 
 - 个人😋
 	- [[养生之道]]
-	- 
 	- [[GTD]]
 	- [[学习方法]]🔬
 	- [[YEAR MOC⌛]]
