@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fca684220a998ff",
+        "id": "107884009bba8851",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5818d7ff11722d",
+            "id": "e4fe66bf41672d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,14 +185,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1b5818d7ff11722d",
+  "active": "e4fe66bf41672d2b",
   "lastOpenFiles": [
-    "SQL Server is terminating because of fatal exception 80000003..md",
-    "kindle使用技巧.md",
-    "人纪/+Home.md",
     "第一性原理.md",
-    "十二经络歌诀.md",
+    "糟糕的争论.md",
     "2024-04-19.md",
+    "一周是一年的2%.md",
+    "人纪/+Home.md",
+    "kindle使用技巧.md",
+    "SQL Server is terminating because of fatal exception 80000003..md",
+    "十二经络歌诀.md",
     "中医执业.md",
     "人纪/204 zy-总论.md",
     "人纪/203 zy-诊断学.md",
@@ -213,8 +215,6 @@
     "人纪/养生之道.md",
     "WorkFlowMOC.md",
     "Book/Clear Thinking.md",
-    "基本Q.md",
-    "NotToDo.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
