@@ -1,15 +1,4 @@
 {
-	"nodes":[
-		{"id":"0de169405b35758f","x":-1120,"y":-230,"width":250,"height":60,"type":"text","text":"人体的正常循环"},
-		{"id":"5f9e09cf440a8563","x":-1120,"y":-30,"width":250,"height":60,"type":"text","text":"异常状态"},
-		{"id":"0d5b8b33cd9dc6e1","x":-995,"y":120,"width":250,"height":60,"type":"text","text":"定位，定性，定量"},
-		{"id":"e41c40d489fe2970","x":-720,"y":-360,"width":400,"height":80,"type":"file","file":"人纪/养生之道.md"},
-		{"id":"556dfa6de4640caf","x":-600,"y":50,"width":400,"height":200,"type":"file","file":"人纪/005 八纲辨证.md"}
-	],
-	"edges":[
-		{"id":"b75eea6ef6e2aa07","fromNode":"0de169405b35758f","fromSide":"right","toNode":"e41c40d489fe2970","toSide":"left"},
-		{"id":"d07ec71318f18956","fromNode":"0de169405b35758f","fromSide":"bottom","toNode":"5f9e09cf440a8563","toSide":"top"},
-		{"id":"bd16bf7239a982f6","fromNode":"5f9e09cf440a8563","fromSide":"bottom","toNode":"0d5b8b33cd9dc6e1","toSide":"top"},
-		{"id":"45ea83e37008b719","fromNode":"0d5b8b33cd9dc6e1","fromSide":"right","toNode":"556dfa6de4640caf","toSide":"left"}
-	]
+	"nodes":[],
+	"edges":[]
 }
