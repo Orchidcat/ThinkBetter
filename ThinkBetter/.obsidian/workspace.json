@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "2024-04-19.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,10 +239,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c159cd6c9cf8d09f",
+  "active": "ab1d9926d2ffe58b",
   "lastOpenFiles": [
-    "2024-04-19.md",
     "Books.md",
+    "2024-04-19.md",
     "人纪/+Home.md",
     "人纪/My Epic Life Quest.md",
     "target note.md",
