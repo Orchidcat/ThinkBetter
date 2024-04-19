@@ -1,18 +1,3 @@
-
-> [!multi-column]
->
->> [!note]+ 个人🚀
->> ```dataview 
->> list from #个人
->> ```
->
->> [!question]+ Q 
->> ```dataview 
->> list Q from #人纪 
->> where Q>""
->> ```
->
-
 [[+HomeMOC]]
 - 个人😋
 	- [[养生之道]]
