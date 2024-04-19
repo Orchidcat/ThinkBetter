@@ -42,7 +42,5 @@
   "templater-obsidian",
   "smart-random-note",
   "obsidian-annotator",
-  "heatmap-calendar",
-  "obsidian42-brat",
-  "obsidian-snippet-downloader"
+  "heatmap-calendar"
 ]

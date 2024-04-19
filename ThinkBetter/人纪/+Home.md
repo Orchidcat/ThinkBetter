@@ -7,7 +7,10 @@
 >> ```
 >
 >> [!question]+ Q 
->> your notes or lists here. using markdown formatting
+>> ```dataview 
+>> list Q from #人纪 
+>> where Q>""
+>> ```
 >
 
 [[+HomeMOC]]
