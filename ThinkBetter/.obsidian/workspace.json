@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ef1711715f112ff",
+        "id": "fc5997cba3eac5f7",
         "type": "tabs",
         "children": [
           {
-            "id": "6e210627dc317855",
+            "id": "c7e53f83e735e6fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6e210627dc317855",
+  "active": "c7e53f83e735e6fa",
   "lastOpenFiles": [
     "第一性原理.md",
     "糟糕的争论.md",
