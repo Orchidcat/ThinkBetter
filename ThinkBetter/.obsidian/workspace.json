@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5165509f00a471be",
+        "id": "1878163da507dab1",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0bcd64d95a00bb",
+            "id": "605569deb804c976",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7a0bcd64d95a00bb",
+  "active": "605569deb804c976",
   "lastOpenFiles": [
     "人纪/+Home.md",
     "第一性原理.md",
