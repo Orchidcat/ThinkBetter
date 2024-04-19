@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
       "basename": "2024-04-19",
       "path": "2024-04-19.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "My Epic Life Quest",
       "path": "人纪/My Epic Life Quest.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
     },
     {
       "basename": "target note",

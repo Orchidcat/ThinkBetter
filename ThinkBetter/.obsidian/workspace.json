@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-19.md"
+                "file": "Books.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "Books.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,13 +239,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ab1d9926d2ffe58b",
+  "active": "c159cd6c9cf8d09f",
   "lastOpenFiles": [
+    "2024-04-19.md",
+    "Books.md",
     "人纪/+Home.md",
     "人纪/My Epic Life Quest.md",
-    "Books.md",
     "target note.md",
-    "2024-04-19.md",
     "人纪/000 @ 人纪 - Map.canvas",
     "Map.canvas",
     "Questions.md",
