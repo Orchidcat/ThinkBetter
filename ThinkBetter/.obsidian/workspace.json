@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,14 +64,6 @@
             }
           },
           {
-            "id": "33a4aebe71b51376",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6ca4a16542850dd7",
             "type": "leaf",
             "state": {
@@ -86,9 +78,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9ef950fd186c637e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "2024-04-19.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,8 +160,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,10 +187,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ae0b98e7c0a0173b",
+  "active": "e805437fea5ff742",
   "lastOpenFiles": [
-    "人纪/一张有趣的图.md",
+    "2024-04-19.md",
     "人纪/+Home.md",
+    "愿望清单 MOC.md",
+    "目标 MOC.md",
+    "人纪/一张有趣的图.md",
     "一句话的玩味.md",
     "2024-04-18.md",
     "人纪/002 黄帝内经.md",
@@ -216,9 +218,6 @@
     "人纪/肝脾位置之解说.md",
     "人纪/脾胃病症.md",
     "人纪/医学衷中参西录.md",
-    "sqlite MOC.md",
-    "Book/折肱漫录.md",
-    "人纪/少阳为游部⭐.md",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
     "Distill",
