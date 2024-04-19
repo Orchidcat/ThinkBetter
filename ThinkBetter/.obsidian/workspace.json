@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/My Epic Life Quest.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/My Epic Life Quest.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/My Epic Life Quest.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -251,13 +251,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "573123df4ed21bbd",
+  "active": "c159cd6c9cf8d09f",
   "lastOpenFiles": [
+    "人纪/000 @ 人纪 - Map.canvas",
+    "Books.md",
+    "2024-04-19.md",
     "人纪/+Home.md",
     "人纪/My Epic Life Quest.md",
-    "2024-04-19.md",
-    "Books.md",
-    "人纪/000 @ 人纪 - Map.canvas",
     "Map.canvas",
     "Questions.md",
     "NotToDo.md",
@@ -280,7 +280,6 @@
     "一句话的玩味.md",
     "人纪/002 黄帝内经.md",
     "人纪/001 @MOC中医.md",
-    "+Home.md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
