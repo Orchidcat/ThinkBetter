@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "preview",
+                "file": "ThinkBetter/Books.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/Books.md"
               }
             }
           }
@@ -165,13 +165,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "d3367a810dcb05d3",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/人纪/胸中之疾.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/OB插件.md",
-    "ThinkBetter/人纪/+Home.md",
     "2024-04-17.md",
     "ThinkBetter/Book/深入理解Java虚拟机.md",
     "ThinkBetter/Books.md",
