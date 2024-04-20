@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6f4206f043322b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/胸中之疾.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ccfcf3558910e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/脉诊学习.md",
+                "file": "ThinkBetter/2024-04-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "ThinkBetter/2024-04-18.md"
               }
             }
           }
@@ -165,16 +139,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d3367a810dcb05d3",
+  "active": "30063dcbbe47fe82",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/2024-04-19.md",
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/胸中之疾.md",
     "ThinkBetter/脉诊学习.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/OB插件.md",
     "2024-04-17.md",
     "ThinkBetter/Book/深入理解Java虚拟机.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/My Epic Life Quest.md",
     "ThinkBetter/target note.md",
     "ThinkBetter/Sources/Pasted image 20240419162829.png",
