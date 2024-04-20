@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "和解",
+                "query": "静脉曲",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md"
+                "file": "ThinkBetter/2024-04-19.md"
               }
             }
           }
@@ -167,11 +166,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1ccfcf3558910e65",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
-    "ThinkBetter/OB插件.md",
-    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/胸中之疾.md",
+    "ThinkBetter/脉诊学习.md",
+    "ThinkBetter/OB插件.md",
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/人纪/+Home.md",
     "2024-04-17.md",
