@@ -1,9 +1,14 @@
 {
   "baseFontSize": 15,
   "cssTheme": "Things",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": true,
   "accentColor": "",
   "showViewHeader": false,
-  "textFontFamily": "Input Sans"
+  "textFontFamily": "Input Sans",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
+  ]
 }

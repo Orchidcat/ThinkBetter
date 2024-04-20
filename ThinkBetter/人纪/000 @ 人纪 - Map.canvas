@@ -1,14 +1,24 @@
 {
 	"nodes":[
 		{"type":"group","id":"a6ba6d63b6291578","x":-2080,"y":-920,"width":480,"height":518,"label":"伤寒杂病论"},
-		{"type":"file","file":"人纪/057 黄帝外经.md","id":"15346a630778f258","x":-2080,"y":-1680,"width":200,"height":193},
 		{"type":"file","file":"人纪/002 黄帝内经.md","id":"ad2b783ab4c2f135","x":-1680,"y":-1487,"width":400,"height":240},
 		{"type":"file","file":"人纪/004 金匮要略.md","id":"3afdc84a7d274ae1","x":-2060,"y":-600,"width":400,"height":159},
 		{"type":"file","file":"人纪/003 伤寒论.md","id":"c4506b8a37188ef0","x":-2060,"y":-882,"width":400,"height":201,"color":"4"},
-		{"type":"file","file":"人纪/194 中医诊断学.md","id":"f0ebe98d43a05023","x":-1080,"y":-920,"width":400,"height":400}
+		{"type":"file","file":"人纪/194 中医诊断学.md","id":"f0ebe98d43a05023","x":-1080,"y":-920,"width":400,"height":400},
+		{"type":"file","file":"人纪/057 黄帝外经.md","id":"15346a630778f258","x":-1080,"y":-1463,"width":200,"height":193},
+		{"id":"a407b16e7ad19d34","type":"file","file":"2024-04-18.md","x":-360,"y":-882,"width":600,"height":1000},
+		{"id":"ec836833b4085a0a","type":"text","text":"人体的正常循环","x":-2980,"y":248,"width":250,"height":60},
+		{"id":"3c1a2df0b3f92686","type":"text","text":"异常状态","x":-2980,"y":448,"width":250,"height":60},
+		{"id":"5e429dbea0946ae9","type":"text","text":"定位，定性，定量","x":-2855,"y":598,"width":250,"height":60},
+		{"id":"f7b98d78149f9917","type":"file","file":"人纪/养生之道.md","x":-2580,"y":118,"width":400,"height":80,"color":"4"},
+		{"id":"152d0be53b75f1be","type":"file","file":"人纪/005 八纲辨证.md","x":-2460,"y":528,"width":400,"height":200}
 	],
 	"edges":[
 		{"id":"4ae3d3b08df13cf8","fromNode":"ad2b783ab4c2f135","fromSide":"right","toNode":"f0ebe98d43a05023","toSide":"left"},
-		{"id":"a411982384603133","fromNode":"ad2b783ab4c2f135","fromSide":"bottom","toNode":"a6ba6d63b6291578","toSide":"top"}
+		{"id":"a411982384603133","fromNode":"ad2b783ab4c2f135","fromSide":"bottom","toNode":"a6ba6d63b6291578","toSide":"top"},
+		{"id":"97def842715bbed0","fromNode":"ec836833b4085a0a","fromSide":"right","toNode":"f7b98d78149f9917","toSide":"left"},
+		{"id":"f64ace7f35a6f30a","fromNode":"ec836833b4085a0a","fromSide":"bottom","toNode":"3c1a2df0b3f92686","toSide":"top"},
+		{"id":"ca3abb230882aa09","fromNode":"3c1a2df0b3f92686","fromSide":"bottom","toNode":"5e429dbea0946ae9","toSide":"top"},
+		{"id":"8095aee379e30d1a","fromNode":"5e429dbea0946ae9","fromSide":"right","toNode":"152d0be53b75f1be","toSide":"left"}
 	]
 }

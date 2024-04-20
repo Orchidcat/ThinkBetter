@@ -4,34 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "34caea9943e4f3df",
+        "id": "4720c6c73d4e844b",
         "type": "tabs",
         "children": [
           {
-            "id": "32e8200e3824af68",
+            "id": "f34c0951c1ab7fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85c8bbf60ab0642f",
+            "id": "39dfe227f784e52f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "人纪/000 @ 人纪 - Map.canvas",
+                "viewState": {
+                  "x": -920,
+                  "y": -684.5,
+                  "zoom": -2.9510903995190536
+                }
+              }
+            }
+          },
+          {
+            "id": "c159cd6c9cf8d09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读与书籍 MOC.md",
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f677201c99c230c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814705189dbfc7fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -66,21 +106,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人参",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "33a4aebe71b51376",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
             }
           },
           {
@@ -98,13 +130,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f1cedd8ad1d4f4fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -139,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/001 @MOC中医.md"
+                "file": "2024-04-19.md"
               }
             }
           },
@@ -161,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/001 @MOC中医.md",
+                "file": "2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,13 +212,24 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "9d6900c969753f06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,47 +240,48 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "canvas:新建白板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workbench-obsidian:Workbench": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "homepage:Open homepage": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "janitor:Janitor: scan vault": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-calibre-plugin:Calibre": false,
       "templater-obsidian:Templater": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "workbench-obsidian:Workbench": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "32e8200e3824af68",
+  "active": "814705189dbfc7fc",
   "lastOpenFiles": [
-    "人纪/泌尿道路.md",
-    "阅读与书籍 MOC.md",
-    "人纪/001 @MOC中医.md",
-    "人纪/+Home.md",
-    "人纪/人参.md",
-    "人纪/089 人纪 - 神农本草经.md",
-    "人纪/鸡内金.md",
-    "人纪/伤寒论/辨太阳病脉证并治上第五.md",
-    "人纪/伤寒论/伤寒杂病论.md",
-    "人纪/一张有趣的图.md",
-    "人纪/兴趣 MOC.md",
-    "人纪/概念 MOC.md",
-    "写点儿啥.md",
-    "人纪/医者的自修.md",
-    "人纪/伤寒论/辨太阳病脉证并治下第七.md",
-    "Tools.md",
-    "Book/折肱漫录.md",
-    "Sources/Pasted image 20240412113211.png",
-    "+Home.md",
-    "人纪/033 二问汗.md",
-    "Workbench.md",
-    "知己.md",
-    "OB插件.md",
-    "人纪/194 中医诊断学.md",
-    "人纪/146 问小儿.md",
-    "人纪/144 问睡眠.md",
-    "人纪/174 一问寒热.md",
+    "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
+    "Books.md",
+    "2024-04-18.md",
+    "2024-04-19.md",
+    "Book/深入理解Java虚拟机.md",
+    "自己动手写Java虚拟机.md",
+    "人纪/169 腰背维修师，脊柱保健秘诀.md",
+    "人纪/针灸甲乙经.md",
+    "中医执业.md",
+    "American Steel.md",
+    "人纪/+Home.md",
+    "人纪/My Epic Life Quest.md",
+    "target note.md",
+    "Map.canvas",
+    "Questions.md",
+    "NotToDo.md",
+    "基本Q.md",
+    "第一性原理.md",
+    "GTD.md",
+    "人纪/养生之道.md",
+    "糟糕的争论.md",
+    "一周是一年的2%.md",
+    "kindle使用技巧.md",
+    "SQL Server is terminating because of fatal exception 80000003..md",
+    "十二经络歌诀.md",
+    "人纪/204 zy-总论.md",
+    "人纪/203 zy-诊断学.md",
+    "Sources/Pasted image 20240418121504.png",
+    "Sources/Pasted image 20240412113211.png",
     "人纪/药",
     "Distill",
     "Books",
@@ -241,7 +294,6 @@
     "Sources/Pasted image 20240329154744.png",
     "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
-    "Sources/Pasted image 20240324133734.png",
     "Book",
     "Spaces/Home",
     "Spaces",
@@ -249,7 +301,6 @@
     "人纪/中药材",
     "人体流转.canvas",
     "Excalidraw",
-    "Canvas 使用学习.canvas",
-    "未命名.canvas"
+    "Canvas 使用学习.canvas"
   ]
 }

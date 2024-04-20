@@ -9,7 +9,6 @@
   "workbench-obsidian",
   "calendar",
   "better-word-count",
-  "sliding-panes-obsidian",
   "obsidian-outliner",
   "dataview",
   "obsidian-zoom",
@@ -24,7 +23,6 @@
   "quick-explorer",
   "various-complements",
   "obsidian-to-anki-plugin",
-  "flashcards-obsidian",
   "obsidian-better-command-palette",
   "note-refactor-obsidian",
   "obsidian-minimal-settings",
@@ -43,5 +41,6 @@
   "templater-obsidian",
   "smart-random-note",
   "obsidian-annotator",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "obsidian-snippet-downloader"
 ]

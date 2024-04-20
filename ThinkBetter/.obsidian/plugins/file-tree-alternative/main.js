@@ -734,6 +734,7 @@ const eventTypes = {
     activeFileChange: 'fta-active-file-change',
     refreshView: 'fta-refresh-view',
     revealFile: 'fta-reveal-file',
+    revealFolder: 'fta-reveal-folder',
     vaultChange: 'fta-vault-change',
     createNewNote: 'fta-create-new-note',
 };
@@ -859,6 +860,7 @@ class VaultChangeModal extends obsidian.Modal {
         }
         else if (this.action === 'create note' || this.action === 'create folder') {
             inputEl.value = 'Untitled';
+            inputEl.select();
         }
         inputEl.focus();
         // Buttons
@@ -882,7 +884,9 @@ class VaultChangeModal extends obsidian.Modal {
             let newName = inputEl.value;
             if (this.action === 'rename') {
                 // Manual Rename Handler For md Files
-                newName = newName + '.' + this.file.path.slice(this.file.path.lastIndexOf('.') + 1);
+                if (this.file.path.endsWith('.md')) {
+                    newName = newName + '.' + this.file.path.slice(this.file.path.lastIndexOf('.') + 1);
+                }
                 // Folder Note files to be updated
                 if (this.file instanceof obsidian.TFolder && this.plugin.settings.folderNote) {
                     let folderNoteFile = this.app.vault.getAbstractFileByPath(this.file.path + '/' + this.file.name + '.md');
@@ -951,7 +955,8 @@ function getAllFoldersInVault(app) {
 }
 
 // Helper Function To Get List of Files
-const getFilesUnderPath = (path, plugin, getAllFiles) => {
+const getFilesUnderPath = (params) => {
+    const { path, plugin, getAllFiles, excludedExtensions, excludedFolders } = params;
     var filesUnderPath = [];
     var showFilesFromSubFolders = getAllFiles ? true : plugin.settings.showFilesFromSubFolders;
     var folderObj = plugin.app.vault.getAbstractFileByPath(path);
@@ -959,8 +964,13 @@ const getFilesUnderPath = (path, plugin, getAllFiles) => {
     function recursiveFx(folderObj, app) {
         if (folderObj instanceof obsidian.TFolder && folderObj.children) {
             for (let child of folderObj.children) {
-                if (child instanceof obsidian.TFile)
+                if (child instanceof obsidian.TFile) {
+                    if (excludedExtensions.includes(child.extension) ||
+                        (plugin.settings.hideAttachments && child.path.toLowerCase().includes(plugin.settings.attachmentsFolderName.toLowerCase())) ||
+                        excludedFolders.includes(child.parent.path))
+                        continue;
                     filesUnderPath.push(TFile2OZFile(child));
+                }
                 if (child instanceof obsidian.TFolder && showFilesFromSubFolders)
                     recursiveFx(child);
             }
@@ -990,7 +1000,8 @@ const isFolderNote = (t) => {
     return t.extension === 'md' && t.basename === t.parent.name;
 };
 // Helper Function to Create Folder Tree
-const createFolderTree = (startFolder) => {
+const createFolderTree = (params) => {
+    const { startFolder, excludedFolders, plugin } = params;
     let fileTree = { folder: startFolder, children: [] };
     function recursive(folder, object) {
         if (!(folder && folder.children))
@@ -998,6 +1009,10 @@ const createFolderTree = (startFolder) => {
         for (let child of folder.children) {
             if (child instanceof obsidian.TFolder) {
                 let childFolder = child;
+                if ((plugin.settings.hideAttachments && childFolder.name === plugin.settings.attachmentsFolderName) ||
+                    (excludedFolders.length > 0 && excludedFolders.contains(child.path))) {
+                    continue;
+                }
                 let newObj = { folder: childFolder, children: [] };
                 object.children.push(newObj);
                 if (childFolder.children)
@@ -1078,6 +1093,18 @@ const createNewFile = (e, folderPath, plugin) => __awaiter(void 0, void 0, void 
     let modal = new VaultChangeModal(plugin, targetFolder, 'create note');
     modal.open();
 });
+const getBookmarksPluginItems = () => {
+    return app.internalPlugins.plugins['bookmarks'].instance.items;
+};
+const getBookmarkTitle = (title) => {
+    let bookmarkItems = getBookmarksPluginItems();
+    let titleParts = title.split('/');
+    let currentItem = bookmarkItems.find((b) => b.title === titleParts[0]);
+    for (let i = 1; i < titleParts.length; i++) {
+        currentItem = currentItem.items.find((b) => b.title === titleParts[i]);
+    }
+    return currentItem;
+};
 
 /**
  * Copyright (c) Meta Platforms, Inc. and affiliates.
@@ -2834,8 +2861,14 @@ const handleOnDropFiles = (params) => {
     }));
 };
 const getFilesWithName = (params) => {
-    let { searchPhrase, searchFolder, plugin, getAllFiles } = params;
-    var files = getFilesUnderPath(searchFolder, plugin, getAllFiles);
+    let { searchPhrase, searchFolder, plugin, getAllFiles, excludedExtensions, excludedFolders } = params;
+    var files = getFilesUnderPath({
+        path: searchFolder,
+        plugin: plugin,
+        excludedExtensions: excludedExtensions,
+        excludedFolders: excludedFolders,
+        getAllFiles: getAllFiles,
+    });
     var filteredFiles = files.filter((file) => file.basename.toLowerCase().includes(searchPhrase.toLowerCase().trimStart()));
     return filteredFiles;
 };
@@ -2868,9 +2901,15 @@ const getFileTags = (params) => {
     return fileTags;
 };
 const getFilesWithTag = (params) => {
-    let { searchTag, plugin, focusedFolder } = params;
+    let { searchTag, plugin, focusedFolder, excludedExtensions, excludedFolders } = params;
     let filesWithTag = new Set();
-    let ozFiles = getFilesUnderPath(plugin.settings.allSearchOnlyInFocusedFolder ? focusedFolder.path : '/', plugin, true);
+    let ozFiles = getFilesUnderPath({
+        path: plugin.settings.allSearchOnlyInFocusedFolder ? focusedFolder.path : '/',
+        plugin: plugin,
+        excludedExtensions: excludedExtensions,
+        excludedFolders: excludedFolders,
+        getAllFiles: true,
+    });
     for (let ozFile of ozFiles) {
         let fileTags = getFileTags({
             f: ozFile,
@@ -2895,24 +2934,9 @@ const handleRevealActiveFileButton = (params) => {
     window.dispatchEvent(event);
 };
 // Sort - Filter Files Depending on Preferences
-const customFiles = (params) => {
-    let { fileList, excludedExtensions, excludedFolders, plugin, ozPinnedFiles } = params;
-    let sortedfileList;
-    // Remove Files with Excluded Extensions
-    if (excludedExtensions.length > 0) {
-        sortedfileList = fileList.filter((file) => !excludedExtensions.contains(file.extension));
-    }
-    // Remove Files from Excluded Folders
-    if (excludedFolders.length > 0) {
-        sortedfileList = sortedfileList.filter((file) => {
-            for (let exc of excludedFolders) {
-                if (file.path.startsWith(exc)) {
-                    return false;
-                }
-            }
-            return true;
-        });
-    }
+const sortedFiles = (params) => {
+    let { fileList, plugin, ozPinnedFiles } = params;
+    let sortedfileList = fileList;
     // Remove Files for Folder Note (If file name is same as parent folder name)
     if (plugin.settings.folderNote) {
         sortedfileList = sortedfileList.filter((f) => !f.isFolderNote);
@@ -2982,7 +3006,7 @@ const sortFileListClickHandle = (params) => {
 const searchAllRegex = new RegExp('all:(.*)?');
 const searchTagRegex = new RegExp('tag:(.*)?');
 const handleSearch = (params) => {
-    let { e, activeFolderPath, setSearchPhrase, setOzFileList, setTreeHeader, plugin, focusedFolder } = params;
+    let { e, activeFolderPath, setSearchPhrase, setOzFileList, setTreeHeader, plugin, focusedFolder, excludedExtensions, excludedFolders } = params;
     var searchPhrase = e.target.value;
     setSearchPhrase(searchPhrase);
     var searchFolder = activeFolderPath;
@@ -2999,6 +3023,8 @@ const handleSearch = (params) => {
                 searchTag: tagRegexMatch[1],
                 plugin: plugin,
                 focusedFolder: focusedFolder,
+                excludedExtensions: excludedExtensions,
+                excludedFolders: excludedFolders,
             }),
         ]);
         return;
@@ -3018,6 +3044,8 @@ const handleSearch = (params) => {
         searchPhrase,
         searchFolder,
         plugin,
+        excludedExtensions,
+        excludedFolders,
         getAllFiles,
     });
     setOzFileList(filteredFiles);
@@ -3053,7 +3081,7 @@ const dragStarted = (params) => {
     // json to move file to folder
     e.dataTransfer.setData('application/json', JSON.stringify({ filePath: file.path }));
     let dragManager = plugin.app.dragManager;
-    const dragData = dragManager.dragFile(e.nativeEvent, file);
+    const dragData = dragManager.dragFile(e.nativeEvent, obsidianFile);
     dragManager.onDragStart(e.nativeEvent, dragData);
 };
 // --> AuxClick (Mouse Wheel Button Action)
@@ -3203,17 +3231,20 @@ function FileComponent(props) {
     reactExports.useEffect(() => setTreeHeader(getFolderName(activeFolderPath$1, plugin.app)), [activeFolderPath$1]);
     // File List Update once showSubFolders change
     reactExports.useEffect(() => {
-        setOzFileList(getFilesUnderPath(activeFolderPath$1, plugin));
-    }, [showSubFolders$1]);
+        setOzFileList(getFilesUnderPath({
+            path: activeFolderPath$1,
+            plugin: plugin,
+            excludedExtensions: excludedExtensions$1,
+            excludedFolders: excludedFolders$1,
+        }));
+    }, [showSubFolders$1, excludedExtensions$1, excludedFolders$1]);
     // To focus on Search box if visible set
     reactExports.useEffect(() => {
         if (searchBoxVisible)
             searchInput.current.focus();
     }, [searchBoxVisible]);
-    const filesToList = reactExports.useMemo(() => customFiles({
+    const filesToList = reactExports.useMemo(() => sortedFiles({
         fileList: ozFileList$1,
-        excludedExtensions: excludedExtensions$1,
-        excludedFolders: excludedFolders$1,
         plugin: plugin,
         ozPinnedFiles: ozPinnedFiles,
     }), [excludedFolders$1, excludedExtensions$1, ozPinnedFiles, ozFileList$1, plugin.settings.sortFilesBy, plugin.settings.sortReverse]);
@@ -3226,7 +3257,12 @@ function FileComponent(props) {
     const toggleSearchBox = () => {
         setSearchPhrase('');
         setSearchBoxVisible(!searchBoxVisible);
-        setOzFileList(getFilesUnderPath(activeFolderPath$1, plugin));
+        setOzFileList(getFilesUnderPath({
+            path: activeFolderPath$1,
+            plugin: plugin,
+            excludedExtensions: excludedExtensions$1,
+            excludedFolders: excludedFolders$1,
+        }));
     };
     const toggleShowSubFolders = () => __awaiter(this, void 0, void 0, function* () {
         plugin.settings.showFilesFromSubFolders = !showSubFolders$1;
@@ -3266,6 +3302,8 @@ function FileComponent(props) {
                                     setSearchPhrase,
                                     setTreeHeader,
                                     setOzFileList,
+                                    excludedExtensions: excludedExtensions$1,
+                                    excludedFolders: excludedFolders$1,
                                     focusedFolder: focusedFolder$1,
                                 });
                             }, onKeyDown: (e) => {
@@ -3280,7 +3318,7 @@ function FileComponent(props) {
                             ? ' file-tree-files-fixed-with-search'
                             : ' file-tree-files-fixed'
                         : ''}` }, filesToList.map((file, index) => {
-                    return (React.createElement(g, { height: 19, key: index },
+                    return (React.createElement(g, { height: 22, key: index },
                         React.createElement(NavFile, { file: file, plugin: plugin })));
                 }))))))));
 }
@@ -3316,7 +3354,7 @@ const NavFile = (props) => {
     }, [hoverActive]);
     const FileIcon = reactExports.useMemo(() => getFileIcon({
         file,
-    }), [plugin.settings.iconBeforeFileName]);
+    }), [plugin.settings.iconBeforeFileName, file]);
     const fileDisplayName = reactExports.useMemo(() => {
         return plugin.settings.showFileNameAsFullPath ? getFileNameAndExtension(file.path).fileName : file.basename;
     }, [plugin.settings.showFileNameAsFullPath, file.path]);
@@ -3403,7 +3441,7 @@ function Tree(props) {
         props.onDoubleClick();
     };
     // --> Icon
-    const Icon = reactExports.useMemo(() => getFolderIcon(props.plugin, props.children, open), [open, props.children]);
+    const Icon = reactExports.useMemo(() => getFolderIcon(props.plugin, props.children, open), [open, props.children, props.plugin.settings.folderIcon]);
     // --> Folder Count Map
     const folderCount = folderFileCountMap$1[props.folder.path];
     // --> Drag and Drop Actions
@@ -3491,9 +3529,6 @@ function NestedFolders(props) {
     };
     const getSortedFolderTree = (folderTree) => {
         let newTree = folderTree;
-        if (excludedFolders$1.length > 0) {
-            newTree = newTree.filter((tree) => !excludedFolders$1.contains(tree.folder.path));
-        }
         newTree = newTree.sort((a, b) => {
             if (plugin.settings.sortFoldersBy === 'name') {
                 return a.folder.name.localeCompare(b.folder.name, 'en', { numeric: true });
@@ -3659,7 +3694,7 @@ function NestedFolders(props) {
     let sortedFolderTree = reactExports.useMemo(() => getSortedFolderTree(props.folderTree.children), [props.folderTree.children, excludedFolders$1, plugin.settings.sortFoldersBy]);
     return (React.createElement(React.Fragment, null, Array.isArray(props.folderTree.children) &&
         sortedFolderTree.map((child) => {
-            return (React.createElement(React.Fragment, { key: child.folder.path }, child.folder.children.some((child) => child instanceof obsidian.TFolder) ? (React.createElement(Tree, { plugin: plugin, content: child.folder.name, open: openFolders$1.contains(child.folder.path), onClick: () => handleFolderNameClick(child.folder.path), onDoubleClick: () => focusOnFolder(child.folder), onContextMenu: (e) => handleFolderContextMenu({
+            return (React.createElement(React.Fragment, { key: child.folder.path }, child.children.length > 0 ? (React.createElement(Tree, { plugin: plugin, content: child.folder.name, open: openFolders$1.contains(child.folder.path), onClick: () => handleFolderNameClick(child.folder.path), onDoubleClick: () => focusOnFolder(child.folder), onContextMenu: (e) => handleFolderContextMenu({
                     event: e,
                     folder: child.folder,
                 }), folder: child.folder },
@@ -3887,13 +3922,18 @@ function MainTreeComponent(props) {
     const [_folderTree, setFolderTree] = Recoil_index_22(folderTree);
     const [excludedFolders$1, setExcludedFolders] = Recoil_index_22(excludedFolders);
     const [_folderFileCountMap, setFolderFileCountMap] = Recoil_index_22(folderFileCountMap);
-    const [_excludedExtensions, setExcludedExtensions] = Recoil_index_22(excludedExtensions);
+    const [excludedExtensions$1, setExcludedExtensions] = Recoil_index_22(excludedExtensions);
     const [_showSubFolders, setShowSubFolders] = Recoil_index_22(showSubFolders);
     const [focusedFolder$1, setFocusedFolder] = Recoil_index_22(focusedFolder);
     const [activeOZFile$1, setActiveOzFile] = Recoil_index_22(activeOZFile);
     const setNewFileList = (folderPath) => {
         let filesPath = folderPath ? folderPath : activeFolderPath$1;
-        setOzFileList(getFilesUnderPath(filesPath, plugin));
+        setOzFileList(getFilesUnderPath({
+            path: filesPath,
+            plugin: plugin,
+            excludedExtensions: excludedExtensions$1,
+            excludedFolders: excludedFolders$1,
+        }));
     };
     const setInitialActiveFolderPath = () => {
         if (['Horizontal', 'Vertical'].includes(plugin.settings.evernoteView)) {
@@ -3912,12 +3952,14 @@ function MainTreeComponent(props) {
         window.addEventListener(eventTypes.activeFileChange, changeActiveFile);
         window.addEventListener(eventTypes.refreshView, forceUpdate);
         window.addEventListener(eventTypes.revealFile, handleRevealFileEvent);
+        window.addEventListener(eventTypes.revealFolder, handleRevealFolderEvent);
         window.addEventListener(eventTypes.createNewNote, handleCreateNewNoteEvent);
         return () => {
             window.removeEventListener(eventTypes.vaultChange, vaultChangeEvent);
             window.removeEventListener(eventTypes.activeFileChange, changeActiveFile);
             window.removeEventListener(eventTypes.refreshView, forceUpdate);
             window.removeEventListener(eventTypes.revealFile, handleRevealFileEvent);
+            window.removeEventListener(eventTypes.revealFolder, handleRevealFolderEvent);
             window.removeEventListener(eventTypes.createNewNote, handleCreateNewNoteEvent);
         };
     }, []);
@@ -3954,10 +3996,14 @@ function MainTreeComponent(props) {
     // Each Focused Folder Change triggers new folder tree build
     reactExports.useEffect(() => {
         if (focusedFolder$1) {
-            setFolderTree(createFolderTree(focusedFolder$1));
+            setFolderTree(createFolderTree({
+                startFolder: focusedFolder$1,
+                plugin: plugin,
+                excludedFolders: excludedFolders$1,
+            }));
             localStorage.setItem(plugin.keys.focusedFolder, focusedFolder$1.path);
         }
-    }, [focusedFolder$1]);
+    }, [focusedFolder$1, excludedFolders$1]);
     const setInitialFocusedFolder = () => {
         let localFocusedFolder = localStorage.getItem(plugin.keys.focusedFolder);
         if (localFocusedFolder) {
@@ -4140,7 +4186,7 @@ function MainTreeComponent(props) {
         }
         // Folder Event Handlers
         else if (file instanceof obsidian.TFolder) {
-            setFolderTree(createFolderTree(currentFocusedFolder));
+            setFolderTree(createFolderTree({ startFolder: currentFocusedFolder, plugin: plugin, excludedFolders: excludedFolders$1 }));
             // if active folder is renamed, activefolderpath needs to be refreshed
             if (changeType === 'rename' && oldPathBeforeRename && currentActiveFolderPath === oldPathBeforeRename) {
                 setActiveFolderPath(file.path);
@@ -4165,7 +4211,17 @@ function MainTreeComponent(props) {
             revealFileInFileTree(TFile2OZFile(file));
         }
         else {
-            new obsidian.Notice('No active file');
+            new obsidian.Notice('File not found');
+        }
+    }
+    function handleRevealFolderEvent(evt) {
+        // @ts-ignore
+        const folder = evt.detail.folder;
+        if (folder && folder instanceof obsidian.TFolder) {
+            revealFolderInFileTree(folder);
+        }
+        else {
+            new obsidian.Notice('Folder not found');
         }
     }
     // Scrolling Functions
@@ -4181,6 +4237,27 @@ function MainTreeComponent(props) {
         if (folderElement)
             folderElement.scrollIntoView(false);
     }
+    // Helper for Reveal Button: Obtain all folders that needs to be opened
+    const getAllFoldersToOpen = (fileToReveal) => {
+        let foldersToOpen = [];
+        const recursiveFx = (folder) => {
+            foldersToOpen.push(folder.path);
+            if (folder.parent)
+                recursiveFx(folder.parent);
+        };
+        recursiveFx(fileToReveal instanceof obsidian.TFile ? fileToReveal.parent : fileToReveal);
+        return foldersToOpen;
+    };
+    // --> Handle Reveal Folder Button
+    function revealFolderInFileTree(folderToReveal) {
+        if (!folderToReveal)
+            return;
+        setActiveFolderPath(folderToReveal.path);
+        const foldersToOpen = getAllFoldersToOpen(folderToReveal);
+        let openFoldersSet = new Set([...openFolders$1, ...foldersToOpen]);
+        setOpenFolders(Array.from(openFoldersSet));
+        scrollToFolder(folderToReveal);
+    }
     // --> Handle Reveal Active File Button
     function revealFileInFileTree(ozFileToReveal) {
         const fileToReveal = plugin.app.vault.getAbstractFileByPath(ozFileToReveal.path);
@@ -4191,17 +4268,6 @@ function MainTreeComponent(props) {
         // Focused Folder needs to be root for the reveal
         if (focusedFolder$1 && focusedFolder$1.path !== '/')
             setFocusedFolder(plugin.app.vault.getRoot());
-        // Obtain all folders that needs to be opened
-        const getAllFoldersToOpen = (fileToReveal) => {
-            let foldersToOpen = [];
-            const recursiveFx = (folder) => {
-                foldersToOpen.push(folder.path);
-                if (folder.parent)
-                    recursiveFx(folder.parent);
-            };
-            recursiveFx(fileToReveal.parent);
-            return foldersToOpen;
-        };
         // Sanity check - Parent to be folder and set required component states
         if (parentFolder instanceof obsidian.TFolder) {
             // Set Active Folder - It will trigger auto file list update
@@ -4296,6 +4362,8 @@ const DEFAULT_SETTINGS = {
     revealActiveFileButton: false,
     excludedExtensions: '',
     excludedFolders: '',
+    hideAttachments: false,
+    attachmentsFolderName: 'attachments',
     folderIcon: 'default',
     folderCount: true,
     folderCountOption: 'notes',
@@ -4311,6 +4379,7 @@ const DEFAULT_SETTINGS = {
     folderNote: false,
     deleteFileOption: 'trash',
     showFileNameAsFullPath: false,
+    bookmarksEvents: false,
 };
 class FileTreeAlternativePluginSettingsTab extends obsidian.PluginSettingTab {
     constructor(app, plugin) {
@@ -4374,6 +4443,21 @@ class FileTreeAlternativePluginSettingsTab extends obsidian.PluginSettingTab {
             .setDesc("Turn off if you don't want file tree view to be opened automatically during vault start")
             .addToggle((toggle) => toggle.setValue(this.plugin.settings.openViewOnStart).onChange((value) => {
             this.plugin.settings.openViewOnStart = value;
+            this.plugin.saveSettings();
+        }));
+        new obsidian.Setting(containerEl)
+            .setName('Bookmarks Event Listener (Shift + Click)')
+            .setDesc('This will enable to reveal file or folder from core bookmarks plugin.' +
+            'Because there is no API yet to overwrite the default behaviour for Bookmarks plugin,' +
+            'this will add an event to reveal file if you click on bookmark name using shift')
+            .addToggle((toggle) => toggle.setValue(this.plugin.settings.bookmarksEvents).onChange((value) => {
+            this.plugin.settings.bookmarksEvents = value;
+            if (value) {
+                this.plugin.bookmarksAddEventListener();
+            }
+            else {
+                this.plugin.bookmarksRemoveEventListener();
+            }
             this.plugin.saveSettings();
         }));
         /* ------------- Folder Pane Settings ------------- */
@@ -4547,6 +4631,14 @@ class FileTreeAlternativePluginSettingsTab extends obsidian.PluginSettingTab {
         /* ------------- Exclusion Settings ------------- */
         containerEl.createEl('h2', { text: 'Exclude Settings' });
         new obsidian.Setting(containerEl)
+            .setName('Hide Attachments')
+            .setDesc(`It will hide "attachments" folder from the view and any file under this folder from the file list`)
+            .addToggle((toggle) => toggle.setValue(this.plugin.settings.hideAttachments).onChange((value) => {
+            this.plugin.settings.hideAttachments = value;
+            this.plugin.saveSettings();
+            this.plugin.refreshTreeLeafs();
+        }));
+        new obsidian.Setting(containerEl)
             .setName('Excluded File Extensions')
             .setDesc(`Provide extension of files, which you want to exclude from listing in file tree, divided by comma. i.e. 'png, pdf, jpeg'.
             You need to reload the vault or use "Reload File Tree" button below to make changes effective.`)
@@ -4625,6 +4717,61 @@ class FileTreeAlternativePlugin extends obsidian.Plugin {
         this.VIEW_TYPE = 'file-tree-view';
         this.VIEW_DISPLAY_TEXT = 'File Tree';
         this.ICON = 'sheets-in-box';
+        this.bookmarksEventHandler = (event) => {
+            // Find the tree-item that includes the bookmarks plugin title
+            let treeItem = event.target.closest('.tree-item');
+            if (!treeItem)
+                return;
+            // If it exists, get the title of the bookmark
+            let dataPath = treeItem.getAttribute('data-path');
+            if (!dataPath || dataPath === '')
+                return;
+            // Find the bookmark from the items
+            let bookmarkItem = getBookmarkTitle(dataPath);
+            // Create Custom Menu only if Shift is Used
+            if (event.shiftKey) {
+                if (!bookmarkItem)
+                    return;
+                event.stopImmediatePropagation();
+                if (bookmarkItem.type === 'file') {
+                    // Dispatch Reveal File Event
+                    let customEvent = new CustomEvent(eventTypes.revealFile, {
+                        detail: {
+                            file: this.app.vault.getAbstractFileByPath(bookmarkItem.path),
+                        },
+                    });
+                    window.dispatchEvent(customEvent);
+                }
+                else if (bookmarkItem.type === 'folder') {
+                    event.stopImmediatePropagation();
+                    // Dispatch Reveal Folder Event
+                    let customEvent = new CustomEvent(eventTypes.revealFolder, {
+                        detail: {
+                            folder: this.app.vault.getAbstractFileByPath(bookmarkItem.path),
+                        },
+                    });
+                    window.dispatchEvent(customEvent);
+                }
+                else {
+                    new obsidian.Notice('Not a file or folder');
+                }
+            }
+        };
+        this.getBookmarksLeafElement = () => {
+            return document.querySelector('.workspace-leaf-content[data-type="bookmarks"]');
+        };
+        this.bookmarksAddEventListener = () => {
+            let bookmarkLeafElement = this.getBookmarksLeafElement();
+            if (bookmarkLeafElement) {
+                bookmarkLeafElement.addEventListener('click', this.bookmarksEventHandler, true);
+            }
+        };
+        this.bookmarksRemoveEventListener = () => {
+            let bookmarkLeafElement = this.getBookmarksLeafElement();
+            if (bookmarkLeafElement) {
+                bookmarkLeafElement.removeEventListener('click', this.bookmarksEventHandler, true);
+            }
+        };
         this.triggerVaultChangeEvent = (file, changeType, oldPath) => {
             let event = new CustomEvent(eventTypes.vaultChange, {
                 detail: {
@@ -4703,6 +4850,11 @@ class FileTreeAlternativePlugin extends obsidian.Plugin {
                 name: 'Open File Tree View',
                 callback: () => __awaiter(this, void 0, void 0, function* () { return yield this.openFileTreeLeaf(true); }),
             });
+            this.app.workspace.onLayoutReady(() => {
+                if (this.settings.bookmarksEvents) {
+                    this.bookmarksAddEventListener();
+                }
+            });
             // Add Command to Reveal Active File
             this.addCommand({
                 id: 'reveal-active-file',
@@ -4752,6 +4904,7 @@ class FileTreeAlternativePlugin extends obsidian.Plugin {
         this.app.vault.off('delete', this.onDelete);
         this.app.vault.off('modify', this.onModify);
         this.app.vault.off('rename', this.onRename);
+        this.bookmarksRemoveEventListener();
     }
     loadSettings() {
         return __awaiter(this, void 0, void 0, function* () {
