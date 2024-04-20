@@ -2,5 +2,8 @@
   "cssTheme": "Things",
   "theme": "system",
   "accentColor": "",
-  "baseFontSize": 29
+  "baseFontSize": 29,
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ]
 }
