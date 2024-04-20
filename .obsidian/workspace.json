@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "静脉曲",
+                "query": "tag:#mcl/list-column",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 721.5041885375977,
-    "collapsed": true
+    "width": 721.5041885375977
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -139,7 +138,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/Books.md",
