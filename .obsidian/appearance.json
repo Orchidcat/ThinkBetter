@@ -4,6 +4,8 @@
   "accentColor": "",
   "baseFontSize": 29,
   "enabledCssSnippets": [
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
   ]
 }
