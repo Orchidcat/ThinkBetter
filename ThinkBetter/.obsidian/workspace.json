@@ -4,74 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4720c6c73d4e844b",
+        "id": "7bd0152487aacf43",
         "type": "tabs",
         "children": [
           {
-            "id": "f34c0951c1ab7fb0",
+            "id": "8f8b3f82d9995dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39dfe227f784e52f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "人纪/000 @ 人纪 - Map.canvas",
-                "viewState": {
-                  "x": -920,
-                  "y": -684.5,
-                  "zoom": -2.9510903995190536
-                }
-              }
-            }
-          },
-          {
-            "id": "c159cd6c9cf8d09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f677201c99c230c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "814705189dbfc7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-19.md",
+                "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,12 +88,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -180,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-19.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -202,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -250,7 +197,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "814705189dbfc7fc",
+  "active": "8f8b3f82d9995dff",
   "lastOpenFiles": [
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
