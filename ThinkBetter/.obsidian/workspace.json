@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b15d25ccef6c20c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "医林改错.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "医林改错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "医林改错.md"
               }
             }
           },
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "医林改错.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +212,15 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "8f8b3f82d9995dff",
+  "active": "b15d25ccef6c20c7",
   "lastOpenFiles": [
+    "人纪/少阳为游部⭐.md",
+    "人纪/+Home.md",
+    "Books.md",
+    "Book/折肱漫录.md",
+    "医林改错.md",
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
-    "Books.md",
     "2024-04-18.md",
     "2024-04-19.md",
     "Book/深入理解Java虚拟机.md",
@@ -210,7 +229,6 @@
     "人纪/针灸甲乙经.md",
     "中医执业.md",
     "American Steel.md",
-    "人纪/+Home.md",
     "人纪/My Epic Life Quest.md",
     "target note.md",
     "Map.canvas",
@@ -225,8 +243,6 @@
     "kindle使用技巧.md",
     "SQL Server is terminating because of fatal exception 80000003..md",
     "十二经络歌诀.md",
-    "人纪/204 zy-总论.md",
-    "人纪/203 zy-诊断学.md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
@@ -239,7 +255,6 @@
     "Sources/Pasted image 20240407111559.png",
     "Sources/Pasted image 20240407104632.png",
     "Sources/Pasted image 20240329154744.png",
-    "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
     "Book",
     "Spaces/Home",
