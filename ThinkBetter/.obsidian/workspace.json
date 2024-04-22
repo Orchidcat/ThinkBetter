@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "医林改错.md",
+                "file": "人纪/012 辨太阳病脉症并治法.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "太渊",
+                "query": "tag:#kk  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -236,11 +235,15 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b15d25ccef6c20c7",
+  "active": "813d8ed93e2cfef5",
   "lastOpenFiles": [
+    "人纪/012 辨太阳病脉症并治法.md",
+    "人纪/014 辨阳明病脉症并治法.md",
+    "何以为父：影响彼此一生的父子关系.md",
+    "人纪/核桃.md",
+    "医林改错.md",
     "2024-04-19.md",
     "脉诊学习.md",
-    "医林改错.md",
     "Sources/Pasted image 20240422105332.png",
     "Sources/Pasted image 20240422104749.png",
     "Sources/Pasted image 20240422095531.png",
@@ -266,10 +269,6 @@
     "第一性原理.md",
     "GTD.md",
     "人纪/养生之道.md",
-    "糟糕的争论.md",
-    "一周是一年的2%.md",
-    "kindle使用技巧.md",
-    "SQL Server is terminating because of fatal exception 80000003..md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
