@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "医林改错.md",
+                "file": "2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "医林改错.md"
+                "file": "2024-04-19.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "医林改错.md",
+                "file": "2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,12 +236,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "813d8ed93e2cfef5",
+  "active": "ffe0927d1f75b9f9",
   "lastOpenFiles": [
+    "脉诊学习.md",
+    "医林改错.md",
     "Sources/Pasted image 20240422105332.png",
     "Sources/Pasted image 20240422104749.png",
     "2024-04-19.md",
-    "医林改错.md",
     "Sources/Pasted image 20240422095531.png",
     "2024-04-18.md",
     "人纪/+Home.md",
@@ -278,7 +279,6 @@
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",
     "Sources/Pasted image 20240407112440.png",
-    "Sources/Pasted image 20240407111559.png",
     "人纪/伤寒论",
     "Book",
     "Spaces/Home",
