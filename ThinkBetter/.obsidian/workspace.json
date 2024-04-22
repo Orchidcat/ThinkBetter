@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常人.md",
+                "file": "人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "常人.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61bbd6b51cbd329b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/001 @MOC中医.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "864cd7134cf02df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人纪/194 中医诊断学.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "常人",
+                "query": "line:(常人)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常人.md",
+                "file": "人纪/+Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常人.md"
+                "file": "人纪/+Home.md"
               }
             }
           },
@@ -186,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常人.md",
+                "file": "人纪/+Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,13 +259,17 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b29475884b4470c5",
+  "active": "8f8b3f82d9995dff",
   "lastOpenFiles": [
-    "医林改错.md",
     "常人.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/194 中医诊断学.md",
+    "人纪/004 金匮要略.md",
+    "2024-04-19.md",
+    "人纪/002 黄帝内经.md",
+    "医林改错.md",
     "人纪/+Home.md",
     "人纪/012 辨太阳病脉症并治法.md",
-    "2024-04-19.md",
     "血府逐淤汤.md",
     "通窍活血汤.md",
     "人纪/014 辨阳明病脉症并治法.md",
@@ -264,11 +292,7 @@
     "中医执业.md",
     "American Steel.md",
     "人纪/My Epic Life Quest.md",
-    "target note.md",
     "Map.canvas",
-    "Questions.md",
-    "NotToDo.md",
-    "基本Q.md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
