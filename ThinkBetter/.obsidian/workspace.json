@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,18 +61,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/194 中医诊断学.md",
+                "file": "人纪/148 五问饮食.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "548d66c28564ed34",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -81,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -197,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "人纪/148 五问饮食.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/195 子午流注.md"
+                "file": "人纪/148 五问饮食.md"
               }
             }
           },
@@ -219,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/195 子午流注.md",
+                "file": "人纪/148 五问饮食.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -268,15 +259,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "79fe4a80a3baefdf",
+  "active": "864cd7134cf02df6",
   "lastOpenFiles": [
     "2024-04-22.md",
     "人纪/195 子午流注.md",
+    "人纪/148 五问饮食.md",
     "人纪/194 中医诊断学.md",
-    "人纪/128 痰饮水湿.md",
-    "常人.md",
+    "人纪/121 四问便.md",
+    "人纪/097 三问头身.md",
     "人纪/001 @MOC中医.md",
     "人纪/+Home.md",
+    "人纪/128 痰饮水湿.md",
+    "常人.md",
     "人纪/004 金匮要略.md",
     "2024-04-19.md",
     "人纪/002 黄帝内经.md",
@@ -298,9 +292,6 @@
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
     "Book/深入理解Java虚拟机.md",
-    "自己动手写Java虚拟机.md",
-    "人纪/169 腰背维修师，脊柱保健秘诀.md",
-    "人纪/针灸甲乙经.md",
     "Map.canvas",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
