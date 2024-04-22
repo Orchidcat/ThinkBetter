@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(常人)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -271,8 +271,9 @@
   "active": "79fe4a80a3baefdf",
   "lastOpenFiles": [
     "2024-04-22.md",
-    "人纪/128 痰饮水湿.md",
+    "人纪/195 子午流注.md",
     "人纪/194 中医诊断学.md",
+    "人纪/128 痰饮水湿.md",
     "常人.md",
     "人纪/001 @MOC中医.md",
     "人纪/+Home.md",
@@ -300,7 +301,6 @@
     "自己动手写Java虚拟机.md",
     "人纪/169 腰背维修师，脊柱保健秘诀.md",
     "人纪/针灸甲乙经.md",
-    "中医执业.md",
     "Map.canvas",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
