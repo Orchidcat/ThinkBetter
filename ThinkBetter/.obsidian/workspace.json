@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "业余者与专业者的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "业余者与专业者的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "业余者与专业者的区别.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "业余者与专业者的区别.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,9 +212,10 @@
   },
   "active": "4f6bbe7121ce6f41",
   "lastOpenFiles": [
+    "Books.md",
+    "如何停止在不重要的细节上浪费时间.md",
     "人纪/+Home.md",
     "Tools.md",
-    "Books.md",
     "医林改错.md",
     "2024-04-22.md",
     "人纪/194 中医诊断学.md",
@@ -240,7 +241,6 @@
     "Sources/Pasted image 20240422095531.png",
     "2024-04-18.md",
     "人纪/少阳为游部⭐.md",
-    "Book/折肱漫录.md",
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
     "Map.canvas",
