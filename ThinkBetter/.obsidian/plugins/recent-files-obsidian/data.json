@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "第一性原理",
-      "path": "第一性原理.md"
-    },
-    {
       "basename": "100种心智模型",
       "path": "100种心智模型.md"
     },
@@ -17,20 +13,28 @@
       "path": "人纪/+Home.md"
     },
     {
-      "basename": "倒置",
-      "path": "倒置.md"
-    },
-    {
-      "basename": "思想实验",
-      "path": "思想实验.md"
+      "basename": "Books",
+      "path": "Books.md"
     },
     {
       "basename": "业余者与专业者的区别",
       "path": "业余者与专业者的区别.md"
     },
     {
-      "basename": "Books",
-      "path": "Books.md"
+      "basename": "思想实验",
+      "path": "思想实验.md"
+    },
+    {
+      "basename": "倒置",
+      "path": "倒置.md"
+    },
+    {
+      "basename": "2024-04-23",
+      "path": "2024-04-23.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "第一性原理.md"
     },
     {
       "basename": "如何停止在不重要的细节上浪费时间",
@@ -195,10 +199,6 @@
     {
       "basename": "养生之道",
       "path": "人纪/养生之道.md"
-    },
-    {
-      "basename": "糟糕的争论",
-      "path": "糟糕的争论.md"
     }
   ],
   "omittedPaths": [],

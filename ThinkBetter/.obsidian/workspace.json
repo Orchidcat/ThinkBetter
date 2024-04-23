@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c3098ee1f767537",
+        "id": "95cc863aa789bc50",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6bbe7121ce6f41",
+            "id": "ff06df9b42612042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "倒置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0559d45fe651123c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一性原理.md",
+                "file": "100种心智模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inversion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一性原理.md",
+                "file": "100种心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一性原理.md"
+                "file": "100种心智模型.md"
               }
             }
           },
@@ -162,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一性原理.md",
+                "file": "100种心智模型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,16 +198,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0559d45fe651123c",
+  "active": "ff06df9b42612042",
   "lastOpenFiles": [
-    "100种心智模型.md",
     "心智模型 MOC.md",
     "人纪/+Home.md",
-    "第一性原理.md",
-    "倒置.md",
-    "思想实验.md",
-    "业余者与专业者的区别.md",
     "Books.md",
+    "业余者与专业者的区别.md",
+    "思想实验.md",
+    "倒置.md",
+    "2024-04-23.md",
+    "Sources/Pasted image 20240423162305.png",
+    "第一性原理.md",
+    "100种心智模型.md",
     "如何停止在不重要的细节上浪费时间.md",
     "Tools.md",
     "医林改错.md",
@@ -237,8 +226,6 @@
     "2024-04-19.md",
     "人纪/002 黄帝内经.md",
     "人纪/012 辨太阳病脉症并治法.md",
-    "血府逐淤汤.md",
-    "通窍活血汤.md",
     "Sources/Pasted image 20240422105332.png",
     "Sources/Pasted image 20240422104749.png",
     "Sources/Pasted image 20240422095531.png",
@@ -253,7 +240,6 @@
     "Sources/Pasted image 20240407144145.png",
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",
-    "Sources/Pasted image 20240407112440.png",
     "人纪/伤寒论",
     "Book",
     "Spaces/Home",
