@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "业余者与专业者的区别.md",
+                "file": "倒置.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inversion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "业余者与专业者的区别.md",
+                "file": "倒置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "业余者与专业者的区别.md"
+                "file": "倒置.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业余者与专业者的区别.md",
+                "file": "倒置.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,8 @@
   },
   "active": "4f6bbe7121ce6f41",
   "lastOpenFiles": [
+    "思想实验.md",
+    "业余者与专业者的区别.md",
     "Books.md",
     "如何停止在不重要的细节上浪费时间.md",
     "人纪/+Home.md",
@@ -239,8 +241,6 @@
     "Sources/Pasted image 20240422105332.png",
     "Sources/Pasted image 20240422104749.png",
     "Sources/Pasted image 20240422095531.png",
-    "2024-04-18.md",
-    "人纪/少阳为游部⭐.md",
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
     "Map.canvas",

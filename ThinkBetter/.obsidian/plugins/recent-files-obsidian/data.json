@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "倒置",
+      "path": "倒置.md"
+    },
+    {
+      "basename": "思想实验",
+      "path": "思想实验.md"
+    },
+    {
       "basename": "业余者与专业者的区别",
       "path": "业余者与专业者的区别.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "kindle使用技巧",
       "path": "kindle使用技巧.md"
-    },
-    {
-      "basename": "SQL Server is terminating because of fatal exception 80000003.",
-      "path": "SQL Server is terminating because of fatal exception 80000003..md"
     }
   ],
   "omittedPaths": [],
