@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0559d45fe651123c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "人纪/+Home.md",
                 "mode": "source",
                 "source": false
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人纪/+Home.md"
+                "file": "Books.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人纪/+Home.md",
+                "file": "Books.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,9 +212,11 @@
   },
   "active": "4f6bbe7121ce6f41",
   "lastOpenFiles": [
+    "人纪/+Home.md",
+    "Tools.md",
+    "Books.md",
     "医林改错.md",
     "2024-04-22.md",
-    "人纪/+Home.md",
     "人纪/194 中医诊断学.md",
     "人纪/148 五问饮食.md",
     "人纪/195 子午流注.md",
@@ -226,11 +240,9 @@
     "Sources/Pasted image 20240422095531.png",
     "2024-04-18.md",
     "人纪/少阳为游部⭐.md",
-    "Books.md",
     "Book/折肱漫录.md",
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
-    "Book/深入理解Java虚拟机.md",
     "Map.canvas",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",

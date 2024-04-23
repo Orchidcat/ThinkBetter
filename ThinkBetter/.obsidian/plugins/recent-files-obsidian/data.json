@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
       "basename": "+Home",
       "path": "人纪/+Home.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "Tools.md"
     },
     {
       "basename": "医林改错",
@@ -95,10 +103,6 @@
     {
       "basename": "少阳为游部⭐",
       "path": "人纪/少阳为游部⭐.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
     },
     {
       "basename": "折肱漫录",
