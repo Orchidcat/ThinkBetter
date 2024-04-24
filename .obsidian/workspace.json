@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45939a94cabcd584",
+        "id": "112bce584269db0f",
         "type": "tabs",
         "children": [
           {
-            "id": "30063dcbbe47fe82",
+            "id": "84e38e95485215db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/2024-04-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -114,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/2024-04-23.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,8 +134,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "84e38e95485215db",
   "lastOpenFiles": [
+    "ThinkBetter/+Home.md",
+    "ThinkBetter/2024-04-23.md",
     "Pasted image 20240424091129.png",
     "ThinkBetter/2024-04-18.md",
     "ThinkBetter/2024-04-19.md",
@@ -171,7 +166,6 @@
     "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/人纪/肝脾位置之解说.md",
     "ThinkBetter/三焦考.md",
-    "ThinkBetter/人纪/原一，二，三期合编第一卷.md",
     "ThinkBetter/Sources/Pasted image 20240412113211.png",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Sources/Pasted image 20240407144145.png",
@@ -184,7 +178,6 @@
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
     "ThinkBetter/人纪/伤寒论",
-    "ThinkBetter/Sources/dc3a52632a939169e9700605cb16504.png",
     "ThinkBetter/Book",
     "cedict_ts.u8"
   ]
