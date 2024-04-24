@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "112bce584269db0f",
+        "id": "9a554218f0797351",
         "type": "tabs",
         "children": [
           {
-            "id": "84e38e95485215db",
+            "id": "c0d13541f6cdf403",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,7 +134,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "84e38e95485215db",
+  "active": "c0d13541f6cdf403",
   "lastOpenFiles": [
     "ThinkBetter/+Home.md",
     "ThinkBetter/2024-04-23.md",
