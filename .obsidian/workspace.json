@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/2024-04-18.md",
+                "file": "ThinkBetter/2024-04-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/2024-04-18.md"
+                "file": "ThinkBetter/2024-04-23.md"
               }
             }
           }
@@ -126,16 +127,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "workbench-obsidian:Workbench": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "30063dcbbe47fe82",
+  "active": "884acab7f7bdeb02",
   "lastOpenFiles": [
+    "ThinkBetter/2024-04-18.md",
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/胸中之疾.md",
@@ -150,7 +157,6 @@
     "ThinkBetter/Sources/Pasted image 20240418121504.png",
     "ThinkBetter/Questions.md",
     "ThinkBetter/Map.canvas",
-    "ThinkBetter/2024-04-18.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/少阳为游部⭐.md",
     "ThinkBetter/人纪/019 常用8种治法.md",
