@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a554218f0797351",
+        "id": "c8415acdacc82ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d13541f6cdf403",
+            "id": "b38bd1eea43e13c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -109,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md"
+              }
             }
           }
         ]
@@ -134,8 +141,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c0d13541f6cdf403",
+  "active": "b38bd1eea43e13c5",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/2024-04-23.md",
     "Pasted image 20240424091129.png",
@@ -144,7 +152,6 @@
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/胸中之疾.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/OB插件.md",
     "2024-04-17.md",
     "ThinkBetter/Book/深入理解Java虚拟机.md",
