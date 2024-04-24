@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,7 +141,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "884acab7f7bdeb02",
+  "active": "30063dcbbe47fe82",
   "lastOpenFiles": [
     "ThinkBetter/2024-04-18.md",
     "ThinkBetter/2024-04-19.md",
