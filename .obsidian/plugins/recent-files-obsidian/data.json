@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "倒置",
+      "path": "ThinkBetter/倒置.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
+    },
+    {
+      "basename": "能力圈",
+      "path": "ThinkBetter/能力圈.md"
+    },
+    {
       "basename": "因果关系与相关关系",
       "path": "因果关系与相关关系.md"
     },
@@ -9,16 +21,8 @@
       "path": "充分必要条件.md"
     },
     {
-      "basename": "能力圈",
-      "path": "ThinkBetter/能力圈.md"
-    },
-    {
       "basename": "可证伪性",
       "path": "可证伪性.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "002 黄帝内经",
       "path": "ThinkBetter/人纪/002 黄帝内经.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "ThinkBetter/圆运动的古中医学.md"
     }
   ],
   "omittedPaths": [],
