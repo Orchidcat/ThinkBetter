@@ -16,7 +16,7 @@
                 "file": "ThinkBetter/能力圈.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "9e54cc2a01039c71",
   "lastOpenFiles": [
-    "可证伪性.md",
     "ThinkBetter/能力圈.md",
+    "可证伪性.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
