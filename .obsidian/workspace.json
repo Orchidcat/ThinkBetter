@@ -24,8 +24,13 @@
             "id": "9e54cc2a01039c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "可证伪性.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -122,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "可证伪性.md"
+              }
             }
           }
         ]
@@ -149,6 +156,7 @@
   },
   "active": "9e54cc2a01039c71",
   "lastOpenFiles": [
+    "可证伪性.md",
     "ThinkBetter/能力圈.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
@@ -178,7 +186,6 @@
     "ThinkBetter/人身君火相火有先后天之分.md",
     "ThinkBetter/元气.md",
     "ThinkBetter/Book/折肱漫录.md",
-    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/Sources/Pasted image 20240412113211.png",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Sources/Pasted image 20240407144145.png",
