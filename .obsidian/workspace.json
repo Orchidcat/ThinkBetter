@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebefb15c6c44e2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/2024-04-19.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -156,6 +169,7 @@
   },
   "active": "3c556d0ec63f828a",
   "lastOpenFiles": [
+    "ThinkBetter/2024-04-19.md",
     "关于肥胖.md",
     "ThinkBetter/人纪/+Home.md",
     "因果关系与相关关系.md",
@@ -171,7 +185,6 @@
     "ThinkBetter/2024-04-23.md",
     "Pasted image 20240424091129.png",
     "ThinkBetter/2024-04-18.md",
-    "ThinkBetter/2024-04-19.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/胸中之疾.md",
     "ThinkBetter/脉诊学习.md",
