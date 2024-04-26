@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md"
+                "file": "充分必要条件.md"
               }
             }
           }
@@ -166,7 +167,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3a5c0314590a7b91",
+  "active": "a4297fde6eb98cea",
   "lastOpenFiles": [
     "因果关系与相关关系.md",
     "ThinkBetter/100种心智模型.md",
