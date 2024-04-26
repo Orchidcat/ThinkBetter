@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "关于肥胖",
+      "path": "关于肥胖.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "充分必要条件",
       "path": "充分必要条件.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "心智模型 MOC",
       "path": "ThinkBetter/心智模型 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "防己黄芪汤",
       "path": "ThinkBetter/防己黄芪汤.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "ThinkBetter/人纪/002 黄帝内经.md"
     }
   ],
   "omittedPaths": [],
