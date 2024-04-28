@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "惯性",
+      "path": "惯性.md"
+    },
+    {
       "basename": "第一性原理",
       "path": "ThinkBetter/第一性原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "黄芪",
       "path": "黄芪.md"
-    },
-    {
-      "basename": "人参",
-      "path": "ThinkBetter/人纪/人参.md"
     }
   ],
   "omittedPaths": [],
