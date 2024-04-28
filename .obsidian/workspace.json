@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9672bbebf008f73",
+        "id": "97f6520405278a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "c429e4141c10a2e2",
+            "id": "a1f102c87c53973b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c556d0ec63f828a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "关于肥胖.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebefb15c6c44e2a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/2024-04-19.md",
+                "file": "ThinkBetter/第一性原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关于肥胖.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -167,11 +140,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3c556d0ec63f828a",
+  "active": "a1f102c87c53973b",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/2024-04-19.md",
     "关于肥胖.md",
-    "ThinkBetter/人纪/+Home.md",
     "因果关系与相关关系.md",
     "ThinkBetter/100种心智模型.md",
     "充分必要条件.md",
