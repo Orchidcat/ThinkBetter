@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/2024-04-19.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -168,10 +167,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ae5af65144a7883d",
+  "active": "a1f102c87c53973b",
   "lastOpenFiles": [
-    "惯性.md",
     "ThinkBetter/2024-04-19.md",
+    "惯性.md",
     "Pasted image 20240428095238.png",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/人纪/+Home.md",
@@ -213,4 +212,6 @@
     "PDF",
     "ThinkBetter/人纪/伤寒论",
     "ThinkBetter/Book",
-    "ced
+    "cedict_ts.u8"
+  ]
+}
