@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[]",
+                "query": "鸦片",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,13 +114,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -183,9 +181,10 @@
   },
   "active": "24c351890a017daa",
   "lastOpenFiles": [
+    "ThinkBetter/清朝灭亡的原因.md",
+    "认知偏见.md",
     "Pasted image 20240429082843.png",
     "惯性.md",
-    "认知偏见.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/2024-04-19.md",
     "Pasted image 20240428095238.png",
@@ -221,7 +220,6 @@
     "ThinkBetter/Sources/Pasted image 20240407135252.png",
     "ThinkBetter/Sources/Pasted image 20240407120145.png",
     "ThinkBetter/Sources/Pasted image 20240407112440.png",
-    "ThinkBetter/Sources/Pasted image 20240407111559.png",
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
