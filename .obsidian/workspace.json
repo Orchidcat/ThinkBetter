@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/2024-04-19.md"
+                "file": "惯性.md"
               }
             }
           }
@@ -168,13 +168,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ae5af65144a7883d",
+  "active": "8db08041338840cb",
   "lastOpenFiles": [
+    "ThinkBetter/2024-04-19.md",
     "惯性.md",
     "Pasted image 20240428095238.png",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/2024-04-19.md",
     "关于肥胖.md",
     "因果关系与相关关系.md",
     "ThinkBetter/100种心智模型.md",
