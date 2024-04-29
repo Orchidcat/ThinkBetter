@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鸦片",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -193,7 +192,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8e20ee111cdc29c5",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "直接原因与根本原因.md",
     "认知偏见.md",
