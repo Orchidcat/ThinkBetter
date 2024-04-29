@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "1df44f446671aeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-29.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "116e33bc9e7ce8c5",
             "type": "leaf",
             "state": {
@@ -32,22 +45,17 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d962fce225663e8c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a9ce4d06feb4f4f1",
+            "id": "297a065f2455bb7b",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,17 +149,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/第一性原理.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +173,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3c1b53f3afdd278d",
+  "active": "297a065f2455bb7b",
   "lastOpenFiles": [
-    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/第一性原理.md",
     "直接原因与根本原因.md",
+    "2024-04-29.md",
+    "ThinkBetter/Workbench.md",
+    "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/第一性原理.md",
     "认知偏见.md",
     "ThinkBetter/2024-04-19.md",
     "5个为什么.md",
@@ -198,8 +205,6 @@
     "ThinkBetter/人纪/胸中之疾.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/OB插件.md",
-    "2024-04-17.md",
-    "ThinkBetter/Book/深入理解Java虚拟机.md",
     "ThinkBetter/Sources/Pasted image 20240419162829.png",
     "ThinkBetter/Sources/Pasted image 20240418121504.png",
     "ThinkBetter/Map.canvas",

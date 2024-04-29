@@ -5,12 +5,20 @@
       "path": "ThinkBetter/第一性原理.md"
     },
     {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
-    },
-    {
       "basename": "直接原因与根本原因",
       "path": "直接原因与根本原因.md"
+    },
+    {
+      "basename": "2024-04-29",
+      "path": "2024-04-29.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -169,10 +177,6 @@
       "path": "ThinkBetter/目标 MOC.md"
     },
     {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
-    },
-    {
       "basename": "打造第二大脑",
       "path": "打造第二大脑.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "西洋参",
       "path": "ThinkBetter/人纪/西洋参.md"
-    },
-    {
-      "basename": "桂枝",
-      "path": "ThinkBetter/人纪/桂枝.md"
     }
   ],
   "omittedPaths": [],
