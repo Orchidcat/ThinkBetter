@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6d561c679582c14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-04-29.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,12 +187,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1df44f446671aeeb",
+  "active": "f6d561c679582c14",
   "lastOpenFiles": [
-    "直接原因与根本原因.md",
     "ThinkBetter/第一性原理.md",
-    "2024-04-29.md",
     "ThinkBetter/100种心智模型.md",
+    "直接原因与根本原因.md",
+    "2024-04-29.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Workbench.md",
