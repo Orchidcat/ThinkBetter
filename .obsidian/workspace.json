@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "苏格拉底",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,15 +192,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "8e20ee111cdc29c5",
   "lastOpenFiles": [
-    "直接原因与根本原因.md",
+    "ThinkBetter/第一性原理.md",
     "认知偏见.md",
+    "ThinkBetter/2024-04-19.md",
+    "直接原因与根本原因.md",
     "ThinkBetter/清朝灭亡的原因.md",
     "Pasted image 20240429082843.png",
     "惯性.md",
-    "ThinkBetter/第一性原理.md",
-    "ThinkBetter/2024-04-19.md",
     "Pasted image 20240428095238.png",
     "ThinkBetter/人纪/+Home.md",
     "关于肥胖.md",
