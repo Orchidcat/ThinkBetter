@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-29.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -181,14 +180,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1df44f446671aeeb",
+  "active": "3c1b53f3afdd278d",
   "lastOpenFiles": [
+    "2024-04-29.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/第一性原理.md",
     "直接原因与根本原因.md",
-    "2024-04-29.md",
     "ThinkBetter/Workbench.md",
     "认知偏见.md",
     "ThinkBetter/2024-04-19.md",
