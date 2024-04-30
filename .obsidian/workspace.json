@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脾胃论.md",
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "心肾不交",
+                "query": "黄帝内经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脾胃论.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -226,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +245,8 @@
   },
   "active": "9f22bf1897619e5e",
   "lastOpenFiles": [
-    "ThinkBetter/2024-04-19.md",
     "脾胃论.md",
+    "ThinkBetter/2024-04-19.md",
     "心肾不交证.md",
     "ThinkBetter/人纪/183 脏腑辩证.md",
     "ThinkBetter/人纪/166 血证论.md",
