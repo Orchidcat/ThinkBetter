@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/019 常用8种治法.md",
+                "file": "ThinkBetter/人纪/183 脏腑辩证.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "745a734dbe5b56fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心肾不交证.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "督脉",
+                "query": "心肾不交",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/019 常用8种治法.md"
+                "file": "心肾不交证.md"
               }
             }
           }
@@ -205,14 +218,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "745a734dbe5b56fb",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/183 脏腑辩证.md",
+    "ThinkBetter/人纪/166 血证论.md",
+    "ThinkBetter/人纪/019 常用8种治法.md",
     "ThinkBetter/Book/折肱漫录.md",
     "脾胃论.md",
     "Pasted image 20240430105945.png",
     "ThinkBetter/人纪/木通.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/183 脏腑辩证.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
@@ -234,8 +249,6 @@
     "Pasted image 20240429082843.png",
     "惯性.md",
     "Pasted image 20240428095238.png",
-    "关于肥胖.md",
-    "因果关系与相关关系.md",
     "未命名",
     "Pasted image 20240424091129.png",
     "ThinkBetter/Sources/Pasted image 20240419162829.png",
