@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "001 @MOC中医",
+      "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "180 引经药",
       "path": "ThinkBetter/人纪/180 引经药.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
+    },
+    {
+      "basename": "直接原因与根本原因",
+      "path": "直接原因与根本原因.md"
+    },
+    {
+      "basename": "2024-04-29",
+      "path": "2024-04-29.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "ThinkBetter/第一性原理.md"
     },
     {
       "basename": "147 五味",
@@ -17,28 +41,8 @@
       "path": "2024-04-30.md"
     },
     {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "ThinkBetter/第一性原理.md"
-    },
-    {
-      "basename": "直接原因与根本原因",
-      "path": "直接原因与根本原因.md"
-    },
-    {
-      "basename": "2024-04-29",
-      "path": "2024-04-29.md"
-    },
-    {
       "basename": "心智模型 MOC",
       "path": "ThinkBetter/心智模型 MOC.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "Workbench",
@@ -195,10 +199,6 @@
     {
       "basename": "GTD",
       "path": "ThinkBetter/GTD.md"
-    },
-    {
-      "basename": "山茱萸肉",
-      "path": "ThinkBetter/人纪/山茱萸肉.md"
     }
   ],
   "omittedPaths": [],
