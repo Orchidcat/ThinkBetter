@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/木通.md"
     },
     {
+      "basename": "脉诊学习",
+      "path": "ThinkBetter/脉诊学习.md"
+    },
+    {
       "basename": "183 脏腑辩证",
       "path": "ThinkBetter/人纪/183 脏腑辩证.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "胸中之疾",
       "path": "ThinkBetter/人纪/胸中之疾.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "ThinkBetter/脉诊学习.md"
     },
     {
       "basename": "OB插件",
