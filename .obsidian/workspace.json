@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f6d561c679582c14",
+  "active": "d3367a810dcb05d3",
   "lastOpenFiles": [
     "2024-04-30.md",
     "ThinkBetter/100种心智模型.md",
