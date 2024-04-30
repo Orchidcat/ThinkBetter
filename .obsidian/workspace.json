@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "虚则补其母",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "47ca241c80d9f3ca",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/Book/折肱漫录.md",
     "脾胃论.md",
