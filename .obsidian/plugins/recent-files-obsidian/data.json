@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "YEAR MOC⌛",
+      "path": "ThinkBetter/YEAR MOC⌛.md"
+    },
+    {
       "basename": "健康 MOC",
       "path": "ThinkBetter/健康 MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "养生之道",
       "path": "ThinkBetter/人纪/养生之道.md"
-    },
-    {
-      "basename": "内伤黄疸",
-      "path": "ThinkBetter/人纪/内伤黄疸.md"
     }
   ],
   "omittedPaths": [],
