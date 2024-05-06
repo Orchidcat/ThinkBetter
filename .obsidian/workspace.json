@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "以父",
+                "query": "葱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "494cee9031cfd64e",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "脾胃论.md",
