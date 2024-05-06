@@ -4,128 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "89e770e9c442df71",
+        "id": "536a9d3c767772aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1b53f3afdd278d",
+            "id": "494cee9031cfd64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/第一性原理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df44f446671aeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "116e33bc9e7ce8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "直接原因与根本原因.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "297a065f2455bb7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/100种心智模型.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d561c679582c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/180 引经药.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47ca241c80d9f3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/183 脏腑辩证.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "745a734dbe5b56fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心肾不交证.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f22bf1897619e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821a81af51b767d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/2024-04-19.md",
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄帝内经",
+                "query": "以父",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md"
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
               }
             }
           }
@@ -226,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,8 +139,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9f22bf1897619e5e",
+  "active": "494cee9031cfd64e",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "脾胃论.md",
     "ThinkBetter/2024-04-19.md",
     "心肾不交证.md",
@@ -265,7 +162,6 @@
     "直接原因与根本原因.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/人纪/180 引经药.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/147 五味.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/Workbench.md",
