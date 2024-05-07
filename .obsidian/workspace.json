@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/2024-04-19.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -166,10 +166,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ce6156237188486",
+  "active": "2efa931bbb7b76dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/2024-04-19.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",
     "ThinkBetter/人纪/+Home.md",
