@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2efa931bbb7b76dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/针灸大成.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/090 人纪 - 针灸.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -139,8 +153,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "19774dc7013c3332",
+  "active": "2efa931bbb7b76dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/YEAR MOC⌛.md",
@@ -166,8 +182,6 @@
     "直接原因与根本原因.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/人纪/180 引经药.md",
-    "ThinkBetter/人纪/147 五味.md",
-    "ThinkBetter/心智模型 MOC.md",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
     "未命名",
