@@ -5,6 +5,10 @@
       "path": "五俞穴.md"
     },
     {
+      "basename": "长夏",
+      "path": "长夏.md"
+    },
+    {
       "basename": "针灸大成",
       "path": "ThinkBetter/人纪/针灸大成.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "医学衷中参西录",
       "path": "ThinkBetter/人纪/医学衷中参西录.md"
-    },
-    {
-      "basename": "少阳为游部⭐",
-      "path": "ThinkBetter/人纪/少阳为游部⭐.md"
     }
   ],
   "omittedPaths": [],
