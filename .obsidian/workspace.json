@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "五俞穴.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2efa931bbb7b76dc",
+  "active": "5ae6e0dabf29251e",
   "lastOpenFiles": [
-    "五俞穴.md",
     "ThinkBetter/人纪/针灸大成.md",
+    "五俞穴.md",
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",
