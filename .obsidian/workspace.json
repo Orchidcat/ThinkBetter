@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
+                "file": "ThinkBetter/人纪/任脉.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/知己.md"
+                "file": "ThinkBetter/人纪/任脉.md"
               }
             }
           }
@@ -166,10 +166,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "00b55d7b21200d32",
+  "active": "8b8bd39e72482fce",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/知己.md",
+    "ThinkBetter/人纪/任脉.md",
     "五俞穴.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",
@@ -194,7 +195,6 @@
     "2024-04-30.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "2024-04-29.md",
-    "ThinkBetter/第一性原理.md",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
     "未命名",
