@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/任脉.md",
+                "file": "ThinkBetter/知己.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "针灸",
+                "query": "任脉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/任脉.md"
+                "file": "ThinkBetter/知己.md"
               }
             }
           }
@@ -169,8 +168,8 @@
   },
   "active": "00b55d7b21200d32",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/任脉.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "五俞穴.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",

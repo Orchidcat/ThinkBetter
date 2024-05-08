@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知己",
+      "path": "ThinkBetter/知己.md"
+    },
+    {
       "basename": "任脉",
       "path": "ThinkBetter/人纪/任脉.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OB插件",
       "path": "ThinkBetter/OB插件.md"
-    },
-    {
-      "basename": "2024-04-17",
-      "path": "2024-04-17.md"
     }
   ],
   "omittedPaths": [],
