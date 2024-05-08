@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "消渴",
+      "path": "消渴.md"
+    },
+    {
       "basename": "任脉",
       "path": "ThinkBetter/人纪/任脉.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "胸中之疾",
       "path": "ThinkBetter/人纪/胸中之疾.md"
-    },
-    {
-      "basename": "OB插件",
-      "path": "ThinkBetter/OB插件.md"
     }
   ],
   "omittedPaths": [],

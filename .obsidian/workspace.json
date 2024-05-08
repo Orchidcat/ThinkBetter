@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bea0eec75f57db54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "消渴.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/任脉.md"
+                "file": "消渴.md"
               }
             }
           }
@@ -180,10 +193,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ab729bdcf8c2f56",
+  "active": "bea0eec75f57db54",
   "lastOpenFiles": [
-    "ThinkBetter/知己.md",
+    "消渴.md",
     "ThinkBetter/人纪/任脉.md",
+    "ThinkBetter/知己.md",
     "ThinkBetter/人纪/针灸大成.md",
     "五俞穴.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
@@ -208,7 +222,6 @@
     "ThinkBetter/人纪/002 黄帝内经.md",
     "2024-04-30.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "2024-04-29.md",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
     "未命名",
