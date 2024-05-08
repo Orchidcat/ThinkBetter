@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "消渴.md"
+                "file": "ThinkBetter/知己.md"
               }
             }
           }
@@ -193,10 +193,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bea0eec75f57db54",
+  "active": "00b55d7b21200d32",
   "lastOpenFiles": [
-    "消渴.md",
     "ThinkBetter/人纪/任脉.md",
+    "消渴.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/针灸大成.md",
     "五俞穴.md",
