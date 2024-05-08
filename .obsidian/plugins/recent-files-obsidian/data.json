@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/针灸大成.md"
     },
     {
+      "basename": "任脉",
+      "path": "ThinkBetter/人纪/任脉.md"
+    },
+    {
       "basename": "五俞穴",
       "path": "五俞穴.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-04-17",
       "path": "2024-04-17.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "ThinkBetter/人纪/医学衷中参西录.md"
     }
   ],
   "omittedPaths": [],
