@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/针灸大成.md"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "五俞穴",
       "path": "五俞穴.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "185 针灸时机",
       "path": "ThinkBetter/人纪/185 针灸时机.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "YEAR MOC⌛",
