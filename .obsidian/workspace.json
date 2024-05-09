@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "督脉.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -154,10 +153,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8b8bd39e72482fce",
+  "active": "5ec011afb4a63fd6",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "督脉.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/知己.md",
     "消渴.md",
