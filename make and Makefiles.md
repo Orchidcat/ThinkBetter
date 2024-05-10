@@ -105,3 +105,10 @@ backup: clean
 update-cache: update-cache.o read-cache.o
      $(CC) $(CFLAGS) -o update-cache update-cache.o read-cache.o $(LIBS)
 ```
+
+第二行被替换为：
+gcc -g -o update-cache update-cache.o read-cache.o -lssl
+
+
+
+在程序目标之后，有两行指定要链接到每个目标文件 (.o) 的 C 头文件 (.h)。 Baby Git 代码库中唯一的头文件是cache.h，它链接到read-cache.o 和show-diff.o。
