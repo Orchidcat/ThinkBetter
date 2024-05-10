@@ -98,4 +98,4 @@ backup: clean
 
 `all: $(PROG)` 再没有指定target的情况下，将全部执行。
 
-`make install` 
+`make install` 这与 all 目标的启动方式相同，即使用 $(PROG) 指定要编译的可执行文件。但随后它使用 install 命令将这些构建的可执行文件移动到用户主目录中。
