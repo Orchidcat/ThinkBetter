@@ -9,8 +9,6 @@ make 是一个自动化构建工具。
 ### Makefile
 用来描述其程序的构建过程的文本文件。然后可以使用 make 命令方便地运行 Makefile 中的指令。
 
-
-
 ```make
 target1: prerequisite1
         recipe1
@@ -18,11 +16,11 @@ target1: prerequisite1
 target2: prerequisite2
         recipe2
 
-...
 ```
 
+Makefile 包含一系列命名的命令集，可用于在代码库中执行不同的操作。每个命名的命令集称为 makefile 规则，由 makefile 目标、一个或多个可选 makefile 先决条件（或 makefile 依赖项）和 makefile 配方组成。
 
-
+**目标可以是文件，也可以只是命令配方的名称。当目标纯粹充当一组命令的名称时，它被称为虚假目标。您可以将其视为函数名称。**
 
 
 
