@@ -1,6 +1,6 @@
 #Git 
 
-参考 [Fetching Title#zc8k](https://www.gnu.org/software/make/manual/make.html)
+[GNU make](https://www.gnu.org/software/make/manual/make.html) 
 
 选择编译器，识别要包含的源代码文件集，执行准备步骤以及将代码编译为最终形式的过程成为构建。
 
