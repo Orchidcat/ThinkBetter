@@ -36,6 +36,14 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 
 ### **Git's Original Makefile**
 
+下面是 Git 的原始 Makefile。它用于调用 gcc C 编译器为原始 7 个 git 命令中的每一个构建二进制可执行文件：
+1. init-db
+2. update-cache
+3. cat-file
+4. show-diff
+5. write-tree
+6. read-tree
+7. commit-tree
 
 
 
