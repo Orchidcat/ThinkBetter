@@ -51,7 +51,41 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 3. make：执行上面7个git步骤
 
 
-
+源码
+```make
+CFLAGS=-g # The `-g` compiler flag tells gcc to add debug symbols to the executable for use with a debugger.
+CC=gcc # Use the `gcc` C compiler.
+# Specify the names of all executables to make.
+PROG=update-cache show-diff init-db write-tree read-tree commit-tree cat-file
+all: $(PROG)
+install: $(PROG)
+    install $(PROG) $(HOME)/bin/
+# Include the following dependencies in the build.
+LIBS= -lssl
+# Specify which compiled output (.o files) to use for each executable.
+init-db: init-db.o
+update-cache: update-cache.o read-cache.o
+    $(CC) $(CFLAGS) -o update-cache update-cache.o read-cache.o $(LIBS)
+show-diff: show-diff.o read-cache.o
+    $(CC) $(CFLAGS) -o show-diff show-diff.o read-cache.o $(LIBS)
+write-tree: write-tree.o read-cache.o
+    $(CC) $(CFLAGS) -o write-tree write-tree.o read-cache.o $(LIBS)
+read-tree: read-tree.o read-cache.o
+    $(CC) $(CFLAGS) -o read-tree read-tree.o read-cache.o $(LIBS)
+commit-tree: commit-tree.o read-cache.o
+    $(CC) $(CFLAGS) -o commit-tree commit-tree.o read-cache.o $(LIBS)
+cat-file: cat-file.o read-cache.o
+    $(CC) $(CFLAGS) -o cat-file cat-file.o read-cache.o $(LIBS)
+# Specify which C header files to include in compilation/linking.
+read-cache.o: cache.h
+show-diff.o: cache.h
+# Define the steps to run during the `make clean` command.
+clean:
+    rm -f *.o $(PROG) temp_git_file_* # Remove these files from the current directory.
+# Define the steps to run during the `make backup` command.
+backup: clean
+    cd .. ; tar czvf babygit.tar.gz baby-git # Backup the current directory into a tar archive.
+```
 
 
 
