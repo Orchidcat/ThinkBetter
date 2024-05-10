@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "make and Makefiles",
+      "path": "make and Makefiles.md"
+    },
+    {
+      "basename": "Git MOC",
+      "path": "ThinkBetter/Git MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-04-23",
       "path": "ThinkBetter/2024-04-23.md"
-    },
-    {
-      "basename": "2024-04-18",
-      "path": "ThinkBetter/2024-04-18.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     }
   ],
   "omittedPaths": [],
