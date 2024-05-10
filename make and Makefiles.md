@@ -45,7 +45,10 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 6. read-tree
 7. commit-tree
 
-
+这个makefile 可以执行3个不同的target
+1. make clean
+2. make backup:
+3. make
 
 
 
