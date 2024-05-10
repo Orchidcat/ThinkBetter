@@ -88,7 +88,7 @@ backup: clean
     cd .. ; tar czvf babygit.tar.gz baby-git # Backup the current directory into a tar archive.
 ```
 
-
+`CFLAGS=-g` 指定编译期间使用的编译器标志（特殊编译器选项）。在这种情况下，-g 标志告诉编译器将调试信息输出到控制台。
 
 
 
