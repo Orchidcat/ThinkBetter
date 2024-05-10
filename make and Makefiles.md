@@ -11,6 +11,17 @@ make 是一个自动化构建工具。
 
 
 
+```make
+target1: prerequisite1
+        recipe1
+
+target2: prerequisite2
+        recipe2
+
+...
+```
+
+
 
 
 
