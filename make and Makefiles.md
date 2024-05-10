@@ -29,6 +29,8 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 
 ```ad-info
 默认情况下，make 将输出 makefile 中的每个命令。您可以通过在 makefile 本身的每一行之前添加 @ 符号来抑制这种情况。
+
+例如，@echo Compiling source files 行仍将在 shell 上显示“编译源文件”文本，但不会显示 echo 命令本身。
 ```
 
 
