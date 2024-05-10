@@ -1,5 +1,7 @@
 #Git 
 
+参考 [Fetching Title#zc8k](https://www.gnu.org/software/make/manual/make.html)
+
 选择编译器，识别要包含的源代码文件集，执行准备步骤以及将代码编译为最终形式的过程成为构建。
 
 
@@ -112,3 +114,5 @@ gcc -g -o update-cache update-cache.o read-cache.o -lssl
 
 
 在程序目标之后，有两行指定要链接到每个目标文件 (.o) 的 C 头文件 (.h)。 Baby Git 代码库中唯一的头文件是cache.h，它链接到read-cache.o 和show-diff.o。
+
+C 头文件通常包含函数定义和函数声明，它们将包含在代码库的多个文件中。
