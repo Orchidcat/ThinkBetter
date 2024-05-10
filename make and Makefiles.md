@@ -23,7 +23,7 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 **Target可以是文件，也可以只是命令配方的名称。当目标纯粹充当一组命令的名称时，它被称为虚假目标。您可以将其视为函数名称。**
 
 #### 执行Makefile Target
-
+默认是执行target1，如果要指定默认 `.DEFAULT_GOAL := target2`  ；或者用 `make target-name`
 
 
 
