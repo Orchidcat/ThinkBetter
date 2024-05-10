@@ -25,7 +25,11 @@ Makefile 包含一系列命名的命令集，可用于在代码库中执行不�
 #### 执行Makefile Target
 默认是执行target1，如果要指定默认 `.DEFAULT_GOAL := target2`  ；或者用 `make <target-name>` 直接运行
 
-`make clean`
+`make clean` 将删除之前的构建结果，重新按照当前makefile顺序进行构建。
+
+```ad-info
+默认情况下，make 将输出 makefile 中的每个命令。您可以通过在 makefile 本身的每一行之前添加 @ 符号来抑制这种情况。
+```
 
 
 
