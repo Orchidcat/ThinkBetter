@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acdd2fcb905497d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/脉诊学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -153,10 +167,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0f3785a94f873d",
+  "active": "acdd2fcb905497d0",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阴肺经.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Git MOC.md",
     "make and Makefiles.md",
