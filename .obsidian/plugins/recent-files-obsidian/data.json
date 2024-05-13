@@ -5,6 +5,14 @@
       "path": "ThinkBetter/人纪/手太阴肺经.md"
     },
     {
+      "basename": "115 手太阴肺经",
+      "path": "ThinkBetter/人纪/115 手太阴肺经.md"
+    },
+    {
+      "basename": "090 人纪 - 针灸",
+      "path": "ThinkBetter/人纪/090 人纪 - 针灸.md"
+    },
+    {
       "basename": "脉诊学习",
       "path": "ThinkBetter/脉诊学习.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "五俞穴",
       "path": "五俞穴.md"
-    },
-    {
-      "basename": "090 人纪 - 针灸",
-      "path": "ThinkBetter/人纪/090 人纪 - 针灸.md"
     },
     {
       "basename": "185 针灸时机",
@@ -195,10 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/一句话的玩味.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/+Home.md"
     }
   ],
   "omittedPaths": [],

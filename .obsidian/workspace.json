@@ -50,12 +50,29 @@
             "id": "e8ca9d9aa9d7fcff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/090 人纪 - 针灸.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1e03971c8a47f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/115 手太阴肺经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "任脉",
+                "query": "手太阴肺经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/手太阴肺经.md"
+              }
             }
           }
         ]
@@ -172,9 +191,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "af0f3785a94f873d",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/115 手太阴肺经.md",
     "ThinkBetter/人纪/手太阴肺经.md",
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
@@ -185,7 +206,6 @@
     "ThinkBetter/知己.md",
     "消渴.md",
     "五俞穴.md",
-    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/185 针灸时机.md",
     "长夏.md",
     "ThinkBetter/2024-04-19.md",
@@ -200,7 +220,6 @@
     "ThinkBetter/Book/折肱漫录.md",
     "Pasted image 20240430105945.png",
     "ThinkBetter/人纪/木通.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
     "未命名",
