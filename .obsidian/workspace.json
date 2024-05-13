@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
+                "file": "五俞穴.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/手太阴肺经.md"
               }
             }
           }
@@ -192,14 +191,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9dadbfbb9ae949b4",
+  "active": "af0f3785a94f873d",
   "lastOpenFiles": [
+    "五俞穴.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "鬼门十三针.md",
     "ThinkBetter/人纪/115 手太阴肺经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Git MOC.md",
     "make and Makefiles.md",
@@ -207,7 +207,6 @@
     "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/知己.md",
     "消渴.md",
-    "五俞穴.md",
     "ThinkBetter/人纪/185 针灸时机.md",
     "长夏.md",
     "ThinkBetter/2024-04-19.md",
