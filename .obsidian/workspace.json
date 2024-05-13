@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -191,10 +192,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0f3785a94f873d",
+  "active": "9dadbfbb9ae949b4",
   "lastOpenFiles": [
-    "鬼门十三针.md",
     "ThinkBetter/人纪/手太阴肺经.md",
+    "鬼门十三针.md",
     "ThinkBetter/人纪/115 手太阴肺经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/脉诊学习.md",
