@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8392eecaeecc8d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/针灸大成.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2019 数据处理.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -154,10 +167,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "78268f43fd3afef9",
+  "active": "8392eecaeecc8d5a",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "Excel 2019 数据处理.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "五俞穴.md",
     "ThinkBetter/人纪/针灸大成.md",
