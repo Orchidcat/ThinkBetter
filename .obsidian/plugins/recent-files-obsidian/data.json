@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "伤寒理路",
+      "path": "ThinkBetter/伤寒理路.md"
+    },
+    {
       "basename": "手阳明大肠经",
       "path": "ThinkBetter/人纪/手阳明大肠经.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "因果关系与相关关系",
       "path": "因果关系与相关关系.md"
-    },
-    {
-      "basename": "倒置",
-      "path": "ThinkBetter/倒置.md"
     }
   ],
   "omittedPaths": [],
