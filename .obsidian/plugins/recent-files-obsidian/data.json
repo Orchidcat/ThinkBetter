@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Excel 2019 数据处理",
+      "path": "Excel 2019 数据处理.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "手太阴肺经",
       "path": "ThinkBetter/人纪/手太阴肺经.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "脉诊学习",
       "path": "ThinkBetter/脉诊学习.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "make and Makefiles",
@@ -195,10 +199,6 @@
     {
       "basename": "能力圈",
       "path": "ThinkBetter/能力圈.md"
-    },
-    {
-      "basename": "可证伪性",
-      "path": "可证伪性.md"
     }
   ],
   "omittedPaths": [],

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af0f3785a94f873d",
+            "id": "3082c8082b4ed510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,58 +21,20 @@
             }
           },
           {
-            "id": "9dadbfbb9ae949b4",
+            "id": "78268f43fd3afef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "五俞穴.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acdd2fcb905497d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/脉诊学习.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8ca9d9aa9d7fcff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/090 人纪 - 针灸.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe1e03971c8a47f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/115 手太阴肺经.md",
+                "file": "Excel 2019 数据处理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -165,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md"
+                "file": "Excel 2019 数据处理.md"
               }
             }
           }
@@ -191,16 +154,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af0f3785a94f873d",
+  "active": "78268f43fd3afef9",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "Excel 2019 数据处理.md",
+    "ThinkBetter/人纪/手太阴肺经.md",
     "五俞穴.md",
     "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/手太阴肺经.md",
     "鬼门十三针.md",
     "ThinkBetter/人纪/115 手太阴肺经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Git MOC.md",
     "make and Makefiles.md",
     "督脉.md",
@@ -218,7 +182,6 @@
     "ThinkBetter/人纪/183 脏腑辩证.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/人纪/019 常用8种治法.md",
-    "ThinkBetter/Book/折肱漫录.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
