@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/手阳明大肠经.md"
               }
             }
           }
@@ -179,13 +179,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e4f981d6c1298695",
+  "active": "8392eecaeecc8d5a",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/伤寒理路.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "五俞穴.md",
     "鬼门十三针.md",
