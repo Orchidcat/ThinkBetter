@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b09930bc45d45d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/手阳明大肠经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/人纪/手阳明大肠经.md"
               }
             }
           }
@@ -140,13 +154,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f53b8fd66689b786",
+  "active": "9b09930bc45d45d2",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/伤寒理路.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "五俞穴.md",
     "鬼门十三针.md",
