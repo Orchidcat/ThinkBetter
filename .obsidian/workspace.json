@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38f3415e8ed76fa4",
+        "id": "94f47da1fbc76e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "3082c8082b4ed510",
+            "id": "f53b8fd66689b786",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "78268f43fd3afef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excel 2019 数据处理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8392eecaeecc8d5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/手阳明大肠经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4f981d6c1298695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手阳明大肠经.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -180,7 +140,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8392eecaeecc8d5a",
+  "active": "f53b8fd66689b786",
   "lastOpenFiles": [
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
