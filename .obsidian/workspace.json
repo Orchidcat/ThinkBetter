@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/手阳明大肠经.md",
+                "file": "ThinkBetter/人纪/004 金匮要略.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "姜枣",
+                "query": "嘴唇",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手阳明大肠经.md"
+                "file": "ThinkBetter/人纪/004 金匮要略.md"
               }
             }
           }
@@ -156,9 +155,9 @@
   },
   "active": "9b09930bc45d45d2",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/手阳明大肠经.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/手阳明大肠经.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/伤寒理路.md",
     "ThinkBetter/人纪/手太阴肺经.md",
