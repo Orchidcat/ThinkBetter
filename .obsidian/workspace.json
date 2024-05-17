@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab70641bd75554d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "珊瑚颜色.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "珊瑚颜色.md"
               }
             }
           }
@@ -140,11 +154,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f53b8fd66689b786",
+  "active": "ab70641bd75554d4",
   "lastOpenFiles": [
+    "珊瑚颜色.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/伤寒理路.md",
@@ -167,7 +182,6 @@
     "ThinkBetter/健康 MOC.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "脾胃论.md",
-    "心肾不交证.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
