@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "针灸大成",
-      "path": "ThinkBetter/人纪/针灸大成.md"
-    },
-    {
       "basename": "足阳明胃经",
       "path": "ThinkBetter/人纪/足阳明胃经.md"
+    },
+    {
+      "basename": "二十四节气",
+      "path": "二十四节气.md"
+    },
+    {
+      "basename": "针灸大成",
+      "path": "ThinkBetter/人纪/针灸大成.md"
     },
     {
       "basename": "手阳明大肠经",
@@ -195,10 +199,6 @@
     {
       "basename": "惯性",
       "path": "惯性.md"
-    },
-    {
-      "basename": "关于肥胖",
-      "path": "关于肥胖.md"
     }
   ],
   "omittedPaths": [],

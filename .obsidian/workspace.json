@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d285bfac8e3d817",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "丑肝通",
+                "query": "小满",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/足阳明胃经.md"
+              }
             }
           }
         ]
@@ -159,8 +153,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "ab4c652b6b6cafd1",
   "lastOpenFiles": [
+    "二十四节气.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
@@ -186,7 +181,6 @@
     "ThinkBetter/2024-04-19.md",
     "ThinkBetter/YEAR MOC⌛.md",
     "ThinkBetter/健康 MOC.md",
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
