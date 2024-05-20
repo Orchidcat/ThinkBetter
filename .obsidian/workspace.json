@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab4c652b6b6cafd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/足阳明胃经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/足阳明胃经.md"
               }
             }
           }
@@ -140,10 +154,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e173d65d4626b851",
+  "active": "ab4c652b6b6cafd1",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/手阳明大肠经.md",
     "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/人纪/足阳明胃经.md",
+    "ThinkBetter/人纪/手阳明大肠经.md",
     "ThinkBetter/人纪/+Home.md",
     "珊瑚颜色.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -167,7 +182,6 @@
     "ThinkBetter/YEAR MOC⌛.md",
     "ThinkBetter/健康 MOC.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "脾胃论.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
