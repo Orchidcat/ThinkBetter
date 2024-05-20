@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/足阳明胃经.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -154,10 +153,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab4c652b6b6cafd1",
+  "active": "e173d65d4626b851",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/足阳明胃经.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "ThinkBetter/人纪/+Home.md",
     "珊瑚颜色.md",
