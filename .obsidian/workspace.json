@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "94f47da1fbc76e4b",
+        "id": "67b1fdbee2a6b5fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f53b8fd66689b786",
+            "id": "e173d65d4626b851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab70641bd75554d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "珊瑚颜色.md",
+                "file": "ThinkBetter/人纪/针灸大成.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "珊瑚颜色.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -154,10 +140,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab70641bd75554d4",
+  "active": "e173d65d4626b851",
   "lastOpenFiles": [
-    "珊瑚颜色.md",
     "ThinkBetter/人纪/+Home.md",
+    "珊瑚颜色.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "ThinkBetter/人纪/针灸大成.md",
