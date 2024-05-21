@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67b1fdbee2a6b5fd",
+        "id": "d4195c2127170685",
         "type": "tabs",
         "children": [
           {
-            "id": "e173d65d4626b851",
+            "id": "74739015a6457205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ab4c652b6b6cafd1",
+            "id": "9679282000948c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-21.md",
+                "file": "ThinkBetter/人纪/足阳明胃经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-21.md"
+                "file": "ThinkBetter/人纪/足阳明胃经.md"
               }
             }
           }
@@ -135,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,14 +154,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab4c652b6b6cafd1",
+  "active": "9679282000948c23",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/足阳明胃经.md",
     "2024-05-21.md",
     "二十四节气.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
-    "ThinkBetter/人纪/+Home.md",
     "珊瑚颜色.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "Excel 2019 数据处理.md",
