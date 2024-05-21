@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -155,6 +154,7 @@
   },
   "active": "2e57017be0f6c6ab",
   "lastOpenFiles": [
+    "Charts & Diagrams - Bulk Reef Supply.md",
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
     "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/一句话的玩味.md",
@@ -180,7 +180,6 @@
     "ThinkBetter/知己.md",
     "消渴.md",
     "ThinkBetter/人纪/185 针灸时机.md",
-    "长夏.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
