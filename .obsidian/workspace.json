@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e57017be0f6c6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/足阳明胃经.md"
+                "file": "2024-05-21.md"
               }
             }
           }
@@ -122,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,11 +153,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9679282000948c23",
+  "active": "2e57017be0f6c6ab",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/足阳明胃经.md",
     "2024-05-21.md",
     "二十四节气.md",
     "ThinkBetter/人纪/针灸大成.md",
