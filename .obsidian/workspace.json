@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "小满",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,8 +153,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e57017be0f6c6ab",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
     "ThinkBetter/人纪/足阳明胃经.md",
@@ -179,7 +181,6 @@
     "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/知己.md",
     "消渴.md",
-    "ThinkBetter/人纪/185 针灸时机.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
