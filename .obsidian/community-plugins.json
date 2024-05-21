@@ -27,5 +27,6 @@
   "editor-width-slider",
   "workbench-obsidian",
   "obsidian42-brat",
-  "obsidian-snippet-downloader"
+  "obsidian-snippet-downloader",
+  "obsidian-local-rest-api"
 ]
