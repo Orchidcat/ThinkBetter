@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e57017be0f6c6ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Book/折肱漫录.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Book/折肱漫录.md"
+                "file": "ThinkBetter/人纪/足阳明胃经.md"
               }
             }
           }
@@ -153,8 +139,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e57017be0f6c6ab",
+  "active": "9679282000948c23",
   "lastOpenFiles": [
+    "ThinkBetter/Book/折肱漫录.md",
     "2024-05-21.md",
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
@@ -180,7 +167,6 @@
     "督脉.md",
     "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/知己.md",
-    "消渴.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
