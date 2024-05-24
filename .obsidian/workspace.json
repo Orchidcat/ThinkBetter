@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2d1c269db64d37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/针灸大成.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f9db3184333214a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "足太阴脾经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/足阳明胃经.md"
+                "file": "足太阴脾经.md"
               }
             }
           }
@@ -140,18 +167,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9679282000948c23",
+  "active": "3f9db3184333214a",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
+    "足太阴脾经.md",
+    "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/Book/折肱漫录.md",
     "2024-05-21.md",
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
-    "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
     "二十四节气.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "珊瑚颜色.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -167,7 +195,6 @@
     "make and Makefiles.md",
     "督脉.md",
     "ThinkBetter/人纪/任脉.md",
-    "ThinkBetter/知己.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
