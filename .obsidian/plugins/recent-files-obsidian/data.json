@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "足太阴脾经",
       "path": "足太阴脾经.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/一句话的玩味.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "二十四节气",
@@ -195,10 +199,6 @@
     {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
-    },
-    {
-      "basename": "认知偏见",
-      "path": "认知偏见.md"
     }
   ],
   "omittedPaths": [],

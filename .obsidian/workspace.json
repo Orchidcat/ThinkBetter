@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d4195c2127170685",
+        "id": "8211eab0c745c64c",
         "type": "tabs",
         "children": [
           {
-            "id": "9679282000948c23",
+            "id": "a20aadd9b9f0101c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/足阳明胃经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2d1c269db64d37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f9db3184333214a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "足太阴脾经.md",
+                "file": "ThinkBetter/学习方法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "足太阴脾经.md"
+                "file": "ThinkBetter/学习方法.md"
               }
             }
           }
@@ -167,8 +140,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3f9db3184333214a",
+  "active": "a20aadd9b9f0101c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "足太阴脾经.md",
     "ThinkBetter/人纪/足阳明胃经.md",
@@ -178,7 +152,6 @@
     "Charts & Diagrams - Bulk Reef Supply.md",
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
     "ThinkBetter/一句话的玩味.md",
-    "ThinkBetter/人纪/+Home.md",
     "二十四节气.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "珊瑚颜色.md",
