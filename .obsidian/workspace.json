@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md",
+                "file": "ThinkBetter/Book/Clear Thinking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md"
+                "file": "ThinkBetter/Book/Clear Thinking.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "ff3a336315fa38e7",
   "lastOpenFiles": [
-    "因果关系与相关关系.md",
     "ThinkBetter/100种心智模型.md",
+    "因果关系与相关关系.md",
     "ThinkBetter/愚蠢的来源.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
