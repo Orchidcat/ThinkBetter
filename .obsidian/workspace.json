@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afd862cf5d7a6ca9",
+        "id": "f0c583d0ce0b9d41",
         "type": "tabs",
         "children": [
           {
-            "id": "227fb48eb78ea60d",
+            "id": "ff3a336315fa38e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/004 金匮要略.md",
+                "file": "ThinkBetter/愚蠢的来源.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/004 金匮要略.md"
+                "file": "ThinkBetter/愚蠢的来源.md"
               }
             }
           }
@@ -139,10 +140,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "227fb48eb78ea60d",
+  "active": "ff3a336315fa38e7",
   "lastOpenFiles": [
-    "ThinkBetter/知己.md",
+    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/知己.md",
     "ThinkBetter/人纪/针灸大成.md",
     "足太阴脾经.md",
     "ThinkBetter/人纪/足阳明胃经.md",
@@ -165,8 +168,6 @@
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/Git MOC.md",
-    "make and Makefiles.md",
-    "督脉.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
