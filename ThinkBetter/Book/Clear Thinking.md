@@ -235,12 +235,6 @@ To understand is to know what to do.
 
 
 
-
-
-
-
-
-
 #### Explore possible solutions
 
 想象不同的解决方式，是想象世界未来的改变。—— 回避残酷的现实是决策指定阶段最大的问题。
