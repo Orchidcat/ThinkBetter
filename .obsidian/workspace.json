@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb8a867299ee8b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/足太阴脾经.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -154,15 +167,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4d8c792f953941f2",
+  "active": "eb8a867299ee8b4b",
   "lastOpenFiles": [
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/足太阴脾经.md",
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/少阳为游部⭐.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/100种心智模型.md",
     "因果关系与相关关系.md",
     "ThinkBetter/愚蠢的来源.md",
