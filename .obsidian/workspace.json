@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c583d0ce0b9d41",
+        "id": "f23294c2f4f5a48c",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3a336315fa38e7",
+            "id": "aa55abec30e09775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md",
+                "file": "ThinkBetter/一句话的玩味.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -140,13 +140,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff3a336315fa38e7",
+  "active": "aa55abec30e09775",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/100种心智模型.md",
     "因果关系与相关关系.md",
     "ThinkBetter/愚蠢的来源.md",
     "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/针灸大成.md",
     "足太阴脾经.md",
