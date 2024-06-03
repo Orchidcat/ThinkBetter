@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/人纪/足太阴脾经.md"
               }
             }
           }
@@ -167,11 +167,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eb8a867299ee8b4b",
+  "active": "4d8c792f953941f2",
   "lastOpenFiles": [
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/足太阴脾经.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/少阳为游部⭐.md",
