@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "足太阴脾经.md"
+                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
               }
             }
           }
@@ -154,8 +153,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4d8c792f953941f2",
+  "active": "8ee81f328ea5c8bb",
   "lastOpenFiles": [
+    "足太阴脾经.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -168,7 +168,6 @@
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/针灸大成.md",
-    "足太阴脾经.md",
     "ThinkBetter/人纪/足阳明胃经.md",
     "ThinkBetter/Book/折肱漫录.md",
     "2024-05-21.md",
