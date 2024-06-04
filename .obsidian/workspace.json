@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dd132dd6f688fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "了凡四训.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "了凡四训.md"
               }
             }
           }
@@ -140,15 +154,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b747ebc97a7dbc97",
+  "active": "4dd132dd6f688fcf",
   "lastOpenFiles": [
+    "了凡四训.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/足太阴脾经.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/少阳为游部⭐.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/100种心智模型.md",
     "因果关系与相关关系.md",
     "ThinkBetter/愚蠢的来源.md",
@@ -167,7 +182,6 @@
     "ThinkBetter/人纪/004 金匮要略.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/伤寒理路.md",
-    "ThinkBetter/人纪/手太阴肺经.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
