@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "芒种",
+                "query": "甲乙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -180,7 +179,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f564b140a5cea0a2",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "五俞穴.md",
     "ThinkBetter/人纪/针灸大成.md",
