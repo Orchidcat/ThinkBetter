@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09266456a0f76364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/手少阴心经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9bc1aed59256449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "五俞穴.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b815f3748558ef2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afee23d532f8aff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/手太阳小肠经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/十二经络歌诀.md"
+                "file": "ThinkBetter/人纪/手太阳小肠经.md"
               }
             }
           }
@@ -179,13 +166,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "729b566eb952f0e4",
+  "active": "afee23d532f8aff4",
   "lastOpenFiles": [
+    "五俞穴.md",
+    "ThinkBetter/人纪/手少阴心经.md",
+    "ThinkBetter/十二经络歌诀.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
-    "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/针灸大成.md",
-    "五俞穴.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "ThinkBetter/人纪/足太阴脾经.md",
     "ThinkBetter/人纪/+Home.md",
@@ -206,7 +194,6 @@
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
-    "二十四节气.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
