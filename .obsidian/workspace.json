@@ -21,45 +21,6 @@
             }
           },
           {
-            "id": "385c8d83e9de7854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/手少阴心经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a46795a480ce4ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/足太阴脾经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f564b140a5cea0a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9bc1aed59256449",
             "type": "leaf",
             "state": {
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "五俞穴.md"
+                "file": "ThinkBetter/人纪/手太阳小肠经.md"
               }
             }
           }
@@ -193,14 +153,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f9bc1aed59256449",
+  "active": "09266456a0f76364",
   "lastOpenFiles": [
+    "五俞穴.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/足太阴脾经.md",
-    "五俞穴.md",
     "ThinkBetter/人纪/+Home.md",
     "了凡四训.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
