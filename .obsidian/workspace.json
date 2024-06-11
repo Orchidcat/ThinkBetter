@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md",
+                "file": "ThinkBetter/人纪/手太阳小肠经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/手太阳小肠经.md"
               }
             }
           }
@@ -180,10 +181,11 @@
   },
   "active": "09266456a0f76364",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/人纪/手太阳小肠经.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/足太阴脾经.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "五俞穴.md",
     "ThinkBetter/人纪/+Home.md",
     "了凡四训.md",
@@ -205,7 +207,6 @@
     "Obsidian 的本地 Rest API：交互式 API 文档.md",
     "二十四节气.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
-    "珊瑚颜色.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
