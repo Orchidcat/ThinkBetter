@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手太阴肺经.md"
+                "file": "ThinkBetter/人纪/手少阴心经.md"
               }
             }
           }
@@ -178,13 +179,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "09266456a0f76364",
+  "active": "385c8d83e9de7854",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/手少阴心经.md",
+    "ThinkBetter/人纪/足太阴脾经.md",
     "ThinkBetter/人纪/手太阴肺经.md",
+    "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/针灸大成.md",
     "五俞穴.md",
-    "ThinkBetter/人纪/足太阴脾经.md",
     "ThinkBetter/人纪/+Home.md",
     "了凡四训.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
