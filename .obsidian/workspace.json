@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f564b140a5cea0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/针灸大成.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/手少阴心经.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -167,7 +180,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "385c8d83e9de7854",
+  "active": "f564b140a5cea0a2",
   "lastOpenFiles": [
     "ThinkBetter/人纪/足太阴脾经.md",
     "ThinkBetter/人纪/手少阴心经.md",
