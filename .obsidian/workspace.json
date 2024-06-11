@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb83fe8fad2beba",
+        "id": "5a2fd993441300bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b747ebc97a7dbc97",
+            "id": "09266456a0f76364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd132dd6f688fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/六气.md",
+                "file": "ThinkBetter/人纪/针灸大成.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/六气.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -153,12 +139,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4dd132dd6f688fcf",
+  "active": "09266456a0f76364",
   "lastOpenFiles": [
-    "了凡四训.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/足太阴脾经.md",
+    "了凡四训.md",
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
