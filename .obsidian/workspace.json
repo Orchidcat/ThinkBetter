@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Book/折肱漫录.md"
+                "file": "ThinkBetter/人纪/手太阳小肠经.md"
               }
             }
           }
@@ -179,12 +179,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff08b44bfcd346d5",
+  "active": "afee23d532f8aff4",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/手太阳小肠经.md",
     "五俞穴.md",
-    "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/十二经络歌诀.md",
+    "ThinkBetter/人纪/手太阳小肠经.md",
+    "ThinkBetter/Book/折肱漫录.md",
+    "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阴肺经.md",
@@ -202,7 +203,6 @@
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/足阳明胃经.md",
-    "ThinkBetter/Book/折肱漫录.md",
     "2024-05-21.md",
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
