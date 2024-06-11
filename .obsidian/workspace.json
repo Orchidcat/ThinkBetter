@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b815f3748558ef2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "五俞穴.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +160,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f9bc1aed59256449",
+  "active": "b815f3748558ef2e",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/手太阳小肠经.md",
     "五俞穴.md",
+    "ThinkBetter/人纪/手太阳小肠经.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/手太阴肺经.md",
     "ThinkBetter/人纪/手少阴心经.md",
