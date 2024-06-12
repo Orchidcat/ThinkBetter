@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/会郄治疗.md"
+                "file": "ThinkBetter/人纪/足太阳膀胱经.md"
               }
             }
           }
@@ -154,10 +153,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7c4c781835d38210",
+  "active": "14260b47f723a46c",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/会郄治疗.md",
+    "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
