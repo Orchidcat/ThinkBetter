@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c4c781835d38210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/会郄治疗.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/足太阳膀胱经.md"
+                "file": "ThinkBetter/人纪/会郄治疗.md"
               }
             }
           }
@@ -140,10 +154,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "14260b47f723a46c",
+  "active": "7c4c781835d38210",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
+    "ThinkBetter/人纪/会郄治疗.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
     "五俞穴.md",
@@ -167,7 +182,6 @@
     "ThinkBetter/人纪/足阳明胃经.md",
     "2024-05-21.md",
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
-    "Charts & Diagrams - Bulk Reef Supply.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
