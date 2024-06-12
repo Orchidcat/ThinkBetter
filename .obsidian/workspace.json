@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94cb20036cb048b4",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9284a5813a25812",
+            "id": "691b88bd716e43b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,19 +134,19 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a9284a5813a25812",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/俞募治疗.md",
     "ThinkBetter/Book/Clear Thinking.md",
     "ThinkBetter/一句话的玩味.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/会郄治疗.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
