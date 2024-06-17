@@ -54,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/足太阳膀胱经.md"
               }
             }
           }
@@ -174,12 +173,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "68f0ca8264392fda",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/血证论 by 清·唐容川.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/GTD.md",
