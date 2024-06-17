@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d30bea76b7082d0",
+        "id": "b64932b3c3ce8575",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe813d583d213bc",
+            "id": "68f0ca8264392fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md",
+                "file": "ThinkBetter/人纪/足太阳膀胱经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/人纪/足太阳膀胱经.md"
               }
             }
           }
@@ -141,16 +141,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbe813d583d213bc",
+  "active": "68f0ca8264392fda",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/GTD.md",
     "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/俞募治疗.md",
     "ThinkBetter/Book/Clear Thinking.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/会郄治疗.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
