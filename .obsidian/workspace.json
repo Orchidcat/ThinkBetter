@@ -41,8 +41,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/人纪/足太阳膀胱经.md"
               }
             }
           }
@@ -161,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "166a5a9f976b6ef1",
+  "active": "68f0ca8264392fda",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/GTD.md",
