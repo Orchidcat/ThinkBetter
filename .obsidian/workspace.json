@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "中国历代政治得失.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "中国历代政治得失.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,15 +141,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f01f5265b7dbfb73",
+  "active": "30633cfaad614b9c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "中国历代政治得失.md",
     "ThinkBetter/人纪/135 卫气营血辨证.md",
     "ThinkBetter/人纪/015 病位辩证.md",
     "ThinkBetter/科举.md",
     "ThinkBetter/蚕丝-钱学森传.md",
     "ThinkBetter/一句话的玩味.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/166 血证论.md",
