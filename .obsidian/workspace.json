@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "初中物理基础判断.md"
+                "file": "中国历代政治得失.md"
               }
             }
           }
@@ -155,7 +154,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10a88ecd1ba410a1",
+  "active": "f01f5265b7dbfb73",
   "lastOpenFiles": [
     "初中物理基础判断.md",
     "中国历代政治得失.md",
