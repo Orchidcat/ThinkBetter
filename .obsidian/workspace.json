@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be1920b3b991701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中国历代政治得失.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -154,11 +168,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f01f5265b7dbfb73",
+  "active": "3be1920b3b991701",
   "lastOpenFiles": [
-    "初中物理基础判断.md",
-    "中国历代政治得失.md",
     "ThinkBetter/人纪/+Home.md",
+    "中国历代政治得失.md",
+    "初中物理基础判断.md",
     "ThinkBetter/人纪/135 卫气营血辨证.md",
     "ThinkBetter/人纪/015 病位辩证.md",
     "ThinkBetter/科举.md",
