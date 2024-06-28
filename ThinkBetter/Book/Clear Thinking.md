@@ -554,7 +554,7 @@ It is not that we have a short time to live, but that we waste a lot of it.
 
 <mark style="background: #ADCCFFA6;">智慧是把你未来的后见之明变成你现在的远见。</mark>在那一刻看起来重要的事情在生活中很少重要，而生活中重要的事情在那一刻总是重要的。
 
-<mark style="background: #ADCCFFA6;">当我们没有朝着我们想要结束的方向前进时，我们最终会后悔我们结束的地方</mark>。**避免后悔**是生活满意度的关键组成部分。
+<mark style="background: #ADCCFFA6;">当我们没有朝着我们想要结束的方向前进时，我们最终会在结束的地方后悔</mark>。**避免后悔**是生活满意度的关键组成部分。
 
 
 这不是要弄清楚如何在今天取得成功，而是要理解我们为什么以及如何在心中构建我们的生活。好的判断，最重要的是有智慧。
