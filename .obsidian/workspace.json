@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +149,10 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "homepage:Open homepage": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "94e665f336fb59d6",
