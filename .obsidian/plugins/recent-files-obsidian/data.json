@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "掌控习惯",
+      "path": "ThinkBetter/掌控习惯.md"
+    },
+    {
       "basename": "Clear Thinking",
       "path": "ThinkBetter/Book/Clear Thinking.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "make and Makefiles",
       "path": "make and Makefiles.md"
-    },
-    {
-      "basename": "Git MOC",
-      "path": "ThinkBetter/Git MOC.md"
     }
   ],
   "omittedPaths": [],

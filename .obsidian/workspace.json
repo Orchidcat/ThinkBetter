@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md",
+                "file": "ThinkBetter/掌控习惯.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md"
+                "file": "ThinkBetter/掌控习惯.md"
               }
             }
           }
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +156,7 @@
   },
   "active": "94e665f336fb59d6",
   "lastOpenFiles": [
+    "ThinkBetter/Book/Clear Thinking.md",
     "初中物理基础判断.md",
     "中国历代政治得失.md",
     "ThinkBetter/一句话的玩味.md",
@@ -172,7 +172,6 @@
     "ThinkBetter/GTD.md",
     "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/俞募治疗.md",
-    "ThinkBetter/Book/Clear Thinking.md",
     "ThinkBetter/人纪/会郄治疗.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/人纪/手太阳小肠经.md",
