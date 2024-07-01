@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c709f95f8914f3e4",
+        "id": "d375a76b0818ed44",
         "type": "tabs",
         "children": [
           {
-            "id": "94e665f336fb59d6",
+            "id": "103a39f908487364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md",
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "108b0a00c9ac4dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/088 热极生风.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卫气",
+                "query": "抽搐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Book/Clear Thinking.md"
+                "file": "ThinkBetter/人纪/088 热极生风.md"
               }
             }
           }
@@ -141,14 +154,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "94e665f336fb59d6",
+  "active": "108b0a00c9ac4dd2",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/076 六淫辩证.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/Book/Clear Thinking.md",
     "ThinkBetter/掌控习惯.md",
     "初中物理基础判断.md",
-    "ThinkBetter/Book/Clear Thinking.md",
     "中国历代政治得失.md",
     "ThinkBetter/一句话的玩味.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/135 卫气营血辨证.md",
     "ThinkBetter/人纪/015 病位辩证.md",
     "ThinkBetter/科举.md",
@@ -168,7 +182,6 @@
     "ThinkBetter/Book/折肱漫录.md",
     "ThinkBetter/人纪/手少阴心经.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
-    "ThinkBetter/人纪/手太阴肺经.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
