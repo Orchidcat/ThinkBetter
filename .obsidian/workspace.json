@@ -11,9 +11,12 @@
             "id": "cbb32503ad916b50",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Sources/Pasted image 20240318115223.png"
+                "file": "ThinkBetter/人纪/胰脏的解说.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Sources/Pasted image 20240318115223.png"
+                "file": "ThinkBetter/人纪/胰脏的解说.md"
               }
             }
           }
@@ -140,6 +143,7 @@
   },
   "active": "cbb32503ad916b50",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/三焦考.md",
@@ -165,7 +169,6 @@
     "ThinkBetter/人纪/俞募治疗.md",
     "ThinkBetter/人纪/会郄治疗.md",
     "ThinkBetter/+Home.md",
-    "ThinkBetter/人纪/手太阳小肠经.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
