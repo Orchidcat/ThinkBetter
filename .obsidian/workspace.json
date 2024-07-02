@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/元气.md",
+                "file": "ThinkBetter/Book/折肱漫录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/元气.md"
+                "file": "ThinkBetter/Book/折肱漫录.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   },
   "active": "cbb32503ad916b50",
   "lastOpenFiles": [
+    "ThinkBetter/元气.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/胰脏的解说.md",
