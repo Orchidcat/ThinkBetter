@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ce9d5f9a5a9af6",
+        "id": "d62d3baeca9fcf42",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb32503ad916b50",
+            "id": "95b1c96846e99ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/升陷汤.md",
+                "file": "ThinkBetter/一句话的玩味.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/升陷汤.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -141,8 +141,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cbb32503ad916b50",
+  "active": "95b1c96846e99ff1",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/升陷汤.md",
     "ThinkBetter/大气.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/元气.md",
@@ -152,7 +154,6 @@
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/三焦考.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/088 热极生风.md",
     "ThinkBetter/人纪/076 六淫辩证.md",
@@ -169,7 +170,6 @@
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/血证论 by 清·唐容川.md",
     "ThinkBetter/GTD.md",
-    "ThinkBetter/人纪/俞募治疗.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
