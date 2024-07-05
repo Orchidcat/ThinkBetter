@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d62d3baeca9fcf42",
+        "id": "dde97f8ef5f1fbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "95b1c96846e99ff1",
+            "id": "560e7edc6f455159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md",
+                "file": "ThinkBetter/Git MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/Git MOC.md"
               }
             }
           }
@@ -141,9 +141,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "95b1c96846e99ff1",
+  "active": "560e7edc6f455159",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/升陷汤.md",
     "ThinkBetter/大气.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
@@ -154,7 +155,6 @@
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/三焦考.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/088 热极生风.md",
     "ThinkBetter/人纪/076 六淫辩证.md",
     "ThinkBetter/Book/Clear Thinking.md",
