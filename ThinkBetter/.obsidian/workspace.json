@@ -4,74 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4720c6c73d4e844b",
+        "id": "95cc863aa789bc50",
         "type": "tabs",
         "children": [
           {
-            "id": "f34c0951c1ab7fb0",
+            "id": "ff06df9b42612042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39dfe227f784e52f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "人纪/000 @ 人纪 - Map.canvas",
-                "viewState": {
-                  "x": -920,
-                  "y": -684.5,
-                  "zoom": -2.9510903995190536
-                }
-              }
-            }
-          },
-          {
-            "id": "c159cd6c9cf8d09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f677201c99c230c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "814705189dbfc7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-19.md",
+                "file": "100种心智模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -144,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54c6b485c34725f9",
@@ -180,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "100种心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-19.md"
+                "file": "100种心智模型.md"
               }
             }
           },
@@ -202,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19.md",
+                "file": "100种心智模型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,36 +198,40 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "814705189dbfc7fc",
+  "active": "ff06df9b42612042",
   "lastOpenFiles": [
+    "心智模型 MOC.md",
+    "人纪/+Home.md",
+    "Books.md",
+    "业余者与专业者的区别.md",
+    "思想实验.md",
+    "倒置.md",
+    "2024-04-23.md",
+    "Sources/Pasted image 20240423162305.png",
+    "第一性原理.md",
+    "100种心智模型.md",
+    "如何停止在不重要的细节上浪费时间.md",
+    "Tools.md",
+    "医林改错.md",
+    "2024-04-22.md",
+    "人纪/194 中医诊断学.md",
+    "人纪/148 五问饮食.md",
+    "人纪/195 子午流注.md",
+    "人纪/121 四问便.md",
+    "人纪/097 三问头身.md",
+    "人纪/001 @MOC中医.md",
+    "人纪/128 痰饮水湿.md",
+    "常人.md",
+    "人纪/004 金匮要略.md",
+    "2024-04-19.md",
+    "人纪/002 黄帝内经.md",
+    "人纪/012 辨太阳病脉症并治法.md",
+    "Sources/Pasted image 20240422105332.png",
+    "Sources/Pasted image 20240422104749.png",
+    "Sources/Pasted image 20240422095531.png",
     "Sources/Pasted image 20240419162829.png",
     "人纪/000 @ 人纪 - Map.canvas",
-    "Books.md",
-    "2024-04-18.md",
-    "2024-04-19.md",
-    "Book/深入理解Java虚拟机.md",
-    "自己动手写Java虚拟机.md",
-    "人纪/169 腰背维修师，脊柱保健秘诀.md",
-    "人纪/针灸甲乙经.md",
-    "中医执业.md",
-    "American Steel.md",
-    "人纪/+Home.md",
-    "人纪/My Epic Life Quest.md",
-    "target note.md",
     "Map.canvas",
-    "Questions.md",
-    "NotToDo.md",
-    "基本Q.md",
-    "第一性原理.md",
-    "GTD.md",
-    "人纪/养生之道.md",
-    "糟糕的争论.md",
-    "一周是一年的2%.md",
-    "kindle使用技巧.md",
-    "SQL Server is terminating because of fatal exception 80000003..md",
-    "十二经络歌诀.md",
-    "人纪/204 zy-总论.md",
-    "人纪/203 zy-诊断学.md",
     "Sources/Pasted image 20240418121504.png",
     "Sources/Pasted image 20240412113211.png",
     "人纪/药",
@@ -288,11 +240,6 @@
     "Sources/Pasted image 20240407144145.png",
     "Sources/Pasted image 20240407135252.png",
     "Sources/Pasted image 20240407120145.png",
-    "Sources/Pasted image 20240407112440.png",
-    "Sources/Pasted image 20240407111559.png",
-    "Sources/Pasted image 20240407104632.png",
-    "Sources/Pasted image 20240329154744.png",
-    "Sources/dc3a52632a939169e9700605cb16504.png",
     "人纪/伤寒论",
     "Book",
     "Spaces/Home",

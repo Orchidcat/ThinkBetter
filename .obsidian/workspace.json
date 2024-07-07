@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027855714ea60c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -139,11 +153,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ecf2a7e8ba78df31",
+  "active": "027855714ea60c9e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/2024-04-18.md",
+    "conflict-files-obsidian-git.md",
     "鬼门十三针.md",
     "长夏.md",
     "认知偏见.md",
@@ -166,7 +179,8 @@
     "ThinkBetter/通窍活血汤.md",
     "ThinkBetter/血府逐淤汤.md",
     "ThinkBetter/常人.md",
-    "ThinkBetter/医林改错.md",
+    "ThinkBetter/人纪/医林改错.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",

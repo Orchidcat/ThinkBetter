@@ -1,7 +1,9 @@
 
 参考阅读 https://backlog.com/git-tutorial/cn/intro/intro1_1.html
+[Git 的故事：這一次沒這麼好玩 | 軟體考古學家](https://blog.brachiosoft.com/posts/git/)
+#Git 
 
-
+[[make and Makefiles]]
 # 版本控制软件（VCS)
 - 集中式版本控制（CVC）- Subversion
 - 分布式版本控制（DVCS）- Git

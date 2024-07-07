@@ -10,14 +10,6 @@
   ],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
   "obsidian-auto-link-title:enhance-url-with-title": [],
-  "tag-pane:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "flashcards-obsidian:generate-flashcard-current-file": [
     {
       "modifiers": [
@@ -34,5 +26,15 @@
       ],
       "key": "ArrowLeft"
     }
-  ]
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-advanced-slides:reload-advanced-slides-preview": [],
+  "obsidian-advanced-slides:open-advanced-slides-preview": []
 }
