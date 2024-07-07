@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/超速学习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/超速学习.md"
               }
             }
           }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +139,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f0ed5d6c26966d07",
+  "active": "ecf2a7e8ba78df31",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/+Home.md",
+    "conflict-files-obsidian-git.md",
     "鬼门十三针.md",
     "长夏.md",
     "认知偏见.md",
