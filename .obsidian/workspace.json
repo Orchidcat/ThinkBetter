@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d85676f53e3f0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/超速学习.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -140,8 +154,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ecf2a7e8ba78df31",
+  "active": "5d85676f53e3f0f4",
   "lastOpenFiles": [
+    "ThinkBetter/超速学习.md",
+    "ThinkBetter/我们是如何衡量学会没有的.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "鬼门十三针.md",
@@ -166,8 +182,6 @@
     "ThinkBetter/通窍活血汤.md",
     "ThinkBetter/血府逐淤汤.md",
     "ThinkBetter/常人.md",
-    "ThinkBetter/人纪/医林改错.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",
