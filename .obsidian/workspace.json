@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "027855714ea60c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcl/list-column",
+                "query": "计划",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -153,10 +138,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "027855714ea60c9e",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
+    "ThinkBetter/人纪/+Home.md",
     "鬼门十三针.md",
     "长夏.md",
     "认知偏见.md",
