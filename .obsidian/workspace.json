@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "抽搐",
+                "query": "桂枝汤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/人纪/001 @MOC中医.md"
               }
             }
           }
@@ -140,10 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf5270120f4b0c7e",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/人纪/001 @MOC中医.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/医林改错.md",
