@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dde97f8ef5f1fbe8",
+        "id": "dc3f8c1571a06bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "560e7edc6f455159",
+            "id": "79b8b33edc1ec72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "560e7edc6f455159",
+  "active": "79b8b33edc1ec72f",
   "lastOpenFiles": [
     "ThinkBetter/Git MOC.md",
     "ThinkBetter/人纪/+Home.md",
