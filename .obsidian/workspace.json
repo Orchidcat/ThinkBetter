@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/人纪/004 金匮要略.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "桂枝汤",
+                "query": "发热",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/人纪/004 金匮要略.md"
               }
             }
           }
@@ -143,8 +142,8 @@
   },
   "active": "ad95c21446528a59",
   "lastOpenFiles": [
-    "ThinkBetter/第一性原理.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/第一性原理.md",
     "ThinkBetter/杂记.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/任脉.md",
