@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4bfeb00aa1478f",
+        "id": "73f44c675fe22396",
         "type": "tabs",
         "children": [
           {
-            "id": "465917de7693dbe7",
+            "id": "fc483646af5fca50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/人纪/001 @MOC中医.md"
               }
             }
           }
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,10 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "465917de7693dbe7",
+  "active": "fc483646af5fca50",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/+Home.md",
+    "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/医林改错.md",
     "ThinkBetter/Git MOC.md",
