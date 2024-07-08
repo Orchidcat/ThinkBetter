@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daa9067ddfa065da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -141,10 +155,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79b8b33edc1ec72f",
+  "active": "daa9067ddfa065da",
   "lastOpenFiles": [
-    "ThinkBetter/Git MOC.md",
     "ThinkBetter/人纪/+Home.md",
+    "conflict-files-obsidian-git.md",
+    "ThinkBetter/人纪/折肱漫录.md",
+    "ThinkBetter/人纪/医林改错.md",
+    "ThinkBetter/Git MOC.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/升陷汤.md",
     "ThinkBetter/大气.md",
@@ -167,9 +184,6 @@
     "ThinkBetter/科举.md",
     "ThinkBetter/蚕丝-钱学森传.md",
     "ThinkBetter/人纪/足太阳膀胱经.md",
-    "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/166 血证论.md",
-    "ThinkBetter/Books/血证论 by 清·唐容川.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
