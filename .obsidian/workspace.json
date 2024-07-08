@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "发热",
+                "query": "喘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ad95c21446528a59",
+  "active": "f0ed5d6c26966d07",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/第一性原理.md",
