@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md",
+                "file": "ThinkBetter/杂记.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md"
+                "file": "ThinkBetter/杂记.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "cf5270120f4b0c7e",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
+    "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/折肱漫录.md",
