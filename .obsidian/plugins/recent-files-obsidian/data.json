@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "第一性原理",
+      "path": "ThinkBetter/第一性原理.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "杂记",
       "path": "ThinkBetter/杂记.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "任脉",
       "path": "ThinkBetter/人纪/任脉.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "Git MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "知己",
       "path": "ThinkBetter/知己.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
     }
   ],
   "omittedPaths": [],
