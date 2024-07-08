@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73f44c675fe22396",
+        "id": "fa36f820b7e1c720",
         "type": "tabs",
         "children": [
           {
-            "id": "fc483646af5fca50",
+            "id": "cf5270120f4b0c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -140,8 +140,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc483646af5fca50",
+  "active": "cf5270120f4b0c7e",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/折肱漫录.md",
@@ -157,7 +158,6 @@
     "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/三焦考.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/088 热极生风.md",
     "ThinkBetter/人纪/076 六淫辩证.md",
     "ThinkBetter/Book/Clear Thinking.md",
