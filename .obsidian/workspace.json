@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8247c5d0defbbcaa",
+        "id": "6076ff07f73752ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f3549a88e1fad056",
+            "id": "ad95c21446528a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/第一性原理.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/第一性原理.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -141,8 +141,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3549a88e1fad056",
+  "active": "ad95c21446528a59",
   "lastOpenFiles": [
+    "ThinkBetter/第一性原理.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/杂记.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -169,7 +170,6 @@
     "中国历代政治得失.md",
     "ThinkBetter/人纪/135 卫气营血辨证.md",
     "ThinkBetter/人纪/015 病位辩证.md",
-    "ThinkBetter/科举.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
