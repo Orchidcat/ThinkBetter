@@ -47,7 +47,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0ed5d6c26966d07",
+            "id": "c6f982b1d437b289",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "884acab7f7bdeb02",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0aeaf2584b194eb0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,35 +78,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "c6f982b1d437b289",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
-          {
-            "id": "c47294b26ab875b1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "884acab7f7bdeb02",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +142,9 @@
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
     }
   },
   "active": "08f75bf88935fd38",

@@ -5,11 +5,11 @@
   "graph",
   "canvas",
   "tag-pane",
-  "templates",
   "note-composer",
   "command-palette",
-  "bookmarks",
+  "random-note",
   "outline",
   "word-count",
+  "workspaces",
   "file-recovery"
 ]
