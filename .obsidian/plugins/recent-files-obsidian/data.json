@@ -5,6 +5,10 @@
       "path": "脾胃论.md"
     },
     {
+      "basename": "长夏",
+      "path": "长夏.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "因果关系与相关关系",
       "path": "因果关系与相关关系.md"
-    },
-    {
-      "basename": "愚蠢的来源",
-      "path": "ThinkBetter/愚蠢的来源.md"
     }
   ],
   "omittedPaths": [],
