@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "补中益气汤.md"
+                "file": "脾胃论.md"
               }
             }
           }
@@ -156,10 +155,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ec60c1ec23c07884",
+  "active": "08f75bf88935fd38",
   "lastOpenFiles": [
-    "脾胃论.md",
     "补中益气汤.md",
+    "脾胃论.md",
     "长夏.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
