@@ -9,5 +9,6 @@
     "MCL Wide Views"
   ],
   "baseFontSizeAction": true,
-  "textFontFamily": "霞鹜文楷"
+  "textFontFamily": "霞鹜文楷",
+  "nativeMenus": true
 }
