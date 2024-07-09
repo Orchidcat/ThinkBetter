@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec60c1ec23c07884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "补中益气汤.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脾胃论.md"
+                "file": "补中益气汤.md"
               }
             }
           }
@@ -142,10 +156,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08f75bf88935fd38",
+  "active": "ec60c1ec23c07884",
   "lastOpenFiles": [
-    "长夏.md",
     "脾胃论.md",
+    "补中益气汤.md",
+    "长夏.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -170,7 +185,6 @@
     "ThinkBetter/人纪/088 热极生风.md",
     "ThinkBetter/人纪/076 六淫辩证.md",
     "ThinkBetter/Book/Clear Thinking.md",
-    "ThinkBetter/掌控习惯.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
