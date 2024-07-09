@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "君臣",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "08f75bf88935fd38",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "补中益气汤.md",
     "ThinkBetter/人纪/+Home.md",
