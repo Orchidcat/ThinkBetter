@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "君臣",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,8 +151,9 @@
   },
   "active": "08f75bf88935fd38",
   "lastOpenFiles": [
-    "补中益气汤.md",
+    "ThinkBetter/人纪/070 君臣佐使.md",
     "ThinkBetter/人纪/脾胃论.md",
+    "补中益气汤.md",
     "长夏.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
@@ -176,7 +178,6 @@
     "ThinkBetter/三焦考.md",
     "ThinkBetter/人纪/088 热极生风.md",
     "ThinkBetter/人纪/076 六淫辩证.md",
-    "ThinkBetter/Book/Clear Thinking.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
