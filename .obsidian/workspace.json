@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "补中益气汤.md"
+                "file": "ThinkBetter/人纪/脾胃论.md"
               }
             }
           }
@@ -150,10 +149,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ec60c1ec23c07884",
+  "active": "08f75bf88935fd38",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/脾胃论.md",
     "补中益气汤.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/折肱漫录.md",
