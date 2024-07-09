@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6076ff07f73752ab",
+        "id": "3df4c7d1e475c2d7",
         "type": "tabs",
         "children": [
           {
-            "id": "ad95c21446528a59",
+            "id": "08f75bf88935fd38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五苓散",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/012 辨太阳病脉症并治法.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -140,8 +141,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ad95c21446528a59",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/第一性原理.md",
@@ -168,7 +170,6 @@
     "ThinkBetter/掌控习惯.md",
     "初中物理基础判断.md",
     "中国历代政治得失.md",
-    "ThinkBetter/人纪/135 卫气营血辨证.md",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
     "Pasted image 20240428095238.png",
