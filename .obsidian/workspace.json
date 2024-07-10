@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#养生",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,9 +164,10 @@
   },
   "active": "08f75bf88935fd38",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/养生之道.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "黄芪人参汤.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/脾胃论.md",
     "补中益气汤.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -187,7 +188,6 @@
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/元气.md",
     "ThinkBetter/Book/折肱漫录.md",
-    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "ThinkBetter/三焦考.md",
