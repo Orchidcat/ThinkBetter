@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c262baabb5962b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md"
+                "file": "ThinkBetter/人纪/001 @MOC中医.md"
               }
             }
           }
@@ -163,12 +176,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9202d415d736f51e",
+  "active": "c262baabb5962b7d",
   "lastOpenFiles": [
+    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/养生之道.md",
     "黄芪人参汤.md",
-    "ThinkBetter/脉诊学习.md",
     "补中益气汤.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
