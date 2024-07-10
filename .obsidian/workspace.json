@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -162,10 +163,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "08f75bf88935fd38",
+  "active": "9202d415d736f51e",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/脾胃论.md",
+    "ThinkBetter/人纪/养生之道.md",
     "黄芪人参汤.md",
     "ThinkBetter/脉诊学习.md",
     "补中益气汤.md",
