@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b57217312a54b6f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逻辑哲学论.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md"
+                "file": "逻辑哲学论.md"
               }
             }
           }
@@ -149,10 +162,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "b57217312a54b6f6",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/003 伤寒论.md",
+    "逻辑哲学论.md",
     "ThinkBetter/人纪/脾胃论.md",
+    "ThinkBetter/人纪/003 伤寒论.md",
     "Pasted image 20240711085712.png",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -177,7 +191,6 @@
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/元气.md",
     "ThinkBetter/Book/折肱漫录.md",
-    "ThinkBetter/人纪/胰脏的解说.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
