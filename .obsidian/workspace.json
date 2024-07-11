@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑哲学论.md"
+                "file": "ThinkBetter/人纪/脾胃论.md"
               }
             }
           }
@@ -162,7 +162,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b57217312a54b6f6",
+  "active": "abb67b1e4a3e1891",
   "lastOpenFiles": [
     "逻辑哲学论.md",
     "ThinkBetter/人纪/脾胃论.md",
