@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abb67b1e4a3e1891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/脾胃论.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/003 伤寒论.md"
+                "file": "ThinkBetter/人纪/脾胃论.md"
               }
             }
           }
@@ -135,8 +149,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "abb67b1e4a3e1891",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/003 伤寒论.md",
     "ThinkBetter/人纪/脾胃论.md",
     "Pasted image 20240711085712.png",
     "ThinkBetter/人纪/+Home.md",
