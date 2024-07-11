@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#养生",
+                "query": "中风",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6b8b08a217072e5a",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "Pasted image 20240711085712.png",
     "ThinkBetter/人纪/+Home.md",
