@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -134,7 +135,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6b8b08a217072e5a",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/脾胃论.md",
     "Pasted image 20240711085712.png",
