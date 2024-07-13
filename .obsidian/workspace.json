@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f14f69d56f0a7962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75f6cc67193448a6",
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -172,12 +186,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "24b9af6cf08f99b3",
+  "active": "f14f69d56f0a7962",
   "lastOpenFiles": [
-    "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/脉诊学习.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "conflict-files-obsidian-git.md",
     "脾胃论.md",
     "黄芪人参汤.md",
