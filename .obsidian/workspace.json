@@ -38,8 +38,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d5615663241c910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/脉诊学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/针灸大成.md"
+                "file": "ThinkBetter/脉诊学习.md"
               }
             }
           }
@@ -159,8 +173,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "24b9af6cf08f99b3",
+  "active": "0d5615663241c910",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
@@ -187,7 +202,6 @@
     "关于肥胖.md",
     "充分必要条件.md",
     "五俞穴.md",
-    "了凡四训.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",
