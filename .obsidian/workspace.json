@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75f6cc67193448a6",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/人纪/脾胃论.md"
               }
             }
           }
@@ -186,8 +185,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f14f69d56f0a7962",
+  "active": "024f417096820776",
   "lastOpenFiles": [
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/脉诊学习.md",
@@ -198,7 +198,6 @@
     "逻辑哲学论.md",
     "补中益气汤.md",
     "Pasted image 20240711085712.png",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/超速学习.md",
     "ThinkBetter/我们是如何衡量学会没有的.md",
     "鬼门十三针.md",
