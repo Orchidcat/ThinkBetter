@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24b9af6cf08f99b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/针灸大成.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计划",
+                "query": "丑肝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md"
+                "file": "ThinkBetter/人纪/针灸大成.md"
               }
             }
           }
@@ -140,15 +154,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "024f417096820776",
+  "active": "24b9af6cf08f99b3",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "脾胃论.md",
     "黄芪人参汤.md",
     "逻辑哲学论.md",
     "补中益气汤.md",
-    "ThinkBetter/人纪/脾胃论.md",
     "Pasted image 20240711085712.png",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/超速学习.md",
