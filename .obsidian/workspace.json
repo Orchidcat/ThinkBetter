@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/make it stick.md"
+                "file": "ThinkBetter/Books.md"
               }
             }
           }
@@ -149,10 +148,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0ab319cfca22728d",
+  "active": "4e9ce7291ceee5be",
   "lastOpenFiles": [
-    "ThinkBetter/Books.md",
     "ThinkBetter/make it stick.md",
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/第一性原理.md",
