@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ab319cfca22728d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/make it stick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "ThinkBetter/make it stick.md"
               }
             }
           }
@@ -135,10 +149,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4e9ce7291ceee5be",
+  "active": "0ab319cfca22728d",
   "lastOpenFiles": [
-    "ThinkBetter/make it stick.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/第一性原理.md",
