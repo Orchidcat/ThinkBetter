@@ -5,6 +5,10 @@
       "path": "ThinkBetter/make it stick.md"
     },
     {
+      "basename": "105 神农本草经",
+      "path": "ThinkBetter/人纪/105 神农本草经.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "手太阳小肠经",
       "path": "ThinkBetter/人纪/手太阳小肠经.md"
-    },
-    {
-      "basename": "五俞穴",
-      "path": "五俞穴.md"
     }
   ],
   "omittedPaths": [],
