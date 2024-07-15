@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/第一性原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -136,8 +137,8 @@
   },
   "active": "4e9ce7291ceee5be",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ThinkBetter/人纪/+Home.md",
+    "conflict-files-obsidian-git.md",
     "ThinkBetter/思考问题的三个过滤器.md",
     "逻辑哲学论.md",
     "ThinkBetter/人纪/脾胃论.md",
