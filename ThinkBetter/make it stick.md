@@ -12,3 +12,4 @@ rating:
 calibre 已含有
 
 
+1. 学习需要记忆

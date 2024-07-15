@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/make it stick.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "ThinkBetter/make it stick.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "4e9ce7291ceee5be",
   "lastOpenFiles": [
-    "ThinkBetter/make it stick.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/第一性原理.md",
