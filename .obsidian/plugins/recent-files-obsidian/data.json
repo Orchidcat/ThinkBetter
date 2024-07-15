@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "愿望清单 MOC",
+      "path": "ThinkBetter/愿望清单 MOC.md"
     },
     {
       "basename": "第一性原理",
@@ -191,10 +199,6 @@
     {
       "basename": "十二经络歌诀",
       "path": "ThinkBetter/十二经络歌诀.md"
-    },
-    {
-      "basename": "手少阴心经",
-      "path": "ThinkBetter/人纪/手少阴心经.md"
     }
   ],
   "omittedPaths": [],
