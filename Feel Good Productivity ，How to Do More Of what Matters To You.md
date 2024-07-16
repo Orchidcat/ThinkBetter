@@ -39,7 +39,7 @@ to learn to think like a productivity scientist.
 ### Post-it Note
 
 _What would this look like if it were fun?_
-
+Enjoy the Process, Not the Outcome
 
 
 ## 疏通
