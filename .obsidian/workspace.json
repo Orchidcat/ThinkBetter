@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ef6159ed55278b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/make it stick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
+                "file": "ThinkBetter/make it stick.md"
               }
             }
           }
@@ -167,12 +180,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "52c2ad4ef03f7ed5",
+  "active": "1ef6159ed55278b0",
   "lastOpenFiles": [
+    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240716105002.png",
-    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/070 君臣佐使.md",
     "ThinkBetter/一句话的玩味.md",
