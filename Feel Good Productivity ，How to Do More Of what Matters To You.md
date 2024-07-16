@@ -44,7 +44,8 @@ Reframe Your Failure
 	成功并不取决于你失败的频率。这是关于你如何定义你的失败。
 	No failure is ever just a failure. It’s an invitation to try something new.
 **Don’t Be Serious. Be Sincere**
-
+	认真与真诚是有区别的
+	在轻浮中有一种可以上升的轻盈。但严肃是一种坠落的重力，就像一块石头。
 
 
 ## 疏通
