@@ -41,6 +41,7 @@ to learn to think like a productivity scientist.
 _What would this look like if it were fun?_
 Enjoy the Process, Not the Outcome
 Reframe Your Failure
+	成功并不取决于你失败的频率。这是关于你如何定义你的失败。
 
 ## 疏通
 
