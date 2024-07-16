@@ -31,7 +31,8 @@ to learn to think like a productivity scientist.
 
 
 
-
+参考
+rote-learn ： 死记硬背
 
 
 
