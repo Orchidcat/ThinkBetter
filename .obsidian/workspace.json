@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "838a07db3f642f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/make it stick.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -135,7 +149,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "83ba26db3035f3d7",
+  "active": "838a07db3f642f27",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/make it stick.md",
