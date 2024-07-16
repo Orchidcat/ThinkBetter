@@ -30,7 +30,7 @@ to learn to think like a productivity scientist.
 
 
 8大游戏人的心理：
-收藏家、竞争者、冒险家、创造家、讲故事、玩笑者、导演
+收藏家、竞争者、冒险家、创造家、讲故事、玩笑者、导演、运动者
 
 
 ## 疏通
