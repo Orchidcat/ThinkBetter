@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4a61261377c219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
               }
             }
           }
@@ -180,7 +167,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6f4a61261377c219",
+  "active": "52c2ad4ef03f7ed5",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
