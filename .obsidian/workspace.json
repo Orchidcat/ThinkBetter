@@ -6,7 +6,6 @@
       {
         "id": "94df6e2d3ee72b11",
         "type": "tabs",
-        "dimension": 63.87832699619772,
         "children": [
           {
             "id": "024f417096820776",
@@ -33,28 +32,22 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "75f6cc67193448a6",
-        "type": "tabs",
-        "dimension": 36.12167300380228,
-        "children": [
+          },
           {
-            "id": "0d5615663241c910",
+            "id": "52c2ad4ef03f7ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -174,10 +167,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "024f417096820776",
+  "active": "52c2ad4ef03f7ed5",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/070 君臣佐使.md",
     "ThinkBetter/人纪/脾胃论.md",
+    "ThinkBetter/人纪/070 君臣佐使.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
