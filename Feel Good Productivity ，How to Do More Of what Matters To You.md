@@ -29,6 +29,10 @@ to learn to think like a productivity scientist.
 > Life is stressful. Play makes it fun.
 
 
+8大游戏人的心理：
+收藏家
+
+
 ## 疏通
 
 ## 维持
