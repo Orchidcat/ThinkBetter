@@ -26,7 +26,7 @@ to learn to think like a productivity scientist.
 
 #名人/费曼  也有闲逛的时候，厌倦的时候。 他用游戏的视角来重新定义自己遇到的一切。 
 
-
+> Life is stressful. Play makes it fun.
 
 
 ## 疏通
