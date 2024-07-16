@@ -24,9 +24,12 @@ to learn to think like a productivity scientist.
 
 ## 激励
 
+### Play
 #名人/费曼  也有闲逛的时候，厌倦的时候。 他用游戏的视角来重新定义自己遇到的一切。 
 
 > Life is stressful. Play makes it fun.
+
+
 
 
 8大游戏人的心理：
@@ -36,7 +39,7 @@ to learn to think like a productivity scientist.
 
 今天的支线任务是什么？
 
-### Post-it Note
+#### Post-it Note
 
 _What would this look like if it were fun?_
 Enjoy the Process, Not the Outcome
@@ -47,6 +50,8 @@ Reframe Your Failure
 	认真与真诚是有区别的
 	在轻浮中有一种可以上升的轻盈。但严肃是一种坠落的重力，就像一块石头。
 
+
+### 
 
 ## 疏通
 
