@@ -40,7 +40,7 @@ to learn to think like a productivity scientist.
 
 _What would this look like if it were fun?_
 Enjoy the Process, Not the Outcome
-
+Reframe Your Failure
 
 ## 疏通
 
