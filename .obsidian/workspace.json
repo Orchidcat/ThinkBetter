@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/make it stick.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838a07db3f642f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/一句话的玩味.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25ef8a5f07239dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "478cae21bd5dc7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/我们现在怎样做父亲.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/我们现在怎样做父亲.md"
+                "file": "ThinkBetter/Books.md"
               }
             }
           }
@@ -175,16 +135,17 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "478cae21bd5dc7a7",
+  "active": "83ba26db3035f3d7",
   "lastOpenFiles": [
+    "ThinkBetter/make it stick.md",
+    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+    "ThinkBetter/我们现在怎样做父亲.md",
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/+Home.md",
     "Pasted image 20240716105002.png",
-    "ThinkBetter/make it stick.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/105 神农本草经.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/第一性原理.md",
@@ -204,7 +165,6 @@
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/杂记.md",
-    "ThinkBetter/人纪/任脉.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
