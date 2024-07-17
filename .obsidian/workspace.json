@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af41ff39b9b3a977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
               }
             }
           }
@@ -135,8 +149,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f8b75dce8a8e365b",
+  "active": "af41ff39b9b3a977",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
@@ -165,7 +180,6 @@
     "ThinkBetter/人纪/养生之道.md",
     "黄芪人参汤.md",
     "补中益气汤.md",
-    "ThinkBetter/人纪/070 君臣佐使.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
