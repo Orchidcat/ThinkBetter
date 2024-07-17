@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2b5975807898d6",
+        "id": "2ce4d908e6649842",
         "type": "tabs",
         "children": [
           {
-            "id": "e50dcdb9a0e4cefe",
+            "id": "f8b75dce8a8e365b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f8d59daa2cec553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/195 子午流注.md",
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
+                "file": "ThinkBetter/人纪/001 @MOC中医.md"
               }
             }
           }
@@ -148,15 +135,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e50dcdb9a0e4cefe",
+  "active": "f8b75dce8a8e365b",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/195 子午流注.md",
+    "ThinkBetter/人纪/+Home.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+    "ThinkBetter/人纪/195 子午流注.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "8大游戏人的心理.md",
     "Pasted image 20240717083105.png",
     "conflict-files-obsidian-git.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
     "ThinkBetter/make it stick.md",
