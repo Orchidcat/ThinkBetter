@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddacc0fd5f33488a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/make it stick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "ThinkBetter/make it stick.md"
               }
             }
           }
@@ -148,13 +162,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f8b75dce8a8e365b",
+  "active": "ddacc0fd5f33488a",
   "lastOpenFiles": [
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
-    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/针灸大成.md",
     "8大游戏人的心理.md",
