@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/make it stick.md"
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ddacc0fd5f33488a",
+  "active": "af41ff39b9b3a977",
   "lastOpenFiles": [
+    "ThinkBetter/make it stick.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
@@ -176,7 +177,6 @@
     "conflict-files-obsidian-git.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
-    "ThinkBetter/make it stick.md",
     "ThinkBetter/我们现在怎样做父亲.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/折肱漫录.md",
