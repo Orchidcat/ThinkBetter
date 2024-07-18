@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "af41ff39b9b3a977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ddacc0fd5f33488a",
             "type": "leaf",
             "state": {
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
+                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
               }
             }
           }
@@ -162,10 +148,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "af41ff39b9b3a977",
+  "active": "f8b75dce8a8e365b",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/make it stick.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
