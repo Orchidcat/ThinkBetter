@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82ff3b945ca5fbe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/中医执业.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "子午",
+                "query": "十问",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/make it stick.md"
+                "file": "ThinkBetter/中医执业.md"
               }
             }
           }
@@ -135,11 +148,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ddacc0fd5f33488a",
+  "active": "82ff3b945ca5fbe5",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/194 中医诊断学.md",
+    "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "ThinkBetter/make it stick.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
@@ -165,7 +179,6 @@
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/养生之道.md",
     "黄芪人参汤.md",
-    "补中益气汤.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
