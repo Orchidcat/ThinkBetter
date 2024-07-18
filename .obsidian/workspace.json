@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258267d9675475db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ThinkBetter/中医执业.md",
                 "mode": "source",
                 "backlinks": false,
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,9 +161,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "82ff3b945ca5fbe5",
+  "active": "258267d9675475db",
   "lastOpenFiles": [
     "ThinkBetter/人纪/194 中医诊断学.md",
+    "ThinkBetter/中医执业.md",
     "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
@@ -178,7 +192,6 @@
     "Pasted image 20240711085712.png",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/养生之道.md",
-    "黄芪人参汤.md",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
     "Pasted image 20240429082843.png",
