@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "ThinkBetter/Tools.md"
     },
     {
       "basename": "六气",
@@ -191,14 +199,6 @@
     {
       "basename": "Clear Thinking",
       "path": "ThinkBetter/Book/Clear Thinking.md"
-    },
-    {
-      "basename": "掌控习惯",
-      "path": "ThinkBetter/掌控习惯.md"
-    },
-    {
-      "basename": "初中物理基础判断",
-      "path": "初中物理基础判断.md"
     }
   ],
   "omittedPaths": [],
