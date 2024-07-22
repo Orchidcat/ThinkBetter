@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "六气",
+      "path": "ThinkBetter/六气.md"
+    },
+    {
+      "basename": "二十四节气",
+      "path": "二十四节气.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "初中物理基础判断",
       "path": "初中物理基础判断.md"
-    },
-    {
-      "basename": "中国历代政治得失",
-      "path": "中国历代政治得失.md"
-    },
-    {
-      "basename": "135 卫气营血辨证",
-      "path": "ThinkBetter/人纪/135 卫气营血辨证.md"
     }
   ],
   "omittedPaths": [],

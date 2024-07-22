@@ -24,9 +24,12 @@
             "id": "35899c5b55bac134",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "ThinkBetter/六气.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -68,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "十问",
+                "query": "大暑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/六气.md"
+              }
             }
           }
         ],
@@ -145,6 +150,7 @@
   },
   "active": "35899c5b55bac134",
   "lastOpenFiles": [
+    "二十四节气.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/174 一问寒热.md",
     "ThinkBetter/人纪/195 子午流注.md",
@@ -172,7 +178,6 @@
     "ThinkBetter/思考问题的三个过滤器.md",
     "逻辑哲学论.md",
     "ThinkBetter/人纪/脾胃论.md",
-    "ThinkBetter/人纪/003 伤寒论.md",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
     "Pasted image 20240430105945.png",
