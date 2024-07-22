@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c22dfec6a3a99ef1",
+        "id": "846477b98546cd6e",
         "type": "tabs",
         "children": [
           {
-            "id": "226c838d289f4b5d",
+            "id": "536b650f28880efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,59 +21,17 @@
             }
           },
           {
-            "id": "0a65a3f87b0d0325",
+            "id": "35899c5b55bac134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "ThinkBetter/人纪/194 中医诊断学.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91082679c689b70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/203 zy-诊断学.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebdf03ed5642efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/174 一问寒热.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3312639c9ded831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/195 子午流注.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -159,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/人纪/174 一问寒热.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -188,13 +143,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "bebdf03ed5642efc",
+  "active": "35899c5b55bac134",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/195 子午流注.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/174 一问寒热.md",
+    "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/203 zy-诊断学.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/中医执业.md",
     "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
