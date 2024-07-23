@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/第一性原理.md"
+                "file": "ThinkBetter/六气.md"
               }
             }
           }
@@ -160,11 +161,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "536b650f28880efc",
+  "active": "35899c5b55bac134",
   "lastOpenFiles": [
-    "ThinkBetter/金字塔原理.md",
-    "ThinkBetter/第一性原理.md",
+    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/第一性原理.md",
+    "ThinkBetter/金字塔原理.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/Tools.md",
@@ -179,7 +181,6 @@
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/针灸大成.md",
     "8大游戏人的心理.md",
     "Pasted image 20240717083105.png",
