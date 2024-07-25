@@ -4,73 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4123df755382c5fe",
-        "type": "split",
+        "id": "846477b98546cd6e",
+        "type": "tabs",
         "children": [
           {
-            "id": "846477b98546cd6e",
-            "type": "tabs",
-            "dimension": 32.53467843631778,
-            "children": [
-              {
-                "id": "536b650f28880efc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThinkBetter/第一性原理.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aefb1d91ac9cb3a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThinkBetter/金字塔原理.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "35899c5b55bac134",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2024-07-24.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "536b650f28880efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/第一性原理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "c5903ebfdf83c618",
-            "type": "tabs",
-            "dimension": 67.46532156368222,
-            "children": [
-              {
-                "id": "a62301533dd93070",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-24.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -184,15 +134,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "35899c5b55bac134",
+  "active": "536b650f28880efc",
   "lastOpenFiles": [
-    "ThinkBetter/六气.md",
+    "ThinkBetter/金字塔原理.md",
     "2024-07-24.md",
+    "ThinkBetter/六气.md",
     "未命名.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/金字塔原理.md",
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/Tools.md",
