@@ -5,7 +5,7 @@ tags:
   - 学习方法
   - reading
   - book
-type: 学习方法
+type: 感觉良好并不仅仅止于感觉良好。它实际上改变了我们的思维和行为模式
 startDate: 2024-07-16
 endDate: 
 rating: 

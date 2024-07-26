@@ -13,67 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/第一性原理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee5fca99218172c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slow Productivity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7387a79136b1b1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/写点儿啥.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f73959c55bd4888e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1ef5225e56b9083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+                "file": "ThinkBetter/100种心智模型.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
+                "file": "ThinkBetter/100种心智模型.md"
               }
             }
           }
@@ -187,15 +134,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c1ef5225e56b9083",
+  "active": "536b650f28880efc",
   "lastOpenFiles": [
-    "ThinkBetter/Books.md",
-    "Slow Productivity.md",
-    "ThinkBetter/人纪/+Home.md",
-    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-    "读书 MOC.md",
+    "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/第一性原理.md",
+    "Slow Productivity.md",
     "ThinkBetter/写点儿啥.md",
+    "ThinkBetter/Books.md",
+    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+    "ThinkBetter/人纪/+Home.md",
+    "读书 MOC.md",
     "ThinkBetter/金字塔原理.md",
     "2024-07-24.md",
     "ThinkBetter/六气.md",
@@ -215,7 +163,6 @@
     "ThinkBetter/人纪/针灸大成.md",
     "8大游戏人的心理.md",
     "Pasted image 20240717083105.png",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
