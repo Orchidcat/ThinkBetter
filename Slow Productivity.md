@@ -9,7 +9,8 @@
 
 
 ### 解决方法
-#### A SLOWER ALTERNATIVE
+- A SLOWER ALTERNATIVE
+- 寻找更好的选择
 
 
 
