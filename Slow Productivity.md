@@ -13,7 +13,7 @@
 - 寻找更好的选择
 
 
-
+**KNOWLEDGE WORK (GENERAL DEFINITION)：通过运用认知努力将知识转化为具有市场价值的人工制品的经济活动。**
 
 
 
