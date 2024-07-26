@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slow Productivity.md"
+                "file": "ThinkBetter/第一性原理.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1ee5fca99218172c",
+  "active": "536b650f28880efc",
   "lastOpenFiles": [
-    "ThinkBetter/写点儿啥.md",
     "Slow Productivity.md",
+    "ThinkBetter/写点儿啥.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/金字塔原理.md",
