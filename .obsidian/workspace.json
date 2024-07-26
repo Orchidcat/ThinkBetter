@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7387a79136b1b1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/写点儿啥.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -150,6 +163,8 @@
   },
   "active": "1ee5fca99218172c",
   "lastOpenFiles": [
+    "ThinkBetter/写点儿啥.md",
+    "ThinkBetter/人纪/+Home.md",
     "Slow Productivity.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/金字塔原理.md",
@@ -157,9 +172,7 @@
     "ThinkBetter/六气.md",
     "未命名.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/愿望清单 MOC.md",
-    "ThinkBetter/写点儿啥.md",
     "ThinkBetter/Tools.md",
     "二十四节气.md",
     "ThinkBetter/人纪/174 一问寒热.md",

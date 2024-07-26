@@ -5,6 +5,14 @@
       "path": "Slow Productivity.md"
     },
     {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "第一性原理",
       "path": "ThinkBetter/第一性原理.md"
     },
@@ -29,16 +37,8 @@
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
     },
     {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
-    },
-    {
       "basename": "愿望清单 MOC",
       "path": "ThinkBetter/愿望清单 MOC.md"
-    },
-    {
-      "basename": "写点儿啥",
-      "path": "ThinkBetter/写点儿啥.md"
     },
     {
       "basename": "Tools",
