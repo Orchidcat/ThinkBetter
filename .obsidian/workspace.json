@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/100种心智模型.md"
+                "file": "Slow Productivity.md"
               }
             }
           }
@@ -147,10 +148,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "536b650f28880efc",
+  "active": "638ef4db5b4e4100",
   "lastOpenFiles": [
-    "Slow Productivity.md",
+    "Pasted image 20240726161959.png",
     "ThinkBetter/100种心智模型.md",
+    "Slow Productivity.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/写点儿啥.md",
@@ -174,7 +176,6 @@
     "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "ThinkBetter/人纪/针灸大成.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",

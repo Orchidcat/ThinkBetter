@@ -1,5 +1,5 @@
 ---
-author: 
+author: Cal NewPort
 tags:
   - 效率工具
   - 学习方法
@@ -11,6 +11,8 @@ endDate:
 rating: ⭐⭐⭐
 ---
 
+
+![[Pasted image 20240726161959.png]]
 
 最重要的:你在哪里结束，而不是你到达那里的速度，也不是你一路上紧张忙碌给多少人留下深刻印象。
 
