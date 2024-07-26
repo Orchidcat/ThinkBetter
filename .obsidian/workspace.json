@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1ef5225e56b9083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
               }
             }
           }
@@ -174,12 +187,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f73959c55bd4888e",
+  "active": "c1ef5225e56b9083",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
+    "Slow Productivity.md",
     "ThinkBetter/人纪/+Home.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "读书 MOC.md",
-    "Slow Productivity.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/金字塔原理.md",
@@ -202,7 +216,6 @@
     "8大游戏人的心理.md",
     "Pasted image 20240717083105.png",
     "conflict-files-obsidian-git.md",
-    "ThinkBetter/Books.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240318115223.png",
