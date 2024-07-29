@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Deep work",
+      "path": "Deep work.md"
+    },
+    {
       "basename": "Digital Minimalism",
       "path": "Digital Minimalism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "升陷汤",
       "path": "ThinkBetter/升陷汤.md"
-    },
-    {
-      "basename": "大气",
-      "path": "ThinkBetter/大气.md"
     }
   ],
   "omittedPaths": [],

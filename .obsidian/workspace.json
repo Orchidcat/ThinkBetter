@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc877f1a163f134f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Minimalism.md"
+                "file": "Deep work.md"
               }
             }
           }
@@ -148,10 +161,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c10137b15ac2a4b0",
+  "active": "fc877f1a163f134f",
   "lastOpenFiles": [
-    "Slow Productivity.md",
+    "Deep work.md",
     "Digital Minimalism.md",
+    "Slow Productivity.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "Pasted image 20240726161959.png",
@@ -176,7 +190,6 @@
     "ThinkBetter/中医执业.md",
     "ThinkBetter/make it stick.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
