@@ -43,7 +43,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 
 
 
-
+斯托尔的结论是，我们错误地认为亲密互动是生存的必要条件；独处对幸福和工作效率同样重要。
 
 
 
