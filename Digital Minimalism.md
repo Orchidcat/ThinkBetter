@@ -27,7 +27,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 - 意向性令人满意（自我掌控之后的满足感）
 
 
-### 数字整理
+**数字整理**
 - 留出三十天的时间，让你暂时远离生活中可选的科技产品。
 - 在这三十天的休息时间里，探索和重新发现你觉得满意和有意义的活动和行为。
 - 在假期结束时，重新将可选的技术引入你的生活，从一张白纸开始。对于你重新引入的每一项技术，确定它在你生活中的价值，以及你将如何具体地使用它来最大化这个价值。
@@ -36,6 +36,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 - 主要关注新技术，它描述了通过电脑或手机屏幕传递的应用程序、网站和工具。你可能还应该将视频游戏和流媒体视频纳入这一类别。
 - 在某些情况下，您将完全避免使用可选技术，而在其他情况下，您可能会指定一组操作过程，这些操作过程精确地规定了在过程中何时以及如何使用该技术。
 - 最后，您**将得到一个禁用技术列表以及相关操作程序。把它写下来**，放在你每天都能看到的地方。在整理过程中，清楚地知道什么是允许做的，什么是不允许做的，**这是成功的关键**。
+
 
 
 孤独（Solitude): solitude is about what’s happening in your brain, not the environment around you. 
