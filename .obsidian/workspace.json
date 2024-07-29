@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3574f6aa6fa241d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/057 黄帝外经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大暑",
+                "query": "养生",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/养生之道.md"
+                "file": "ThinkBetter/人纪/057 黄帝外经.md"
               }
             }
           }
@@ -134,8 +147,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c5367558c55c0f6c",
+  "active": "3574f6aa6fa241d0",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/003 伤寒论.md",
+    "ThinkBetter/人纪/养生之道.md",
     "ThinkBetter/人纪/+Home.md",
     "Slow Productivity.md",
     "Digital Minimalism.md",
@@ -161,8 +176,6 @@
     "ThinkBetter/人纪/203 zy-诊断学.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
     "ThinkBetter/中医执业.md",
-    "ThinkBetter/make it stick.md",
-    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",

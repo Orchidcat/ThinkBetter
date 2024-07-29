@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "057 黄帝外经",
+      "path": "ThinkBetter/人纪/057 黄帝外经.md"
+    },
+    {
+      "basename": "003 伤寒论",
+      "path": "ThinkBetter/人纪/003 伤寒论.md"
+    },
+    {
       "basename": "养生之道",
       "path": "ThinkBetter/人纪/养生之道.md"
     },
@@ -153,10 +161,6 @@
       "path": "ThinkBetter/人纪/脾胃论.md"
     },
     {
-      "basename": "003 伤寒论",
-      "path": "ThinkBetter/人纪/003 伤寒论.md"
-    },
-    {
       "basename": "脉诊学习",
       "path": "ThinkBetter/脉诊学习.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Git MOC",
       "path": "ThinkBetter/Git MOC.md"
-    },
-    {
-      "basename": "升陷汤",
-      "path": "ThinkBetter/升陷汤.md"
     }
   ],
   "omittedPaths": [],
