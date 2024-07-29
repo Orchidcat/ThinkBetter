@@ -38,8 +38,10 @@ A philosophy of technology use in which you focus your online time on a small nu
 - 最后，您**将得到一个禁用技术列表以及相关操作程序。把它写下来**，放在你每天都能看到的地方。在整理过程中，清楚地知道什么是允许做的，什么是不允许做的，**这是成功的关键**。
 
 
+```ad-note
+独处（Solitude): solitude is about what’s happening in your brain, not the environment around you. 
+```
 
-孤独（Solitude): solitude is about what’s happening in your brain, not the environment around you. 
 这是一种主观状态，其优点在于本身的思路不受外界影响。
 
 - 定期的独处，将会产生一种稳定的独立思考的能力。
