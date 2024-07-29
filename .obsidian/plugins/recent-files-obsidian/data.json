@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Minimalism",
+      "path": "Digital Minimalism.md"
+    },
+    {
       "basename": "Slow Productivity",
       "path": "Slow Productivity.md"
+    },
+    {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "100种心智模型",
@@ -21,16 +33,8 @@
       "path": "ThinkBetter/写点儿啥.md"
     },
     {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
-    },
-    {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
       "path": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "读书 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "大气",
       "path": "ThinkBetter/大气.md"
-    },
-    {
-      "basename": "医学衷中参西录",
-      "path": "ThinkBetter/人纪/医学衷中参西录.md"
     }
   ],
   "omittedPaths": [],
