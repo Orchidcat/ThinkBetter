@@ -49,7 +49,9 @@ A philosophy of technology use in which you focus your online time on a small nu
 
 
 做法：
-1. 
+1. 留下你的电话
+2. 长路程的徒步
+3. **给自己写信**
 
 
 
