@@ -53,6 +53,6 @@ A philosophy of technology use in which you focus your online time on a small nu
 2. 长路程的徒步
 3. **给自己写信**
 
-
+应该非常谨慎地对待任何可能破坏我们与他人联系和沟通方式的新技术。
 
 
