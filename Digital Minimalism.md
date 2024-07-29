@@ -22,7 +22,8 @@ A philosophy of technology use in which you focus your online time on a small nu
 ```
 
 
-
+- 杂乱是代价高昂的
+- 优化非常重要
 
 
 
