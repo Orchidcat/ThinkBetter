@@ -14,8 +14,12 @@ rating:
 
 spend much less time using technology.
 
+```ad-note
+Digital Minimalism
 
-数字清理器
+A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
+
+```
 
 
 
