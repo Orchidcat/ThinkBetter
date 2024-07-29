@@ -24,6 +24,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 
 - 杂乱是代价高昂的
 - 优化非常重要
+- 意向性令人满意（自我掌控之后的满足感）
 
 
 
