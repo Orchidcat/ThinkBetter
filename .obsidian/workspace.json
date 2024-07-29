@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +148,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "d3367a810dcb05d3",
+  "active": "c10137b15ac2a4b0",
   "lastOpenFiles": [
     "Slow Productivity.md",
     "Digital Minimalism.md",
