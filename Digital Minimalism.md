@@ -55,4 +55,30 @@ A philosophy of technology use in which you focus your online time on a small nu
 
 应该非常谨慎地对待任何可能破坏我们与他人联系和沟通方式的新技术。
 
+手机已经成为一种令人担忧的友谊义务感. . . .做朋友意味着“随叫随到”——拿着手机，随时待命，随时在线。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
