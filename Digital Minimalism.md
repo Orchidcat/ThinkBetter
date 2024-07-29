@@ -41,14 +41,15 @@ A philosophy of technology use in which you focus your online time on a small nu
 孤独（Solitude): solitude is about what’s happening in your brain, not the environment around you. 
 这是一种主观状态，其优点在于本身的思路不受外界影响。
 
-- 定期的独处，将会是一个
+- 定期的独处，将会产生一种稳定的独立思考的能力。
 
 
 斯托尔的结论是，我们错误地认为亲密互动是生存的必要条件；独处对幸福和工作效率同样重要。
 伍尔夫同意斯托尔的观点，孤独是原创和创造性思维的先决条件
 
 
-
+做法：
+1. 
 
 
 
