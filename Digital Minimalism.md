@@ -33,7 +33,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 - 在假期结束时，重新将可选的技术引入你的生活，从一张白纸开始。对于你重新引入的每一项技术，确定它在你生活中的价值，以及你将如何具体地使用它来最大化这个价值。
 
 
-
+清理出需要的可选技术类别。
 
 
 
