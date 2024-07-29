@@ -27,6 +27,7 @@ A philosophy of technology use in which you focus your online time on a small nu
 - 意向性令人满意（自我掌控之后的满足感）
 
 
+### 数字整理
 
 
 
