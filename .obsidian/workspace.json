@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6f59bca658f8c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slow Productivity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "760da2805fc5fb6e",
             "type": "leaf",
             "state": {
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e682cb01b1755a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/笔记方法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,9 +137,9 @@
   },
   "active": "760da2805fc5fb6e",
   "lastOpenFiles": [
-    "Pasted image 20240731092321.png",
     "ThinkBetter/笔记方法.md",
     "How to become straight-A student.md",
+    "Pasted image 20240731092321.png",
     "Slow Productivity.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/知己.md",
@@ -200,7 +173,6 @@
     "Pasted image 20240428095238.png",
     "未命名",
     "Pasted image 20240424091129.png",
-    "ThinkBetter/Sources/Pasted image 20240419162829.png",
     "ThinkBetter/Map.canvas",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Books",
