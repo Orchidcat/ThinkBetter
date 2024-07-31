@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/知己.md",
+                "file": "Slow Productivity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/知己.md"
+                "file": "Slow Productivity.md"
               }
             }
           }
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,9 +133,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "30633cfaad614b9c",
+  "active": "f6f59bca658f8c22",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
+    "ThinkBetter/知己.md",
     "Slow Productivity.md",
     "Digital Minimalism.md",
     "ThinkBetter/人纪/+Home.md",
@@ -161,7 +162,6 @@
     "二十四节气.md",
     "ThinkBetter/人纪/174 一问寒热.md",
     "ThinkBetter/人纪/195 子午流注.md",
-    "ThinkBetter/人纪/203 zy-诊断学.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
