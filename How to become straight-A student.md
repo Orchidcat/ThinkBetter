@@ -247,6 +247,9 @@ Because he separated the reading from the thinking and the thinking from the wri
 This leads to a well-thought-out argument, clearly articulated.
 
 
+```ad-info
+All the people I ever admired and respected led balanced lives—studying hard, partying hard, as well as being involved in activities and getting a decent amount of sleep each night. I really think this is the only logically defensible way of doing things.
+```
 
 
 
