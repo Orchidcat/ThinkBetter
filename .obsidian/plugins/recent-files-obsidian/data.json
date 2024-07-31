@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "打造第二大脑",
+      "path": "打造第二大脑.md"
+    },
+    {
+      "basename": "别闹了，费曼先生",
+      "path": "ThinkBetter/别闹了，费曼先生.md"
+    },
+    {
       "basename": "理查德·费曼传",
       "path": "ThinkBetter/理查德·费曼传.md"
     },
@@ -165,10 +173,6 @@
       "path": "ThinkBetter/Workbench.md"
     },
     {
-      "basename": "打造第二大脑",
-      "path": "打造第二大脑.md"
-    },
-    {
       "basename": "GTD",
       "path": "ThinkBetter/GTD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "赭石",
       "path": "ThinkBetter/人纪/赭石.md"
-    },
-    {
-      "basename": "Template - 药解",
-      "path": "ThinkBetter/Templates/Template - 药解.md"
     }
   ],
   "omittedPaths": [],
