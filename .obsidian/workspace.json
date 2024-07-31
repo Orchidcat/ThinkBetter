@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e682cb01b1755a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/笔记方法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -151,6 +164,7 @@
   },
   "active": "760da2805fc5fb6e",
   "lastOpenFiles": [
+    "ThinkBetter/笔记方法.md",
     "How to become straight-A student.md",
     "Slow Productivity.md",
     "ThinkBetter/Books.md",
@@ -177,7 +191,6 @@
     "ThinkBetter/愿望清单 MOC.md",
     "ThinkBetter/Tools.md",
     "二十四节气.md",
-    "ThinkBetter/人纪/174 一问寒热.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
