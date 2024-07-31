@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "折肱漫录",
-      "path": "ThinkBetter/人纪/折肱漫录.md"
+      "basename": "理查德·费曼传",
+      "path": "ThinkBetter/理查德·费曼传.md"
     },
     {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "折肱漫录",
+      "path": "ThinkBetter/人纪/折肱漫录.md"
     },
     {
       "basename": "Clear Thinking",
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 药解",
       "path": "ThinkBetter/Templates/Template - 药解.md"
-    },
-    {
-      "basename": "白术",
-      "path": "白术.md"
     }
   ],
   "omittedPaths": [],
