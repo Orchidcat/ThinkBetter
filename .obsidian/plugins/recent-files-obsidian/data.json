@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Book/Clear Thinking.md"
+    },
+    {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/+Home.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "make it stick",
       "path": "ThinkBetter/make it stick.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "脾胃论",
@@ -71,10 +79,6 @@
     {
       "basename": "2024-04-19",
       "path": "ThinkBetter/2024-04-19.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "胸中之疾",
@@ -195,10 +199,6 @@
     {
       "basename": "白术",
       "path": "白术.md"
-    },
-    {
-      "basename": "黄芪",
-      "path": "黄芪.md"
     }
   ],
   "omittedPaths": [],

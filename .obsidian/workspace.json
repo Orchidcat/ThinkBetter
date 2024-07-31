@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/+Home.md",
+                "file": "ThinkBetter/Book/Clear Thinking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/+Home.md"
+                "file": "ThinkBetter/Book/Clear Thinking.md"
               }
             }
           }
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,9 @@
   },
   "active": "abe5a9a2a0577e72",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/+Home.md",
     "ThinkBetter/+HomeMOC.md",
     "2024-W31.md",
     "How to become straight-A student.md",
@@ -236,7 +240,6 @@
     "Deep work.md",
     "8大游戏人的心理.md",
     "2024-07-24.md",
-    "ThinkBetter/人纪/+Home.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240716105002.png",
     "ThinkBetter/人纪/脾胃论.md",
@@ -249,8 +252,6 @@
     "逻辑哲学论.md",
     "补中益气汤.md",
     "Pasted image 20240711085712.png",
-    "ThinkBetter/超速学习.md",
-    "ThinkBetter/我们是如何衡量学会没有的.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",
