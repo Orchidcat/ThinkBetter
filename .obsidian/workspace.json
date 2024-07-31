@@ -110,12 +110,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,7 +133,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f6f59bca658f8c22",
+  "active": "30633cfaad614b9c",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
     "Slow Productivity.md",
