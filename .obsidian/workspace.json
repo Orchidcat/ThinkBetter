@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0305da733b40850e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/195 子午流注.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "甘草",
+                "query": "子午流注",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/105 神农本草经.md"
+                "file": "ThinkBetter/人纪/195 子午流注.md"
               }
             }
           }
@@ -134,8 +148,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "0305da733b40850e",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/105 神农本草经.md",
     "How to become straight-A student.md",
     "Pasted image 20240731110513.png",
     "ThinkBetter/笔记方法.md",
