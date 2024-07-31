@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md"
+                "file": "ThinkBetter/Books.md"
               }
             }
           }
@@ -220,6 +220,7 @@
   },
   "active": "abe5a9a2a0577e72",
   "lastOpenFiles": [
+    "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/别闹了，费曼先生.md",
@@ -249,7 +250,6 @@
     "Deep work.md",
     "8大游戏人的心理.md",
     "2024-07-24.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
