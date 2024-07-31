@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
+                "file": "How to become straight-A student.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "52c2ad4ef03f7ed5",
+  "active": "72b62af13c17b91f",
   "lastOpenFiles": [
-    "How to become straight-A student.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+    "How to become straight-A student.md",
     "ThinkBetter/make it stick.md",
     "未命名.md",
     "Slow Productivity.md",
