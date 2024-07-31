@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "GTD",
+      "path": "ThinkBetter/GTD.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "基本Q",
+      "path": "ThinkBetter/基本Q.md"
     },
     {
       "basename": "Books",
@@ -187,18 +199,6 @@
     {
       "basename": "原一，二，三期合编第一卷",
       "path": "ThinkBetter/人纪/原一，二，三期合编第一卷.md"
-    },
-    {
-      "basename": "人参",
-      "path": "人参.md"
-    },
-    {
-      "basename": "PowerBuilder MOC",
-      "path": "ThinkBetter/PowerBuilder MOC.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "ThinkBetter/目标 MOC.md"
     }
   ],
   "omittedPaths": [],

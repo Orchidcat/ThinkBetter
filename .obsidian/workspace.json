@@ -91,8 +91,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
+                "file": "ThinkBetter/GTD.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/GTD.md"
               }
             }
           }
@@ -233,11 +233,13 @@
   },
   "active": "abe5a9a2a0577e72",
   "lastOpenFiles": [
+    "ThinkBetter/学习方法.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/基本Q.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/别闹了，费曼先生.md",
@@ -257,12 +259,10 @@
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/make it stick.md",
     "未命名.md",
-    "Slow Productivity.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
     "Pasted image 20240717083105.png",
-    "Digital Minimalism.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
