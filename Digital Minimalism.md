@@ -5,7 +5,7 @@ tags:
   - 学习方法
   - reading
   - book
-type: 
+type: solitude is about what’s happening in your brain, not the environment around you.
 startDate: 2024-07-29
 endDate: 
 rating: 

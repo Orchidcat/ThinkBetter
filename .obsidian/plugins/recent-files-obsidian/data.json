@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Digital Minimalism",
-      "path": "Digital Minimalism.md"
+      "basename": "知己",
+      "path": "ThinkBetter/知己.md"
     },
     {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "Slow Productivity",
+      "path": "Slow Productivity.md"
+    },
+    {
+      "basename": "Digital Minimalism",
+      "path": "Digital Minimalism.md"
     },
     {
       "basename": "+Home",
@@ -27,10 +35,6 @@
     {
       "basename": "养生之道",
       "path": "ThinkBetter/人纪/养生之道.md"
-    },
-    {
-      "basename": "Slow Productivity",
-      "path": "Slow Productivity.md"
     },
     {
       "basename": "Deep work",
@@ -195,10 +199,6 @@
     {
       "basename": "杂记",
       "path": "ThinkBetter/杂记.md"
-    },
-    {
-      "basename": "任脉",
-      "path": "ThinkBetter/人纪/任脉.md"
     }
   ],
   "omittedPaths": [],
