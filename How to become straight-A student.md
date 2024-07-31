@@ -243,6 +243,9 @@ rating:
 
 
 
+Because he separated the reading from the thinking and the thinking from the writing.
+This leads to a well-thought-out argument, clearly articulated.
+
 
 
 
