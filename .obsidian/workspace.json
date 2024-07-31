@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "养生",
+                "query": "甘草",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -134,7 +133,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "760da2805fc5fb6e",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "Pasted image 20240731110513.png",
     "ThinkBetter/笔记方法.md",
