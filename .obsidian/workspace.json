@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd5ae438bb6dab23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/100种心智模型.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "ThinkBetter/100种心智模型.md"
               }
             }
           }
@@ -218,10 +231,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "abe5a9a2a0577e72",
+  "active": "bd5ae438bb6dab23",
   "lastOpenFiles": [
-    "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
+    "ThinkBetter/心智模型 MOC.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/别闹了，费曼先生.md",
     "打造第二大脑.md",
@@ -233,7 +248,6 @@
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/Book/Clear Thinking.md",
     "ThinkBetter/人纪/105 神农本草经.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/+Home.md",
     "ThinkBetter/+HomeMOC.md",
     "2024-W31.md",
@@ -249,7 +263,6 @@
     "Digital Minimalism.md",
     "Deep work.md",
     "8大游戏人的心理.md",
-    "2024-07-24.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
