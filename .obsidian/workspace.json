@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/第一性原理.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -231,12 +231,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bd5ae438bb6dab23",
+  "active": "abe5a9a2a0577e72",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
+    "ThinkBetter/第一性原理.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
     "ThinkBetter/理查德·费曼传.md",
     "ThinkBetter/别闹了，费曼先生.md",
@@ -262,7 +263,6 @@
     "Pasted image 20240726161959.png",
     "Pasted image 20240717083105.png",
     "Digital Minimalism.md",
-    "Deep work.md",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
