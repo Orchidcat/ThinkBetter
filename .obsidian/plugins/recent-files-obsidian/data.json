@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第一性原理",
+      "path": "ThinkBetter/第一性原理.md"
+    },
+    {
       "basename": "100种心智模型",
       "path": "ThinkBetter/100种心智模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "目标 MOC",
       "path": "ThinkBetter/目标 MOC.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
     }
   ],
   "omittedPaths": [],
