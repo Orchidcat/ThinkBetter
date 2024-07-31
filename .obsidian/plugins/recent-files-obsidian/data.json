@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/+Home.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "ThinkBetter/+HomeMOC.md"
+    },
+    {
       "basename": "2024-W31",
       "path": "2024-W31.md"
     },
@@ -149,10 +157,6 @@
       "path": "ThinkBetter/Workbench.md"
     },
     {
-      "basename": "+Home",
-      "path": "ThinkBetter/+Home.md"
-    },
-    {
       "basename": "打造第二大脑",
       "path": "打造第二大脑.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "黄芪",
       "path": "黄芪.md"
-    },
-    {
-      "basename": "人参",
-      "path": "ThinkBetter/人纪/人参.md"
     }
   ],
   "omittedPaths": [],

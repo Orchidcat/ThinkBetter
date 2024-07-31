@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abe5a9a2a0577e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-W31.md"
+                "file": "ThinkBetter/+Home.md"
               }
             }
           }
@@ -204,10 +217,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "72b62af13c17b91f",
+  "active": "abe5a9a2a0577e72",
   "lastOpenFiles": [
-    "How to become straight-A student.md",
+    "ThinkBetter/+HomeMOC.md",
     "2024-W31.md",
+    "How to become straight-A student.md",
     "ThinkBetter/人纪/105 神农本草经.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
@@ -237,7 +251,6 @@
     "Pasted image 20240711085712.png",
     "ThinkBetter/超速学习.md",
     "ThinkBetter/我们是如何衡量学会没有的.md",
-    "鬼门十三针.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",
