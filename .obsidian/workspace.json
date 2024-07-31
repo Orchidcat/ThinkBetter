@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "130933456b6a2ff9",
+        "id": "94df6e2d3ee72b11",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5ae73af14a8fde",
+            "id": "024f417096820776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/105 神农本草经.md",
+                "file": "ThinkBetter/人纪/脾胃论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0305da733b40850e",
+            "id": "f14f69d56f0a7962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/195 子午流注.md",
+                "file": "ThinkBetter/一句话的玩味.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,20 @@
             }
           },
           {
-            "id": "0b21a4cf3ca4c495",
+            "id": "52c2ad4ef03f7ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72b62af13c17b91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,6 +74,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f0ed5d6c26966d07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "丑肝",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "c6f982b1d437b289",
             "type": "leaf",
             "state": {
@@ -71,34 +99,26 @@
             }
           },
           {
+            "id": "c47294b26ab875b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "884acab7f7bdeb02",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "0aeaf2584b194eb0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "子午流注",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -138,69 +158,66 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 386,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workbench-obsidian:Workbench": false,
-      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false
+      "workbench-obsidian:Workbench": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0b21a4cf3ca4c495",
+  "active": "72b62af13c17b91f",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/195 子午流注.md",
-    "ThinkBetter/人纪/105 神农本草经.md",
-    "How to become straight-A student.md",
-    "Pasted image 20240731110513.png",
-    "ThinkBetter/笔记方法.md",
-    "Pasted image 20240731092321.png",
-    "Slow Productivity.md",
-    "ThinkBetter/Books.md",
-    "ThinkBetter/知己.md",
-    "Digital Minimalism.md",
-    "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/人纪/057 黄帝外经.md",
-    "ThinkBetter/人纪/003 伤寒论.md",
-    "ThinkBetter/人纪/养生之道.md",
-    "Deep work.md",
-    "Pasted image 20240726161959.png",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/第一性原理.md",
-    "ThinkBetter/写点儿啥.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-    "读书 MOC.md",
-    "ThinkBetter/金字塔原理.md",
-    "2024-07-24.md",
-    "ThinkBetter/六气.md",
+    "ThinkBetter/make it stick.md",
     "未命名.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/愿望清单 MOC.md",
+    "Slow Productivity.md",
+    "Pasted image 20240731110513.png",
+    "Pasted image 20240731092321.png",
+    "Pasted image 20240726161959.png",
     "Pasted image 20240717083105.png",
+    "How to become straight-A student.md",
+    "Digital Minimalism.md",
+    "Deep work.md",
+    "8大游戏人的心理.md",
+    "2024-07-24.md",
+    "ThinkBetter/人纪/+Home.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240716105002.png",
+    "ThinkBetter/人纪/脾胃论.md",
+    "ThinkBetter/人纪/070 君臣佐使.md",
+    "ThinkBetter/一句话的玩味.md",
+    "ThinkBetter/人纪/针灸大成.md",
+    "ThinkBetter/脉诊学习.md",
+    "脾胃论.md",
+    "黄芪人参汤.md",
+    "逻辑哲学论.md",
+    "补中益气汤.md",
     "Pasted image 20240711085712.png",
-    "ThinkBetter/Sources/Pasted image 20240318115223.png",
-    "Pasted image 20240430105945.png",
-    "Pasted image 20240429082843.png",
-    "Pasted image 20240428095238.png",
-    "未命名",
+    "ThinkBetter/超速学习.md",
+    "ThinkBetter/我们是如何衡量学会没有的.md",
+    "鬼门十三针.md",
+    "长夏.md",
+    "认知偏见.md",
+    "督脉.md",
+    "ThinkBetter/Sources/Pasted image 20240423162305.png",
+    "ThinkBetter/Sources/Pasted image 20240422105332.png",
+    "ThinkBetter/Sources/Pasted image 20240422104749.png",
+    "ThinkBetter/Sources/Pasted image 20240422095531.png",
     "ThinkBetter/Map.canvas",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Books",
