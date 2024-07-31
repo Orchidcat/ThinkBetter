@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d62370af4a2375b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/105 神农本草经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
+                "file": "ThinkBetter/人纪/105 神农本草经.md"
               }
             }
           }
@@ -193,8 +206,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7f4ae73d617ae71e",
+  "active": "0d62370af4a2375b",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "How to become straight-A student.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/make it stick.md",
@@ -226,7 +240,6 @@
     "鬼门十三针.md",
     "长夏.md",
     "认知偏见.md",
-    "督脉.md",
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Sources/Pasted image 20240422105332.png",
     "ThinkBetter/Sources/Pasted image 20240422104749.png",
