@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "甘草",
       "path": "ThinkBetter/人纪/甘草.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "070 君臣佐使",
       "path": "ThinkBetter/人纪/070 君臣佐使.md"
-    },
-    {
-      "basename": "长夏",
-      "path": "长夏.md"
     }
   ],
   "omittedPaths": [],

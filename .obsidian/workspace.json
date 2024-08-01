@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "158ddb6ced6f1f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/甘草.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -135,8 +149,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f290ce8433035d50",
+  "active": "158ddb6ced6f1f20",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/甘草.md",
+    "conflict-files-obsidian-git.md",
+    "2024-W31.md",
     "ThinkBetter/人纪/+Home.md",
     "How to become straight-A student.md",
     "ThinkBetter/人纪/195 子午流注.md",
@@ -163,9 +180,6 @@
     "ThinkBetter/金字塔原理.md",
     "2024-07-24.md",
     "ThinkBetter/六气.md",
-    "未命名.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/愿望清单 MOC.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
