@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "生姜",
-      "path": "ThinkBetter/生姜.md"
+      "basename": "天门冬",
+      "path": "ThinkBetter/人纪/天门冬.md"
     },
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "麦门冬",
+      "path": "ThinkBetter/人纪/麦门冬.md"
+    },
+    {
+      "basename": "生姜",
+      "path": "ThinkBetter/生姜.md"
     },
     {
       "basename": "Template - 药解",
@@ -191,14 +199,6 @@
     {
       "basename": "脉诊学习",
       "path": "ThinkBetter/脉诊学习.md"
-    },
-    {
-      "basename": "黄芪人参汤",
-      "path": "黄芪人参汤.md"
-    },
-    {
-      "basename": "补中益气汤",
-      "path": "补中益气汤.md"
     }
   ],
   "omittedPaths": [],
