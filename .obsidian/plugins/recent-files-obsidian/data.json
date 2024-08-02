@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "人物 MOC",
+      "path": "ThinkBetter/人物 MOC.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "天门冬",
       "path": "ThinkBetter/人纪/天门冬.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Template - 药解",
       "path": "ThinkBetter/人纪/Template - 药解.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "甘草",
@@ -195,10 +199,6 @@
     {
       "basename": "脾胃论",
       "path": "ThinkBetter/人纪/脾胃论.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "ThinkBetter/脉诊学习.md"
     }
   ],
   "omittedPaths": [],

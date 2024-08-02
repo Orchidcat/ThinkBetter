@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "71b8a4bbc919a4bd",
+        "id": "9edde66767425528",
         "type": "tabs",
         "children": [
           {
-            "id": "f290ce8433035d50",
+            "id": "6eb59ee7baf0f04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/甘草.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23c6937e5fe42c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/天门冬.md",
+                "file": "ThinkBetter/人物 MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/天门冬.md"
+                "file": "ThinkBetter/人物 MOC.md"
               }
             }
           }
@@ -149,13 +135,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a23c6937e5fe42c0",
+  "active": "6eb59ee7baf0f04c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/人纪/天门冬.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/麦门冬.md",
     "ThinkBetter/生姜.md",
     "ThinkBetter/人纪/Template - 药解.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/甘草.md",
     "conflict-files-obsidian-git.md",
     "2024-W31.md",
@@ -179,7 +166,6 @@
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/写点儿啥.md",
-    "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
