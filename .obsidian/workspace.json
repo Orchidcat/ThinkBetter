@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人物 MOC.md",
+                "file": "ThinkBetter/中医执业.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "甘草",
+                "query": "消渴 饮食",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人物 MOC.md"
+                "file": "ThinkBetter/中医执业.md"
               }
             }
           }
@@ -137,6 +136,13 @@
   },
   "active": "6eb59ee7baf0f04c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/折肱漫录.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
+    "ThinkBetter/人纪/004 金匮要略.md",
+    "ThinkBetter/人纪/121 四问便.md",
+    "ThinkBetter/人纪/148 五问饮食.md",
+    "消渴.md",
+    "ThinkBetter/人物 MOC.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/天门冬.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -158,14 +164,7 @@
     "Digital Minimalism.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/057 黄帝外经.md",
-    "ThinkBetter/人纪/003 伤寒论.md",
-    "ThinkBetter/人纪/养生之道.md",
-    "Deep work.md",
     "Pasted image 20240726161959.png",
-    "ThinkBetter/100种心智模型.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/第一性原理.md",
-    "ThinkBetter/写点儿啥.md",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
     "Pasted image 20240711085712.png",
