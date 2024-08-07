@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9edde66767425528",
+        "id": "eb33aeaa935bddb7",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb59ee7baf0f04c",
+            "id": "1c2f80cd59d80108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/中医执业.md",
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "消渴 饮食",
+                "query": "立秋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/中医执业.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -134,8 +134,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6eb59ee7baf0f04c",
+  "active": "1c2f80cd59d80108",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/中医执业.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -143,7 +145,6 @@
     "ThinkBetter/人纪/148 五问饮食.md",
     "消渴.md",
     "ThinkBetter/人物 MOC.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/天门冬.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/麦门冬.md",
@@ -163,7 +164,6 @@
     "ThinkBetter/知己.md",
     "Digital Minimalism.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/人纪/057 黄帝外经.md",
     "Pasted image 20240726161959.png",
     "Pasted image 20240717083105.png",
     "Pasted image 20240716105002.png",
