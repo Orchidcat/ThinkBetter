@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb33aeaa935bddb7",
+        "id": "7b91350f26d20187",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2f80cd59d80108",
+            "id": "18bd1da6f59c3b88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1441d938f24d97fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/脉诊学习.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -147,10 +135,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1c2f80cd59d80108",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
+    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/时病本气篇.md",
     "ThinkBetter/六气.md",
     "二十四节气.md",
