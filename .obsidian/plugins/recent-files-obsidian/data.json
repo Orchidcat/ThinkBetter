@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "倒置",
+      "path": "ThinkBetter/倒置.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
+    },
+    {
+      "basename": "心智模型 MOC",
+      "path": "ThinkBetter/心智模型 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "第一性原理",
+      "path": "ThinkBetter/第一性原理.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
     },
     {
       "basename": "圆运动的古中医学 by 彭子益",
@@ -133,22 +153,6 @@
       "path": "Deep work.md"
     },
     {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "ThinkBetter/心智模型 MOC.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "ThinkBetter/第一性原理.md"
-    },
-    {
-      "basename": "写点儿啥",
-      "path": "ThinkBetter/写点儿啥.md"
-    },
-    {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
       "path": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "圆运动的古中医学（续）",
       "path": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
-    },
-    {
-      "basename": "何以为父：影响彼此一生的父子关系",
-      "path": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
     }
   ],
   "omittedPaths": [],
