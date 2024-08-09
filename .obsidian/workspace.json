@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b91350f26d20187",
+        "id": "33c831c6791013c7",
         "type": "tabs",
         "children": [
           {
-            "id": "18bd1da6f59c3b88",
+            "id": "f8fd7d95c3401efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,7 +135,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "f8fd7d95c3401efd",
   "lastOpenFiles": [
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "ThinkBetter/脉诊学习.md",
