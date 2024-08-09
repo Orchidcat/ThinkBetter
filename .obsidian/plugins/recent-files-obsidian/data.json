@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "ThinkBetter/人纪/医学衷中参西录.md"
+    },
+    {
+      "basename": "001 @MOC中医",
+      "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
     },
     {
       "basename": "框架",
@@ -27,10 +39,6 @@
     {
       "basename": "第一性原理",
       "path": "ThinkBetter/第一性原理.md"
-    },
-    {
-      "basename": "写点儿啥",
-      "path": "ThinkBetter/写点儿啥.md"
     },
     {
       "basename": "圆运动的古中医学 by 彭子益",
@@ -87,10 +95,6 @@
     {
       "basename": "天门冬",
       "path": "ThinkBetter/人纪/天门冬.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "ThinkBetter/人纪/001 @MOC中医.md"
     },
     {
       "basename": "麦门冬",
@@ -195,10 +199,6 @@
     {
       "basename": "203 zy-诊断学",
       "path": "ThinkBetter/人纪/203 zy-诊断学.md"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "ThinkBetter/人纪/194 中医诊断学.md"
     }
   ],
   "omittedPaths": [],
