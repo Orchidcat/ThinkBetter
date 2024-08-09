@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28773418e647b70c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -135,8 +142,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f8fd7d95c3401efd",
+  "active": "28773418e647b70c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/写点儿啥.md",
@@ -162,7 +170,6 @@
     "ThinkBetter/人纪/天门冬.md",
     "ThinkBetter/人纪/麦门冬.md",
     "ThinkBetter/生姜.md",
-    "ThinkBetter/人纪/Template - 药解.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
