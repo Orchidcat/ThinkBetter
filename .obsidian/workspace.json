@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fb32d14fbee10ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/心智模型 MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15651469f14e92f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "框架.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "框架.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -162,11 +135,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "15651469f14e92f6",
+  "active": "f8fd7d95c3401efd",
   "lastOpenFiles": [
-    "ThinkBetter/心智模型 MOC.md",
     "框架.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/思想实验.md",
     "ThinkBetter/倒置.md",
