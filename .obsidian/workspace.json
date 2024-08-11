@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "立秋",
+                "query": "皮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "28773418e647b70c",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
