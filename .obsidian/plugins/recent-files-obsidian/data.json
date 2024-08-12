@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "脾胃论",
+      "path": "ThinkBetter/人纪/脾胃论.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "医学衷中参西录",
       "path": "ThinkBetter/人纪/医学衷中参西录.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "写点儿啥",
@@ -195,10 +199,6 @@
     {
       "basename": "Tools",
       "path": "ThinkBetter/Tools.md"
-    },
-    {
-      "basename": "174 一问寒热",
-      "path": "ThinkBetter/人纪/174 一问寒热.md"
     }
   ],
   "omittedPaths": [],
