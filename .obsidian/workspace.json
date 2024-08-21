@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肺寅",
+                "query": "顺序",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "76f36a6406f06889",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/医者的自修.md",
