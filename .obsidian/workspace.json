@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "07d045349a70bf47",
+        "id": "9d68b3358f826cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5e1dc544760c9b",
+            "id": "76f36a6406f06889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md",
+                "file": "ThinkBetter/人纪/医学衷中参西录.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccb0ebec6c233177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/医者的自修.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "李东桓",
+                "query": "张锡纯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md"
+                "file": "ThinkBetter/人纪/医者的自修.md"
               }
             }
           }
@@ -135,11 +149,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "fd5e1dc544760c9b",
+  "active": "ccb0ebec6c233177",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/写点儿啥.md",
     "框架.md",
     "ThinkBetter/心智模型 MOC.md",
@@ -162,7 +177,6 @@
     "ThinkBetter/人物 MOC.md",
     "ThinkBetter/人纪/天门冬.md",
     "ThinkBetter/人纪/麦门冬.md",
-    "ThinkBetter/生姜.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
