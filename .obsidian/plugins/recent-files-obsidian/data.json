@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "原则",
+      "path": "ThinkBetter/原则.md"
+    },
+    {
+      "basename": "颜色的区分",
+      "path": "ThinkBetter/颜色的区分.md"
+    },
+    {
       "basename": "针灸大成",
       "path": "ThinkBetter/人纪/针灸大成.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "金字塔原理",
       "path": "ThinkBetter/金字塔原理.md"
-    },
-    {
-      "basename": "2024-07-24",
-      "path": "2024-07-24.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     }
   ],
   "omittedPaths": [],
