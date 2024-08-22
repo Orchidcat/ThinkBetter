@@ -11,8 +11,13 @@
             "id": "45f8178d3a53959b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -100,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/+Home.md"
+              }
             }
           }
         ],
