@@ -5,6 +5,10 @@
       "path": "ThinkBetter/原则.md"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "颜色的区分",
       "path": "ThinkBetter/颜色的区分.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "脾胃论",
