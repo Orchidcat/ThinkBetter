@@ -28,7 +28,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Digital Minimalism.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,8 +142,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4728ef41c4c5eb13",
+  "active": "e9768d13d5657ae4",
   "lastOpenFiles": [
+    "Digital Minimalism.md",
     "ThinkBetter/学习方法.md",
     "Slow Productivity.md",
     "ThinkBetter/记忆框架的建立.md",
@@ -170,7 +170,6 @@
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/写点儿啥.md",
     "框架.md",
-    "ThinkBetter/思想实验.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
