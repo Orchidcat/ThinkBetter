@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "心智模型 MOC",
+      "path": "ThinkBetter/心智模型 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "NotToDo",
+      "path": "ThinkBetter/NotToDo.md"
     },
     {
       "basename": "古方上篇",
@@ -67,10 +75,6 @@
     {
       "basename": "框架",
       "path": "框架.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "ThinkBetter/心智模型 MOC.md"
     },
     {
       "basename": "100种心智模型",
@@ -195,10 +199,6 @@
     {
       "basename": "Deep work",
       "path": "Deep work.md"
-    },
-    {
-      "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
-      "path": "Feel Good Productivity ，How to Do More Of what Matters To You.md"
     }
   ],
   "omittedPaths": [],
