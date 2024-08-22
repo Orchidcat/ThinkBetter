@@ -5,6 +5,10 @@
       "path": "ThinkBetter/时病本气篇.md"
     },
     {
+      "basename": "二十四节气",
+      "path": "二十四节气.md"
+    },
+    {
       "basename": "六气",
       "path": "ThinkBetter/六气.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "脉诊学习",
       "path": "ThinkBetter/脉诊学习.md"
-    },
-    {
-      "basename": "二十四节气",
-      "path": "二十四节气.md"
     },
     {
       "basename": "002 黄帝内经",
