@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/原则.md",
+                "file": "ThinkBetter/时病本气篇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "顺序",
+                "query": "处暑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/原则.md"
+                "file": "ThinkBetter/时病本气篇.md"
               }
             }
           }
@@ -135,10 +134,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "aae1e9013d914429",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/六气.md",
     "ThinkBetter/原则.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/颜色的区分.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
@@ -155,7 +155,6 @@
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/时病本气篇.md",
-    "ThinkBetter/六气.md",
     "二十四节气.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/中医执业.md",
