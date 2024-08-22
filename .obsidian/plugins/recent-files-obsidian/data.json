@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "汉隆剃刀",
+      "path": "ThinkBetter/汉隆剃刀.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
+    },
+    {
       "basename": "心智模型 MOC",
       "path": "ThinkBetter/心智模型 MOC.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "框架",
       "path": "框架.md"
-    },
-    {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
     },
     {
       "basename": "思想实验",
@@ -191,14 +199,6 @@
     {
       "basename": "003 伤寒论",
       "path": "ThinkBetter/人纪/003 伤寒论.md"
-    },
-    {
-      "basename": "养生之道",
-      "path": "ThinkBetter/人纪/养生之道.md"
-    },
-    {
-      "basename": "Deep work",
-      "path": "Deep work.md"
     }
   ],
   "omittedPaths": [],

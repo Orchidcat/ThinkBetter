@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/心智模型 MOC.md",
+                "file": "ThinkBetter/汉隆剃刀.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde5744df7c77f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/心智模型 MOC.md"
+                "file": "未命名 1.md"
               }
             }
           }
@@ -134,8 +148,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4564b51fdccc3e15",
+  "active": "dde5744df7c77f31",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "ThinkBetter/汉隆剃刀.md",
+    "ThinkBetter/100种心智模型.md",
+    "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/NotToDo.md",
     "ThinkBetter/古方上篇.md",
@@ -153,15 +171,11 @@
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/写点儿啥.md",
     "框架.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/100种心智模型.md",
     "ThinkBetter/思想实验.md",
     "ThinkBetter/倒置.md",
     "ThinkBetter/第一性原理.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/中医执业.md",
-    "ThinkBetter/人纪/折肱漫录.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
