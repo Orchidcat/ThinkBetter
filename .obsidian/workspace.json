@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/记忆框架的建立.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e9768d13d5657ae4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md"
+                "file": "ThinkBetter/记忆框架的建立.md"
               }
             }
           }
@@ -136,12 +144,13 @@
   },
   "active": "4728ef41c4c5eb13",
   "lastOpenFiles": [
+    "ThinkBetter/学习方法.md",
+    "ThinkBetter/人纪/+Home.md",
     "反转.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/愚蠢的来源.md",
     "ThinkBetter/汉隆剃刀.md",
     "ThinkBetter/心智模型 MOC.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/NotToDo.md",
     "ThinkBetter/古方上篇.md",
     "ThinkBetter/圆运动的古中医学.md",
@@ -161,7 +170,6 @@
     "ThinkBetter/思想实验.md",
     "ThinkBetter/倒置.md",
     "ThinkBetter/第一性原理.md",
-    "ThinkBetter/脉诊学习.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",

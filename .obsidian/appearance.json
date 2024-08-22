@@ -6,7 +6,8 @@
   "enabledCssSnippets": [
     "MCL Multi Column",
     "MCL Gallery Cards",
-    "MCL Wide Views"
+    "MCL Wide Views",
+    "snippet"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "霞鹜文楷",
