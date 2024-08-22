@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/记忆框架的建立.md",
+                "file": "Digital Minimalism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/记忆框架的建立.md"
+                "file": "Digital Minimalism.md"
               }
             }
           }
@@ -145,6 +146,8 @@
   "active": "4728ef41c4c5eb13",
   "lastOpenFiles": [
     "ThinkBetter/学习方法.md",
+    "Slow Productivity.md",
+    "ThinkBetter/记忆框架的建立.md",
     "ThinkBetter/人纪/+Home.md",
     "反转.md",
     "ThinkBetter/100种心智模型.md",
@@ -168,8 +171,6 @@
     "ThinkBetter/写点儿啥.md",
     "框架.md",
     "ThinkBetter/思想实验.md",
-    "ThinkBetter/倒置.md",
-    "ThinkBetter/第一性原理.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",

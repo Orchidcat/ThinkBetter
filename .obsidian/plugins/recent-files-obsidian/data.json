@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "记忆框架的建立",
-      "path": "ThinkBetter/记忆框架的建立.md"
+      "basename": "Digital Minimalism",
+      "path": "Digital Minimalism.md"
     },
     {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
+    },
+    {
+      "basename": "Slow Productivity",
+      "path": "Slow Productivity.md"
+    },
+    {
+      "basename": "记忆框架的建立",
+      "path": "ThinkBetter/记忆框架的建立.md"
     },
     {
       "basename": "+Home",
@@ -185,20 +193,12 @@
       "path": "ThinkBetter/笔记方法.md"
     },
     {
-      "basename": "Slow Productivity",
-      "path": "Slow Productivity.md"
-    },
-    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "知己",
       "path": "ThinkBetter/知己.md"
-    },
-    {
-      "basename": "Digital Minimalism",
-      "path": "Digital Minimalism.md"
     }
   ],
   "omittedPaths": [],
