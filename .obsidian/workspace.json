@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "56f14eb8dfa5c237",
+        "id": "a11a2c5c97d00f94",
         "type": "tabs",
         "children": [
           {
-            "id": "4728ef41c4c5eb13",
+            "id": "dfe5d68719a77408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Minimalism.md",
+                "file": "ThinkBetter/事件timing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e9768d13d5657ae4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/事件timing.md"
+              }
             }
           }
         ],
@@ -142,13 +135,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e9768d13d5657ae4",
+  "active": "dfe5d68719a77408",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "Digital Minimalism.md",
     "ThinkBetter/学习方法.md",
     "Slow Productivity.md",
     "ThinkBetter/记忆框架的建立.md",
-    "ThinkBetter/人纪/+Home.md",
     "反转.md",
     "ThinkBetter/100种心智模型.md",
     "ThinkBetter/愚蠢的来源.md",

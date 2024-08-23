@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "ThinkBetter/事件timing.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "Digital Minimalism",
       "path": "Digital Minimalism.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "记忆框架的建立",
       "path": "ThinkBetter/记忆框架的建立.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "反转",
@@ -195,10 +199,6 @@
     {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
-    },
-    {
-      "basename": "知己",
-      "path": "ThinkBetter/知己.md"
     }
   ],
   "omittedPaths": [],
