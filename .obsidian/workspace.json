@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/脉诊学习.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -149,8 +148,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "79752a2d07bef6d6",
+  "active": "c2a0a4d32de50bd3",
   "lastOpenFiles": [
+    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
@@ -177,7 +177,6 @@
     "ThinkBetter/原则.md",
     "ThinkBetter/颜色的区分.md",
     "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
