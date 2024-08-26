@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a11a2c5c97d00f94",
+        "id": "d248d02a6521e236",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe5d68719a77408",
+            "id": "c2a0a4d32de50bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bababcb965b3fa04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "228fff4fcfb27219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md"
+                "file": "ThinkBetter/人纪/+Home.md"
               }
             }
           }
@@ -161,11 +134,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "bababcb965b3fa04",
+  "active": "c2a0a4d32de50bd3",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/温病本气篇.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "Pasted image 20240823113522.png",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
