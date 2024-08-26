@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/002 黄帝内经.md"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "089 人纪 - 神农本草经",
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "事件timing",
