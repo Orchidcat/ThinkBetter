@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/一句话的玩味.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "抱朴子内篇",
       "path": "抱朴子内篇.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "肘后备急方",
       "path": "ThinkBetter/人纪/肘后备急方.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "中国历代政治得失",
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 药解",
       "path": "ThinkBetter/人纪/Template - 药解.md"
-    },
-    {
-      "basename": "甘草",
-      "path": "ThinkBetter/人纪/甘草.md"
     }
   ],
   "omittedPaths": [],
