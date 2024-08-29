@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "抱朴子内篇.md"
               }
             }
           }
@@ -174,8 +174,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2f0525ddb04a163b",
+  "active": "ae1b3ff5925d056c",
   "lastOpenFiles": [
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
     "抱朴子内篇.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
@@ -202,7 +203,6 @@
     "ThinkBetter/六气.md",
     "二十四节气.md",
     "ThinkBetter/时病本气篇.md",
-    "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
