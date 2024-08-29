@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae1b3ff5925d056c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "抱朴子内篇.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md"
+                "file": "抱朴子内篇.md"
               }
             }
           }
@@ -149,13 +162,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "3cd218ed71213f6e",
+  "active": "ae1b3ff5925d056c",
   "lastOpenFiles": [
+    "抱朴子内篇.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/肘后备急方.md",
     "ThinkBetter/人纪/+Home.md",
     "中国历代政治得失.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/温病本气篇.md",
@@ -177,7 +191,6 @@
     "二十四节气.md",
     "ThinkBetter/时病本气篇.md",
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
-    "ThinkBetter/原则.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
