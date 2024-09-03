@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ae8bb463fc95288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/手阳明大肠经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/人纪/手阳明大肠经.md"
               }
             }
           }
@@ -135,10 +149,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b794acae23460574",
+  "active": "2ae8bb463fc95288",
   "lastOpenFiles": [
-    "抱朴子内篇.md",
     "ThinkBetter/一句话的玩味.md",
+    "抱朴子内篇.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
