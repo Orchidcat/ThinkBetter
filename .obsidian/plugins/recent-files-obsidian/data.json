@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "知己",
+      "path": "ThinkBetter/知己.md"
+    },
+    {
+      "basename": "兴趣 MOC",
+      "path": "ThinkBetter/人纪/兴趣 MOC.md"
+    },
+    {
       "basename": "手阳明大肠经",
       "path": "ThinkBetter/人纪/手阳明大肠经.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "天门冬",
       "path": "ThinkBetter/人纪/天门冬.md"
-    },
-    {
-      "basename": "麦门冬",
-      "path": "ThinkBetter/人纪/麦门冬.md"
-    },
-    {
-      "basename": "生姜",
-      "path": "ThinkBetter/生姜.md"
     }
   ],
   "omittedPaths": [],
