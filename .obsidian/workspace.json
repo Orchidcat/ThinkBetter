@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/一句话的玩味.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "抱朴子内篇.md"
+                "file": "ThinkBetter/一句话的玩味.md"
               }
             }
           }
@@ -149,7 +148,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "8a36ff911486553c",
+  "active": "b794acae23460574",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "抱朴子内篇.md",
