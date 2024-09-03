@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "抱朴子内篇.md"
               }
             }
           }
@@ -148,11 +149,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b794acae23460574",
+  "active": "8a36ff911486553c",
   "lastOpenFiles": [
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/+Home.md",
     "抱朴子内篇.md",
-    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/肘后备急方.md",
