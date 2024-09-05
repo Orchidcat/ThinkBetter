@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "ThinkBetter/知己.md"
               }
             }
           }
@@ -148,8 +147,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "ec962488b679196c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
@@ -176,7 +176,6 @@
     "ThinkBetter/心智模型 MOC.md",
     "ThinkBetter/NotToDo.md",
     "ThinkBetter/古方上篇.md",
-    "ThinkBetter/圆运动的古中医学.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
