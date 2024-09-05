@@ -24,8 +24,13 @@
             "id": "15b7317ad6edb27e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -114,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+              }
             }
           }
         ],
