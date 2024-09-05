@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "ThinkBetter/六气.md"
               }
             }
           }
@@ -148,10 +149,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "15b7317ad6edb27e",
+  "active": "92a7557340751ddf",
   "lastOpenFiles": [
-    "ThinkBetter/六气.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+    "ThinkBetter/六气.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
