@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "508c6e98b751edd1",
+        "id": "3b1a2b812656249a",
         "type": "tabs",
         "children": [
           {
-            "id": "b794acae23460574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/一句话的玩味.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae8bb463fc95288",
+            "id": "ec962488b679196c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/一句话的玩味.md"
+                "file": "ThinkBetter/知己.md"
               }
             }
           }
@@ -148,14 +135,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b794acae23460574",
+  "active": "ec962488b679196c",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/兴趣 MOC.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
-    "ThinkBetter/一句话的玩味.md",
     "抱朴子内篇.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/肘后备急方.md",
