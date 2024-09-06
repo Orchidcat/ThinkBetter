@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f466daa14ab0995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -71,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "六寸",
+                "query": "三阳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -151,15 +163,15 @@
   },
   "active": "a39da47a9557ab14",
   "lastOpenFiles": [
-    "ThinkBetter/六气.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+    "ThinkBetter/六气.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/人纪/兴趣 MOC.md",
     "ThinkBetter/人纪/手阳明大肠经.md",
     "抱朴子内篇.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/肘后备急方.md",
     "中国历代政治得失.md",
