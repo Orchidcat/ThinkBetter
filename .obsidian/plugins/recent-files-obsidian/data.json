@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "古方上篇",
+      "path": "ThinkBetter/古方上篇.md"
+    },
+    {
       "basename": "圆运动的古中医学",
       "path": "ThinkBetter/圆运动的古中医学.md"
+    },
+    {
+      "basename": "伤寒论六经原文读法篇",
+      "path": "ThinkBetter/伤寒论六经原文读法篇.md"
+    },
+    {
+      "basename": "温病本气篇",
+      "path": "ThinkBetter/温病本气篇.md"
+    },
+    {
+      "basename": "药性提纲篇",
+      "path": "ThinkBetter/药性提纲篇.md"
     },
     {
       "basename": "伤寒读法总纲",
@@ -73,10 +89,6 @@
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
     },
     {
-      "basename": "温病本气篇",
-      "path": "ThinkBetter/温病本气篇.md"
-    },
-    {
       "basename": "事件timing",
       "path": "ThinkBetter/事件timing.md"
     },
@@ -119,10 +131,6 @@
     {
       "basename": "NotToDo",
       "path": "ThinkBetter/NotToDo.md"
-    },
-    {
-      "basename": "古方上篇",
-      "path": "ThinkBetter/古方上篇.md"
     },
     {
       "basename": "二十四节气",
@@ -191,14 +199,6 @@
     {
       "basename": "折肱漫录",
       "path": "ThinkBetter/人纪/折肱漫录.md"
-    },
-    {
-      "basename": "004 金匮要略",
-      "path": "ThinkBetter/人纪/004 金匮要略.md"
-    },
-    {
-      "basename": "121 四问便",
-      "path": "ThinkBetter/人纪/121 四问便.md"
     }
   ],
   "omittedPaths": [],
