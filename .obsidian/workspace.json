@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/075 六经辩证.md"
+                "file": "ThinkBetter/人纪/002 黄帝内经.md"
               }
             }
           }
@@ -186,14 +187,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b28c933cb50b5656",
+  "active": "be8a30b3c96157e4",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/057 黄帝外经.md",
+    "ThinkBetter/古方上篇.md",
+    "ThinkBetter/六气.md",
+    "ThinkBetter/人纪/075 六经辩证.md",
     "ThinkBetter/人纪/074 六经辨证.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
-    "ThinkBetter/六气.md",
-    "ThinkBetter/人纪/057 黄帝外经.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/古方上篇.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/067 经络辨证.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -213,7 +215,6 @@
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/肘后备急方.md",
     "中国历代政治得失.md",
-    "ThinkBetter/脉诊学习.md",
     "Pasted image 20240823113522.png",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
