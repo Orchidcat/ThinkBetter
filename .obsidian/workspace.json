@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/人纪/195 子午流注.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "六经",
+                "query": "子午",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/057 黄帝外经.md"
+                "file": "ThinkBetter/人纪/195 子午流注.md"
               }
             }
           }
@@ -187,12 +187,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "bfd0ec0040029674",
+  "active": "be8a30b3c96157e4",
   "lastOpenFiles": [
     "ThinkBetter/人纪/002 黄帝内经.md",
+    "ThinkBetter/人纪/075 六经辩证.md",
     "ThinkBetter/人纪/057 黄帝外经.md",
     "ThinkBetter/古方上篇.md",
-    "ThinkBetter/人纪/075 六经辩证.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/074 六经辨证.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
