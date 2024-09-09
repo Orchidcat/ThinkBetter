@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "渣",
+                "query": "肺寅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +186,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b28c933cb50b5656",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
