@@ -5,6 +5,14 @@
       "path": "ThinkBetter/圆运动的古中医学.md"
     },
     {
+      "basename": "伤寒读法总纲",
+      "path": "ThinkBetter/伤寒读法总纲.md"
+    },
+    {
+      "basename": "伤寒理路",
+      "path": "ThinkBetter/伤寒理路.md"
+    },
+    {
       "basename": "圆运动的古中医学（续）",
       "path": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "121 四问便",
       "path": "ThinkBetter/人纪/121 四问便.md"
-    },
-    {
-      "basename": "148 五问饮食",
-      "path": "ThinkBetter/人纪/148 五问饮食.md"
-    },
-    {
-      "basename": "消渴",
-      "path": "消渴.md"
     }
   ],
   "omittedPaths": [],
