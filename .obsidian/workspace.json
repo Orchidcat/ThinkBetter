@@ -50,8 +50,13 @@
             "id": "bfd0ec0040029674",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/057 黄帝外经.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -92,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "循行",
+                "query": "手太阴肺经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ThinkBetter/人纪/057 黄帝外经.md"
+              }
             }
           }
         ],
@@ -167,8 +174,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "bfd0ec0040029674",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/067 经络辨证.md",
+    "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/古方上篇.md",
     "ThinkBetter/圆运动的古中医学.md",
     "ThinkBetter/伤寒论六经原文读法篇.md",
@@ -194,8 +203,6 @@
     "Pasted image 20240823113522.png",
     "ThinkBetter/事件timing.md",
     "Digital Minimalism.md",
-    "ThinkBetter/学习方法.md",
-    "Slow Productivity.md",
     "Pasted image 20240731110513.png",
     "Pasted image 20240731092321.png",
     "Pasted image 20240726161959.png",
