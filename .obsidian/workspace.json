@@ -45,9 +45,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfd0ec0040029674",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "丑肝通",
+                "query": "循行",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ThinkBetter/古方上篇.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,13 +167,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ee9ee0b4b916e091",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/古方上篇.md",
     "ThinkBetter/圆运动的古中医学.md",
     "ThinkBetter/伤寒论六经原文读法篇.md",
     "ThinkBetter/温病本气篇.md",
     "ThinkBetter/药性提纲篇.md",
-    "ThinkBetter/古方上篇.md",
     "ThinkBetter/伤寒读法总纲.md",
     "ThinkBetter/伤寒理路.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
