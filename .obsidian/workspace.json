@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
+                "file": "ThinkBetter/人纪/057 黄帝外经.md"
               }
             }
           }
@@ -174,10 +175,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b28c933cb50b5656",
+  "active": "bfd0ec0040029674",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/057 黄帝外经.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+    "ThinkBetter/人纪/057 黄帝外经.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/古方上篇.md",
     "ThinkBetter/人纪/067 经络辨证.md",
