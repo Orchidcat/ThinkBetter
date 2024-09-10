@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/古方上篇.md"
+                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md"
               }
             }
           }
@@ -188,11 +187,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ee9ee0b4b916e091",
+  "active": "b28c933cb50b5656",
   "lastOpenFiles": [
     "ThinkBetter/六气.md",
-    "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/古方上篇.md",
+    "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "园丁与木匠.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
