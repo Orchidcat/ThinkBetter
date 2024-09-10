@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6adda5cabf591000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "园丁与木匠.md"
+                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
               }
             }
           }
@@ -201,7 +214,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c04aa5c120260752",
+  "active": "6adda5cabf591000",
   "lastOpenFiles": [
     "园丁与木匠.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
