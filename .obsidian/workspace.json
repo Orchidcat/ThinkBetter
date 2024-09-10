@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "c04aa5c120260752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "园丁与木匠.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6adda5cabf591000",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "园丁与木匠.md"
+                "file": "ThinkBetter/人纪/195 子午流注.md"
               }
             }
           }
@@ -214,10 +201,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c04aa5c120260752",
+  "active": "be8a30b3c96157e4",
   "lastOpenFiles": [
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "园丁与木匠.md",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/人纪/074 六经辨证.md",
     "ThinkBetter/人纪/075 六经辩证.md",
