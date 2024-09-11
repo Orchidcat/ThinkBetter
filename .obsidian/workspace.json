@@ -47,32 +47,6 @@
             }
           },
           {
-            "id": "ee9ee0b4b916e091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/古方上篇.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfd0ec0040029674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/057 黄帝外经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "be8a30b3c96157e4",
             "type": "leaf",
             "state": {
@@ -84,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb30761aac7387ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "园丁与木匠.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/四圣心源.md"
+                "file": "ThinkBetter/六气.md"
               }
             }
           }
@@ -214,10 +175,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1d280c7856609975",
+  "active": "eb05587bb4ea12c6",
   "lastOpenFiles": [
-    "园丁与木匠.md",
     "ThinkBetter/人纪/四圣心源.md",
+    "园丁与木匠.md",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "ThinkBetter/六气.md",
