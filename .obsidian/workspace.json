@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39e8b157eac3e896",
+        "id": "2fcd4f0af969a055",
         "type": "tabs",
         "children": [
           {
-            "id": "b28c933cb50b5656",
+            "id": "02ee2cf108f7fe52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "1d280c7856609975",
+            "id": "f56a9ce6ec5897e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/人纪/四圣心源.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb05587bb4ea12c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/六气.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be8a30b3c96157e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/195 子午流注.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,11 +149,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1d280c7856609975",
+  "active": "f56a9ce6ec5897e4",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/人纪/四圣心源.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/人纪/195 子午流注.md",
-    "ThinkBetter/人纪/四圣心源.md",
     "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "园丁与木匠.md",
     "ThinkBetter/古方上篇.md",
@@ -197,7 +172,6 @@
     "ThinkBetter/药性提纲篇.md",
     "ThinkBetter/伤寒读法总纲.md",
     "ThinkBetter/伤寒理路.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/一句话的玩味.md",
