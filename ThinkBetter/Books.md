@@ -16,6 +16,7 @@
 [[如何阅读的方法]]
 
 
+书荒的列表：[Site Unreachable](https://sive.rs/book)
 
 **想要阅读的list**
 ```dataview

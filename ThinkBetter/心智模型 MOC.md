@@ -31,3 +31,10 @@ tags:
 
 
 
+
+The Greate Mental Models 
+	Volume 1 [[General Thinking Concepts]]        提供了9种最基础的思维模型
+	Volume 2 Physics, Chemistry and Biology  
+	Volume 3 [[Systems and Mathematics]]
+	Volume 4 [[Economics and Art]]
+
