@@ -37,8 +37,9 @@
 **UI**
 温度，PH 
 日程（间隔多久进行清洗蛋分，底缸; 控制按钮进行记录;如果按了，就清除，否则一直闪烁）
-	使用fullcalendar.io 
 	嵌入日历中
+	[Serving Flask Applications with uWSGI · jdhao's digital space](https://jdhao.github.io/2020/06/13/flask_serving_via_wsgi_server/)
+	[GitHub - Kartones/flask-calendar: Simple Python & Flask web-calendar](https://github.com/Kartones/flask-calendar?tab=readme-ov-file)
 自动拍照记录
 维护界面（各种维护的时间间隔，dosin，skimmer等）
 
