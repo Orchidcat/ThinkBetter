@@ -39,6 +39,7 @@ UI
 	使用fullcalendar.io 
 	嵌入日历中
 自动拍照记录
+维护界面（各种维护的时间间隔，dosin，skimmer等）
 
 
 
