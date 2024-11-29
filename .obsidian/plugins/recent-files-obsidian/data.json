@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Economics and Art",
+      "path": "Economics and Art.md"
+    },
+    {
+      "basename": "框架",
+      "path": "框架.md"
+    },
+    {
+      "basename": "Pi - Reef Monitor System",
+      "path": "Pi - Reef Monitor System.md"
+    },
+    {
+      "basename": "rpi zero 2w",
+      "path": "rpi zero 2w.md"
+    },
+    {
+      "basename": "apex fusion的显示",
+      "path": "apex fusion的显示.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Flask.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "心智模型 MOC",
       "path": "ThinkBetter/心智模型 MOC.md"
-    },
-    {
-      "basename": "Economics and Art",
-      "path": "Economics and Art.md"
     },
     {
       "basename": "Systems and Mathematics",
@@ -179,26 +199,6 @@
     {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
-    },
-    {
-      "basename": "养生之道",
-      "path": "ThinkBetter/人纪/养生之道.md"
-    },
-    {
-      "basename": "一张有趣的图",
-      "path": "ThinkBetter/人纪/一张有趣的图.md"
-    },
-    {
-      "basename": "GTD",
-      "path": "ThinkBetter/GTD.md"
-    },
-    {
-      "basename": "二十四节气",
-      "path": "二十四节气.md"
-    },
-    {
-      "basename": "折肱漫录",
-      "path": "ThinkBetter/人纪/折肱漫录.md"
     }
   ],
   "omittedPaths": [],
