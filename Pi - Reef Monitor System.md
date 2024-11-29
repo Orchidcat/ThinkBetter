@@ -1,6 +1,6 @@
 #reef #珊瑚 #Coral #RaspberryPi
 
-预算 < RMB 600
+预算 < RMB 600 < 50hr（4hr）
 
 ### 需要完成的资源获取
 
