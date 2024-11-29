@@ -27,7 +27,7 @@
 
 
 前端显示
-使用ipad 利用VNC显示pi的输出web页面
+使用ipad 利用[VNC](https://apps.apple.com/gb/app/realvnc-viewer-remote-desktop/id352019548)显示pi的输出web页面
 - [ ] chart.js
 - [ ] 参考[[apex fusion的显示]]
 
