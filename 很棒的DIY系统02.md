@@ -8,6 +8,9 @@ Raspberry Pi 3，它基本上是一台使用 Linux 操作系统（Raspbian）的
 **MATPLOTLIB** ： [Plot types — Matplotlib 3.9.3 documentation](https://matplotlib.org/stable/plot_types/index.html) 用于python提供图形显示
 
 
+
+
+
 ![[Pasted image 20241202140916.png]]
 
 ![[Pasted image 20241202141018.png]]
