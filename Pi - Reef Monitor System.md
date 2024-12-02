@@ -46,5 +46,7 @@
 
 
 [[PH传感器使用相关]]
+参考网站：
+[Build an IoT-Based Weather Station in Raspberry Pi 4 - The Engineering Projects](https://www.theengineeringprojects.com/2024/01/build-an-iot-based-weather-station-in-raspberry-pi-4.html)
 
 

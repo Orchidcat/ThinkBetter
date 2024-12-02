@@ -52,8 +52,7 @@
               "title": "RPI OS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +180,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4b7bfea27c86d681",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pi - Reef Monitor System.md",
     "PH传感器使用相关.md",
+    "Pi - Reef Monitor System.md",
     "RPI OS.md",
     "ThinkBetter/人纪/+Home.md",
     "Economics and Art.md",
