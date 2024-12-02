@@ -13,3 +13,4 @@
 
 红外水位器
 ![[Pasted image 20241202143453.png]]
+![[Pasted image 20241202143505.png]]
