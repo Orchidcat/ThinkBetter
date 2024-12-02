@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,12 +211,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e64711ab472aa86f",
+  "active": "5f0a1630bd4f71f9",
   "lastOpenFiles": [
+    "有趣的DIY设计.md",
+    "Pasted image 20241202145315.png",
     "Pasted image 20241202145244.png",
     "Pasted image 20241202145235.png",
     "Pi - Reef Monitor System.md",
-    "有趣的DIY设计.md",
     "很棒的DIY系统04.md",
     "Pasted image 20241202144623.png",
     "Pasted image 20241202144616.png",
@@ -228,8 +229,6 @@
     "很棒的DIY系统02.md",
     "很棒的DIY系统03.md",
     "Pasted image 20241202143505.png",
-    "Pasted image 20241202143453.png",
-    "Pasted image 20241202143224.png",
     "PH传感器使用相关.md",
     "RPI OS.md",
     "apex fusion的显示.md",
