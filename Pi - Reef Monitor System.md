@@ -49,6 +49,6 @@
 参考网站：
 [Build an IoT-Based Weather Station in Raspberry Pi 4 - The Engineering Projects](https://www.theengineeringprojects.com/2024/01/build-an-iot-based-weather-station-in-raspberry-pi-4.html)
 
-[模拟信号转数字信号 MCP3008]
+[模拟信号转数字信号 MCP3008](https://www.raspberrypi-spy.co.uk/2013/10/analogue-sensors-on-the-raspberry-pi-using-an-mcp3008/)
 
 
