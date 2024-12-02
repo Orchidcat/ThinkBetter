@@ -9,3 +9,7 @@
 
 
 ![[Pasted image 20241202143213.png]]![[Pasted image 20241202143224.png]]
+
+
+红外水位器
+![[Pasted image 20241202143453.png]]
