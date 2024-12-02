@@ -33,7 +33,7 @@ STEP:
 	- [ ] 温度计（测试用）
 - [ ] 被谈及的硬件
 	- [ ] PCA9685
-	- [ ] [MCP3008]
+	- [ ] [MCP3008](https://gpiozero.readthedocs.io/en/latest/api_spi.html#gpiozero.MCP3008)
 	- [ ] 继电器
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
@@ -46,6 +46,7 @@ STEP:
 - [ ] Micropython
 - [ ] Thonny
 - [ ] pycharm
+- [ ] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html)
 
 
 需要解决的软件技术问题
