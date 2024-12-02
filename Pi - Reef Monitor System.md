@@ -6,7 +6,6 @@
 ![[Pasted image 20241202140510.png]]
 
 
-
 STEP:
 - 网站编写
 	- 读取sqlite数据，一定时间进行刷新（时间间隔可以后期设置）
@@ -18,10 +17,6 @@ STEP:
 	- 时钟对准RTC(`sudo timedatectl set-ntp True` ; 检查结果`timedatectl status` ;如果出现警告，你可能也必须跑`sudo timedatectl set-local-rtc true`)
 	- ![[Pasted image 20241202155232.png]]
 - 电路连接，AC转DC
-
-
-
-
 
 
 ### 需要完成的资源获取
