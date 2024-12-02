@@ -50,7 +50,13 @@
 
 参考：
 [如何在启动时自动运行python脚本]([How To Autorun A Python Script On Raspberry Pi Boot - Raspberry Pi Spy](https://www.raspberrypi-spy.co.uk/2015/02/how-to-autorun-a-python-script-on-raspberry-pi-boot/))
+
+
+
+硬件相关
 [模拟信号转数字信号 MCP3008](https://www.raspberrypi-spy.co.uk/2013/10/analogue-sensors-on-the-raspberry-pi-using-an-mcp3008/)
+
+
 
 
 应用相关的参考：
