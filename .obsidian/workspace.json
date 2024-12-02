@@ -82,8 +82,7 @@
               "title": "RPI OS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,10 +123,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "消炎",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -140,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -211,8 +209,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5f0a1630bd4f71f9",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "很棒的DIY系统04.md",
     "Pasted image 20241202145559.png",
     "Pasted image 20241202145548.png",
     "Pasted image 20241202145538.png",
@@ -221,12 +220,10 @@
     "Pasted image 20241202145244.png",
     "Pasted image 20241202145235.png",
     "Pi - Reef Monitor System.md",
-    "很棒的DIY系统04.md",
     "Pasted image 20241202144623.png",
     "Pasted image 20241202144616.png",
     "Pasted image 20241202144606.png",
     "Pasted image 20241202144558.png",
-    "Pasted image 20241202144512.png",
     "很棒的DIY系统01.md",
     "很棒的DIY系统02.md",
     "很棒的DIY系统03.md",
