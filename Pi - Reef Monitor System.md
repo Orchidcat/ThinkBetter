@@ -61,7 +61,7 @@ STEP:
 🔴[[很棒的DIY系统04]]
 [[有趣的DIY设计]]
 
-可以参考的完整项目 [Fetching Title#ditt](https://reef-pi.github.io/)
+可以参考的完整项目 [reef-pi - An opensource reef tank controller based on Raspberry Pi](https://reef-pi.github.io/)
 
 
 **UI**
