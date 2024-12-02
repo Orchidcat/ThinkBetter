@@ -12,6 +12,7 @@ STEP:
 	- 低温/高温/回温短信和电子邮件提醒
 	- 每周发送电子邮件，列出需要进行哪些类型的维护
 	- 循环显示一些漂亮的珊瑚图片
+	- 可以通过**pi上安装android模拟器**来控制已经有软件支持的各种无线设备。
 - rpi安装使用测试
 - 电路连接，AC转DC
 
@@ -81,3 +82,4 @@ STEP:
 
 应用相关的参考：
 [Build an IoT-Based Weather Station in Raspberry Pi 4 - The Engineering Projects](https://www.theengineeringprojects.com/2024/01/build-an-iot-based-weather-station-in-raspberry-pi-4.html)
+[Fetching Title#pv3v](https://youtu.be/DdM4q2Ocza4)
