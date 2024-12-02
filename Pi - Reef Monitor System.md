@@ -16,6 +16,7 @@ STEP:
 	- 可以通过**pi上安装android模拟器**来控制已经有软件支持的各种无线设备。
 - rpi安装使用测试
 	- 时钟对准RTC(`sudo timedatectl set-ntp True` ; 检查结果`timedatectl status` ;如果出现警告，你可能也必须跑`sudo timedatectl set-local-rtc true`)
+	- ![[Pasted image 20241202155232.png]]
 - 电路连接，AC转DC
 
 
