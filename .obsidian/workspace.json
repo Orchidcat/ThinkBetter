@@ -82,7 +82,8 @@
               "title": "RPI OS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,16 +211,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bf077655fe1bd66a",
   "lastOpenFiles": [
+    "很棒的DIY系统02.md",
+    "很棒的DIY系统03.md",
     "Pasted image 20241202143505.png",
     "Pasted image 20241202143453.png",
     "Pasted image 20241202143224.png",
     "Pasted image 20241202143213.png",
     "Pasted image 20241202143151.png",
     "Pi - Reef Monitor System.md",
-    "很棒的DIY系统03.md",
-    "很棒的DIY系统02.md",
     "很棒的DIY系统01.md",
     "PH传感器使用相关.md",
     "RPI OS.md",
@@ -228,7 +229,6 @@
     "Pasted image 20241202140916.png",
     "Pasted image 20241202140900.png",
     "Pasted image 20241202140510.png",
-    "Pasted image 20241202135345.png",
     "apex fusion的显示.md",
     "ThinkBetter/人纪/+Home.md",
     "Economics and Art.md",
