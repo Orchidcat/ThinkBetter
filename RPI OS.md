@@ -3,7 +3,8 @@
 
 
 - GPIO documents [gpiozero — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/) 
-- 
+
+使用GPIO Zero的远程GPIO功能，需要在计算机上安装GPIO Zero
 
 
 
