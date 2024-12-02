@@ -37,8 +37,7 @@
               "title": "RPI OS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "68818289ff606a5f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pi - Reef Monitor System.md",
     "RPI OS.md",
+    "Pi - Reef Monitor System.md",
     "ThinkBetter/人纪/+Home.md",
     "Economics and Art.md",
     "apex fusion的显示.md",
