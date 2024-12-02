@@ -4,6 +4,8 @@
 [Site Unreachable](https://www.reef2reef.com/threads/diy-control-system-i-am-building.229595/)
 
 
+[Control System Episode 3 - Starting the stand - YouTube](https://youtu.be/JnMheRaNhU8)
+
 **设备**  
 
 - 树莓派 B+
