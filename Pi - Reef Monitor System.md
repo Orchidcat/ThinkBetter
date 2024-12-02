@@ -34,6 +34,7 @@ STEP:
 	- [ ] PCA9685
 	- [ ] MCP3008
 	- [ ] 继电器
+	- [ ] MCP23017或 MCP23008  可以扩展GPIO
 
 **软件**
 - [ ] [[RPI OS]]下载 （bullseye版本选择）
