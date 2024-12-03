@@ -43,6 +43,10 @@ STEP:
 - [ ] Thonny
 - [ ] pycharm
 - [ ] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html)
+- [ ] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+
+
+
 
 
 需要解决的软件技术问题
