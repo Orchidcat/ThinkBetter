@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/事件timing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "事件timing"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "李玟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -152,8 +151,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/写点儿啥.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/写点儿啥.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/DailyNotes/2022-04-27.md",
     "Pi - Reef Monitor System.md",
