@@ -36,6 +36,18 @@
               "icon": "lucide-file",
               "title": "很棒的DIY系统02"
             }
+          },
+          {
+            "id": "07ec91021dc15a44",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241202140916.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241202140916"
+            }
           }
         ],
         "currentTab": 1
@@ -168,8 +180,9 @@
   },
   "active": "d37e43578d66936b",
   "lastOpenFiles": [
-    "Pi - Reef Monitor System.md",
+    "Pasted image 20241202140916.png",
     "很棒的DIY系统02.md",
+    "Pi - Reef Monitor System.md",
     "很棒的DIY系统04.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/事件timing.md",
@@ -203,7 +216,6 @@
     "ThinkBetter/人纪/001 @MOC中医.md",
     "HELL YEAH OR No - what's worth doing.md",
     "General Thinking Concepts.md",
-    "反转.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
