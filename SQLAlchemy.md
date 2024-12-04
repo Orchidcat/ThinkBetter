@@ -49,7 +49,9 @@ conn.commit()
 ```python 
 session = Session(engine)
 session.add(squidward)
-session.new
+session.new #查看被调用的集合
+
+session.flush() #刷新
 
 
 ```
