@@ -51,7 +51,8 @@ session = Session(engine)
 session.add(squidward)
 session.new #查看被调用的集合
 
-session.flush() #刷新
+session.flush() #刷新 向数据库发出 SQL 以推出当前的更改集时，该过程称为**刷新**
+	session.commit() #在此操作之前会现提交flush
 
 
 ```
