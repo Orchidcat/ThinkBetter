@@ -29,7 +29,7 @@ echo：将其发出的所有 SQL 记录到将写入标准输出的 Python 记录
 
 
 ### 使用事务和DBAPI 
-session 用来管理 
+**session** 用来管理 Engine，强调事务和 SQL 执行模式
 
 
 
