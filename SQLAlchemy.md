@@ -33,7 +33,10 @@ echo：将其发出的所有 SQL 记录到将写入标准输出的 Python 记录
 
 
 ```python 
-engine.connect() #获取与数据库的链接
+conn  = engine.connect() #获取与数据库的链接
+result  = conn.execute(sql)
+print(result.all())
+
 
 ```
 
