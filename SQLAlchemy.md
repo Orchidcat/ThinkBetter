@@ -1,4 +1,6 @@
 
+参考 ：[SQLAlchemy - The Database Toolkit for Python](https://www.sqlalchemy.org/)
+
 两部分组成Core ，ORM
 
 **Core**是 SQLAlchemy 作为“数据库工具包”的基础架构。该库提供用于管理数据库连接、与数据库查询和结果交互以及以编程方式构建 SQL 语句的工具。
@@ -19,6 +21,10 @@ engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
 数据库类型：sqlite 
 链接方言（DBAPI)：pysqlite
 路径：///:path  （memory：指代内存）
+echo：将其发出的所有 SQL 记录到将写入标准输出的 Python 记录器中
+
+
+
 
 ==首次返回 时，它[`create_engine()`](https://docs.sqlalchemy.org/en/20/core/engines.html#sqlalchemy.create_engine "sqlalchemy.create_engine")实际上尚未尝试连接数据库==
 
