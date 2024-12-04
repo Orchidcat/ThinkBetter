@@ -36,11 +36,12 @@ echo：将其发出的所有 SQL 记录到将写入标准输出的 Python 记录
 conn  = engine.connect() #获取与数据库的链接
 result  = conn.execute(sql)
 print(result.all())
-
-
 ```
 
-
+数据不会自动提交，需要执行下列提交操作
+```python 
+conn.commit()
+```
 
 
 
