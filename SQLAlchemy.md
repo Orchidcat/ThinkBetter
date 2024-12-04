@@ -11,7 +11,10 @@
 ### engine
 此对象充当与特定数据库的连接的中心源，为这些数据库连接提供工厂以及称为连接[池的](https://docs.sqlalchemy.org/en/20/core/pooling.html)保存空间。引擎通常是只为特定数据库服务器创建一次的全局对象，并使用 URL 字符串进行配置，该字符串将描述它应如何连接到数据库主机或后端。
 
-
+```python
+from sqlalchemy import create_engine
+engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
+```
 
 
 
