@@ -16,7 +16,10 @@ from sqlalchemy import create_engine
 engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
 ```
 
-sqlite 数据库类型
+数据库类型：sqlite 
+链接方言（DBAPI)：pysqlite
+路径：///:path  （memory：指代内存）
+
 
 
 
