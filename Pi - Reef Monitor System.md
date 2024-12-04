@@ -34,7 +34,7 @@ STEP:
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
 
-**软件**
+**软件**  [[代码实现]]
 - [ ] [[RPI OS]]下载 （bullseye版本选择）
 - [ ] sqlite
 - [ ] Node-red
@@ -44,6 +44,7 @@ STEP:
 - [ ] pycharm
 - [ ] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html)
 - [ ] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+
 
 
 
