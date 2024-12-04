@@ -44,7 +44,7 @@ conn.commit()
 ```
 
 
-
+### 构建 SQL 表达式语言的生命周期[`Session`](https://docs.sqlalchemy.org/en/20/orm/session_api.html#sqlalchemy.orm.Session "sqlalchemy.orm.会话")以及它如何与这些构造进行交互。
 
 
 
