@@ -20,6 +20,7 @@ engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
 链接方言（DBAPI)：pysqlite
 路径：///:path  （memory：指代内存）
 
+==首次返回 时，它[`create_engine()`](https://docs.sqlalchemy.org/en/20/core/engines.html#sqlalchemy.create_engine "sqlalchemy.create_engine")实际上尚未尝试连接数据库==
 
 
 
