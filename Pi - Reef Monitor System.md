@@ -64,7 +64,7 @@ STEP:
 	- [ ] [[Flask-buleprint]] 
 	- [ ] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 	- [ ] flask context  上下文解析；**用于跟踪代码需要执行的数据** [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/)
-	- [ ] application 以及 request context [Fetching Title#vdbh](https://testdriven.io/blog/flask-contexts-advanced/)
+	- [ ] application 以及 request context [Deep Dive into Flask's Application and Request Contexts | TestDriven.io](https://testdriven.io/blog/flask-contexts-advanced/)
 	- [ ] [flask tips](https://www.patricksoftwareblog.com/flask_tips.html)
 
 
