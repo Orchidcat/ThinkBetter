@@ -1,6 +1,6 @@
 #reef #珊瑚 #Coral #RaspberryPi
 
-预算 < RMB 600 < 50hr（8hr）
+预算 < RMB 600 < 50hr（20hr）
 
 [Fetching Title#8ger](https://youtu.be/0lguyj1sFS8)
 ![[Pasted image 20241202140510.png]]
