@@ -61,7 +61,7 @@ STEP:
 - [ ] 页面显示加载速度 [topbar by buunguyen](https://buunguyen.github.io/topbar/)
 - [ ] flask 库
 	- [ ] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/)
-	- [ ] Flask-bule
+	- [ ] [[Flask-buleprint]] 
 
 
 
