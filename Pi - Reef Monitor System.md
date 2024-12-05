@@ -66,7 +66,8 @@ STEP:
 	- [ ] flask context  上下文解析；**用于跟踪代码需要执行的数据** [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/)
 	- [ ] application 以及 request context [Deep Dive into Flask's Application and Request Contexts | TestDriven.io](https://testdriven.io/blog/flask-contexts-advanced/)
 	- [ ] [flask tips](https://www.patricksoftwareblog.com/flask_tips.html)
-	- [ ] session [Sessions in Flask | TestDriven.io](https://testdriven.io/blog/flask-sessions/) 由于请求是无状态的，需要一种方法来存储每个请求之间的数据
+	- [ ] session [Sessions in Flask | TestDriven.io](https://testdriven.io/blog/flask-sessions/) 由于请求是无状态的，需要**一种方法来存储每个请求之间的数据**
+- [ ] WSGI服务器 [Gunicorn - Python WSGI HTTP Server for UNIX](https://gunicorn.org/)
 
 
 
