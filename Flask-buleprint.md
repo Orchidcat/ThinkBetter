@@ -2,6 +2,10 @@
 
 参考 [Modular Applications with Blueprints — Flask Documentation (3.1.x)](https://flask.palletsprojects.com/en/stable/blueprints/)
 
+
+样例
+[Use a Flask Blueprint to Architect Your Applications – Real Python](https://realpython.com/flask-blueprint/)
+
 Flask Blueprint 实际上并不是一个应用程序。它需要在应用程序中注册后才能运行。在应用程序中注册 Flask Blueprint 时，实际上是在用 Blueprint 的内容**扩展应用程序。**
 
 **它们记录稍后在应用程序上注册时要执行的操作**
