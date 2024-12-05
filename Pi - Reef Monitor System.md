@@ -26,6 +26,7 @@ STEP:
 	- 每周发送电子邮件，列出需要进行哪些类型的维护
 	- 循环显示一些漂亮的珊瑚图片
 	- 可以通过**pi上安装android模拟器**来控制已经有软件支持的各种无线设备。
+	- [[颜色选择]]
 - rpi安装使用测试
 	- 时钟对准RTC(`sudo timedatectl set-ntp True` ; 检查结果`timedatectl status` ;如果出现警告，你可能也必须跑`sudo timedatectl set-local-rtc true`)
 	- ![[Pasted image 20241202155232.png]]
