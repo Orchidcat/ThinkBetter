@@ -6,6 +6,9 @@
 ![[Pasted image 20241202140510.png]]
 
 目标：
+- 实时获取reef 当前状态数据
+- 记录test数据
+- 记录reef
 
 
 
