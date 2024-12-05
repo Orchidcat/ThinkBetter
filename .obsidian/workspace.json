@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "097 三问头身"
             }
+          },
+          {
+            "id": "9a484bc5463d0953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pi - Reef Monitor System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pi - Reef Monitor System"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 266.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -149,8 +166,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9a484bc5463d0953",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/097 三问头身.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/+Home.md",
     "代码实现.md",
@@ -186,7 +204,6 @@
     "Systems and Mathematics.md",
     "中医入门.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
