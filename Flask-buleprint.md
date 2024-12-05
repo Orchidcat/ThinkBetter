@@ -8,7 +8,8 @@ Flask Blueprint 实际上并不是一个应用程序。它需要在应用程序�
 from flask import Blueprint
 
 example_blueprint = Blueprint('example_blueprint', __name__)  #第一个参数example_blueprint 蓝图名称
-#第二个参数__name__ 是蓝图导入名称，flask利用这个导入名称进行
+
 
 ```
 
+'__name__ 是蓝图导入名称，flask利用这个导入名称进行定位蓝图的资源，其它可以使用的参数还有：
