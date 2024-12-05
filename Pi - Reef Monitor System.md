@@ -10,7 +10,7 @@
 - 记录test数据
 - 记录reef数据
 
-一个
+一个值得参考的创建软件过程描述 [How to Start and Finish Any Web App Project — Nick Janetakis](https://nickjanetakis.com/blog/how-to-start-and-finish-any-web-app-project)
 
 
 
@@ -59,7 +59,9 @@ STEP:
 - [ ] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 - [ ] 提速工具turbolinks[GitHub - turbolinks/turbolinks: Turbolinks makes navigating your web application faster](https://github.com/turbolinks/turbolinks)
 - [ ] 页面显示加载速度 [topbar by buunguyen](https://buunguyen.github.io/topbar/)
-- [ ] 
+- [ ] flask 库
+	- [ ] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/)
+	- [ ] Flask-
 
 
 
