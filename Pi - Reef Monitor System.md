@@ -62,6 +62,7 @@ STEP:
 - [ ] flask 库
 	- [ ] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/)
 	- [ ] [[Flask-buleprint]] 
+	- [ ] 一个较好的flask运行过程的解释 [Fetching Title#i2mk](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
 
 
 
