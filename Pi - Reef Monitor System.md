@@ -8,7 +8,7 @@
 目标：
 - 实时获取reef tank当前运行状态数据
 - 记录test数据
-- 记录reef数据
+- 记录reef数据(coral,fish)
 
 一个值得参考的创建软件过程描述 [How to Start and Finish Any Web App Project — Nick Janetakis](https://nickjanetakis.com/blog/how-to-start-and-finish-any-web-app-project)
 
