@@ -50,7 +50,7 @@ STEP:
 
 **软件**  [[代码实现]]
 - [ ] [[RPI OS]]下载 （bullseye版本选择）
-- [ ] sqlite
+- [ ] sqlitef
 - [ ] Node-red
 - [ ] [[Flask]] 🛫 2024-11-28 
 - [ ] Micropython
