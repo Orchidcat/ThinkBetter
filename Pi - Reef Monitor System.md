@@ -63,6 +63,7 @@ STEP:
 	- [ ] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/)
 	- [ ] [[Flask-buleprint]] 
 	- [ ] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
+	- [ ] flask context  上下文解析 [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/)
 
 
 
