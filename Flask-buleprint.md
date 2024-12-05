@@ -14,11 +14,11 @@ example_blueprint = Blueprint('example_blueprint', __name__)  #第一个参数ex
 
 `__name__` 是蓝图导入名称，flask利用这个导入名称进行定位蓝图的资源，其它可以使用的参数还有：
 - static_folder：可以找到蓝图静态文件的文件夹
-- static_url_path：**提供静态文件的 URL
-- **template_folder：**包含蓝图模板的文件夹
-- **url_prefix：**添加到所有蓝图 URL 前面的路径
-- **子域：**此蓝图的路由默认匹配的子域
-- **url_defaults：**[此](https://realpython.com/courses/dictionaries-python/)Blueprint 的视图将接收的默认值字典
-- **root_path：**蓝图的根目录路径，默认值从蓝图的导入名称中获取
+- static_url_path：提供静态文件的 URL
+- template_folder：包含蓝图模板的文件夹
+- url_prefix：添加到所有蓝图 URL 前面的路径
+- 子域：此蓝图的路由默认匹配的子域
+- url_defaults：[此](https://realpython.com/courses/dictionaries-python/)Blueprint 的视图将接收的默认值字典
+- root_path：蓝图的根目录路径，默认值从蓝图的导入名称中获取
 
 请注意，除此以外`root_path`，所有路径都是相对于蓝图的目录的。
