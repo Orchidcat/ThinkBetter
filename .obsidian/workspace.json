@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +226,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "745adf617a603521",
+  "active": "9a484bc5463d0953",
   "lastOpenFiles": [
+    "Flask-buleprint.md",
     "Pi - Reef Monitor System.md",
     "ThinkBetter/如何阅读的方法.md",
     "Pasted image 20241206102637.png",
@@ -236,7 +237,6 @@
     "ThinkBetter/如何阅读.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/人纪/+Home.md",
-    "Flask-buleprint.md",
     "颜色选择.md",
     "ThinkBetter/人纪/097 三问头身.md",
     "ThinkBetter/人纪/004 金匮要略.md",
