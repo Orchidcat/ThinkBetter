@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -196,7 +195,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "29381723da3d6490",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "Pi - Reef Monitor System.md",
     "颜色选择.md",
