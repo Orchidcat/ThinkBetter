@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/学习方法.md",
+                "file": "ThinkBetter/如何阅读的方法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习方法"
+              "title": "如何阅读的方法"
             }
           }
         ],
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 266.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -210,8 +211,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "4be6755e1ee3ba65",
   "lastOpenFiles": [
+    "ThinkBetter/如何阅读.md",
+    "ThinkBetter/学习方法.md",
     "ThinkBetter/人纪/+Home.md",
     "Flask-buleprint.md",
     "Pi - Reef Monitor System.md",
@@ -246,8 +249,6 @@
     "框架.md",
     "rpi zero 2w.md",
     "Flask.md",
-    "ThinkBetter/心智模型 MOC.md",
-    "Systems and Mathematics.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
