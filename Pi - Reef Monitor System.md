@@ -48,6 +48,7 @@ STEP:
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
 - [ ] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h
+- [ ] `raspinfo`  一句话获取os信息
 
 **软件**  [[代码实现]]
 - [ ] [[RPI OS]]下载 （bullseye版本选择）
