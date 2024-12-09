@@ -47,6 +47,7 @@ STEP:
 	- [ ] 继电器
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
+- [ ] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h
 
 **软件**  [[代码实现]]
 - [ ] [[RPI OS]]下载 （bullseye版本选择）
@@ -71,7 +72,7 @@ STEP:
 - [ ] WSGI服务器 [Gunicorn - Python WSGI HTTP Server for UNIX](https://gunicorn.org/)
 
 
-Huoq
+
 
 
 
