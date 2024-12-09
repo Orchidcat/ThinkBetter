@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pi - Reef Monitor System.md",
+                "file": "颜色选择.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pi - Reef Monitor System"
+              "title": "颜色选择"
             }
           }
         ],
@@ -168,10 +168,10 @@
   },
   "active": "5563da3467066e7c",
   "lastOpenFiles": [
+    "Pi - Reef Monitor System.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/+Home.md",
-    "Pi - Reef Monitor System.md",
     "Flask-buleprint.md",
     "ThinkBetter/如何阅读的方法.md",
     "Pasted image 20241206102637.png",
