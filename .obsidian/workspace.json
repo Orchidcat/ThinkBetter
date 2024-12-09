@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "001 @MOC中医"
             }
           }
         ]
@@ -152,6 +152,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
+    "ThinkBetter/人纪/001 @MOC中医.md",
+    "ThinkBetter/人纪/+Home.md",
     "Pi - Reef Monitor System.md",
     "Flask-buleprint.md",
     "ThinkBetter/如何阅读的方法.md",
@@ -160,7 +163,6 @@
     "Pasted image 20241206095437.png",
     "ThinkBetter/如何阅读.md",
     "ThinkBetter/学习方法.md",
-    "ThinkBetter/人纪/+Home.md",
     "颜色选择.md",
     "ThinkBetter/人纪/097 三问头身.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -186,8 +188,6 @@
     "RPI OS.md",
     "apex fusion的显示.md",
     "Economics and Art.md",
-    "框架.md",
-    "rpi zero 2w.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
