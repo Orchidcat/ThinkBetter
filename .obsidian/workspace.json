@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pi - Reef Monitor System.md",
+                "file": "很棒的DIY系统03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pi - Reef Monitor System"
+              "title": "很棒的DIY系统03"
             }
           }
         ]
@@ -152,9 +152,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
-    "颜色选择.md",
     "Pi - Reef Monitor System.md",
+    "ThinkBetter/人纪/+Home.md",
+    "很棒的DIY系统01.md",
+    "apex fusion的显示.md",
+    "颜色选择.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "Flask-buleprint.md",
@@ -183,10 +185,8 @@
     "Pasted image 20241202145538.png",
     "Pasted image 20241202145315.png",
     "Pasted image 20241202145244.png",
-    "很棒的DIY系统01.md",
     "PH传感器使用相关.md",
     "RPI OS.md",
-    "apex fusion的显示.md",
     "Economics and Art.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
