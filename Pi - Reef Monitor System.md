@@ -19,7 +19,7 @@ MVP（最小可行产品）是什么？
 	- 2024-12-09 chart.js试用
 	- 2024-12-10 需要处理实时的问题，使用flask-socketio；遇到瓶颈，放到后期再进行处理？
 	- 2024-12-10 验证是否可以将温度显示跟其他显示集成到一个数据类型中，并将显示统一
-		- 需要安装chartjs-plugin-annotation 
+		- 需要安装chartjs-plugin-annotation 🆗
 
 
 
