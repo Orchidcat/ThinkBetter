@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "很棒的DIY系统02.md",
+                "file": "Pi - Reef Monitor System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "很棒的DIY系统02"
+              "title": "Pi - Reef Monitor System"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "很棒的DIY系统02.md",
     "Pi - Reef Monitor System.md",
     "有趣的DIY设计.md",
     "很棒的DIY系统04.md",
@@ -174,7 +175,6 @@
     "代码实现.md",
     "SQLAlchemy.md",
     "Pasted image 20241202140916.png",
-    "很棒的DIY系统02.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/一句话的玩味.md",
