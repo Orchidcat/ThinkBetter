@@ -22,7 +22,7 @@ MVP（最小可行产品）是什么？
 		- 需要安装chartjs-plugin-annotation 🆗
 		- [Line Chart | chartjs-plugin-annotation](https://www.chartjs.org/chartjs-plugin-annotation/latest/samples/charts/line.html)
 		- [Area Chart | Chart.js](https://www.chartjs.org/docs/latest/charts/area.html)
-	- 2024-12-11 添加测试数据的添加页面
+	- 2024-12-11 添加测试数据的添加页面 🆗
 
 
 
