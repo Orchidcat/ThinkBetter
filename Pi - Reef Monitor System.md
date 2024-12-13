@@ -24,7 +24,7 @@ MVP（最小可行产品）是什么？
 		- [Area Chart | Chart.js](https://www.chartjs.org/docs/latest/charts/area.html)
 	- 2024-12-11 添加测试数据的添加页面 🆗
 	- 2024-12-12 对添加界面增加信息显示（未添加修改以及删除选项）
-
+- 鱼类识别，自动拍照
 
 
 STEP:
