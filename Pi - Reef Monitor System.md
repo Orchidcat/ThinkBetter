@@ -48,25 +48,25 @@ STEP:
 **硬件**
 - [x] Raspberry Pi 选型（[[rpi zero 2w]])，采购 ✅ 2024-11-29  ￥170.75
 - [x] 硬件配件（杜邦线，OK线，面包板等） ✅ 2024-11-29    ￥16.7
-- [ ] 传感器采购
-	- [ ] 温度计（测试用）
+- [x] 传感器采购 ✅ 2024-12-16
+	- [x] 温度计（测试用） ✅ 2024-12-16
 - [ ] 被谈及的硬件
 	- [ ] PCA9685
 	- [ ] [MCP3008](https://gpiozero.readthedocs.io/en/latest/api_spi.html#gpiozero.MCP3008)
 	- [ ] 继电器
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
-- [ ] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h
+- [x] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h ✅ 2024-12-16
 - [ ] `raspinfo`  一句话获取os信息
 
 **软件**  [[代码实现]]
-- [ ] [[RPI OS]]下载 （bullseye版本选择）
-- [ ] sqlitef
+- [x] [[RPI OS]]下载 （bullseye版本选择） ✅ 2024-12-16
+- [x] sqlitef ✅ 2024-12-16
 - [ ] Node-red
-- [ ] [[Flask]] 🛫 2024-11-28 
+- [x] [[Flask]] 🛫 2024-11-28 ✅ 2024-12-16
 - [ ] Micropython
-- [ ] Thonny
-- [ ] pycharm
+- [x] Thonny ✅ 2024-12-16
+- [x] pycharm ✅ 2024-12-16
 - [ ] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html)
 - [ ] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 - [ ] 提速工具turbolinks[GitHub - turbolinks/turbolinks: Turbolinks makes navigating your web application faster](https://github.com/turbolinks/turbolinks)
