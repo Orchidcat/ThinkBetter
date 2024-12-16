@@ -27,7 +27,7 @@ MVP（最小可行产品）是什么？
 - 鱼类识别，自动拍照
 - 开机自启动程序 [树莓派用服务方式设置开机启动 | 树莓派实验室](https://shumeipai.nxez.com/2017/05/17/raspberry-pi-service-python-script-start-on-boot.html)
 
-- [  ] 测试flask ，在本地作为服务器，ipad进行网址访问
+- [  ] 测试flask ，在本地作为服务器，ipad进行网址访问  `http://raspberri ip地址:5000/` 
 
 
 STEP:
