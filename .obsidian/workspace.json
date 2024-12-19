@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "很棒的DIY系统01.md",
+                "file": "ThinkBetter/六气.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "很棒的DIY系统01"
+              "title": "六气"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "眼",
+                "query": "冬至",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,12 +180,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c1cde048b2459131",
   "lastOpenFiles": [
+    "二十四节气.md",
+    "很棒的DIY系统01.md",
     "很棒的DIY系统02.md",
     "Pi - Reef Monitor System.md",
     "ThinkBetter/人纪/+Home.md",
-    "很棒的DIY系统01.md",
     "很棒的DIY系统03.md",
     "很棒的DIY系统04.md",
     "有趣的DIY设计.md",
@@ -217,7 +218,6 @@
     "Pasted image 20241202145244.png",
     "PH传感器使用相关.md",
     "RPI OS.md",
-    "Economics and Art.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
