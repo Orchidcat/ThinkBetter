@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "冬至",
+                "query": "肺藏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2355337e62f10de7",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/温病本气篇.md",
