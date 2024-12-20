@@ -37,8 +37,7 @@
               "title": "089 人纪 - 神农本草经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +164,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2355337e62f10de7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "很棒的DIY系统02.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/温病本气篇.md",
@@ -196,7 +196,6 @@
     "代码实现.md",
     "SQLAlchemy.md",
     "Pasted image 20241202140916.png",
-    "ThinkBetter/事件timing.md",
     "Pasted image 20241202155232.png",
     "Pasted image 20241202145559.png",
     "Pasted image 20241202145548.png",
