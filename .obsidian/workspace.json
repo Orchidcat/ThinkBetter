@@ -31,7 +31,7 @@
                 "file": "如何训练模型的整体步骤.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "如何训练模型的整体步骤"
