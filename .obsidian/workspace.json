@@ -31,7 +31,7 @@
                 "file": "视觉识别.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "视觉识别"
