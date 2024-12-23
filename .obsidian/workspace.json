@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "枸杞",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -119,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems and Mathematics.md"
+                "file": "如何训练模型的整体步骤.md"
               },
               "icon": "lucide-list",
-              "title": "Systems and Mathematics 的大纲"
+              "title": "如何训练模型的整体步骤 的大纲"
             }
           }
         ],
@@ -130,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
