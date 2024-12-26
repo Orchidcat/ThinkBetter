@@ -26,7 +26,9 @@ from nltk.tokenize import word_tokenize
 
 
 可以自己创建更多的停用词 
-
+```python
+stop_words = set(stopwords.words("english"))
+```
 
 
 
