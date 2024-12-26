@@ -51,6 +51,8 @@ from nltk.tokenize import word_tokenize
 
 ### 标记词性
 
+`pos_tag()`可以提供单词的词性。
+
 
 
 
