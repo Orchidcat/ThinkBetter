@@ -71,7 +71,11 @@ nltk.help.upenn_tagset()
 ### 分块
 用来识别短语
 
-
+需要创建一个块解析器：
+```
+chunk_parser = nltk.RegexpParser()
+tree = chunk_parser.parser()
+```
 
 
 
