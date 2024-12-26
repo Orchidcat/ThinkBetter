@@ -104,7 +104,19 @@ tree = nltk.ne_chunk(lotr_pos_tags)
 
 
 - 直接从文本中提取命名实体
-``
+```python
+def extract_ne(quote):
+    words = word_tokenize(quote, language=language)
+    tags = nltk.pos_tag(words)
+    tree = nltk.ne_chunk(tags, binary=True)
+    return set(
+        " ".join(i[0] for i in t)
+        for t in tree
+        if hasattr(t, "label") and t.label() == "NE"
+    )
+
+extract_ne(quote)
+```
 
 
 
