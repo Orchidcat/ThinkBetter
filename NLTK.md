@@ -68,6 +68,10 @@ nltk.help.upenn_tagset()
 
 
 
+### 分块
+用来识别短语
+
+
 
 
 
