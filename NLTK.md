@@ -73,8 +73,9 @@ nltk.help.upenn_tagset()
 
 需要创建一个块解析器：
 ```
-chunk_parser = nltk.RegexpParser()
-tree = chunk_parser.parser()
+chunk_parser = nltk.RegexpParser(grammar)
+tree = chunk_parser.parser(原文)
+tree.draw() 视觉表现出
 ```
 
 
