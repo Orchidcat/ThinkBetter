@@ -139,6 +139,15 @@ text8.dispersion_plot(
 from nltk import FreqDist
 frequency_distribution = FreqDist(text8)
 print(frequency_distribution)
+
+frequency_distribution.most_common(20) 显示前20
+
+meaningful_words = [
+    word for word in text8 if word.casefold() not in stop_words
+]   //去除停用词
+
+
+
 ```
 
 
