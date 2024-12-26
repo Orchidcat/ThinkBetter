@@ -18,8 +18,14 @@ NLTK 需要预处理。
 
 过滤停用词(in ，is 等)
 
+```python
+nltk.download("stopwords")
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+```
 
 
+可以自己创建更多的停用词 
 
 
 
