@@ -53,7 +53,11 @@ from nltk.tokenize import word_tokenize
 
 `pos_tag()`可以提供单词的词性。
 
-
+用来查看词性列表
+```python
+nltk.download('tagsets_json')  
+nltk.help.upenn_tagset()
+```
 
 
 
