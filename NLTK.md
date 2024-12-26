@@ -136,6 +136,25 @@ text8.dispersion_plot(
 检查哪些单词在文本中出现频率最高
 
 ```python
+from nltk import FreqDist
 frequency_distribution = FreqDist(text8)
 print(frequency_distribution)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
