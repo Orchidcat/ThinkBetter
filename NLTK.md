@@ -13,6 +13,8 @@ NLTK 需要预处理。
 - 按照句子标记（可以分析单词之间的关系并了解更多上下文）
 
 
+`sent_tokenize()` 将文本拆分为句子。
+`word_tokenize()` jia
 
 
 
