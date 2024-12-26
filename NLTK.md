@@ -32,9 +32,9 @@ stop_words = set(stopwords.words("english"))
 
 
 ### 词干提取
+可将单词简化为词根，即单词的核心部分。例如，“helping”和“helper”这两个词共用一个词根“help”。
 
-
-
+NLTK有多个词干提取器
 
 
 
