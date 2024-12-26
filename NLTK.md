@@ -95,7 +95,7 @@ Chunk: {<.*>+}
 
 
 ### 使用命名实体识别 (NER)
-
+**命名实体**是指代特定地点、人物、组织等的名词短语。借助**命名实体识别**，您可以在文本中找到命名实体，还可以确定它们属于哪种命名实体。
 ```python
 nltk.download("maxent_ne_chunker")
 nltk.download("words")
@@ -103,8 +103,8 @@ tree = nltk.ne_chunk(lotr_pos_tags)
 ```
 
 
-
-
+- 直接从文本中提取命名实体
+``
 
 
 
