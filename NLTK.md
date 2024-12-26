@@ -126,5 +126,9 @@ nltk.download("book")
 
 ### 色散图
 使用**散度图**来查看特定单词出现的次数和出现的位置
-
+```python
+text8.dispersion_plot(
+    ["woman", "lady", "girl", "gal", "man", "gentleman", "boy", "guy"]
+)
+```
 
