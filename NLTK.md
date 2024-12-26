@@ -132,3 +132,10 @@ text8.dispersion_plot(
 )
 ```
 
+### 频率分布
+检查哪些单词在文本中出现频率最高
+
+```python
+frequency_distribution = FreqDist(text8)
+print(frequency_distribution)
+```
