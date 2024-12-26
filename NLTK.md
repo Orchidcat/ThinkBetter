@@ -146,7 +146,9 @@ meaningful_words = [
     word for word in text8 if word.casefold() not in stop_words
 ]   //去除停用词
 
+frequency_distribution = FreqDist(meaningful_words) //获取更有意义的词频
 
+frequency_distribution.plot(20, cumulative=True)  //可以转为图表
 
 ```
 
