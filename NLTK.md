@@ -45,5 +45,32 @@ from nltk.tokenize import word_tokenize
 1. 当两个相关单词应该被简化为同一个词干但实际上却没有时，就会发生词干不足的情况。这是一种[假阴性](https://en.wikipedia.org/wiki/False_positives_and_false_negatives#False_negative_error)
 2. 过度词干化**是指两个不相关的单词被简化为同一个词干，尽管它们不应该如此。这是一种[误报](https://en.wikipedia.org/wiki/False_positives_and_false_negatives#False_negative_error)。
 
-**Snowball**是最新的**词干提取器
+**Snowball**是最新的词干提取器
+
+
+
+### 标记词性
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
