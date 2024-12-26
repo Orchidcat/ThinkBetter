@@ -94,6 +94,14 @@ Chunk: {<.*>+}
 语法的第二条规则是`}<JJ>{`。此规则的花括号朝外 ( `}{`)，因为它用于确定要从块中排除哪些模式。在本例中，您要排除形容词：`<JJ>`。
 
 
+### 使用命名实体识别 (NER)
+
+```python
+nltk.download("maxent_ne_chunker")
+nltk.download("words")
+tree = nltk.ne_chunk(lotr_pos_tags)
+```
+
 
 
 
