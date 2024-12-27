@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1d8ad9269458baf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "1d8ad9269458baf5",
+            "id": "9f5a17e04e73a297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLTK.md",
+                "file": "工具箱🧰.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLTK"
+              "title": "工具箱🧰"
             }
           }
         ],
@@ -166,10 +166,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1d8ad9269458baf5",
+  "active": "9f5a17e04e73a297",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
+    "工具箱🧰.md",
     "NLTK.md",
+    "+HomeMOC.md",
     "摄像头添加.md",
     "很棒的DIY系统01.md",
     "Pi - Reef Monitor System.md",
@@ -202,8 +204,6 @@
     "Pasted image 20241206102637.png",
     "Pasted image 20241206095603.png",
     "ThinkBetter/如何阅读.md",
-    "ThinkBetter/学习方法.md",
-    "ThinkBetter/人纪/097 三问头身.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
