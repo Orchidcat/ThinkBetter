@@ -26,9 +26,22 @@
 - **set** 是**没有重复条目**的列表
 - 在 Python 中，对象数据结构由相互嵌套的列表和字典组成。
 - 可以自查代码的函数 
-- ```
+```python
+help()
+dir() 
+hasattr() 
+id() 
+type() 
+repr() 
+callable() 
+issubclass() 
+isinstance() 
+__doc__ 
+__name__
 ```
   
+  
+
   
   
 
