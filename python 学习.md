@@ -6,7 +6,8 @@
 
 
 
-python 只有两种类型的数字，integer，float
+- python 只有两种类型的数字，integer，float
+
 
 
 
