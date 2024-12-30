@@ -39,7 +39,7 @@ isinstance()
 __doc__ 
 __name__
 ```
-  
+  - map,filter,reduce 
   
 
   
