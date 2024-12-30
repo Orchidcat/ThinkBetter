@@ -17,7 +17,7 @@
 
 
 
-
+- Python 中有两种循环类型：for 和 while。
 
 
 
