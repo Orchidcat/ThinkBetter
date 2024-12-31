@@ -7,8 +7,9 @@
 
 
 ```dataview
-list file.name 
-f
+list 
+from #book
+sort file.ctime desc
 ```
 
 
