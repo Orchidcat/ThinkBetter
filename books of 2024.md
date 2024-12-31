@@ -4,8 +4,8 @@
 
 ```dataview
 table file.cday
-from 
-where file.ctime > date("2024-01-01") and #Book and #Book/finish 
+from #Book
+where file.ctime > date("2024-01-01")
 sort file.ctime desc
 ```
 
