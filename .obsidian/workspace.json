@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "books of 2024"
             }
+          },
+          {
+            "id": "49585fb2514a92d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pi - Reef Monitor System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pi - Reef Monitor System"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何训练模型的整体步骤.md"
+                "file": "Pi - Reef Monitor System.md"
               },
               "icon": "lucide-list",
-              "title": "如何训练模型的整体步骤 的大纲"
+              "title": "Pi - Reef Monitor System 的大纲"
             }
           }
         ],
@@ -146,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +180,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5ea21879afdfce53",
+  "active": "49585fb2514a92d2",
   "lastOpenFiles": [
-    "Charts & Diagrams - Bulk Reef Supply.md",
-    "books of 2024.md",
     "ThinkBetter/Books.md",
+    "books of 2024.md",
+    "Charts & Diagrams - Bulk Reef Supply.md",
     "ThinkBetter/人纪/+Home.md",
     "Pi - Reef Monitor System.md",
     "python 学习.md",
