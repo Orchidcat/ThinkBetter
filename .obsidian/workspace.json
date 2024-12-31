@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Book/Clear Thinking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Clear Thinking"
             }
           },
           {
@@ -134,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md"
+                "file": "ThinkBetter/Book/Clear Thinking.md"
               },
               "icon": "lucide-list",
-              "title": "Books 的大纲"
+              "title": "Clear Thinking 的大纲"
             }
           }
         ],
@@ -166,10 +166,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "books of 2024.md",
     "Pi - Reef Monitor System.md",
     "python 学习.md",
-    "ThinkBetter/Books.md",
     "Charts & Diagrams - Bulk Reef Supply.md",
     "ThinkBetter/人纪/+Home.md",
     "Pasted image 20241230092506.png",
