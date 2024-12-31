@@ -8,7 +8,8 @@
 
 ```dataview
 table file.ctime
-where date > date("2024-01-01")
+where file.ctime > date("2024-01-01")
+sort file.ctime desc
 ```
 
 
