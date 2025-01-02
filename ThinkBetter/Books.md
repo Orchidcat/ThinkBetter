@@ -34,11 +34,10 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 
 ```dataview
-list  L + "**" +length(rows)+"**本书" from #Book or #reading 
+list  "**" +length(rows)+"**本书" from #Book or #reading 
 where file.cday.year < date(today).year
 group by file.cday.year
 sort file.cday.year desc
-FLATTEN file.cday.year AS L
 ```
 
 
