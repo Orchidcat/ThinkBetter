@@ -46,18 +46,7 @@ sort yy desc
 ```
 
 
-```dataview
-table type as "描述" ,file.cday.month as "月" from #Book 
-where file.cday.year=2024
-sort file.cday.year desc,file.cday.month desc,file.cday.day desc
-```
 
-
-```dataview
-table desc as "描述", file.cday.year as "年",file.cday.month as "月" from #articles 
-where file.cday.year=2023
-sort file.cday.year desc,file.cday.month desc
-```
 
 
 ```dataview
