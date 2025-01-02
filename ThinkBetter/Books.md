@@ -18,7 +18,7 @@
 
 书荒的列表：[Site Unreachable](https://sive.rs/book)
 
-正在阅读
+
 
 
 **想要阅读的list**
@@ -26,11 +26,8 @@
 list startDate+author + rating  from #UnReadBook 
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
-```dataview
-table type as "描述" ,file.cday.month as "月" from #Book 
-where file.cday.year=2025
-sort file.cday.year desc,file.cday.month desc,file.cday.day desc
-```
+
+2025
 
 
 ```dataview
