@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 266.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -194,8 +195,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "e405dc7aff0835c2",
   "lastOpenFiles": [
+    "ThinkBetter/The inner game of tennis.md",
     "The Anxious Generation.md",
     "ThinkBetter/Books.md",
     "how to know a person.md",
@@ -231,7 +233,6 @@
     "ThinkBetter/温病本气篇.md",
     "ThinkBetter/时病本气篇.md",
     "ThinkBetter/生命宇宙篇.md",
-    "ThinkBetter/六气.md",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
