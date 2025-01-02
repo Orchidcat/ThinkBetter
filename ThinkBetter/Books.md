@@ -35,7 +35,7 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 ```dataview
 list  "共阅读**" +length(rows)+"**本书" from #Book or #reading 
-where file.cday.year < year(today)
+where file.cday.year < today
 group by file.cday.year
 sort file.cday.year desc
 ```
