@@ -37,7 +37,8 @@
               "title": "系统思考"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +166,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e405dc7aff0835c2",
   "lastOpenFiles": [
-    "系统思考.md",
     "ThinkBetter/Books.md",
+    "系统思考.md",
     "被讨厌的勇气.md",
     "ThinkBetter/钢铁是怎样练成的.md",
     "ThinkBetter/人纪/+Home.md",
