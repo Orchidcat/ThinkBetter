@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "from",
+                "query": "tenn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2d34db217142d5d8",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
     "The Anxious Generation.md",
