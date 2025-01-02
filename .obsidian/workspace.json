@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Anxious Generation.md",
+                "file": "ThinkBetter/The inner game of tennis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Anxious Generation"
+              "title": "The inner game of tennis"
             }
           },
           {
@@ -120,8 +120,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "ThinkBetter/Books.md",
     "The Anxious Generation.md",
+    "ThinkBetter/Books.md",
     "how to know a person.md",
     "系统思考.md",
     "Pasted image 20250102104209.png",
