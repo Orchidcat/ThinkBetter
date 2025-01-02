@@ -34,8 +34,9 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 
 ```dataview
-list type as "描述" ,file.cday.month as "月" from #Book 
+table file.cday.year as "年" ,count(1) from #Book 
 where file.cday.year=2024
+group by file.cday.year
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
