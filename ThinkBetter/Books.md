@@ -34,10 +34,10 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 
 ```dataview
-list  "2024年,共阅读" ,count(1) from #Book 
+list  "共阅读" +length(rows)+"本书" from #Book 
 where file.cday.year=2024
 group by file.cday.year
-sort file.cday.year desc,file.cday.month desc,file.cday.day desc
+sort 
 ```
 
 
