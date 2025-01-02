@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to know a person.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to know a person"
+              "title": "Books"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "from",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,8 +181,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/Books.md",
     "how to know a person.md",
+    "ThinkBetter/Books.md",
     "系统思考.md",
     "Pasted image 20250102104209.png",
     "被讨厌的勇气.md",
