@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "工具箱🧰",
+      "path": "工具箱🧰.md"
+    },
+    {
       "basename": "Pi - Reef Monitor System",
       "path": "Pi - Reef Monitor System.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "基本Q",
       "path": "ThinkBetter/基本Q.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
     }
   ],
   "omittedPaths": [],
