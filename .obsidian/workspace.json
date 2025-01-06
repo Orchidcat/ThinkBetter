@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/温病本气篇.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "温病本气篇"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "搜索",
+                "query": "葡萄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -151,6 +151,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "ThinkBetter/人纪/+Home.md",
     "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books.md",
@@ -158,7 +160,6 @@
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/人纪/+Home.md",
     "工具箱🧰.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "NumPy.md",
@@ -179,7 +180,6 @@
     "Charts & Diagrams - Bulk Reef Supply.md",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
-    "NLTK.md",
     "Pasted image 20241224093957.png",
     "Pasted image 20241220141330.png",
     "Pasted image 20241220133446.png",
