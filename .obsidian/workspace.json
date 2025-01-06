@@ -26,10 +26,15 @@
             "id": "760456f3cac6b2fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "苏格拉底的申辩.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "苏格拉底的申辩"
             }
           }
         ],
@@ -89,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 266.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -161,6 +167,7 @@
   },
   "active": "760456f3cac6b2fb",
   "lastOpenFiles": [
+    "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/人纪/脾胃论.md",
@@ -189,7 +196,6 @@
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
     "NLTK.md",
-    "+HomeMOC.md",
     "Pasted image 20241224093957.png",
     "Pasted image 20241220141330.png",
     "Pasted image 20241220133446.png",
