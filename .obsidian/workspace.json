@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "Books"
             }
+          },
+          {
+            "id": "ff91433de2112d95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,11 +175,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "760456f3cac6b2fb",
+  "active": "ff91433de2112d95",
   "lastOpenFiles": [
+    "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books.md",
-    "苏格拉底的申辩.md",
     "系统思考.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/人纪/脾胃论.md",
