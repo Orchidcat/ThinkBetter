@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +180,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ee3989b2a65ecff3",
+  "active": "760456f3cac6b2fb",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
+    "系统思考.md",
     "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Templates/Template - 文章.md",
@@ -190,9 +192,7 @@
     "ThinkBetter/人纪/+Home.md",
     "工具箱🧰.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "ThinkBetter/Books.md",
     "NumPy.md",
-    "系统思考.md",
     "HELL YEAH OR No - what's worth doing.md",
     "ThinkBetter/The inner game of tennis.md",
     "how to know a person.md",
