@@ -1,6 +1,7 @@
 ---
 author: 
-tags: #Book 
+tags: 
+   - Book 
 type:
 startDate: 
 endDate:
