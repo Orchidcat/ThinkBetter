@@ -1,4 +1,4 @@
-he[[+HomeMOC]]
+[[+HomeMOC]]
 
 [Time is personal. Your year changes when your life changes. | Derek Sivers](https://sive.rs/mny)
 
