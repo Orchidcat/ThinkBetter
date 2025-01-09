@@ -42,7 +42,12 @@ pd.merge(df1, df2,left_on="fruitsname" ,right_on="fruittype" how='left', on='Fru
 //how :left right inner outer
 ## Concatenation
 `concat_df = pd.concat([df, df1], axis=0, ignore_index=True)`
-axis = 0：表示数据框 df 和 df1 将垂直连接 Ignore_index = True：确保生成的 DataFrame 具有新索引，从零开始并按顺序递增 concat_df 具有 df 的行，后跟 df1
+axis = 0：表示数据框 df 和 df1 将垂直连接
+Ignore_index = True：确保生成的 DataFrame 具有新索引，从零开始并按顺序递增 concat_df 具有 df 的行，后跟 df1
+
+
+`concat_df = pd.concat([df, df2], axis=1)`
+axis = 1 ：表示数据框 df 和 df1 将水平连接 concat_df 具有 df 列，后跟 df2， 如果 DataFrames 的长度不匹配，则将 NaN 值分配给缺失的元素。
 ## data manipulation
 
 
