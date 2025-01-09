@@ -12,7 +12,8 @@
 ### reshaping
 #### melt/pivot
 
-
+### select
+#### `df[['FRUITS', 'PRICE']]`
 ## read/write data
 ### read_csv/excel/json/sql/html
 ## join data 
