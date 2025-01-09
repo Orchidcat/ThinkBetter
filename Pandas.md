@@ -13,7 +13,13 @@
 #### melt/pivot
 
 ### select
-#### `df[['FRUITS', 'PRICE']]`
+
+`df['FRUITS']`
+`df[['FRUITS', 'PRICE']]`
+`df.filter(regex='F|Q')`
+
+
+
 ## read/write data
 ### read_csv/excel/json/sql/html
 ## join data 
