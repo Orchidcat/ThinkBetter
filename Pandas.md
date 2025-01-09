@@ -18,14 +18,15 @@
 `df[['FRUITS', 'PRICE']]`
 `df.filter(regex='F|Q')`
 
-
+### Getting Subsets
+·
 
 ## read/write data
 ### read_csv/excel/json/sql/html
 ## join data 
 
 ### merge
-## reshaping data 
+
 ## data manipulation
 
 

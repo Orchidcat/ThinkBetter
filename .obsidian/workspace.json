@@ -4,41 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
+        "id": "29612a8f047d5c96",
+        "type": "split",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/如何停止在不重要的细节上浪费时间.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ThinkBetter/如何停止在不重要的细节上浪费时间.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "如何停止在不重要的细节上浪费时间"
+                }
               },
-              "icon": "lucide-file",
-              "title": "如何停止在不重要的细节上浪费时间"
-            }
+              {
+                "id": "9a712d00b3886b6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pandas.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pandas"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "9a712d00b3886b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pandas"
-            }
+            "id": "398ae370e4c724e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a63635b5ff671125",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of Pandas"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
