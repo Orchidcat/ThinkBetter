@@ -1,7 +1,7 @@
 
 
 
-# pandas 
+# DataFrame 
 
 ## base info
 
@@ -17,4 +17,7 @@
 ## reshaping data 
 ## data manipulation
 
+
+
+# Series
 
