@@ -1,4 +1,8 @@
-#python 
 
 
+
+# pandas 
+## join data 
+## reshaping data 
+## 
 
