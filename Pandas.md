@@ -55,7 +55,7 @@ axis = 1 ：表示数据框 df 和 df1 将水平连接 concat_df 具有 df 列�
 
 ## group by
 `grouped = df.groupby(by='COL_NAME')`
-
+`grouped.agg(['count','sum', 'mean'])` 计算平均值
 
 
 
