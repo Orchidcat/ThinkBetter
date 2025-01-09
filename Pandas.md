@@ -48,7 +48,11 @@ Ignore_index = True：确保生成的 DataFrame 具有新索引，从零开始�
 
 `concat_df = pd.concat([df, df2], axis=1)`
 axis = 1 ：表示数据框 df 和 df1 将水平连接 concat_df 具有 df 列，后跟 df2， 如果 DataFrames 的长度不匹配，则将 NaN 值分配给缺失的元素。
-## data manipulation
+## add new column
+
+### assign
+
+## group by
 
 
 ## Data Analysis
