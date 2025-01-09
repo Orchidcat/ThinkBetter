@@ -19,8 +19,8 @@
 `df.filter(regex='F|Q')`
 
 ### Getting Subsets
-·
-
+`df.loc[:, 'FRUITS':'PRICE']` : Select all the columns between Fruits and Price
+`df.loc[df['PRICE'] < 70, ['FRUITS', 'PRICE']]` : Select FRUITS name having PRICE <70
 ## read/write data
 ### read_csv/excel/json/sql/html
 ## join data 
