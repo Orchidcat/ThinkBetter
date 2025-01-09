@@ -12,17 +12,19 @@
 ### reshaping
 #### melt/pivot
 
-### select
+## select
 
 `df['FRUITS']`
 `df[['FRUITS', 'PRICE']]`
 `df.filter(regex='F|Q')`
 
-### Getting Subsets
+## Getting Subsets
 `df.loc[:, 'FRUITS':'PRICE']` : Select all the columns between Fruits and Price
 `df.loc[df['PRICE'] < 70, ['FRUITS', 'PRICE']]` : Select FRUITS name having PRICE <70
 `df.iloc[2:5]` Select 2 to 5 rows
-`df.at[1, 'PRICE']` 
+`df.at[1, 'PRICE']` Select Single PRICE value at 2nd row of the ‘PRICE’ column
+
+## filter
 
 
 
