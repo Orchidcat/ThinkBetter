@@ -5,6 +5,8 @@
 
 ## base info
 
+### head/tail/sample/
+
 ### shape/size/values/dtypes
 ### sort_values/sort_index/reset_index/rename/drop
 ### reshaping
@@ -19,5 +21,4 @@
 
 
 
-# Series
 
