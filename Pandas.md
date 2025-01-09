@@ -21,6 +21,11 @@
 ### Getting Subsets
 `df.loc[:, 'FRUITS':'PRICE']` : Select all the columns between Fruits and Price
 `df.loc[df['PRICE'] < 70, ['FRUITS', 'PRICE']]` : Select FRUITS name having PRICE <70
+`df.iloc[2:5]` Select 2 to 5 rows
+`df.at[1, 'PRICE']` 
+
+
+
 ## read/write data
 ### read_csv/excel/json/sql/html
 ## join data 
