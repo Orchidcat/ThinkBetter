@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas",
+      "path": "Pandas.md"
+    },
+    {
       "basename": "如何停止在不重要的细节上浪费时间",
       "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "目标 MOC",
       "path": "ThinkBetter/目标 MOC.md"
-    },
-    {
-      "basename": "基本Q",
-      "path": "ThinkBetter/基本Q.md"
     }
   ],
   "omittedPaths": [],
