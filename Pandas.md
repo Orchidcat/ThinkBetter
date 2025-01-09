@@ -25,6 +25,10 @@
 `df.at[1, 'PRICE']` Select Single PRICE value at 2nd row of the ‘PRICE’ column
 
 ## filter
+`df.filter(items=['FRUITS', 'PRICE'])` 
+`df.filter(items=[3], axis=0)`
+`df['PRICE'].where(df['PRICE'] > 50)`
+`df.query('PRICE>70')`
 
 
 
