@@ -37,6 +37,8 @@
 ## join data 
 
 ### merge
+`pd.merge(df1, df2,left_on="fruitsname" right_on="fruittype" how='left', on='Fruits')`
+
 
 ## data manipulation
 
