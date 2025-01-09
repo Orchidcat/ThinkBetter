@@ -40,9 +40,9 @@
 `
 pd.merge(df1, df2,left_on="fruitsname" ,right_on="fruittype" how='left', on='Fruits') 
 //how :left right inner outer
-
-
 ## Concatenation
+`concat_df = pd.concat([df, df1], axis=0, ignore_index=True)`
+axis = 0：表示数据框 df 和 df1 将垂直连接 Ignore_index = True：确保生成的 DataFrame 具有新索引，从零开始并按顺序递增 concat_df 具有 df 的行，后跟 df1
 ## data manipulation
 
 
