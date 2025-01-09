@@ -37,12 +37,12 @@
 ## join data 
 
 ### merge
-```python
+`
 pd.merge(df1, df2,left_on="fruitsname" ,right_on="fruittype" how='left', on='Fruits') 
-# how :left right inner outer
-```
+//how :left right inner outer
 
 
+## Concatenation
 ## data manipulation
 
 
