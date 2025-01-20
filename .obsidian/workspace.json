@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大寒",
+                "query": "心火",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -189,11 +188,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/脾胃论.md",
     "复习笔记.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/六气.md",
     "二十四节气.md",
     "ThinkBetter/人纪/191 中药.md",
