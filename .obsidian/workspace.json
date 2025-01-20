@@ -23,6 +23,43 @@
             }
           }
         ]
+      },
+      {
+        "id": "519d04d3bbcdb932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2967865a4ec190bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "+Home"
+            }
+          },
+          {
+            "id": "1cf7f3279de80da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复习笔记.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "复习笔记"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,14 +187,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1cf7f3279de80da6",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "复习笔记.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/六气.md",
     "二十四节气.md",
     "ThinkBetter/人纪/191 中药.md",
     "ThinkBetter/人纪/026 大小青龙汤.md",
     "ThinkBetter/人纪/004 金匮要略.md",
-    "ThinkBetter/人纪/+Home.md",
     "Pandas.md",
     "ThinkBetter/如何停止在不重要的细节上浪费时间.md",
     "ThinkBetter/DailyNotes/2022-06-01.md",
@@ -168,7 +207,6 @@
     "ThinkBetter/Books.md",
     "系统思考.md",
     "ThinkBetter/Templates/Template - 文章.md",
-    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "工具箱🧰.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
@@ -178,7 +216,6 @@
     "how to know a person.md",
     "The Anxious Generation.md",
     "Pasted image 20250102104209.png",
-    "被讨厌的勇气.md",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
     "Pasted image 20241224093957.png",
