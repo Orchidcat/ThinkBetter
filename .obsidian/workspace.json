@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/人纪/191 中药.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "191 中药"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Series",
+                "query": "大寒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -152,12 +151,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/026 大小青龙汤.md",
+    "ThinkBetter/人纪/004 金匮要略.md",
+    "ThinkBetter/人纪/+Home.md",
     "Pandas.md",
     "ThinkBetter/如何停止在不重要的细节上浪费时间.md",
     "ThinkBetter/DailyNotes/2022-06-01.md",
     "ThinkBetter/温病本气篇.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/人纪/+Home.md",
     "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books.md",
@@ -177,8 +178,6 @@
     "ThinkBetter/钢铁是怎样练成的.md",
     "很棒的DIY系统02.md",
     "apex fusion的显示.md",
-    "Pi - Reef Monitor System.md",
-    "ThinkBetter/Book/Clear Thinking.md",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
     "Pasted image 20241224093957.png",
