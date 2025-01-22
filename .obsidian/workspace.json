@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五十",
+                "query": " 补中益气",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -204,7 +203,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1cf7f3279de80da6",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/脉诊学习.md",
