@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "伤寒贯珠集.md",
+                "file": "ThinkBetter/人纪/伤寒贯珠集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "手背",
+                "query": "tag:#伤寒论",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,10 +165,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "efb313eb54fd1301",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "中医入门.md",
-    "伤寒贯珠集.md",
+    "ThinkBetter/人纪/伤寒贯珠集.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
