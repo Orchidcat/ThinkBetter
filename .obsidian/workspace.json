@@ -44,8 +44,19 @@
               "icon": "lucide-file",
               "title": "Books"
             }
+          },
+          {
+            "id": "8f126fa1636aab77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " 补中益气",
+                "query": "手背",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -173,8 +183,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2967865a4ec190bb",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/166 血证论.md",
@@ -193,7 +204,6 @@
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
-    "ThinkBetter/Books.md",
     "系统思考.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
