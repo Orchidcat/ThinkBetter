@@ -52,8 +52,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 266.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -180,12 +180,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b795f8f98523e4be",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
     "中医入门.md",
     "ThinkBetter/人纪/脾胃论.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/166 血证论.md",
