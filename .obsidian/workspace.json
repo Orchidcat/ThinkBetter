@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医入门.md",
+                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中医入门"
+              "title": "089 人纪 - 神农本草经"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#伤寒论",
+                "query": "葡萄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,8 +151,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/脉诊学习.md",
     "中医入门.md",
+    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
     "ThinkBetter/人纪/脾胃论.md",
