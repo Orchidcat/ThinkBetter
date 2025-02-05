@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-05.md",
+                "file": "ThinkBetter/人纪/166 血证论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-05"
+              "title": "166 血证论"
             }
           },
           {
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "李玟",
+                "query": "6寸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945,
-    "collapsed": true
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -134,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-02-05.md"
+                "file": "ThinkBetter/人纪/166 血证论.md"
               },
               "icon": "lucide-list",
-              "title": "2025-02-05 的大纲"
+              "title": "166 血证论 的大纲"
             }
           }
         ]
@@ -166,8 +165,8 @@
   },
   "active": "8b6210b37e9db9e7",
   "lastOpenFiles": [
-    "中医入门.md",
     "2025-02-05.md",
+    "中医入门.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
