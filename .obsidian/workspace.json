@@ -26,12 +26,15 @@
             "id": "2ef2f0d4f09a4991",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "ThinkBetter/人纪/004 金匮要略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "004 金匮要略"
             }
           }
         ],
@@ -161,7 +164,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "2ef2f0d4f09a4991",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/166 血证论.md",
