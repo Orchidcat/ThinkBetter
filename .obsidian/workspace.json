@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "2025-02-05"
             }
+          },
+          {
+            "id": "a3bfbfdb0e83b908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医入门.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中医入门"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-02-05.md"
+                "file": "中医入门.md"
               },
               "icon": "lucide-list",
-              "title": "2025-02-05 的大纲"
+              "title": "中医入门 的大纲"
             }
           }
         ]
@@ -149,10 +165,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8b6210b37e9db9e7",
+  "active": "a3bfbfdb0e83b908",
   "lastOpenFiles": [
-    "中医入门.md",
     "2025-02-05.md",
+    "中医入门.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
