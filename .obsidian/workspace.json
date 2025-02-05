@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医入门.md",
+                "file": "2025-02-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中医入门"
+              "title": "2025-02-05"
             }
           }
         ]
@@ -119,14 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "很棒的DIY系统02.md"
+                "file": "2025-02-05.md"
               },
               "icon": "lucide-list",
-              "title": "很棒的DIY系统02 的大纲"
+              "title": "2025-02-05 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,10 +151,11 @@
   },
   "active": "8b6210b37e9db9e7",
   "lastOpenFiles": [
+    "中医入门.md",
+    "2025-02-05.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "中医入门.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
@@ -177,7 +177,6 @@
     "系统思考.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "工具箱🧰.md",
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
