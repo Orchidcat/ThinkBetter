@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/201 足太阴脾经.md",
+                "file": "ThinkBetter/人纪/中医入门.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "201 足太阴脾经"
+              "title": "中医入门"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.50043487548828
+    "width": 203.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -150,6 +151,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
+    "ThinkBetter/人纪/201 足太阴脾经.md",
     "ThinkBetter/人纪/脾胃论.md",
     "复习笔记.md",
     "ThinkBetter/人纪/070 君臣佐使.md",
@@ -157,7 +160,7 @@
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/人纪/166 血证论.md",
     "2025-02-05.md",
-    "中医入门.md",
+    "ThinkBetter/人纪/中医入门.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/脉诊学习.md",
@@ -174,8 +177,6 @@
     "ThinkBetter/温病本气篇.md",
     "苏格拉底的申辩.md",
     "ThinkBetter/Templates/Template - 读书.md",
-    "系统思考.md",
-    "ThinkBetter/Templates/Template - 文章.md",
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
