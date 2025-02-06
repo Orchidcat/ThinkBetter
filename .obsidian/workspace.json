@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "标记",
+                "query": "肝经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +148,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/风格感觉.md",
     "打造第二大脑.md",
