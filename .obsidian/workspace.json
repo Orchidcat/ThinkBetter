@@ -52,7 +52,8 @@
               "title": "杂物的定义"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "子胆",
+                "query": "李玟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,15 +180,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a38df3227949e1dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/针灸大成.md",
     "杂物的定义.md",
+    "ThinkBetter/事件timing.md",
+    "ThinkBetter/脉诊学习.md",
+    "ThinkBetter/人纪/针灸大成.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/脉诊辨别二十八脉.md",
-    "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
