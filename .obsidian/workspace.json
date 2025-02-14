@@ -37,8 +37,7 @@
               "title": "一句话的玩味"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,10 +164,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7695f7d3f400d8c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "how minds change.md",
     "ThinkBetter/一句话的玩味.md",
+    "how minds change.md",
     "ThinkBetter/人纪/+Home.md",
     "系统思考.md",
     "ThinkBetter/Books.md",
