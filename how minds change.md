@@ -111,7 +111,7 @@ The Dress
 
 ### DISEQUILIBRIUM 失调
 
-
+大脑存储信息，实际上实在基础科学上进行的活动。 物理，滑
 
 
 
