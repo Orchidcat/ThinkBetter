@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/050 桂枝汤.md",
+                "file": "how minds change.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "050 桂枝汤"
+              "title": "how minds change"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 463.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -150,6 +151,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/050 桂枝汤.md",
     "how minds change.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/一句话的玩味.md",
@@ -177,7 +179,6 @@
     "ThinkBetter/六气.md",
     "ThinkBetter/胃痛.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/人纪/143 问经带.md",
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
