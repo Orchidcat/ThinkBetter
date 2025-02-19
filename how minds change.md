@@ -187,6 +187,8 @@ The Dress
 有时我们会意识到，拒绝改变比承认自己可能错了更危险。
 
 
+### the truth is tribal
+
 
 
 
