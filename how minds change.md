@@ -190,9 +190,11 @@ The Dress
 ### the truth is tribal
 
 
-group identity
+group identity 群体身份
 
 them 这个词很有力量；我们，重要的是不是them
+
+比起做对的人，人们更看重成为群体中的好成员，以至于只要群体能满足这些需求，我们就会选择犯错，只要这能让我们在同龄人中保持良好的形象。（社会死亡比身体死亡更可怕）
 
 
 
