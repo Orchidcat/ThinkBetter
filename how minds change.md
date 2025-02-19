@@ -191,6 +191,7 @@ The Dress
 
 
 group identity   群体认同
+声誉管理
 
 them 这个词很有力量；我们，重要的是不是them
 
