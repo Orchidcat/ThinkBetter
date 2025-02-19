@@ -192,7 +192,7 @@ The Dress
 
 group identity
 
-them 这个词很有力量
+them 这个词很有力量；我们，重要的是不是them
 
 
 
