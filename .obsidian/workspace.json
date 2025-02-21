@@ -119,18 +119,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/166 血证论.md"
+                "file": "how minds change.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "166 血证论 的大纲"
+              "title": "how minds change 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +152,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "30633cfaad614b9c",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "how minds change.md",
