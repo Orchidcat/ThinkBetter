@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to become straight-A student.md",
+                "file": "ThinkBetter/记笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "How to become straight-A student"
+              "title": "记笔记"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "问号",
+                "query": "笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to become straight-A student.md",
+                "file": "ThinkBetter/记笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "How to become straight-A student 的大纲"
+              "title": "记笔记 的大纲"
             }
           }
         ],
@@ -152,10 +152,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/笔记方法.md",
+    "复习笔记.md",
+    "打造第二大脑.md",
     "How to become straight-A student.md",
+    "ThinkBetter/笔记方法.md",
     "how minds change.md",
     "ThinkBetter/人纪/+Home.md",
     "2025-02-20.md",
@@ -180,8 +182,6 @@
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "抱朴子内篇.md",
-    "ThinkBetter/知己.md",
-    "ThinkBetter/人纪/圆运动的古中医学（续）.md",
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
