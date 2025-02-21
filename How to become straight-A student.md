@@ -8,7 +8,7 @@ tags:
 type: 时间管理至关重要
 startDate: 2024-07-31
 endDate: 
-rating: 
+rating: ⭐⭐
 ---
 
 **时间管理至关重要**；

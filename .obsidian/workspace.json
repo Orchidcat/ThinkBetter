@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how minds change.md",
+                "file": "How to become straight-A student.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how minds change"
+              "title": "How to become straight-A student"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -118,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how minds change.md",
+                "file": "How to become straight-A student.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how minds change 的大纲"
+              "title": "How to become straight-A student 的大纲"
             }
           }
         ],
@@ -152,10 +152,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "how minds change.md",
+    "ThinkBetter/人纪/+Home.md",
     "2025-02-20.md",
     "ThinkBetter/人纪/050 桂枝汤.md",
     "ThinkBetter/一句话的玩味.md",
