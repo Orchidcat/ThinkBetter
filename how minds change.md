@@ -440,6 +440,7 @@ Cultural change occurs because environments change
 一旦选择不拥有一个大家庭是正常的，选择为爱而结婚是正常的，选择因缺乏爱而离婚是正常的，那么选择不生孩子、不结婚而生孩子，或者只是同居而不结婚的想法也变得正常了，而且比之前为之铺平道路的规范的变化更快。到那时，同性伴侣只要愿意就应该能够结婚的想法显然是正确的，这为围绕同性婚姻的规范、态度和信仰的转变奠定了基础
 
 
+The people who change the world are the people who persist
 
 
 
