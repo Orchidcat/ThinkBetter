@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/make it stick.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "make it stick"
+              "title": "+Home"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -154,6 +155,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/make it stick.md",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "ThinkBetter/笔记方法.md",
     "ThinkBetter/选择好书.md",
@@ -181,7 +183,6 @@
     "ThinkBetter/事件timing.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
-    "ThinkBetter/人纪/195 子午流注.md",
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
