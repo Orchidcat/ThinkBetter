@@ -431,7 +431,9 @@ Cultural change occurs because environments change
 
 影响力的平衡发生了变化。社会传播信息的组合更倾向于同伴而不是父母。人们成为多个部落的成员，随之而来的是改变想法的自由，而无需支付社会成本。
 
-“These norms encourage individuals to believe that it is morally correct to perceive the interests of their family to be identical to, or more important than, their own interests and preferences,” explained Newson.
+这些规范鼓励个人相信，认为家庭的利益与自己的利益和偏好相同或更重要，这在道德上是正确的。
+
+
 
 
 
