@@ -443,7 +443,7 @@ Cultural change occurs because environments change
 The people who change the world are the people who persist
 
 
-
+我们是社会性的灵长类动物，我们以一种有偏见的方式收集信息，目的是在一个汇集的信息环境中，在一个讨论共同行动计划以实现集体目标的群体中，为我们的个人观点争论。我们之所以懒惰，是因为我们希望将认知劳动转移到集体审议过程中，在这个过程中，每个观察森林的手电筒都会为最终的争论增加一些内容，然后根据共同的动机制定共同的决策。
 
 
 
