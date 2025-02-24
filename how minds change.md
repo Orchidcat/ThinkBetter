@@ -417,7 +417,9 @@ ELM和HSM都是建立在前面提到的耶鲁大学法学教授霍华德·拉斯
 
 ### social change
 
+Culture shaped genes, and genes shaped culture. Though these two processes run in parallel, around 1.5 million years ago they clasped hands and have been spinning on the evolutionary dance floor ever since.
 
+Pressured by an unpredictable existence, we adapted to overcome the slowness of genetic evolution at a time when that slowness would have wiped us out. The chaos of the Ice Age led to the adaptation of culture, a tool that freed us from waiting on genetic change to save us when things go sideways, and now when the environment changes quickly, we change quickly.
 
 
 
