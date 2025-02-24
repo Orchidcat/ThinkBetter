@@ -429,9 +429,9 @@ Cultural change occurs because environments change
 
 工业革命后的经济发展颠覆了数百年来稳定的社会结构和制度，西方人从自给自足的家园过渡到工厂工作，人们开始通勤或搬迁到工厂。城市变得越来越大，越来越复杂，人们开始花更多的时间与朋友、同事和同城居民互动，而与亲人相处的时间却越来越少。
 
+影响力的平衡发生了变化。社会传播信息的组合更倾向于同伴而不是父母。人们成为多个部落的成员，随之而来的是改变想法的自由，而无需支付社会成本。
 
-
-
+“These norms encourage individuals to believe that it is morally correct to perceive the interests of their family to be identical to, or more important than, their own interests and preferences,” explained Newson.
 
 
 
