@@ -37,7 +37,8 @@
               "title": "how minds change"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +169,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4235fa304bcfc742",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "how minds change.md",
     "ThinkBetter/make it stick.md",
@@ -185,7 +187,6 @@
     "ThinkBetter/人纪/050 桂枝汤.md",
     "ThinkBetter/一句话的玩味.md",
     "系统思考.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
     "ThinkBetter/GTD.md",
     "ThinkBetter/人纪/养生之道.md",
