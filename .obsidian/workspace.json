@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/钢铁是怎样练成的.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "钢铁是怎样练成的"
             }
           },
           {
@@ -170,8 +170,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "how minds change.md",
     "ThinkBetter/Books.md",
+    "how minds change.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/make it stick.md",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
