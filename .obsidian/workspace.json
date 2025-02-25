@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "Books"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "how minds change"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4235fa304bcfc742",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "how minds change.md",
