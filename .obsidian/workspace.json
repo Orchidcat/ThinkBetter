@@ -122,7 +122,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -134,17 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how minds change.md",
+                "file": "Feel Good Productivity ，How to Do More Of what Matters To You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how minds change 的大纲"
+              "title": "Feel Good Productivity ，How to Do More Of what Matters To You 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
