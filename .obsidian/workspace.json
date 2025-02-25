@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/钢铁是怎样练成的.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "钢铁是怎样练成的"
+              "title": "Books"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "4235fa304bcfc742",
   "lastOpenFiles": [
-    "ThinkBetter/钢铁是怎样练成的.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/钢铁是怎样练成的.md",
     "how minds change.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/make it stick.md",
