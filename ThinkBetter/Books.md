@@ -29,7 +29,7 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ____
 ```dataview
 table without id link(file.link,default(file.aliases[0],file.name)) as "书名",type as "描述" ,file.cday.month as "✨" from #Book 
-where file.cday.year=2024
+where file.cday.year=2025
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/杀死一只知更鸟.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "杀死一只知更鸟"
+              "title": "Books"
             }
           },
           {
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/杀死一只知更鸟.md",
+                "file": "ThinkBetter/Books.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杀死一只知更鸟 的大纲"
+              "title": "Books 的大纲"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/杀死一只知更鸟.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
@@ -195,7 +196,6 @@
     "ThinkBetter/GTD.md",
     "ThinkBetter/人纪/养生之道.md",
     "杂物的定义.md",
-    "ThinkBetter/杀死一只知更鸟.md",
     "ThinkBetter/脉诊学习.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
