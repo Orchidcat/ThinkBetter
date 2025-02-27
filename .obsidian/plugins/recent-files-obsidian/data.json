@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "帝国的终结",
+      "path": "帝国的终结.md"
+    },
+    {
       "basename": "Pandas",
       "path": "Pandas.md"
     },
@@ -195,14 +199,11 @@
     {
       "basename": "健康 MOC",
       "path": "ThinkBetter/健康 MOC.md"
-    },
-    {
-      "basename": "目标 MOC",
-      "path": "ThinkBetter/目标 MOC.md"
     }
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
