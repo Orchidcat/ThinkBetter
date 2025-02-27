@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "帝国的终结.md",
+                "file": "中国历代政治得失.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "帝国的终结"
+              "title": "中国历代政治得失"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "帝国的终结.md",
+                "file": "中国历代政治得失.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "帝国的终结 的大纲"
+              "title": "中国历代政治得失 的大纲"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "f967c8b04bd0a58c",
   "lastOpenFiles": [
-    "ThinkBetter/Book/Clear Thinking.md",
     "帝国的终结.md",
+    "ThinkBetter/Book/Clear Thinking.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
