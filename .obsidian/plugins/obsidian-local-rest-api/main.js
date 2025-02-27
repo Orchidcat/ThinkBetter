@@ -57669,7 +57669,7 @@ var RequestHandler = class {
   }
   vaultGet(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       return this._vaultGet(path2, req, res);
     });
   }
@@ -57696,7 +57696,7 @@ var RequestHandler = class {
   }
   vaultPut(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       return this._vaultPut(path2, req, res);
     });
   }
@@ -57839,7 +57839,7 @@ var RequestHandler = class {
   }
   vaultPatch(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       return this._vaultPatch(path2, req, res);
     });
   }
@@ -57877,7 +57877,7 @@ var RequestHandler = class {
   }
   vaultPost(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       return this._vaultPost(path2, req, res);
     });
   }
@@ -57901,7 +57901,7 @@ var RequestHandler = class {
   }
   vaultDelete(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       return this._vaultDelete(path2, req, res);
     });
   }
@@ -58219,7 +58219,7 @@ var RequestHandler = class {
   }
   openPost(req, res) {
     return __async(this, null, function* () {
-      const path2 = req.path.slice(req.path.indexOf("/", 1) + 1);
+      const path2 = decodeURIComponent(req.path.slice(req.path.indexOf("/", 1) + 1));
       const query = import_query_string.default.parseUrl(req.originalUrl, {
         parseBooleans: true
       }).query;
