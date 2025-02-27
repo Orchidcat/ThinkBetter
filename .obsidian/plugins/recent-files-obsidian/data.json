@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "伤寒贯珠集",
-      "path": "ThinkBetter/人纪/伤寒贯珠集.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Book/Clear Thinking.md"
+      "basename": "折肱漫录",
+      "path": "ThinkBetter/人纪/折肱漫录.md"
     },
     {
       "basename": "how minds change",
       "path": "how minds change.md"
     },
     {
+      "basename": "帝国的终结",
+      "path": "帝国的终结.md"
+    },
+    {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
     },
     {
-      "basename": "帝国的终结",
-      "path": "帝国的终结.md"
+      "basename": "Template - Bike",
+      "path": "ThinkBetter/Templates/Template - Bike.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
+      "basename": "Templates - 论证",
+      "path": "ThinkBetter/Templates/Templates - 论证.md"
+    },
+    {
+      "basename": "伤寒贯珠集",
+      "path": "ThinkBetter/人纪/伤寒贯珠集.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Book/Clear Thinking.md"
     },
     {
       "basename": "Pandas",
@@ -183,22 +199,6 @@
     {
       "basename": "贝索斯传",
       "path": "ThinkBetter/Book/贝索斯传.md"
-    },
-    {
-      "basename": "make it stick",
-      "path": "ThinkBetter/make it stick.md"
-    },
-    {
-      "basename": "how to live",
-      "path": "how to live.md"
-    },
-    {
-      "basename": "一个瑜伽行者的自传",
-      "path": "一个瑜伽行者的自传.md"
-    },
-    {
-      "basename": "final message from Steve jobs",
-      "path": "final message from Steve jobs.md"
     }
   ],
   "omittedPaths": [],
