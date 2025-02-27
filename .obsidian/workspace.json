@@ -87,7 +87,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -120,13 +121,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -200,10 +199,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f967c8b04bd0a58c",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "帝国的终结.md",
     "ThinkBetter/Book/Clear Thinking.md",
+    "中国历代政治得失.md",
+    "帝国的终结.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
@@ -227,7 +227,6 @@
     "ThinkBetter/一句话的玩味.md",
     "系统思考.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
-    "ThinkBetter/GTD.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
     "Pasted image 20250102104209.png",
