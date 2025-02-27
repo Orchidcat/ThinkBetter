@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "中国历代政治得失",
+      "path": "中国历代政治得失.md"
+    },
+    {
       "basename": "帝国的终结",
       "path": "帝国的终结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "ThinkBetter/项目 MOC.md"
-    },
-    {
-      "basename": "健康 MOC",
-      "path": "ThinkBetter/健康 MOC.md"
     }
   ],
   "omittedPaths": [],
