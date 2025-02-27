@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Book/Clear Thinking.md"
+    },
+    {
+      "basename": "how minds change",
+      "path": "how minds change.md"
+    },
+    {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
     },
@@ -161,10 +169,6 @@
       "path": "ThinkBetter/人纪/041 肝阳化风.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Book/Clear Thinking.md"
-    },
-    {
       "basename": "如何学习",
       "path": "ThinkBetter/Book/如何学习.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "愿望清单 MOC",
       "path": "ThinkBetter/愿望清单 MOC.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "ThinkBetter/项目 MOC.md"
     }
   ],
   "omittedPaths": [],

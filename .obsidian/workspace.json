@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/中国历代政治得失.md",
+                "file": "ThinkBetter/Book/Clear Thinking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "中国历代政治得失 的大纲"
+              "title": "Clear Thinking 的大纲"
             }
           }
         ]
@@ -216,11 +216,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c9b5eca72876625d",
+  "active": "b2f7c8c9dd89c7f9",
   "lastOpenFiles": [
-    "帝国的终结.md",
-    "ThinkBetter/Books/中国历代政治得失.md",
+    "how minds change.md",
     "ThinkBetter/Book/Clear Thinking.md",
+    "ThinkBetter/Books/中国历代政治得失.md",
+    "帝国的终结.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/折肱漫录.md",
@@ -228,7 +229,6 @@
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "被讨厌的勇气.md",
-    "how minds change.md",
     "ThinkBetter/钢铁是怎样练成的.md",
     "ThinkBetter/make it stick.md",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
