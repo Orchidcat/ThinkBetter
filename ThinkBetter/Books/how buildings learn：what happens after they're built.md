@@ -28,9 +28,9 @@ star:
 
 How does design honestly honor time?
 
+富裕读者重建室内装修的频率远高于他们建造房屋的频率。
 
-
-
+建筑变化率的主要理论家——实际上是唯一的理论家——是弗兰克·达菲
 
 
 
