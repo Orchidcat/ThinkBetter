@@ -50,5 +50,5 @@ Shell, Services, Scenery, Set
 ![[Pasted image 20250228132502.png]]
 
 
-
+年龄加上适应性是使建筑受到喜爱的原因。建筑向居住者学习，居住者也向建筑学习。
 
