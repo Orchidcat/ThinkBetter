@@ -37,4 +37,3 @@ How does design honestly honor time?
 
 
 
-
