@@ -43,4 +43,4 @@ Shell, Services, Scenery, Set
 - set 指的是住户对家具的移动，通常是几个月或几周。
 
 
-
+**Time is the essence of the real design problem.**
