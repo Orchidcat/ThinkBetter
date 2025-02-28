@@ -44,3 +44,11 @@ Shell, Services, Scenery, Set
 
 
 **Time is the essence of the real design problem.**
+
+
+由于其组成部分的变化速度不同，建筑物总是在撕裂自己。
+![[Pasted image 20250228132502.png]]
+
+
+
+
