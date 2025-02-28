@@ -53,20 +53,18 @@
             }
           },
           {
-            "id": "26a2537e00aff364",
+            "id": "b6d23511d929d7e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "how buildings learn：what happens after they're built"
             }
           }
         ],
@@ -128,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -169,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "how buildings learn：what happens after they're built 的大纲"
             }
           }
         ]
@@ -202,11 +201,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "26a2537e00aff364",
+  "active": "b6d23511d929d7e1",
   "lastOpenFiles": [
-    "未命名.canvas",
     "帝国的终结.md",
+    "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
     "ThinkBetter/Books.md",
+    "未命名.canvas",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/003 伤寒论.md",
