@@ -26,6 +26,7 @@ star:
  **The idea is crystalline, the fact fluid.**
 
 
+How does design honestly honor time?
 
 
 
