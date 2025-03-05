@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/六气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "六气"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "针灸大成",
+                "query": "惊蛰",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -157,12 +156,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
     "Pasted image 20250228132502.png",
     "帝国的终结.md",
     "ThinkBetter/Books.md",
     "未命名.canvas",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/003 伤寒论.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
