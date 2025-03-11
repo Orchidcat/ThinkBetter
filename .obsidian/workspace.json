@@ -41,10 +41,15 @@
             "id": "afaa54054683e49a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "纳瓦尔宝典.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "纳瓦尔宝典"
             }
           }
         ],
@@ -106,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,6 +188,7 @@
   },
   "active": "afaa54054683e49a",
   "lastOpenFiles": [
+    "纳瓦尔宝典.md",
     "抱朴子内篇.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
@@ -209,7 +216,6 @@
     "ThinkBetter/杀死一只知更鸟.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Feel Good Productivity ，How to Do More Of what Matters To You.md",
-    "被讨厌的勇气.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
     "Pasted image 20250102104209.png",
