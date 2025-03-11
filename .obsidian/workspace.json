@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "抱朴子内篇"
             }
+          },
+          {
+            "id": "afaa54054683e49a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,11 +180,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "afaa54054683e49a",
   "lastOpenFiles": [
+    "抱朴子内篇.md",
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "抱朴子内篇.md",
     "ThinkBetter/脉诊学习.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
