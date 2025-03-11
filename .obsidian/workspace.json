@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "羽",
+                "query": "式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,7 +170,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cb39316009d96112",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
