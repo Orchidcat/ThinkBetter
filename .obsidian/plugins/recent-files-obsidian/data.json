@@ -5,6 +5,14 @@
       "path": "纳瓦尔宝典.md"
     },
     {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/一句话的玩味.md"
+    },
+    {
+      "basename": "未命名 2",
+      "path": "未命名 2.md"
+    },
+    {
       "basename": "抱朴子内篇",
       "path": "抱朴子内篇.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "脑髓神经",
       "path": "ThinkBetter/脑髓神经.md"
-    },
-    {
-      "basename": "Deep work",
-      "path": "Deep work.md"
-    },
-    {
-      "basename": "我们现在怎样做父亲",
-      "path": "ThinkBetter/我们现在怎样做父亲.md"
     }
   ],
   "omittedPaths": [],
