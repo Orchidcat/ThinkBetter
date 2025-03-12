@@ -86,10 +86,15 @@
             "id": "7baf81cad35b1c43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Books"
             }
           }
         ],
@@ -228,6 +233,7 @@
   },
   "active": "7baf81cad35b1c43",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "纳瓦尔宝典.md",
     "进化论.md",
     "Pasted image 20250312112804.png",
@@ -238,7 +244,6 @@
     "ThinkBetter/知己.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/脉诊学习.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "二十四节气.md",
     "ThinkBetter/六气.md",

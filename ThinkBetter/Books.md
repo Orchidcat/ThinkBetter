@@ -16,7 +16,9 @@
 [[如何阅读的方法]]
 
 
-书荒的列表：[Site Unreachable](https://sive.rs/book)
+书荒的列表：
+[Site Unreachable](https://sive.rs/book) 
+[Naval's Recommended Reading — Almanack of Naval Ravikant](https://www.navalmanack.com/navals-recommended-reading)
 
 
 **想要阅读的list**
