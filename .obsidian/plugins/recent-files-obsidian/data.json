@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
       "basename": "抱朴子内篇",
       "path": "抱朴子内篇.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Neil Gaiman - Make Good Art",
       "path": "ThinkBetter/Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "how buildings learn：what happens after they're built",

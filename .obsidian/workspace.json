@@ -71,10 +71,15 @@
             "id": "bd46174e33b01b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Books"
             }
           }
         ],
