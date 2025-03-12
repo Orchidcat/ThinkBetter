@@ -66,9 +66,19 @@
               "icon": "lucide-file",
               "title": "一句话的玩味"
             }
+          },
+          {
+            "id": "bd46174e33b01b49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,10 +211,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cb39316009d96112",
+  "active": "bd46174e33b01b49",
   "lastOpenFiles": [
-    "ThinkBetter/脉诊学习.md",
     "抱朴子内篇.md",
+    "ThinkBetter/脉诊学习.md",
     "纳瓦尔宝典.md",
     "ThinkBetter/一句话的玩味.md",
     "进化论.md",
