@@ -5,6 +5,10 @@
       "path": "纳瓦尔宝典.md"
     },
     {
+      "basename": "进化论",
+      "path": "进化论.md"
+    },
+    {
       "basename": "未命名 3",
       "path": "未命名 3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "195 子午流注",
       "path": "ThinkBetter/人纪/195 子午流注.md"
-    },
-    {
-      "basename": "天干地支",
-      "path": "ThinkBetter/天干地支.md"
     }
   ],
   "omittedPaths": [],
