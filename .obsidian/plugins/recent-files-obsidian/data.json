@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "认知偏见",
+      "path": "认知偏见.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to become straight-A student",
       "path": "How to become straight-A student.md"
-    },
-    {
-      "basename": "四圣心源",
-      "path": "ThinkBetter/人纪/四圣心源.md"
     }
   ],
   "omittedPaths": [],
