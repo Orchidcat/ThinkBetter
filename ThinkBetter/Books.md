@@ -37,7 +37,7 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 
 ```dataview
-table rows.file.link,file.cday.month as "✨"
+list rows.file.link
 from #Book or #reading or #Book/Reading
 flatten file.cday.year+"年"+length(rows) as yy
 where file.cday.year < date(today).year
