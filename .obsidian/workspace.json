@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "头晕",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -185,7 +184,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
