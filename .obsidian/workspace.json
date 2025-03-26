@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/知己.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "002 黄帝内经"
+              "title": "知己"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄帝内经",
+                "query": "美容",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -188,13 +187,14 @@
   },
   "active": "090b2286dda8804e",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/内经-伤寒论.md",
+    "ThinkBetter/大脑睡眠结构图.md",
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
+    "ThinkBetter/人纪/内经-伤寒论.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/伤寒论辑义.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/知己.md",
     "醒思录.md",
@@ -214,7 +214,6 @@
     "未命名 3.md",
     "未命名 2.md",
     "二十四节气.md",
-    "ThinkBetter/六气.md",
     "Pasted image 20250228132502.png",
     "未命名.canvas",
     "Pasted image 20250210132851.png",
