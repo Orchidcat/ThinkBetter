@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 4.md",
+                "file": "ThinkBetter/人纪/伤寒论辑义.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "伤寒论辑义"
             }
           }
         ],
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -172,9 +173,9 @@
   },
   "active": "a04ad14331756725",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
-    "未命名 4.md",
+    "ThinkBetter/人纪/伤寒论辑义.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/004 金匮要略.md",
