@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "六气",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +215,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "db2f7174929c9645",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/003 伤寒论.md",
