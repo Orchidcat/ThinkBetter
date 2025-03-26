@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d92565839872cdff",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "75913aec46db6298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "009 辨厥阴病脉症并治法"
+              "title": "+Home"
+            }
+          },
+          {
+            "id": "a04ad14331756725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,13 +170,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a04ad14331756725",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "未命名 4.md",
+    "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/知己.md",
-    "ThinkBetter/人纪/+Home.md",
     "醒思录.md",
     "ThinkBetter/人纪/097 三问头身.md",
     "ThinkBetter/Books.md",
@@ -183,8 +201,6 @@
     "Pasted image 20250228132502.png",
     "帝国的终结.md",
     "未命名.canvas",
-    "ThinkBetter/人纪/针灸大成.md",
-    "ThinkBetter/人纪/003 伤寒论.md",
     "Pasted image 20250210132851.png",
     "Pasted image 20250210132049.png",
     "Pasted image 20250102104209.png",
