@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "胃脉",
+                "query": "脉法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
