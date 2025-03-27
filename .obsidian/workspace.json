@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芪",
+                "query": "胃脉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -216,7 +215,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "db2f7174929c9645",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/针灸大成.md",
     "ThinkBetter/人纪/内经-伤寒论.md",
