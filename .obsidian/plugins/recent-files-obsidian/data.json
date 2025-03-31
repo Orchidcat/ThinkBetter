@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "六气",
       "path": "ThinkBetter/六气.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "知己",
@@ -195,10 +199,6 @@
     {
       "basename": "框架",
       "path": "框架.md"
-    },
-    {
-      "basename": "rpi zero 2w",
-      "path": "rpi zero 2w.md"
     }
   ],
   "omittedPaths": [],
