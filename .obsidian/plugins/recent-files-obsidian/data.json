@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "心智模型 MOC",
+      "path": "ThinkBetter/心智模型 MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "工具箱🧰",
       "path": "工具箱🧰.md"
-    },
-    {
-      "basename": "Pi - Reef Monitor System",
-      "path": "Pi - Reef Monitor System.md"
     }
   ],
   "omittedPaths": [],
