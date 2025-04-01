@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "怒",
+                "query": "怒伤",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -170,7 +171,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "29d9c4dd9157ee5b",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "正见.md",
