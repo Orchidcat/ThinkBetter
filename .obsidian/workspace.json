@@ -52,8 +52,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5ca9809081d9655c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "正见.md",
+    "ThinkBetter/Books.md",
+    "ThinkBetter/人纪/+Home.md",
     "园丁与木匠.md",
     "ThinkBetter/人纪/内经-伤寒论.md",
     "ThinkBetter/人纪/针灸大成.md",
@@ -207,7 +207,6 @@
     "ThinkBetter/人纪/004 金匮要略.md",
     "醒思录.md",
     "ThinkBetter/人纪/097 三问头身.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/时间管理的本质.md",
     "认知偏见.md",
