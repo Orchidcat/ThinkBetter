@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -170,7 +171,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "60935e3ba9eca9f3",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "前行修行.md",
