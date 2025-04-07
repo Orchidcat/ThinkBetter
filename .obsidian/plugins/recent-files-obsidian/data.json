@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "八万四千问",
+      "path": "八万四千问.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "前行修行",
@@ -195,10 +199,6 @@
     {
       "basename": "Pandas",
       "path": "Pandas.md"
-    },
-    {
-      "basename": "如何停止在不重要的细节上浪费时间",
-      "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
     }
   ],
   "omittedPaths": [],
