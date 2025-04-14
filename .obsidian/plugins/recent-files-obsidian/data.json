@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How to become straight-A student",
+      "path": "How to become straight-A student.md"
+    },
+    {
       "basename": "how minds change",
       "path": "how minds change.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Clear Thinking",
       "path": "ThinkBetter/Book/Clear Thinking.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Pandas.md"
     }
   ],
   "omittedPaths": [],
