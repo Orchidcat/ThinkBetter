@@ -1,6 +1,6 @@
 ---
 author: David Mcraney
-Cover: 
+Cover: https://m.media-amazon.com/images/I/71NmuZ0RfEL._SL1500_.jpg
 tags:
   - 脑科学
   - reading
