@@ -1,8 +1,12 @@
 ---
 tags: 
    - Book 
-type:
-startDate: 
+Cover: 
+Type:
+Series: 
+Author:
+Status: 
+
 endDate:
 rating: 
 ---
