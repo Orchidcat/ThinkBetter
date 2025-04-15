@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Templates/Template - 读书.md",
+                "file": "ThinkBetter/Books/how minds change.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Template - 读书 的大纲"
+              "title": "how minds change 的大纲"
             }
           }
         ],
@@ -190,10 +190,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5f68f48ec9ee4440",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/Templates/Template - 读书.md",
+    "ThinkBetter/Books/how minds change.md",
     "哲学图谱.md",
     "ThinkBetter/Books/Digital Minimalism.md",
     "How to become straight-A student.md",

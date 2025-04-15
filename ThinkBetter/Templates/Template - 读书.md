@@ -6,9 +6,10 @@ Type:
 Series: 
 Author:
 Status: 
-
-endDate:
-rating: 
+OrderInYear:
+StartDate:
+FinishedDate:
+Rating: 
 ---
 
 
