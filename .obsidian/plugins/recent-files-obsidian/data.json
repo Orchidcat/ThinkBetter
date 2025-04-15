@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "Template - 读书",
       "path": "ThinkBetter/Templates/Template - 读书.md"
+    },
+    {
+      "basename": "how minds change",
+      "path": "ThinkBetter/Books/how minds change.md"
     },
     {
       "basename": "哲学图谱",
@@ -19,10 +23,6 @@
     {
       "basename": "How to become straight-A student",
       "path": "How to become straight-A student.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "+Home",
