@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/如何阅读的方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "如何阅读的方法"
             }
           }
         ],
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/如何阅读的方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Books 的大纲"
+              "title": "如何阅读的方法 的大纲"
             }
           }
         ],
@@ -187,8 +188,8 @@
   },
   "active": "0c6492730b77dbc4",
   "lastOpenFiles": [
-    "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books/how minds change.md",
     "哲学图谱.md",
     "ThinkBetter/Books/Digital Minimalism.md",

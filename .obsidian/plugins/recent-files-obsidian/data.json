@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/如何阅读的方法.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - Bike",
       "path": "ThinkBetter/Templates/Template - Bike.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
     }
   ],
   "omittedPaths": [],
