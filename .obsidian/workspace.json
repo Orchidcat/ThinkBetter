@@ -52,8 +52,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +94,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#book",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Books/how minds change.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Books 的大纲"
+              "title": "how minds change 的大纲"
             }
           }
         ],
@@ -189,10 +188,10 @@
   },
   "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
     "ThinkBetter/Books/Digital Minimalism.md",
     "ThinkBetter/Books/how minds change.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "哲学图谱.md",
     "How to become straight-A student.md",
