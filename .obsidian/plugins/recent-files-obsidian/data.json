@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books.md"
     },
     {
+      "basename": "how minds change",
+      "path": "ThinkBetter/Books/how minds change.md"
+    },
+    {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/如何阅读的方法.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "books of 2024",
       "path": "books of 2024.md"
-    },
-    {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
     },
     {
       "basename": "中国历代政治得失",
