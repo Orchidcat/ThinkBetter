@@ -30,6 +30,13 @@ list startDate+author + rating  from #UnReadBook
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
+
+
+
+
+
+
+
 **2025**
 ____
 ```dataview
