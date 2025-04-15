@@ -53,7 +53,6 @@ A philosophy of technology use in which you focus your online time on a small nu
 
 伍尔夫同意斯托尔的观点，孤独是原创和创造性思维的先决条件
 
-
 做法：
 1. 留下你的电话
 2. 长路程的徒步
