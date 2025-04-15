@@ -37,8 +37,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Books/Digital Minimalism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Books 的大纲"
+              "title": "Digital Minimalism 的大纲"
             }
           }
         ],
@@ -173,10 +172,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0c6492730b77dbc4",
+  "active": "a29d880138d95622",
   "lastOpenFiles": [
-    "系统思考.md",
     "ThinkBetter/Books.md",
+    "系统思考.md",
     "醒思录.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/如何阅读的方法.md",
