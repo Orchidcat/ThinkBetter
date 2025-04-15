@@ -5,6 +5,26 @@
       "path": "ThinkBetter/Books/how minds change.md"
     },
     {
+      "basename": "books of 2024",
+      "path": "books of 2024.md"
+    },
+    {
+      "basename": "中国历代政治得失",
+      "path": "ThinkBetter/Books/中国历代政治得失.md"
+    },
+    {
+      "basename": "圆运动的古中医学 by 彭子益",
+      "path": "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md"
+    },
+    {
+      "basename": "The Vagabond's Way",
+      "path": "The Vagabond's Way.md"
+    },
+    {
+      "basename": "伤寒论六经原文读法篇",
+      "path": "ThinkBetter/伤寒论六经原文读法篇.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "帝国的终结",
       "path": "帝国的终结.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "折肱漫录",
-      "path": "ThinkBetter/人纪/折肱漫录.md"
-    },
-    {
-      "basename": "中国历代政治得失",
-      "path": "ThinkBetter/Books/中国历代政治得失.md"
-    },
-    {
-      "basename": "Template - Bike",
-      "path": "ThinkBetter/Templates/Template - Bike.md"
     }
   ],
   "omittedPaths": [],
