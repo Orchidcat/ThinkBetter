@@ -1,4 +1,4 @@
-### 阅读与书籍
+## 阅读与书籍
 
 ```ad-help
 当我们阅读时，另一个人替我们思考；我们只是重复了他的思维过程；
@@ -16,10 +16,10 @@
 我们一生中能够阅读的书籍其实很少。因此，关键技能不是多读，而是跳过那些不值得读的内容
 ```
 
-[[如何阅读的方法]]
+### [[如何阅读的方法]]
 
 
-书荒的列表：
+### 书荒的列表：
 [Site Unreachable](https://sive.rs/book) 
 [Naval's Recommended Reading — Almanack of Naval Ravikant](https://www.navalmanack.com/navals-recommended-reading)
 
