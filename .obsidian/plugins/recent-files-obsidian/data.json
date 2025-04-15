@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Minimalism",
+      "path": "Digital Minimalism.md"
+    },
+    {
       "basename": "how minds change",
       "path": "how minds change.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "伤寒贯珠集",
       "path": "ThinkBetter/人纪/伤寒贯珠集.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Book/Clear Thinking.md"
     }
   ],
   "omittedPaths": [],
