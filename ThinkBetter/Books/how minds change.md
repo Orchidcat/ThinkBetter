@@ -1,5 +1,5 @@
 ---
-author: Dennis Sherwood
+author: David Mcraney
 Cover: 
 tags:
   - 脑科学
