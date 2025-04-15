@@ -152,16 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
+                "file": "ThinkBetter/Books/how minds change.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how buildings learn：what happens after they're built 的大纲"
+              "title": "how minds change 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
