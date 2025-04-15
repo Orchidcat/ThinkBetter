@@ -12,6 +12,7 @@ rating: ⭐⭐⭐⭐⭐
 FinishedDate: 
   - 2025-03-12
   - 2025-04-15
+Reread: Y
 ---
 
 
