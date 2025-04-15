@@ -1,5 +1,4 @@
 ---
-author: 
 tags: 
    - Book 
 type:

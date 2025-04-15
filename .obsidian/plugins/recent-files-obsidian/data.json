@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 读书",
+      "path": "ThinkBetter/Templates/Template - 读书.md"
+    },
+    {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 日记",
       "path": "ThinkBetter/Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Templates - 论证",
-      "path": "ThinkBetter/Templates/Templates - 论证.md"
     }
   ],
   "omittedPaths": [],
