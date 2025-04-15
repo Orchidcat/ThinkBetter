@@ -30,7 +30,7 @@ list startDate+author + rating  from #UnReadBook
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
-```dataview
+```dataviewjs
 let yearCounts = {};
 
 dv.pages('""')  // 可删掉括号内容，如果是全库搜索
