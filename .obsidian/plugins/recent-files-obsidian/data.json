@@ -5,6 +5,14 @@
       "path": "ThinkBetter/Books.md"
     },
     {
+      "basename": "系统思考",
+      "path": "系统思考.md"
+    },
+    {
+      "basename": "醒思录",
+      "path": "醒思录.md"
+    },
+    {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
     },
@@ -145,10 +153,6 @@
       "path": "ThinkBetter/人纪/004 金匮要略.md"
     },
     {
-      "basename": "醒思录",
-      "path": "醒思录.md"
-    },
-    {
       "basename": "097 三问头身",
       "path": "ThinkBetter/人纪/097 三问头身.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 2",
       "path": "未命名 2.md"
-    },
-    {
-      "basename": "二十四节气",
-      "path": "二十四节气.md"
     }
   ],
   "omittedPaths": [],
