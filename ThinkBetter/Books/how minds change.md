@@ -1,5 +1,6 @@
 ---
 author: Dennis Sherwood
+Cover: 
 tags:
   - 脑科学
   - reading
