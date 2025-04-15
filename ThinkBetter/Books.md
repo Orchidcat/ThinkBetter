@@ -30,7 +30,37 @@ list startDate+author + rating  from #UnReadBook
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
-```
+```dataview
+let yearCounts = {};
+
+dv.pages('""')  // 可删掉括号内容，如果是全库搜索
+  .where(p => p.tags && p.tags.includes("book"))
+  .forEach(p => {
+    let year = null;
+    
+    // 尝试从文件名中提取年份
+    let match = p.file.name.match(/\b(20\d{2})\b/);
+    if (match) {
+      year = match[1];
+    } else if (p.date) {
+      // 如果有日期字段，提取年份
+      year = p.date.year;
+    } else if (p.file.ctime) {
+      // 最后退而求其次从创建时间取年份
+      year = p.file.ctime.year;
+    }
+
+    if (year) {
+      yearCounts[year] = (yearCounts[year] || 0) + 1;
+    }
+  });
+
+let sortedYears = Object.keys(yearCounts).sort((a, b) => b - a);
+
+for (let y of sortedYears) {
+  dv.paragraph(`${y}年共阅读 ${yearCounts[y]} 本书`);
+}
+
 ```
 
 
