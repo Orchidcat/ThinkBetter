@@ -10,6 +10,7 @@
           {
             "id": "4509724f8bf84da7",
             "type": "tabs",
+            "dimension": 55.35714285714286,
             "children": [
               {
                 "id": "e7a7b303c61786dc",
@@ -62,6 +63,7 @@
           {
             "id": "92c3abccd3c542b8",
             "type": "tabs",
+            "dimension": 44.642857142857146,
             "children": [
               {
                 "id": "e48d7218d55ca949",
@@ -209,7 +211,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e48d7218d55ca949",
+  "active": "5f68f48ec9ee4440",
   "lastOpenFiles": [
     "哲学图谱.md",
     "ThinkBetter/Books/how minds change.md",
