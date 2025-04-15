@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "书荒",
+                "query": "#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,12 +106,12 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -183,10 +183,11 @@
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0c6492730b77dbc4",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/如何阅读的方法.md",
     "ThinkBetter/Books/Digital Minimalism.md",
