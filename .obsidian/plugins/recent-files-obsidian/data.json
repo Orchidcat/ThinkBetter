@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "Digital Minimalism",
+      "path": "ThinkBetter/Books/Digital Minimalism.md"
+    },
+    {
+      "basename": "2022-06-29",
+      "path": "ThinkBetter/DailyNotes/2022-06-29.md"
     },
     {
       "basename": "books of 2024",
       "path": "books of 2024.md"
+    },
+    {
+      "basename": "how minds change",
+      "path": "ThinkBetter/Books/how minds change.md"
     },
     {
       "basename": "中国历代政治得失",
@@ -25,16 +37,8 @@
       "path": "ThinkBetter/伤寒论六经原文读法篇.md"
     },
     {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
-    },
-    {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/如何阅读的方法.md"
-    },
-    {
-      "basename": "Digital Minimalism",
-      "path": "ThinkBetter/Books/Digital Minimalism.md"
     },
     {
       "basename": "Template - 读书",
@@ -195,10 +199,6 @@
     {
       "basename": "二十四节气",
       "path": "二十四节气.md"
-    },
-    {
-      "basename": "帝国的终结",
-      "path": "帝国的终结.md"
     }
   ],
   "omittedPaths": [],
