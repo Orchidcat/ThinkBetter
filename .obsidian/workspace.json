@@ -4,40 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
+        "id": "9207fcd9d13208e6",
+        "type": "split",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/how minds change.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ThinkBetter/Books/how minds change.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "how minds change"
+                }
               },
-              "icon": "lucide-file",
-              "title": "how minds change"
-            }
+              {
+                "id": "a29d880138d95622",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ThinkBetter/Books/Digital Minimalism.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Digital Minimalism"
+                }
+              },
+              {
+                "id": "5f68f48ec9ee4440",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "哲学图谱.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "哲学图谱"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "a29d880138d95622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/Digital Minimalism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Digital Minimalism"
-            }
+            "id": "92c3abccd3c542b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e48d7218d55ca949",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of 哲学图谱"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -170,10 +209,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e48d7218d55ca949",
   "lastOpenFiles": [
-    "ThinkBetter/Books/Digital Minimalism.md",
+    "哲学图谱.md",
     "ThinkBetter/Books/how minds change.md",
+    "ThinkBetter/Books/Digital Minimalism.md",
     "How to become straight-A student.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
@@ -197,7 +237,6 @@
     "ThinkBetter/人纪/伤寒论辑义.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
     "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
-    "ThinkBetter/人纪/004 金匮要略.md",
     "Pasted image 20250312112804.png",
     "Pasted image 20250228132502.png",
     "未命名.canvas",

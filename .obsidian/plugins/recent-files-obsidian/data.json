@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "哲学图谱",
+      "path": "哲学图谱.md"
+    },
+    {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Templates - 论证",
       "path": "ThinkBetter/Templates/Templates - 论证.md"
-    },
-    {
-      "basename": "伤寒贯珠集",
-      "path": "ThinkBetter/人纪/伤寒贯珠集.md"
     }
   ],
   "omittedPaths": [],
