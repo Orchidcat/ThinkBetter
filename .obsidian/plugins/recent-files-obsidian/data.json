@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "医林改错",
+      "path": "ThinkBetter/人纪/医林改错.md"
+    },
+    {
+      "basename": "血府逐淤汤",
+      "path": "ThinkBetter/血府逐淤汤.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "how buildings learn：what happens after they're built",
       "path": "ThinkBetter/Books/how buildings learn：what happens after they're built.md"
-    },
-    {
-      "basename": "未命名 3",
-      "path": "未命名 3.md"
-    },
-    {
-      "basename": "未命名 2",
-      "path": "未命名 2.md"
     }
   ],
   "omittedPaths": [],
