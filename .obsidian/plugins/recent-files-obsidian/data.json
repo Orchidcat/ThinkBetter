@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "001 @MOC中医",
+      "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
     },
     {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "医林改错",
@@ -195,10 +199,6 @@
     {
       "basename": "Neil Gaiman - Make Good Art",
       "path": "ThinkBetter/Neil Gaiman - Make Good Art.md"
-    },
-    {
-      "basename": "how buildings learn：what happens after they're built",
-      "path": "ThinkBetter/Books/how buildings learn：what happens after they're built.md"
     }
   ],
   "omittedPaths": [],

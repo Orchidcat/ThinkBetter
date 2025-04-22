@@ -41,10 +41,15 @@
             "id": "d5a10006400035f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "001 @MOC中医"
             }
           }
         ],
@@ -185,9 +190,9 @@
   },
   "active": "d5a10006400035f1",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/内经-伤寒论.md",
     "ThinkBetter/Books/中国历代政治得失.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/医林改错.md",
     "ThinkBetter/血府逐淤汤.md",
     "ThinkBetter/Books/Digital Minimalism.md",
