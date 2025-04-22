@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "内经-伤寒论"
             }
+          },
+          {
+            "id": "d5a10006400035f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,8 +183,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "615cafb17bc78faf",
+  "active": "d5a10006400035f1",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/内经-伤寒论.md",
     "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/医林改错.md",
@@ -194,7 +205,6 @@
     "ThinkBetter/Templates/Template - 读书.md",
     "哲学图谱.md",
     "How to become straight-A student.md",
-    "ThinkBetter/人纪/内经-伤寒论.md",
     "八万四千问.md",
     "前行修行.md",
     "正见.md",
