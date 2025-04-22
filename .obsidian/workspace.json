@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "中国历代政治得失"
             }
+          },
+          {
+            "id": "615cafb17bc78faf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +168,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "365a400e0813ba30",
+  "active": "615cafb17bc78faf",
   "lastOpenFiles": [
+    "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/医林改错.md",
     "ThinkBetter/血府逐淤汤.md",
@@ -171,7 +183,6 @@
     "纳瓦尔宝典.md",
     "ThinkBetter/DailyNotes/2022-06-29.md",
     "books of 2024.md",
-    "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "The Vagabond's Way.md",
     "ThinkBetter/伤寒论六经原文读法篇.md",
