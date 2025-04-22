@@ -26,10 +26,15 @@
             "id": "615cafb17bc78faf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/内经-伤寒论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "内经-伤寒论"
             }
           }
         ],
