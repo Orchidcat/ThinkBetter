@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "麦门冬",
+      "path": "ThinkBetter/人纪/麦门冬.md"
+    },
+    {
+      "basename": "足太阳膀胱经",
+      "path": "ThinkBetter/人纪/足太阳膀胱经.md"
+    },
+    {
+      "basename": "医林改错",
+      "path": "ThinkBetter/人纪/医林改错.md"
+    },
+    {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
-    },
-    {
-      "basename": "医林改错",
-      "path": "ThinkBetter/人纪/医林改错.md"
     },
     {
       "basename": "血府逐淤汤",
@@ -191,14 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/一句话的玩味.md"
-    },
-    {
-      "basename": "进化论",
-      "path": "进化论.md"
-    },
-    {
-      "basename": "Neil Gaiman - Make Good Art",
-      "path": "ThinkBetter/Neil Gaiman - Make Good Art.md"
     }
   ],
   "omittedPaths": [],
