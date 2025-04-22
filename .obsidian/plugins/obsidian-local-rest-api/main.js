@@ -37262,746 +37262,11 @@ var require_text = __commonJS({
   }
 });
 
-// node_modules/es-errors/index.js
-var require_es_errors = __commonJS({
-  "node_modules/es-errors/index.js"(exports, module2) {
-    "use strict";
-    module2.exports = Error;
-  }
-});
-
-// node_modules/es-errors/eval.js
-var require_eval = __commonJS({
-  "node_modules/es-errors/eval.js"(exports, module2) {
-    "use strict";
-    module2.exports = EvalError;
-  }
-});
-
-// node_modules/es-errors/range.js
-var require_range = __commonJS({
-  "node_modules/es-errors/range.js"(exports, module2) {
-    "use strict";
-    module2.exports = RangeError;
-  }
-});
-
-// node_modules/es-errors/ref.js
-var require_ref = __commonJS({
-  "node_modules/es-errors/ref.js"(exports, module2) {
-    "use strict";
-    module2.exports = ReferenceError;
-  }
-});
-
-// node_modules/es-errors/syntax.js
-var require_syntax = __commonJS({
-  "node_modules/es-errors/syntax.js"(exports, module2) {
-    "use strict";
-    module2.exports = SyntaxError;
-  }
-});
-
 // node_modules/es-errors/type.js
 var require_type = __commonJS({
   "node_modules/es-errors/type.js"(exports, module2) {
     "use strict";
     module2.exports = TypeError;
-  }
-});
-
-// node_modules/es-errors/uri.js
-var require_uri = __commonJS({
-  "node_modules/es-errors/uri.js"(exports, module2) {
-    "use strict";
-    module2.exports = URIError;
-  }
-});
-
-// node_modules/has-symbols/shams.js
-var require_shams = __commonJS({
-  "node_modules/has-symbols/shams.js"(exports, module2) {
-    "use strict";
-    module2.exports = function hasSymbols() {
-      if (typeof Symbol !== "function" || typeof Object.getOwnPropertySymbols !== "function") {
-        return false;
-      }
-      if (typeof Symbol.iterator === "symbol") {
-        return true;
-      }
-      var obj = {};
-      var sym = Symbol("test");
-      var symObj = Object(sym);
-      if (typeof sym === "string") {
-        return false;
-      }
-      if (Object.prototype.toString.call(sym) !== "[object Symbol]") {
-        return false;
-      }
-      if (Object.prototype.toString.call(symObj) !== "[object Symbol]") {
-        return false;
-      }
-      var symVal = 42;
-      obj[sym] = symVal;
-      for (sym in obj) {
-        return false;
-      }
-      if (typeof Object.keys === "function" && Object.keys(obj).length !== 0) {
-        return false;
-      }
-      if (typeof Object.getOwnPropertyNames === "function" && Object.getOwnPropertyNames(obj).length !== 0) {
-        return false;
-      }
-      var syms = Object.getOwnPropertySymbols(obj);
-      if (syms.length !== 1 || syms[0] !== sym) {
-        return false;
-      }
-      if (!Object.prototype.propertyIsEnumerable.call(obj, sym)) {
-        return false;
-      }
-      if (typeof Object.getOwnPropertyDescriptor === "function") {
-        var descriptor = Object.getOwnPropertyDescriptor(obj, sym);
-        if (descriptor.value !== symVal || descriptor.enumerable !== true) {
-          return false;
-        }
-      }
-      return true;
-    };
-  }
-});
-
-// node_modules/has-symbols/index.js
-var require_has_symbols = __commonJS({
-  "node_modules/has-symbols/index.js"(exports, module2) {
-    "use strict";
-    var origSymbol = typeof Symbol !== "undefined" && Symbol;
-    var hasSymbolSham = require_shams();
-    module2.exports = function hasNativeSymbols() {
-      if (typeof origSymbol !== "function") {
-        return false;
-      }
-      if (typeof Symbol !== "function") {
-        return false;
-      }
-      if (typeof origSymbol("foo") !== "symbol") {
-        return false;
-      }
-      if (typeof Symbol("bar") !== "symbol") {
-        return false;
-      }
-      return hasSymbolSham();
-    };
-  }
-});
-
-// node_modules/has-proto/index.js
-var require_has_proto = __commonJS({
-  "node_modules/has-proto/index.js"(exports, module2) {
-    "use strict";
-    var test = {
-      __proto__: null,
-      foo: {}
-    };
-    var $Object = Object;
-    module2.exports = function hasProto() {
-      return { __proto__: test }.foo === test.foo && !(test instanceof $Object);
-    };
-  }
-});
-
-// node_modules/function-bind/implementation.js
-var require_implementation = __commonJS({
-  "node_modules/function-bind/implementation.js"(exports, module2) {
-    "use strict";
-    var ERROR_MESSAGE = "Function.prototype.bind called on incompatible ";
-    var toStr = Object.prototype.toString;
-    var max = Math.max;
-    var funcType = "[object Function]";
-    var concatty = function concatty2(a, b) {
-      var arr = [];
-      for (var i = 0; i < a.length; i += 1) {
-        arr[i] = a[i];
-      }
-      for (var j = 0; j < b.length; j += 1) {
-        arr[j + a.length] = b[j];
-      }
-      return arr;
-    };
-    var slicy = function slicy2(arrLike, offset) {
-      var arr = [];
-      for (var i = offset || 0, j = 0; i < arrLike.length; i += 1, j += 1) {
-        arr[j] = arrLike[i];
-      }
-      return arr;
-    };
-    var joiny = function(arr, joiner) {
-      var str = "";
-      for (var i = 0; i < arr.length; i += 1) {
-        str += arr[i];
-        if (i + 1 < arr.length) {
-          str += joiner;
-        }
-      }
-      return str;
-    };
-    module2.exports = function bind(that) {
-      var target = this;
-      if (typeof target !== "function" || toStr.apply(target) !== funcType) {
-        throw new TypeError(ERROR_MESSAGE + target);
-      }
-      var args = slicy(arguments, 1);
-      var bound;
-      var binder = function() {
-        if (this instanceof bound) {
-          var result = target.apply(this, concatty(args, arguments));
-          if (Object(result) === result) {
-            return result;
-          }
-          return this;
-        }
-        return target.apply(that, concatty(args, arguments));
-      };
-      var boundLength = max(0, target.length - args.length);
-      var boundArgs = [];
-      for (var i = 0; i < boundLength; i++) {
-        boundArgs[i] = "$" + i;
-      }
-      bound = Function("binder", "return function (" + joiny(boundArgs, ",") + "){ return binder.apply(this,arguments); }")(binder);
-      if (target.prototype) {
-        var Empty = function Empty2() {
-        };
-        Empty.prototype = target.prototype;
-        bound.prototype = new Empty();
-        Empty.prototype = null;
-      }
-      return bound;
-    };
-  }
-});
-
-// node_modules/function-bind/index.js
-var require_function_bind = __commonJS({
-  "node_modules/function-bind/index.js"(exports, module2) {
-    "use strict";
-    var implementation = require_implementation();
-    module2.exports = Function.prototype.bind || implementation;
-  }
-});
-
-// node_modules/hasown/index.js
-var require_hasown = __commonJS({
-  "node_modules/hasown/index.js"(exports, module2) {
-    "use strict";
-    var call = Function.prototype.call;
-    var $hasOwn = Object.prototype.hasOwnProperty;
-    var bind = require_function_bind();
-    module2.exports = bind.call(call, $hasOwn);
-  }
-});
-
-// node_modules/get-intrinsic/index.js
-var require_get_intrinsic = __commonJS({
-  "node_modules/get-intrinsic/index.js"(exports, module2) {
-    "use strict";
-    var undefined2;
-    var $Error = require_es_errors();
-    var $EvalError = require_eval();
-    var $RangeError = require_range();
-    var $ReferenceError = require_ref();
-    var $SyntaxError = require_syntax();
-    var $TypeError = require_type();
-    var $URIError = require_uri();
-    var $Function = Function;
-    var getEvalledConstructor = function(expressionSyntax) {
-      try {
-        return $Function('"use strict"; return (' + expressionSyntax + ").constructor;")();
-      } catch (e) {
-      }
-    };
-    var $gOPD = Object.getOwnPropertyDescriptor;
-    if ($gOPD) {
-      try {
-        $gOPD({}, "");
-      } catch (e) {
-        $gOPD = null;
-      }
-    }
-    var throwTypeError = function() {
-      throw new $TypeError();
-    };
-    var ThrowTypeError = $gOPD ? function() {
-      try {
-        arguments.callee;
-        return throwTypeError;
-      } catch (calleeThrows) {
-        try {
-          return $gOPD(arguments, "callee").get;
-        } catch (gOPDthrows) {
-          return throwTypeError;
-        }
-      }
-    }() : throwTypeError;
-    var hasSymbols = require_has_symbols()();
-    var hasProto = require_has_proto()();
-    var getProto = Object.getPrototypeOf || (hasProto ? function(x) {
-      return x.__proto__;
-    } : null);
-    var needsEval = {};
-    var TypedArray = typeof Uint8Array === "undefined" || !getProto ? undefined2 : getProto(Uint8Array);
-    var INTRINSICS = {
-      __proto__: null,
-      "%AggregateError%": typeof AggregateError === "undefined" ? undefined2 : AggregateError,
-      "%Array%": Array,
-      "%ArrayBuffer%": typeof ArrayBuffer === "undefined" ? undefined2 : ArrayBuffer,
-      "%ArrayIteratorPrototype%": hasSymbols && getProto ? getProto([][Symbol.iterator]()) : undefined2,
-      "%AsyncFromSyncIteratorPrototype%": undefined2,
-      "%AsyncFunction%": needsEval,
-      "%AsyncGenerator%": needsEval,
-      "%AsyncGeneratorFunction%": needsEval,
-      "%AsyncIteratorPrototype%": needsEval,
-      "%Atomics%": typeof Atomics === "undefined" ? undefined2 : Atomics,
-      "%BigInt%": typeof BigInt === "undefined" ? undefined2 : BigInt,
-      "%BigInt64Array%": typeof BigInt64Array === "undefined" ? undefined2 : BigInt64Array,
-      "%BigUint64Array%": typeof BigUint64Array === "undefined" ? undefined2 : BigUint64Array,
-      "%Boolean%": Boolean,
-      "%DataView%": typeof DataView === "undefined" ? undefined2 : DataView,
-      "%Date%": Date,
-      "%decodeURI%": decodeURI,
-      "%decodeURIComponent%": decodeURIComponent,
-      "%encodeURI%": encodeURI,
-      "%encodeURIComponent%": encodeURIComponent,
-      "%Error%": $Error,
-      "%eval%": eval,
-      "%EvalError%": $EvalError,
-      "%Float32Array%": typeof Float32Array === "undefined" ? undefined2 : Float32Array,
-      "%Float64Array%": typeof Float64Array === "undefined" ? undefined2 : Float64Array,
-      "%FinalizationRegistry%": typeof FinalizationRegistry === "undefined" ? undefined2 : FinalizationRegistry,
-      "%Function%": $Function,
-      "%GeneratorFunction%": needsEval,
-      "%Int8Array%": typeof Int8Array === "undefined" ? undefined2 : Int8Array,
-      "%Int16Array%": typeof Int16Array === "undefined" ? undefined2 : Int16Array,
-      "%Int32Array%": typeof Int32Array === "undefined" ? undefined2 : Int32Array,
-      "%isFinite%": isFinite,
-      "%isNaN%": isNaN,
-      "%IteratorPrototype%": hasSymbols && getProto ? getProto(getProto([][Symbol.iterator]())) : undefined2,
-      "%JSON%": typeof JSON === "object" ? JSON : undefined2,
-      "%Map%": typeof Map === "undefined" ? undefined2 : Map,
-      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto(new Map()[Symbol.iterator]()),
-      "%Math%": Math,
-      "%Number%": Number,
-      "%Object%": Object,
-      "%parseFloat%": parseFloat,
-      "%parseInt%": parseInt,
-      "%Promise%": typeof Promise === "undefined" ? undefined2 : Promise,
-      "%Proxy%": typeof Proxy === "undefined" ? undefined2 : Proxy,
-      "%RangeError%": $RangeError,
-      "%ReferenceError%": $ReferenceError,
-      "%Reflect%": typeof Reflect === "undefined" ? undefined2 : Reflect,
-      "%RegExp%": RegExp,
-      "%Set%": typeof Set === "undefined" ? undefined2 : Set,
-      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto(new Set()[Symbol.iterator]()),
-      "%SharedArrayBuffer%": typeof SharedArrayBuffer === "undefined" ? undefined2 : SharedArrayBuffer,
-      "%String%": String,
-      "%StringIteratorPrototype%": hasSymbols && getProto ? getProto(""[Symbol.iterator]()) : undefined2,
-      "%Symbol%": hasSymbols ? Symbol : undefined2,
-      "%SyntaxError%": $SyntaxError,
-      "%ThrowTypeError%": ThrowTypeError,
-      "%TypedArray%": TypedArray,
-      "%TypeError%": $TypeError,
-      "%Uint8Array%": typeof Uint8Array === "undefined" ? undefined2 : Uint8Array,
-      "%Uint8ClampedArray%": typeof Uint8ClampedArray === "undefined" ? undefined2 : Uint8ClampedArray,
-      "%Uint16Array%": typeof Uint16Array === "undefined" ? undefined2 : Uint16Array,
-      "%Uint32Array%": typeof Uint32Array === "undefined" ? undefined2 : Uint32Array,
-      "%URIError%": $URIError,
-      "%WeakMap%": typeof WeakMap === "undefined" ? undefined2 : WeakMap,
-      "%WeakRef%": typeof WeakRef === "undefined" ? undefined2 : WeakRef,
-      "%WeakSet%": typeof WeakSet === "undefined" ? undefined2 : WeakSet
-    };
-    if (getProto) {
-      try {
-        null.error;
-      } catch (e) {
-        errorProto = getProto(getProto(e));
-        INTRINSICS["%Error.prototype%"] = errorProto;
-      }
-    }
-    var errorProto;
-    var doEval = function doEval2(name) {
-      var value;
-      if (name === "%AsyncFunction%") {
-        value = getEvalledConstructor("async function () {}");
-      } else if (name === "%GeneratorFunction%") {
-        value = getEvalledConstructor("function* () {}");
-      } else if (name === "%AsyncGeneratorFunction%") {
-        value = getEvalledConstructor("async function* () {}");
-      } else if (name === "%AsyncGenerator%") {
-        var fn = doEval2("%AsyncGeneratorFunction%");
-        if (fn) {
-          value = fn.prototype;
-        }
-      } else if (name === "%AsyncIteratorPrototype%") {
-        var gen = doEval2("%AsyncGenerator%");
-        if (gen && getProto) {
-          value = getProto(gen.prototype);
-        }
-      }
-      INTRINSICS[name] = value;
-      return value;
-    };
-    var LEGACY_ALIASES = {
-      __proto__: null,
-      "%ArrayBufferPrototype%": ["ArrayBuffer", "prototype"],
-      "%ArrayPrototype%": ["Array", "prototype"],
-      "%ArrayProto_entries%": ["Array", "prototype", "entries"],
-      "%ArrayProto_forEach%": ["Array", "prototype", "forEach"],
-      "%ArrayProto_keys%": ["Array", "prototype", "keys"],
-      "%ArrayProto_values%": ["Array", "prototype", "values"],
-      "%AsyncFunctionPrototype%": ["AsyncFunction", "prototype"],
-      "%AsyncGenerator%": ["AsyncGeneratorFunction", "prototype"],
-      "%AsyncGeneratorPrototype%": ["AsyncGeneratorFunction", "prototype", "prototype"],
-      "%BooleanPrototype%": ["Boolean", "prototype"],
-      "%DataViewPrototype%": ["DataView", "prototype"],
-      "%DatePrototype%": ["Date", "prototype"],
-      "%ErrorPrototype%": ["Error", "prototype"],
-      "%EvalErrorPrototype%": ["EvalError", "prototype"],
-      "%Float32ArrayPrototype%": ["Float32Array", "prototype"],
-      "%Float64ArrayPrototype%": ["Float64Array", "prototype"],
-      "%FunctionPrototype%": ["Function", "prototype"],
-      "%Generator%": ["GeneratorFunction", "prototype"],
-      "%GeneratorPrototype%": ["GeneratorFunction", "prototype", "prototype"],
-      "%Int8ArrayPrototype%": ["Int8Array", "prototype"],
-      "%Int16ArrayPrototype%": ["Int16Array", "prototype"],
-      "%Int32ArrayPrototype%": ["Int32Array", "prototype"],
-      "%JSONParse%": ["JSON", "parse"],
-      "%JSONStringify%": ["JSON", "stringify"],
-      "%MapPrototype%": ["Map", "prototype"],
-      "%NumberPrototype%": ["Number", "prototype"],
-      "%ObjectPrototype%": ["Object", "prototype"],
-      "%ObjProto_toString%": ["Object", "prototype", "toString"],
-      "%ObjProto_valueOf%": ["Object", "prototype", "valueOf"],
-      "%PromisePrototype%": ["Promise", "prototype"],
-      "%PromiseProto_then%": ["Promise", "prototype", "then"],
-      "%Promise_all%": ["Promise", "all"],
-      "%Promise_reject%": ["Promise", "reject"],
-      "%Promise_resolve%": ["Promise", "resolve"],
-      "%RangeErrorPrototype%": ["RangeError", "prototype"],
-      "%ReferenceErrorPrototype%": ["ReferenceError", "prototype"],
-      "%RegExpPrototype%": ["RegExp", "prototype"],
-      "%SetPrototype%": ["Set", "prototype"],
-      "%SharedArrayBufferPrototype%": ["SharedArrayBuffer", "prototype"],
-      "%StringPrototype%": ["String", "prototype"],
-      "%SymbolPrototype%": ["Symbol", "prototype"],
-      "%SyntaxErrorPrototype%": ["SyntaxError", "prototype"],
-      "%TypedArrayPrototype%": ["TypedArray", "prototype"],
-      "%TypeErrorPrototype%": ["TypeError", "prototype"],
-      "%Uint8ArrayPrototype%": ["Uint8Array", "prototype"],
-      "%Uint8ClampedArrayPrototype%": ["Uint8ClampedArray", "prototype"],
-      "%Uint16ArrayPrototype%": ["Uint16Array", "prototype"],
-      "%Uint32ArrayPrototype%": ["Uint32Array", "prototype"],
-      "%URIErrorPrototype%": ["URIError", "prototype"],
-      "%WeakMapPrototype%": ["WeakMap", "prototype"],
-      "%WeakSetPrototype%": ["WeakSet", "prototype"]
-    };
-    var bind = require_function_bind();
-    var hasOwn = require_hasown();
-    var $concat = bind.call(Function.call, Array.prototype.concat);
-    var $spliceApply = bind.call(Function.apply, Array.prototype.splice);
-    var $replace = bind.call(Function.call, String.prototype.replace);
-    var $strSlice = bind.call(Function.call, String.prototype.slice);
-    var $exec = bind.call(Function.call, RegExp.prototype.exec);
-    var rePropName = /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
-    var reEscapeChar = /\\(\\)?/g;
-    var stringToPath = function stringToPath2(string) {
-      var first = $strSlice(string, 0, 1);
-      var last = $strSlice(string, -1);
-      if (first === "%" && last !== "%") {
-        throw new $SyntaxError("invalid intrinsic syntax, expected closing `%`");
-      } else if (last === "%" && first !== "%") {
-        throw new $SyntaxError("invalid intrinsic syntax, expected opening `%`");
-      }
-      var result = [];
-      $replace(string, rePropName, function(match, number, quote, subString) {
-        result[result.length] = quote ? $replace(subString, reEscapeChar, "$1") : number || match;
-      });
-      return result;
-    };
-    var getBaseIntrinsic = function getBaseIntrinsic2(name, allowMissing) {
-      var intrinsicName = name;
-      var alias;
-      if (hasOwn(LEGACY_ALIASES, intrinsicName)) {
-        alias = LEGACY_ALIASES[intrinsicName];
-        intrinsicName = "%" + alias[0] + "%";
-      }
-      if (hasOwn(INTRINSICS, intrinsicName)) {
-        var value = INTRINSICS[intrinsicName];
-        if (value === needsEval) {
-          value = doEval(intrinsicName);
-        }
-        if (typeof value === "undefined" && !allowMissing) {
-          throw new $TypeError("intrinsic " + name + " exists, but is not available. Please file an issue!");
-        }
-        return {
-          alias,
-          name: intrinsicName,
-          value
-        };
-      }
-      throw new $SyntaxError("intrinsic " + name + " does not exist!");
-    };
-    module2.exports = function GetIntrinsic(name, allowMissing) {
-      if (typeof name !== "string" || name.length === 0) {
-        throw new $TypeError("intrinsic name must be a non-empty string");
-      }
-      if (arguments.length > 1 && typeof allowMissing !== "boolean") {
-        throw new $TypeError('"allowMissing" argument must be a boolean');
-      }
-      if ($exec(/^%?[^%]*%?$/, name) === null) {
-        throw new $SyntaxError("`%` may not be present anywhere but at the beginning and end of the intrinsic name");
-      }
-      var parts = stringToPath(name);
-      var intrinsicBaseName = parts.length > 0 ? parts[0] : "";
-      var intrinsic = getBaseIntrinsic("%" + intrinsicBaseName + "%", allowMissing);
-      var intrinsicRealName = intrinsic.name;
-      var value = intrinsic.value;
-      var skipFurtherCaching = false;
-      var alias = intrinsic.alias;
-      if (alias) {
-        intrinsicBaseName = alias[0];
-        $spliceApply(parts, $concat([0, 1], alias));
-      }
-      for (var i = 1, isOwn = true; i < parts.length; i += 1) {
-        var part = parts[i];
-        var first = $strSlice(part, 0, 1);
-        var last = $strSlice(part, -1);
-        if ((first === '"' || first === "'" || first === "`" || (last === '"' || last === "'" || last === "`")) && first !== last) {
-          throw new $SyntaxError("property names with quotes must have matching quotes");
-        }
-        if (part === "constructor" || !isOwn) {
-          skipFurtherCaching = true;
-        }
-        intrinsicBaseName += "." + part;
-        intrinsicRealName = "%" + intrinsicBaseName + "%";
-        if (hasOwn(INTRINSICS, intrinsicRealName)) {
-          value = INTRINSICS[intrinsicRealName];
-        } else if (value != null) {
-          if (!(part in value)) {
-            if (!allowMissing) {
-              throw new $TypeError("base intrinsic for " + name + " exists, but the property is not available.");
-            }
-            return void 0;
-          }
-          if ($gOPD && i + 1 >= parts.length) {
-            var desc = $gOPD(value, part);
-            isOwn = !!desc;
-            if (isOwn && "get" in desc && !("originalValue" in desc.get)) {
-              value = desc.get;
-            } else {
-              value = value[part];
-            }
-          } else {
-            isOwn = hasOwn(value, part);
-            value = value[part];
-          }
-          if (isOwn && !skipFurtherCaching) {
-            INTRINSICS[intrinsicRealName] = value;
-          }
-        }
-      }
-      return value;
-    };
-  }
-});
-
-// node_modules/es-define-property/index.js
-var require_es_define_property = __commonJS({
-  "node_modules/es-define-property/index.js"(exports, module2) {
-    "use strict";
-    var GetIntrinsic = require_get_intrinsic();
-    var $defineProperty = GetIntrinsic("%Object.defineProperty%", true) || false;
-    if ($defineProperty) {
-      try {
-        $defineProperty({}, "a", { value: 1 });
-      } catch (e) {
-        $defineProperty = false;
-      }
-    }
-    module2.exports = $defineProperty;
-  }
-});
-
-// node_modules/gopd/index.js
-var require_gopd = __commonJS({
-  "node_modules/gopd/index.js"(exports, module2) {
-    "use strict";
-    var GetIntrinsic = require_get_intrinsic();
-    var $gOPD = GetIntrinsic("%Object.getOwnPropertyDescriptor%", true);
-    if ($gOPD) {
-      try {
-        $gOPD([], "length");
-      } catch (e) {
-        $gOPD = null;
-      }
-    }
-    module2.exports = $gOPD;
-  }
-});
-
-// node_modules/define-data-property/index.js
-var require_define_data_property = __commonJS({
-  "node_modules/define-data-property/index.js"(exports, module2) {
-    "use strict";
-    var $defineProperty = require_es_define_property();
-    var $SyntaxError = require_syntax();
-    var $TypeError = require_type();
-    var gopd = require_gopd();
-    module2.exports = function defineDataProperty(obj, property, value) {
-      if (!obj || typeof obj !== "object" && typeof obj !== "function") {
-        throw new $TypeError("`obj` must be an object or a function`");
-      }
-      if (typeof property !== "string" && typeof property !== "symbol") {
-        throw new $TypeError("`property` must be a string or a symbol`");
-      }
-      if (arguments.length > 3 && typeof arguments[3] !== "boolean" && arguments[3] !== null) {
-        throw new $TypeError("`nonEnumerable`, if provided, must be a boolean or null");
-      }
-      if (arguments.length > 4 && typeof arguments[4] !== "boolean" && arguments[4] !== null) {
-        throw new $TypeError("`nonWritable`, if provided, must be a boolean or null");
-      }
-      if (arguments.length > 5 && typeof arguments[5] !== "boolean" && arguments[5] !== null) {
-        throw new $TypeError("`nonConfigurable`, if provided, must be a boolean or null");
-      }
-      if (arguments.length > 6 && typeof arguments[6] !== "boolean") {
-        throw new $TypeError("`loose`, if provided, must be a boolean");
-      }
-      var nonEnumerable = arguments.length > 3 ? arguments[3] : null;
-      var nonWritable = arguments.length > 4 ? arguments[4] : null;
-      var nonConfigurable = arguments.length > 5 ? arguments[5] : null;
-      var loose = arguments.length > 6 ? arguments[6] : false;
-      var desc = !!gopd && gopd(obj, property);
-      if ($defineProperty) {
-        $defineProperty(obj, property, {
-          configurable: nonConfigurable === null && desc ? desc.configurable : !nonConfigurable,
-          enumerable: nonEnumerable === null && desc ? desc.enumerable : !nonEnumerable,
-          value,
-          writable: nonWritable === null && desc ? desc.writable : !nonWritable
-        });
-      } else if (loose || !nonEnumerable && !nonWritable && !nonConfigurable) {
-        obj[property] = value;
-      } else {
-        throw new $SyntaxError("This environment does not support defining a property as non-configurable, non-writable, or non-enumerable.");
-      }
-    };
-  }
-});
-
-// node_modules/has-property-descriptors/index.js
-var require_has_property_descriptors = __commonJS({
-  "node_modules/has-property-descriptors/index.js"(exports, module2) {
-    "use strict";
-    var $defineProperty = require_es_define_property();
-    var hasPropertyDescriptors = function hasPropertyDescriptors2() {
-      return !!$defineProperty;
-    };
-    hasPropertyDescriptors.hasArrayLengthDefineBug = function hasArrayLengthDefineBug() {
-      if (!$defineProperty) {
-        return null;
-      }
-      try {
-        return $defineProperty([], "length", { value: 1 }).length !== 1;
-      } catch (e) {
-        return true;
-      }
-    };
-    module2.exports = hasPropertyDescriptors;
-  }
-});
-
-// node_modules/set-function-length/index.js
-var require_set_function_length = __commonJS({
-  "node_modules/set-function-length/index.js"(exports, module2) {
-    "use strict";
-    var GetIntrinsic = require_get_intrinsic();
-    var define2 = require_define_data_property();
-    var hasDescriptors = require_has_property_descriptors()();
-    var gOPD = require_gopd();
-    var $TypeError = require_type();
-    var $floor = GetIntrinsic("%Math.floor%");
-    module2.exports = function setFunctionLength(fn, length) {
-      if (typeof fn !== "function") {
-        throw new $TypeError("`fn` is not a function");
-      }
-      if (typeof length !== "number" || length < 0 || length > 4294967295 || $floor(length) !== length) {
-        throw new $TypeError("`length` must be a positive 32-bit integer");
-      }
-      var loose = arguments.length > 2 && !!arguments[2];
-      var functionLengthIsConfigurable = true;
-      var functionLengthIsWritable = true;
-      if ("length" in fn && gOPD) {
-        var desc = gOPD(fn, "length");
-        if (desc && !desc.configurable) {
-          functionLengthIsConfigurable = false;
-        }
-        if (desc && !desc.writable) {
-          functionLengthIsWritable = false;
-        }
-      }
-      if (functionLengthIsConfigurable || functionLengthIsWritable || !loose) {
-        if (hasDescriptors) {
-          define2(fn, "length", length, true, true);
-        } else {
-          define2(fn, "length", length);
-        }
-      }
-      return fn;
-    };
-  }
-});
-
-// node_modules/call-bind/index.js
-var require_call_bind = __commonJS({
-  "node_modules/call-bind/index.js"(exports, module2) {
-    "use strict";
-    var bind = require_function_bind();
-    var GetIntrinsic = require_get_intrinsic();
-    var setFunctionLength = require_set_function_length();
-    var $TypeError = require_type();
-    var $apply = GetIntrinsic("%Function.prototype.apply%");
-    var $call = GetIntrinsic("%Function.prototype.call%");
-    var $reflectApply = GetIntrinsic("%Reflect.apply%", true) || bind.call($call, $apply);
-    var $defineProperty = require_es_define_property();
-    var $max = GetIntrinsic("%Math.max%");
-    module2.exports = function callBind(originalFunction) {
-      if (typeof originalFunction !== "function") {
-        throw new $TypeError("a function is required");
-      }
-      var func = $reflectApply(bind, $call, arguments);
-      return setFunctionLength(func, 1 + $max(0, originalFunction.length - (arguments.length - 1)), true);
-    };
-    var applyBind = function applyBind2() {
-      return $reflectApply(bind, $apply, arguments);
-    };
-    if ($defineProperty) {
-      $defineProperty(module2.exports, "apply", { value: applyBind });
-    } else {
-      module2.exports.apply = applyBind;
-    }
-  }
-});
-
-// node_modules/call-bind/callBound.js
-var require_callBound = __commonJS({
-  "node_modules/call-bind/callBound.js"(exports, module2) {
-    "use strict";
-    var GetIntrinsic = require_get_intrinsic();
-    var callBind = require_call_bind();
-    var $indexOf = callBind(GetIntrinsic("String.prototype.indexOf"));
-    module2.exports = function callBoundIntrinsic(name, allowMissing) {
-      var intrinsic = GetIntrinsic(name, !!allowMissing);
-      if (typeof intrinsic === "function" && $indexOf(name, ".prototype.") > -1) {
-        return callBind(intrinsic);
-      }
-      return intrinsic;
-    };
   }
 });
 
@@ -38269,26 +37534,29 @@ var require_object_inspect = __commonJS({
     function quote(s) {
       return $replace.call(String(s), /"/g, "&quot;");
     }
+    function canTrustToString(obj) {
+      return !toStringTag || !(typeof obj === "object" && (toStringTag in obj || typeof obj[toStringTag] !== "undefined"));
+    }
     function isArray(obj) {
-      return toStr(obj) === "[object Array]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object Array]" && canTrustToString(obj);
     }
     function isDate(obj) {
-      return toStr(obj) === "[object Date]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object Date]" && canTrustToString(obj);
     }
     function isRegExp(obj) {
-      return toStr(obj) === "[object RegExp]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object RegExp]" && canTrustToString(obj);
     }
     function isError(obj) {
-      return toStr(obj) === "[object Error]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object Error]" && canTrustToString(obj);
     }
     function isString(obj) {
-      return toStr(obj) === "[object String]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object String]" && canTrustToString(obj);
     }
     function isNumber(obj) {
-      return toStr(obj) === "[object Number]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object Number]" && canTrustToString(obj);
     }
     function isBoolean(obj) {
-      return toStr(obj) === "[object Boolean]" && (!toStringTag || !(typeof obj === "object" && toStringTag in obj));
+      return toStr(obj) === "[object Boolean]" && canTrustToString(obj);
     }
     function isSymbol(obj) {
       if (hasShammedSymbols) {
@@ -38540,35 +37808,30 @@ var require_object_inspect = __commonJS({
   }
 });
 
-// node_modules/side-channel/index.js
-var require_side_channel = __commonJS({
-  "node_modules/side-channel/index.js"(exports, module2) {
+// node_modules/side-channel-list/index.js
+var require_side_channel_list = __commonJS({
+  "node_modules/side-channel-list/index.js"(exports, module2) {
     "use strict";
-    var GetIntrinsic = require_get_intrinsic();
-    var callBound = require_callBound();
     var inspect = require_object_inspect();
     var $TypeError = require_type();
-    var $WeakMap = GetIntrinsic("%WeakMap%", true);
-    var $Map = GetIntrinsic("%Map%", true);
-    var $weakMapGet = callBound("WeakMap.prototype.get", true);
-    var $weakMapSet = callBound("WeakMap.prototype.set", true);
-    var $weakMapHas = callBound("WeakMap.prototype.has", true);
-    var $mapGet = callBound("Map.prototype.get", true);
-    var $mapSet = callBound("Map.prototype.set", true);
-    var $mapHas = callBound("Map.prototype.has", true);
-    var listGetNode = function(list, key) {
+    var listGetNode = function(list, key, isDelete) {
       var prev = list;
       var curr;
-      for (; (curr = prev.next) !== null; prev = curr) {
+      for (; (curr = prev.next) != null; prev = curr) {
         if (curr.key === key) {
           prev.next = curr.next;
-          curr.next = list.next;
-          list.next = curr;
+          if (!isDelete) {
+            curr.next = list.next;
+            list.next = curr;
+          }
           return curr;
         }
       }
     };
     var listGet = function(objects, key) {
+      if (!objects) {
+        return void 0;
+      }
       var node = listGetNode(objects, key);
       return node && node.value;
     };
@@ -38585,11 +37848,17 @@ var require_side_channel = __commonJS({
       }
     };
     var listHas = function(objects, key) {
+      if (!objects) {
+        return false;
+      }
       return !!listGetNode(objects, key);
     };
-    module2.exports = function getSideChannel() {
-      var $wm;
-      var $m;
+    var listDelete = function(objects, key) {
+      if (objects) {
+        return listGetNode(objects, key, true);
+      }
+    };
+    module2.exports = function getSideChannelList() {
       var $o;
       var channel = {
         assert: function(key) {
@@ -38597,36 +37866,933 @@ var require_side_channel = __commonJS({
             throw new $TypeError("Side channel does not contain " + inspect(key));
           }
         },
+        "delete": function(key) {
+          var root = $o && $o.next;
+          var deletedNode = listDelete($o, key);
+          if (deletedNode && root && root === deletedNode) {
+            $o = void 0;
+          }
+          return !!deletedNode;
+        },
+        get: function(key) {
+          return listGet($o, key);
+        },
+        has: function(key) {
+          return listHas($o, key);
+        },
+        set: function(key, value) {
+          if (!$o) {
+            $o = {
+              next: void 0
+            };
+          }
+          listSet($o, key, value);
+        }
+      };
+      return channel;
+    };
+  }
+});
+
+// node_modules/es-object-atoms/index.js
+var require_es_object_atoms = __commonJS({
+  "node_modules/es-object-atoms/index.js"(exports, module2) {
+    "use strict";
+    module2.exports = Object;
+  }
+});
+
+// node_modules/es-errors/index.js
+var require_es_errors = __commonJS({
+  "node_modules/es-errors/index.js"(exports, module2) {
+    "use strict";
+    module2.exports = Error;
+  }
+});
+
+// node_modules/es-errors/eval.js
+var require_eval = __commonJS({
+  "node_modules/es-errors/eval.js"(exports, module2) {
+    "use strict";
+    module2.exports = EvalError;
+  }
+});
+
+// node_modules/es-errors/range.js
+var require_range = __commonJS({
+  "node_modules/es-errors/range.js"(exports, module2) {
+    "use strict";
+    module2.exports = RangeError;
+  }
+});
+
+// node_modules/es-errors/ref.js
+var require_ref = __commonJS({
+  "node_modules/es-errors/ref.js"(exports, module2) {
+    "use strict";
+    module2.exports = ReferenceError;
+  }
+});
+
+// node_modules/es-errors/syntax.js
+var require_syntax = __commonJS({
+  "node_modules/es-errors/syntax.js"(exports, module2) {
+    "use strict";
+    module2.exports = SyntaxError;
+  }
+});
+
+// node_modules/es-errors/uri.js
+var require_uri = __commonJS({
+  "node_modules/es-errors/uri.js"(exports, module2) {
+    "use strict";
+    module2.exports = URIError;
+  }
+});
+
+// node_modules/math-intrinsics/abs.js
+var require_abs = __commonJS({
+  "node_modules/math-intrinsics/abs.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.abs;
+  }
+});
+
+// node_modules/math-intrinsics/floor.js
+var require_floor = __commonJS({
+  "node_modules/math-intrinsics/floor.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.floor;
+  }
+});
+
+// node_modules/math-intrinsics/max.js
+var require_max = __commonJS({
+  "node_modules/math-intrinsics/max.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.max;
+  }
+});
+
+// node_modules/math-intrinsics/min.js
+var require_min = __commonJS({
+  "node_modules/math-intrinsics/min.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.min;
+  }
+});
+
+// node_modules/math-intrinsics/pow.js
+var require_pow = __commonJS({
+  "node_modules/math-intrinsics/pow.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.pow;
+  }
+});
+
+// node_modules/math-intrinsics/round.js
+var require_round = __commonJS({
+  "node_modules/math-intrinsics/round.js"(exports, module2) {
+    "use strict";
+    module2.exports = Math.round;
+  }
+});
+
+// node_modules/math-intrinsics/isNaN.js
+var require_isNaN = __commonJS({
+  "node_modules/math-intrinsics/isNaN.js"(exports, module2) {
+    "use strict";
+    module2.exports = Number.isNaN || function isNaN2(a) {
+      return a !== a;
+    };
+  }
+});
+
+// node_modules/math-intrinsics/sign.js
+var require_sign = __commonJS({
+  "node_modules/math-intrinsics/sign.js"(exports, module2) {
+    "use strict";
+    var $isNaN = require_isNaN();
+    module2.exports = function sign(number) {
+      if ($isNaN(number) || number === 0) {
+        return number;
+      }
+      return number < 0 ? -1 : 1;
+    };
+  }
+});
+
+// node_modules/gopd/gOPD.js
+var require_gOPD = __commonJS({
+  "node_modules/gopd/gOPD.js"(exports, module2) {
+    "use strict";
+    module2.exports = Object.getOwnPropertyDescriptor;
+  }
+});
+
+// node_modules/gopd/index.js
+var require_gopd = __commonJS({
+  "node_modules/gopd/index.js"(exports, module2) {
+    "use strict";
+    var $gOPD = require_gOPD();
+    if ($gOPD) {
+      try {
+        $gOPD([], "length");
+      } catch (e) {
+        $gOPD = null;
+      }
+    }
+    module2.exports = $gOPD;
+  }
+});
+
+// node_modules/es-define-property/index.js
+var require_es_define_property = __commonJS({
+  "node_modules/es-define-property/index.js"(exports, module2) {
+    "use strict";
+    var $defineProperty = Object.defineProperty || false;
+    if ($defineProperty) {
+      try {
+        $defineProperty({}, "a", { value: 1 });
+      } catch (e) {
+        $defineProperty = false;
+      }
+    }
+    module2.exports = $defineProperty;
+  }
+});
+
+// node_modules/has-symbols/shams.js
+var require_shams = __commonJS({
+  "node_modules/has-symbols/shams.js"(exports, module2) {
+    "use strict";
+    module2.exports = function hasSymbols() {
+      if (typeof Symbol !== "function" || typeof Object.getOwnPropertySymbols !== "function") {
+        return false;
+      }
+      if (typeof Symbol.iterator === "symbol") {
+        return true;
+      }
+      var obj = {};
+      var sym = Symbol("test");
+      var symObj = Object(sym);
+      if (typeof sym === "string") {
+        return false;
+      }
+      if (Object.prototype.toString.call(sym) !== "[object Symbol]") {
+        return false;
+      }
+      if (Object.prototype.toString.call(symObj) !== "[object Symbol]") {
+        return false;
+      }
+      var symVal = 42;
+      obj[sym] = symVal;
+      for (var _ in obj) {
+        return false;
+      }
+      if (typeof Object.keys === "function" && Object.keys(obj).length !== 0) {
+        return false;
+      }
+      if (typeof Object.getOwnPropertyNames === "function" && Object.getOwnPropertyNames(obj).length !== 0) {
+        return false;
+      }
+      var syms = Object.getOwnPropertySymbols(obj);
+      if (syms.length !== 1 || syms[0] !== sym) {
+        return false;
+      }
+      if (!Object.prototype.propertyIsEnumerable.call(obj, sym)) {
+        return false;
+      }
+      if (typeof Object.getOwnPropertyDescriptor === "function") {
+        var descriptor = Object.getOwnPropertyDescriptor(obj, sym);
+        if (descriptor.value !== symVal || descriptor.enumerable !== true) {
+          return false;
+        }
+      }
+      return true;
+    };
+  }
+});
+
+// node_modules/has-symbols/index.js
+var require_has_symbols = __commonJS({
+  "node_modules/has-symbols/index.js"(exports, module2) {
+    "use strict";
+    var origSymbol = typeof Symbol !== "undefined" && Symbol;
+    var hasSymbolSham = require_shams();
+    module2.exports = function hasNativeSymbols() {
+      if (typeof origSymbol !== "function") {
+        return false;
+      }
+      if (typeof Symbol !== "function") {
+        return false;
+      }
+      if (typeof origSymbol("foo") !== "symbol") {
+        return false;
+      }
+      if (typeof Symbol("bar") !== "symbol") {
+        return false;
+      }
+      return hasSymbolSham();
+    };
+  }
+});
+
+// node_modules/get-proto/Reflect.getPrototypeOf.js
+var require_Reflect_getPrototypeOf = __commonJS({
+  "node_modules/get-proto/Reflect.getPrototypeOf.js"(exports, module2) {
+    "use strict";
+    module2.exports = typeof Reflect !== "undefined" && Reflect.getPrototypeOf || null;
+  }
+});
+
+// node_modules/get-proto/Object.getPrototypeOf.js
+var require_Object_getPrototypeOf = __commonJS({
+  "node_modules/get-proto/Object.getPrototypeOf.js"(exports, module2) {
+    "use strict";
+    var $Object = require_es_object_atoms();
+    module2.exports = $Object.getPrototypeOf || null;
+  }
+});
+
+// node_modules/function-bind/implementation.js
+var require_implementation = __commonJS({
+  "node_modules/function-bind/implementation.js"(exports, module2) {
+    "use strict";
+    var ERROR_MESSAGE = "Function.prototype.bind called on incompatible ";
+    var toStr = Object.prototype.toString;
+    var max = Math.max;
+    var funcType = "[object Function]";
+    var concatty = function concatty2(a, b) {
+      var arr = [];
+      for (var i = 0; i < a.length; i += 1) {
+        arr[i] = a[i];
+      }
+      for (var j = 0; j < b.length; j += 1) {
+        arr[j + a.length] = b[j];
+      }
+      return arr;
+    };
+    var slicy = function slicy2(arrLike, offset) {
+      var arr = [];
+      for (var i = offset || 0, j = 0; i < arrLike.length; i += 1, j += 1) {
+        arr[j] = arrLike[i];
+      }
+      return arr;
+    };
+    var joiny = function(arr, joiner) {
+      var str = "";
+      for (var i = 0; i < arr.length; i += 1) {
+        str += arr[i];
+        if (i + 1 < arr.length) {
+          str += joiner;
+        }
+      }
+      return str;
+    };
+    module2.exports = function bind(that) {
+      var target = this;
+      if (typeof target !== "function" || toStr.apply(target) !== funcType) {
+        throw new TypeError(ERROR_MESSAGE + target);
+      }
+      var args = slicy(arguments, 1);
+      var bound;
+      var binder = function() {
+        if (this instanceof bound) {
+          var result = target.apply(this, concatty(args, arguments));
+          if (Object(result) === result) {
+            return result;
+          }
+          return this;
+        }
+        return target.apply(that, concatty(args, arguments));
+      };
+      var boundLength = max(0, target.length - args.length);
+      var boundArgs = [];
+      for (var i = 0; i < boundLength; i++) {
+        boundArgs[i] = "$" + i;
+      }
+      bound = Function("binder", "return function (" + joiny(boundArgs, ",") + "){ return binder.apply(this,arguments); }")(binder);
+      if (target.prototype) {
+        var Empty = function Empty2() {
+        };
+        Empty.prototype = target.prototype;
+        bound.prototype = new Empty();
+        Empty.prototype = null;
+      }
+      return bound;
+    };
+  }
+});
+
+// node_modules/function-bind/index.js
+var require_function_bind = __commonJS({
+  "node_modules/function-bind/index.js"(exports, module2) {
+    "use strict";
+    var implementation = require_implementation();
+    module2.exports = Function.prototype.bind || implementation;
+  }
+});
+
+// node_modules/call-bind-apply-helpers/functionCall.js
+var require_functionCall = __commonJS({
+  "node_modules/call-bind-apply-helpers/functionCall.js"(exports, module2) {
+    "use strict";
+    module2.exports = Function.prototype.call;
+  }
+});
+
+// node_modules/call-bind-apply-helpers/functionApply.js
+var require_functionApply = __commonJS({
+  "node_modules/call-bind-apply-helpers/functionApply.js"(exports, module2) {
+    "use strict";
+    module2.exports = Function.prototype.apply;
+  }
+});
+
+// node_modules/call-bind-apply-helpers/reflectApply.js
+var require_reflectApply = __commonJS({
+  "node_modules/call-bind-apply-helpers/reflectApply.js"(exports, module2) {
+    "use strict";
+    module2.exports = typeof Reflect !== "undefined" && Reflect && Reflect.apply;
+  }
+});
+
+// node_modules/call-bind-apply-helpers/actualApply.js
+var require_actualApply = __commonJS({
+  "node_modules/call-bind-apply-helpers/actualApply.js"(exports, module2) {
+    "use strict";
+    var bind = require_function_bind();
+    var $apply = require_functionApply();
+    var $call = require_functionCall();
+    var $reflectApply = require_reflectApply();
+    module2.exports = $reflectApply || bind.call($call, $apply);
+  }
+});
+
+// node_modules/call-bind-apply-helpers/index.js
+var require_call_bind_apply_helpers = __commonJS({
+  "node_modules/call-bind-apply-helpers/index.js"(exports, module2) {
+    "use strict";
+    var bind = require_function_bind();
+    var $TypeError = require_type();
+    var $call = require_functionCall();
+    var $actualApply = require_actualApply();
+    module2.exports = function callBindBasic(args) {
+      if (args.length < 1 || typeof args[0] !== "function") {
+        throw new $TypeError("a function is required");
+      }
+      return $actualApply(bind, $call, args);
+    };
+  }
+});
+
+// node_modules/dunder-proto/get.js
+var require_get = __commonJS({
+  "node_modules/dunder-proto/get.js"(exports, module2) {
+    "use strict";
+    var callBind = require_call_bind_apply_helpers();
+    var gOPD = require_gopd();
+    var hasProtoAccessor;
+    try {
+      hasProtoAccessor = [].__proto__ === Array.prototype;
+    } catch (e) {
+      if (!e || typeof e !== "object" || !("code" in e) || e.code !== "ERR_PROTO_ACCESS") {
+        throw e;
+      }
+    }
+    var desc = !!hasProtoAccessor && gOPD && gOPD(Object.prototype, "__proto__");
+    var $Object = Object;
+    var $getPrototypeOf = $Object.getPrototypeOf;
+    module2.exports = desc && typeof desc.get === "function" ? callBind([desc.get]) : typeof $getPrototypeOf === "function" ? function getDunder(value) {
+      return $getPrototypeOf(value == null ? value : $Object(value));
+    } : false;
+  }
+});
+
+// node_modules/get-proto/index.js
+var require_get_proto = __commonJS({
+  "node_modules/get-proto/index.js"(exports, module2) {
+    "use strict";
+    var reflectGetProto = require_Reflect_getPrototypeOf();
+    var originalGetProto = require_Object_getPrototypeOf();
+    var getDunderProto = require_get();
+    module2.exports = reflectGetProto ? function getProto(O) {
+      return reflectGetProto(O);
+    } : originalGetProto ? function getProto(O) {
+      if (!O || typeof O !== "object" && typeof O !== "function") {
+        throw new TypeError("getProto: not an object");
+      }
+      return originalGetProto(O);
+    } : getDunderProto ? function getProto(O) {
+      return getDunderProto(O);
+    } : null;
+  }
+});
+
+// node_modules/hasown/index.js
+var require_hasown = __commonJS({
+  "node_modules/hasown/index.js"(exports, module2) {
+    "use strict";
+    var call = Function.prototype.call;
+    var $hasOwn = Object.prototype.hasOwnProperty;
+    var bind = require_function_bind();
+    module2.exports = bind.call(call, $hasOwn);
+  }
+});
+
+// node_modules/get-intrinsic/index.js
+var require_get_intrinsic = __commonJS({
+  "node_modules/get-intrinsic/index.js"(exports, module2) {
+    "use strict";
+    var undefined2;
+    var $Object = require_es_object_atoms();
+    var $Error = require_es_errors();
+    var $EvalError = require_eval();
+    var $RangeError = require_range();
+    var $ReferenceError = require_ref();
+    var $SyntaxError = require_syntax();
+    var $TypeError = require_type();
+    var $URIError = require_uri();
+    var abs = require_abs();
+    var floor = require_floor();
+    var max = require_max();
+    var min = require_min();
+    var pow = require_pow();
+    var round = require_round();
+    var sign = require_sign();
+    var $Function = Function;
+    var getEvalledConstructor = function(expressionSyntax) {
+      try {
+        return $Function('"use strict"; return (' + expressionSyntax + ").constructor;")();
+      } catch (e) {
+      }
+    };
+    var $gOPD = require_gopd();
+    var $defineProperty = require_es_define_property();
+    var throwTypeError = function() {
+      throw new $TypeError();
+    };
+    var ThrowTypeError = $gOPD ? function() {
+      try {
+        arguments.callee;
+        return throwTypeError;
+      } catch (calleeThrows) {
+        try {
+          return $gOPD(arguments, "callee").get;
+        } catch (gOPDthrows) {
+          return throwTypeError;
+        }
+      }
+    }() : throwTypeError;
+    var hasSymbols = require_has_symbols()();
+    var getProto = require_get_proto();
+    var $ObjectGPO = require_Object_getPrototypeOf();
+    var $ReflectGPO = require_Reflect_getPrototypeOf();
+    var $apply = require_functionApply();
+    var $call = require_functionCall();
+    var needsEval = {};
+    var TypedArray = typeof Uint8Array === "undefined" || !getProto ? undefined2 : getProto(Uint8Array);
+    var INTRINSICS = {
+      __proto__: null,
+      "%AggregateError%": typeof AggregateError === "undefined" ? undefined2 : AggregateError,
+      "%Array%": Array,
+      "%ArrayBuffer%": typeof ArrayBuffer === "undefined" ? undefined2 : ArrayBuffer,
+      "%ArrayIteratorPrototype%": hasSymbols && getProto ? getProto([][Symbol.iterator]()) : undefined2,
+      "%AsyncFromSyncIteratorPrototype%": undefined2,
+      "%AsyncFunction%": needsEval,
+      "%AsyncGenerator%": needsEval,
+      "%AsyncGeneratorFunction%": needsEval,
+      "%AsyncIteratorPrototype%": needsEval,
+      "%Atomics%": typeof Atomics === "undefined" ? undefined2 : Atomics,
+      "%BigInt%": typeof BigInt === "undefined" ? undefined2 : BigInt,
+      "%BigInt64Array%": typeof BigInt64Array === "undefined" ? undefined2 : BigInt64Array,
+      "%BigUint64Array%": typeof BigUint64Array === "undefined" ? undefined2 : BigUint64Array,
+      "%Boolean%": Boolean,
+      "%DataView%": typeof DataView === "undefined" ? undefined2 : DataView,
+      "%Date%": Date,
+      "%decodeURI%": decodeURI,
+      "%decodeURIComponent%": decodeURIComponent,
+      "%encodeURI%": encodeURI,
+      "%encodeURIComponent%": encodeURIComponent,
+      "%Error%": $Error,
+      "%eval%": eval,
+      "%EvalError%": $EvalError,
+      "%Float16Array%": typeof Float16Array === "undefined" ? undefined2 : Float16Array,
+      "%Float32Array%": typeof Float32Array === "undefined" ? undefined2 : Float32Array,
+      "%Float64Array%": typeof Float64Array === "undefined" ? undefined2 : Float64Array,
+      "%FinalizationRegistry%": typeof FinalizationRegistry === "undefined" ? undefined2 : FinalizationRegistry,
+      "%Function%": $Function,
+      "%GeneratorFunction%": needsEval,
+      "%Int8Array%": typeof Int8Array === "undefined" ? undefined2 : Int8Array,
+      "%Int16Array%": typeof Int16Array === "undefined" ? undefined2 : Int16Array,
+      "%Int32Array%": typeof Int32Array === "undefined" ? undefined2 : Int32Array,
+      "%isFinite%": isFinite,
+      "%isNaN%": isNaN,
+      "%IteratorPrototype%": hasSymbols && getProto ? getProto(getProto([][Symbol.iterator]())) : undefined2,
+      "%JSON%": typeof JSON === "object" ? JSON : undefined2,
+      "%Map%": typeof Map === "undefined" ? undefined2 : Map,
+      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto(new Map()[Symbol.iterator]()),
+      "%Math%": Math,
+      "%Number%": Number,
+      "%Object%": $Object,
+      "%Object.getOwnPropertyDescriptor%": $gOPD,
+      "%parseFloat%": parseFloat,
+      "%parseInt%": parseInt,
+      "%Promise%": typeof Promise === "undefined" ? undefined2 : Promise,
+      "%Proxy%": typeof Proxy === "undefined" ? undefined2 : Proxy,
+      "%RangeError%": $RangeError,
+      "%ReferenceError%": $ReferenceError,
+      "%Reflect%": typeof Reflect === "undefined" ? undefined2 : Reflect,
+      "%RegExp%": RegExp,
+      "%Set%": typeof Set === "undefined" ? undefined2 : Set,
+      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto(new Set()[Symbol.iterator]()),
+      "%SharedArrayBuffer%": typeof SharedArrayBuffer === "undefined" ? undefined2 : SharedArrayBuffer,
+      "%String%": String,
+      "%StringIteratorPrototype%": hasSymbols && getProto ? getProto(""[Symbol.iterator]()) : undefined2,
+      "%Symbol%": hasSymbols ? Symbol : undefined2,
+      "%SyntaxError%": $SyntaxError,
+      "%ThrowTypeError%": ThrowTypeError,
+      "%TypedArray%": TypedArray,
+      "%TypeError%": $TypeError,
+      "%Uint8Array%": typeof Uint8Array === "undefined" ? undefined2 : Uint8Array,
+      "%Uint8ClampedArray%": typeof Uint8ClampedArray === "undefined" ? undefined2 : Uint8ClampedArray,
+      "%Uint16Array%": typeof Uint16Array === "undefined" ? undefined2 : Uint16Array,
+      "%Uint32Array%": typeof Uint32Array === "undefined" ? undefined2 : Uint32Array,
+      "%URIError%": $URIError,
+      "%WeakMap%": typeof WeakMap === "undefined" ? undefined2 : WeakMap,
+      "%WeakRef%": typeof WeakRef === "undefined" ? undefined2 : WeakRef,
+      "%WeakSet%": typeof WeakSet === "undefined" ? undefined2 : WeakSet,
+      "%Function.prototype.call%": $call,
+      "%Function.prototype.apply%": $apply,
+      "%Object.defineProperty%": $defineProperty,
+      "%Object.getPrototypeOf%": $ObjectGPO,
+      "%Math.abs%": abs,
+      "%Math.floor%": floor,
+      "%Math.max%": max,
+      "%Math.min%": min,
+      "%Math.pow%": pow,
+      "%Math.round%": round,
+      "%Math.sign%": sign,
+      "%Reflect.getPrototypeOf%": $ReflectGPO
+    };
+    if (getProto) {
+      try {
+        null.error;
+      } catch (e) {
+        errorProto = getProto(getProto(e));
+        INTRINSICS["%Error.prototype%"] = errorProto;
+      }
+    }
+    var errorProto;
+    var doEval = function doEval2(name) {
+      var value;
+      if (name === "%AsyncFunction%") {
+        value = getEvalledConstructor("async function () {}");
+      } else if (name === "%GeneratorFunction%") {
+        value = getEvalledConstructor("function* () {}");
+      } else if (name === "%AsyncGeneratorFunction%") {
+        value = getEvalledConstructor("async function* () {}");
+      } else if (name === "%AsyncGenerator%") {
+        var fn = doEval2("%AsyncGeneratorFunction%");
+        if (fn) {
+          value = fn.prototype;
+        }
+      } else if (name === "%AsyncIteratorPrototype%") {
+        var gen = doEval2("%AsyncGenerator%");
+        if (gen && getProto) {
+          value = getProto(gen.prototype);
+        }
+      }
+      INTRINSICS[name] = value;
+      return value;
+    };
+    var LEGACY_ALIASES = {
+      __proto__: null,
+      "%ArrayBufferPrototype%": ["ArrayBuffer", "prototype"],
+      "%ArrayPrototype%": ["Array", "prototype"],
+      "%ArrayProto_entries%": ["Array", "prototype", "entries"],
+      "%ArrayProto_forEach%": ["Array", "prototype", "forEach"],
+      "%ArrayProto_keys%": ["Array", "prototype", "keys"],
+      "%ArrayProto_values%": ["Array", "prototype", "values"],
+      "%AsyncFunctionPrototype%": ["AsyncFunction", "prototype"],
+      "%AsyncGenerator%": ["AsyncGeneratorFunction", "prototype"],
+      "%AsyncGeneratorPrototype%": ["AsyncGeneratorFunction", "prototype", "prototype"],
+      "%BooleanPrototype%": ["Boolean", "prototype"],
+      "%DataViewPrototype%": ["DataView", "prototype"],
+      "%DatePrototype%": ["Date", "prototype"],
+      "%ErrorPrototype%": ["Error", "prototype"],
+      "%EvalErrorPrototype%": ["EvalError", "prototype"],
+      "%Float32ArrayPrototype%": ["Float32Array", "prototype"],
+      "%Float64ArrayPrototype%": ["Float64Array", "prototype"],
+      "%FunctionPrototype%": ["Function", "prototype"],
+      "%Generator%": ["GeneratorFunction", "prototype"],
+      "%GeneratorPrototype%": ["GeneratorFunction", "prototype", "prototype"],
+      "%Int8ArrayPrototype%": ["Int8Array", "prototype"],
+      "%Int16ArrayPrototype%": ["Int16Array", "prototype"],
+      "%Int32ArrayPrototype%": ["Int32Array", "prototype"],
+      "%JSONParse%": ["JSON", "parse"],
+      "%JSONStringify%": ["JSON", "stringify"],
+      "%MapPrototype%": ["Map", "prototype"],
+      "%NumberPrototype%": ["Number", "prototype"],
+      "%ObjectPrototype%": ["Object", "prototype"],
+      "%ObjProto_toString%": ["Object", "prototype", "toString"],
+      "%ObjProto_valueOf%": ["Object", "prototype", "valueOf"],
+      "%PromisePrototype%": ["Promise", "prototype"],
+      "%PromiseProto_then%": ["Promise", "prototype", "then"],
+      "%Promise_all%": ["Promise", "all"],
+      "%Promise_reject%": ["Promise", "reject"],
+      "%Promise_resolve%": ["Promise", "resolve"],
+      "%RangeErrorPrototype%": ["RangeError", "prototype"],
+      "%ReferenceErrorPrototype%": ["ReferenceError", "prototype"],
+      "%RegExpPrototype%": ["RegExp", "prototype"],
+      "%SetPrototype%": ["Set", "prototype"],
+      "%SharedArrayBufferPrototype%": ["SharedArrayBuffer", "prototype"],
+      "%StringPrototype%": ["String", "prototype"],
+      "%SymbolPrototype%": ["Symbol", "prototype"],
+      "%SyntaxErrorPrototype%": ["SyntaxError", "prototype"],
+      "%TypedArrayPrototype%": ["TypedArray", "prototype"],
+      "%TypeErrorPrototype%": ["TypeError", "prototype"],
+      "%Uint8ArrayPrototype%": ["Uint8Array", "prototype"],
+      "%Uint8ClampedArrayPrototype%": ["Uint8ClampedArray", "prototype"],
+      "%Uint16ArrayPrototype%": ["Uint16Array", "prototype"],
+      "%Uint32ArrayPrototype%": ["Uint32Array", "prototype"],
+      "%URIErrorPrototype%": ["URIError", "prototype"],
+      "%WeakMapPrototype%": ["WeakMap", "prototype"],
+      "%WeakSetPrototype%": ["WeakSet", "prototype"]
+    };
+    var bind = require_function_bind();
+    var hasOwn = require_hasown();
+    var $concat = bind.call($call, Array.prototype.concat);
+    var $spliceApply = bind.call($apply, Array.prototype.splice);
+    var $replace = bind.call($call, String.prototype.replace);
+    var $strSlice = bind.call($call, String.prototype.slice);
+    var $exec = bind.call($call, RegExp.prototype.exec);
+    var rePropName = /[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))/g;
+    var reEscapeChar = /\\(\\)?/g;
+    var stringToPath = function stringToPath2(string) {
+      var first = $strSlice(string, 0, 1);
+      var last = $strSlice(string, -1);
+      if (first === "%" && last !== "%") {
+        throw new $SyntaxError("invalid intrinsic syntax, expected closing `%`");
+      } else if (last === "%" && first !== "%") {
+        throw new $SyntaxError("invalid intrinsic syntax, expected opening `%`");
+      }
+      var result = [];
+      $replace(string, rePropName, function(match, number, quote, subString) {
+        result[result.length] = quote ? $replace(subString, reEscapeChar, "$1") : number || match;
+      });
+      return result;
+    };
+    var getBaseIntrinsic = function getBaseIntrinsic2(name, allowMissing) {
+      var intrinsicName = name;
+      var alias;
+      if (hasOwn(LEGACY_ALIASES, intrinsicName)) {
+        alias = LEGACY_ALIASES[intrinsicName];
+        intrinsicName = "%" + alias[0] + "%";
+      }
+      if (hasOwn(INTRINSICS, intrinsicName)) {
+        var value = INTRINSICS[intrinsicName];
+        if (value === needsEval) {
+          value = doEval(intrinsicName);
+        }
+        if (typeof value === "undefined" && !allowMissing) {
+          throw new $TypeError("intrinsic " + name + " exists, but is not available. Please file an issue!");
+        }
+        return {
+          alias,
+          name: intrinsicName,
+          value
+        };
+      }
+      throw new $SyntaxError("intrinsic " + name + " does not exist!");
+    };
+    module2.exports = function GetIntrinsic(name, allowMissing) {
+      if (typeof name !== "string" || name.length === 0) {
+        throw new $TypeError("intrinsic name must be a non-empty string");
+      }
+      if (arguments.length > 1 && typeof allowMissing !== "boolean") {
+        throw new $TypeError('"allowMissing" argument must be a boolean');
+      }
+      if ($exec(/^%?[^%]*%?$/, name) === null) {
+        throw new $SyntaxError("`%` may not be present anywhere but at the beginning and end of the intrinsic name");
+      }
+      var parts = stringToPath(name);
+      var intrinsicBaseName = parts.length > 0 ? parts[0] : "";
+      var intrinsic = getBaseIntrinsic("%" + intrinsicBaseName + "%", allowMissing);
+      var intrinsicRealName = intrinsic.name;
+      var value = intrinsic.value;
+      var skipFurtherCaching = false;
+      var alias = intrinsic.alias;
+      if (alias) {
+        intrinsicBaseName = alias[0];
+        $spliceApply(parts, $concat([0, 1], alias));
+      }
+      for (var i = 1, isOwn = true; i < parts.length; i += 1) {
+        var part = parts[i];
+        var first = $strSlice(part, 0, 1);
+        var last = $strSlice(part, -1);
+        if ((first === '"' || first === "'" || first === "`" || (last === '"' || last === "'" || last === "`")) && first !== last) {
+          throw new $SyntaxError("property names with quotes must have matching quotes");
+        }
+        if (part === "constructor" || !isOwn) {
+          skipFurtherCaching = true;
+        }
+        intrinsicBaseName += "." + part;
+        intrinsicRealName = "%" + intrinsicBaseName + "%";
+        if (hasOwn(INTRINSICS, intrinsicRealName)) {
+          value = INTRINSICS[intrinsicRealName];
+        } else if (value != null) {
+          if (!(part in value)) {
+            if (!allowMissing) {
+              throw new $TypeError("base intrinsic for " + name + " exists, but the property is not available.");
+            }
+            return void 0;
+          }
+          if ($gOPD && i + 1 >= parts.length) {
+            var desc = $gOPD(value, part);
+            isOwn = !!desc;
+            if (isOwn && "get" in desc && !("originalValue" in desc.get)) {
+              value = desc.get;
+            } else {
+              value = value[part];
+            }
+          } else {
+            isOwn = hasOwn(value, part);
+            value = value[part];
+          }
+          if (isOwn && !skipFurtherCaching) {
+            INTRINSICS[intrinsicRealName] = value;
+          }
+        }
+      }
+      return value;
+    };
+  }
+});
+
+// node_modules/call-bound/index.js
+var require_call_bound = __commonJS({
+  "node_modules/call-bound/index.js"(exports, module2) {
+    "use strict";
+    var GetIntrinsic = require_get_intrinsic();
+    var callBindBasic = require_call_bind_apply_helpers();
+    var $indexOf = callBindBasic([GetIntrinsic("%String.prototype.indexOf%")]);
+    module2.exports = function callBoundIntrinsic(name, allowMissing) {
+      var intrinsic = GetIntrinsic(name, !!allowMissing);
+      if (typeof intrinsic === "function" && $indexOf(name, ".prototype.") > -1) {
+        return callBindBasic([intrinsic]);
+      }
+      return intrinsic;
+    };
+  }
+});
+
+// node_modules/side-channel-map/index.js
+var require_side_channel_map = __commonJS({
+  "node_modules/side-channel-map/index.js"(exports, module2) {
+    "use strict";
+    var GetIntrinsic = require_get_intrinsic();
+    var callBound = require_call_bound();
+    var inspect = require_object_inspect();
+    var $TypeError = require_type();
+    var $Map = GetIntrinsic("%Map%", true);
+    var $mapGet = callBound("Map.prototype.get", true);
+    var $mapSet = callBound("Map.prototype.set", true);
+    var $mapHas = callBound("Map.prototype.has", true);
+    var $mapDelete = callBound("Map.prototype.delete", true);
+    var $mapSize = callBound("Map.prototype.size", true);
+    module2.exports = !!$Map && function getSideChannelMap() {
+      var $m;
+      var channel = {
+        assert: function(key) {
+          if (!channel.has(key)) {
+            throw new $TypeError("Side channel does not contain " + inspect(key));
+          }
+        },
+        "delete": function(key) {
+          if ($m) {
+            var result = $mapDelete($m, key);
+            if ($mapSize($m) === 0) {
+              $m = void 0;
+            }
+            return result;
+          }
+          return false;
+        },
+        get: function(key) {
+          if ($m) {
+            return $mapGet($m, key);
+          }
+        },
+        has: function(key) {
+          if ($m) {
+            return $mapHas($m, key);
+          }
+          return false;
+        },
+        set: function(key, value) {
+          if (!$m) {
+            $m = new $Map();
+          }
+          $mapSet($m, key, value);
+        }
+      };
+      return channel;
+    };
+  }
+});
+
+// node_modules/side-channel-weakmap/index.js
+var require_side_channel_weakmap = __commonJS({
+  "node_modules/side-channel-weakmap/index.js"(exports, module2) {
+    "use strict";
+    var GetIntrinsic = require_get_intrinsic();
+    var callBound = require_call_bound();
+    var inspect = require_object_inspect();
+    var getSideChannelMap = require_side_channel_map();
+    var $TypeError = require_type();
+    var $WeakMap = GetIntrinsic("%WeakMap%", true);
+    var $weakMapGet = callBound("WeakMap.prototype.get", true);
+    var $weakMapSet = callBound("WeakMap.prototype.set", true);
+    var $weakMapHas = callBound("WeakMap.prototype.has", true);
+    var $weakMapDelete = callBound("WeakMap.prototype.delete", true);
+    module2.exports = $WeakMap ? function getSideChannelWeakMap() {
+      var $wm;
+      var $m;
+      var channel = {
+        assert: function(key) {
+          if (!channel.has(key)) {
+            throw new $TypeError("Side channel does not contain " + inspect(key));
+          }
+        },
+        "delete": function(key) {
+          if ($WeakMap && key && (typeof key === "object" || typeof key === "function")) {
+            if ($wm) {
+              return $weakMapDelete($wm, key);
+            }
+          } else if (getSideChannelMap) {
+            if ($m) {
+              return $m["delete"](key);
+            }
+          }
+          return false;
+        },
         get: function(key) {
           if ($WeakMap && key && (typeof key === "object" || typeof key === "function")) {
             if ($wm) {
               return $weakMapGet($wm, key);
             }
-          } else if ($Map) {
-            if ($m) {
-              return $mapGet($m, key);
-            }
-          } else {
-            if ($o) {
-              return listGet($o, key);
-            }
           }
+          return $m && $m.get(key);
         },
         has: function(key) {
           if ($WeakMap && key && (typeof key === "object" || typeof key === "function")) {
             if ($wm) {
               return $weakMapHas($wm, key);
             }
-          } else if ($Map) {
-            if ($m) {
-              return $mapHas($m, key);
-            }
-          } else {
-            if ($o) {
-              return listHas($o, key);
-            }
           }
-          return false;
+          return !!$m && $m.has(key);
         },
         set: function(key, value) {
           if ($WeakMap && key && (typeof key === "object" || typeof key === "function")) {
@@ -38634,17 +38800,51 @@ var require_side_channel = __commonJS({
               $wm = new $WeakMap();
             }
             $weakMapSet($wm, key, value);
-          } else if ($Map) {
+          } else if (getSideChannelMap) {
             if (!$m) {
-              $m = new $Map();
+              $m = getSideChannelMap();
             }
-            $mapSet($m, key, value);
-          } else {
-            if (!$o) {
-              $o = { key: {}, next: null };
-            }
-            listSet($o, key, value);
+            $m.set(key, value);
           }
+        }
+      };
+      return channel;
+    } : getSideChannelMap;
+  }
+});
+
+// node_modules/side-channel/index.js
+var require_side_channel = __commonJS({
+  "node_modules/side-channel/index.js"(exports, module2) {
+    "use strict";
+    var $TypeError = require_type();
+    var inspect = require_object_inspect();
+    var getSideChannelList = require_side_channel_list();
+    var getSideChannelMap = require_side_channel_map();
+    var getSideChannelWeakMap = require_side_channel_weakmap();
+    var makeChannel = getSideChannelWeakMap || getSideChannelMap || getSideChannelList;
+    module2.exports = function getSideChannel() {
+      var $channelData;
+      var channel = {
+        assert: function(key) {
+          if (!channel.has(key)) {
+            throw new $TypeError("Side channel does not contain " + inspect(key));
+          }
+        },
+        "delete": function(key) {
+          return !!$channelData && $channelData["delete"](key);
+        },
+        get: function(key) {
+          return $channelData && $channelData.get(key);
+        },
+        has: function(key) {
+          return !!$channelData && $channelData.has(key);
+        },
+        set: function(key, value) {
+          if (!$channelData) {
+            $channelData = makeChannel();
+          }
+          $channelData.set(key, value);
         }
       };
       return channel;
@@ -40854,18 +41054,27 @@ var require_path_to_regexp = __commonJS({
         });
         return new RegExp(path2.join("|"), flags);
       }
+      if (typeof path2 !== "string") {
+        throw new TypeError("path must be a string, array of strings, or regular expression");
+      }
       path2 = path2.replace(/\\.|(\/)?(\.)?:(\w+)(\(.*?\))?(\*)?(\?)?|[.*]|\/\(/g, function(match, slash, format, key, capture, star, optional, offset) {
-        pos = offset + match.length;
         if (match[0] === "\\") {
           backtrack += match;
+          pos += 2;
           return match;
         }
         if (match === ".") {
           backtrack += "\\.";
           extraOffset += 1;
+          pos += 1;
           return "\\.";
         }
-        backtrack = slash || format ? "" : path2.slice(pos, offset);
+        if (slash || format) {
+          backtrack = "";
+        } else {
+          backtrack += path2.slice(pos, offset);
+        }
+        pos = offset + match.length;
         if (match === "*") {
           extraOffset += 3;
           return "(.*)";
@@ -42469,16 +42678,16 @@ var require_fresh = __commonJS({
   }
 });
 
-// node_modules/send/node_modules/mime/types.json
+// node_modules/mime/types.json
 var require_types = __commonJS({
-  "node_modules/send/node_modules/mime/types.json"(exports, module2) {
+  "node_modules/mime/types.json"(exports, module2) {
     module2.exports = { "application/andrew-inset": ["ez"], "application/applixware": ["aw"], "application/atom+xml": ["atom"], "application/atomcat+xml": ["atomcat"], "application/atomsvc+xml": ["atomsvc"], "application/bdoc": ["bdoc"], "application/ccxml+xml": ["ccxml"], "application/cdmi-capability": ["cdmia"], "application/cdmi-container": ["cdmic"], "application/cdmi-domain": ["cdmid"], "application/cdmi-object": ["cdmio"], "application/cdmi-queue": ["cdmiq"], "application/cu-seeme": ["cu"], "application/dash+xml": ["mpd"], "application/davmount+xml": ["davmount"], "application/docbook+xml": ["dbk"], "application/dssc+der": ["dssc"], "application/dssc+xml": ["xdssc"], "application/ecmascript": ["ecma"], "application/emma+xml": ["emma"], "application/epub+zip": ["epub"], "application/exi": ["exi"], "application/font-tdpfr": ["pfr"], "application/font-woff": [], "application/font-woff2": [], "application/geo+json": ["geojson"], "application/gml+xml": ["gml"], "application/gpx+xml": ["gpx"], "application/gxf": ["gxf"], "application/gzip": ["gz"], "application/hyperstudio": ["stk"], "application/inkml+xml": ["ink", "inkml"], "application/ipfix": ["ipfix"], "application/java-archive": ["jar", "war", "ear"], "application/java-serialized-object": ["ser"], "application/java-vm": ["class"], "application/javascript": ["js", "mjs"], "application/json": ["json", "map"], "application/json5": ["json5"], "application/jsonml+json": ["jsonml"], "application/ld+json": ["jsonld"], "application/lost+xml": ["lostxml"], "application/mac-binhex40": ["hqx"], "application/mac-compactpro": ["cpt"], "application/mads+xml": ["mads"], "application/manifest+json": ["webmanifest"], "application/marc": ["mrc"], "application/marcxml+xml": ["mrcx"], "application/mathematica": ["ma", "nb", "mb"], "application/mathml+xml": ["mathml"], "application/mbox": ["mbox"], "application/mediaservercontrol+xml": ["mscml"], "application/metalink+xml": ["metalink"], "application/metalink4+xml": ["meta4"], "application/mets+xml": ["mets"], "application/mods+xml": ["mods"], "application/mp21": ["m21", "mp21"], "application/mp4": ["mp4s", "m4p"], "application/msword": ["doc", "dot"], "application/mxf": ["mxf"], "application/octet-stream": ["bin", "dms", "lrf", "mar", "so", "dist", "distz", "pkg", "bpk", "dump", "elc", "deploy", "exe", "dll", "deb", "dmg", "iso", "img", "msi", "msp", "msm", "buffer"], "application/oda": ["oda"], "application/oebps-package+xml": ["opf"], "application/ogg": ["ogx"], "application/omdoc+xml": ["omdoc"], "application/onenote": ["onetoc", "onetoc2", "onetmp", "onepkg"], "application/oxps": ["oxps"], "application/patch-ops-error+xml": ["xer"], "application/pdf": ["pdf"], "application/pgp-encrypted": ["pgp"], "application/pgp-signature": ["asc", "sig"], "application/pics-rules": ["prf"], "application/pkcs10": ["p10"], "application/pkcs7-mime": ["p7m", "p7c"], "application/pkcs7-signature": ["p7s"], "application/pkcs8": ["p8"], "application/pkix-attr-cert": ["ac"], "application/pkix-cert": ["cer"], "application/pkix-crl": ["crl"], "application/pkix-pkipath": ["pkipath"], "application/pkixcmp": ["pki"], "application/pls+xml": ["pls"], "application/postscript": ["ai", "eps", "ps"], "application/prs.cww": ["cww"], "application/pskc+xml": ["pskcxml"], "application/raml+yaml": ["raml"], "application/rdf+xml": ["rdf"], "application/reginfo+xml": ["rif"], "application/relax-ng-compact-syntax": ["rnc"], "application/resource-lists+xml": ["rl"], "application/resource-lists-diff+xml": ["rld"], "application/rls-services+xml": ["rs"], "application/rpki-ghostbusters": ["gbr"], "application/rpki-manifest": ["mft"], "application/rpki-roa": ["roa"], "application/rsd+xml": ["rsd"], "application/rss+xml": ["rss"], "application/rtf": ["rtf"], "application/sbml+xml": ["sbml"], "application/scvp-cv-request": ["scq"], "application/scvp-cv-response": ["scs"], "application/scvp-vp-request": ["spq"], "application/scvp-vp-response": ["spp"], "application/sdp": ["sdp"], "application/set-payment-initiation": ["setpay"], "application/set-registration-initiation": ["setreg"], "application/shf+xml": ["shf"], "application/smil+xml": ["smi", "smil"], "application/sparql-query": ["rq"], "application/sparql-results+xml": ["srx"], "application/srgs": ["gram"], "application/srgs+xml": ["grxml"], "application/sru+xml": ["sru"], "application/ssdl+xml": ["ssdl"], "application/ssml+xml": ["ssml"], "application/tei+xml": ["tei", "teicorpus"], "application/thraud+xml": ["tfi"], "application/timestamped-data": ["tsd"], "application/vnd.3gpp.pic-bw-large": ["plb"], "application/vnd.3gpp.pic-bw-small": ["psb"], "application/vnd.3gpp.pic-bw-var": ["pvb"], "application/vnd.3gpp2.tcap": ["tcap"], "application/vnd.3m.post-it-notes": ["pwn"], "application/vnd.accpac.simply.aso": ["aso"], "application/vnd.accpac.simply.imp": ["imp"], "application/vnd.acucobol": ["acu"], "application/vnd.acucorp": ["atc", "acutc"], "application/vnd.adobe.air-application-installer-package+zip": ["air"], "application/vnd.adobe.formscentral.fcdt": ["fcdt"], "application/vnd.adobe.fxp": ["fxp", "fxpl"], "application/vnd.adobe.xdp+xml": ["xdp"], "application/vnd.adobe.xfdf": ["xfdf"], "application/vnd.ahead.space": ["ahead"], "application/vnd.airzip.filesecure.azf": ["azf"], "application/vnd.airzip.filesecure.azs": ["azs"], "application/vnd.amazon.ebook": ["azw"], "application/vnd.americandynamics.acc": ["acc"], "application/vnd.amiga.ami": ["ami"], "application/vnd.android.package-archive": ["apk"], "application/vnd.anser-web-certificate-issue-initiation": ["cii"], "application/vnd.anser-web-funds-transfer-initiation": ["fti"], "application/vnd.antix.game-component": ["atx"], "application/vnd.apple.installer+xml": ["mpkg"], "application/vnd.apple.mpegurl": ["m3u8"], "application/vnd.apple.pkpass": ["pkpass"], "application/vnd.aristanetworks.swi": ["swi"], "application/vnd.astraea-software.iota": ["iota"], "application/vnd.audiograph": ["aep"], "application/vnd.blueice.multipass": ["mpm"], "application/vnd.bmi": ["bmi"], "application/vnd.businessobjects": ["rep"], "application/vnd.chemdraw+xml": ["cdxml"], "application/vnd.chipnuts.karaoke-mmd": ["mmd"], "application/vnd.cinderella": ["cdy"], "application/vnd.claymore": ["cla"], "application/vnd.cloanto.rp9": ["rp9"], "application/vnd.clonk.c4group": ["c4g", "c4d", "c4f", "c4p", "c4u"], "application/vnd.cluetrust.cartomobile-config": ["c11amc"], "application/vnd.cluetrust.cartomobile-config-pkg": ["c11amz"], "application/vnd.commonspace": ["csp"], "application/vnd.contact.cmsg": ["cdbcmsg"], "application/vnd.cosmocaller": ["cmc"], "application/vnd.crick.clicker": ["clkx"], "application/vnd.crick.clicker.keyboard": ["clkk"], "application/vnd.crick.clicker.palette": ["clkp"], "application/vnd.crick.clicker.template": ["clkt"], "application/vnd.crick.clicker.wordbank": ["clkw"], "application/vnd.criticaltools.wbs+xml": ["wbs"], "application/vnd.ctc-posml": ["pml"], "application/vnd.cups-ppd": ["ppd"], "application/vnd.curl.car": ["car"], "application/vnd.curl.pcurl": ["pcurl"], "application/vnd.dart": ["dart"], "application/vnd.data-vision.rdz": ["rdz"], "application/vnd.dece.data": ["uvf", "uvvf", "uvd", "uvvd"], "application/vnd.dece.ttml+xml": ["uvt", "uvvt"], "application/vnd.dece.unspecified": ["uvx", "uvvx"], "application/vnd.dece.zip": ["uvz", "uvvz"], "application/vnd.denovo.fcselayout-link": ["fe_launch"], "application/vnd.dna": ["dna"], "application/vnd.dolby.mlp": ["mlp"], "application/vnd.dpgraph": ["dpg"], "application/vnd.dreamfactory": ["dfac"], "application/vnd.ds-keypoint": ["kpxx"], "application/vnd.dvb.ait": ["ait"], "application/vnd.dvb.service": ["svc"], "application/vnd.dynageo": ["geo"], "application/vnd.ecowin.chart": ["mag"], "application/vnd.enliven": ["nml"], "application/vnd.epson.esf": ["esf"], "application/vnd.epson.msf": ["msf"], "application/vnd.epson.quickanime": ["qam"], "application/vnd.epson.salt": ["slt"], "application/vnd.epson.ssf": ["ssf"], "application/vnd.eszigno3+xml": ["es3", "et3"], "application/vnd.ezpix-album": ["ez2"], "application/vnd.ezpix-package": ["ez3"], "application/vnd.fdf": ["fdf"], "application/vnd.fdsn.mseed": ["mseed"], "application/vnd.fdsn.seed": ["seed", "dataless"], "application/vnd.flographit": ["gph"], "application/vnd.fluxtime.clip": ["ftc"], "application/vnd.framemaker": ["fm", "frame", "maker", "book"], "application/vnd.frogans.fnc": ["fnc"], "application/vnd.frogans.ltf": ["ltf"], "application/vnd.fsc.weblaunch": ["fsc"], "application/vnd.fujitsu.oasys": ["oas"], "application/vnd.fujitsu.oasys2": ["oa2"], "application/vnd.fujitsu.oasys3": ["oa3"], "application/vnd.fujitsu.oasysgp": ["fg5"], "application/vnd.fujitsu.oasysprs": ["bh2"], "application/vnd.fujixerox.ddd": ["ddd"], "application/vnd.fujixerox.docuworks": ["xdw"], "application/vnd.fujixerox.docuworks.binder": ["xbd"], "application/vnd.fuzzysheet": ["fzs"], "application/vnd.genomatix.tuxedo": ["txd"], "application/vnd.geogebra.file": ["ggb"], "application/vnd.geogebra.tool": ["ggt"], "application/vnd.geometry-explorer": ["gex", "gre"], "application/vnd.geonext": ["gxt"], "application/vnd.geoplan": ["g2w"], "application/vnd.geospace": ["g3w"], "application/vnd.gmx": ["gmx"], "application/vnd.google-apps.document": ["gdoc"], "application/vnd.google-apps.presentation": ["gslides"], "application/vnd.google-apps.spreadsheet": ["gsheet"], "application/vnd.google-earth.kml+xml": ["kml"], "application/vnd.google-earth.kmz": ["kmz"], "application/vnd.grafeq": ["gqf", "gqs"], "application/vnd.groove-account": ["gac"], "application/vnd.groove-help": ["ghf"], "application/vnd.groove-identity-message": ["gim"], "application/vnd.groove-injector": ["grv"], "application/vnd.groove-tool-message": ["gtm"], "application/vnd.groove-tool-template": ["tpl"], "application/vnd.groove-vcard": ["vcg"], "application/vnd.hal+xml": ["hal"], "application/vnd.handheld-entertainment+xml": ["zmm"], "application/vnd.hbci": ["hbci"], "application/vnd.hhe.lesson-player": ["les"], "application/vnd.hp-hpgl": ["hpgl"], "application/vnd.hp-hpid": ["hpid"], "application/vnd.hp-hps": ["hps"], "application/vnd.hp-jlyt": ["jlt"], "application/vnd.hp-pcl": ["pcl"], "application/vnd.hp-pclxl": ["pclxl"], "application/vnd.hydrostatix.sof-data": ["sfd-hdstx"], "application/vnd.ibm.minipay": ["mpy"], "application/vnd.ibm.modcap": ["afp", "listafp", "list3820"], "application/vnd.ibm.rights-management": ["irm"], "application/vnd.ibm.secure-container": ["sc"], "application/vnd.iccprofile": ["icc", "icm"], "application/vnd.igloader": ["igl"], "application/vnd.immervision-ivp": ["ivp"], "application/vnd.immervision-ivu": ["ivu"], "application/vnd.insors.igm": ["igm"], "application/vnd.intercon.formnet": ["xpw", "xpx"], "application/vnd.intergeo": ["i2g"], "application/vnd.intu.qbo": ["qbo"], "application/vnd.intu.qfx": ["qfx"], "application/vnd.ipunplugged.rcprofile": ["rcprofile"], "application/vnd.irepository.package+xml": ["irp"], "application/vnd.is-xpr": ["xpr"], "application/vnd.isac.fcs": ["fcs"], "application/vnd.jam": ["jam"], "application/vnd.jcp.javame.midlet-rms": ["rms"], "application/vnd.jisp": ["jisp"], "application/vnd.joost.joda-archive": ["joda"], "application/vnd.kahootz": ["ktz", "ktr"], "application/vnd.kde.karbon": ["karbon"], "application/vnd.kde.kchart": ["chrt"], "application/vnd.kde.kformula": ["kfo"], "application/vnd.kde.kivio": ["flw"], "application/vnd.kde.kontour": ["kon"], "application/vnd.kde.kpresenter": ["kpr", "kpt"], "application/vnd.kde.kspread": ["ksp"], "application/vnd.kde.kword": ["kwd", "kwt"], "application/vnd.kenameaapp": ["htke"], "application/vnd.kidspiration": ["kia"], "application/vnd.kinar": ["kne", "knp"], "application/vnd.koan": ["skp", "skd", "skt", "skm"], "application/vnd.kodak-descriptor": ["sse"], "application/vnd.las.las+xml": ["lasxml"], "application/vnd.llamagraphics.life-balance.desktop": ["lbd"], "application/vnd.llamagraphics.life-balance.exchange+xml": ["lbe"], "application/vnd.lotus-1-2-3": ["123"], "application/vnd.lotus-approach": ["apr"], "application/vnd.lotus-freelance": ["pre"], "application/vnd.lotus-notes": ["nsf"], "application/vnd.lotus-organizer": ["org"], "application/vnd.lotus-screencam": ["scm"], "application/vnd.lotus-wordpro": ["lwp"], "application/vnd.macports.portpkg": ["portpkg"], "application/vnd.mcd": ["mcd"], "application/vnd.medcalcdata": ["mc1"], "application/vnd.mediastation.cdkey": ["cdkey"], "application/vnd.mfer": ["mwf"], "application/vnd.mfmp": ["mfm"], "application/vnd.micrografx.flo": ["flo"], "application/vnd.micrografx.igx": ["igx"], "application/vnd.mif": ["mif"], "application/vnd.mobius.daf": ["daf"], "application/vnd.mobius.dis": ["dis"], "application/vnd.mobius.mbk": ["mbk"], "application/vnd.mobius.mqy": ["mqy"], "application/vnd.mobius.msl": ["msl"], "application/vnd.mobius.plc": ["plc"], "application/vnd.mobius.txf": ["txf"], "application/vnd.mophun.application": ["mpn"], "application/vnd.mophun.certificate": ["mpc"], "application/vnd.mozilla.xul+xml": ["xul"], "application/vnd.ms-artgalry": ["cil"], "application/vnd.ms-cab-compressed": ["cab"], "application/vnd.ms-excel": ["xls", "xlm", "xla", "xlc", "xlt", "xlw"], "application/vnd.ms-excel.addin.macroenabled.12": ["xlam"], "application/vnd.ms-excel.sheet.binary.macroenabled.12": ["xlsb"], "application/vnd.ms-excel.sheet.macroenabled.12": ["xlsm"], "application/vnd.ms-excel.template.macroenabled.12": ["xltm"], "application/vnd.ms-fontobject": ["eot"], "application/vnd.ms-htmlhelp": ["chm"], "application/vnd.ms-ims": ["ims"], "application/vnd.ms-lrm": ["lrm"], "application/vnd.ms-officetheme": ["thmx"], "application/vnd.ms-outlook": ["msg"], "application/vnd.ms-pki.seccat": ["cat"], "application/vnd.ms-pki.stl": ["stl"], "application/vnd.ms-powerpoint": ["ppt", "pps", "pot"], "application/vnd.ms-powerpoint.addin.macroenabled.12": ["ppam"], "application/vnd.ms-powerpoint.presentation.macroenabled.12": ["pptm"], "application/vnd.ms-powerpoint.slide.macroenabled.12": ["sldm"], "application/vnd.ms-powerpoint.slideshow.macroenabled.12": ["ppsm"], "application/vnd.ms-powerpoint.template.macroenabled.12": ["potm"], "application/vnd.ms-project": ["mpp", "mpt"], "application/vnd.ms-word.document.macroenabled.12": ["docm"], "application/vnd.ms-word.template.macroenabled.12": ["dotm"], "application/vnd.ms-works": ["wps", "wks", "wcm", "wdb"], "application/vnd.ms-wpl": ["wpl"], "application/vnd.ms-xpsdocument": ["xps"], "application/vnd.mseq": ["mseq"], "application/vnd.musician": ["mus"], "application/vnd.muvee.style": ["msty"], "application/vnd.mynfc": ["taglet"], "application/vnd.neurolanguage.nlu": ["nlu"], "application/vnd.nitf": ["ntf", "nitf"], "application/vnd.noblenet-directory": ["nnd"], "application/vnd.noblenet-sealer": ["nns"], "application/vnd.noblenet-web": ["nnw"], "application/vnd.nokia.n-gage.data": ["ngdat"], "application/vnd.nokia.n-gage.symbian.install": ["n-gage"], "application/vnd.nokia.radio-preset": ["rpst"], "application/vnd.nokia.radio-presets": ["rpss"], "application/vnd.novadigm.edm": ["edm"], "application/vnd.novadigm.edx": ["edx"], "application/vnd.novadigm.ext": ["ext"], "application/vnd.oasis.opendocument.chart": ["odc"], "application/vnd.oasis.opendocument.chart-template": ["otc"], "application/vnd.oasis.opendocument.database": ["odb"], "application/vnd.oasis.opendocument.formula": ["odf"], "application/vnd.oasis.opendocument.formula-template": ["odft"], "application/vnd.oasis.opendocument.graphics": ["odg"], "application/vnd.oasis.opendocument.graphics-template": ["otg"], "application/vnd.oasis.opendocument.image": ["odi"], "application/vnd.oasis.opendocument.image-template": ["oti"], "application/vnd.oasis.opendocument.presentation": ["odp"], "application/vnd.oasis.opendocument.presentation-template": ["otp"], "application/vnd.oasis.opendocument.spreadsheet": ["ods"], "application/vnd.oasis.opendocument.spreadsheet-template": ["ots"], "application/vnd.oasis.opendocument.text": ["odt"], "application/vnd.oasis.opendocument.text-master": ["odm"], "application/vnd.oasis.opendocument.text-template": ["ott"], "application/vnd.oasis.opendocument.text-web": ["oth"], "application/vnd.olpc-sugar": ["xo"], "application/vnd.oma.dd2+xml": ["dd2"], "application/vnd.openofficeorg.extension": ["oxt"], "application/vnd.openxmlformats-officedocument.presentationml.presentation": ["pptx"], "application/vnd.openxmlformats-officedocument.presentationml.slide": ["sldx"], "application/vnd.openxmlformats-officedocument.presentationml.slideshow": ["ppsx"], "application/vnd.openxmlformats-officedocument.presentationml.template": ["potx"], "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ["xlsx"], "application/vnd.openxmlformats-officedocument.spreadsheetml.template": ["xltx"], "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ["docx"], "application/vnd.openxmlformats-officedocument.wordprocessingml.template": ["dotx"], "application/vnd.osgeo.mapguide.package": ["mgp"], "application/vnd.osgi.dp": ["dp"], "application/vnd.osgi.subsystem": ["esa"], "application/vnd.palm": ["pdb", "pqa", "oprc"], "application/vnd.pawaafile": ["paw"], "application/vnd.pg.format": ["str"], "application/vnd.pg.osasli": ["ei6"], "application/vnd.picsel": ["efif"], "application/vnd.pmi.widget": ["wg"], "application/vnd.pocketlearn": ["plf"], "application/vnd.powerbuilder6": ["pbd"], "application/vnd.previewsystems.box": ["box"], "application/vnd.proteus.magazine": ["mgz"], "application/vnd.publishare-delta-tree": ["qps"], "application/vnd.pvi.ptid1": ["ptid"], "application/vnd.quark.quarkxpress": ["qxd", "qxt", "qwd", "qwt", "qxl", "qxb"], "application/vnd.realvnc.bed": ["bed"], "application/vnd.recordare.musicxml": ["mxl"], "application/vnd.recordare.musicxml+xml": ["musicxml"], "application/vnd.rig.cryptonote": ["cryptonote"], "application/vnd.rim.cod": ["cod"], "application/vnd.rn-realmedia": ["rm"], "application/vnd.rn-realmedia-vbr": ["rmvb"], "application/vnd.route66.link66+xml": ["link66"], "application/vnd.sailingtracker.track": ["st"], "application/vnd.seemail": ["see"], "application/vnd.sema": ["sema"], "application/vnd.semd": ["semd"], "application/vnd.semf": ["semf"], "application/vnd.shana.informed.formdata": ["ifm"], "application/vnd.shana.informed.formtemplate": ["itp"], "application/vnd.shana.informed.interchange": ["iif"], "application/vnd.shana.informed.package": ["ipk"], "application/vnd.simtech-mindmapper": ["twd", "twds"], "application/vnd.smaf": ["mmf"], "application/vnd.smart.teacher": ["teacher"], "application/vnd.solent.sdkm+xml": ["sdkm", "sdkd"], "application/vnd.spotfire.dxp": ["dxp"], "application/vnd.spotfire.sfs": ["sfs"], "application/vnd.stardivision.calc": ["sdc"], "application/vnd.stardivision.draw": ["sda"], "application/vnd.stardivision.impress": ["sdd"], "application/vnd.stardivision.math": ["smf"], "application/vnd.stardivision.writer": ["sdw", "vor"], "application/vnd.stardivision.writer-global": ["sgl"], "application/vnd.stepmania.package": ["smzip"], "application/vnd.stepmania.stepchart": ["sm"], "application/vnd.sun.wadl+xml": ["wadl"], "application/vnd.sun.xml.calc": ["sxc"], "application/vnd.sun.xml.calc.template": ["stc"], "application/vnd.sun.xml.draw": ["sxd"], "application/vnd.sun.xml.draw.template": ["std"], "application/vnd.sun.xml.impress": ["sxi"], "application/vnd.sun.xml.impress.template": ["sti"], "application/vnd.sun.xml.math": ["sxm"], "application/vnd.sun.xml.writer": ["sxw"], "application/vnd.sun.xml.writer.global": ["sxg"], "application/vnd.sun.xml.writer.template": ["stw"], "application/vnd.sus-calendar": ["sus", "susp"], "application/vnd.svd": ["svd"], "application/vnd.symbian.install": ["sis", "sisx"], "application/vnd.syncml+xml": ["xsm"], "application/vnd.syncml.dm+wbxml": ["bdm"], "application/vnd.syncml.dm+xml": ["xdm"], "application/vnd.tao.intent-module-archive": ["tao"], "application/vnd.tcpdump.pcap": ["pcap", "cap", "dmp"], "application/vnd.tmobile-livetv": ["tmo"], "application/vnd.trid.tpt": ["tpt"], "application/vnd.triscape.mxs": ["mxs"], "application/vnd.trueapp": ["tra"], "application/vnd.ufdl": ["ufd", "ufdl"], "application/vnd.uiq.theme": ["utz"], "application/vnd.umajin": ["umj"], "application/vnd.unity": ["unityweb"], "application/vnd.uoml+xml": ["uoml"], "application/vnd.vcx": ["vcx"], "application/vnd.visio": ["vsd", "vst", "vss", "vsw"], "application/vnd.visionary": ["vis"], "application/vnd.vsf": ["vsf"], "application/vnd.wap.wbxml": ["wbxml"], "application/vnd.wap.wmlc": ["wmlc"], "application/vnd.wap.wmlscriptc": ["wmlsc"], "application/vnd.webturbo": ["wtb"], "application/vnd.wolfram.player": ["nbp"], "application/vnd.wordperfect": ["wpd"], "application/vnd.wqd": ["wqd"], "application/vnd.wt.stf": ["stf"], "application/vnd.xara": ["xar"], "application/vnd.xfdl": ["xfdl"], "application/vnd.yamaha.hv-dic": ["hvd"], "application/vnd.yamaha.hv-script": ["hvs"], "application/vnd.yamaha.hv-voice": ["hvp"], "application/vnd.yamaha.openscoreformat": ["osf"], "application/vnd.yamaha.openscoreformat.osfpvg+xml": ["osfpvg"], "application/vnd.yamaha.smaf-audio": ["saf"], "application/vnd.yamaha.smaf-phrase": ["spf"], "application/vnd.yellowriver-custom-menu": ["cmp"], "application/vnd.zul": ["zir", "zirz"], "application/vnd.zzazz.deck+xml": ["zaz"], "application/voicexml+xml": ["vxml"], "application/wasm": ["wasm"], "application/widget": ["wgt"], "application/winhlp": ["hlp"], "application/wsdl+xml": ["wsdl"], "application/wspolicy+xml": ["wspolicy"], "application/x-7z-compressed": ["7z"], "application/x-abiword": ["abw"], "application/x-ace-compressed": ["ace"], "application/x-apple-diskimage": [], "application/x-arj": ["arj"], "application/x-authorware-bin": ["aab", "x32", "u32", "vox"], "application/x-authorware-map": ["aam"], "application/x-authorware-seg": ["aas"], "application/x-bcpio": ["bcpio"], "application/x-bdoc": [], "application/x-bittorrent": ["torrent"], "application/x-blorb": ["blb", "blorb"], "application/x-bzip": ["bz"], "application/x-bzip2": ["bz2", "boz"], "application/x-cbr": ["cbr", "cba", "cbt", "cbz", "cb7"], "application/x-cdlink": ["vcd"], "application/x-cfs-compressed": ["cfs"], "application/x-chat": ["chat"], "application/x-chess-pgn": ["pgn"], "application/x-chrome-extension": ["crx"], "application/x-cocoa": ["cco"], "application/x-conference": ["nsc"], "application/x-cpio": ["cpio"], "application/x-csh": ["csh"], "application/x-debian-package": ["udeb"], "application/x-dgc-compressed": ["dgc"], "application/x-director": ["dir", "dcr", "dxr", "cst", "cct", "cxt", "w3d", "fgd", "swa"], "application/x-doom": ["wad"], "application/x-dtbncx+xml": ["ncx"], "application/x-dtbook+xml": ["dtb"], "application/x-dtbresource+xml": ["res"], "application/x-dvi": ["dvi"], "application/x-envoy": ["evy"], "application/x-eva": ["eva"], "application/x-font-bdf": ["bdf"], "application/x-font-ghostscript": ["gsf"], "application/x-font-linux-psf": ["psf"], "application/x-font-pcf": ["pcf"], "application/x-font-snf": ["snf"], "application/x-font-type1": ["pfa", "pfb", "pfm", "afm"], "application/x-freearc": ["arc"], "application/x-futuresplash": ["spl"], "application/x-gca-compressed": ["gca"], "application/x-glulx": ["ulx"], "application/x-gnumeric": ["gnumeric"], "application/x-gramps-xml": ["gramps"], "application/x-gtar": ["gtar"], "application/x-hdf": ["hdf"], "application/x-httpd-php": ["php"], "application/x-install-instructions": ["install"], "application/x-iso9660-image": [], "application/x-java-archive-diff": ["jardiff"], "application/x-java-jnlp-file": ["jnlp"], "application/x-latex": ["latex"], "application/x-lua-bytecode": ["luac"], "application/x-lzh-compressed": ["lzh", "lha"], "application/x-makeself": ["run"], "application/x-mie": ["mie"], "application/x-mobipocket-ebook": ["prc", "mobi"], "application/x-ms-application": ["application"], "application/x-ms-shortcut": ["lnk"], "application/x-ms-wmd": ["wmd"], "application/x-ms-wmz": ["wmz"], "application/x-ms-xbap": ["xbap"], "application/x-msaccess": ["mdb"], "application/x-msbinder": ["obd"], "application/x-mscardfile": ["crd"], "application/x-msclip": ["clp"], "application/x-msdos-program": [], "application/x-msdownload": ["com", "bat"], "application/x-msmediaview": ["mvb", "m13", "m14"], "application/x-msmetafile": ["wmf", "emf", "emz"], "application/x-msmoney": ["mny"], "application/x-mspublisher": ["pub"], "application/x-msschedule": ["scd"], "application/x-msterminal": ["trm"], "application/x-mswrite": ["wri"], "application/x-netcdf": ["nc", "cdf"], "application/x-ns-proxy-autoconfig": ["pac"], "application/x-nzb": ["nzb"], "application/x-perl": ["pl", "pm"], "application/x-pilot": [], "application/x-pkcs12": ["p12", "pfx"], "application/x-pkcs7-certificates": ["p7b", "spc"], "application/x-pkcs7-certreqresp": ["p7r"], "application/x-rar-compressed": ["rar"], "application/x-redhat-package-manager": ["rpm"], "application/x-research-info-systems": ["ris"], "application/x-sea": ["sea"], "application/x-sh": ["sh"], "application/x-shar": ["shar"], "application/x-shockwave-flash": ["swf"], "application/x-silverlight-app": ["xap"], "application/x-sql": ["sql"], "application/x-stuffit": ["sit"], "application/x-stuffitx": ["sitx"], "application/x-subrip": ["srt"], "application/x-sv4cpio": ["sv4cpio"], "application/x-sv4crc": ["sv4crc"], "application/x-t3vm-image": ["t3"], "application/x-tads": ["gam"], "application/x-tar": ["tar"], "application/x-tcl": ["tcl", "tk"], "application/x-tex": ["tex"], "application/x-tex-tfm": ["tfm"], "application/x-texinfo": ["texinfo", "texi"], "application/x-tgif": ["obj"], "application/x-ustar": ["ustar"], "application/x-virtualbox-hdd": ["hdd"], "application/x-virtualbox-ova": ["ova"], "application/x-virtualbox-ovf": ["ovf"], "application/x-virtualbox-vbox": ["vbox"], "application/x-virtualbox-vbox-extpack": ["vbox-extpack"], "application/x-virtualbox-vdi": ["vdi"], "application/x-virtualbox-vhd": ["vhd"], "application/x-virtualbox-vmdk": ["vmdk"], "application/x-wais-source": ["src"], "application/x-web-app-manifest+json": ["webapp"], "application/x-x509-ca-cert": ["der", "crt", "pem"], "application/x-xfig": ["fig"], "application/x-xliff+xml": ["xlf"], "application/x-xpinstall": ["xpi"], "application/x-xz": ["xz"], "application/x-zmachine": ["z1", "z2", "z3", "z4", "z5", "z6", "z7", "z8"], "application/xaml+xml": ["xaml"], "application/xcap-diff+xml": ["xdf"], "application/xenc+xml": ["xenc"], "application/xhtml+xml": ["xhtml", "xht"], "application/xml": ["xml", "xsl", "xsd", "rng"], "application/xml-dtd": ["dtd"], "application/xop+xml": ["xop"], "application/xproc+xml": ["xpl"], "application/xslt+xml": ["xslt"], "application/xspf+xml": ["xspf"], "application/xv+xml": ["mxml", "xhvml", "xvml", "xvm"], "application/yang": ["yang"], "application/yin+xml": ["yin"], "application/zip": ["zip"], "audio/3gpp": [], "audio/adpcm": ["adp"], "audio/basic": ["au", "snd"], "audio/midi": ["mid", "midi", "kar", "rmi"], "audio/mp3": [], "audio/mp4": ["m4a", "mp4a"], "audio/mpeg": ["mpga", "mp2", "mp2a", "mp3", "m2a", "m3a"], "audio/ogg": ["oga", "ogg", "spx"], "audio/s3m": ["s3m"], "audio/silk": ["sil"], "audio/vnd.dece.audio": ["uva", "uvva"], "audio/vnd.digital-winds": ["eol"], "audio/vnd.dra": ["dra"], "audio/vnd.dts": ["dts"], "audio/vnd.dts.hd": ["dtshd"], "audio/vnd.lucent.voice": ["lvp"], "audio/vnd.ms-playready.media.pya": ["pya"], "audio/vnd.nuera.ecelp4800": ["ecelp4800"], "audio/vnd.nuera.ecelp7470": ["ecelp7470"], "audio/vnd.nuera.ecelp9600": ["ecelp9600"], "audio/vnd.rip": ["rip"], "audio/wav": ["wav"], "audio/wave": [], "audio/webm": ["weba"], "audio/x-aac": ["aac"], "audio/x-aiff": ["aif", "aiff", "aifc"], "audio/x-caf": ["caf"], "audio/x-flac": ["flac"], "audio/x-m4a": [], "audio/x-matroska": ["mka"], "audio/x-mpegurl": ["m3u"], "audio/x-ms-wax": ["wax"], "audio/x-ms-wma": ["wma"], "audio/x-pn-realaudio": ["ram", "ra"], "audio/x-pn-realaudio-plugin": ["rmp"], "audio/x-realaudio": [], "audio/x-wav": [], "audio/xm": ["xm"], "chemical/x-cdx": ["cdx"], "chemical/x-cif": ["cif"], "chemical/x-cmdf": ["cmdf"], "chemical/x-cml": ["cml"], "chemical/x-csml": ["csml"], "chemical/x-xyz": ["xyz"], "font/collection": ["ttc"], "font/otf": ["otf"], "font/ttf": ["ttf"], "font/woff": ["woff"], "font/woff2": ["woff2"], "image/apng": ["apng"], "image/bmp": ["bmp"], "image/cgm": ["cgm"], "image/g3fax": ["g3"], "image/gif": ["gif"], "image/ief": ["ief"], "image/jp2": ["jp2", "jpg2"], "image/jpeg": ["jpeg", "jpg", "jpe"], "image/jpm": ["jpm"], "image/jpx": ["jpx", "jpf"], "image/ktx": ["ktx"], "image/png": ["png"], "image/prs.btif": ["btif"], "image/sgi": ["sgi"], "image/svg+xml": ["svg", "svgz"], "image/tiff": ["tiff", "tif"], "image/vnd.adobe.photoshop": ["psd"], "image/vnd.dece.graphic": ["uvi", "uvvi", "uvg", "uvvg"], "image/vnd.djvu": ["djvu", "djv"], "image/vnd.dvb.subtitle": [], "image/vnd.dwg": ["dwg"], "image/vnd.dxf": ["dxf"], "image/vnd.fastbidsheet": ["fbs"], "image/vnd.fpx": ["fpx"], "image/vnd.fst": ["fst"], "image/vnd.fujixerox.edmics-mmr": ["mmr"], "image/vnd.fujixerox.edmics-rlc": ["rlc"], "image/vnd.ms-modi": ["mdi"], "image/vnd.ms-photo": ["wdp"], "image/vnd.net-fpx": ["npx"], "image/vnd.wap.wbmp": ["wbmp"], "image/vnd.xiff": ["xif"], "image/webp": ["webp"], "image/x-3ds": ["3ds"], "image/x-cmu-raster": ["ras"], "image/x-cmx": ["cmx"], "image/x-freehand": ["fh", "fhc", "fh4", "fh5", "fh7"], "image/x-icon": ["ico"], "image/x-jng": ["jng"], "image/x-mrsid-image": ["sid"], "image/x-ms-bmp": [], "image/x-pcx": ["pcx"], "image/x-pict": ["pic", "pct"], "image/x-portable-anymap": ["pnm"], "image/x-portable-bitmap": ["pbm"], "image/x-portable-graymap": ["pgm"], "image/x-portable-pixmap": ["ppm"], "image/x-rgb": ["rgb"], "image/x-tga": ["tga"], "image/x-xbitmap": ["xbm"], "image/x-xpixmap": ["xpm"], "image/x-xwindowdump": ["xwd"], "message/rfc822": ["eml", "mime"], "model/gltf+json": ["gltf"], "model/gltf-binary": ["glb"], "model/iges": ["igs", "iges"], "model/mesh": ["msh", "mesh", "silo"], "model/vnd.collada+xml": ["dae"], "model/vnd.dwf": ["dwf"], "model/vnd.gdl": ["gdl"], "model/vnd.gtw": ["gtw"], "model/vnd.mts": ["mts"], "model/vnd.vtu": ["vtu"], "model/vrml": ["wrl", "vrml"], "model/x3d+binary": ["x3db", "x3dbz"], "model/x3d+vrml": ["x3dv", "x3dvz"], "model/x3d+xml": ["x3d", "x3dz"], "text/cache-manifest": ["appcache", "manifest"], "text/calendar": ["ics", "ifb"], "text/coffeescript": ["coffee", "litcoffee"], "text/css": ["css"], "text/csv": ["csv"], "text/hjson": ["hjson"], "text/html": ["html", "htm", "shtml"], "text/jade": ["jade"], "text/jsx": ["jsx"], "text/less": ["less"], "text/markdown": ["markdown", "md"], "text/mathml": ["mml"], "text/n3": ["n3"], "text/plain": ["txt", "text", "conf", "def", "list", "log", "in", "ini"], "text/prs.lines.tag": ["dsc"], "text/richtext": ["rtx"], "text/rtf": [], "text/sgml": ["sgml", "sgm"], "text/slim": ["slim", "slm"], "text/stylus": ["stylus", "styl"], "text/tab-separated-values": ["tsv"], "text/troff": ["t", "tr", "roff", "man", "me", "ms"], "text/turtle": ["ttl"], "text/uri-list": ["uri", "uris", "urls"], "text/vcard": ["vcard"], "text/vnd.curl": ["curl"], "text/vnd.curl.dcurl": ["dcurl"], "text/vnd.curl.mcurl": ["mcurl"], "text/vnd.curl.scurl": ["scurl"], "text/vnd.dvb.subtitle": ["sub"], "text/vnd.fly": ["fly"], "text/vnd.fmi.flexstor": ["flx"], "text/vnd.graphviz": ["gv"], "text/vnd.in3d.3dml": ["3dml"], "text/vnd.in3d.spot": ["spot"], "text/vnd.sun.j2me.app-descriptor": ["jad"], "text/vnd.wap.wml": ["wml"], "text/vnd.wap.wmlscript": ["wmls"], "text/vtt": ["vtt"], "text/x-asm": ["s", "asm"], "text/x-c": ["c", "cc", "cxx", "cpp", "h", "hh", "dic"], "text/x-component": ["htc"], "text/x-fortran": ["f", "for", "f77", "f90"], "text/x-handlebars-template": ["hbs"], "text/x-java-source": ["java"], "text/x-lua": ["lua"], "text/x-markdown": ["mkd"], "text/x-nfo": ["nfo"], "text/x-opml": ["opml"], "text/x-org": [], "text/x-pascal": ["p", "pas"], "text/x-processing": ["pde"], "text/x-sass": ["sass"], "text/x-scss": ["scss"], "text/x-setext": ["etx"], "text/x-sfv": ["sfv"], "text/x-suse-ymp": ["ymp"], "text/x-uuencode": ["uu"], "text/x-vcalendar": ["vcs"], "text/x-vcard": ["vcf"], "text/xml": [], "text/yaml": ["yaml", "yml"], "video/3gpp": ["3gp", "3gpp"], "video/3gpp2": ["3g2"], "video/h261": ["h261"], "video/h263": ["h263"], "video/h264": ["h264"], "video/jpeg": ["jpgv"], "video/jpm": ["jpgm"], "video/mj2": ["mj2", "mjp2"], "video/mp2t": ["ts"], "video/mp4": ["mp4", "mp4v", "mpg4"], "video/mpeg": ["mpeg", "mpg", "mpe", "m1v", "m2v"], "video/ogg": ["ogv"], "video/quicktime": ["qt", "mov"], "video/vnd.dece.hd": ["uvh", "uvvh"], "video/vnd.dece.mobile": ["uvm", "uvvm"], "video/vnd.dece.pd": ["uvp", "uvvp"], "video/vnd.dece.sd": ["uvs", "uvvs"], "video/vnd.dece.video": ["uvv", "uvvv"], "video/vnd.dvb.file": ["dvb"], "video/vnd.fvt": ["fvt"], "video/vnd.mpegurl": ["mxu", "m4u"], "video/vnd.ms-playready.media.pyv": ["pyv"], "video/vnd.uvvu.mp4": ["uvu", "uvvu"], "video/vnd.vivo": ["viv"], "video/webm": ["webm"], "video/x-f4v": ["f4v"], "video/x-fli": ["fli"], "video/x-flv": ["flv"], "video/x-m4v": ["m4v"], "video/x-matroska": ["mkv", "mk3d", "mks"], "video/x-mng": ["mng"], "video/x-ms-asf": ["asf", "asx"], "video/x-ms-vob": ["vob"], "video/x-ms-wm": ["wm"], "video/x-ms-wmv": ["wmv"], "video/x-ms-wmx": ["wmx"], "video/x-ms-wvx": ["wvx"], "video/x-msvideo": ["avi"], "video/x-sgi-movie": ["movie"], "video/x-smv": ["smv"], "x-conference/x-cooltalk": ["ice"] };
   }
 });
 
-// node_modules/send/node_modules/mime/mime.js
+// node_modules/mime/mime.js
 var require_mime = __commonJS({
-  "node_modules/send/node_modules/mime/mime.js"(exports, module2) {
+  "node_modules/mime/mime.js"(exports, module2) {
     var path2 = require("path");
     var fs = require("fs");
     function Mime() {
@@ -50839,21 +51048,29 @@ ${indent}`) + "'";
         start = start.replace(/\n+/g, `$&${indent}`);
       }
       const indentSize = indent ? "2" : "1";
-      let header = (literal ? "|" : ">") + (startWithSpace ? indentSize : "") + chomp;
+      let header = (startWithSpace ? indentSize : "") + chomp;
       if (comment) {
         header += " " + commentString(comment.replace(/ ?[\r\n]+/g, " "));
         if (onComment)
           onComment();
       }
-      if (literal) {
-        value = value.replace(/\n+/g, `$&${indent}`);
-        return `${header}
-${indent}${start}${value}${end}`;
-      }
-      value = value.replace(/\n+/g, "\n$&").replace(/(?:^|\n)([\t ].*)(?:([\n\t ]*)\n(?![\n\t ]))?/g, "$1$2").replace(/\n+/g, `$&${indent}`);
-      const body = foldFlowLines.foldFlowLines(`${start}${value}${end}`, indent, foldFlowLines.FOLD_BLOCK, getFoldOptions(ctx, true));
-      return `${header}
+      if (!literal) {
+        const foldedValue = value.replace(/\n+/g, "\n$&").replace(/(?:^|\n)([\t ].*)(?:([\n\t ]*)\n(?![\n\t ]))?/g, "$1$2").replace(/\n+/g, `$&${indent}`);
+        let literalFallback = false;
+        const foldOptions = getFoldOptions(ctx, true);
+        if (blockQuote !== "folded" && type !== Scalar.Scalar.BLOCK_FOLDED) {
+          foldOptions.onOverflow = () => {
+            literalFallback = true;
+          };
+        }
+        const body = foldFlowLines.foldFlowLines(`${start}${foldedValue}${end}`, indent, foldFlowLines.FOLD_BLOCK, foldOptions);
+        if (!literalFallback)
+          return `>${header}
 ${indent}${body}`;
+      }
+      value = value.replace(/\n+/g, `$&${indent}`);
+      return `|${header}
+${indent}${start}${value}${end}`;
     }
     function plainString(item, ctx, onComment, onChompKeep) {
       const { type, value } = item;
@@ -51192,14 +51409,15 @@ ${ctx.indent}`;
 var require_log2 = __commonJS({
   "node_modules/yaml/dist/log.js"(exports) {
     "use strict";
+    var node_process = require("node:process");
     function debug(logLevel, ...messages) {
       if (logLevel === "debug")
         console.log(...messages);
     }
     function warn(logLevel, warning) {
       if (logLevel === "debug" || logLevel === "warn") {
-        if (typeof process !== "undefined" && process.emitWarning)
-          process.emitWarning(warning);
+        if (typeof node_process.emitWarning === "function")
+          node_process.emitWarning(warning);
         else
           console.warn(warning);
       }
@@ -52024,7 +52242,7 @@ var require_schema2 = __commonJS({
         identify: (value) => typeof value === "boolean",
         default: true,
         tag: "tag:yaml.org,2002:bool",
-        test: /^true|false$/,
+        test: /^true$|^false$/,
         resolve: (str) => str === "true",
         stringify: stringifyJSON
       },
@@ -52063,6 +52281,7 @@ var require_schema2 = __commonJS({
 var require_binary = __commonJS({
   "node_modules/yaml/dist/schema/yaml-1.1/binary.js"(exports) {
     "use strict";
+    var node_buffer = require("node:buffer");
     var Scalar = require_Scalar();
     var stringifyString = require_stringifyString();
     var binary = {
@@ -52070,8 +52289,8 @@ var require_binary = __commonJS({
       default: false,
       tag: "tag:yaml.org,2002:binary",
       resolve(src, onError) {
-        if (typeof Buffer === "function") {
-          return Buffer.from(src, "base64");
+        if (typeof node_buffer.Buffer === "function") {
+          return node_buffer.Buffer.from(src, "base64");
         } else if (typeof atob === "function") {
           const str = atob(src.replace(/[\n\r]/g, ""));
           const buffer = new Uint8Array(str.length);
@@ -52086,8 +52305,8 @@ var require_binary = __commonJS({
       stringify({ comment, type, value }, ctx, onComment, onChompKeep) {
         const buf = value;
         let str;
-        if (typeof Buffer === "function") {
-          str = buf instanceof Buffer ? buf.toString("base64") : Buffer.from(buf.buffer).toString("base64");
+        if (typeof node_buffer.Buffer === "function") {
+          str = buf instanceof node_buffer.Buffer ? buf.toString("base64") : node_buffer.Buffer.from(buf.buffer).toString("base64");
         } else if (typeof btoa === "function") {
           let s = "";
           for (let i = 0; i < buf.length; ++i)
@@ -52589,7 +52808,7 @@ var require_timestamp = __commonJS({
         }
         return new Date(date);
       },
-      stringify: ({ value }) => value.toISOString().replace(/((T00:00)?:00)?\.000Z$/, "")
+      stringify: ({ value }) => value.toISOString().replace(/(T00:00:00)?\.000Z$/, "")
     };
     exports.floatTime = floatTime;
     exports.intTime = intTime;
@@ -53204,7 +53423,7 @@ var require_resolve_props = __commonJS({
             if (atNewline) {
               if (comment)
                 comment += token.source;
-              else
+              else if (!found || indicator !== "seq-item-ind")
                 spaceBefore = true;
             } else
               commentSep += token.source;
@@ -54476,6 +54695,7 @@ var require_compose_doc = __commonJS({
 var require_composer = __commonJS({
   "node_modules/yaml/dist/compose/composer.js"(exports) {
     "use strict";
+    var node_process = require("node:process");
     var directives = require_directives();
     var Document = require_Document();
     var errors = require_errors();
@@ -54580,7 +54800,7 @@ ${cb}` : comment;
         yield* this.end(forceDoc, endOffset);
       }
       *next(token) {
-        if (process.env.LOG_STREAM)
+        if (node_process.env.LOG_STREAM)
           console.dir(token, { depth: null });
         switch (token.type) {
           case "directive":
@@ -55676,6 +55896,7 @@ var require_line_counter = __commonJS({
 var require_parser = __commonJS({
   "node_modules/yaml/dist/parse/parser.js"(exports) {
     "use strict";
+    var node_process = require("node:process");
     var cst = require_cst();
     var lexer = require_lexer();
     function includesToken(list, type) {
@@ -55786,7 +56007,7 @@ var require_parser = __commonJS({
       }
       *next(source) {
         this.source = source;
-        if (process.env.LOG_TOKENS)
+        if (node_process.env.LOG_TOKENS)
           console.log("|", cst.prettyToken(source));
         if (this.atScalar) {
           this.atScalar = false;
@@ -56969,7 +57190,7 @@ var require_patch = __commonJS({
       PatchFailureReason2["ContentTypeInvalidForTarget"] = "content-type-invalid-for-target";
       PatchFailureReason2["ContentNotMergeable"] = "content-not-mergeable";
     })(PatchFailureReason || (exports.PatchFailureReason = PatchFailureReason = {}));
-    var PatchFailed = class extends Error {
+    var PatchFailed2 = class extends Error {
       constructor(reason, instruction, targetMap) {
         super();
         this.reason = reason;
@@ -56979,7 +57200,7 @@ var require_patch = __commonJS({
         Object.setPrototypeOf(this, new.target.prototype);
       }
     };
-    exports.PatchFailed = PatchFailed;
+    exports.PatchFailed = PatchFailed2;
     var PatchError = class extends Error {
     };
     exports.PatchError = PatchError;
@@ -57032,12 +57253,12 @@ var require_patch = __commonJS({
         if ((0, typeGuards_js_1.isStringArrayArray)(instruction.content)) {
           for (const row of instruction.content) {
             if (row.length !== table.token.header.length || typeof row === "string") {
-              throw new PatchFailed(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
+              throw new PatchFailed2(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
             }
             tableRows.push("| " + row.join(" | ") + " |" + table.lineEnding);
           }
         } else {
-          throw new PatchFailed(PatchFailureReason.ContentTypeInvalid, instruction, target);
+          throw new PatchFailed2(PatchFailureReason.ContentTypeInvalid, instruction, target);
         }
         return [
           document2.slice(0, target.content.start),
@@ -57045,7 +57266,7 @@ var require_patch = __commonJS({
           document2.slice(target.content.end)
         ].join("");
       } catch (TablePartsNotFound2) {
-        throw new PatchFailed(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
+        throw new PatchFailed2(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
       }
     };
     var prependTable = (document2, instruction, target) => {
@@ -57055,12 +57276,12 @@ var require_patch = __commonJS({
         if ((0, typeGuards_js_1.isStringArrayArray)(instruction.content)) {
           for (const row of instruction.content) {
             if (row.length !== table.token.header.length || typeof row === "string") {
-              throw new PatchFailed(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
+              throw new PatchFailed2(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
             }
             tableRows.push("| " + row.join(" | ") + " |" + table.lineEnding);
           }
         } else {
-          throw new PatchFailed(PatchFailureReason.ContentTypeInvalid, instruction, target);
+          throw new PatchFailed2(PatchFailureReason.ContentTypeInvalid, instruction, target);
         }
         tableRows.push(table.contentParts);
         return [
@@ -57069,7 +57290,7 @@ var require_patch = __commonJS({
           document2.slice(target.content.end)
         ].join("");
       } catch (TablePartsNotFound2) {
-        throw new PatchFailed(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
+        throw new PatchFailed2(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
       }
     };
     var appendTable = (document2, instruction, target) => {
@@ -57079,12 +57300,12 @@ var require_patch = __commonJS({
         if ((0, typeGuards_js_1.isStringArrayArray)(instruction.content)) {
           for (const row of instruction.content) {
             if (row.length !== table.token.header.length || typeof row === "string") {
-              throw new PatchFailed(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
+              throw new PatchFailed2(PatchFailureReason.TableContentIncorrectColumnCount, instruction, target);
             }
             tableRows.push("| " + row.join(" | ") + " |" + table.lineEnding);
           }
         } else {
-          throw new PatchFailed(PatchFailureReason.ContentTypeInvalid, instruction, target);
+          throw new PatchFailed2(PatchFailureReason.ContentTypeInvalid, instruction, target);
         }
         return [
           document2.slice(0, target.content.start),
@@ -57092,7 +57313,7 @@ var require_patch = __commonJS({
           document2.slice(target.content.end)
         ].join("");
       } catch (TablePartsNotFound2) {
-        throw new PatchFailed(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
+        throw new PatchFailed2(PatchFailureReason.ContentTypeInvalidForTarget, instruction, target);
       }
     };
     var replace = (document2, instruction, target) => {
@@ -57199,11 +57420,11 @@ ${yaml.stringify(frontmatter).trimEnd()}
           if (instruction.createTargetIfMissing) {
             return addTarget(document2, instruction, map);
           } else {
-            throw new PatchFailed(PatchFailureReason.InvalidTarget, instruction, null);
+            throw new PatchFailed2(PatchFailureReason.InvalidTarget, instruction, null);
           }
         }
         if ((!("applyIfContentPreexists" in instruction) || !instruction.applyIfContentPreexists) && typeof instruction.content === "string" && document2.slice(target.content.start, target.content.end).includes(instruction.content.trim())) {
-          throw new PatchFailed(PatchFailureReason.ContentAlreadyPreexistsInTarget, instruction, target);
+          throw new PatchFailed2(PatchFailureReason.ContentAlreadyPreexistsInTarget, instruction, target);
         }
         switch (instruction.operation) {
           case "append":
@@ -57227,7 +57448,7 @@ ${yaml.stringify(frontmatter).trimEnd()}
             frontmatter[instruction.target] = {};
           }
         } else {
-          throw new PatchFailed(PatchFailureReason.InvalidTarget, instruction, null);
+          throw new PatchFailed2(PatchFailureReason.InvalidTarget, instruction, null);
         }
       }
       try {
@@ -57251,7 +57472,7 @@ ${yaml.stringify(frontmatter).trimEnd()}
         return regenerateDocumentWithFrontmatter(frontmatter, document2, map);
       } catch (error) {
         if (error instanceof MergeNotPossible) {
-          throw new PatchFailed(PatchFailureReason.ContentNotMergeable, instruction, null);
+          throw new PatchFailed2(PatchFailureReason.ContentNotMergeable, instruction, null);
         }
         throw error;
       }
@@ -57349,6 +57570,7 @@ var ErrorCode;
   ErrorCode2[ErrorCode2["InvalidOperation"] = 40057] = "InvalidOperation";
   ErrorCode2[ErrorCode2["PeriodIsNotEnabled"] = 40060] = "PeriodIsNotEnabled";
   ErrorCode2[ErrorCode2["InvalidFilterQuery"] = 40070] = "InvalidFilterQuery";
+  ErrorCode2[ErrorCode2["PatchFailed"] = 40080] = "PatchFailed";
   ErrorCode2[ErrorCode2["ApiKeyAuthorizationRequired"] = 40101] = "ApiKeyAuthorizationRequired";
   ErrorCode2[ErrorCode2["PeriodDoesNotExist"] = 40460] = "PeriodDoesNotExist";
   ErrorCode2[ErrorCode2["PeriodicNoteDoesNotExist"] = 40461] = "PeriodicNoteDoesNotExist";
@@ -57448,7 +57670,8 @@ var ERROR_CODE_MESSAGES = {
   [ErrorCode.InvalidTargetTypeHeader]: "The 'Target-Type' header you provided was invalid.",
   [ErrorCode.MissingTargetHeader]: "No 'Target' header was provided.",
   [ErrorCode.MissingOperation]: "No 'Operation' header was provided.",
-  [ErrorCode.InvalidOperation]: "The 'Operation' header you provided was invalid."
+  [ErrorCode.InvalidOperation]: "The 'Operation' header you provided was invalid.",
+  [ErrorCode.PatchFailed]: "The patch you provided could not be applied to the target content."
 };
 var ContentTypes;
 (function(ContentTypes2) {
@@ -57818,9 +58041,23 @@ var RequestHandler = class {
         trimTargetWhitespace,
         createTargetIfMissing
       };
-      const patched = (0, import_markdown_patch.applyPatch)(fileContents, instruction);
-      yield this.app.vault.adapter.write(path2, patched);
-      res.status(200).send(patched);
+      try {
+        const patched = (0, import_markdown_patch.applyPatch)(fileContents, instruction);
+        yield this.app.vault.adapter.write(path2, patched);
+        res.status(200).send(patched);
+      } catch (e) {
+        if (e instanceof import_markdown_patch.PatchFailed) {
+          this.returnCannedResponse(res, {
+            errorCode: ErrorCode.PatchFailed,
+            message: e.reason
+          });
+        } else {
+          this.returnCannedResponse(res, {
+            statusCode: 500,
+            message: e.message
+          });
+        }
+      }
     });
   }
   _vaultPatch(path2, req, res) {
@@ -57954,12 +58191,12 @@ var RequestHandler = class {
     }
     return [periodic[period], null];
   }
-  periodicGetNote(periodName) {
+  periodicGetNote(periodName, timestamp) {
     const [period, err] = this.periodicGetInterface(periodName);
     if (err) {
       return [null, err];
     }
-    const now = window.moment(Date.now());
+    const now = window.moment(timestamp);
     const all = period.getAll();
     const file = period.get(now, all);
     if (!file) {
@@ -57967,9 +58204,9 @@ var RequestHandler = class {
     }
     return [file, null];
   }
-  periodicGetOrCreateNote(periodName) {
+  periodicGetOrCreateNote(periodName, timestamp) {
     return __async(this, null, function* () {
-      const [gottenFile, err] = this.periodicGetNote(periodName);
+      const [gottenFile, err] = this.periodicGetNote(periodName, timestamp);
       let file = gottenFile;
       if (err === ErrorCode.PeriodicNoteDoesNotExist) {
         const [period] = this.periodicGetInterface(periodName);
@@ -57997,9 +58234,18 @@ var RequestHandler = class {
     res.set("Content-Location", encodeURI(path2));
     return handler(path2, req, res);
   }
+  getPeriodicDateFromParams(params) {
+    const { year, month, day } = params;
+    if (year && month && day) {
+      const date = new Date(year, month - 1, day);
+      return date.getTime();
+    }
+    return Date.now();
+  }
   periodicGet(req, res) {
     return __async(this, null, function* () {
-      const [file, err] = this.periodicGetNote(req.params.period);
+      const date = this.getPeriodicDateFromParams(req.params);
+      const [file, err] = this.periodicGetNote(req.params.period, date);
       if (err) {
         this.returnCannedResponse(res, { errorCode: err });
         return;
@@ -58009,7 +58255,8 @@ var RequestHandler = class {
   }
   periodicPut(req, res) {
     return __async(this, null, function* () {
-      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period);
+      const date = this.getPeriodicDateFromParams(req.params);
+      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period, date);
       if (err) {
         this.returnCannedResponse(res, { errorCode: err });
         return;
@@ -58019,7 +58266,8 @@ var RequestHandler = class {
   }
   periodicPost(req, res) {
     return __async(this, null, function* () {
-      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period);
+      const date = this.getPeriodicDateFromParams(req.params);
+      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period, date);
       if (err) {
         this.returnCannedResponse(res, { errorCode: err });
         return;
@@ -58029,7 +58277,8 @@ var RequestHandler = class {
   }
   periodicPatch(req, res) {
     return __async(this, null, function* () {
-      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period);
+      const date = this.getPeriodicDateFromParams(req.params);
+      const [file, err] = yield this.periodicGetOrCreateNote(req.params.period, date);
       if (err) {
         this.returnCannedResponse(res, { errorCode: err });
         return;
@@ -58039,7 +58288,8 @@ var RequestHandler = class {
   }
   periodicDelete(req, res) {
     return __async(this, null, function* () {
-      const [file, err] = this.periodicGetNote(req.params.period);
+      const date = this.getPeriodicDateFromParams(req.params);
+      const [file, err] = this.periodicGetNote(req.params.period, date);
       if (err) {
         this.returnCannedResponse(res, { errorCode: err });
         return;
@@ -58278,13 +58528,19 @@ var RequestHandler = class {
       type: ContentTypes.dataviewDql,
       limit: MaximumRequestSize
     }));
-    this.api.use(import_body_parser.default.json({ type: ContentTypes.json, limit: MaximumRequestSize }));
+    this.api.use(import_body_parser.default.json({
+      type: ContentTypes.json,
+      strict: false,
+      limit: MaximumRequestSize
+    }));
     this.api.use(import_body_parser.default.json({
       type: ContentTypes.olrapiNoteJson,
+      strict: false,
       limit: MaximumRequestSize
     }));
     this.api.use(import_body_parser.default.json({
       type: ContentTypes.jsonLogic,
+      strict: false,
       limit: MaximumRequestSize
     }));
     this.api.use(import_body_parser.default.text({ type: "text/*", limit: MaximumRequestSize }));
@@ -58292,6 +58548,7 @@ var RequestHandler = class {
     this.api.route("/active/").get(this.activeFileGet.bind(this)).put(this.activeFilePut.bind(this)).patch(this.activeFilePatch.bind(this)).post(this.activeFilePost.bind(this)).delete(this.activeFileDelete.bind(this));
     this.api.route("/vault/*").get(this.vaultGet.bind(this)).put(this.vaultPut.bind(this)).patch(this.vaultPatch.bind(this)).post(this.vaultPost.bind(this)).delete(this.vaultDelete.bind(this));
     this.api.route("/periodic/:period/").get(this.periodicGet.bind(this)).put(this.periodicPut.bind(this)).patch(this.periodicPatch.bind(this)).post(this.periodicPost.bind(this)).delete(this.periodicDelete.bind(this));
+    this.api.route("/periodic/:period/:year/:month/:day/").get(this.periodicGet.bind(this)).put(this.periodicPut.bind(this)).patch(this.periodicPatch.bind(this)).post(this.periodicPost.bind(this)).delete(this.periodicDelete.bind(this));
     this.api.route("/commands/").get(this.commandGet.bind(this));
     this.api.route("/commands/:commandId/").post(this.commandPost.bind(this));
     this.api.route("/search/").post(this.searchQueryPost.bind(this));
