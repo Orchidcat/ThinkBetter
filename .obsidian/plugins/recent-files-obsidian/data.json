@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "中国历代政治得失",
-      "path": "ThinkBetter/Books/中国历代政治得失.md"
+      "basename": "正见",
+      "path": "正见.md"
+    },
+    {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "读书 MOC",
+      "path": "读书 MOC.md"
+    },
+    {
+      "basename": "中国历代政治得失",
+      "path": "ThinkBetter/Books/中国历代政治得失.md"
     },
     {
       "basename": "内经-伤寒论",
@@ -39,10 +51,6 @@
     {
       "basename": "Digital Minimalism",
       "path": "ThinkBetter/Books/Digital Minimalism.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "系统思考",
@@ -103,10 +111,6 @@
     {
       "basename": "前行修行",
       "path": "前行修行.md"
-    },
-    {
-      "basename": "正见",
-      "path": "正见.md"
     },
     {
       "basename": "心智模型 MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "抱朴子内篇",
       "path": "抱朴子内篇.md"
-    },
-    {
-      "basename": "脉诊学习",
-      "path": "ThinkBetter/脉诊学习.md"
     }
   ],
   "omittedPaths": [],
