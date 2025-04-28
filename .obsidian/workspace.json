@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 440.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -172,7 +172,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c5acbe9a6c29b608",
   "lastOpenFiles": [
     "ThinkBetter/人纪/内经-伤寒论.md",
     "ThinkBetter/人纪/+Home.md",
