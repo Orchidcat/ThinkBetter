@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/Clear Thinking.md"
+    },
+    {
       "basename": "脾胃论",
       "path": "ThinkBetter/人纪/脾胃论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "时间管理的本质",
       "path": "ThinkBetter/时间管理的本质.md"
-    },
-    {
-      "basename": "认知偏见",
-      "path": "认知偏见.md"
     }
   ],
   "omittedPaths": [],
