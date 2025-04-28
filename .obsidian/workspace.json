@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "内经-伤寒论"
             }
+          },
+          {
+            "id": "c5acbe9a6c29b608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正见.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "正见"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#人纪/概念",
+                "query": "善",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5,
-    "collapsed": true
+    "width": 493.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -157,10 +172,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/内经-伤寒论.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/Books.md",
     "正见.md",
