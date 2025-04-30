@@ -228,7 +228,8 @@
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "workbench-obsidian:Workbench": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "abe5a9a2a0577e72",
