@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "001 @MOC中医",
+      "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "记忆框架的建立",
       "path": "ThinkBetter/记忆框架的建立.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
@@ -195,13 +199,12 @@
     {
       "basename": "肝脾位置之解说",
       "path": "ThinkBetter/人纪/肝脾位置之解说.md"
-    },
-    {
-      "basename": "三焦考",
-      "path": "ThinkBetter/三焦考.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
