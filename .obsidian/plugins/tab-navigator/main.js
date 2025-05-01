@@ -2033,14 +2033,14 @@ Fuse.config = Config;
 var import_obsidian = require("obsidian");
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[27] = list[i].leaf;
-  child_ctx[28] = list[i].titleOrName;
-  child_ctx[29] = list[i].aliases;
-  child_ctx[30] = list[i].details;
-  child_ctx[31] = list[i].tags;
-  child_ctx[32] = list[i].extention;
-  child_ctx[33] = list[i].matches;
-  child_ctx[35] = i;
+  child_ctx[30] = list[i].leaf;
+  child_ctx[31] = list[i].titleOrName;
+  child_ctx[32] = list[i].aliases;
+  child_ctx[33] = list[i].details;
+  child_ctx[34] = list[i].tags;
+  child_ctx[35] = list[i].extention;
+  child_ctx[36] = list[i].matches;
+  child_ctx[38] = i;
   return child_ctx;
 }
 function create_else_block(ctx) {
@@ -2051,16 +2051,16 @@ function create_else_block(ctx) {
   let span0;
   let raw0_value = ((_b = (_a = (0, import_obsidian.getIcon)(
     /*leaf*/
-    ctx[27].getIcon()
+    ctx[30].getIcon()
   )) == null ? void 0 : _a.outerHTML) != null ? _b : "") + "";
   let t0;
   let span1;
   let raw1_value = highlightMatches(
     "titleOrName",
     /*titleOrName*/
-    ctx[28],
+    ctx[31],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   let t1;
   let t2;
@@ -2071,37 +2071,37 @@ function create_else_block(ctx) {
   let if_block0 = (
     /*settings*/
     ((_c = ctx[0]) == null ? void 0 : _c.enableAliasSearch) && /*aliases*/
-    ctx[29].length > 0 && create_if_block_4(ctx)
+    ctx[32].length > 0 && create_if_block_4(ctx)
   );
   let if_block1 = (
     /*settings*/
     ((_d = ctx[0]) == null ? void 0 : _d.enableTagSearch) && /*tags*/
-    ctx[31].length > 0 && create_if_block_3(ctx)
+    ctx[34].length > 0 && create_if_block_3(ctx)
   );
   function mouseenter_handler_1() {
     return (
       /*mouseenter_handler_1*/
-      ctx[16](
+      ctx[17](
         /*index*/
-        ctx[35]
+        ctx[38]
       )
     );
   }
   function click_handler_1() {
     return (
       /*click_handler_1*/
-      ctx[17](
+      ctx[18](
         /*index*/
-        ctx[35]
+        ctx[38]
       )
     );
   }
   function keydown_handler_1(...args) {
     return (
       /*keydown_handler_1*/
-      ctx[18](
+      ctx[19](
         /*index*/
-        ctx[35],
+        ctx[38],
         ...args
       )
     );
@@ -2125,7 +2125,7 @@ function create_else_block(ctx) {
       attr(div0, "class", "suggestion-title");
       attr(div1, "class", "suggestion-content");
       attr(div2, "class", div2_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[35] === /*selectedIndex*/
+      (ctx[38] === /*selectedIndex*/
       ctx[4] ? "is-selected" : ""));
       attr(div2, "tabindex", "0");
       attr(div2, "role", "button");
@@ -2161,7 +2161,7 @@ function create_else_block(ctx) {
       if (dirty[0] & /*searchResults*/
       8 && raw0_value !== (raw0_value = ((_b2 = (_a2 = (0, import_obsidian.getIcon)(
         /*leaf*/
-        ctx[27].getIcon()
+        ctx[30].getIcon()
       )) == null ? void 0 : _a2.outerHTML) != null ? _b2 : "") + ""))
         span0.innerHTML = raw0_value;
       ;
@@ -2169,16 +2169,16 @@ function create_else_block(ctx) {
       8 && raw1_value !== (raw1_value = highlightMatches(
         "titleOrName",
         /*titleOrName*/
-        ctx[28],
+        ctx[31],
         /*matches*/
-        ctx[33]
+        ctx[36]
       ) + ""))
         span1.innerHTML = raw1_value;
       ;
       if (
         /*settings*/
         ((_c2 = ctx[0]) == null ? void 0 : _c2.enableAliasSearch) && /*aliases*/
-        ctx[29].length > 0
+        ctx[32].length > 0
       ) {
         if (if_block0) {
           if_block0.p(ctx, dirty);
@@ -2194,7 +2194,7 @@ function create_else_block(ctx) {
       if (
         /*settings*/
         ((_d2 = ctx[0]) == null ? void 0 : _d2.enableTagSearch) && /*tags*/
-        ctx[31].length > 0
+        ctx[34].length > 0
       ) {
         if (if_block1) {
           if_block1.p(ctx, dirty);
@@ -2209,7 +2209,7 @@ function create_else_block(ctx) {
       }
       if (dirty[0] & /*selectedIndex*/
       16 && div2_class_value !== (div2_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[35] === /*selectedIndex*/
+      (ctx[38] === /*selectedIndex*/
       ctx[4] ? "is-selected" : ""))) {
         attr(div2, "class", div2_class_value);
       }
@@ -2236,9 +2236,9 @@ function create_if_block(ctx) {
   let raw0_value = highlightMatches(
     "titleOrName",
     /*titleOrName*/
-    ctx[28],
+    ctx[31],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   let t0;
   let t1;
@@ -2247,16 +2247,16 @@ function create_if_block(ctx) {
   let span1;
   let raw1_value = ((_b = (_a = (0, import_obsidian.getIcon)(
     /*leaf*/
-    ctx[27].getIcon()
+    ctx[30].getIcon()
   )) == null ? void 0 : _a.outerHTML) != null ? _b : "") + "";
   let t3;
   let span2;
   let raw2_value = highlightMatches(
     "details",
     /*details*/
-    ctx[30],
+    ctx[33],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   let t4;
   let div3_class_value;
@@ -2265,7 +2265,7 @@ function create_if_block(ctx) {
   let if_block0 = (
     /*settings*/
     ((_c = ctx[0]) == null ? void 0 : _c.enableAliasSearch) && /*aliases*/
-    ctx[29].length > 0 && create_if_block_2(ctx)
+    ctx[32].length > 0 && create_if_block_2(ctx)
   );
   let if_block1 = (
     /*settings*/
@@ -2274,27 +2274,27 @@ function create_if_block(ctx) {
   function mouseenter_handler() {
     return (
       /*mouseenter_handler*/
-      ctx[13](
+      ctx[14](
         /*index*/
-        ctx[35]
+        ctx[38]
       )
     );
   }
   function click_handler() {
     return (
       /*click_handler*/
-      ctx[14](
+      ctx[15](
         /*index*/
-        ctx[35]
+        ctx[38]
       )
     );
   }
   function keydown_handler(...args) {
     return (
       /*keydown_handler*/
-      ctx[15](
+      ctx[16](
         /*index*/
-        ctx[35],
+        ctx[38],
         ...args
       )
     );
@@ -2323,7 +2323,7 @@ function create_if_block(ctx) {
       attr(div1, "class", "suggestion-note qsp-note");
       attr(div2, "class", "suggestion-content");
       attr(div3, "class", div3_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[35] === /*selectedIndex*/
+      (ctx[38] === /*selectedIndex*/
       ctx[4] ? "is-selected" : ""));
       attr(div3, "tabindex", "0");
       attr(div3, "role", "button");
@@ -2364,16 +2364,16 @@ function create_if_block(ctx) {
       8 && raw0_value !== (raw0_value = highlightMatches(
         "titleOrName",
         /*titleOrName*/
-        ctx[28],
+        ctx[31],
         /*matches*/
-        ctx[33]
+        ctx[36]
       ) + ""))
         span0.innerHTML = raw0_value;
       ;
       if (
         /*settings*/
         ((_a2 = ctx[0]) == null ? void 0 : _a2.enableAliasSearch) && /*aliases*/
-        ctx[29].length > 0
+        ctx[32].length > 0
       ) {
         if (if_block0) {
           if_block0.p(ctx, dirty);
@@ -2404,7 +2404,7 @@ function create_if_block(ctx) {
       if (dirty[0] & /*searchResults*/
       8 && raw1_value !== (raw1_value = ((_d2 = (_c2 = (0, import_obsidian.getIcon)(
         /*leaf*/
-        ctx[27].getIcon()
+        ctx[30].getIcon()
       )) == null ? void 0 : _c2.outerHTML) != null ? _d2 : "") + ""))
         span1.innerHTML = raw1_value;
       ;
@@ -2412,15 +2412,15 @@ function create_if_block(ctx) {
       8 && raw2_value !== (raw2_value = highlightMatches(
         "details",
         /*details*/
-        ctx[30],
+        ctx[33],
         /*matches*/
-        ctx[33]
+        ctx[36]
       ) + ""))
         span2.innerHTML = raw2_value;
       ;
       if (dirty[0] & /*selectedIndex*/
       16 && div3_class_value !== (div3_class_value = "suggestion-item mod-complex " + /*index*/
-      (ctx[35] === /*selectedIndex*/
+      (ctx[38] === /*selectedIndex*/
       ctx[4] ? "is-selected" : ""))) {
         attr(div3, "class", div3_class_value);
       }
@@ -2446,9 +2446,9 @@ function create_if_block_4(ctx) {
   let raw_value = highlightMatches(
     "aliases",
     /*aliases*/
-    ctx[29],
+    ctx[32],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   return {
     c() {
@@ -2469,9 +2469,9 @@ function create_if_block_4(ctx) {
       8 && raw_value !== (raw_value = highlightMatches(
         "aliases",
         /*aliases*/
-        ctx2[29],
+        ctx2[32],
         /*matches*/
-        ctx2[33]
+        ctx2[36]
       ) + ""))
         span0.innerHTML = raw_value;
       ;
@@ -2491,9 +2491,9 @@ function create_if_block_3(ctx) {
   let raw_value = highlightMatches(
     "tags",
     /*tags*/
-    ctx[31],
+    ctx[34],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   return {
     c() {
@@ -2514,9 +2514,9 @@ function create_if_block_3(ctx) {
       8 && raw_value !== (raw_value = highlightMatches(
         "tags",
         /*tags*/
-        ctx2[31],
+        ctx2[34],
         /*matches*/
-        ctx2[33]
+        ctx2[36]
       ) + ""))
         span0.innerHTML = raw_value;
       ;
@@ -2536,9 +2536,9 @@ function create_if_block_2(ctx) {
   let raw_value = highlightMatches(
     "aliases",
     /*aliases*/
-    ctx[29],
+    ctx[32],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   return {
     c() {
@@ -2559,9 +2559,9 @@ function create_if_block_2(ctx) {
       8 && raw_value !== (raw_value = highlightMatches(
         "aliases",
         /*aliases*/
-        ctx2[29],
+        ctx2[32],
         /*matches*/
-        ctx2[33]
+        ctx2[36]
       ) + ""))
         span0.innerHTML = raw_value;
       ;
@@ -2581,9 +2581,9 @@ function create_if_block_1(ctx) {
   let raw_value = highlightMatches(
     "tags",
     /*tags*/
-    ctx[31],
+    ctx[34],
     /*matches*/
-    ctx[33]
+    ctx[36]
   ) + "";
   return {
     c() {
@@ -2604,9 +2604,9 @@ function create_if_block_1(ctx) {
       8 && raw_value !== (raw_value = highlightMatches(
         "tags",
         /*tags*/
-        ctx2[31],
+        ctx2[34],
         /*matches*/
-        ctx2[33]
+        ctx2[36]
       ) + ""))
         span0.innerHTML = raw_value;
       ;
@@ -2712,7 +2712,7 @@ function create_fragment(ctx) {
       attr(div3, "class", "prompt-results");
       attr(div9, "class", "prompt-instructions");
       attr(div9, "data-mode", "standard");
-      attr(div10, "class", "prompt");
+      attr(div10, "class", "prompt tab-navigator-modal");
       attr(div11, "class", "modal-container mod-dim");
     },
     m(target, anchor) {
@@ -2722,7 +2722,7 @@ function create_fragment(ctx) {
       append(div11, div10);
       append(div10, div2);
       append(div2, input);
-      ctx[10](input);
+      ctx[11](input);
       set_input_value(
         input,
         /*searchInput*/
@@ -2739,20 +2739,20 @@ function create_fragment(ctx) {
       }
       append(div10, t3);
       append(div10, div9);
-      ctx[19](div10);
+      ctx[20](div10);
       if (!mounted) {
         dispose = [
           listen(
             input,
             "input",
             /*input_input_handler*/
-            ctx[11]
+            ctx[12]
           ),
           listen(
             input,
             "input",
             /*input_handler*/
-            ctx[12]
+            ctx[13]
           )
         ];
         mounted = true;
@@ -2797,9 +2797,9 @@ function create_fragment(ctx) {
       if (detaching) {
         detach(div11);
       }
-      ctx[10](null);
+      ctx[11](null);
       destroy_each(each_blocks, detaching);
-      ctx[19](null);
+      ctx[20](null);
       mounted = false;
       run_all(dispose);
     }
@@ -2811,7 +2811,6 @@ function highlightMatches(key, text2, matches) {
   const match = matches.find((m) => m.key === key);
   if (!match)
     return text2;
-  console.log(match);
   let highlightedText = text2;
   match.indices.slice().reverse().forEach(([start, end]) => {
     const before = highlightedText.substring(0, start);
@@ -2823,6 +2822,7 @@ function highlightMatches(key, text2, matches) {
 }
 function instance($$self, $$props, $$invalidate) {
   let { app } = $$props;
+  let { currentWindow } = $$props;
   let { removeDuplicateTabs } = $$props;
   let { settings } = $$props;
   const dispatch = createEventDispatcher();
@@ -2831,6 +2831,7 @@ function instance($$self, $$props, $$invalidate) {
   let allLeaves = [];
   let searchResults = [];
   let selectedIndex = 0;
+  let currentLeafIndex = 0;
   let inputElement;
   let fuse;
   onMount(() => {
@@ -2840,28 +2841,41 @@ function instance($$self, $$props, $$invalidate) {
         dispatch("close");
       }
     }
-    document.addEventListener("click", handleClickOutside);
+    currentWindow.document.addEventListener("click", handleClickOutside);
     loadLeaves();
-    window.addEventListener("keydown", handleKeyDown);
+    setCurrentLeafIndex();
+    currentWindow.addEventListener("keydown", handleKeyDown);
     if (inputElement) {
       inputElement.focus();
     }
     return () => {
-      document.removeEventListener("click", handleClickOutside);
-      window.removeEventListener("keydown", handleKeyDown);
+      currentWindow.document.removeEventListener("click", handleClickOutside);
+      currentWindow.removeEventListener("keydown", handleKeyDown);
     };
   });
+  function setCurrentLeafIndex() {
+    const activeLeaf = app.workspace.activeLeaf;
+    currentLeafIndex = allLeaves.findIndex((leaf) => leaf.leaf === activeLeaf);
+    $$invalidate(4, selectedIndex = currentLeafIndex >= 0 ? currentLeafIndex : 0);
+  }
   function loadLeaves() {
     return __awaiter(this, void 0, void 0, function* () {
       allLeaves = [];
-      app.workspace.iterateRootLeaves((leaf) => {
-        var _a, _b, _c, _d;
+      app.workspace.iterateAllLeaves((leaf) => {
+        var _a, _b, _c, _d, _e;
+        const viewState = leaf.getViewState();
+        if (!(viewState.type === "markdown" || viewState.type === "pdf" || viewState.type === "canvas")) {
+          return;
+        }
+        if (["backlink", "outline", "tag", "outgoing-link"].includes(viewState.type)) {
+          return;
+        }
         let titleOrName;
         let details;
         let aliases = "";
         let tags = "";
         let extention = null;
-        if (leaf.view instanceof import_obsidian.FileView) {
+        if (leaf.view instanceof import_obsidian.FileView && leaf.view.file) {
           const file = leaf.view.file;
           titleOrName = file.basename;
           if (settings === null || settings === void 0 ? void 0 : settings.includeFileNameInPath) {
@@ -2885,9 +2899,21 @@ function instance($$self, $$props, $$invalidate) {
               tags = "#" + fileCache.frontmatter.tags.join(" #");
             }
           }
+        } else if ((_e = viewState.state) === null || _e === void 0 ? void 0 : _e.file) {
+          const filePath = viewState.state.file;
+          const pathParts = filePath.split("/");
+          const fileName = pathParts.pop() || "";
+          const fileNameParts = fileName.split(".");
+          extention = fileNameParts.length > 1 ? fileNameParts.pop() || null : null;
+          titleOrName = extention ? fileNameParts.join(".") : fileName;
+          if (settings === null || settings === void 0 ? void 0 : settings.includeFileNameInPath) {
+            details = filePath;
+          } else {
+            details = pathParts.join("/");
+          }
         } else {
-          titleOrName = leaf.view.getViewType().replace(/_/g, " ").replace(/^\w/, (c) => c.toUpperCase());
-          details = ":" + leaf.view.getViewType();
+          titleOrName = viewState.title || "Unknown";
+          details = viewState.type;
         }
         allLeaves.push({
           leaf,
@@ -2926,6 +2952,7 @@ function instance($$self, $$props, $$invalidate) {
   function filterSearchResults() {
     if (searchInput.trim() === "") {
       $$invalidate(3, searchResults = allLeaves);
+      $$invalidate(4, selectedIndex = currentLeafIndex >= 0 ? currentLeafIndex : 0);
     } else {
       $$invalidate(3, searchResults = fuse.search(searchInput).map((result) => {
         console.log(result);
@@ -2964,8 +2991,14 @@ function instance($$self, $$props, $$invalidate) {
   }
   function selectItem(index) {
     const selectedItem = searchResults[index];
-    app.workspace.setActiveLeaf(selectedItem.leaf);
-    dispatch("close");
+    const leaf = selectedItem.leaf;
+    app.workspace.setActiveLeaf(leaf, { focus: true });
+    setTimeout(
+      () => {
+        dispatch("close");
+      },
+      100
+    );
   }
   function removeTab(index) {
     searchResults[index].leaf.detach();
@@ -2996,8 +3029,10 @@ function instance($$self, $$props, $$invalidate) {
   $$self.$$set = ($$props2) => {
     if ("app" in $$props2)
       $$invalidate(8, app = $$props2.app);
+    if ("currentWindow" in $$props2)
+      $$invalidate(9, currentWindow = $$props2.currentWindow);
     if ("removeDuplicateTabs" in $$props2)
-      $$invalidate(9, removeDuplicateTabs = $$props2.removeDuplicateTabs);
+      $$invalidate(10, removeDuplicateTabs = $$props2.removeDuplicateTabs);
     if ("settings" in $$props2)
       $$invalidate(0, settings = $$props2.settings);
   };
@@ -3011,6 +3046,7 @@ function instance($$self, $$props, $$invalidate) {
     handleInput,
     selectItem,
     app,
+    currentWindow,
     removeDuplicateTabs,
     input_binding,
     input_input_handler,
@@ -3035,7 +3071,8 @@ var SearchModel = class extends SvelteComponent {
       safe_not_equal,
       {
         app: 8,
-        removeDuplicateTabs: 9,
+        currentWindow: 9,
+        removeDuplicateTabs: 10,
         settings: 0
       },
       null,
@@ -3096,7 +3133,6 @@ var TabSwitcher = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
     this.searchModelInstance = null;
-    // SearchModelのインスタンスを保持するためのプロパティ
     this.settings = null;
   }
   async onload() {
@@ -3106,16 +3142,19 @@ var TabSwitcher = class extends import_obsidian3.Plugin {
       id: "search-tabs",
       name: "Search tabs",
       callback: () => {
+        var _a;
         const { app } = this;
         if (this.searchModelInstance) {
           this.searchModelInstance.$destroy();
           this.searchModelInstance = null;
         }
+        const activeView = app.workspace.getActiveViewOfType(import_obsidian3.View);
+        const currentWindow = (_a = activeView == null ? void 0 : activeView.containerEl.ownerDocument.defaultView) != null ? _a : window;
         this.searchModelInstance = new SearchModel_default({
-          // target: app.workspace.containerEl,
-          target: document.body,
+          target: currentWindow.document.body,
           props: {
             app,
+            currentWindow,
             settings: this.settings,
             removeDuplicateTabs: this.removeDuplicateTabs.bind(this)
           }
@@ -3135,6 +3174,13 @@ var TabSwitcher = class extends import_obsidian3.Plugin {
         this.removeDuplicateTabs();
       }
     });
+    this.addCommand({
+      id: "load-all-tabs",
+      name: "Load all tabs",
+      callback: () => {
+        this.populateTabsFromWorkspaceData();
+      }
+    });
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
@@ -3142,7 +3188,7 @@ var TabSwitcher = class extends import_obsidian3.Plugin {
   async saveSettings() {
     await this.saveData(this.settings);
   }
-  // 重複するタブを削除するメソッド
+  // Method to remove duplicate tabs
   removeDuplicateTabs() {
     const seen = /* @__PURE__ */ new Set();
     const toRemove = [];
@@ -3160,25 +3206,19 @@ var TabSwitcher = class extends import_obsidian3.Plugin {
     });
     toRemove.forEach((leaf) => leaf.detach());
   }
-  openSearchModel() {
-    const { app } = this;
-    if (this.searchModelInstance) {
-      this.searchModelInstance.$destroy();
-      this.searchModelInstance = null;
-    }
-    this.searchModelInstance = new SearchModel_default({
-      target: app.workspace.containerEl,
-      props: {
-        app,
-        removeDuplicateTabs: this.removeDuplicateTabs.bind(this),
-        settings: this.settings
-      }
-    });
-  }
-  // プラグインがアンロードされるときにコンポーネントを破棄
+  // Destroy component when plugin is unloaded
   onunload() {
     if (this.searchModelInstance) {
       this.searchModelInstance.$destroy();
     }
   }
+  // Method to populate tabs from workspace data without loading them
+  populateTabsFromWorkspaceData() {
+    if (this.searchModelInstance) {
+      this.searchModelInstance.$destroy();
+      this.searchModelInstance = null;
+    }
+  }
 };
+
+/* nosourcemap */

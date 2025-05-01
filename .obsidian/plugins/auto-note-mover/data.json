@@ -7,9 +7,14 @@
       "folder": "ThinkBetter/人纪",
       "tag": "#人纪",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/Books",
+      "tag": "#book",
+      "pattern": ""
     }
   ],
-  "use_regex_to_check_for_excluded_folder": false,
+  "use_regex_to_check_for_excluded_folder": true,
   "excluded_folder": [
     {
       "folder": ""

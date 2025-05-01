@@ -9,6 +9,7 @@ tags:
 
 我们不需要在每个领域都是天才，但我们应该了解大多数学科的思想，并尽量避免[自欺欺人](https://fs.blog/2015/11/cargo-cult-science/)。这是[心智模型](https://fs.blog/mental-models/)方法的核心。如果您不是某个领域的专家，通常最好的方法是 [避免愚蠢](https://fs.blog/2014/06/avoiding-stupidity/)。没有比了解世界如何运作更好的避免愚蠢的方法了。
 
+
 哈丁首先概述了他的目标：**理解现实并理解人性的本来面目，从分析中消除过早的判断。**
 
 
@@ -22,7 +23,18 @@ tags:
 
 
 
+- 什么是避免愚蠢（绝大多数人都是业余的；应该避免失败，而不是努力取胜）
+	避免愚蠢就是要记住显而易见的事情，在你有优势的领域开展业务，确保你因承担的风险而获得补偿，确保你在财务和心理上继续参与游戏，并拥有足够的耐心。
+	
+	关键在于了解自己在玩什么游戏
+	- 赢家游戏，还是输家游戏；赢家游戏在于得分，而输家游戏在于主动失分。如果你在自己的[能力范围](https://fs.blog/circle-of-competence/)内，就追求卓越。如果你不在自己的能力范围内，就**避免愚蠢**。
 
 
 
+
+The Greate Mental Models 
+	Volume 1 [[General Thinking Concepts]]        提供了9种最基础的思维模型
+	Volume 2 Physics, Chemistry and Biology  
+	Volume 3 [[Systems and Mathematics]]
+	Volume 4 [[Economics and Art]]
 

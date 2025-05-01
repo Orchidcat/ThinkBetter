@@ -3,5 +3,6 @@
   "foldIndent": true,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "spellcheck": false
 }

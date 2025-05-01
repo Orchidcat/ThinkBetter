@@ -1,8 +1,9 @@
 ---
 author: 
 tags:
-  - UnReadBook
+  - reading
   - 学习方法
+  - book
 type: 学习方法
 startDate: 2022-12-29
 endDate: 

@@ -185,3 +185,8 @@ var TidyFootnotes = class extends import_obsidian.Plugin {
     });
   }
 };
+<<<<<<< HEAD
+=======
+
+/* nosourcemap */
+>>>>>>> origin/main

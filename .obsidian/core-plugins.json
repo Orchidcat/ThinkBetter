@@ -6,7 +6,11 @@
   "backlink": false,
   "outgoing-link": false,
   "tag-pane": true,
+<<<<<<< HEAD
   "page-preview": false,
+=======
+  "page-preview": true,
+>>>>>>> origin/main
   "daily-notes": false,
   "templates": false,
   "note-composer": true,

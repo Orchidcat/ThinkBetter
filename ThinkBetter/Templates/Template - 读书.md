@@ -1,10 +1,15 @@
 ---
-author: 
-tags: #Book 
-type:
-startDate: 
-endDate:
-rating: 
+tags: 
+   - Book 
+Cover: 
+Type:
+Series: 
+Author:
+Status: 
+OrderInYear:
+StartDate:
+FinishedDate:
+Rating: 
 ---
 
 

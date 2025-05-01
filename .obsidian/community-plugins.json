@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "calendar",
   "dataview",
   "templater-obsidian",
@@ -29,5 +28,7 @@
   "obsidian42-brat",
   "obsidian-snippet-downloader",
   "obsidian-local-rest-api",
-  "obsidian-enhancing-mindmap"
+  "obsidian-enhancing-mindmap",
+  "obsidian-git",
+  "smart-random-note"
 ]
