@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "读书 MOC",
