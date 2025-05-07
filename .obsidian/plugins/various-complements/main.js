@@ -3600,11 +3600,19 @@ var EnglishOnlyTokenizer = class extends DefaultTokenizer {
         previousType = "english";
         startIndex = i;
         continue;
+<<<<<<< HEAD
       }
       if (previousType === "others" || previousType === "none") {
         previousType = "others";
         continue;
       }
+=======
+      }
+      if (previousType === "others" || previousType === "none") {
+        previousType = "others";
+        continue;
+      }
+>>>>>>> origin/main
       yield { word: content.slice(startIndex, i), offset: startIndex };
       previousType = "others";
       startIndex = i;
