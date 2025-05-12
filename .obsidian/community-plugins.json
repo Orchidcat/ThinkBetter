@@ -1,6 +1,5 @@
 [
   "calendar",
-  "dataview",
   "templater-obsidian",
   "obsidian-outliner",
   "obsidian-mind-map",
@@ -30,5 +29,6 @@
   "obsidian-local-rest-api",
   "obsidian-enhancing-mindmap",
   "obsidian-git",
-  "smart-random-note"
+  "smart-random-note",
+  "dataview"
 ]

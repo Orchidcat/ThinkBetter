@@ -574,7 +574,6 @@
 .git-split-diff-view .cm-insertedLine .cm-changedText {
     background-color: #22bb2230;
 }
-<<<<<<< HEAD
 
 /* Limits the scrollbar to the view body */
 .git-view {
@@ -604,5 +603,3 @@
     background: var(--interactive-hover);
     color: var(--text-accent-hover);
 }
-=======
->>>>>>> origin/main
