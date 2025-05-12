@@ -37,8 +37,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,10 +169,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6458d1f0ff19142b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "纳瓦尔宝典.md",
     "ThinkBetter/Books.md",
+    "纳瓦尔宝典.md",
     "ThinkBetter/人纪/重来3.md",
     "悉达多.md",
     "ThinkBetter/人纪/+Home.md",
