@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "唵",
+                "query": "哈佛",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -169,7 +168,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
     "纳瓦尔宝典.md",
