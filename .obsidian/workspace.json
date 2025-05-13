@@ -37,7 +37,8 @@
               "title": "Books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -168,10 +170,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "6458d1f0ff19142b",
   "lastOpenFiles": [
-    "ThinkBetter/Books.md",
     "纳瓦尔宝典.md",
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/重来3.md",
     "悉达多.md",
     "ThinkBetter/人纪/+Home.md",
