@@ -25,3 +25,5 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 3. 伟大的科学家却能很好地容忍**模糊性**。
 	如果你相信太多，你就永远不会注意到缺陷；如果你怀疑太多，你就无法开始。这需要一种微妙的平衡。
+
+4. 我的领域里有哪些重要问题？
