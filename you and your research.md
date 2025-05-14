@@ -3,7 +3,7 @@
 https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 
-1. 想做一流的工作
+1. **想做**一流的工作
 
 心理学角度:
 人们认为伟大的科学成就是靠运气。一切都是运气的问题。 这是错误的。
@@ -11,3 +11,6 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 运气眷顾有准备的头脑；
 
 **你做的具体事情是运气，但你做某件事本身不是。**
+
+
+2. 成功科学家的特质之一就是勇气。一旦你**鼓起勇气**，相信自己能够解决重要的问题，你就能做到。
