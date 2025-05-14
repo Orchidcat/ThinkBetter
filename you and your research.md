@@ -8,4 +8,6 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 心理学角度:
 人们认为伟大的科学成就是靠运气。一切都是运气的问题。 这是错误的。
 
-运气眷顾有准备的头脑
+运气眷顾有准备的头脑；
+
+**你做的具体事情是运气，但你做某件事本身不是。**
