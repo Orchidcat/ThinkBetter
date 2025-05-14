@@ -37,7 +37,8 @@
               "title": "skin in the game"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +170,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "54d58b95f106943d",
   "lastOpenFiles": [
+    "纳瓦尔宝典.md",
     "skin in the game.md",
     "thinking physics.md",
-    "纳瓦尔宝典.md",
     "ThinkBetter/人纪/伤寒贯珠集.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
