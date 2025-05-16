@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,8 +200,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "be371823ef9df10d",
+  "active": "aec2e93a20c0bd70",
   "lastOpenFiles": [
+    "ThinkBetter/SQL Server MOC.md",
     "you and your research.md",
     "历史的教训.md",
     "ThinkBetter/人纪/+Home.md",
