@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "you and your research.md",
+                "file": "ThinkBetter/SQL Server MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "you and your research"
+              "title": "SQL Server MOC"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "哈佛",
+                "query": "tag:#SQLServer  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +202,10 @@
   },
   "active": "be371823ef9df10d",
   "lastOpenFiles": [
+    "you and your research.md",
     "历史的教训.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/思考问题的三个过滤器.md",
-    "you and your research.md",
     "Pasted image 20250515131836.png",
     "Pasted image 20250515094606.png",
     "纳瓦尔宝典.md",
