@@ -67,7 +67,8 @@
               "title": "历史的教训"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,14 +200,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fea0509e19c8f51c",
+  "active": "be371823ef9df10d",
   "lastOpenFiles": [
-    "ThinkBetter/思考问题的三个过滤器.md",
     "历史的教训.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/思考问题的三个过滤器.md",
     "you and your research.md",
     "Pasted image 20250515131836.png",
     "Pasted image 20250515094606.png",
-    "ThinkBetter/人纪/+Home.md",
     "纳瓦尔宝典.md",
     "skin in the game.md",
     "thinking physics.md",
