@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/反脆弱.md",
+                "file": "skin in the game.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "反脆弱"
+              "title": "skin in the game"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "aec2e93a20c0bd70",
   "lastOpenFiles": [
+    "ThinkBetter/反脆弱.md",
     "历史的教训.md",
     "ThinkBetter/SQL Server MOC.md",
     "you and your research.md",
@@ -229,7 +230,6 @@
     "ThinkBetter/临床应用伤寒论解说.md",
     "ThinkBetter/中医执业.md",
     "ThinkBetter/人纪/黄芪.md",
-    "ThinkBetter/人纪/白术.md",
     "Pasted image 20250312112804.png",
     "Pasted image 20250228132502.png",
     "未命名.canvas",
