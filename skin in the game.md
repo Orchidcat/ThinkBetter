@@ -9,7 +9,5 @@ d)复杂系统和现实世界中的合理性。
 当一个人在游戏中有自己的利益时，这四件事是无法分开的
 
 
-It is not just that skin in the game is necessary for fairness, commercial efficiency, and risk management: skin in the game is necessary to understand the world.
 
-First, it is bull***t identification and filtering, that is, the difference between theory and practice, cosmetic and true expertise, and academia (in the bad sense of the word) and the real world. To emit a Yogiberrism, in academia there is no difference between academia and the real world; in the real world, there is.
 
