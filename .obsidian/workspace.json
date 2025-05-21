@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二十四节气.md",
+                "file": "ThinkBetter/六气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "二十四节气"
+              "title": "六气"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "aec2e93a20c0bd70",
   "lastOpenFiles": [
+    "二十四节气.md",
     "skin in the game.md",
     "Pasted image 20250520094739.png",
     "ThinkBetter/SQL Server MOC.md",
