@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "二十四节气",
+      "path": "二十四节气.md"
+    },
+    {
       "basename": "skin in the game",
       "path": "skin in the game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "针灸大成",
       "path": "ThinkBetter/人纪/针灸大成.md"
-    },
-    {
-      "basename": "天干地支",
-      "path": "ThinkBetter/天干地支.md"
     }
   ],
   "omittedPaths": [],

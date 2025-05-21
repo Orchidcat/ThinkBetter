@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skin in the game.md",
+                "file": "二十四节气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "skin in the game"
+              "title": "二十四节气"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "反脆弱",
+                "query": "小满",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -202,9 +201,9 @@
   },
   "active": "aec2e93a20c0bd70",
   "lastOpenFiles": [
+    "skin in the game.md",
     "Pasted image 20250520094739.png",
     "ThinkBetter/SQL Server MOC.md",
-    "skin in the game.md",
     "ThinkBetter/反脆弱.md",
     "历史的教训.md",
     "you and your research.md",
@@ -238,7 +237,6 @@
     "Pasted image 20250102104209.png",
     "Pasted image 20241230092506.png",
     "Pasted image 20241230092405.png",
-    "Pasted image 20241224093957.png",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
