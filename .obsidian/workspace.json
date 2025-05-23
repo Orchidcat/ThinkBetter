@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "skin in the game.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "skin in the game"
             }
           }
         ],
@@ -217,8 +217,8 @@
   },
   "active": "c4fb908eeb396fd7",
   "lastOpenFiles": [
-    "历史的教训.md",
     "ThinkBetter/Books.md",
+    "历史的教训.md",
     "读书 MOC.md",
     "skin in the game.md",
     "ThinkBetter/SQL Server MOC.md",
