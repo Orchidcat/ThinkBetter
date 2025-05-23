@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "小满",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -215,7 +214,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c4fb908eeb396fd7",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books.md",
     "历史的教训.md",
