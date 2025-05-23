@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books.md"
     },
     {
+      "basename": "历史的教训",
+      "path": "历史的教训.md"
+    },
+    {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "反脆弱",
       "path": "ThinkBetter/反脆弱.md"
-    },
-    {
-      "basename": "历史的教训",
-      "path": "历史的教训.md"
     },
     {
       "basename": "you and your research",
