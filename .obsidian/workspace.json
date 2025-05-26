@@ -97,8 +97,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,16 +229,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "66fa7efbf43154ad",
+  "active": "fea0509e19c8f51c",
   "lastOpenFiles": [
-    "skin in the game.md",
+    "ThinkBetter/SQL Server MOC.md",
+    "ThinkBetter/思考问题的三个过滤器.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/六气.md",
     "ThinkBetter/Books.md",
+    "skin in the game.md",
     "历史的教训.md",
     "读书 MOC.md",
-    "ThinkBetter/SQL Server MOC.md",
-    "ThinkBetter/六气.md",
-    "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/思考问题的三个过滤器.md",
     "二十四节气.md",
     "Pasted image 20250520094739.png",
     "ThinkBetter/反脆弱.md",
