@@ -97,7 +97,8 @@
               "title": "Books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,11 +230,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fea0509e19c8f51c",
+  "active": "404069872c128162",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/SQL Server MOC.md",
     "ThinkBetter/思考问题的三个过滤器.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/Books.md",
     "skin in the game.md",
