@@ -51,9 +51,19 @@
               "icon": "lucide-file",
               "title": "skin in the game"
             }
+          },
+          {
+            "id": "36ef7a1dc2f680cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +195,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "66fa7efbf43154ad",
+  "active": "be371823ef9df10d",
   "lastOpenFiles": [
+    "skin in the game.md",
     "ThinkBetter/SQL Server MOC.md",
     "ThinkBetter/六气.md",
-    "skin in the game.md",
     "ThinkBetter/思考问题的三个过滤器.md",
     "ThinkBetter/人纪/+Home.md",
     "反直觉.md",
