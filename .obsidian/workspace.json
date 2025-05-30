@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "体胖",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -195,7 +194,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "be371823ef9df10d",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "skin in the game.md",
     "ThinkBetter/SQL Server MOC.md",
