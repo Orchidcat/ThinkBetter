@@ -1,6 +1,9 @@
 
-view
+#见贤思齐
 https://sommarskog.se/
+https://www.sql.kiwi/page-2/
+https://forrestmcdaniel.com/
+
 
 
 
@@ -71,6 +74,4 @@ https://statisticsparser.com/   一个将io，time输出信息，进行可视化
 
 
 亟待阅读：
-https://www.sql.kiwi/page-2/
-https://forrestmcdaniel.com/
 
