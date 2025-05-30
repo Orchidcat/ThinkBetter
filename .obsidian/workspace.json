@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +194,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "be371823ef9df10d",
+  "active": "66fa7efbf43154ad",
   "lastOpenFiles": [
-    "skin in the game.md",
     "ThinkBetter/SQL Server MOC.md",
+    "skin in the game.md",
     "ThinkBetter/六气.md",
     "ThinkBetter/思考问题的三个过滤器.md",
     "ThinkBetter/人纪/+Home.md",
