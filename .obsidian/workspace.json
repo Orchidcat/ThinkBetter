@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 291.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -194,7 +194,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "be371823ef9df10d",
   "lastOpenFiles": [
     "skin in the game.md",
     "ThinkBetter/SQL Server MOC.md",
