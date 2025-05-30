@@ -66,4 +66,5 @@ https://statisticsparser.com/   一个将io，time输出信息，进行可视化
 #DataBase #SQLServer #MOC 
 
 有趣的已知问题
-缺失索引提示，重建需要很长时间
+[重建索引慢的问题](https://forrestmcdaniel.com/2023/06/)
+
