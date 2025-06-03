@@ -3,4 +3,8 @@
 
 - lazy Table Spool
 - lazy Index Spool
-- 
+- lazy Row Count Spool
+
+
+nested loop join 有两种执行计划：
+1. 
