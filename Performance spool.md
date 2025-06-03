@@ -28,7 +28,7 @@ https://www.sql.kiwi/2019/09/nested-loops-joins-performance-spools/
 
 优化器规则
 
-我们无法使用t-sql 指定spool；意味着优化器必须在其选择的
+我们无法使用t-sql 指定spool；意味着优化器必须在其选择的探索方案之中包含一个逻辑spool。查询树中的每个逻辑运算符都会根据当前优化阶段可用的规则进行快速模式匹配检查。
 
 
 
