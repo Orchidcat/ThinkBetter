@@ -24,3 +24,12 @@ it helpful to think of a spool _rebind_ as a cache miss, and a _rewind_ as a
 
 
 更细的可以查看。
+https://www.sql.kiwi/2019/09/nested-loops-joins-performance-spools/
+
+优化器规则
+
+我们无法使用t-sql 指定spool；意味着优化器必须在其选择的
+
+
+
+
