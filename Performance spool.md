@@ -21,3 +21,6 @@ nested loop join 有两种执行计划；将具有外部引用的种类称为 **
 当 spool 能够重放缓存的结果时，这被称为**倒带**。当 spool 必须执行其子操作符才能获得正确的数据时，就会发生**重新绑定**。
 
 it helpful to think of a spool _rebind_ as a cache miss, and a _rewind_ as a cache hit.
+
+
+更细的可以查看。
