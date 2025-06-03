@@ -51,16 +51,6 @@
               "icon": "lucide-file",
               "title": "skin in the game"
             }
-          },
-          {
-            "id": "36ef7a1dc2f680cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
         "currentTab": 2
