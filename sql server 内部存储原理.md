@@ -78,3 +78,34 @@ page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末�
 
 
 
+##### 例
+```SQL
+CREATE TABLE MagazineStatistics
+   (
+    MagazineID INT NOT NULL ,
+    ViewDate SMALLDATETIME NOT NULL ,
+    ViewHour TINYINT NOT NULL ,
+    PageNumber SMALLINT NOT NULL ,
+    ViewCount INT NOT NULL
+   );
+
+CREATE CLUSTERED INDEX CX_MagazineStatistics
+  ON MagazineStatistics (MagazineID, ViewDate, ViewHour, PageNumber);
+```
+
+`MagazineStatistics`表的新模式设计。
+
+它出奇地简单。它的美妙之处在于设计了一个不需要任何二级索引，只需要聚集索引的模式。本质上，我设计了一个聚集索引，它的作用与我成千上万个独立数据库相同，但效率却高得多。
+
+
+我们必须首先做出一个影响深远的选择，那就是如何设计聚集索引，特别是关于`ViewDate`跟踪页面浏览日期和小时的不断增加的值的列。如果这是聚集索引的第一列，我们将大大减少页面拆分的次数，因为 SQL Server 只会将每个新记录添加到 B 树的末尾。然而，这样做会降低我们快速筛选结果的能力`MagazineID`。为此，我们必须扫描所有数据。
+
+我考虑到最典型的查询模式是这样的：“_告诉我 Y 时期杂志 X 的总页面浏览量_`MagazineID`。” 对于这样的读取模式，清单 7 中的模式是最佳的，因为它按和 对数据进行排序`ViewDate`。
+
+虽然该架构对于读取来说是最优的，但对于写入来说却并非最优，因为如果索引按`MagazineID`“第一”而不是“列”排序，SQL Server 就无法连续写入数据。不过，由于和列是聚集键的一部分，因此`ViewDate`在每个 中`MagazineID`，SQL Server 都会按排序顺序存储记录。`ViewDate``ViewHour`
+
+这种设计在添加新记录时仍然会产生页面拆分成本，但只要我们定期进行维护，旧值就不会受到影响。通过将该列作为索引键的第四列（也是最后一列），满足诸如“_求出 Z 时期 Y 杂志 X 页的页面浏览量_”`PageNumber`之类的查询也相对便宜。
+
+虽然您通常希望聚集键尽可能窄，但在本例中并非如此。该键的四列加起来只有 9 个字节，因此与 16 字节`uniqueidentifier`（`GUID`）相比，它仍然是一个相对较窄的键。
+
+相关表中存在非聚集索引或外键，由于需要复制完整的聚集键，会加剧宽聚集键的问题。考虑到我们的模式和查询要求，我们不需要非聚集索引，也没有任何指向统计数据的外键。
