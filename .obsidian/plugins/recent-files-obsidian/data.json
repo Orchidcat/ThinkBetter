@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Heap",
+      "path": "Heap.md"
+    },
+    {
+      "basename": "skin in the game",
+      "path": "skin in the game.md"
+    },
+    {
       "basename": "sql server 内部存储原理",
       "path": "sql server 内部存储原理.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "DBCC PAGE",
       "path": "DBCC PAGE.md"
-    },
-    {
-      "basename": "skin in the game",
-      "path": "skin in the game.md"
     },
     {
       "basename": "Performance spool",
@@ -195,10 +199,6 @@
     {
       "basename": "Template - 读书",
       "path": "ThinkBetter/Templates/Template - 读书.md"
-    },
-    {
-      "basename": "哲学图谱",
-      "path": "哲学图谱.md"
     }
   ],
   "omittedPaths": [],
