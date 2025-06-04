@@ -8,4 +8,6 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 数据记录以某种格式存储`fixedvar` ； 固定长度和可变长度；
 
 固定长度数据类型具有固定的长度，且不会偏离该长度。
-可变长度数据类型
+可变长度数据类型得长度会根据记录而变化。
+
+
