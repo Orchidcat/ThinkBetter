@@ -5,12 +5,16 @@
       "path": "sql server 内部存储原理.md"
     },
     {
+      "basename": "b-tree",
+      "path": "b-tree.md"
+    },
+    {
       "basename": "Index",
       "path": "Index.md"
     },
     {
-      "basename": "b-tree",
-      "path": "b-tree.md"
+      "basename": "skin in the game",
+      "path": "skin in the game.md"
     },
     {
       "basename": "Performance spool",
@@ -23,10 +27,6 @@
     {
       "basename": "Heap",
       "path": "Heap.md"
-    },
-    {
-      "basename": "skin in the game",
-      "path": "skin in the game.md"
     },
     {
       "basename": "DBCC PAGE",

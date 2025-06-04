@@ -1,6 +1,6 @@
 https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/sql-server-storage-internals-101/
 
-
+#SQLServer/Internal 
 ### row
 
 行是 SQL Server 数据文件中最小的存储结构。表中的每一行都作为单独的记录存储在磁盘上。不仅表数据以记录形式存储，索引、元数据、数据库启动结构等等也以记录形式存储。不过，我们只讨论最常见、最重要的记录类型，即**数据记录**，它与索引记录的格式相同。
@@ -109,3 +109,7 @@ CREATE CLUSTERED INDEX CX_MagazineStatistics
 虽然您通常希望聚集键尽可能窄，但在本例中并非如此。该键的四列加起来只有 9 个字节，因此与 16 字节`uniqueidentifier`（`GUID`）相比，它仍然是一个相对较窄的键。
 
 相关表中存在非聚集索引或外键，由于需要复制完整的聚集键，会加剧宽聚集键的问题。考虑到我们的模式和查询要求，我们不需要非聚集索引，也没有任何指向统计数据的外键。
+
+
+存储要求
+

@@ -53,32 +53,37 @@
             }
           },
           {
-            "id": "e91429b57049c528",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "8df5ff0c0bbfcfd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "sql server 内部存储原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "sql server 内部存储原理"
             }
           },
           {
             "id": "c2477aa3445afae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b-tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "b-tree"
+            }
+          },
+          {
+            "id": "da3bed3dbdb1dcc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sql server 内部存储原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "sql server 内部存储原理 的大纲"
             }
           }
         ],
@@ -205,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,17 +228,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e91429b57049c528",
+  "active": "8df5ff0c0bbfcfd4",
   "lastOpenFiles": [
+    "b-tree.md",
     "sql server 内部存储原理.md",
     "Index.md",
-    "b-tree.md",
+    "skin in the game.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Performance spool.md",
     "DBCC IND.md",
     "Heap.md",
-    "skin in the game.md",
     "Pasted image 20250604104102.png",
     "DBCC PAGE.md",
     "Pasted image 20250604103318.png",
