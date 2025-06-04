@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sql server 内部存储原理",
+      "path": "sql server 内部存储原理.md"
+    },
+    {
       "basename": "skin in the game",
       "path": "skin in the game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "前行修行",
       "path": "前行修行.md"
-    },
-    {
-      "basename": "心智模型 MOC",
-      "path": "ThinkBetter/心智模型 MOC.md"
     }
   ],
   "omittedPaths": [],
