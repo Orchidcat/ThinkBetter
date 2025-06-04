@@ -20,7 +20,7 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 
 两个字节存储记录中固定长度部分的总长度。这是实际固定长度数据的长度，加上用于存储状态的2个字节，以及用于存储总固定长度的2个字节。有时我们将固定长度字段称为空位图指针（ null bitmap pointer )，因为它指向固定长度数据的末尾，也就是空位图的起始位置。
 
-
+固定长度数据中还记录了
 
 
 
