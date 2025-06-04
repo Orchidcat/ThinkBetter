@@ -47,3 +47,9 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 包含两个主要部分：page head 和 page body 。
 页头的大小固定为 96 字节，并且无论页面类型如何，其内容和格式都相同。
 页头包含的信息包括页体中有多少可用空间、页体中存储了多少条记录、页面所属的对象，以及在索引中，页体前后的页面。
+
+page body 占用剩余的8096个字节。
+![[Pasted image 20250604095524.png]]
+
+page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末端反向读取的双字节值数组。
+
