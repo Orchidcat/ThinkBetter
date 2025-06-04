@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,12 +230,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8df5ff0c0bbfcfd4",
+  "active": "e91429b57049c528",
   "lastOpenFiles": [
+    "Index.md",
     "b-tree.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
-    "Index.md",
     "Performance spool.md",
     "DBCC IND.md",
     "sql server 内部存储原理.md",

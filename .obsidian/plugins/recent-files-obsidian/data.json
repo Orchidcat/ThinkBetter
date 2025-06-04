@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sql server 内部存储原理",
+      "path": "sql server 内部存储原理.md"
+    },
+    {
       "basename": "Index",
       "path": "Index.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "DBCC IND",
       "path": "DBCC IND.md"
-    },
-    {
-      "basename": "sql server 内部存储原理",
-      "path": "sql server 内部存储原理.md"
     },
     {
       "basename": "Heap",
