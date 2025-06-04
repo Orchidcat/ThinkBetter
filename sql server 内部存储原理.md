@@ -93,3 +93,15 @@ page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末�
 如果 SQL Server 只是将记录移动到新的物理位置，它将不得不在 20 个不同的位置更新该物理指针，这会带来很大的工作量。相反，它会将记录复制到一个新页面，并将原始记录转换为转发存根 ( **forwarding stub)**，这是一个仅占用 9 个字节的小记录，用于存储指向新记录的物理指针。现有的 20 个物理指针将读取转发存根，从而使 SQL Server 能够找到所需的数据。
 
 这种技术使更新更简单、更快捷，但代价是读取时需要进行额外的查找。随着数据修改导致越来越多的记录被转发，磁盘 I/O 会急剧增加，因为 SQL Server 会尝试从整个磁盘读取记录。
+
+
+```SQL
+SELECT o.name ,
+       ps.forwarded_record_count
+FROM
+       sys.dm_db_index_physical_stats(DB_ID('AdventureWorks2008R2'),NULL, NULL,NULL, 'DETAILED') ps
+INNER JOIN sys.objects o ON o.object_id = ps.object_id
+WHERE forwarded_record_count > 0
+```
+
+查找`AdventureWorks`数据库中所有包含转发记录的堆。如果确实存在任何堆（但愿没有），请监视这些值以决定何时发出`ALTER TABLE REBUILD`命令来删除转发记录。
