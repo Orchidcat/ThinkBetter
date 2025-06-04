@@ -1,7 +1,8 @@
 https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/sql-server-storage-internals-101/
 
 
-数据行
+### row
+
 行是 SQL Server 数据文件中最小的存储结构。表中的每一行都作为单独的记录存储在磁盘上。不仅表数据以记录形式存储，索引、元数据、数据库启动结构等等也以记录形式存储。不过，我们只讨论最常见、最重要的记录类型，即**数据记录**，它与索引记录的格式相同。
 
 
@@ -31,3 +32,14 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 ![[Pasted image 20250604095129.png]]
 
 两个字节开始，它们表示记录中存储的可变长度列的数量。在本例中，值`0x0200`表示两列。接下来是一系列双字节值，它们构成可变长度偏移量数组，每列一个，指向记录中相关列数据结束的字节索引。最后，我们得到了实际的可变长度列。
+
+由于 SQL Server 知道数据从偏移数组中的最后一个条目之后开始，并且知道每列的数据在何处结束，因此它可以计算每列的长度，以及查询数据。
+
+
+### Page
+
+理论上，SQL Server 可以将十亿条记录并排存储在一个大型数据文件中，但这管理起来会很麻烦。相反，它会以更小的数据单位（称为页）来组织和存储记录。
+
+页也是 SQL Server 在内存中缓存（由缓冲区管理器处理）的最小数据单位。
+
+
