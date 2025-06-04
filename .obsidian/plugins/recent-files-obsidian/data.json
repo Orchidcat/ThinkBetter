@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "b-tree",
-      "path": "b-tree.md"
-    },
-    {
       "basename": "Index",
       "path": "Index.md"
+    },
+    {
+      "basename": "b-tree",
+      "path": "b-tree.md"
     },
     {
       "basename": "Performance spool",
