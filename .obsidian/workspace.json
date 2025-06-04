@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql server 内部存储原理.md",
+                "file": "DBCC PAGE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sql server 内部存储原理"
+              "title": "DBCC PAGE"
             }
           },
           {
@@ -217,11 +217,13 @@
   },
   "active": "e91429b57049c528",
   "lastOpenFiles": [
+    "Pasted image 20250604103249.png",
+    "sql server 内部存储原理.md",
+    "DBCC PAGE.md",
     "Pasted image 20250604095524.png",
     "Pasted image 20250604095129.png",
     "Pasted image 20250604091155.png",
     "skin in the game.md",
-    "sql server 内部存储原理.md",
     "Performance spool.md",
     "Pasted image 20250603142850.png",
     "ThinkBetter/SQL Server MOC.md",
@@ -248,12 +250,10 @@
     "conflict-files-obsidian-git.md",
     "黄芪.md",
     "白术.md",
-    "ThinkBetter/重来3.md",
     "Pasted image 20250312112804.png",
     "Pasted image 20250228132502.png",
     "未命名.canvas",
     "Pasted image 20250210132851.png",
-    "Pasted image 20250210132049.png",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",

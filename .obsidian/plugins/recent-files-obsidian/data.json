@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DBCC PAGE",
+      "path": "DBCC PAGE.md"
+    },
+    {
       "basename": "sql server 内部存储原理",
       "path": "sql server 内部存储原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to become straight-A student",
       "path": "How to become straight-A student.md"
-    },
-    {
-      "basename": "前行修行",
-      "path": "前行修行.md"
     }
   ],
   "omittedPaths": [],
