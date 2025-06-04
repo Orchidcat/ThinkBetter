@@ -86,3 +86,9 @@ DBCC TRACEOFF(3604);
 
 DBCC PAGE (<Database>, <FileID>, <PageID>, <Style>)
 
+Database 是我们要检查其页面的数据库的名称。接下来，是`FileID`我们要检查的文件的；对于大多数数据库来说，这将是`1`，因为只有一个数据文件。
+
+
+```SQL
+SELECT * FROM sys.database_files WHERE type = 0;
+```
