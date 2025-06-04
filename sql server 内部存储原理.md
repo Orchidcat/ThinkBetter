@@ -13,6 +13,11 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 
 ![[Pasted image 20250604091155.png]]
 
+每个数据记录都以两个
+
+
+
+
 1. 状态位A（1个字节）
 2. 状态位B（1个字节）
 3. 定长部分的长度（2个字节）不包括列数和空位图的 2 个字节
