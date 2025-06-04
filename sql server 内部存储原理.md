@@ -13,7 +13,12 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 
 ![[Pasted image 20250604091155.png]]
 
-每个数据记录都以两个
+每个数据记录都以两个状态字节开始：
+- 记录类型 - 其中**数据**和**索引**类型是最常见和最重要的。
+- 记录是否有空位图 - 用于跟踪列是否具有空值的一个或多个字节
+- 记录是否有任何可变长度的列
+
+
 
 
 
