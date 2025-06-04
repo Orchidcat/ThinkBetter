@@ -15,4 +15,5 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 
 1. 状态位A（1个字节）
 2. 状态位B（1个字节）
-3. 定长部分的长度（2个字节）
+3. 定长部分的长度（2个字节）不包括列数和空位图的 2 个字节
+4. 
