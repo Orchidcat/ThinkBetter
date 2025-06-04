@@ -105,3 +105,5 @@ WHERE forwarded_record_count > 0
 ```
 
 查找`AdventureWorks`数据库中所有包含转发记录的堆。如果确实存在任何堆（但愿没有），请监视这些值以决定何时发出`ALTER TABLE REBUILD`命令来删除转发记录。
+
+
