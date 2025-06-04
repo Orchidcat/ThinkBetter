@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "体胖",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
