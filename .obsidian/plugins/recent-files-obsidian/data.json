@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "b-tree",
+      "path": "b-tree.md"
+    },
+    {
       "basename": "Index",
       "path": "Index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Vagabond's Way",
       "path": "The Vagabond's Way.md"
-    },
-    {
-      "basename": "伤寒论六经原文读法篇",
-      "path": "ThinkBetter/伤寒论六经原文读法篇.md"
     }
   ],
   "omittedPaths": [],
