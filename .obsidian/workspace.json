@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c2255c1ad2c3bf51",
+  "active": "e91429b57049c528",
   "lastOpenFiles": [
-    "Pasted image 20250604104102.png",
     "DBCC IND.md",
+    "Pasted image 20250604104102.png",
     "sql server 内部存储原理.md",
     "DBCC PAGE.md",
     "Pasted image 20250604103318.png",
@@ -267,7 +267,6 @@
     "ThinkBetter/+Home.md",
     "conflict-files-obsidian-git.md",
     "黄芪.md",
-    "Pasted image 20250312112804.png",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",

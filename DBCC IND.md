@@ -22,7 +22,7 @@ DBCC IND (AdventureWorks2008R2, 'Person.Person, 1);|
 
 `PageType`每一列都详细说明了页面的类型。
 例如，
-`PageType`10 是一个分配结构页，也称为 IAM 页，我将在下一节中介绍它。
-`PageType` 2是索引页，`
-`PageType` 1是数据页。
+`PageType`10 是一个分配结构页，也称为 **IAM 页**，我将在下一节中介绍它。
+`PageType` 2是**索引页**，`
+`PageType` 1是**数据页**。
 

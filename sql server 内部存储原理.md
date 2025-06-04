@@ -71,3 +71,6 @@ page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末�
 `DBCC IND`为数据库中的任何对象提供相关的页面 ID，然后`DBCCPAGE`允许我们调查这些特定页面在磁盘上存储的内容。请注意，`DBCC PAGE`和`IND`都是只读操作，因此使用起来完全安全。
 
 
+## Heap and Index
+
+没有聚集索引的表，就是Heap
