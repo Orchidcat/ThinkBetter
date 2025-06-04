@@ -16,9 +16,11 @@ DBCC TRACEOFF(3604);
 DBCC PAGE (database,filedid,pageid,style)
 
 **Database** 是我们要检查其页面的数据库的名称。接下来，是**FileID**我们要检查的文件的；对于大多数数据库来说，这将是`1`，因为只有一个数据文件。
+
 ```SQL
-```
 SELECT * FROM sys.database_files WHERE type = 0;
+```
+
 
 接下来，**PageID**我们要检查页面的 。这可以是`PageID`数据库中任何有效的页面。例如，特殊文件头页是第 0 页，第 9 页是同样特殊的启动页（它仅存储在主文件中，且页码为`file_id`1），或者文件中存在的任何其他数据页。通常，您不会看到第 17 页及之后的用户数据页。
 
@@ -31,7 +33,12 @@ SELECT * FROM sys.database_files WHERE type = 0;
 
 
 如何检查数据库主数据文件中第 16 页的行`AdventureWorks2008R2`。
+```SQL
 DBCC PAGE (AdventureWorks2008R2, 1, 16, 3);
+```
 
 
 ![[Pasted image 20250604103318.png]]
+存储在标题中的页面 ID（`m_pageId`）、存储在页面上的记录数（`m_slotCnt`）、此页面所属的对象 ID（`m_objId`）等等。
+
+在标题之后，我们可以看到逐条列出的记录。每条记录的输出由原始字节（内存转储）以及随后的各个列值（`Slot``0``Column``1...`，等等）组成。请注意，列值还详细说明了它们在磁盘上占用的（物理）字节数，这方便您更轻松地将该值与原始字节输出关联起来。
