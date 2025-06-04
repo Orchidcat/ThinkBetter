@@ -102,7 +102,7 @@ CREATE CLUSTERED INDEX CX_MagazineStatistics
 
 我考虑到最典型的查询模式是这样的：“_告诉我 Y 时期杂志 X 的总页面浏览量_`MagazineID`。” 对于这样的读取模式，清单 7 中的模式是最佳的，因为它按和 对数据进行排序`ViewDate`。
 
-虽然该架构对于读取来说是最优的，但对于写入来说却并非最优，因为如果索引按`MagazineID`“第一”而不是“列”排序，SQL Server 就无法连续写入数据。不过，由于和列是聚集键的一部分，因此`ViewDate`在每个 中`MagazineID`，SQL Server 都会按排序顺序存储记录。`ViewDate``ViewHour`
+虽然该架构对于读取来说是最优的，但对于写入来说却并非最优，因为如果索引按`MagazineID`“第一”而不是“列”排序，SQL Server 就无法连续写入数据。不过，由于和列是聚集键的一部分，因此`ViewDate`在每个 中`MagazineID`，SQL Server 都会按排序顺序存储记录。`ViewDate ViewHour`
 
 这种设计在添加新记录时仍然会产生页面拆分成本，但只要我们定期进行维护，旧值就不会受到影响。通过将该列作为索引键的第四列（也是最后一列），满足诸如“_求出 Z 时期 Y 杂志 X 页的页面浏览量_”`PageNumber`之类的查询也相对便宜。
 
