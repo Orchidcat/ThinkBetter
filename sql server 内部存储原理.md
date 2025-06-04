@@ -11,3 +11,8 @@ https://www.red-gate.com/simple-talk/databases/sql-server/database-administratio
 可变长度数据类型得长度会根据记录而变化。
 
 
+![[Pasted image 20250604091155.png]]
+
+1. 状态位A
+2. 状态位B
+3. 定长部分的
