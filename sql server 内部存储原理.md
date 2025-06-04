@@ -74,6 +74,7 @@ page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末�
 ## Heap and Index
 
 没有聚集索引的表，就是[[Heap]]；如果表包含聚集索引，则该表的存储方式与索引相同。
+[[Index]]
 
 
 

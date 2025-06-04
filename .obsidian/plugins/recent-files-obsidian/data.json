@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Performance spool",
+      "path": "Performance spool.md"
+    },
+    {
+      "basename": "DBCC IND",
+      "path": "DBCC IND.md"
+    },
+    {
+      "basename": "sql server 内部存储原理",
+      "path": "sql server 内部存储原理.md"
+    },
+    {
       "basename": "Heap",
       "path": "Heap.md"
     },
@@ -9,20 +25,8 @@
       "path": "skin in the game.md"
     },
     {
-      "basename": "sql server 内部存储原理",
-      "path": "sql server 内部存储原理.md"
-    },
-    {
-      "basename": "DBCC IND",
-      "path": "DBCC IND.md"
-    },
-    {
       "basename": "DBCC PAGE",
       "path": "DBCC PAGE.md"
-    },
-    {
-      "basename": "Performance spool",
-      "path": "Performance spool.md"
     },
     {
       "basename": "SQL Server MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "伤寒论六经原文读法篇",
       "path": "ThinkBetter/伤寒论六经原文读法篇.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "ThinkBetter/Templates/Template - 读书.md"
     }
   ],
   "omittedPaths": [],
