@@ -75,10 +75,14 @@ page body 最末端记录偏移量数组。它是 SQL Server 从页面的最末�
 
 默认情况下，SQL Server 将输出发送`DBCC PAGE`到跟踪日志，而不是作为查询结果。要从`DBCC PAGE`SSMS 执行命令并直接在查询结果窗口中查看结果，我们首先需要启用跟踪标志 3604
 
-```tsql
+```SQL
 --Enable
 DBCC TRACEON(3604);  
 
 --Disable
 DBCC TRACEOFF(3604);
 ```
+跟踪标志在连接级别激活，因此在一个连接中启用它不会影响到服务器的任何其他连接。同样，一旦连接关闭，跟踪标志将不再有效。
+
+DBCC PAGE (<Database>, <FileID>, <PageID>, <Style>)
+
