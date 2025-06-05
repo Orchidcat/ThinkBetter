@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实践论",
+      "path": "实践论.md"
+    },
+    {
       "basename": "sql server 内部存储原理",
       "path": "sql server 内部存储原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "圆运动的古中医学 by 彭子益",
       "path": "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md"
-    },
-    {
-      "basename": "The Vagabond's Way",
-      "path": "The Vagabond's Way.md"
     }
   ],
   "omittedPaths": [],
