@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "矛盾论",
+      "path": "矛盾论.md"
+    },
+    {
       "basename": "实践论",
       "path": "实践论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "醒思录",
       "path": "醒思录.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/如何阅读的方法.md"
     }
   ],
   "omittedPaths": [],
