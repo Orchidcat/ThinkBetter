@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "正见",
+      "path": "正见.md"
+    },
+    {
       "basename": "实践论",
       "path": "实践论.md"
+    },
+    {
+      "basename": "四圣谛",
+      "path": "四圣谛.md"
     },
     {
       "basename": "sql server 内部存储原理",
@@ -137,10 +145,6 @@
       "path": "ThinkBetter/Books/how minds change.md"
     },
     {
-      "basename": "正见",
-      "path": "正见.md"
-    },
-    {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "books of 2024",
       "path": "books of 2024.md"
-    },
-    {
-      "basename": "圆运动的古中医学 by 彭子益",
-      "path": "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md"
     }
   ],
   "omittedPaths": [],
