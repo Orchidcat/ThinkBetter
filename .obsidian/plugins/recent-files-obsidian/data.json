@@ -5,6 +5,10 @@
       "path": "正见.md"
     },
     {
+      "basename": "David Foster Wallace -  This is Water",
+      "path": "ThinkBetter/David Foster Wallace -  This is Water.md"
+    },
+    {
       "basename": "实践论",
       "path": "实践论.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-06-29",
       "path": "ThinkBetter/DailyNotes/2022-06-29.md"
-    },
-    {
-      "basename": "books of 2024",
-      "path": "books of 2024.md"
     }
   ],
   "omittedPaths": [],
