@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-                "followCursor": false,
+                "file": "ThinkBetter/人纪/+Home.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "何以为父：影响彼此一生的父子关系 的大纲"
+              "title": "+Home 的大纲"
             }
           }
         ],
@@ -257,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +274,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5db33b198f09862a",
+  "active": "30633cfaad614b9c",
   "lastOpenFiles": [
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "矛盾论.md",
