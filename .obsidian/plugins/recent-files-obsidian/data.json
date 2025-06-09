@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
+      "path": "ThinkBetter/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md"
+    },
+    {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Digital Minimalism",
       "path": "ThinkBetter/Books/Digital Minimalism.md"
-    },
-    {
-      "basename": "系统思考",
-      "path": "系统思考.md"
     }
   ],
   "omittedPaths": [],
