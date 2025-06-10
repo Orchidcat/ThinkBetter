@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,9 +213,10 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "d6930cd49ff897b6",
+  "active": "1e5660f374f0d1ae",
   "lastOpenFiles": [
     "ThinkBetter/WorkFlow TOC.md",
+    "正见.md",
     "ThinkBetter/SQL Server TOC.md",
     "ThinkBetter/自旋锁.md",
     "ThinkBetter/人纪/+Home.md",
@@ -234,7 +235,6 @@
     "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
     "反直觉.md",
     "ThinkBetter/思考问题的三个过滤器.md",
-    "正见.md",
     "ThinkBetter/David Foster Wallace -  This is Water.md",
     "四圣谛.md",
     "sql server 内部存储原理.md",
