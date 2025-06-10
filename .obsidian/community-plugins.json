@@ -1,8 +1,6 @@
 [
   "calendar",
   "templater-obsidian",
-  "obsidian-outliner",
-  "obsidian-mind-map",
   "obsidian-zoom",
   "obsidian-tasks-plugin",
   "note-refactor-obsidian",
@@ -30,5 +28,8 @@
   "obsidian-git",
   "smart-random-note",
   "dataview",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-minimal-settings",
+  "obsidian-outliner",
+  "obsidian-mind-map"
 ]
