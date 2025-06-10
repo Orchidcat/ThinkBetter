@@ -36,5 +36,13 @@
     }
   ],
   "obsidian-advanced-slides:reload-advanced-slides-preview": [],
-  "obsidian-advanced-slides:open-advanced-slides-preview": []
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ]
 }
