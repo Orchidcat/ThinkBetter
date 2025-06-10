@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server MOC",
+      "path": "ThinkBetter/SQL Server MOC.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "工具箱🧰",
+      "path": "工具箱🧰.md"
     },
     {
       "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
@@ -79,10 +87,6 @@
     {
       "basename": "DBCC PAGE",
       "path": "DBCC PAGE.md"
-    },
-    {
-      "basename": "SQL Server MOC",
-      "path": "ThinkBetter/SQL Server MOC.md"
     },
     {
       "basename": "六气",
@@ -195,10 +199,6 @@
     {
       "basename": "血府逐淤汤",
       "path": "ThinkBetter/血府逐淤汤.md"
-    },
-    {
-      "basename": "Digital Minimalism",
-      "path": "ThinkBetter/Books/Digital Minimalism.md"
     }
   ],
   "omittedPaths": [],
