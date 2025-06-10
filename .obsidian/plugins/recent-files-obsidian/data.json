@@ -5,6 +5,26 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "项目 MOC",
+      "path": "ThinkBetter/项目 MOC.md"
+    },
+    {
+      "basename": "目标 TOC",
+      "path": "目标 TOC.md"
+    },
+    {
+      "basename": "健康 MOC",
+      "path": "ThinkBetter/健康 MOC.md"
+    },
+    {
+      "basename": "WorkFlow TOC",
+      "path": "ThinkBetter/WorkFlow TOC.md"
+    },
+    {
+      "basename": "YEAR TOC⌛",
+      "path": "ThinkBetter/YEAR TOC⌛.md"
+    },
+    {
       "basename": "+HomeMOC",
       "path": "+HomeMOC.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "内经-伤寒论",
       "path": "ThinkBetter/人纪/内经-伤寒论.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "中国历代政治得失",
-      "path": "ThinkBetter/Books/中国历代政治得失.md"
-    },
-    {
-      "basename": "五味子",
-      "path": "ThinkBetter/人纪/五味子.md"
-    },
-    {
-      "basename": "麦门冬",
-      "path": "ThinkBetter/人纪/麦门冬.md"
-    },
-    {
-      "basename": "足太阳膀胱经",
-      "path": "ThinkBetter/人纪/足太阳膀胱经.md"
     }
   ],
   "omittedPaths": [],
