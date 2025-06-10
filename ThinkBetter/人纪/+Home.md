@@ -38,7 +38,7 @@
 
 - 数据库 🍻
 	- Oracle MOC
-	- [[SQL Server MOC]]
+	- [[SQL Server TOC]]
 	- MySQL MOC
 	- Redis MOC
 	- [[sqlite MOC]]
