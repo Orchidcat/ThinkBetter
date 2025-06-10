@@ -7,6 +7,12 @@ https://forrestmcdaniel.com/
 
 
 
+
+
+
+
+
+
 - datamask 
 - query Store
 - natively compile models(#hekaton)
