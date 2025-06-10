@@ -30,8 +30,18 @@
     "chat_model": {
       "adapter": "ollama",
       "ollama": {}
-    }
+    },
+    "active_thread_key": "",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
   },
-  "smart_notices": {},
+  "smart_notices": {
+    "muted": {}
+  },
   "version": ""
 }
