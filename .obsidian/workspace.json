@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "WorkFlow TOC"
             }
+          },
+          {
+            "id": "d6930cd49ff897b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正见.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "正见"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,15 +213,15 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "1e5660f374f0d1ae",
+  "active": "d6930cd49ff897b6",
   "lastOpenFiles": [
-    "ThinkBetter/自旋锁.md",
+    "ThinkBetter/WorkFlow TOC.md",
     "ThinkBetter/SQL Server TOC.md",
+    "ThinkBetter/自旋锁.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/项目 MOC.md",
     "目标 TOC.md",
     "ThinkBetter/健康 MOC.md",
-    "ThinkBetter/WorkFlow TOC.md",
     "ThinkBetter/YEAR TOC⌛.md",
     "+HomeMOC.md",
     "ThinkBetter/心智模型 TOC.md",
