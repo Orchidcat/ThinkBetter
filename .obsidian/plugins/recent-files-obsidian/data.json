@@ -5,6 +5,10 @@
       "path": "ThinkBetter/SQL Server TOC.md"
     },
     {
+      "basename": "自旋锁",
+      "path": "ThinkBetter/自旋锁.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
-    },
-    {
-      "basename": "内经-伤寒论",
-      "path": "ThinkBetter/人纪/内经-伤寒论.md"
     }
   ],
   "omittedPaths": [],

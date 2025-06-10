@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -160,14 +161,23 @@
               "icon": "lucide-list",
               "title": "+Home 的大纲"
             }
+          },
+          {
+            "id": "17fc84350c395fbb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,13 +193,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
   "active": "1e5660f374f0d1ae",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/自旋锁.md",
     "ThinkBetter/SQL Server TOC.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/项目 MOC.md",
     "目标 TOC.md",
     "ThinkBetter/健康 MOC.md",
@@ -215,7 +228,6 @@
     "skin in the game.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
-    "Performance spool.md",
     "Pasted image 20250604104102.png",
     "Pasted image 20250604103318.png",
     "Pasted image 20250604103249.png",
