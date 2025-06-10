@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "SQL Server MOC",
-      "path": "ThinkBetter/SQL Server MOC.md"
-    },
-    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "+HomeMOC",
+      "path": "+HomeMOC.md"
+    },
+    {
+      "basename": "心智模型 TOC",
+      "path": "ThinkBetter/心智模型 TOC.md"
+    },
+    {
+      "basename": "SQL Server MOC",
+      "path": "ThinkBetter/SQL Server MOC.md"
     },
     {
       "basename": "工具箱🧰",
@@ -191,14 +199,6 @@
     {
       "basename": "足太阳膀胱经",
       "path": "ThinkBetter/人纪/足太阳膀胱经.md"
-    },
-    {
-      "basename": "医林改错",
-      "path": "ThinkBetter/人纪/医林改错.md"
-    },
-    {
-      "basename": "血府逐淤汤",
-      "path": "ThinkBetter/血府逐淤汤.md"
     }
   ],
   "omittedPaths": [],

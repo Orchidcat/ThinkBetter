@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/SQL Server MOC.md",
+                "file": "ThinkBetter/人纪/+Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SQL Server MOC"
+              "title": "+Home"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MOC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -158,7 +157,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "+HomeMOC.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/心智模型 TOC.md",
+    "ThinkBetter/SQL Server MOC.md",
     "工具箱🧰.md",
     "ThinkBetter/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
@@ -188,11 +190,8 @@
     "Pasted image 20250604095129.png",
     "Pasted image 20250604091155.png",
     "Pasted image 20250603142850.png",
-    "ThinkBetter/SQL Server MOC.md",
     "ThinkBetter/六气.md",
     "历史的教训.md",
-    "读书 MOC.md",
-    "二十四节气.md",
     "Pasted image 20250520094739.png",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
