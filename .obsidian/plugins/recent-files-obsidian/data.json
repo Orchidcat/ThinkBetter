@@ -5,6 +5,14 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "事件timing",
+      "path": "ThinkBetter/事件timing.md"
+    },
+    {
+      "basename": "人物 MOC",
+      "path": "ThinkBetter/人物 MOC.md"
+    },
+    {
       "basename": "工具箱🧰",
       "path": "工具箱🧰.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Clear Thinking",
       "path": "ThinkBetter/Books/Clear Thinking.md"
-    },
-    {
-      "basename": "脾胃论",
-      "path": "ThinkBetter/人纪/脾胃论.md"
-    },
-    {
-      "basename": "八万四千问",
-      "path": "八万四千问.md"
     }
   ],
   "omittedPaths": [],
