@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/如何阅读的方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "如何阅读的方法"
             }
           },
           {
@@ -246,8 +246,8 @@
   },
   "active": "7f9ebfb63f15237d",
   "lastOpenFiles": [
-    "想要读.md",
     "ThinkBetter/Books.md",
+    "想要读.md",
     "ThinkBetter/人纪/+Home.md",
     "正在读.md",
     "ThinkBetter/如何阅读的方法.md",
