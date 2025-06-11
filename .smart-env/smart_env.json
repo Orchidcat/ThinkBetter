@@ -31,7 +31,7 @@
       "adapter": "ollama",
       "ollama": {}
     },
-    "active_thread_key": "",
+    "active_thread_key": "Untitled Chat 1749612659411",
     "system_prompt": "",
     "detect_self_referential": true,
     "review_context": true,
