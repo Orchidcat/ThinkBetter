@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
+    },
+    {
       "basename": "事件timing",
       "path": "ThinkBetter/事件timing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "掌控习惯",
       "path": "ThinkBetter/掌控习惯.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Books/Clear Thinking.md"
     }
   ],
   "omittedPaths": [],
