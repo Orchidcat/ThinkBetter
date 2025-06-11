@@ -5,9 +5,9 @@
 >[!multi-column]
 >>
 >> ## 🧭 Study
->> [[学习方法]]
+>> [[学习方法]] [[GTD]] 
 >> [[Books]]
->> [[02-servers|Servers]]
+>> [[心智模型 TOC]]
 >> [[People|People]]
 >
 >> ## ⛏️ Work
@@ -16,9 +16,8 @@
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
 >
 >> ## 😎 Life OS
->> [[基本Q]] [[NotToDo]]
+>> [[基本Q]] [[NotToDo]] [[养生之道]]
 >> [[愿望清单]]
->> [[03 xxx|xxx]]
 >> [[Monthly Payments Map]]
 
 
