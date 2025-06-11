@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/学习方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "学习方法"
             }
           },
           {
@@ -184,15 +184,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "写作.md",
+    "ThinkBetter/记忆框架的建立.md",
+    "ThinkBetter/学习方法.md",
     "ThinkBetter/人纪/+Home.md",
+    "写作.md",
     "ThinkBetter/Tools.md",
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人物 MOC.md",
     "工具箱🧰.md",
     "ThinkBetter/愿望清单 MOC.md",
-    "ThinkBetter/学习方法.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/SQL Server TOC.md",
     "ThinkBetter/WorkFlow TOC.md",
@@ -209,7 +210,6 @@
     "矛盾论.md",
     "实践论.md",
     "ThinkBetter/Books/how buildings learn：what happens after they're built.md",
-    "反直觉.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",

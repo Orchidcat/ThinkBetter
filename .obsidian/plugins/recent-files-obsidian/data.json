@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
+      "basename": "记忆框架的建立",
+      "path": "ThinkBetter/记忆框架的建立.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "愿望清单 MOC",
       "path": "ThinkBetter/愿望清单 MOC.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
     },
     {
       "basename": "Books",
@@ -195,10 +199,6 @@
     {
       "basename": "悉达多",
       "path": "悉达多.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/+Home.md"
     }
   ],
   "omittedPaths": [],
