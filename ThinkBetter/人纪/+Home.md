@@ -13,7 +13,10 @@
 >> [[反直觉]]
 >
 >> ## ⛏️ Work
+>> 🧰 [[工具箱]]
 >> [[SQL Server TOC]]
+>> [[sqlite MOC]]
+>> 
 >
 >> ## 😎 Life OS
 >> [[基本Q]] [[NotToDo]] [[养生之道]]
@@ -34,18 +37,6 @@
 
 - [[工具箱🧰]]
 
-- 事物🌐
-	- [[概念 MOC]]
-	- [[兴趣 MOC]]
-	- [[人物 MOC]]
-	- [[事件timing]]
-
-- 数据库 🍻
-	- Oracle MOC
-	- [[SQL Server TOC]]
-	- MySQL MOC
-	- Redis MOC
-	- [[sqlite MOC]]
 
 - 编程💻
 	- [[Git MOC]] 
