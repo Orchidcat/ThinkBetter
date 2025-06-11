@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何停止在不重要的细节上浪费时间",
       "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
-    },
-    {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
     }
   ],
   "omittedPaths": [],

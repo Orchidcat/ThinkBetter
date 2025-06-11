@@ -3,17 +3,17 @@
 
 
 >[!multi-column]
->
->> ## ⛏️ Work
->> `$= '[['+moment().format("YYYY-MM-DD")+'|Today]]'`
->> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`
->> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
->
+>>
 >> ## 🧭 Study
 >> [[01 PKM|PKM]]
 >> [[02 Projects|Projects]]
 >> [[02-servers|Servers]]
 >> [[People|People]]
+>
+>> ## ⛏️ Work
+>> `$= '[['+moment().format("YYYY-MM-DD")+'|Today]]'`
+>> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`
+>> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
 >
 >> ## 😎 Life OS
 >> [[01 Nuno|Nuno]]
