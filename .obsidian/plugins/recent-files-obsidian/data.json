@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books.md"
     },
     {
+      "basename": "想要读",
+      "path": "想要读.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "thinking physics",
       "path": "thinking physics.md"
-    },
-    {
-      "basename": "伤寒贯珠集",
-      "path": "ThinkBetter/人纪/伤寒贯珠集.md"
     }
   ],
   "omittedPaths": [],
