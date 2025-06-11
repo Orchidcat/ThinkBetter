@@ -5,7 +5,7 @@
 >[!multi-column]
 >>
 >> ## 🧭 Study
->> [[01 PKM|PKM]]
+>> [[学习方法]]
 >> [[02 Projects|Projects]]
 >> [[02-servers|Servers]]
 >> [[People|People]]
@@ -16,8 +16,8 @@
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
 >
 >> ## 😎 Life OS
->> [[01 Nuno|Nuno]]
->> [[02 xxx|xxx]]
+>> [[基本Q]]
+>> [[愿望清单]]
 >> [[03 xxx|xxx]]
 >> [[Monthly Payments Map]]
 
