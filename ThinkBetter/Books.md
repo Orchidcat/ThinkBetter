@@ -24,6 +24,13 @@
 >[!multi-column]
 >## 书荒列表
 >>[Site Unreachable](https://sive.rs/book) 
+>>[Naval's Recommended Reading — Almanack of Naval Ravikant](https://www.navalmanack.com/navals-recommended-reading)
+>
+>## 正在读
+
+
+
+
 
 
 
