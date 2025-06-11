@@ -90,13 +90,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -184,7 +182,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人纪/+Home.md",
