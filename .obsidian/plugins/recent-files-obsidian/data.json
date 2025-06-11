@@ -5,6 +5,14 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "写作",
+      "path": "写作.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "ThinkBetter/Tools.md"
+    },
+    {
       "basename": "写点儿啥",
       "path": "ThinkBetter/写点儿啥.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "+Home",
       "path": "ThinkBetter/+Home.md"
-    },
-    {
-      "basename": "微积分",
-      "path": "微积分.md"
-    },
-    {
-      "basename": "掌控习惯",
-      "path": "ThinkBetter/掌控习惯.md"
     }
   ],
   "omittedPaths": [],
