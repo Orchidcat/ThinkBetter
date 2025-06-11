@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "SQL Server TOC",
       "path": "ThinkBetter/SQL Server TOC.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "自旋锁",
       "path": "ThinkBetter/自旋锁.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "项目 MOC",
