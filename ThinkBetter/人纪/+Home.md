@@ -21,29 +21,12 @@
 >> [[事件timing]]
 
 
-```dataviewjs
- let nofold = '!"Templates'
- let allFile = dv.pages().file
- let totalTask = allFile.tasks.length
- let completedTask = allFile.tasks.where(t => !t.completed).length
- let tasks = "已完成任务数为：" + completedTask + "，总任务数为：" + totalTask + " !" 
- let tasksp = Math.round((completedTask / totalTask) * 100)
- let pb = "![progress](https://progress-bar.dev/" + tasksp + "/)"
- dv.paragraph(
- tasks + "<br>" + pb
-)
-```
-
-
-
-
-
 一张○运动图，包含时节，卦位，病症，对应药物
 
 - 个人😋
-	- [[养生之道]]
-	- [[GTD]]
-	- [[学习方法]]🔬
+
+
+
 	- [[YEAR TOC⌛]]
 	- [[WorkFlow TOC]]
 	- [[项目 MOC]]
