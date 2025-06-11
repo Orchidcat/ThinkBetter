@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
     {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
+      "basename": "正在读",
+      "path": "正在读.md"
     },
     {
       "basename": "如何阅读的方法",
@@ -195,10 +199,6 @@
     {
       "basename": "伤寒贯珠集",
       "path": "ThinkBetter/人纪/伤寒贯珠集.md"
-    },
-    {
-      "basename": "佛教的见地与修道",
-      "path": "佛教的见地与修道.md"
     }
   ],
   "omittedPaths": [],

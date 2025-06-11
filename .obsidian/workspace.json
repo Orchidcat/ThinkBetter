@@ -66,6 +66,21 @@
               "icon": "lucide-file",
               "title": "Books"
             }
+          },
+          {
+            "id": "fe464b58e8c31036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正在读.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "正在读"
+            }
           }
         ],
         "currentTab": 3
@@ -216,8 +231,9 @@
   },
   "active": "7f9ebfb63f15237d",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
+    "正在读.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/如何阅读的方法.md",
     "工具箱🧰.md",
     "ThinkBetter/Books/how minds change.md",
@@ -241,7 +257,6 @@
     "ThinkBetter/心智模型 TOC.md",
     "ThinkBetter/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "矛盾论.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
