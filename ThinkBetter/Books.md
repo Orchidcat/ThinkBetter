@@ -21,7 +21,7 @@
 ```
 
 
->[!multi-column]
+>[!column]
 >>
 >> ## 阅读方法
 >> [[如何阅读的方法]]
@@ -38,8 +38,9 @@
 >> ```dataview
 list from #Book/Reading  
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
+
 ```
->
+
 >> 
 >
 >> ## 😎 Life OS
