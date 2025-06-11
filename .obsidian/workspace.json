@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "33e5e778da941906",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3367a810dcb05d3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
-      },
-      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -96,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -137,6 +122,16 @@
             }
           },
           {
+            "id": "d3367a810dcb05d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "17fc84350c395fbb",
             "type": "leaf",
             "state": {
@@ -146,7 +141,8 @@
               "title": "Smart Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,13 +169,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d3367a810dcb05d3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/SQL Server TOC.md",
     "ThinkBetter/WorkFlow TOC.md",
     "正见.md",
     "ThinkBetter/自旋锁.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/项目 MOC.md",
     "目标 TOC.md",
     "ThinkBetter/健康 MOC.md",

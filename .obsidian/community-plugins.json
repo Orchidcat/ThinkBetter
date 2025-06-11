@@ -2,13 +2,11 @@
   "calendar",
   "templater-obsidian",
   "obsidian-zoom",
-  "obsidian-tasks-plugin",
   "note-refactor-obsidian",
   "obsidian-emoji-toolbar",
   "homepage",
   "sliding-panes-obsidian",
   "obsidian-admonition",
-  "obsidian-auto-link-title",
   "better-word-count",
   "obsidian-tidy-footnotes",
   "obsidian-icons-plugin",
@@ -34,5 +32,7 @@
   "obsidian-mind-map",
   "smart-connections",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-auto-link-title",
+  "obsidian-tasks-plugin"
 ]
