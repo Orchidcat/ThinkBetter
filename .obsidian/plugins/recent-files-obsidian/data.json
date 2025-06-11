@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/如何阅读的方法.md"
-    },
-    {
       "basename": "Books",
       "path": "ThinkBetter/Books.md"
     },
     {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/如何阅读的方法.md"
     },
     {
       "basename": "想要读",
@@ -19,6 +15,10 @@
     {
       "basename": "正在读",
       "path": "正在读.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "工具箱🧰",
