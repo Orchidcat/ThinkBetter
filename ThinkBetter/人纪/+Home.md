@@ -9,7 +9,7 @@
 >> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
 >
->> ## 🎚️Work
+>> ## 🧭 Study
 >> [[01 PKM|PKM]]
 >> [[02 Projects|Projects]]
 >> [[02-servers|Servers]]
@@ -26,7 +26,6 @@
 >> [[Obsidian Callouts]]
 >> [[Windows Terminal Shortcuts]]
 >> [[Vim mode shortcuts]]
->
 
 
 一张○运动图，包含时节，卦位，病症，对应药物
