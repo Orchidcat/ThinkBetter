@@ -24,7 +24,7 @@
 >[!multi-column]
 >>
 >> ## 阅读方法
->> [[学习方法]] [[GTD]] 	[[外语]]
+>> [[如何阅读的方法]]
 >> [[Books]]
 >> [[心智模型 TOC]]
 >> [[一句话的玩味]]
@@ -34,13 +34,11 @@
 >> [[写作]]
 >> [[OB插件]]
 >
->> ## ⛏️ Work
->> 🧰 [[工具箱]]
->> [[SQL Server TOC]]
->> [[sqlite MOC]]
->> [[Git MOC]] 
->> [[PowerBuilder MOC]]
->> [[Vue]]
+>> ## ⛏️ 正在读
+>> 🧰 ```dataview
+list from #Book/Reading  
+sort file.cday.year desc,file.cday.month desc,file.cday.day desc
+```
 >> 
 >
 >> ## 😎 Life OS
