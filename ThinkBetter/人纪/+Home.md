@@ -26,7 +26,7 @@
  let allFile = dv.pages().file
  let totalTask = allFile.tasks.length
  let completedTask = allFile.tasks.where(t => !t.completed).length
- let tasks = "You have completed " + completedTask + " tasks of " + totalTask + " !" 
+ let tasks = "已完成任务数为：" + completedTask + "，总任务数为：" + totalTask + " !" 
  let tasksp = Math.round((completedTask / totalTask) * 100)
  let pb = "![progress](https://progress-bar.dev/" + tasksp + "/)"
  dv.paragraph(
