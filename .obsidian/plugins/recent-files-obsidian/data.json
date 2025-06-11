@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "愿望清单 MOC",
+      "path": "ThinkBetter/愿望清单 MOC.md"
+    },
+    {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "八万四千问",
       "path": "八万四千问.md"
-    },
-    {
-      "basename": "如何停止在不重要的细节上浪费时间",
-      "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
     }
   ],
   "omittedPaths": [],

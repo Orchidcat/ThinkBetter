@@ -6,7 +6,7 @@
 >>
 >> ## 🧭 Study
 >> [[学习方法]]
->> [[02 Projects|Projects]]
+>> [[Books]]
 >> [[02-servers|Servers]]
 >> [[People|People]]
 >
@@ -16,7 +16,7 @@
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
 >
 >> ## 😎 Life OS
->> [[基本Q]]
+>> [[基本Q]] [[NotToDo]]
 >> [[愿望清单]]
 >> [[03 xxx|xxx]]
 >> [[Monthly Payments Map]]
@@ -31,11 +31,7 @@
 	- [[学习方法]]🔬
 	- [[YEAR TOC⌛]]
 	- [[WorkFlow TOC]]
-	- [[NotToDo]]
-	- [[基本Q]]
 	- [[项目 MOC]]
-	- [[愿望清单 MOC]]
-	- [[Books]]
 	- [[心智模型 TOC]]
 		-  [[第一性原理#^a94c8a]]
 		- [[一句话的玩味]]
