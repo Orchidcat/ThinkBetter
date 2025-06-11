@@ -16,6 +16,9 @@
 >> 🧰 [[工具箱]]
 >> [[SQL Server TOC]]
 >> [[sqlite MOC]]
+>> [[Git MOC]] 
+>> [[PowerBuilder MOC]]
+>> [[Vue]]
 >> 
 >
 >> ## 😎 Life OS
@@ -35,14 +38,9 @@
 	- いつか
 	- [[写作方法]]
 
-- [[工具箱🧰]]
 
 
-- 编程💻
-	- [[Git MOC]] 
-	- Vue https://staging-cn.vuejs.org/guide/introduction.html
-	- [[PowerBuilder MOC]]
-	- [[Vue]]
+
 
 - 当前OB环境
 	- [[OB插件]]
