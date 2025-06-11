@@ -2,7 +2,31 @@
 [Time is personal. Your year changes when your life changes. | Derek Sivers](https://sive.rs/mny)
 
 
-
+>[!multi-column]
+>
+>> ## 🗓️Agenda
+>> `$= '[['+moment().format("YYYY-MM-DD")+'|Today]]'`
+>> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`
+>> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
+>
+>> ## 🎚️Work
+>> [[01 PKM|PKM]]
+>> [[02 Projects|Projects]]
+>> [[02-servers|Servers]]
+>> [[People|People]]
+>
+>> ## 😎 Life OS
+>> [[01 Nuno|Nuno]]
+>> [[02 xxx|xxx]]
+>> [[03 xxx|xxx]]
+>> [[Monthly Payments Map]]
+>
+>> ## 🍃 Evergreen
+>> [[Obsidian Hotkeys]]
+>> [[Obsidian Callouts]]
+>> [[Windows Terminal Shortcuts]]
+>> [[Vim mode shortcuts]]
+>
 
 
 一张○运动图，包含时节，卦位，病症，对应药物
