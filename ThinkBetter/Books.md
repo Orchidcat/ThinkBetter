@@ -35,10 +35,11 @@
 >> [[OB插件]]
 >
 >> ## ⛏️ 正在读
->> 🧰 ```dataview
+>> ```dataview
 list from #Book/Reading  
 sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
+>
 >> 
 >
 >> ## 😎 Life OS
