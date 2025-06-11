@@ -5,15 +5,12 @@
 >[!multi-column]
 >>
 >> ## 🧭 Study
->> [[学习方法]] [[GTD]] 
+>> [[学习方法]] [[GTD]] 	[[外语]]
 >> [[Books]]
 >> [[心智模型 TOC]]
->> [[People|People]]
 >
 >> ## ⛏️ Work
->> `$= '[['+moment().format("YYYY-MM-DD")+'|Today]]'`
->> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`
->> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`
+>> [[SQL Server TOC]]
 >
 >> ## 😎 Life OS
 >> [[基本Q]] [[NotToDo]] [[养生之道]]
@@ -37,7 +34,7 @@
 		- [[反直觉]]
 	- [[Tools]]
 	- [[写点儿啥]]
-	- [[外语]]
+
 	- [[001 @MOC中医|中医]]
 	- いつか
 	- [[写作方法]]
