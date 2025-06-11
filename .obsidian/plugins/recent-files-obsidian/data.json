@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "愿望清单 MOC",
       "path": "ThinkBetter/愿望清单 MOC.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "SQL Server TOC",
