@@ -70,7 +70,7 @@ function progress(type) {
     return `<progress value="${parseInt(value)}" max="100"></progress> | ${parseInt(value)} %`
 }
 
-
+dv.span('**Year** | ${progress("year")}')
 
 dv.span(`
 |  | Progress  | Percentage |
