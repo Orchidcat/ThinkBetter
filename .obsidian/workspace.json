@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/OB插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "OB插件"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
     "想要读.md",
     "正在读.md",
-    "ThinkBetter/人纪/+Home.md",
     "工具箱🧰.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/学习方法.md",

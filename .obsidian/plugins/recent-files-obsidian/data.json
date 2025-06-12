@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OB插件",
+      "path": "ThinkBetter/OB插件.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "纳瓦尔宝典",
       "path": "纳瓦尔宝典.md"
-    },
-    {
-      "basename": "thinking physics",
-      "path": "thinking physics.md"
     }
   ],
   "omittedPaths": [],

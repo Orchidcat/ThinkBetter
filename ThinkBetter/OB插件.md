@@ -4,6 +4,7 @@
 ### 文本编辑
 - HomePage：主页 #？ 是否可以将主页添加workbench功能
 - Pangu：在中文与英文之间添加空格
+- Annotate: 可以阅读PDF以及epub，并添加注释，高亮。
 - Admonition：笔记中引人注目的标注、提示、警告和其他信息块 ad-;兼容template
 - Advanced Tables：制作表格
 - Editor Syntax Highlight: 高亮显示，代码
