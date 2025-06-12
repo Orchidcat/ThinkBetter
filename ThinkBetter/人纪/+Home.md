@@ -71,6 +71,7 @@ function progress(type) {
 }
 
 
+
 dv.span(`
 |  | Progress  | Percentage |
 | --- | --- |:---:|
