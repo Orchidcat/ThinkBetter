@@ -52,8 +52,7 @@
               "title": "十大难以抗拒的心理现象"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,12 +199,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "72679e8ebb732c41",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "写作.md",
-    "ThinkBetter/人纪/+Home.md",
     "逻辑学入门.md",
     "十大难以抗拒的心理现象.md",
+    "写作.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/OB插件.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
