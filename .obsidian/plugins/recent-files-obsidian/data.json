@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "逻辑学入门",
+      "path": "逻辑学入门.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "you and your research",
       "path": "you and your research.md"
-    },
-    {
-      "basename": "纳瓦尔宝典",
-      "path": "纳瓦尔宝典.md"
     }
   ],
   "omittedPaths": [],
