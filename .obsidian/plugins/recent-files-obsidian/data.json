@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "逻辑学入门",
-      "path": "逻辑学入门.md"
-    },
-    {
       "basename": "十大难以抗拒的心理现象",
       "path": "十大难以抗拒的心理现象.md"
     },
     {
+      "basename": "写作",
+      "path": "写作.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "逻辑学入门",
+      "path": "逻辑学入门.md"
     },
     {
       "basename": "OB插件",
@@ -47,10 +51,6 @@
     {
       "basename": "记忆框架的建立",
       "path": "ThinkBetter/记忆框架的建立.md"
-    },
-    {
-      "basename": "写作",
-      "path": "写作.md"
     },
     {
       "basename": "Tools",
