@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "写作"
+              "title": "Books"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "十大难以抗拒的心理现象"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,12 +199,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "30dc1ba0e16337c4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "写作.md",
     "逻辑学入门.md",
     "十大难以抗拒的心理现象.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/OB插件.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/如何阅读的方法.md",
