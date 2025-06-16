@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "历史年代",
+      "path": "ThinkBetter/历史年代.md"
+    },
+    {
       "basename": "地理知识",
       "path": "ThinkBetter/地理知识.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "历史的教训",
       "path": "历史的教训.md"
-    },
-    {
-      "basename": "读书 MOC",
-      "path": "读书 MOC.md"
     }
   ],
   "omittedPaths": [],

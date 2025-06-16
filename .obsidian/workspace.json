@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/地理知识.md",
+                "file": "ThinkBetter/历史年代.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "地理知识"
+              "title": "历史年代"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "dbaeb91227167c18",
   "lastOpenFiles": [
+    "ThinkBetter/地理知识.md",
     "逻辑学入门.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
@@ -212,7 +213,6 @@
     "ThinkBetter/自旋锁.md",
     "ThinkBetter/项目 MOC.md",
     "目标 TOC.md",
-    "ThinkBetter/健康 MOC.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
