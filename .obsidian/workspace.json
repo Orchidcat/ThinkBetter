@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/学习方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "学习方法"
             }
           },
           {
@@ -36,9 +36,18 @@
               "icon": "lucide-file",
               "title": "历史年代"
             }
+          },
+          {
+            "id": "97f03f22222e1f4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,12 +194,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dbaeb91227167c18",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/Books.md",
+    "ThinkBetter/历史年代.md",
     "ThinkBetter/地理知识.md",
     "逻辑学入门.md",
-    "ThinkBetter/Books.md",
-    "ThinkBetter/人纪/+Home.md",
     "工具箱.md",
     "写作.md",
     "十大难以抗拒的心理现象.md",
@@ -212,7 +222,6 @@
     "正见.md",
     "ThinkBetter/自旋锁.md",
     "ThinkBetter/项目 MOC.md",
-    "目标 TOC.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
