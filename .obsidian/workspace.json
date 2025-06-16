@@ -41,10 +41,15 @@
             "id": "787e90a8c8d52b8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "逻辑学入门.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "逻辑学入门"
             }
           }
         ],
