@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "文件组织的5种方法"
             }
+          },
+          {
+            "id": "787e90a8c8d52b8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +195,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5beede664d0ad4a",
+  "active": "787e90a8c8d52b8b",
   "lastOpenFiles": [
+    "文件组织的5种方法.md",
     "Pasted image 20250616143648.png",
     "ThinkBetter/人纪/+Home.md",
-    "文件组织的5种方法.md",
     "Inbox.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/Books.md",
@@ -222,7 +232,6 @@
     "Pasted image 20250604095129.png",
     "Pasted image 20250604091155.png",
     "Pasted image 20250603142850.png",
-    "Pasted image 20250520094739.png",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
