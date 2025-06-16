@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "地理知识",
+      "path": "ThinkBetter/地理知识.md"
+    },
+    {
       "basename": "逻辑学入门",
       "path": "逻辑学入门.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "读书 MOC",
       "path": "读书 MOC.md"
-    },
-    {
-      "basename": "二十四节气",
-      "path": "二十四节气.md"
     }
   ],
   "omittedPaths": [],
