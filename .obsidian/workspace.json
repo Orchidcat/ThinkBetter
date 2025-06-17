@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "Books"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Workbench"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d600c91b61c615aa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Workbench.md",

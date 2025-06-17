@@ -34,6 +34,9 @@
 [Naval's Recommended Reading — Almanack of Naval Ravikant](https://www.navalmanack.com/navals-recommended-reading)
 
 
+等待新书
+[Sketch Your Mind: Nurture a Playful and Creative Brain eBook : Viczian, Zsolt: Amazon.in: Kindle Store](https://www.amazon.in/dp/B0DZZCZPC2)
+
 
 写书之人，多为学者，而非真正意义上那些伟人；不能指望从学者的解释性和介绍性的作品中学到先贤的品质。应该去翻阅真正从事这项事业的人的作品，去了解该领域的原著，读那些真正践行古典主义价值观的英雄留下的作品；比如毛泽东、塞内加、恺撒或马可·奥勒留
 
