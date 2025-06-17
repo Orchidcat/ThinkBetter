@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "excalidraw Study - 1",
+      "path": "Excalidraw/excalidraw Study - 1.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DBCC IND",
       "path": "DBCC IND.md"
-    },
-    {
-      "basename": "Heap",
-      "path": "Heap.md"
     }
   ],
   "omittedPaths": [],

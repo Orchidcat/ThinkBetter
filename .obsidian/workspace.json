@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "7437f2ae6096e2a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/excalidraw Study - 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw Study - 1"
+            }
+          },
+          {
             "id": "e5beede664d0ad4a",
             "type": "leaf",
             "state": {
@@ -52,7 +64,8 @@
               "title": "何以为父：影响彼此一生的父子关系"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +118,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +210,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "未命名 4.md",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/excalidraw Study - 1.md",
+    "Excalidraw",
+    "未命名 4.md",
     "文件组织的5种方法.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "逻辑学入门.md",
@@ -226,7 +240,6 @@
     "ThinkBetter/事件timing.md",
     "ThinkBetter/人物 MOC.md",
     "ThinkBetter/愿望清单 MOC.md",
-    "ThinkBetter/SQL Server TOC.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
@@ -246,7 +259,6 @@
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
     "ThinkBetter/人纪/伤寒论",
-    "ThinkBetter/Book",
-    "cedict_ts.u8"
+    "ThinkBetter/Book"
   ]
 }
