@@ -20,3 +20,5 @@
 
 
 [Title Unavailable \| Site Unreachable](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
+
+![[Pasted image 20250617152205.png]]
