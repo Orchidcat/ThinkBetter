@@ -66,3 +66,7 @@
 5. **将抽象转化为具体**：插画创作需要将抽象的概念转化为具体的形式，这有助于记忆和理解。想了解更多关于概念视觉效果创作技巧的信息，请观看我的视频《[掌握概念可视化：创建有效视觉效果的简单工作流程》](https://youtu.be/MTdbhePtCco)。
     
 6. **投资视觉技能**：鉴于传统教育强调写作，投入时间学习插画能带来更大的价值。不妨尝试学习视觉思维课程来提升你的技能。访问[视觉思维工作坊](https://www.visual-thinking-workshop.com/vtw)了解更多信息。
+
+
+
+[The-Sketch-Your-Mind-Promise.pdf](https://sketch-your-mind.com/resources/The-Sketch-Your-Mind-Promise.pdf)

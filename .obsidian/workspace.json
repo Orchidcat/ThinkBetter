@@ -37,7 +37,8 @@
               "title": "Workbench"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +184,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d600c91b61c615aa",
   "lastOpenFiles": [
+    "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Workbench.md",
     "Pasted image 20250617152205.png",
@@ -198,7 +200,6 @@
     "Pasted image 20250616143648.png",
     "Inbox.md",
     "ThinkBetter/学习方法.md",
-    "ThinkBetter/Books.md",
     "ThinkBetter/历史年代.md",
     "ThinkBetter/地理知识.md",
     "工具箱.md",
