@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -210,7 +211,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "7437f2ae6096e2a7",
   "lastOpenFiles": [
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw/excalidraw Study - 1.md",
