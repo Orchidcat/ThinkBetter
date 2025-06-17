@@ -5,6 +5,10 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
       "basename": "文件组织的5种方法",
       "path": "文件组织的5种方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Heap",
       "path": "Heap.md"
-    },
-    {
-      "basename": "DBCC PAGE",
-      "path": "DBCC PAGE.md"
     }
   ],
   "omittedPaths": [],
