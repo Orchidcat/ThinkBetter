@@ -22,3 +22,5 @@
 [Title Unavailable \| Site Unreachable](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
 
 ![[Pasted image 20250617152205.png]]
+
+阅读正日益被视觉消费所掩盖，视觉消费对脑力的要求较低。文字很容易被遗忘，但图像却能在我们的脑海中停留数十年。
