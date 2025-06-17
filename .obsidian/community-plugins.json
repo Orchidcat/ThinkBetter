@@ -10,7 +10,6 @@
   "better-word-count",
   "obsidian-icons-plugin",
   "obsidian-hider",
-  "various-complements",
   "flashcards-obsidian",
   "recent-files-obsidian",
   "obsidian-advanced-slides",
@@ -34,5 +33,6 @@
   "obsidian-auto-link-title",
   "obsidian-tasks-plugin",
   "obsidian-tidy-footnotes",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "various-complements"
 ]
