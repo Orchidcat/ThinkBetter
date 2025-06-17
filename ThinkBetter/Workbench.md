@@ -19,7 +19,7 @@
 
 
 
-[Fetching Title#mbfm](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
+[Beyond Words: Why Visual Thinking is the Missing Link in your PKM](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
 
 ![[Pasted image 20250617152205.png]]
 
@@ -30,3 +30,13 @@
 ### 符号的语法
 
 文本和图像之间有着明显的区别。文本具有连续性和散漫性，这意味着它以线性叙事的方式组织。相比之下，图像则更具整体性，一目了然地提供全面的视角。图片缺乏正式的语法和标准化的视觉字母，这使得它们难以以传统的方式“阅读”。[苏珊·桑塔格](https://www.gyford.com/phil/writing/2010/08/23/on-photography/)认为，如果没有叙事，通过图像进行的理解就会受到限制。然而，当我们思考这一点时，我们也必须承认，由于文本是连续的，如果没有语法和句法，就无法理解文本。没有这些元素，读者就无法解读串行信号流之间的联系。有人可能会认为，语法和句法的概念是串行通信局限性的副作用或必然产物。
+
+
+
+### 视觉传达句法理论的原理
+
+#### 原则一：媒介文字与图片同等重要
+
+文字与图像之间有着深刻的联系。文字源于视觉符号，随着时间的推移，文本逐渐占据主导地位。随着古腾堡印刷术的发明，文字逐渐取代了图像，导致视觉素养随着文本的标准化而下降。试想一下，从视觉刺激的角度来看，古腾堡印刷术印刷出的纸张与手抄本的纸张有何不同。
+
+然而，这两种媒介在交流中都至关重要，各自都贡献了独特的元素。
