@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "+Home"
             }
+          },
+          {
+            "id": "d600c91b61c615aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Workbench.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Workbench"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,15 +184,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d600c91b61c615aa",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Workbench.md",
     "Pasted image 20250617152205.png",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw/excalidraw Study - 1.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "文件组织的5种方法.md",
-    "ThinkBetter/人纪/+Home.md",
     "Excalidraw",
     "未命名 4.md",
     "逻辑学入门.md",

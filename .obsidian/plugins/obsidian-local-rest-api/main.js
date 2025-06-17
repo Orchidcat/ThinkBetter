@@ -49844,7 +49844,6 @@ var require_identity = __commonJS({
             return true;
         }
       return false;
-<<<<<<< HEAD
     }
     function isNode(node) {
       if (node && typeof node === "object")
@@ -49857,20 +49856,6 @@ var require_identity = __commonJS({
         }
       return false;
     }
-=======
-    }
-    function isNode(node) {
-      if (node && typeof node === "object")
-        switch (node[NODE_TYPE]) {
-          case ALIAS:
-          case MAP:
-          case SCALAR:
-          case SEQ:
-            return true;
-        }
-      return false;
-    }
->>>>>>> origin/main
     var hasAnchor = (node) => (isScalar(node) || isCollection(node)) && !!node.anchor;
     exports.ALIAS = ALIAS;
     exports.DOC = DOC;
@@ -50245,8 +50230,7 @@ var require_anchors = __commonJS({
       return {
         onAnchor: (source) => {
           aliasObjects.push(source);
-          if (!prevAnchors)
-            prevAnchors = anchorNames(doc);
+          prevAnchors != null ? prevAnchors : prevAnchors = anchorNames(doc);
           const anchor = findNewAnchor(prefix, prevAnchors);
           prevAnchors.add(anchor);
           return anchor;
@@ -50411,23 +50395,35 @@ var require_Alias = __commonJS({
           }
         });
       }
-      resolve(doc) {
+      resolve(doc, ctx) {
+        let nodes;
+        if (ctx == null ? void 0 : ctx.aliasResolveCache) {
+          nodes = ctx.aliasResolveCache;
+        } else {
+          nodes = [];
+          visit.visit(doc, {
+            Node: (_key, node) => {
+              if (identity.isAlias(node) || identity.hasAnchor(node))
+                nodes.push(node);
+            }
+          });
+          if (ctx)
+            ctx.aliasResolveCache = nodes;
+        }
         let found = void 0;
-        visit.visit(doc, {
-          Node: (_key, node) => {
-            if (node === this)
-              return visit.visit.BREAK;
-            if (node.anchor === this.source)
-              found = node;
-          }
-        });
+        for (const node of nodes) {
+          if (node === this)
+            break;
+          if (node.anchor === this.source)
+            found = node;
+        }
         return found;
       }
       toJSON(_arg, ctx) {
         if (!ctx)
           return { source: this.source };
         const { anchors: anchors2, doc, maxAliasCount } = ctx;
-        const source = this.resolve(doc);
+        const source = this.resolve(doc, ctx);
         if (!source) {
           const msg = `Unresolved alias (the anchor must be set before the alias): ${this.source}`;
           throw new ReferenceError(msg);
@@ -50543,7 +50539,7 @@ var require_createNode = __commonJS({
       });
     }
     function createNode(value, tagName, ctx) {
-      var _a, _b, _c;
+      var _a, _b, _c, _d;
       if (identity.isDocument(value))
         value = value.contents;
       if (identity.isNode(value))
@@ -50561,8 +50557,7 @@ var require_createNode = __commonJS({
       if (aliasDuplicateObjects && value && typeof value === "object") {
         ref = sourceObjects.get(value);
         if (ref) {
-          if (!ref.anchor)
-            ref.anchor = onAnchor(value);
+          (_c = ref.anchor) != null ? _c : ref.anchor = onAnchor(value);
           return new Alias.Alias(ref.anchor);
         } else {
           ref = { anchor: null, node: null };
@@ -50588,7 +50583,7 @@ var require_createNode = __commonJS({
         onTagObj(tagObj);
         delete ctx.onTagObj;
       }
-      const node = (tagObj == null ? void 0 : tagObj.createNode) ? tagObj.createNode(ctx.schema, value, ctx) : typeof ((_c = tagObj == null ? void 0 : tagObj.nodeClass) == null ? void 0 : _c.from) === "function" ? tagObj.nodeClass.from(ctx.schema, value, ctx) : new Scalar.Scalar(value);
+      const node = (tagObj == null ? void 0 : tagObj.createNode) ? tagObj.createNode(ctx.schema, value, ctx) : typeof ((_d = tagObj == null ? void 0 : tagObj.nodeClass) == null ? void 0 : _d.from) === "function" ? tagObj.nodeClass.from(ctx.schema, value, ctx) : new Scalar.Scalar(value);
       if (tagName)
         node.tag = tagName;
       else if (!tagObj.default)
@@ -51093,7 +51088,7 @@ ${indent}${start}${value}${end}`;
       if (implicitKey && value.includes("\n") || inFlow && /[[\]{},]/.test(value)) {
         return quotedString(value, ctx);
       }
-      if (!value || /^[\n\t ,[\]{}#&*!|>'"%@`]|^[?-]$|^[?-][ \t]|[\n:][ \t]|[ \t]\n|[\n\t ]#|[\n\t :]$/.test(value)) {
+      if (/^[\n\t ,[\]{}#&*!|>'"%@`]|^[?-]$|^[?-][ \t]|[\n:][ \t]|[ \t]\n|[\n\t ]#|[\n\t :]$/.test(value)) {
         return implicitKey || inFlow || !value.includes("\n") ? quotedString(value, ctx) : blockString(item, ctx, onComment, onChompKeep);
       }
       if (!implicitKey && !inFlow && type !== Scalar.Scalar.PLAIN && value.includes("\n")) {
@@ -51189,17 +51184,10 @@ var require_stringify2 = __commonJS({
       switch (opt.collectionStyle) {
         case "block":
           inFlow = false;
-<<<<<<< HEAD
           break;
         case "flow":
           inFlow = true;
           break;
-=======
-          break;
-        case "flow":
-          inFlow = true;
-          break;
->>>>>>> origin/main
         default:
           inFlow = null;
       }
@@ -51239,12 +51227,13 @@ var require_stringify2 = __commonJS({
         tagObj = tags.find((t) => t.nodeClass && obj instanceof t.nodeClass);
       }
       if (!tagObj) {
-        const name = (_d = (_c = obj == null ? void 0 : obj.constructor) == null ? void 0 : _c.name) != null ? _d : typeof obj;
+        const name = (_d = (_c = obj == null ? void 0 : obj.constructor) == null ? void 0 : _c.name) != null ? _d : obj === null ? "null" : typeof obj;
         throw new Error(`Tag not resolved for ${name} value`);
       }
       return tagObj;
     }
     function stringifyProps(node, tagObj, { anchors: anchors$1, doc }) {
+      var _a;
       if (!doc.directives)
         return "";
       const props = [];
@@ -51253,7 +51242,7 @@ var require_stringify2 = __commonJS({
         anchors$1.add(anchor);
         props.push(`&${anchor}`);
       }
-      const tag = node.tag ? node.tag : tagObj.default ? null : tagObj.tag;
+      const tag = (_a = node.tag) != null ? _a : tagObj.default ? null : tagObj.tag;
       if (tag)
         props.push(doc.directives.tagString(tag));
       return props.join(" ");
@@ -51277,8 +51266,7 @@ var require_stringify2 = __commonJS({
       }
       let tagObj = void 0;
       const node = identity.isNode(item) ? item : ctx.doc.createNode(item, { onTagObj: (o) => tagObj = o });
-      if (!tagObj)
-        tagObj = getTagObject(ctx.doc.schema.tags, node);
+      tagObj != null ? tagObj : tagObj = getTagObject(ctx.doc.schema.tags, node);
       const props = stringifyProps(node, tagObj, ctx);
       if (props.length > 0)
         ctx.indentAtStart = ((_b = ctx.indentAtStart) != null ? _b : 0) + props.length + 1;
@@ -51431,7 +51419,7 @@ ${ctx.indent}`;
 var require_log2 = __commonJS({
   "node_modules/yaml/dist/log.js"(exports) {
     "use strict";
-    var node_process = require("node:process");
+    var node_process = require("process");
     function debug(logLevel, ...messages) {
       if (logLevel === "debug")
         console.log(...messages);
@@ -52303,7 +52291,7 @@ var require_schema2 = __commonJS({
 var require_binary = __commonJS({
   "node_modules/yaml/dist/schema/yaml-1.1/binary.js"(exports) {
     "use strict";
-    var node_buffer = require("node:buffer");
+    var node_buffer = require("buffer");
     var Scalar = require_Scalar();
     var stringifyString = require_stringifyString();
     var binary = {
@@ -52325,6 +52313,8 @@ var require_binary = __commonJS({
         }
       },
       stringify({ comment, type, value }, ctx, onComment, onChompKeep) {
+        if (!value)
+          return "";
         const buf = value;
         let str;
         if (typeof node_buffer.Buffer === "function") {
@@ -52337,8 +52327,7 @@ var require_binary = __commonJS({
         } else {
           throw new Error("This environment does not support writing binary tags; either Buffer or btoa is required");
         }
-        if (!type)
-          type = Scalar.Scalar.BLOCK_LITERAL;
+        type != null ? type : type = Scalar.Scalar.BLOCK_LITERAL;
         if (type !== Scalar.Scalar.QUOTE_DOUBLE) {
           const lineWidth = Math.max(ctx.options.lineWidth - ctx.indent.length, ctx.options.minContentWidth);
           const n = Math.ceil(str.length / lineWidth);
@@ -52830,7 +52819,10 @@ var require_timestamp = __commonJS({
         }
         return new Date(date);
       },
-      stringify: ({ value }) => value.toISOString().replace(/(T00:00:00)?\.000Z$/, "")
+      stringify: ({ value }) => {
+        var _a;
+        return (_a = value == null ? void 0 : value.toISOString().replace(/(T00:00:00)?\.000Z$/, "")) != null ? _a : "";
+      }
     };
     exports.floatTime = floatTime;
     exports.intTime = intTime;
@@ -53461,8 +53453,7 @@ var require_resolve_props = __commonJS({
             if (token.source.endsWith(":"))
               onError(token.offset + token.source.length - 1, "BAD_ALIAS", "Anchor ending in : is ambiguous", true);
             anchor = token;
-            if (start === null)
-              start = token.offset;
+            start != null ? start : start = token.offset;
             atNewline = false;
             hasSpace = false;
             reqSpace = true;
@@ -53471,8 +53462,7 @@ var require_resolve_props = __commonJS({
             if (tag)
               onError(token, "MULTIPLE_TAGS", "A node can have at most one tag");
             tag = token;
-            if (start === null)
-              start = token.offset;
+            start != null ? start : start = token.offset;
             atNewline = false;
             hasSpace = false;
             reqSpace = true;
@@ -54020,7 +54010,7 @@ var require_compose_collection = __commonJS({
       return coll;
     }
     function composeCollection(CN, ctx, token, props, onError) {
-      var _a, _b;
+      var _a, _b, _c;
       const tagToken = props.tag;
       const tagName = !tagToken ? null : ctx.directives.tagName(tagToken.source, (msg) => onError(tagToken, "TAG_RESOLVE_FAILED", msg));
       if (token.type === "block-seq") {
@@ -54042,8 +54032,8 @@ var require_compose_collection = __commonJS({
           ctx.schema.tags.push(Object.assign({}, kt, { default: false }));
           tag = kt;
         } else {
-          if (kt == null ? void 0 : kt.collection) {
-            onError(tagToken, "BAD_COLLECTION_TYPE", `${kt.tag} used for ${expType} collection, but expects ${kt.collection}`, true);
+          if (kt) {
+            onError(tagToken, "BAD_COLLECTION_TYPE", `${kt.tag} used for ${expType} collection, but expects ${(_a = kt.collection) != null ? _a : "scalar"}`, true);
           } else {
             onError(tagToken, "TAG_RESOLVE_FAILED", `Unresolved tag: ${tagName}`, true);
           }
@@ -54051,7 +54041,7 @@ var require_compose_collection = __commonJS({
         }
       }
       const coll = resolveCollection(CN, ctx, token, onError, tagName, tag);
-      const res = (_b = (_a = tag.resolve) == null ? void 0 : _a.call(tag, coll, (msg) => onError(tagToken, "TAG_RESOLVE_FAILED", msg), ctx.options)) != null ? _b : coll;
+      const res = (_c = (_b = tag.resolve) == null ? void 0 : _b.call(tag, coll, (msg) => onError(tagToken, "TAG_RESOLVE_FAILED", msg), ctx.options)) != null ? _c : coll;
       const node = identity.isNode(res) ? res : new Scalar.Scalar(res);
       node.range = coll.range;
       node.tag = tagName;
@@ -54544,8 +54534,7 @@ var require_util_empty_scalar_position = __commonJS({
     "use strict";
     function emptyScalarPosition(offset, before, pos) {
       if (before) {
-        if (pos === null)
-          pos = before.length;
+        pos != null ? pos : pos = before.length;
         for (let i = pos - 1; i >= 0; --i) {
           let st = before[i];
           switch (st.type) {
@@ -54649,7 +54638,6 @@ var require_compose_node = __commonJS({
       if (comment) {
         node.comment = comment;
         node.range[2] = end;
-<<<<<<< HEAD
       }
       return node;
     }
@@ -54718,7 +54706,7 @@ var require_compose_doc = __commonJS({
 var require_composer = __commonJS({
   "node_modules/yaml/dist/compose/composer.js"(exports) {
     "use strict";
-    var node_process = require("node:process");
+    var node_process = require("process");
     var directives = require_directives();
     var Document = require_Document();
     var errors = require_errors();
@@ -54929,287 +54917,6 @@ var require_cst_scalar = __commonJS({
             return resolveBlockScalar.resolveBlockScalar({ options: { strict } }, token, _onError);
         }
       }
-=======
-      }
-      return node;
-    }
-    function composeAlias({ options }, { offset, source, end }, onError) {
-      const alias = new Alias.Alias(source.substring(1));
-      if (alias.source === "")
-        onError(offset, "BAD_ALIAS", "Alias cannot be an empty string");
-      if (alias.source.endsWith(":"))
-        onError(offset + source.length - 1, "BAD_ALIAS", "Alias ending in : is ambiguous", true);
-      const valueEnd = offset + source.length;
-      const re = resolveEnd.resolveEnd(end, valueEnd, options.strict, onError);
-      alias.range = [offset, valueEnd, re.offset];
-      if (re.comment)
-        alias.comment = re.comment;
-      return alias;
-    }
-    exports.composeEmptyNode = composeEmptyNode;
-    exports.composeNode = composeNode;
-  }
-});
-
-// node_modules/yaml/dist/compose/compose-doc.js
-var require_compose_doc = __commonJS({
-  "node_modules/yaml/dist/compose/compose-doc.js"(exports) {
-    "use strict";
-    var Document = require_Document();
-    var composeNode = require_compose_node();
-    var resolveEnd = require_resolve_end();
-    var resolveProps = require_resolve_props();
-    function composeDoc(options, directives, { offset, start, value, end }, onError) {
-      const opts = Object.assign({ _directives: directives }, options);
-      const doc = new Document.Document(void 0, opts);
-      const ctx = {
-        atKey: false,
-        atRoot: true,
-        directives: doc.directives,
-        options: doc.options,
-        schema: doc.schema
-      };
-      const props = resolveProps.resolveProps(start, {
-        indicator: "doc-start",
-        next: value != null ? value : end == null ? void 0 : end[0],
-        offset,
-        onError,
-        parentIndent: 0,
-        startOnNewline: true
-      });
-      if (props.found) {
-        doc.directives.docStart = true;
-        if (value && (value.type === "block-map" || value.type === "block-seq") && !props.hasNewline)
-          onError(props.end, "MISSING_CHAR", "Block collection cannot start on same line with directives-end marker");
-      }
-      doc.contents = value ? composeNode.composeNode(ctx, value, props, onError) : composeNode.composeEmptyNode(ctx, props.end, start, null, props, onError);
-      const contentEnd = doc.contents.range[2];
-      const re = resolveEnd.resolveEnd(end, contentEnd, false, onError);
-      if (re.comment)
-        doc.comment = re.comment;
-      doc.range = [offset, contentEnd, re.offset];
-      return doc;
-    }
-    exports.composeDoc = composeDoc;
-  }
-});
-
-// node_modules/yaml/dist/compose/composer.js
-var require_composer = __commonJS({
-  "node_modules/yaml/dist/compose/composer.js"(exports) {
-    "use strict";
-    var node_process = require("node:process");
-    var directives = require_directives();
-    var Document = require_Document();
-    var errors = require_errors();
-    var identity = require_identity();
-    var composeDoc = require_compose_doc();
-    var resolveEnd = require_resolve_end();
-    function getErrorPos(src) {
-      if (typeof src === "number")
-        return [src, src + 1];
-      if (Array.isArray(src))
-        return src.length === 2 ? src : [src[0], src[1]];
-      const { offset, source } = src;
-      return [offset, offset + (typeof source === "string" ? source.length : 1)];
-    }
-    function parsePrelude(prelude) {
-      var _a;
-      let comment = "";
-      let atComment = false;
-      let afterEmptyLine = false;
-      for (let i = 0; i < prelude.length; ++i) {
-        const source = prelude[i];
-        switch (source[0]) {
-          case "#":
-            comment += (comment === "" ? "" : afterEmptyLine ? "\n\n" : "\n") + (source.substring(1) || " ");
-            atComment = true;
-            afterEmptyLine = false;
-            break;
-          case "%":
-            if (((_a = prelude[i + 1]) == null ? void 0 : _a[0]) !== "#")
-              i += 1;
-            atComment = false;
-            break;
-          default:
-            if (!atComment)
-              afterEmptyLine = true;
-            atComment = false;
-        }
-      }
-      return { comment, afterEmptyLine };
-    }
-    var Composer = class {
-      constructor(options = {}) {
-        this.doc = null;
-        this.atDirectives = false;
-        this.prelude = [];
-        this.errors = [];
-        this.warnings = [];
-        this.onError = (source, code, message, warning) => {
-          const pos = getErrorPos(source);
-          if (warning)
-            this.warnings.push(new errors.YAMLWarning(pos, code, message));
-          else
-            this.errors.push(new errors.YAMLParseError(pos, code, message));
-        };
-        this.directives = new directives.Directives({ version: options.version || "1.2" });
-        this.options = options;
-      }
-      decorate(doc, afterDoc) {
-        const { comment, afterEmptyLine } = parsePrelude(this.prelude);
-        if (comment) {
-          const dc = doc.contents;
-          if (afterDoc) {
-            doc.comment = doc.comment ? `${doc.comment}
-${comment}` : comment;
-          } else if (afterEmptyLine || doc.directives.docStart || !dc) {
-            doc.commentBefore = comment;
-          } else if (identity.isCollection(dc) && !dc.flow && dc.items.length > 0) {
-            let it = dc.items[0];
-            if (identity.isPair(it))
-              it = it.key;
-            const cb = it.commentBefore;
-            it.commentBefore = cb ? `${comment}
-${cb}` : comment;
-          } else {
-            const cb = dc.commentBefore;
-            dc.commentBefore = cb ? `${comment}
-${cb}` : comment;
-          }
-        }
-        if (afterDoc) {
-          Array.prototype.push.apply(doc.errors, this.errors);
-          Array.prototype.push.apply(doc.warnings, this.warnings);
-        } else {
-          doc.errors = this.errors;
-          doc.warnings = this.warnings;
-        }
-        this.prelude = [];
-        this.errors = [];
-        this.warnings = [];
-      }
-      streamInfo() {
-        return {
-          comment: parsePrelude(this.prelude).comment,
-          directives: this.directives,
-          errors: this.errors,
-          warnings: this.warnings
-        };
-      }
-      *compose(tokens, forceDoc = false, endOffset = -1) {
-        for (const token of tokens)
-          yield* this.next(token);
-        yield* this.end(forceDoc, endOffset);
-      }
-      *next(token) {
-        if (node_process.env.LOG_STREAM)
-          console.dir(token, { depth: null });
-        switch (token.type) {
-          case "directive":
-            this.directives.add(token.source, (offset, message, warning) => {
-              const pos = getErrorPos(token);
-              pos[0] += offset;
-              this.onError(pos, "BAD_DIRECTIVE", message, warning);
-            });
-            this.prelude.push(token.source);
-            this.atDirectives = true;
-            break;
-          case "document": {
-            const doc = composeDoc.composeDoc(this.options, this.directives, token, this.onError);
-            if (this.atDirectives && !doc.directives.docStart)
-              this.onError(token, "MISSING_CHAR", "Missing directives-end/doc-start indicator line");
-            this.decorate(doc, false);
-            if (this.doc)
-              yield this.doc;
-            this.doc = doc;
-            this.atDirectives = false;
-            break;
-          }
-          case "byte-order-mark":
-          case "space":
-            break;
-          case "comment":
-          case "newline":
-            this.prelude.push(token.source);
-            break;
-          case "error": {
-            const msg = token.source ? `${token.message}: ${JSON.stringify(token.source)}` : token.message;
-            const error = new errors.YAMLParseError(getErrorPos(token), "UNEXPECTED_TOKEN", msg);
-            if (this.atDirectives || !this.doc)
-              this.errors.push(error);
-            else
-              this.doc.errors.push(error);
-            break;
-          }
-          case "doc-end": {
-            if (!this.doc) {
-              const msg = "Unexpected doc-end without preceding document";
-              this.errors.push(new errors.YAMLParseError(getErrorPos(token), "UNEXPECTED_TOKEN", msg));
-              break;
-            }
-            this.doc.directives.docEnd = true;
-            const end = resolveEnd.resolveEnd(token.end, token.offset + token.source.length, this.doc.options.strict, this.onError);
-            this.decorate(this.doc, true);
-            if (end.comment) {
-              const dc = this.doc.comment;
-              this.doc.comment = dc ? `${dc}
-${end.comment}` : end.comment;
-            }
-            this.doc.range[2] = end.offset;
-            break;
-          }
-          default:
-            this.errors.push(new errors.YAMLParseError(getErrorPos(token), "UNEXPECTED_TOKEN", `Unsupported token ${token.type}`));
-        }
-      }
-      *end(forceDoc = false, endOffset = -1) {
-        if (this.doc) {
-          this.decorate(this.doc, true);
-          yield this.doc;
-          this.doc = null;
-        } else if (forceDoc) {
-          const opts = Object.assign({ _directives: this.directives }, this.options);
-          const doc = new Document.Document(void 0, opts);
-          if (this.atDirectives)
-            this.onError(endOffset, "MISSING_CHAR", "Missing directives-end indicator line");
-          doc.range = [0, endOffset, endOffset];
-          this.decorate(doc, false);
-          yield doc;
-        }
-      }
-    };
-    exports.Composer = Composer;
-  }
-});
-
-// node_modules/yaml/dist/parse/cst-scalar.js
-var require_cst_scalar = __commonJS({
-  "node_modules/yaml/dist/parse/cst-scalar.js"(exports) {
-    "use strict";
-    var resolveBlockScalar = require_resolve_block_scalar();
-    var resolveFlowScalar = require_resolve_flow_scalar();
-    var errors = require_errors();
-    var stringifyString = require_stringifyString();
-    function resolveAsScalar(token, strict = true, onError) {
-      if (token) {
-        const _onError = (pos, code, message) => {
-          const offset = typeof pos === "number" ? pos : Array.isArray(pos) ? pos[0] : pos.offset;
-          if (onError)
-            onError(offset, code, message);
-          else
-            throw new errors.YAMLParseError([offset, offset + 1], code, message);
-        };
-        switch (token.type) {
-          case "scalar":
-          case "single-quoted-scalar":
-          case "double-quoted-scalar":
-            return resolveFlowScalar.resolveFlowScalar(token, strict, _onError);
-          case "block-scalar":
-            return resolveBlockScalar.resolveBlockScalar({ options: { strict } }, token, _onError);
-        }
-      }
->>>>>>> origin/main
       return null;
     }
     function createScalarToken(value, context) {
@@ -55413,7 +55120,6 @@ var require_cst_stringify = __commonJS({
           return res;
         }
       }
-<<<<<<< HEAD
     }
     function stringifyItem({ start, key, sep, value }) {
       let res = "";
@@ -55428,22 +55134,6 @@ var require_cst_stringify = __commonJS({
         res += stringifyToken(value);
       return res;
     }
-=======
-    }
-    function stringifyItem({ start, key, sep, value }) {
-      let res = "";
-      for (const st of start)
-        res += st.source;
-      if (key)
-        res += stringifyToken(key);
-      if (sep)
-        for (const st of sep)
-          res += st.source;
-      if (value)
-        res += stringifyToken(value);
-      return res;
-    }
->>>>>>> origin/main
     exports.stringify = stringify;
   }
 });
@@ -56217,7 +55907,7 @@ var require_line_counter = __commonJS({
 var require_parser = __commonJS({
   "node_modules/yaml/dist/parse/parser.js"(exports) {
     "use strict";
-    var node_process = require("node:process");
+    var node_process = require("process");
     var cst = require_cst();
     var lexer = require_lexer();
     function includesToken(list, type) {
@@ -56780,7 +56470,17 @@ var require_parser = __commonJS({
             default: {
               const bv = this.startBlockValue(map);
               if (bv) {
-                if (atMapIndent && bv.type !== "block-seq") {
+                if (bv.type === "block-seq") {
+                  if (!it.explicitKey && it.sep && !includesToken(it.sep, "newline")) {
+                    yield* this.pop({
+                      type: "error",
+                      offset: this.offset,
+                      message: "Unexpected block-seq-ind on same line with key",
+                      source: this.source
+                    });
+                    return;
+                  }
+                } else if (atMapIndent) {
                   map.items.push({ start });
                 }
                 this.stack.push(bv);
@@ -58027,6 +57727,9 @@ var LocalRestApiPublicApi = class {
   }
 };
 
+// docs/openapi.yaml
+var openapi_default = 'components:\n  schemas:\n    Error:\n      properties:\n        errorCode:\n          description: |\n            A 5-digit error code uniquely identifying this particular type of error.\n          example: 40149\n          type: "number"\n        message:\n          description: "Message describing the error."\n          example: "A brief description of the error."\n          type: "string"\n      type: "object"\n    NoteJson:\n      properties:\n        content:\n          type: "string"\n        frontmatter:\n          type: "object"\n        path:\n          type: "string"\n        stat:\n          properties:\n            ctime:\n              type: "number"\n            mtime:\n              type: "number"\n            size:\n              type: "number"\n          required:\n            - "ctime"\n            - "mtime"\n            - "size"\n          type: "object"\n        tags:\n          items:\n            type: "string"\n          type: "array"\n      required:\n        - "tags"\n        - "frontmatter"\n        - "stat"\n        - "path"\n        - "content"\n      type: "object"\n  securitySchemes:\n    apiKeyAuth:\n      description: |\n        Find your API Key in your Obsidian settings\n        in the "Local REST API" section under "Plugins".\n      scheme: "bearer"\n      type: "http"\ninfo:\n  description: |\n    You can use this interface for trying out your Local REST API in Obsidian.\n    \n    Before trying the below tools, you will want to make sure you press the "Authorize" button below and provide the API Key you are shown when you open the "Local REST API" section of your Obsidian settings.  All requests to the API require a valid API Key; so you won\'t get very far without doing that.\n    \n    When using this tool you may see browser security warnings due to your browser not trusting the self-signed certificate the plugin will generate on its first run.  If you do, you can make those errors disappear by adding the certificate as a "Trusted Certificate" in your browser or operating system\'s settings.\n  title: "Local REST API for Obsidian"\n  version: "1.0"\nopenapi: "3.0.2"\npaths:\n  /:\n    get:\n      description: |\n        Returns basic details about the server as well as your authentication status.\n        \n        This is the only API request that does *not* require authentication.\n      responses:\n        "200":\n          content:\n            application/json:\n              schema:\n                properties:\n                  authenticated:\n                    description: "Is your current request authenticated?"\n                    type: "boolean"\n                  ok:\n                    description: "\'OK\'"\n                    type: "string"\n                  service:\n                    description: "\'Obsidian Local REST API\'"\n                    type: "string"\n                  versions:\n                    properties:\n                      obsidian:\n                        description: "Obsidian plugin API version"\n                        type: "string"\n                      self:\n                        description: "Plugin version."\n                        type: "string"\n                    type: "object"\n                type: "object"\n          description: "Success"\n      summary: |\n        Returns basic details about the server.\n      tags:\n        - "System"\n  /active/:\n    delete:\n      parameters: []\n      responses:\n        "204":\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "File does not exist."\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Deletes the currently-active file in Obsidian.\n      tags:\n        - "Active File"\n    get:\n      description: |\n        Returns the content of the currently active file in Obsidian.\n        \n        If you specify the header `Accept: application/vnd.olrapi.note+json`, will return a JSON representation of your note including parsed tag and frontmatter data as well as filesystem metadata.  See "responses" below for details.\n      parameters: []\n      responses:\n        "200":\n          content:\n            "application/vnd.olrapi.note+json":\n              schema:\n                "$ref": "#/components/schemas/NoteJson"\n            text/markdown:\n              schema:\n                example: |\n                  # This is my document\n                  \n                  something else here\n                type: "string"\n          description: "Success"\n        "404":\n          description: "File does not exist"\n      summary: |\n        Return the content of the active file open in Obsidian.\n      tags:\n        - "Active File"\n    patch:\n      description: |\n        Inserts content into the currently-open note relative to a heading, block refeerence, or frontmatter field within that document.\n        \n        Allows you to modify the content relative to a heading, block reference, or frontmatter field in your document.\n        \n        Note that this API was changed in Version 3.0 of this extension and the earlier PATCH API is now deprecated. Requests made using the previous version of this API will continue to work until Version 4.0 is released.  See https://github.com/coddingtonbear/obsidian-local-rest-api/wiki/Changes-to-PATCH-requests-between-versions-2.0-and-3.0 for more details and migration instructions.\n        \n        # Examples\n        \n        All of the below examples assume you have a document that looks like\n        this:\n        \n        ```markdown\n        ---\n        alpha: 1\n        beta: test\n        delta:\n        zeta: 1\n        yotta: 1\n        gamma:\n        - one\n        - two\n        ---\n        \n        # Heading 1\n        \n        This is the content for heading one\n        \n        Also references some [[#^484ef2]]\n        \n        ## Subheading 1:1\n        Content for Subheading 1:1\n        \n        ### Subsubheading 1:1:1\n        \n        ### Subsubheading 1:1:2\n        \n        Testing how block references work for a table.[[#^2c7cfa]]\n        Some content for Subsubheading 1:1:2\n        \n        More random text.\n        \n        ^2d9b4a\n        \n        ## Subheading 1:2\n        \n        Content for Subheading 1:2.\n        \n        some content with a block reference ^484ef2\n        \n        ## Subheading 1:3\n        | City         | Population |\n        | ------------ | ---------- |\n        | Seattle, WA  | 8          |\n        | Portland, OR | 4          |\n        \n        ^2c7cfa\n        ```\n        \n        ## Append Content Below a Heading\n        \n        If you wanted to append the content "Hello" below "Subheading 1:1:1" under "Heading 1",\n        you could send a request with the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `heading`\n        - `Target`: `Heading 1::Subheading 1:1:1`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Append Content to a Block Reference\n        \n        If you wanted to append the content "Hello" below the block referenced by\n        "2d9b4a" above ("More random text."), you could send the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `block`\n        - `Target`: `2d9b4a`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Add a Row to a Table Referenced by a Block Reference\n        \n        If you wanted to add a new city ("Chicago, IL") and population ("16") pair to the table above\n        referenced by the block reference `2c7cfa`, you could send the following\n        headers:\n        \n        - `Operation`: `append`\n        - `TargetType`: `block`\n        - `Target`: `2c7cfa`\n        - `Content-Type`: `application/json`\n        - with the request body: `[["Chicago, IL", "16"]]`\n        \n        The use of a `Content-Type` of `application/json` allows the API\n        to infer that member of your array represents rows and columns of your\n        to append to the referenced table.  You can of course just use a\n        `Content-Type` of `text/markdown`, but in such a case you\'ll have to\n        format your table row manually instead of letting the library figure\n        it out for you.\n        \n        You also have the option of using `prepend` (in which case, your new\n        row would be the first -- right below the table heading) or `replace` (in which\n        case all rows except the table heading would be replaced by the new row(s)\n        you supplied).\n        \n        ## Setting a Frontmatter Field\n        \n        If you wanted to set the frontmatter field `alpha` to `2`, you could\n        send the following headers:\n        \n        - `Operation`: `replace`\n        - `TargetType`: `frontmatter`\n        - `Target`: `beep`\n        - with the request body `2`\n        \n        If you\'re setting a frontmatter field that might not already exist\n        you may want to use the `Create-Target-If-Missing` header so the\n        new frontmatter field is created and set to your specified value\n        if it doesn\'t already exist.\n        \n        You may find using a `Content-Type` of `application/json` to be\n        particularly useful in the case of frontmatter since frontmatter\n        fields\' values are JSON data, and the API can be smarter about\n        interpreting yoru `prepend` or `append` requests if you specify\n        your data as JSON (particularly when appending, for example,\n        list items).\n      parameters:\n        - description: "Patch operation to perform"\n          in: "header"\n          name: "Operation"\n          required: true\n          schema:\n            enum:\n              - "append"\n              - "prepend"\n              - "replace"\n            type: "string"\n        - description: "Type of target to patch"\n          in: "header"\n          name: "Target-Type"\n          required: true\n          schema:\n            enum:\n              - "heading"\n              - "block"\n              - "frontmatter"\n            type: "string"\n        - description: "Delimiter to use for nested targets (i.e. Headings)"\n          in: "header"\n          name: "Target-Delimiter"\n          required: false\n          schema:\n            default: "::"\n            type: "string"\n        - description: |\n            Target to patch; this value can be URL-Encoded and *must*\n            be URL-Encoded if it includes non-ASCII characters.\n          in: "header"\n          name: "Target"\n          required: true\n          schema:\n            type: "string"\n        - description: "Trim whitespace from Target before applying patch?"\n          in: "header"\n          name: "Trim-Target-Whitespace"\n          required: false\n          schema:\n            default: "false"\n            enum:\n              - "true"\n              - "false"\n            type: "string"\n      requestBody:\n        content:\n          application/json:\n            schema:\n              example: "[\'one\', \'two\']"\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to insert."\n        required: true\n      responses:\n        "200":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request; see response message for details."\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Does not exist"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Partially update content in the currently open note.\n      tags:\n        - "Active File"\n    post:\n      description: |\n        Appends content to the end of the currently-open note.\n        \n        If you would like to insert text relative to a particular heading instead of appending to the end of the file, see \'patch\'.\n      parameters: []\n      requestBody:\n        content:\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to append."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Append content to the active file open in Obsidian.\n      tags:\n        - "Active File"\n    put:\n      parameters: []\n      requestBody:\n        content:\n          "*/*":\n            schema:\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content of the file you would like to upload."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Incoming file could not be processed.  Make sure you have specified a reasonable file name, and make sure you have set a reasonable \'Content-Type\' header; if you are uploading a note, \'text/markdown\' is likely the right choice.\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Update the content of the active file open in Obsidian.\n      tags:\n        - "Active File"\n  /commands/:\n    get:\n      responses:\n        "200":\n          content:\n            application/json:\n              example:\n                commands:\n                  - id: "global-search:open"\n                    name: "Search: Search in all files"\n                  - id: "graph:open"\n                    name: "Graph view: Open graph view"\n              schema:\n                properties:\n                  commands:\n                    items:\n                      properties:\n                        id:\n                          type: "string"\n                        name:\n                          type: "string"\n                      type: "object"\n                    type: "array"\n                type: "object"\n          description: "A list of available commands."\n      summary: |\n        Get a list of available commands.\n      tags:\n        - "Commands"\n  "/commands/{commandId}/":\n    post:\n      parameters:\n        - description: "The id of the command to execute"\n          in: "path"\n          name: "commandId"\n          required: true\n          schema:\n            type: "string"\n      responses:\n        "204":\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "The command you specified does not exist."\n      summary: |\n        Execute a command.\n      tags:\n        - "Commands"\n  /obsidian-local-rest-api.crt:\n    get:\n      responses:\n        "200":\n          description: "Success"\n      summary: |\n        Returns the certificate in use by this API.\n      tags:\n        - "System"\n  "/open/{filename}":\n    post:\n      description: |\n        Note: Obsidian will create a new document at the path you have\n        specified if such a document did not already exist.\n      parameters:\n        - description: |\n            Path to the file to return (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n        - description: "Open this as a new leaf?"\n          in: "query"\n          name: "newLeaf"\n          required: false\n          schema:\n            type: "boolean"\n      responses:\n        "200":\n          description: "Success"\n      summary: |\n        Open the specified document in the Obsidian user interface.\n      tags:\n        - "Open"\n  /openapi.yaml:\n    get:\n      responses:\n        "200":\n          description: "Success"\n      summary: |\n        Returns OpenAPI YAML document describing the capabilities of this API.\n      tags:\n        - "System"\n  "/periodic/{period}/":\n    delete:\n      parameters:\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      responses:\n        "204":\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "File does not exist."\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Delete the current periodic note for the specified period.\n      tags:\n        - "Periodic Notes"\n    get:\n      parameters:\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      responses:\n        "200":\n          content:\n            "application/vnd.olrapi.note+json":\n              schema:\n                "$ref": "#/components/schemas/NoteJson"\n            text/markdown:\n              schema:\n                example: |\n                  # This is my document\n                  \n                  something else here\n                type: "string"\n          description: "Success"\n        "404":\n          description: "File does not exist"\n      summary: |\n        Get current periodic note for the specified period.\n      tags:\n        - "Periodic Notes"\n    patch:\n      description: |\n        Inserts content into the current periodic note for the specified period relative to a heading, block refeerence, or frontmatter field within that document.\n        \n        Allows you to modify the content relative to a heading, block reference, or frontmatter field in your document.\n        \n        Note that this API was changed in Version 3.0 of this extension and the earlier PATCH API is now deprecated. Requests made using the previous version of this API will continue to work until Version 4.0 is released.  See https://github.com/coddingtonbear/obsidian-local-rest-api/wiki/Changes-to-PATCH-requests-between-versions-2.0-and-3.0 for more details and migration instructions.\n        \n        # Examples\n        \n        All of the below examples assume you have a document that looks like\n        this:\n        \n        ```markdown\n        ---\n        alpha: 1\n        beta: test\n        delta:\n        zeta: 1\n        yotta: 1\n        gamma:\n        - one\n        - two\n        ---\n        \n        # Heading 1\n        \n        This is the content for heading one\n        \n        Also references some [[#^484ef2]]\n        \n        ## Subheading 1:1\n        Content for Subheading 1:1\n        \n        ### Subsubheading 1:1:1\n        \n        ### Subsubheading 1:1:2\n        \n        Testing how block references work for a table.[[#^2c7cfa]]\n        Some content for Subsubheading 1:1:2\n        \n        More random text.\n        \n        ^2d9b4a\n        \n        ## Subheading 1:2\n        \n        Content for Subheading 1:2.\n        \n        some content with a block reference ^484ef2\n        \n        ## Subheading 1:3\n        | City         | Population |\n        | ------------ | ---------- |\n        | Seattle, WA  | 8          |\n        | Portland, OR | 4          |\n        \n        ^2c7cfa\n        ```\n        \n        ## Append Content Below a Heading\n        \n        If you wanted to append the content "Hello" below "Subheading 1:1:1" under "Heading 1",\n        you could send a request with the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `heading`\n        - `Target`: `Heading 1::Subheading 1:1:1`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Append Content to a Block Reference\n        \n        If you wanted to append the content "Hello" below the block referenced by\n        "2d9b4a" above ("More random text."), you could send the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `block`\n        - `Target`: `2d9b4a`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Add a Row to a Table Referenced by a Block Reference\n        \n        If you wanted to add a new city ("Chicago, IL") and population ("16") pair to the table above\n        referenced by the block reference `2c7cfa`, you could send the following\n        headers:\n        \n        - `Operation`: `append`\n        - `TargetType`: `block`\n        - `Target`: `2c7cfa`\n        - `Content-Type`: `application/json`\n        - with the request body: `[["Chicago, IL", "16"]]`\n        \n        The use of a `Content-Type` of `application/json` allows the API\n        to infer that member of your array represents rows and columns of your\n        to append to the referenced table.  You can of course just use a\n        `Content-Type` of `text/markdown`, but in such a case you\'ll have to\n        format your table row manually instead of letting the library figure\n        it out for you.\n        \n        You also have the option of using `prepend` (in which case, your new\n        row would be the first -- right below the table heading) or `replace` (in which\n        case all rows except the table heading would be replaced by the new row(s)\n        you supplied).\n        \n        ## Setting a Frontmatter Field\n        \n        If you wanted to set the frontmatter field `alpha` to `2`, you could\n        send the following headers:\n        \n        - `Operation`: `replace`\n        - `TargetType`: `frontmatter`\n        - `Target`: `beep`\n        - with the request body `2`\n        \n        If you\'re setting a frontmatter field that might not already exist\n        you may want to use the `Create-Target-If-Missing` header so the\n        new frontmatter field is created and set to your specified value\n        if it doesn\'t already exist.\n        \n        You may find using a `Content-Type` of `application/json` to be\n        particularly useful in the case of frontmatter since frontmatter\n        fields\' values are JSON data, and the API can be smarter about\n        interpreting yoru `prepend` or `append` requests if you specify\n        your data as JSON (particularly when appending, for example,\n        list items).\n      parameters:\n        - description: "Patch operation to perform"\n          in: "header"\n          name: "Operation"\n          required: true\n          schema:\n            enum:\n              - "append"\n              - "prepend"\n              - "replace"\n            type: "string"\n        - description: "Type of target to patch"\n          in: "header"\n          name: "Target-Type"\n          required: true\n          schema:\n            enum:\n              - "heading"\n              - "block"\n              - "frontmatter"\n            type: "string"\n        - description: "Delimiter to use for nested targets (i.e. Headings)"\n          in: "header"\n          name: "Target-Delimiter"\n          required: false\n          schema:\n            default: "::"\n            type: "string"\n        - description: |\n            Target to patch; this value can be URL-Encoded and *must*\n            be URL-Encoded if it includes non-ASCII characters.\n          in: "header"\n          name: "Target"\n          required: true\n          schema:\n            type: "string"\n        - description: "Trim whitespace from Target before applying patch?"\n          in: "header"\n          name: "Trim-Target-Whitespace"\n          required: false\n          schema:\n            default: "false"\n            enum:\n              - "true"\n              - "false"\n            type: "string"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          application/json:\n            schema:\n              example: "[\'one\', \'two\']"\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to insert."\n        required: true\n      responses:\n        "200":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request; see response message for details."\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Does not exist"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Partially update content in the current periodic note for the specified period.\n      tags:\n        - "Periodic Notes"\n    post:\n      description: |\n        Note that this will create the relevant periodic note if necessary.\n      parameters:\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to append."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Append content to the current periodic note for the specified period.\n      tags:\n        - "Periodic Notes"\n    put:\n      parameters:\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          "*/*":\n            schema:\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content of the file you would like to upload."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Incoming file could not be processed.  Make sure you have specified a reasonable file name, and make sure you have set a reasonable \'Content-Type\' header; if you are uploading a note, \'text/markdown\' is likely the right choice.\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Update the content of the current periodic note for the specified period.\n      tags:\n        - "Periodic Notes"\n  "/periodic/{period}/{year}/{month}/{day}/":\n    delete:\n      description: |\n        Deletes the periodic note for the specified period.\n      parameters:\n        - description: "The year of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "year"\n          required: true\n          schema:\n            type: "number"\n        - description: "The month (1-12) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "month"\n          required: true\n          schema:\n            type: "number"\n        - description: "The day (1-31) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "day"\n          required: true\n          schema:\n            type: "number"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      responses:\n        "204":\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "File does not exist."\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Delete the periodic note for the specified period and date.\n      tags:\n        - "Periodic Notes"\n    get:\n      parameters:\n        - description: "The year of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "year"\n          required: true\n          schema:\n            type: "number"\n        - description: "The month (1-12) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "month"\n          required: true\n          schema:\n            type: "number"\n        - description: "The day (1-31) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "day"\n          required: true\n          schema:\n            type: "number"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      responses:\n        "200":\n          content:\n            "application/vnd.olrapi.note+json":\n              schema:\n                "$ref": "#/components/schemas/NoteJson"\n            text/markdown:\n              schema:\n                example: |\n                  # This is my document\n                  \n                  something else here\n                type: "string"\n          description: "Success"\n        "404":\n          description: "File does not exist"\n      summary: |\n        Get the periodic note for the specified period and date.\n      tags:\n        - "Periodic Notes"\n    patch:\n      description: |\n        Inserts content into a periodic note relative to a heading, block refeerence, or frontmatter field within that document.\n        \n        Allows you to modify the content relative to a heading, block reference, or frontmatter field in your document.\n        \n        Note that this API was changed in Version 3.0 of this extension and the earlier PATCH API is now deprecated. Requests made using the previous version of this API will continue to work until Version 4.0 is released.  See https://github.com/coddingtonbear/obsidian-local-rest-api/wiki/Changes-to-PATCH-requests-between-versions-2.0-and-3.0 for more details and migration instructions.\n        \n        # Examples\n        \n        All of the below examples assume you have a document that looks like\n        this:\n        \n        ```markdown\n        ---\n        alpha: 1\n        beta: test\n        delta:\n        zeta: 1\n        yotta: 1\n        gamma:\n        - one\n        - two\n        ---\n        \n        # Heading 1\n        \n        This is the content for heading one\n        \n        Also references some [[#^484ef2]]\n        \n        ## Subheading 1:1\n        Content for Subheading 1:1\n        \n        ### Subsubheading 1:1:1\n        \n        ### Subsubheading 1:1:2\n        \n        Testing how block references work for a table.[[#^2c7cfa]]\n        Some content for Subsubheading 1:1:2\n        \n        More random text.\n        \n        ^2d9b4a\n        \n        ## Subheading 1:2\n        \n        Content for Subheading 1:2.\n        \n        some content with a block reference ^484ef2\n        \n        ## Subheading 1:3\n        | City         | Population |\n        | ------------ | ---------- |\n        | Seattle, WA  | 8          |\n        | Portland, OR | 4          |\n        \n        ^2c7cfa\n        ```\n        \n        ## Append Content Below a Heading\n        \n        If you wanted to append the content "Hello" below "Subheading 1:1:1" under "Heading 1",\n        you could send a request with the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `heading`\n        - `Target`: `Heading 1::Subheading 1:1:1`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Append Content to a Block Reference\n        \n        If you wanted to append the content "Hello" below the block referenced by\n        "2d9b4a" above ("More random text."), you could send the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `block`\n        - `Target`: `2d9b4a`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Add a Row to a Table Referenced by a Block Reference\n        \n        If you wanted to add a new city ("Chicago, IL") and population ("16") pair to the table above\n        referenced by the block reference `2c7cfa`, you could send the following\n        headers:\n        \n        - `Operation`: `append`\n        - `TargetType`: `block`\n        - `Target`: `2c7cfa`\n        - `Content-Type`: `application/json`\n        - with the request body: `[["Chicago, IL", "16"]]`\n        \n        The use of a `Content-Type` of `application/json` allows the API\n        to infer that member of your array represents rows and columns of your\n        to append to the referenced table.  You can of course just use a\n        `Content-Type` of `text/markdown`, but in such a case you\'ll have to\n        format your table row manually instead of letting the library figure\n        it out for you.\n        \n        You also have the option of using `prepend` (in which case, your new\n        row would be the first -- right below the table heading) or `replace` (in which\n        case all rows except the table heading would be replaced by the new row(s)\n        you supplied).\n        \n        ## Setting a Frontmatter Field\n        \n        If you wanted to set the frontmatter field `alpha` to `2`, you could\n        send the following headers:\n        \n        - `Operation`: `replace`\n        - `TargetType`: `frontmatter`\n        - `Target`: `beep`\n        - with the request body `2`\n        \n        If you\'re setting a frontmatter field that might not already exist\n        you may want to use the `Create-Target-If-Missing` header so the\n        new frontmatter field is created and set to your specified value\n        if it doesn\'t already exist.\n        \n        You may find using a `Content-Type` of `application/json` to be\n        particularly useful in the case of frontmatter since frontmatter\n        fields\' values are JSON data, and the API can be smarter about\n        interpreting yoru `prepend` or `append` requests if you specify\n        your data as JSON (particularly when appending, for example,\n        list items).\n      parameters:\n        - description: "Patch operation to perform"\n          in: "header"\n          name: "Operation"\n          required: true\n          schema:\n            enum:\n              - "append"\n              - "prepend"\n              - "replace"\n            type: "string"\n        - description: "Type of target to patch"\n          in: "header"\n          name: "Target-Type"\n          required: true\n          schema:\n            enum:\n              - "heading"\n              - "block"\n              - "frontmatter"\n            type: "string"\n        - description: "Delimiter to use for nested targets (i.e. Headings)"\n          in: "header"\n          name: "Target-Delimiter"\n          required: false\n          schema:\n            default: "::"\n            type: "string"\n        - description: |\n            Target to patch; this value can be URL-Encoded and *must*\n            be URL-Encoded if it includes non-ASCII characters.\n          in: "header"\n          name: "Target"\n          required: true\n          schema:\n            type: "string"\n        - description: "Trim whitespace from Target before applying patch?"\n          in: "header"\n          name: "Trim-Target-Whitespace"\n          required: false\n          schema:\n            default: "false"\n            enum:\n              - "true"\n              - "false"\n            type: "string"\n        - description: "The year of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "year"\n          required: true\n          schema:\n            type: "number"\n        - description: "The month (1-12) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "month"\n          required: true\n          schema:\n            type: "number"\n        - description: "The day (1-31) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "day"\n          required: true\n          schema:\n            type: "number"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          application/json:\n            schema:\n              example: "[\'one\', \'two\']"\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to insert."\n        required: true\n      responses:\n        "200":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request; see response message for details."\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Does not exist"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Partially update content in the periodic note for the specified period and date.\n      tags:\n        - "Periodic Notes"\n    post:\n      description: |\n        This will create the relevant periodic note if necessary.\n      parameters:\n        - description: "The year of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "year"\n          required: true\n          schema:\n            type: "number"\n        - description: "The month (1-12) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "month"\n          required: true\n          schema:\n            type: "number"\n        - description: "The day (1-31) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "day"\n          required: true\n          schema:\n            type: "number"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to append."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Append content to the periodic note for the specified period and date.\n      tags:\n        - "Periodic Notes"\n    put:\n      parameters:\n        - description: "The year of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "year"\n          required: true\n          schema:\n            type: "number"\n        - description: "The month (1-12) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "month"\n          required: true\n          schema:\n            type: "number"\n        - description: "The day (1-31) of the date for which you would like to grab a periodic note."\n          in: "path"\n          name: "day"\n          required: true\n          schema:\n            type: "number"\n        - description: "The name of the period for which you would like to grab a periodic note."\n          in: "path"\n          name: "period"\n          required: true\n          schema:\n            default: "daily"\n            enum:\n              - "daily"\n              - "weekly"\n              - "monthly"\n              - "quarterly"\n              - "yearly"\n            type: "string"\n      requestBody:\n        content:\n          "*/*":\n            schema:\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content of the file you would like to upload."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Incoming file could not be processed.  Make sure you have specified a reasonable file name, and make sure you have set a reasonable \'Content-Type\' header; if you are uploading a note, \'text/markdown\' is likely the right choice.\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Update the content of the periodic note for the specified period and date.\n      tags:\n        - "Periodic Notes"\n  /search/:\n    post:\n      description: |\n        Evaluates a provided query against each file in your vault.\n        \n        This endpoint supports multiple query formats.  Your query should be specified in your request\'s body, and will be interpreted according to the `Content-type` header you specify from the below options.Additional query formats may be added in the future.\n        \n        # Dataview DQL (`application/vnd.olrapi.dataview.dql+txt`)\n        \n        Accepts a `TABLE`-type Dataview query as a text string.  See [Dataview](https://blacksmithgu.github.io/obsidian-dataview/query/queries/)\'s query documentation for information on how to construct a query.\n        \n        # JsonLogic (`application/vnd.olrapi.jsonlogic+json`)\n        \n        Accepts a JsonLogic query specified as JSON.  See [JsonLogic](https://jsonlogic.com/operations.html)\'s documentation for information about the base set of operators available, but in addition to those operators the following operators are available:\n        \n        - `glob: [PATTERN, VALUE]`: Returns `true` if a string matches a glob pattern.  E.g.: `{"glob": ["*.foo", "bar.foo"]}` is `true` and `{"glob": ["*.bar", "bar.foo"]}` is `false`.\n        - `regexp: [PATTERN, VALUE]`: Returns `true` if a string matches a regular expression.  E.g.: `{"regexp": [".*\\.foo", "bar.foo"]` is `true` and `{"regexp": [".*\\.bar", "bar.foo"]}` is `false`.\n        \n        Returns only non-falsy results.  "Non-falsy" here treats the following values as "falsy":\n        \n        - `false`\n        - `null` or `undefined`\n        - `0`\n        - `[]`\n        - `{}`\n        \n        Files are represented as an object having the schema described\n        in the Schema named \'NoteJson\' at the bottom of this page.\n        Understanding the shape of a JSON object from a schema can be\n        tricky; so you may find it helpful to examine the generated metadata\n        for individual files in your vault to understand exactly what values\n        are returned.  To see that, access the `GET` `/vault/{filePath}`\n        route setting the header:\n        `Accept: application/vnd.olrapi.note+json`.  See examples below\n        for working examples of queries performing common search operations.\n      requestBody:\n        content:\n          "application/vnd.olrapi.dataview.dql+txt":\n            examples:\n              find_fields_by_tag:\n                summary: "List data from files having the #game tag."\n                value: |\n                  TABLE\n                    time-played AS "Time Played",\n                    length AS "Length",\n                    rating AS "Rating"\n                  FROM #game\n                  SORT rating DESC\n            schema:\n              externalDocs:\n                url: "https://blacksmithgu.github.io/obsidian-dataview/query/queries/"\n              type: "object"\n          "application/vnd.olrapi.jsonlogic+json":\n            examples:\n              find_by_frontmatter_url_glob:\n                summary: "Find notes having URL or a matching URL glob frontmatter field."\n                value: |\n                  {\n                    "or": [\n                      {"===": [{"var": "frontmatter.url"}, "https://myurl.com/some/path/"]},\n                      {"glob": [{"var": "frontmatter.url-glob"}, "https://myurl.com/some/path/"]}\n                    ]\n                  }\n              find_by_frontmatter_value:\n                summary: "Find notes having a certain frontmatter field value."\n                value: |\n                  {\n                    "==": [\n                      {"var": "frontmatter.myField"},\n                      "myValue"\n                    ]\n                  }\n              find_by_tag:\n                summary: "Find notes having a certain tag"\n                value: |\n                  {\n                    "in": [\n                      "myTag",\n                      {"var": "tags"}\n                    ]\n                  }\n            schema:\n              externalDocs:\n                url: "https://jsonlogic.com/operations.html"\n              type: "object"\n        required: true\n      responses:\n        "200":\n          content:\n            application/json:\n              schema:\n                items:\n                  properties:\n                    filename:\n                      description: "Path to the matching file"\n                      type: "string"\n                    result:\n                      oneOf:\n                        - type: "string"\n                        - type: "number"\n                        - type: "array"\n                        - type: "object"\n                        - type: "boolean"\n                  required:\n                    - "filename"\n                    - "result"\n                  type: "object"\n                type: "array"\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Bad request.  Make sure you have specified an acceptable\n            Content-Type for your search query.\n      summary: |\n        Search for documents matching a specified search query\n      tags:\n        - "Search"\n  /search/simple/:\n    post:\n      parameters:\n        - description: "Your search query"\n          in: "query"\n          name: "query"\n          required: true\n          schema:\n            type: "string"\n        - description: "How much context to return around the matching string"\n          in: "query"\n          name: "contextLength"\n          required: false\n          schema:\n            default: 100\n            type: "number"\n      responses:\n        "200":\n          content:\n            application/json:\n              schema:\n                items:\n                  properties:\n                    filename:\n                      description: "Path to the matching file"\n                      type: "string"\n                    matches:\n                      items:\n                        properties:\n                          context:\n                            type: "string"\n                          match:\n                            properties:\n                              end:\n                                type: "number"\n                              start:\n                                type: "number"\n                            required:\n                              - "start"\n                              - "end"\n                            type: "object"\n                        required:\n                          - "match"\n                          - "context"\n                        type: "object"\n                      type: "array"\n                    score:\n                      type: "number"\n                  type: "object"\n                type: "array"\n          description: "Success"\n      summary: |\n        Search for documents matching a specified text query\n      tags:\n        - "Search"\n  /vault/:\n    get:\n      description: |\n        Lists files in the root directory of your vault.\n        \n        Note: that this is exactly the same API endpoint as the below "List files that exist in the specified directory." and exists here only due to a quirk of this particular interactive tool.\n      responses:\n        "200":\n          content:\n            application/json:\n              example:\n                files:\n                  - "mydocument.md"\n                  - "somedirectory/"\n              schema:\n                properties:\n                  files:\n                    items:\n                      type: "string"\n                    type: "array"\n                type: "object"\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Directory does not exist"\n      summary: |\n        List files that exist in the root of your vault.\n      tags:\n        - "Vault Directories"\n  "/vault/{filename}":\n    delete:\n      parameters:\n        - description: |\n            Path to the relevant file (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      responses:\n        "204":\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "File does not exist."\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Delete a particular file in your vault.\n      tags:\n        - "Vault Files"\n    get:\n      description: |\n        Returns the content of the file at the specified path in your vault should the file exist.\n        \n        If you specify the header `Accept: application/vnd.olrapi.note+json`, will return a JSON representation of your note including parsed tag and frontmatter data as well as filesystem metadata.  See "responses" below for details.\n      parameters:\n        - description: |\n            Path to the relevant file (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      responses:\n        "200":\n          content:\n            "application/vnd.olrapi.note+json":\n              schema:\n                "$ref": "#/components/schemas/NoteJson"\n            text/markdown:\n              schema:\n                example: |\n                  # This is my document\n                  \n                  something else here\n                type: "string"\n          description: "Success"\n        "404":\n          description: "File does not exist"\n      summary: |\n        Return the content of a single file in your vault.\n      tags:\n        - "Vault Files"\n    patch:\n      description: |\n        Inserts content into an existing note relative to a heading, block refeerence, or frontmatter field within that document.\n        \n        Allows you to modify the content relative to a heading, block reference, or frontmatter field in your document.\n        \n        Note that this API was changed in Version 3.0 of this extension and the earlier PATCH API is now deprecated. Requests made using the previous version of this API will continue to work until Version 4.0 is released.  See https://github.com/coddingtonbear/obsidian-local-rest-api/wiki/Changes-to-PATCH-requests-between-versions-2.0-and-3.0 for more details and migration instructions.\n        \n        # Examples\n        \n        All of the below examples assume you have a document that looks like\n        this:\n        \n        ```markdown\n        ---\n        alpha: 1\n        beta: test\n        delta:\n        zeta: 1\n        yotta: 1\n        gamma:\n        - one\n        - two\n        ---\n        \n        # Heading 1\n        \n        This is the content for heading one\n        \n        Also references some [[#^484ef2]]\n        \n        ## Subheading 1:1\n        Content for Subheading 1:1\n        \n        ### Subsubheading 1:1:1\n        \n        ### Subsubheading 1:1:2\n        \n        Testing how block references work for a table.[[#^2c7cfa]]\n        Some content for Subsubheading 1:1:2\n        \n        More random text.\n        \n        ^2d9b4a\n        \n        ## Subheading 1:2\n        \n        Content for Subheading 1:2.\n        \n        some content with a block reference ^484ef2\n        \n        ## Subheading 1:3\n        | City         | Population |\n        | ------------ | ---------- |\n        | Seattle, WA  | 8          |\n        | Portland, OR | 4          |\n        \n        ^2c7cfa\n        ```\n        \n        ## Append Content Below a Heading\n        \n        If you wanted to append the content "Hello" below "Subheading 1:1:1" under "Heading 1",\n        you could send a request with the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `heading`\n        - `Target`: `Heading 1::Subheading 1:1:1`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Append Content to a Block Reference\n        \n        If you wanted to append the content "Hello" below the block referenced by\n        "2d9b4a" above ("More random text."), you could send the following headers:\n        \n        - `Operation`: `append`\n        - `Target-Type`: `block`\n        - `Target`: `2d9b4a`\n        - with the request body: `Hello`\n        \n        The above would work just fine for `prepend` or `replace`, too, of course,\n        but with different results.\n        \n        ## Add a Row to a Table Referenced by a Block Reference\n        \n        If you wanted to add a new city ("Chicago, IL") and population ("16") pair to the table above\n        referenced by the block reference `2c7cfa`, you could send the following\n        headers:\n        \n        - `Operation`: `append`\n        - `TargetType`: `block`\n        - `Target`: `2c7cfa`\n        - `Content-Type`: `application/json`\n        - with the request body: `[["Chicago, IL", "16"]]`\n        \n        The use of a `Content-Type` of `application/json` allows the API\n        to infer that member of your array represents rows and columns of your\n        to append to the referenced table.  You can of course just use a\n        `Content-Type` of `text/markdown`, but in such a case you\'ll have to\n        format your table row manually instead of letting the library figure\n        it out for you.\n        \n        You also have the option of using `prepend` (in which case, your new\n        row would be the first -- right below the table heading) or `replace` (in which\n        case all rows except the table heading would be replaced by the new row(s)\n        you supplied).\n        \n        ## Setting a Frontmatter Field\n        \n        If you wanted to set the frontmatter field `alpha` to `2`, you could\n        send the following headers:\n        \n        - `Operation`: `replace`\n        - `TargetType`: `frontmatter`\n        - `Target`: `beep`\n        - with the request body `2`\n        \n        If you\'re setting a frontmatter field that might not already exist\n        you may want to use the `Create-Target-If-Missing` header so the\n        new frontmatter field is created and set to your specified value\n        if it doesn\'t already exist.\n        \n        You may find using a `Content-Type` of `application/json` to be\n        particularly useful in the case of frontmatter since frontmatter\n        fields\' values are JSON data, and the API can be smarter about\n        interpreting yoru `prepend` or `append` requests if you specify\n        your data as JSON (particularly when appending, for example,\n        list items).\n      parameters:\n        - description: "Patch operation to perform"\n          in: "header"\n          name: "Operation"\n          required: true\n          schema:\n            enum:\n              - "append"\n              - "prepend"\n              - "replace"\n            type: "string"\n        - description: "Type of target to patch"\n          in: "header"\n          name: "Target-Type"\n          required: true\n          schema:\n            enum:\n              - "heading"\n              - "block"\n              - "frontmatter"\n            type: "string"\n        - description: "Delimiter to use for nested targets (i.e. Headings)"\n          in: "header"\n          name: "Target-Delimiter"\n          required: false\n          schema:\n            default: "::"\n            type: "string"\n        - description: |\n            Target to patch; this value can be URL-Encoded and *must*\n            be URL-Encoded if it includes non-ASCII characters.\n          in: "header"\n          name: "Target"\n          required: true\n          schema:\n            type: "string"\n        - description: "Trim whitespace from Target before applying patch?"\n          in: "header"\n          name: "Trim-Target-Whitespace"\n          required: false\n          schema:\n            default: "false"\n            enum:\n              - "true"\n              - "false"\n            type: "string"\n        - description: |\n            Path to the relevant file (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      requestBody:\n        content:\n          application/json:\n            schema:\n              example: "[\'one\', \'two\']"\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to insert."\n        required: true\n      responses:\n        "200":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request; see response message for details."\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Does not exist"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Partially update content in an existing note.\n      tags:\n        - "Vault Files"\n    post:\n      description: |\n        Appends content to the end of an existing note. If the specified file does not yet exist, it will be created as an empty file.\n        \n        If you would like to insert text relative to a particular heading, block reference, or frontmatter field instead of appending to the end of the file, see \'patch\'.\n      parameters:\n        - description: |\n            Path to the relevant file (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      requestBody:\n        content:\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content you would like to append."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Bad Request"\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Append content to a new or existing file.\n      tags:\n        - "Vault Files"\n    put:\n      description: |\n        Creates a new file in your vault or updates the content of an existing one if the specified file already exists.\n      parameters:\n        - description: |\n            Path to the relevant file (relative to your vault root).\n          in: "path"\n          name: "filename"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      requestBody:\n        content:\n          "*/*":\n            schema:\n              type: "string"\n          text/markdown:\n            schema:\n              example: |\n                # This is my document\n                \n                something else here\n              type: "string"\n        description: "Content of the file you would like to upload."\n        required: true\n      responses:\n        "204":\n          description: "Success"\n        "400":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Incoming file could not be processed.  Make sure you have specified a reasonable file name, and make sure you have set a reasonable \'Content-Type\' header; if you are uploading a note, \'text/markdown\' is likely the right choice.\n        "405":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: |\n            Your path references a directory instead of a file; this request method is valid only for updating files.\n      summary: |\n        Create a new file in your vault or update the content of an existing one.\n      tags:\n        - "Vault Files"\n  "/vault/{pathToDirectory}/":\n    get:\n      parameters:\n        - description: |\n            Path to list files from (relative to your vault root).  Note that empty directories will not be returned.\n            \n            Note: this particular interactive tool requires that you provide an argument for this field, but the API itself will allow you to list the root folder of your vault. If you would like to try listing content in the root of your vault using this interactive tool, use the above "List files that exist in the root of your vault" form above.\n          in: "path"\n          name: "pathToDirectory"\n          required: true\n          schema:\n            format: "path"\n            type: "string"\n      responses:\n        "200":\n          content:\n            application/json:\n              example:\n                files:\n                  - "mydocument.md"\n                  - "somedirectory/"\n              schema:\n                properties:\n                  files:\n                    items:\n                      type: "string"\n                    type: "array"\n                type: "object"\n          description: "Success"\n        "404":\n          content:\n            application/json:\n              schema:\n                "$ref": "#/components/schemas/Error"\n          description: "Directory does not exist"\n      summary: |\n        List files that exist in the specified directory.\n      tags:\n        - "Vault Directories"\nsecurity:\n  - apiKeyAuth: []\nservers:\n  - description: "HTTPS (Secure Mode)"\n    url: "https://{host}:{port}"\n    variables:\n      host:\n        default: "127.0.0.1"\n        description: "Binding host"\n      port:\n        default: "27124"\n        description: "HTTPS port"\n  - description: "HTTP (Insecure Mode)"\n    url: "http://{host}:{port}"\n    variables:\n      host:\n        default: "127.0.0.1"\n        description: "Binding host"\n      port:\n        default: "27123"\n        description: "HTTP port"\n';
+
 // src/requestHandler.ts
 var RequestHandler = class {
   constructor(app, manifest, settings) {
@@ -58087,7 +57790,11 @@ var RequestHandler = class {
   }
   authenticationMiddleware(req, res, next) {
     return __async(this, null, function* () {
-      const authenticationExemptRoutes = ["/", `/${CERT_NAME}`];
+      const authenticationExemptRoutes = [
+        "/",
+        `/${CERT_NAME}`,
+        "/openapi.yaml"
+      ];
       if (!authenticationExemptRoutes.includes(req.path) && !this.requestIsAuthenticated(req)) {
         this.returnCannedResponse(res, {
           errorCode: ErrorCode.ApiKeyAuthorizationRequired
@@ -58805,6 +58512,12 @@ var RequestHandler = class {
       res.status(200).send(this.settings.crypto.cert);
     });
   }
+  openapiYamlGet(req, res) {
+    return __async(this, null, function* () {
+      res.setHeader("Content-Type", "application/yaml; charset=utf-8");
+      res.status(200).send(openapi_default);
+    });
+  }
   notFoundHandler(req, res, next) {
     return __async(this, null, function* () {
       this.returnCannedResponse(res, {
@@ -58876,6 +58589,7 @@ var RequestHandler = class {
     this.api.route("/search/simple/").post(this.searchSimplePost.bind(this));
     this.api.route("/open/*").post(this.openPost.bind(this));
     this.api.get(`/${CERT_NAME}`, this.certificateGet.bind(this));
+    this.api.get("/openapi.yaml", this.openapiYamlGet.bind(this));
     this.api.get("/", this.root.bind(this));
     this.api.use(this.apiExtensionRouter);
     this.api.use(this.notFoundHandler.bind(this));
