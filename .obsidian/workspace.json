@@ -21,66 +21,8 @@
               "icon": "lucide-file",
               "title": "+Home"
             }
-          },
-          {
-            "id": "7437f2ae6096e2a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2023-07-20 13.58.41.excalidraw"
-            }
-          },
-          {
-            "id": "1cb2fc4132f2db3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Workbench.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Workbench"
-            }
-          },
-          {
-            "id": "e5beede664d0ad4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文件组织的5种方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "文件组织的5种方法"
-            }
-          },
-          {
-            "id": "787e90a8c8d52b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "何以为父：影响彼此一生的父子关系"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +168,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1cb2fc4132f2db3e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/Workbench.md",
     "Pasted image 20250617152205.png",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "Excalidraw/excalidraw Study - 1.md",
@@ -264,7 +207,6 @@
     "Pasted image 20250604095524.png",
     "Pasted image 20250604095129.png",
     "Pasted image 20250604091155.png",
-    "Pasted image 20250603142850.png",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",

@@ -23,4 +23,6 @@
 
 ![[Pasted image 20250617152205.png]]
 
+[Fetching Title#b6x1](https://www.visual-thinking-workshop.com/mastering-visual-literacy)
+
 阅读正日益被视觉消费所掩盖，视觉消费对脑力的要求较低。文字很容易被遗忘，但图像却能在我们的脑海中停留数十年。
