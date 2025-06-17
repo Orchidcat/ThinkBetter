@@ -15,3 +15,8 @@
 
 
 相克就变成木克土，土去克水。肝脏有病的人，结果把脾胃堵到了，脾胃一堵到了，胃口就没有了。脾管水，脾是统水的，脾脏有问题时，胃口都没了，就克到水，那水灾就开始泛滥了。肾脏开始衰弱了，这个水就慢慢把心脏的火浇熄了。心脏火被浇熄了，肺脏就没有心脏的支持，结果死亡就是心肺衰竭。这就是克的现象。
+
+
+
+
+[Title Unavailable \| Site Unreachable](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
