@@ -19,10 +19,14 @@
 
 
 
-[Title Unavailable \| Site Unreachable](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
+[Fetching Title#mbfm](https://www.visual-thinking-workshop.com/beyond-words-why-visual-thinking-is-the-missing-link-in-your-pkm)
 
 ![[Pasted image 20250617152205.png]]
 
-[Fetching Title#b6x1](https://www.visual-thinking-workshop.com/mastering-visual-literacy)
+[Mastering Visual Literacy](https://www.visual-thinking-workshop.com/mastering-visual-literacy)
 
 阅读正日益被视觉消费所掩盖，视觉消费对脑力的要求较低。文字很容易被遗忘，但图像却能在我们的脑海中停留数十年。
+
+### 符号的语法
+
+文本和图像之间有着明显的区别。文本具有连续性和散漫性，这意味着它以线性叙事的方式组织。相比之下，图像则更具整体性，一目了然地提供全面的视角。图片缺乏正式的语法和标准化的视觉字母，这使得它们难以以传统的方式“阅读”。[苏珊·桑塔格](https://www.gyford.com/phil/writing/2010/08/23/on-photography/)认为，如果没有叙事，通过图像进行的理解就会受到限制。然而，当我们思考这一点时，我们也必须承认，由于文本是连续的，如果没有语法和句法，就无法理解文本。没有这些元素，读者就无法解读串行信号流之间的联系。有人可能会认为，语法和句法的概念是串行通信局限性的副作用或必然产物。
