@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "标记",
+                "query": "宗教",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,7 +198,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "文件组织的5种方法.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
