@@ -61,8 +61,7 @@
               "title": "Digital Minimalism"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -208,13 +206,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d0ccc7e508512e74",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/wardley-mapping-canvas.excalidrawlib",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/Digital Minimalism.md",
     "digi.md",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "Excalidraw/BoaP - Atomic Habits.excalidraw",
     "What is Visual PKM and Why Should You Care.md",
