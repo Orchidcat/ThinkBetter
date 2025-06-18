@@ -26,15 +26,12 @@
             "id": "16274225d738743a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/The Periodic Table of Productivity.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Workbench"
+              "icon": "excalidraw-icon",
+              "title": "The Periodic Table of Productivity"
             }
           },
           {
@@ -53,13 +50,18 @@
             }
           },
           {
-            "id": "99d1a7e7460ba7e1",
+            "id": "faa8e0b481eb6756",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Workbench.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Workbench"
             }
           }
         ],
@@ -120,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +210,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "99d1a7e7460ba7e1",
+  "active": "faa8e0b481eb6756",
   "lastOpenFiles": [
-    "The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/人纪/+Home.md",
-    "未命名 5.md",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Workbench.md",
-    "工具箱.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "ThinkBetter/100种心智模型.md",
+    "The Periodic Table of Productivity.excalidraw",
+    "未命名 5.md",
+    "工具箱.md",
     "ThinkBetter/Books.md",
     "Pasted image 20250617152205.png",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
@@ -238,7 +242,6 @@
     "工具箱🧰.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/记忆框架的建立.md",
-    "ThinkBetter/Tools.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
@@ -255,7 +258,6 @@
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
-    "PDF",
-    "ThinkBetter/人纪/伤寒论"
+    "PDF"
   ]
 }

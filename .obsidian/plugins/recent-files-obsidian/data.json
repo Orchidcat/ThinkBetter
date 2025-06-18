@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "The Periodic Table of Productivity",
-      "path": "The Periodic Table of Productivity.excalidraw"
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
-      "basename": "未命名 5",
-      "path": "未命名 5.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
-    },
-    {
-      "basename": "工具箱",
-      "path": "工具箱.md"
+      "basename": "The Periodic Table of Productivity",
+      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw"
     },
     {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
+    },
+    {
+      "basename": "100种心智模型",
+      "path": "ThinkBetter/100种心智模型.md"
+    },
+    {
+      "basename": "The Periodic Table of Productivity",
+      "path": "The Periodic Table of Productivity.excalidraw"
+    },
+    {
+      "basename": "未命名 5",
+      "path": "未命名 5.md"
+    },
+    {
+      "basename": "工具箱",
+      "path": "工具箱.md"
     },
     {
       "basename": "Books",
@@ -191,14 +199,6 @@
     {
       "basename": "四圣谛",
       "path": "四圣谛.md"
-    },
-    {
-      "basename": "sql server 内部存储原理",
-      "path": "sql server 内部存储原理.md"
-    },
-    {
-      "basename": "b-tree",
-      "path": "b-tree.md"
     }
   ],
   "omittedPaths": [],
