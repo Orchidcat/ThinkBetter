@@ -5,20 +5,24 @@
       "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
     },
     {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
-    },
-    {
-      "basename": "工具箱",
-      "path": "工具箱.md"
+      "basename": "The Periodic Table of Productivity.excalidraw",
+      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
     },
     {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
     },
     {
-      "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
+      "basename": "What is Visual PKM and Why Should You Care",
+      "path": "What is Visual PKM and Why Should You Care.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "工具箱",
+      "path": "工具箱.md"
     },
     {
       "basename": "Pasted Image 20250618090951_171",
@@ -195,10 +199,6 @@
     {
       "basename": "反直觉",
       "path": "反直觉.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "ThinkBetter/思考问题的三个过滤器.md"
     }
   ],
   "omittedPaths": [],
