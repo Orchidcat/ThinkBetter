@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "e7563f06454a502f",
@@ -246,8 +246,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "faa8e0b481eb6756",
+  "active": "149d2edc82fe0c78",
   "lastOpenFiles": [
+    "What is Visual PKM and Why Should You Care.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/Workbench.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Books.md",
@@ -255,7 +257,6 @@
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
-    "What is Visual PKM and Why Should You Care.md",
     "Pasted Image 20250618104501_614.png",
     "Excalidraw/Book on a page",
     "Pasted Image 20250618090951_171.svg",
@@ -287,7 +288,6 @@
     "ThinkBetter/OB插件.md",
     "ThinkBetter/如何阅读的方法.md",
     "想要读.md",
-    "正在读.md",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
