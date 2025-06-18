@@ -52,7 +52,8 @@
               "title": "何以为父：影响彼此一生的父子关系"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +199,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "16274225d738743a",
   "lastOpenFiles": [
+    "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
@@ -216,7 +218,6 @@
     "ThinkBetter/学习方法.md",
     "ThinkBetter/历史年代.md",
     "ThinkBetter/地理知识.md",
-    "工具箱.md",
     "写作.md",
     "十大难以抗拒的心理现象.md",
     "ThinkBetter/OB插件.md",

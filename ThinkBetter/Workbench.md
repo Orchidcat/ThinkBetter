@@ -91,7 +91,7 @@
 
 
 
-
+visual PKM 的整体思路：[What is Visual Thinking? - Excalidraw+](https://link.excalidraw.com/readonly/DevOHq3cflAuQxmkjB3O)
 
 
 
