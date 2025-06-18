@@ -31,7 +31,8 @@
               "title": "excalidraw Storage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +177,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eed7d36503f835ab",
+  "active": "d113642cb6536dbc",
   "lastOpenFiles": [
+    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/excalidraw Storage.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Icon - librarian, archivist - by Freepik, Flaticons.png",
@@ -190,7 +192,6 @@
     "Icon - focus, target - by Freepik, Flaticon.png",
     "Icon - flip the coin, turn, rotate - by smashicons, Flaticon.png",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/BASB Book on a Page.excalidraw",
     "工具箱.md",
