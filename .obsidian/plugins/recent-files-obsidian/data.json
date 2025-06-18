@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
+      "basename": "BoaP - Atomic Habits",
+      "path": "Excalidraw/BoaP - Atomic Habits.excalidraw"
     },
     {
       "basename": "What is Visual PKM and Why Should You Care",
       "path": "What is Visual PKM and Why Should You Care.md"
+    },
+    {
+      "basename": "The Periodic Table of Productivity.excalidraw",
+      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
     },
     {
       "basename": "002 黄帝内经",
@@ -195,10 +199,6 @@
     {
       "basename": "矛盾论",
       "path": "矛盾论.md"
-    },
-    {
-      "basename": "实践论",
-      "path": "实践论.md"
     }
   ],
   "omittedPaths": [],
