@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "e7563f06454a502f",
@@ -245,10 +245,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d0ccc7e508512e74",
+  "active": "149d2edc82fe0c78",
   "lastOpenFiles": [
-    "工具箱.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "工具箱.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
