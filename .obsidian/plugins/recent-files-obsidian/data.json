@@ -5,6 +5,14 @@
       "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
     },
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "The Periodic Table of Productivity.excalidraw",
       "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "What is Visual PKM and Why Should You Care",
       "path": "What is Visual PKM and Why Should You Care.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "工具箱",
@@ -43,10 +47,6 @@
     {
       "basename": "未命名 5",
       "path": "未命名 5.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "Drawing 2023-07-20 13.58.41.excalidraw",
