@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +192,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6bc85f179bbed1f7",
+  "active": "d113642cb6536dbc",
   "lastOpenFiles": [
+    "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
@@ -209,7 +210,6 @@
     "Icon - flip the coin, turn, rotate - by smashicons, Flaticon.png",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/BASB Book on a Page.excalidraw",
-    "工具箱.md",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "ThinkBetter/Books/Digital Minimalism.md",
     "digi.md",
