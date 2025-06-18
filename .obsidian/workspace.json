@@ -41,13 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Workbench"
+              "title": "002 黄帝内经"
             }
           },
           {
@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "宗教",
+                "query": "白发",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +153,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -247,13 +248,13 @@
   },
   "active": "faa8e0b481eb6756",
   "lastOpenFiles": [
+    "ThinkBetter/Workbench.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/Workbench.md",
     "What is Visual PKM and Why Should You Care.md",
     "Pasted Image 20250618104501_614.png",
     "Excalidraw/Book on a page",

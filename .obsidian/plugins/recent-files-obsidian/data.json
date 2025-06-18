@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实践论",
       "path": "实践论.md"
-    },
-    {
-      "basename": "how buildings learn：what happens after they're built",
-      "path": "ThinkBetter/Books/how buildings learn：what happens after they're built.md"
     }
   ],
   "omittedPaths": [],
