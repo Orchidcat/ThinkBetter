@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "BoaP - How to Take Smart Notes"
             }
+          },
+          {
+            "id": "d113642cb6536dbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/excalidraw Storage.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw Storage"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,12 +177,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eed7d36503f835ab",
+  "active": "d113642cb6536dbc",
   "lastOpenFiles": [
-    "Excalidraw/excalidraw Storage.md",
-    "Pasted Image 20250618135500_396.png",
-    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/excalidraw Storage.md",
+    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
+    "Pasted Image 20250618135500_396.png",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/BASB Book on a Page.excalidraw",
     "工具箱.md",
