@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital Minimalism",
+      "path": "ThinkBetter/Books/Digital Minimalism.md"
+    },
+    {
+      "basename": "BASB Book on a Page",
+      "path": "Excalidraw/BASB Book on a Page.excalidraw"
+    },
+    {
+      "basename": "digi",
+      "path": "digi.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "The Reading Time Flow.excalidraw",
       "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
-    },
-    {
-      "basename": "BASB Book on a Page",
-      "path": "Excalidraw/BASB Book on a Page.excalidraw"
     },
     {
       "basename": "002 黄帝内经",
@@ -191,14 +199,6 @@
     {
       "basename": "+HomeMOC",
       "path": "+HomeMOC.md"
-    },
-    {
-      "basename": "心智模型 TOC",
-      "path": "ThinkBetter/心智模型 TOC.md"
-    },
-    {
-      "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
-      "path": "ThinkBetter/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md"
     }
   ],
   "omittedPaths": [],
