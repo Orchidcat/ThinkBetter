@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,10 +207,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d0ccc7e508512e74",
+  "active": "faa8e0b481eb6756",
   "lastOpenFiles": [
-    "Excalidraw/BASB Book on a Page.excalidraw",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "Excalidraw/BASB Book on a Page.excalidraw",
     "工具箱.md",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "ThinkBetter/Books/Digital Minimalism.md",
