@@ -77,7 +77,8 @@
               "title": "The Periodic Table of Productivity.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e7563f06454a502f",
@@ -244,8 +245,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d0ccc7e508512e74",
   "lastOpenFiles": [
+    "工具箱.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/人纪/+Home.md",
@@ -253,7 +255,6 @@
     "ThinkBetter/Workbench.md",
     "What is Visual PKM and Why Should You Care.md",
     "Pasted Image 20250618104501_614.png",
-    "工具箱.md",
     "Excalidraw/Book on a page",
     "Pasted Image 20250618090951_171.svg",
     "Pasted Image 20250618090955_139.svg",
