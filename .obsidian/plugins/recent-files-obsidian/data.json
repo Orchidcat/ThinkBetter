@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "佛教的见地与修道",
+      "path": "佛教的见地与修道.md"
+    },
+    {
       "basename": "The Periodic Table of Productivity.excalidraw",
       "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "工具箱",
       "path": "工具箱.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "+Home",
@@ -195,10 +199,6 @@
     {
       "basename": "how buildings learn：what happens after they're built",
       "path": "ThinkBetter/Books/how buildings learn：what happens after they're built.md"
-    },
-    {
-      "basename": "反直觉",
-      "path": "反直觉.md"
     }
   ],
   "omittedPaths": [],
