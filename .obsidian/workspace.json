@@ -56,12 +56,10 @@
             "id": "99d1a7e7460ba7e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "The Periodic Table of Productivity.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "The Periodic Table of Productivity"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -184,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +210,8 @@
   },
   "active": "99d1a7e7460ba7e1",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "The Periodic Table of Productivity.excalidraw",
+    "ThinkBetter/人纪/+Home.md",
     "未命名 5.md",
     "ThinkBetter/Workbench.md",
     "工具箱.md",
