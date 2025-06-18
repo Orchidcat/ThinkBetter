@@ -71,8 +71,7 @@
 
 [The-Sketch-Your-Mind-Promise.pdf](https://sketch-your-mind.com/resources/The-Sketch-Your-Mind-Promise.pdf)
 
-@today
-
+[[2025-06-18]]
 # What is Visual PKM and Why Should You Care?
 
 
