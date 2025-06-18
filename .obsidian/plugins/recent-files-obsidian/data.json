@@ -5,6 +5,10 @@
       "path": "Excalidraw/excalidraw Storage.md"
     },
     {
+      "basename": "box",
+      "path": "box.png"
+    },
+    {
       "basename": "工具箱",
       "path": "工具箱.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "健康 MOC",
       "path": "ThinkBetter/健康 MOC.md"
-    },
-    {
-      "basename": "YEAR TOC⌛",
-      "path": "ThinkBetter/YEAR TOC⌛.md"
     }
   ],
   "omittedPaths": [],
