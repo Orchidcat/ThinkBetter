@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "何以为父：影响彼此一生的父子关系"
             }
+          },
+          {
+            "id": "99d1a7e7460ba7e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "The Periodic Table of Productivity.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "The Periodic Table of Productivity"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,11 +211,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "16274225d738743a",
+  "active": "99d1a7e7460ba7e1",
   "lastOpenFiles": [
-    "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
+    "The Periodic Table of Productivity.excalidraw",
+    "未命名 5.md",
     "ThinkBetter/Workbench.md",
+    "工具箱.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/Books.md",
     "Pasted image 20250617152205.png",
@@ -228,8 +242,6 @@
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/记忆框架的建立.md",
     "ThinkBetter/Tools.md",
-    "ThinkBetter/写点儿啥.md",
-    "ThinkBetter/事件timing.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",
@@ -247,7 +259,6 @@
     "ThinkBetter/Books",
     "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "PDF",
-    "ThinkBetter/人纪/伤寒论",
-    "ThinkBetter/Book"
+    "ThinkBetter/人纪/伤寒论"
   ]
 }
