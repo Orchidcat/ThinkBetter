@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,9 +208,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3c1c8d4c4c5337f",
+  "active": "d0ccc7e508512e74",
   "lastOpenFiles": [
     "Excalidraw/BASB Book on a Page.excalidraw",
+    "ThinkBetter/Books/Digital Minimalism.md",
     "digi.md",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
@@ -250,7 +251,6 @@
     "ThinkBetter/地理知识.md",
     "写作.md",
     "十大难以抗拒的心理现象.md",
-    "ThinkBetter/OB插件.md",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
