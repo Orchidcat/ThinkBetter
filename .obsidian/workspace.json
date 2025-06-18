@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "d0ccc7e508512e74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-18 09.48.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-18 09.48.01.excalidraw"
+            }
+          },
+          {
             "id": "faa8e0b481eb6756",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "The Periodic Table of Productivity.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +207,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "d0ccc7e508512e74",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/Drawing 2025-06-18 09.48.01.excalidraw.md",
+    "工具箱.md",
     "Excalidraw/Book on a page",
     "ThinkBetter/Workbench.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
@@ -209,8 +225,6 @@
     "Pasted Image 20250618090954_766.svg",
     "Pasted Image 20250618090954_752.svg",
     "Pasted Image 20250618090954_667.svg",
-    "ThinkBetter/人纪/+Home.md",
-    "工具箱.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/100种心智模型.md",
@@ -242,7 +256,6 @@
     "ThinkBetter/Map.canvas",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Books",
-    "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
-    "PDF"
+    "PDF/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
   ]
 }
