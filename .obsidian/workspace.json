@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 425.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -191,9 +191,9 @@
   },
   "active": "6bc85f179bbed1f7",
   "lastOpenFiles": [
-    "工具箱.md",
-    "Excalidraw/excalidraw Storage.md",
     "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
+    "Excalidraw/excalidraw Storage.md",
+    "工具箱.md",
     "box.png",
     "ThinkBetter/人纪/+Home.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
