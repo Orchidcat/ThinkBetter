@@ -23,33 +23,6 @@
             }
           },
           {
-            "id": "16274225d738743a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/The Periodic Table of Productivity.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "The Periodic Table of Productivity"
-            }
-          },
-          {
-            "id": "6b51611719412921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "何以为父：影响彼此一生的父子关系"
-            }
-          },
-          {
             "id": "faa8e0b481eb6756",
             "type": "leaf",
             "state": {
@@ -63,9 +36,19 @@
               "icon": "lucide-file",
               "title": "Workbench"
             }
+          },
+          {
+            "id": "149d2edc82fe0c78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,16 +193,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "16274225d738743a",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "工具箱.md",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/The Periodic Table of Productivity.excalidraw",
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/100种心智模型.md",
     "The Periodic Table of Productivity.excalidraw",
     "未命名 5.md",
-    "工具箱.md",
     "ThinkBetter/Books.md",
     "Pasted image 20250617152205.png",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
@@ -241,7 +225,6 @@
     "正在读.md",
     "工具箱🧰.md",
     "ThinkBetter/Books/how minds change.md",
-    "ThinkBetter/记忆框架的建立.md",
     "Pasted image 20250604111007.png",
     "Pasted image 20250604110457.png",
     "Pasted image 20250604104102.png",

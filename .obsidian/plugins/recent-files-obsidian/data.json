@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "The Periodic Table of Productivity",
-      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw"
+      "basename": "工具箱",
+      "path": "工具箱.md"
+    },
+    {
+      "basename": "何以为父：影响彼此一生的父子关系",
+      "path": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
+    },
+    {
+      "basename": "The Periodic Table of Productivity.excalidraw",
+      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
     },
     {
       "basename": "Workbench",
@@ -11,10 +19,6 @@
     {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
-    },
-    {
-      "basename": "何以为父：影响彼此一生的父子关系",
-      "path": "ThinkBetter/何以为父：影响彼此一生的父子关系.md"
     },
     {
       "basename": "100种心智模型",
@@ -27,10 +31,6 @@
     {
       "basename": "未命名 5",
       "path": "未命名 5.md"
-    },
-    {
-      "basename": "工具箱",
-      "path": "工具箱.md"
     },
     {
       "basename": "Books",
@@ -195,10 +195,6 @@
     {
       "basename": "David Foster Wallace -  This is Water",
       "path": "ThinkBetter/David Foster Wallace -  This is Water.md"
-    },
-    {
-      "basename": "四圣谛",
-      "path": "四圣谛.md"
     }
   ],
   "omittedPaths": [],
