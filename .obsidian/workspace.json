@@ -153,8 +153,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "149d2edc82fe0c78",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
