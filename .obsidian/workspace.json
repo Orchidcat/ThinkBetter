@@ -61,7 +61,8 @@
               "title": "Digital Minimalism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +207,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d0ccc7e508512e74",
   "lastOpenFiles": [
-    "Excalidraw/wardley-mapping-canvas.excalidrawlib",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/BASB Book on a Page.excalidraw",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "工具箱.md",
+    "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "ThinkBetter/Books/Digital Minimalism.md",
     "digi.md",
     "ThinkBetter/人纪/+Home.md",
@@ -221,7 +223,6 @@
     "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
-    "工具箱.md",
     "Pasted Image 20250618104501_614.png",
     "Excalidraw/Book on a page",
     "Pasted Image 20250618090951_171.svg",
@@ -254,7 +255,6 @@
     "ThinkBetter/Possible Futures",
     "ThinkBetter/新建文件夹",
     "未命名",
-    "ThinkBetter/Map.canvas",
-    "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
+    "ThinkBetter/Map.canvas"
   ]
 }
