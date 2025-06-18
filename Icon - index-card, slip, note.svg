@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.5 64.5" width="183" height="129">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.11.0-obsidian-25/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@zsviczian/excalidraw@0.11.0-obsidian-25/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round" transform="translate(10 10) rotate(0 35.75 22.25)"><path d="M-1.19 -0.8 L71.8 0.56 L69.72 44.4 L-1.78 45.15" stroke="none" stroke-width="0" fill="hsl(59,80%,86%)"/><path d="M1.38 1.44 C15.01 -0.34, 33.03 0.18, 70.27 0.85 M0.36 -0.23 C20.6 0.64, 41.19 0.76, 70.59 0.08 M72.91 0.92 C69.85 10.89, 72.92 25.98, 72.9 42.82 M70.9 -0.78 C71.28 15.27, 71.05 31.65, 72.49 45.42 M70.25 43.27 C49.86 44.14, 27.78 42.82, -1.28 42.61 M72.18 44.87 C45.5 45.77, 20.86 44.52, 0.7 44.05 M-1.3 43.46 C0.22 28.5, 1.68 9.47, -0.92 0.43 M0.76 44.98 C-0.47 31.06, 0.93 19.07, -0.04 -0.13" stroke="black" stroke-width="2" fill="none"/></g><g stroke-linecap="round"><g transform="translate(19 22.5) rotate(0 26.25 -0.5)"><path d="M1.44 -1.8 C13.26 -1.23, 27.94 -2.13, 53.35 -1.34 M-0.23 0.37 C13.65 0.3, 26.65 -1.59, 52.58 -1.25" stroke="black" stroke-width="2" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(19.5 31.5) rotate(0 21.5 -1)"><path d="M-1.8 -0.91 C8.86 -1.14, 17.7 -0.34, 42.66 -3.09 M0.37 0.77 C14.42 0.35, 26.46 -1.1, 42.75 -2.8" stroke="black" stroke-width="2" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(66.5 29) rotate(0 3.75 0)"><path d="M-0.34 -0.22 C2.62 -0.39, 5.85 -0.06, 7.09 0.14 M0.29 0.27 C2.86 -0.37, 5.08 -0.12, 7.2 0" stroke="black" stroke-width="2" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(18 40.5) rotate(0 13.5 -0.25)"><path d="M-0.6 -0.39 C8.83 0.79, 19.76 -1.34, 27.37 0.23 M0.73 0.89 C6.57 -0.27, 14.72 -1.29, 27 0.2" stroke="black" stroke-width="2" fill="none"/></g></g></svg>
