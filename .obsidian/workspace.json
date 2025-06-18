@@ -38,31 +38,16 @@
             "id": "faa8e0b481eb6756",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "002 黄帝内经"
-            }
-          },
-          {
-            "id": "4e4cd402e343824d",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/BoaP - Atomic Habits.excalidraw"
+                "file": "Excalidraw/BASB Book on a Page.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "BoaP - Atomic Habits"
+              "title": "BASB Book on a Page"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 426.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -207,12 +192,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e4cd402e343824d",
+  "active": "faa8e0b481eb6756",
   "lastOpenFiles": [
-    "What is Visual PKM and Why Should You Care.md",
-    "Excalidraw/BoaP - Atomic Habits.excalidraw",
-    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
+    "Excalidraw/BoaP - Atomic Habits.excalidraw",
+    "Excalidraw/BASB Book on a Page.excalidraw",
+    "What is Visual PKM and Why Should You Care.md",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
@@ -254,7 +240,6 @@
     "ThinkBetter/新建文件夹",
     "未命名",
     "ThinkBetter/Map.canvas",
-    "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
-    "ThinkBetter/Books"
+    "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
   ]
 }

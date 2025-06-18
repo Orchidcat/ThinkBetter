@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "BASB Book on a Page",
+      "path": "Excalidraw/BASB Book on a Page.excalidraw"
+    },
+    {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
       "basename": "BoaP - Atomic Habits",
       "path": "Excalidraw/BoaP - Atomic Habits.excalidraw"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "The Periodic Table of Productivity.excalidraw",
       "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "ThinkBetter/人纪/002 黄帝内经.md"
     },
     {
       "basename": "Workbench",
@@ -195,10 +199,6 @@
     {
       "basename": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;",
       "path": "ThinkBetter/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md"
-    },
-    {
-      "basename": "矛盾论",
-      "path": "矛盾论.md"
     }
   ],
   "omittedPaths": [],
