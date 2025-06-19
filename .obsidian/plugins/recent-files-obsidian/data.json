@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "how we learn - 阅读",
+      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
+    },
+    {
+      "basename": "excalidraw Storage",
+      "path": "Excalidraw/excalidraw Storage.md"
+    },
+    {
+      "basename": "how we learn - Summary",
+      "path": "ThinkBetter/Books/how we learn/how we learn - Summary.md"
+    },
+    {
       "basename": "000 sketchNoting a Book on a Page",
       "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
     {
       "basename": "Location added on 2025-06-19T11-38",
       "path": "Location added on 2025-06-19T11-38.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn - 阅读.md"
     },
     {
       "basename": "BoaP - Atomic Habits",
@@ -31,10 +39,6 @@
     {
       "basename": "BoaP - How to Take Smart Notes",
       "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
-    },
-    {
-      "basename": "excalidraw Storage",
-      "path": "Excalidraw/excalidraw Storage.md"
     },
     {
       "basename": "Workbench",
@@ -195,10 +199,6 @@
     {
       "basename": "写作",
       "path": "写作.md"
-    },
-    {
-      "basename": "十大难以抗拒的心理现象",
-      "path": "十大难以抗拒的心理现象.md"
     }
   ],
   "omittedPaths": [],
