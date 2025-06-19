@@ -79,26 +79,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
+                "file": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "how we learn - Boap"
-            }
-          },
-          {
-            "id": "dc97fee20ac06c61",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/example/BASB Book on a Page.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "BASB Book on a Page"
+              "title": "BoaP - Atomic Habits"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -244,11 +232,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "dc97fee20ac06c61",
+  "active": "e1f3cc4a185a12a4",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
+    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "Excalidraw/remember.excalidraw.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/excalidraw Storage.md",
@@ -256,7 +246,6 @@
     "ThinkBetter/Books/how we learn - 阅读.md",
     "Excalidraw/Library/Image Library.md",
     "Pasted Image 20250619161311_888.png",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
@@ -266,7 +255,6 @@
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
     "Pasted image 20250619134727.png",
-    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Books/Clear Thinking.md",
     "Pasted image 20250619133304.png",
     "Pasted image 20250619133011.png",
