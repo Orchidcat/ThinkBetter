@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b4703422d227eaa",
+        "id": "60addd237fd7f0ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e53cf2d07d318dee",
+            "id": "1f6629d6d761079e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -164,13 +164,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e53cf2d07d318dee",
+  "active": "1f6629d6d761079e",
   "lastOpenFiles": [
-    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/BoaP - Atomic Habits.excalidraw",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/excalidraw Storage.md",
-    "Excalidraw/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/BASB Book on a Page.excalidraw",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/how i organize my everything in obsidian.excalidraw",
