@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "16ddd9b71734c5a5",
+        "id": "7b4703422d227eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "eed7d36503f835ab",
+            "id": "e53cf2d07d318dee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/BoaP - How to Take Smart Notes.excalidraw"
+                "file": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "BoaP - How to Take Smart Notes"
-            }
-          },
-          {
-            "id": "d113642cb6536dbc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/excalidraw Storage.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw Storage"
-            }
-          },
-          {
-            "id": "6bc85f179bbed1f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/无标题-2025-06-16-1419.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "无标题-2025-06-16-1419"
+              "title": "The Periodic Table of Productivity.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,14 +164,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "e53cf2d07d318dee",
   "lastOpenFiles": [
-    "Excalidraw/excalidraw Storage.md",
-    "Excalidraw/无标题-2025-06-16-1419.excalidraw",
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
+    "Excalidraw/excalidraw Storage.md",
+    "Excalidraw/BoaP - Atomic Habits.excalidraw",
+    "Excalidraw/BASB Book on a Page.excalidraw",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "Excalidraw/how i organize my everything in obsidian.excalidraw",
     "工具箱.md",
     "box.png",
-    "ThinkBetter/人纪/+Home.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Icon - librarian, archivist - by Freepik, Flaticons.png",
     "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png",
@@ -206,15 +185,11 @@
     "Icon - genie, magic - by smashingstocks, Flaticon.png",
     "Icon - folders, filing - by Freepik, Flaticon.png",
     "Icon - focus, target - by Freepik, Flaticon.png",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
-    "Excalidraw/BASB Book on a Page.excalidraw",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "ThinkBetter/Books/Digital Minimalism.md",
     "digi.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "Excalidraw/BoaP - Atomic Habits.excalidraw",
     "What is Visual PKM and Why Should You Care.md",
-    "Excalidraw/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
