@@ -9,6 +9,18 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "BoaP - How to Take Smart Notes",
+      "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
+    },
+    {
+      "basename": "工具箱",
+      "path": "工具箱.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "ThinkBetter/Tools.md"
+    },
+    {
       "basename": "Icon - folders, filing - by Freepik, Flaticon",
       "path": "Icon - folders, filing - by Freepik, Flaticon.png"
     },
@@ -57,10 +69,6 @@
       "path": "Excalidraw/example/BASB Book on a Page.excalidraw"
     },
     {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
-    },
-    {
       "basename": "diagrams matter for PKM",
       "path": "Excalidraw/example/diagrams matter for PKM.excalidraw"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "The Periodic Table of Productivity.excalidraw",
       "path": "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
-    },
-    {
-      "basename": "工具箱",
-      "path": "工具箱.md"
     },
     {
       "basename": "box",
@@ -195,10 +199,6 @@
     {
       "basename": "工具箱🧰",
       "path": "工具箱🧰.md"
-    },
-    {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
     }
   ],
   "omittedPaths": [],

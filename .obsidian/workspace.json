@@ -11,6 +11,33 @@
             "id": "32af606d68b92e07",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具箱.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "工具箱"
+            }
+          },
+          {
+            "id": "132337614d643d5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "BoaP - How to Take Smart Notes"
+            }
+          },
+          {
+            "id": "21f552933e696833",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
@@ -19,7 +46,8 @@
               "title": "BoaP - Atomic Habits"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,10 +192,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "32af606d68b92e07",
+  "active": "21f552933e696833",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
+    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
+    "工具箱.md",
+    "ThinkBetter/Tools.md",
     "Icon - folders, filing - by Freepik, Flaticon.png",
     "Icon - genie, magic - by smashingstocks, Flaticon.png",
     "Icon - idea, lightbulb.svg",
@@ -182,7 +213,6 @@
     "Excalidraw/Drawing 2025-06-19 09.34.19.excalidraw.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/GTD.md",
@@ -190,7 +220,6 @@
     "未命名 6.md",
     "Excalidraw/example",
     "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
-    "工具箱.md",
     "box.png",
     "Icon - index-card, slip, note.svg",
     "Icon - focus, target - by Freepik, Flaticon.png",
@@ -210,7 +239,6 @@
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "文件组织的5种方法.md",
     "未命名 4.md",
-    "逻辑学入门.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
