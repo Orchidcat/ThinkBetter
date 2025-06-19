@@ -5,16 +5,20 @@
       "path": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "how we learn - 阅读",
+      "path": "ThinkBetter/Books/how we learn - 阅读.md"
+    },
+    {
       "basename": "how we learn - Boap",
       "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
       "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "BASB Book on a Page",
@@ -35,10 +39,6 @@
     {
       "basename": "现代野人.excalidraw",
       "path": "Excalidraw/现代野人.excalidraw.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn - 阅读.md"
     },
     {
       "basename": "Image Library",
