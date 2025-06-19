@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GTD",
+      "path": "ThinkBetter/GTD.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "正见",
       "path": "正见.md"
-    },
-    {
-      "basename": "自旋锁",
-      "path": "ThinkBetter/自旋锁.md"
     }
   ],
   "omittedPaths": [],

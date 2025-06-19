@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/GTD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "GTD"
             }
           }
         ]
@@ -169,11 +169,11 @@
   },
   "active": "c83b5feef34d92e9",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
-    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Workbench.md",
     "未命名 6.md",
