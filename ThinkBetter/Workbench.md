@@ -77,5 +77,10 @@
 
 
 
+[[2025-06-19]] 
+
+[Before You Write: Frame Your Thoughts with Concept Modeling - YouTube](https://www.youtube.com/watch?v=Zg_DUj68VkY)
+
+
 
 

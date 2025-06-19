@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
       "basename": "BoaP - Atomic Habits",
       "path": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
+    },
+    {
+      "basename": "未命名 6",
+      "path": "未命名 6.md"
     },
     {
       "basename": "BASB Book on a Page",
@@ -26,7 +34,7 @@
     },
     {
       "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "Excalidraw/The Periodic Table of Productivity.excalidraw.md"
+      "path": "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
     },
     {
       "basename": "excalidraw Storage",
@@ -55,10 +63,6 @@
     {
       "basename": "What is Visual PKM and Why Should You Care",
       "path": "What is Visual PKM and Why Should You Care.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "Books",
@@ -195,10 +199,6 @@
     {
       "basename": "项目 MOC",
       "path": "ThinkBetter/项目 MOC.md"
-    },
-    {
-      "basename": "目标 TOC",
-      "path": "目标 TOC.md"
     }
   ],
   "omittedPaths": [],
