@@ -23,15 +23,12 @@
             "id": "44c001d04f51e232",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/example/diagrams matter for PKM.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Workbench"
+              "icon": "excalidraw-icon",
+              "title": "diagrams matter for PKM"
             }
           }
         ],
@@ -180,8 +177,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "44c001d04f51e232",
+  "active": "14836d2f07f921ac",
   "lastOpenFiles": [
+    "Excalidraw/example/diagrams matter for PKM.excalidraw",
+    "ThinkBetter/Workbench.md",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "未命名 6.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
@@ -208,7 +207,6 @@
     "digi.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "What is Visual PKM and Why Should You Care.md",
-    "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "佛教的见地与修道.md",
     "Excalidraw/Book on a page",
@@ -219,7 +217,6 @@
     "未命名 5.md",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "文件组织的5种方法.md",
-    "Excalidraw",
     "未命名 4.md",
     "逻辑学入门.md",
     "Inbox.md",
