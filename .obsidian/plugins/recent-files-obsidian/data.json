@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Icon - Image",
+      "path": "Icon - Image.svg"
+    },
+    {
+      "basename": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon",
+      "path": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png"
+    },
+    {
+      "basename": "Icon - improve understanding, broaden perspective, know more - by Flaticons",
+      "path": "Icon - improve understanding, broaden perspective, know more - by Flaticons.png"
+    },
+    {
+      "basename": "Icon - librarian, archivist - by Freepik, Flaticons",
+      "path": "Icon - librarian, archivist - by Freepik, Flaticons.png"
+    },
+    {
       "basename": "excalidraw Storage",
       "path": "Excalidraw/excalidraw Storage.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "写点儿啥",
       "path": "ThinkBetter/写点儿啥.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "ThinkBetter/事件timing.md"
-    },
-    {
-      "basename": "人物 MOC",
-      "path": "ThinkBetter/人物 MOC.md"
-    },
-    {
-      "basename": "愿望清单 MOC",
-      "path": "ThinkBetter/愿望清单 MOC.md"
-    },
-    {
-      "basename": "SQL Server TOC",
-      "path": "ThinkBetter/SQL Server TOC.md"
     }
   ],
   "omittedPaths": [],

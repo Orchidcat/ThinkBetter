@@ -11,12 +11,12 @@
             "id": "32af606d68b92e07",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/excalidraw Storage.md"
+                "file": "Icon - improve understanding, broaden perspective, know more - by Flaticons.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw Storage"
+              "icon": "lucide-image",
+              "title": "Icon - improve understanding, broaden perspective, know more - by Flaticons"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "32af606d68b92e07",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
+    "Icon - librarian, archivist - by Freepik, Flaticons.png",
+    "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png",
+    "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Excalidraw/excalidraw Storage.md",
+    "ThinkBetter/人纪/+Home.md",
     "反直觉.md",
     "excalibrain.md",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
@@ -185,9 +188,6 @@
     "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "工具箱.md",
     "box.png",
-    "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
-    "Icon - librarian, archivist - by Freepik, Flaticons.png",
-    "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png",
     "Icon - index-card, slip, note.svg",
     "Icon - Image.svg",
     "Icon - idea, lightbulb.svg",
@@ -211,7 +211,6 @@
     "文件组织的5种方法.md",
     "未命名 4.md",
     "逻辑学入门.md",
-    "Inbox.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
