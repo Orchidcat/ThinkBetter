@@ -13,7 +13,7 @@ rating: ⭐⭐⭐
 
 # Links
 [[how we learn - Summary]]
-[[how we learn - Boap]]
+[[how we learn - BOAP]]
 
 
 

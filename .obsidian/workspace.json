@@ -75,9 +75,19 @@
               "icon": "lucide-file",
               "title": "Location added on 2025-06-19T11-38"
             }
+          },
+          {
+            "id": "18e101e5ab9e6556",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,14 +233,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "18e101e5ab9e6556",
   "lastOpenFiles": [
+    "Location added on 2025-06-19T11-38.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Pasted image 20250619134727.png",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
-    "Location added on 2025-06-19T11-38.md",
     "ThinkBetter/Books/Clear Thinking.md",
     "Pasted image 20250619133304.png",
     "Excalidraw/Library/Image Library.md",
@@ -269,7 +280,6 @@
     "佛教的见地与修道.md",
     "Excalidraw/Book on a page",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "Excalidraw/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/100种心智模型.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
