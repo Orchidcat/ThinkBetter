@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/Clear Thinking.md"
+    },
+    {
       "basename": "000 sketchNoting a Book on a Page",
       "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OB插件",
       "path": "ThinkBetter/OB插件.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/如何阅读的方法.md"
     }
   ],
   "omittedPaths": [],
