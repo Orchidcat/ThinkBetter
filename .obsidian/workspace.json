@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "24c0e92af0f6b8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2f2ef31bda2acd7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "+Home"
+              "icon": "excalidraw-icon",
+              "title": "The Periodic Table of Productivity.excalidraw"
             }
           }
         ]
@@ -168,18 +165,20 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
+    "ThinkBetter/Book/噪声.md",
+    "Excalidraw/excalidraw Storage.md",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
-    "Excalidraw/example/BASB Book on a Page.excalidraw",
-    "Excalidraw/remember.excalidraw.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
-    "Excalidraw/excalidraw Storage.md",
-    "Excalidraw/现代野人.excalidraw.md",
+    "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
+    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "Excalidraw/Library/remember.excalidraw.md",
+    "Excalidraw/Library/现代野人.excalidraw.md",
     "Excalidraw/Library/Image Library.md",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
@@ -211,7 +210,6 @@
     "ThinkBetter/GTD.md",
     "未命名 6.md",
     "Excalidraw/example",
-    "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "ThinkBetter/Books/Digital Minimalism.md",
     "Excalidraw/Book on a page",
