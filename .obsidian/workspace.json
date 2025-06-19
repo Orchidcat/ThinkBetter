@@ -79,18 +79,6 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/remember.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "remember.excalidraw"
-            }
-          },
-          {
-            "id": "c4f14fbb144e219f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
               },
               "icon": "excalidraw-icon",
@@ -98,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -244,11 +232,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c4f14fbb144e219f",
+  "active": "e1f3cc4a185a12a4",
   "lastOpenFiles": [
     "Excalidraw/remember.excalidraw.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "Excalidraw/excalidraw Storage.md",
+    "Excalidraw/现代野人.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "Excalidraw/Library/Image Library.md",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/人纪/+Home.md",
@@ -257,8 +248,6 @@
     "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Pasted image 20250619155059.png",
-    "Excalidraw/现代野人.excalidraw.md",
-    "Excalidraw/excalidraw Storage.md",
     "Location added on 2025-06-19T11-38.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/Books/how we learn",
@@ -280,7 +269,6 @@
     "excalibrain.md",
     "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
     "Excalidraw/Drawing 2025-06-19 09.34.19.excalidraw.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
