@@ -13,6 +13,10 @@
       "path": "Excalidraw/remember.excalidraw.md"
     },
     {
+      "basename": "Image Library",
+      "path": "Excalidraw/Library/Image Library.md"
+    },
+    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "how we learn - 阅读黄金比例.excalidraw",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
-    },
-    {
-      "basename": "Image Library",
-      "path": "Excalidraw/Library/Image Library.md"
     },
     {
       "basename": "000 sketchNoting a Book on a Page",
