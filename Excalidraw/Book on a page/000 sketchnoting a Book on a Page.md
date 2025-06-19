@@ -18,3 +18,14 @@ Tiago 定义了 5 层摘要，每层都易于实现，且只需少量工作。�
 我在 Obsidian 的 Vault 的 Books/Title-of-the-Book 文件夹下为这本书添加了一个页面。我将这本书放在一个单独的文件夹中，因为在绘制草图的过程中，我会在不同的文件中创建许多图纸，将它们全部整理在一个文件夹中会更整洁。我在这本书的页面上添加了三个链接：“文献笔记”（Literature Notes）、“摘要”（summary）和“一页书”（book on a page)。
 
 ![[Pasted image 20250619132655.png]]
+
+
+## 第 1 层 - 文献笔记
+
+我在 Kindle 上阅读。我的第一层笔记是文本高亮，以及在高亮旁边偶尔添加的个人笔记。我发现 Tiago 的最佳实践建议（高亮显示每个章节标题）非常有帮助，因为这样生成的 Kindle 剪贴内容可以保留书籍的原始结构。这为以后在 Obsidian 中处理剪贴内容提供了背景信息。我对高亮显示的内容非常自由。通常我会高亮显示大约 5-10% 的内容。
+
+读完这本书后，我从 Kindle 下载了“My Clippings.txt”文件，将其重命名为“My Clippings.md”，然后将其放入 Obsidian。然后，我使用一个简单的[Templater脚本将剪辑文件转换为 Markdown 文献笔记。你可以](https://github.com/SilentVoid13/Templater)[在这里](https://github.com/SilentVoid13/Templater/discussions/296)找到我的脚本。
+
+## 第 2 层 - 突出显示的注释
+
+将第一层笔记导入 Obsidian 后，我会通读笔记并标记章节标题（#、## 等）。在第一次通读的过程中，我还会按CTRL+H键突出显示 笔记中我认为比较重要的部分。我不会花太多时间考虑要突出显示哪些内容，而是按照自己的感觉进行。如果受到文本的启发，我也会添加一些速写。我还有一个 Templater 脚本，可以帮助我以尽可能少的阻碍添加速写。你可以[在这里](https://github.com/SilentVoid13/Templater/discussions/297)找到我的 Templater 脚本。
