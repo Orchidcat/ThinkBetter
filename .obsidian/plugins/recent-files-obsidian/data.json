@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "remember.excalidraw",
+      "path": "Excalidraw/remember.excalidraw.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn - 阅读.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "how we learn - Boap",
       "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "000 sketchNoting a Book on a Page",
@@ -195,10 +199,6 @@
     {
       "basename": "Inbox",
       "path": "Inbox.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
     }
   ],
   "omittedPaths": [],

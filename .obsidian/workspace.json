@@ -74,6 +74,18 @@
             }
           },
           {
+            "id": "e1f3cc4a185a12a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/remember.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "remember.excalidraw"
+            }
+          },
+          {
             "id": "c4f14fbb144e219f",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,14 +244,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c0135fb78a484248",
+  "active": "e1f3cc4a185a12a4",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/remember.excalidraw.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "Excalidraw/Library/Image Library.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Pasted image 20250619155059.png",
