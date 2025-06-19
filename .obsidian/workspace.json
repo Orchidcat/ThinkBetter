@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0abdb814053b422f",
+        "id": "096fc7c84e5c3e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b422064990b10c",
+            "id": "19a014302246ca76",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/example/diagrams matter for PKM.excalidraw"
+                "file": "Excalidraw/example/BASB Book on a Page.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "diagrams matter for PKM"
+              "title": "BASB Book on a Page"
             }
           }
         ]
@@ -164,14 +164,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b0b422064990b10c",
+  "active": "19a014302246ca76",
   "lastOpenFiles": [
-    "Excalidraw/example/BASB Book on a Page.excalidraw",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
-    "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/example/diagrams matter for PKM.excalidraw",
-    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
+    "Excalidraw/example/diagrams matter for PKM.excalidraw",
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/example/BASB Book on a Page.excalidraw",
+    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Workbench.md",
     "未命名 6.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
