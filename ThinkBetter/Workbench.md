@@ -86,6 +86,9 @@
 [Iconic Insights: A Journey into Visual Connections using the Idea Mixer - YouTube](https://www.youtube.com/watch?v=ItV8PEaPorE)
 图像分解与图标的重复使用。
 
+**建立自己的图标素材库，以及原子概念素材库**
+
+
 
 
 
