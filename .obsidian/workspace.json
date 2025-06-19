@@ -11,15 +11,12 @@
             "id": "c83b5feef34d92e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/GTD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "GTD"
+              "icon": "excalidraw-icon",
+              "title": "BoaP - How to Take Smart Notes"
             }
           }
         ]
@@ -169,15 +166,16 @@
   },
   "active": "c83b5feef34d92e9",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/example/BASB Book on a Page.excalidraw",
-    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
+    "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/GTD.md",
+    "Excalidraw/example/BASB Book on a Page.excalidraw",
+    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Workbench.md",
     "未命名 6.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/example",
     "Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/excalidraw Storage.md",
@@ -213,7 +211,6 @@
     "ThinkBetter/学习方法.md",
     "ThinkBetter/历史年代.md",
     "ThinkBetter/地理知识.md",
-    "写作.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
