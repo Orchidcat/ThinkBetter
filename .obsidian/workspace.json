@@ -64,13 +64,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
+                "file": "Location added on 2025-06-19T11-38.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Workbench"
+              "title": "Location added on 2025-06-19T11-38"
             }
           },
           {
@@ -228,16 +228,18 @@
       "smart-random-note:Open Random Note from Search": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "52116015de7223f7",
   "lastOpenFiles": [
+    "ThinkBetter/Workbench.md",
+    "Location added on 2025-06-19T11-38.md",
     "Excalidraw/Library/Image Library.md",
     "Excalidraw/excalidraw Storage.md",
     "ThinkBetter/人纪/+Home.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
-    "ThinkBetter/Workbench.md",
     "Excalidraw/Library",
     "Pasted image 20250619110205.png",
     "Pasted image 20250619104246.png",
