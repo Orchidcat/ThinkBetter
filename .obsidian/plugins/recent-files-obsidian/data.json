@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "如何学习",
+      "path": "ThinkBetter/Book/如何学习.md"
+    },
+    {
       "basename": "000 sketchNoting a Book on a Page",
       "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "十大难以抗拒的心理现象",
       "path": "十大难以抗拒的心理现象.md"
-    },
-    {
-      "basename": "OB插件",
-      "path": "ThinkBetter/OB插件.md"
     }
   ],
   "omittedPaths": [],
