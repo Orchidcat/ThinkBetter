@@ -75,9 +75,21 @@
               "icon": "lucide-file",
               "title": "how we learn - 阅读"
             }
+          },
+          {
+            "id": "77bf229192178db6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-19 15.40.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-19 15.40.14.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,12 +235,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c1006fcc45c8528f",
+  "active": "77bf229192178db6",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/Drawing 2025-06-19 15.40.14.excalidraw.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
-    "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Excalidraw/excalidraw Storage.md",
     "Location added on 2025-06-19T11-38.md",
