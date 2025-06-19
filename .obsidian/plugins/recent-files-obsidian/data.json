@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "how we learn - 阅读黄金比例.excalidraw",
+      "path": "Excalidraw/how we learn - 阅读黄金比例.excalidraw.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "Icon - improve understanding, broaden perspective, know more - by Flaticons",
@@ -195,10 +199,6 @@
     {
       "basename": "历史年代",
       "path": "ThinkBetter/历史年代.md"
-    },
-    {
-      "basename": "地理知识",
-      "path": "ThinkBetter/地理知识.md"
     }
   ],
   "omittedPaths": [],

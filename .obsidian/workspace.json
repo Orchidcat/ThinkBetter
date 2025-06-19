@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "978d5239b3ba190f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/how we learn - 阅读黄金比例.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "how we learn - 阅读黄金比例.excalidraw"
+            }
+          },
+          {
             "id": "ab5c152867f5aa2e",
             "type": "leaf",
             "state": {
@@ -65,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,10 +223,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "1b93bd18c3229d42",
+  "active": "978d5239b3ba190f",
   "lastOpenFiles": [
-    "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
+    "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+    "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/excalidraw Storage.md",
     "Location added on 2025-06-19T11-38.md",
@@ -234,7 +248,6 @@
     "Pasted image 20250619132139.png",
     "工具箱.md",
     "ThinkBetter/Workbench.md",
-    "ThinkBetter/人纪/+Home.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Excalidraw/Library",
     "Pasted image 20250619110205.png",
