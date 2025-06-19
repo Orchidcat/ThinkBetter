@@ -72,9 +72,21 @@
               "icon": "lucide-file",
               "title": "Workbench"
             }
+          },
+          {
+            "id": "20b82db0c87f0983",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Library/Image Library.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Image Library"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,13 +231,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "20b82db0c87f0983",
   "lastOpenFiles": [
-    "Excalidraw/Library",
-    "Pasted image 20250619110205.png",
     "Excalidraw/excalidraw Storage.md",
     "ThinkBetter/人纪/+Home.md",
+    "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
+    "Excalidraw/Library/Image Library.md",
     "ThinkBetter/Workbench.md",
+    "Excalidraw/Library",
+    "Pasted image 20250619110205.png",
     "Pasted image 20250619104246.png",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
@@ -236,7 +250,6 @@
     "Icon - idea, lightbulb.svg",
     "Icon - Image.svg",
     "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png",
-    "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Icon - librarian, archivist - by Freepik, Flaticons.png",
     "反直觉.md",
     "excalibrain.md",
@@ -262,11 +275,9 @@
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "Excalidraw/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/100种心智模型.md",
-    "The Periodic Table of Productivity.excalidraw",
     "未命名 5.md",
     "ThinkBetter/Excalidraw/Drawing 2023-07-20 13.58.41.excalidraw.md",
     "文件组织的5种方法.md",
-    "未命名 4.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]

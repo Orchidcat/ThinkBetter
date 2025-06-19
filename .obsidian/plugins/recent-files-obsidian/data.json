@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
+      "basename": "Image Library",
+      "path": "Excalidraw/Library/Image Library.md"
     },
     {
       "basename": "excalidraw Storage",
@@ -11,6 +11,14 @@
     {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "Icon - improve understanding, broaden perspective, know more - by Flaticons",
+      "path": "Icon - improve understanding, broaden perspective, know more - by Flaticons.png"
+    },
+    {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "BoaP - Atomic Habits",
@@ -47,10 +55,6 @@
     {
       "basename": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon",
       "path": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png"
-    },
-    {
-      "basename": "Icon - improve understanding, broaden perspective, know more - by Flaticons",
-      "path": "Icon - improve understanding, broaden perspective, know more - by Flaticons.png"
     },
     {
       "basename": "Icon - librarian, archivist - by Freepik, Flaticons",
@@ -195,10 +199,6 @@
     {
       "basename": "正在读",
       "path": "正在读.md"
-    },
-    {
-      "basename": "工具箱🧰",
-      "path": "工具箱🧰.md"
     }
   ],
   "omittedPaths": [],
