@@ -8,6 +8,19 @@ endDate: [[2024-03-14]]
 rating: ⭐⭐⭐
 ---
 
+# summary
+
+
+# Links
+[[how we learn - Summary]]
+[[how we learn - Boap]]
+
+
+
+
+
+
+
 ![[Pasted image 20250619140319.png|120]]
 
 只花费1/3的时间来阅读，剩下就在回忆。（最佳阅读与背诵的时间比例）
