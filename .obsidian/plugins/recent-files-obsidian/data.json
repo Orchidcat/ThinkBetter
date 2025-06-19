@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
     },
     {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "remember.excalidraw",
       "path": "Excalidraw/remember.excalidraw.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Image Library",
       "path": "Excalidraw/Library/Image Library.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
