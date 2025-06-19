@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/example/how i organize my everything in obsidian.excalidraw"
+                "file": "Excalidraw/example/diagrams matter for PKM.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "how i organize my everything in obsidian"
+              "title": "diagrams matter for PKM"
             }
           }
         ]
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8480c67b77bb5253",
+  "active": "7d8bc87a426a8361",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
