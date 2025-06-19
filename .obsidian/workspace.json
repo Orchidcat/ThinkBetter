@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/excalidraw Storage.md"
+                "file": "Excalidraw/无标题-2025-06-16-1419.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "excalidraw Storage"
+              "title": "无标题-2025-06-16-1419"
             }
           }
         ],
@@ -189,10 +189,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6bc85f179bbed1f7",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/excalidraw Storage.md",
+    "Excalidraw/无标题-2025-06-16-1419.excalidraw",
+    "Excalidraw/BoaP - How to Take Smart Notes.excalidraw",
     "工具箱.md",
     "box.png",
     "ThinkBetter/人纪/+Home.md",
@@ -236,7 +237,6 @@
     "十大难以抗拒的心理现象.md",
     "未命名.canvas",
     "ThinkBetter/Possible Futures",
-    "ThinkBetter/新建文件夹",
     "ThinkBetter/Map.canvas"
   ]
 }
