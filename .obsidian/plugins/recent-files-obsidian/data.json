@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "The Reading Time Flow.excalidraw",
-      "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
-    },
-    {
       "basename": "+Home",
       "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
+      "basename": "The Reading Time Flow.excalidraw",
+      "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
     },
     {
       "basename": "BASB Book on a Page",
@@ -191,14 +191,6 @@
     {
       "basename": "SQL Server TOC",
       "path": "ThinkBetter/SQL Server TOC.md"
-    },
-    {
-      "basename": "WorkFlow TOC",
-      "path": "ThinkBetter/WorkFlow TOC.md"
-    },
-    {
-      "basename": "正见",
-      "path": "正见.md"
     }
   ],
   "omittedPaths": [],
