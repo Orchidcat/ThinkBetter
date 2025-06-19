@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
       "basename": "BoaP - Atomic Habits",
       "path": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "GTD",
       "path": "ThinkBetter/GTD.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "未命名 6",

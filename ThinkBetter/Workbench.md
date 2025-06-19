@@ -83,4 +83,9 @@
 [YouTube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDhFdGNlQWp5Q0tTWFU0eHl1anBDcVV2VlBNUXxBQ3Jtc0tsMW9hZVdINjhVcUJ3ZVBhRWxfQUprZWxWOFd3UFZpWEs4V0N0SmZpNFlhVzY1dDZ4ZzRGeXU3WmFBS3B1blhOVkdNVzNPSlAtSERVcUtkaXhMcm1GRG9Va2g3eDZLR0hnS0pWVFgzNzRfSG85WE16SQ&q=https%3A%2F%2Fexcalidraw.com%2F%23json%3DpwLtCkoKZVEkywvXNYjau%2Ckbljw8nPClZPYrv5xJiSUA&v=Zg_DUj68VkY)
 
 
+[Iconic Insights: A Journey into Visual Connections using the Idea Mixer - YouTube](https://www.youtube.com/watch?v=ItV8PEaPorE)
+图像分解与图标的重复使用。
+
+
+
 
