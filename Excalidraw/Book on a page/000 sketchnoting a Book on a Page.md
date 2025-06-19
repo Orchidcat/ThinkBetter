@@ -13,4 +13,8 @@ Tiago 定义了 5 层摘要，每层都易于实现，且只需少量工作。�
 ![[Pasted image 20250619132351.png]]
 
 
+## 第 0 层 - 原始全文书籍
 
+我在 Obsidian 的 Vault 的 Books/Title-of-the-Book 文件夹下为这本书添加了一个页面。我将这本书放在一个单独的文件夹中，因为在绘制草图的过程中，我会在不同的文件中创建许多图纸，将它们全部整理在一个文件夹中会更整洁。我在这本书的页面上添加了三个链接：“文献笔记”、“摘要”和“一页书”。
+
+[![值得讲述故事的书页](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLl-qAbwnar2AaoqoolDa6Z-FL2XsuLwbkGqxMMFJOnLzMQ-8VYLhwcg_vx3Y__xAuEoBQh_F-b-_sNZg4lyfNwIIVbMWJ3IIEIx5MRY1L_xXmcVy2VsAQxootgsx2TIwVUN98VReQh0kb/w640-h400/Screenshot+2021-07-22+18.42.38.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLl-qAbwnar2AaoqoolDa6Z-FL2XsuLwbkGqxMMFJOnLzMQ-8VYLhwcg_vx3Y__xAuEoBQh_F-b-_sNZg4lyfNwIIVbMWJ3IIEIx5MRY1L_xXmcVy2VsAQxootgsx2TIwVUN98VReQh0kb/s1920/Screenshot+2021-07-22+18.42.38.png)
