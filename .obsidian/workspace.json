@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "727ca720530dfc01",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "32af606d68b92e07",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/The Reading Time Flow.excalidraw.md"
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The Reading Time Flow.excalidraw"
+              "icon": "lucide-file",
+              "title": "+Home"
             }
           }
         ]
@@ -164,15 +167,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "32af606d68b92e07",
   "lastOpenFiles": [
+    "反直觉.md",
+    "excalibrain.md",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
     "Excalidraw/Drawing 2025-06-19 09.34.19.excalidraw.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/example/BASB Book on a Page.excalidraw",
     "Excalidraw/excalidraw Storage.md",
-    "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
@@ -210,8 +215,6 @@
     "未命名 4.md",
     "逻辑学入门.md",
     "Inbox.md",
-    "ThinkBetter/学习方法.md",
-    "ThinkBetter/历史年代.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]

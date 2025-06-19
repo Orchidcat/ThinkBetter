@@ -5,6 +5,18 @@
       "path": "ThinkBetter/人纪/+Home.md"
     },
     {
+      "basename": "反直觉",
+      "path": "反直觉.md"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "BoaP - Atomic Habits",
+      "path": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
+    },
+    {
       "basename": "The Reading Time Flow.excalidraw",
       "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "excalidraw Storage",
       "path": "Excalidraw/excalidraw Storage.md"
-    },
-    {
-      "basename": "BoaP - Atomic Habits",
-      "path": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
