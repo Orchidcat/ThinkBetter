@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "000 sketchNoting a Book on a Page",
+      "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
+    },
+    {
+      "basename": "BoaP - How to Take Smart Notes",
+      "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
+    },
+    {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
@@ -9,16 +17,16 @@
       "path": "Excalidraw/excalidraw Storage.md"
     },
     {
+      "basename": "Location added on 2025-06-19T11-38",
+      "path": "Location added on 2025-06-19T11-38.md"
+    },
+    {
       "basename": "how we learn - Summary",
       "path": "ThinkBetter/Books/how we learn/how we learn - Summary.md"
     },
     {
-      "basename": "000 sketchNoting a Book on a Page",
-      "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
-    },
-    {
-      "basename": "Location added on 2025-06-19T11-38",
-      "path": "Location added on 2025-06-19T11-38.md"
+      "basename": "how we learn - BOAP",
+      "path": "ThinkBetter/Books/how we learn/how we learn - BOAP.md"
     },
     {
       "basename": "BoaP - Atomic Habits",
@@ -35,10 +43,6 @@
     {
       "basename": "工具箱",
       "path": "工具箱.md"
-    },
-    {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw"
     },
     {
       "basename": "Workbench",
@@ -195,10 +199,6 @@
     {
       "basename": "地理知识",
       "path": "ThinkBetter/地理知识.md"
-    },
-    {
-      "basename": "写作",
-      "path": "写作.md"
     }
   ],
   "omittedPaths": [],

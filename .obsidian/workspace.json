@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "21f552933e696833",
+            "id": "1b93bd18c3229d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,49 +50,22 @@
             }
           },
           {
-            "id": "eb2e789595543d12",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/excalidraw Storage.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw Storage"
-            }
-          },
-          {
-            "id": "52116015de7223f7",
+            "id": "ab5c152867f5aa2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location added on 2025-06-19T11-38.md",
+                "file": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Location added on 2025-06-19T11-38"
-            }
-          },
-          {
-            "id": "18e101e5ab9e6556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "how we learn - Summary"
+              "title": "000 sketchNoting a Book on a Page"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,13 +211,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "21f552933e696833",
+  "active": "ab5c152867f5aa2e",
   "lastOpenFiles": [
-    "Excalidraw/excalidraw Storage.md",
-    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
+    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
-    "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
+    "Excalidraw/excalidraw Storage.md",
     "Location added on 2025-06-19T11-38.md",
+    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
+    "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
+    "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
     "Pasted image 20250619134727.png",
@@ -258,7 +233,6 @@
     "Pasted image 20250619132351.png",
     "Pasted image 20250619132139.png",
     "工具箱.md",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/人纪/+Home.md",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
@@ -283,9 +257,7 @@
     "ThinkBetter/人纪/002 黄帝内经.md",
     "What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Books.md",
-    "佛教的见地与修道.md",
     "Excalidraw/Book on a page",
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
