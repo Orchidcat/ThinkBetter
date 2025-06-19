@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a556446bd3c381f4",
+        "id": "0abdb814053b422f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f344c896417bc7c",
+            "id": "b0b422064990b10c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/example/diagrams matter for PKM.excalidraw"
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "diagrams matter for PKM"
+              "icon": "lucide-file",
+              "title": "+Home"
             }
           }
         ]
@@ -164,12 +167,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "73b98c021488d616",
+  "active": "b0b422064990b10c",
   "lastOpenFiles": [
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
+    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
-    "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/Workbench.md",
     "未命名 6.md",
