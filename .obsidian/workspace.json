@@ -11,12 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/example/BoaP - Atomic Habits.excalidraw"
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - Atomic Habits"
+              "icon": "lucide-file",
+              "title": "+Home"
             }
           }
         ]
@@ -167,8 +170,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
