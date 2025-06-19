@@ -87,18 +87,6 @@
               "icon": "lucide-file",
               "title": "000 sketchnoting a Book on a Page"
             }
-          },
-          {
-            "id": "20b82db0c87f0983",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Library/Image Library.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Image Library"
-            }
           }
         ],
         "currentTab": 5
@@ -249,14 +237,14 @@
   },
   "active": "04634929e0433b2f",
   "lastOpenFiles": [
+    "Excalidraw/Library/Image Library.md",
+    "Excalidraw/Book on a page/000 sketchnoting a Book on a Page.md",
     "Pasted image 20250619133011.png",
     "Pasted image 20250619132946.png",
     "Pasted image 20250619132655.png",
     "Pasted image 20250619132351.png",
     "Pasted image 20250619132139.png",
     "Location added on 2025-06-19T11-38.md",
-    "Excalidraw/Book on a page/000 sketchnoting a Book on a Page.md",
-    "Excalidraw/Library/Image Library.md",
     "工具箱.md",
     "Excalidraw/example/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
@@ -270,7 +258,6 @@
     "ThinkBetter/Tools.md",
     "Icon - folders, filing - by Freepik, Flaticon.png",
     "Icon - genie, magic - by smashingstocks, Flaticon.png",
-    "Icon - idea, lightbulb.svg",
     "反直觉.md",
     "excalibrain.md",
     "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
