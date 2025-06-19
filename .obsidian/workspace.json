@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Book/如何学习.md",
+                "file": "ThinkBetter/Books/how we learn/如何学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -223,8 +223,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "21f552933e696833",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn",
+    "Pasted image 20250619140319.png",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Pasted image 20250619134727.png",
     "Excalidraw/example/BoaP - Atomic Habits.excalidraw",
@@ -245,7 +247,6 @@
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "Excalidraw/Library",
     "Pasted image 20250619110205.png",
-    "Pasted image 20250619104246.png",
     "ThinkBetter/Tools.md",
     "反直觉.md",
     "excalibrain.md",
