@@ -84,9 +84,21 @@
               "icon": "excalidraw-icon",
               "title": "how we learn - Boap"
             }
+          },
+          {
+            "id": "dc97fee20ac06c61",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/example/BASB Book on a Page.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "BASB Book on a Page"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -232,9 +244,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e1f3cc4a185a12a4",
+  "active": "dc97fee20ac06c61",
   "lastOpenFiles": [
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/example/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "Excalidraw/remember.excalidraw.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
@@ -269,7 +282,6 @@
     "excalibrain.md",
     "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
     "Excalidraw/Drawing 2025-06-19 09.34.19.excalidraw.md",
-    "Excalidraw/example/BASB Book on a Page.excalidraw",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/GTD.md",
