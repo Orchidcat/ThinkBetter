@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 68.21052631578948,
+        "dimension": 43.50877192982456,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -56,7 +56,7 @@
       {
         "id": "d0a3af3c90541f88",
         "type": "tabs",
-        "dimension": 31.789473684210527,
+        "dimension": 56.49122807017544,
         "children": [
           {
             "id": "b4f7a2be423504ae",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+                "file": "ThinkBetter/Books/how we learn - 阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -221,10 +220,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "589b4e1681ff451d",
+  "active": "b4f7a2be423504ae",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/人纪/+Home.md",
     "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-20.md",
