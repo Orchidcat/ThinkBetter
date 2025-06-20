@@ -87,21 +87,8 @@
               "icon": "lucide-file",
               "title": "how we learn - 阅读"
             }
-          },
-          {
-            "id": "8fb17f36ee1e3f45",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "how we learn - 阅读黄金比例.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +235,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8fb17f36ee1e3f45",
+  "active": "b4f7a2be423504ae",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
     "工具箱.md",
