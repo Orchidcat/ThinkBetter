@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "589b4e1681ff451d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Library/遗忘.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "遗忘.excalidraw"
+            }
+          },
+          {
             "id": "e19fcf9a6823ac03",
             "type": "leaf",
             "state": {
@@ -53,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,11 +212,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b4f7a2be423504ae",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "工具箱.md",
     "ThinkBetter/人纪/+Home.md",
+    "Excalidraw/Library/遗忘.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+    "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-20.md",
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Book/噪声.md",
@@ -244,7 +257,6 @@
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/GTD.md",
-    "未命名 6.md",
     "Excalidraw/example",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Excalidraw/Book on a page",

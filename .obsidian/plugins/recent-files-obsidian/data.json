@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "遗忘.excalidraw",
+      "path": "Excalidraw/Library/遗忘.excalidraw.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/人纪/+Home.md"
+    },
+    {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
     {
       "basename": "工具箱",
       "path": "工具箱.md"
-    },
-    {
-      "basename": "+Home",
-      "path": "ThinkBetter/人纪/+Home.md"
     },
     {
       "basename": "2025-06-20",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 4",
       "path": "未命名 4.md"
-    },
-    {
-      "basename": "逻辑学入门",
-      "path": "逻辑学入门.md"
     }
   ],
   "omittedPaths": [],
