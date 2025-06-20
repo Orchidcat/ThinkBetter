@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 81.94816800714923,
+        "dimension": 42.26988382484361,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -56,7 +56,7 @@
       {
         "id": "d0a3af3c90541f88",
         "type": "tabs",
-        "dimension": 18.051831992850758,
+        "dimension": 57.73011617515639,
         "children": [
           {
             "id": "b4f7a2be423504ae",
@@ -88,7 +88,8 @@
               "title": "how we learn - Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +236,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e19fcf9a6823ac03",
+  "active": "74efb8bef5227309",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn - 阅读.md",
+    "工具箱.md",
     "Excalidraw/Library/Image Library.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-06-20.md",
-    "工具箱.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
