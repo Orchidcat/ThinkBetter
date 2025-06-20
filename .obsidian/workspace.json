@@ -64,13 +64,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Summary.md",
+                "file": "ThinkBetter/Books/how we learn - 阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how we learn - Summary"
+              "title": "how we learn - 阅读"
             }
           },
           {
@@ -79,16 +79,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+                "file": "ThinkBetter/Books/how we learn/how we learn - Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how we learn - 阅读"
+              "title": "how we learn - Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,12 +236,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b4f7a2be423504ae",
+  "active": "74efb8bef5227309",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
+    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
-    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
     "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-20.md",
