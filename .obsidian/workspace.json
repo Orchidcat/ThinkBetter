@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/+Home.md",
+                "file": "ThinkBetter/DailyNotes/2025-06-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+Home"
+              "title": "2025-06-20"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 425.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -165,13 +166,15 @@
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
+    "ThinkBetter/DailyNotes/2025-06-20.md",
+    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
@@ -214,7 +217,6 @@
     "未命名 6.md",
     "Excalidraw/example",
     "Excalidraw/wardley-mapping-canvas.excalidrawlib",
-    "ThinkBetter/Books/Digital Minimalism.md",
     "Excalidraw/Book on a page",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
