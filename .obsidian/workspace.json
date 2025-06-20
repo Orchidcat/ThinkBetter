@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24c0e92af0f6b8c1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2ef31bda2acd7b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The Periodic Table of Productivity.excalidraw"
+              "icon": "lucide-file",
+              "title": "+Home"
             }
           }
         ]
@@ -165,10 +168,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/+Home.md",
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
+    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
