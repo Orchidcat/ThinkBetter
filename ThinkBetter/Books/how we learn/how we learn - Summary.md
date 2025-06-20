@@ -11,3 +11,6 @@
 ![[remember.excalidraw]]
 
 
+## 遗忘
+
+![[遗忘.excalidraw]]

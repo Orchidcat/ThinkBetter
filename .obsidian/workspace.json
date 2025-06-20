@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 43.50877192982456,
+        "dimension": 81.94816800714923,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -29,10 +29,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Library/遗忘.excalidraw.md"
+                "file": "Excalidraw/Library/Image Library.md"
               },
               "icon": "excalidraw-icon",
-              "title": "遗忘.excalidraw"
+              "title": "Image Library"
             }
           },
           {
@@ -51,12 +51,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d0a3af3c90541f88",
         "type": "tabs",
-        "dimension": 56.49122807017544,
+        "dimension": 18.051831992850758,
         "children": [
           {
             "id": "b4f7a2be423504ae",
@@ -88,8 +88,7 @@
               "title": "how we learn - Summary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,15 +235,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "74efb8bef5227309",
+  "active": "e19fcf9a6823ac03",
   "lastOpenFiles": [
+    "Excalidraw/Library/Image Library.md",
+    "Excalidraw/Library/遗忘.excalidraw.md",
+    "ThinkBetter/DailyNotes/2025-06-20.md",
+    "工具箱.md",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/Library/遗忘.excalidraw.md",
-    "工具箱.md",
-    "ThinkBetter/DailyNotes/2025-06-20.md",
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
@@ -255,7 +255,6 @@
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Excalidraw/Library/remember.excalidraw.md",
     "Excalidraw/Library/现代野人.excalidraw.md",
-    "Excalidraw/Library/Image Library.md",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
     "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
