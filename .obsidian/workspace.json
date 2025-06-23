@@ -99,9 +99,21 @@
               "icon": "lucide-file",
               "title": "how we learn - Summary"
             }
+          },
+          {
+            "id": "484ccc9b8e91c878",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-23 12.54.25.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,10 +260,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b1cd4f7c55febdf2",
+  "active": "484ccc9b8e91c878",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
+    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
@@ -290,7 +303,6 @@
     "反直觉.md",
     "excalibrain.md",
     "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-19 09.34.19.excalidraw.md",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "Excalidraw/example",
