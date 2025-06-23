@@ -62,6 +62,18 @@
             "id": "74efb8bef5227309",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "how we learn - Boap"
+            }
+          },
+          {
+            "id": "5fecf5eac72aac5a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
@@ -73,7 +85,8 @@
               "title": "how we learn - 阅读"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +233,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "74efb8bef5227309",
+  "active": "5fecf5eac72aac5a",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
-    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "工具箱.md",
     "Excalidraw/Library/Image Library.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
@@ -236,7 +250,6 @@
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Excalidraw/Library/remember.excalidraw.md",
