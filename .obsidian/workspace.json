@@ -89,12 +89,15 @@
             "id": "b1cd4f7c55febdf2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
+                "file": "ThinkBetter/人纪/+Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - Atomic Habits"
+              "icon": "lucide-file",
+              "title": "+Home"
             }
           },
           {
@@ -283,10 +286,11 @@
   },
   "active": "b1cd4f7c55febdf2",
   "lastOpenFiles": [
+    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/人纪/未命名",
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
