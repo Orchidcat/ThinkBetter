@@ -108,6 +108,18 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-06-23 12.54.25.excalidraw"
             }
+          },
+          {
+            "id": "6f6d2efce278b333",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "BASB Book on a Page"
+            }
           }
         ],
         "currentTab": 2
@@ -259,10 +271,12 @@
   },
   "active": "b1cd4f7c55febdf2",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
-    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
+    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
     "Excalidraw/Library/Image Library.md",
@@ -274,9 +288,7 @@
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
-    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
-    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Excalidraw/Library/remember.excalidraw.md",
     "Excalidraw/Library/现代野人.excalidraw.md",
     "Pasted Image 20250619161311_888.png",
@@ -299,7 +311,6 @@
     "ThinkBetter/Tools.md",
     "反直觉.md",
     "excalibrain.md",
-    "Excalidraw/Drawing 2025-06-19 09.34.21.excalidraw.md",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "Excalidraw/example",
