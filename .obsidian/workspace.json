@@ -89,15 +89,12 @@
             "id": "b1cd4f7c55febdf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "how we learn - Summary"
+              "icon": "excalidraw-icon",
+              "title": "BoaP - Atomic Habits"
             }
           },
           {
@@ -113,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +257,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "484ccc9b8e91c878",
+  "active": "b1cd4f7c55febdf2",
   "lastOpenFiles": [
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
