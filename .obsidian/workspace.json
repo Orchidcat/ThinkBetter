@@ -98,6 +98,18 @@
             }
           },
           {
+            "id": "96083a5863c3df56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "The Periodic Table of Productivity.excalidraw"
+            }
+          },
+          {
             "id": "484ccc9b8e91c878",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -269,13 +281,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b1cd4f7c55febdf2",
+  "active": "484ccc9b8e91c878",
   "lastOpenFiles": [
+    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
+    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
     "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
-    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "工具箱.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
@@ -284,7 +297,6 @@
     "ThinkBetter/DailyNotes/2025-06-20.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
     "Excalidraw/The Reading Time Flow.excalidraw.md",
