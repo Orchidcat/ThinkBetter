@@ -170,12 +170,15 @@
             "id": "7849862541526546",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md"
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-24 08.26.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "一句话的玩味"
             }
           }
         ],
@@ -328,9 +331,9 @@
   },
   "active": "7849862541526546",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
     "Pasted Image 20250624082714_213.png",
     "纳瓦尔宝典.md",
-    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
@@ -367,7 +370,6 @@
     "Pasted image 20250619132946.png",
     "Pasted image 20250619132655.png",
     "Pasted image 20250619132351.png",
-    "Pasted image 20250619132139.png",
     "ThinkBetter/Workbench.md",
     "Excalidraw/Library",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
