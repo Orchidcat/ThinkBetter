@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -329,8 +329,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "7849862541526546",
+  "active": "c1f06a398b6d248c",
   "lastOpenFiles": [
+    "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
     "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
     "Pasted Image 20250624082714_213.png",
@@ -371,7 +372,6 @@
     "Pasted image 20250619132946.png",
     "Pasted image 20250619132655.png",
     "Pasted image 20250619132351.png",
-    "ThinkBetter/Workbench.md",
     "Excalidraw/Library",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
