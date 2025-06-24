@@ -165,9 +165,21 @@
               "icon": "lucide-file",
               "title": "纳瓦尔宝典"
             }
+          },
+          {
+            "id": "7849862541526546",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-24 08.26.43.excalidraw"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -314,8 +326,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "05a37cef3cce151b",
+  "active": "7849862541526546",
   "lastOpenFiles": [
+    "纳瓦尔宝典.md",
+    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
@@ -356,8 +370,6 @@
     "ThinkBetter/Workbench.md",
     "Excalidraw/Library",
     "ThinkBetter/Tools.md",
-    "反直觉.md",
-    "excalibrain.md",
     "Excalidraw/example/diagrams matter for PKM.excalidraw",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "Excalidraw/example",
