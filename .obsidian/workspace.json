@@ -224,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "白发",
+                "query": "麻木",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -235,7 +235,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -329,7 +330,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c1f06a398b6d248c",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
