@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -330,7 +331,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c1f06a398b6d248c",
   "lastOpenFiles": [
     "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
