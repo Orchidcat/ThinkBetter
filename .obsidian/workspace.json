@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -331,10 +331,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5fecf5eac72aac5a",
+  "active": "c1f06a398b6d248c",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "ThinkBetter/Books/how we learn - 阅读.md",
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "工具箱.md",
     "纳瓦尔宝典.md",
