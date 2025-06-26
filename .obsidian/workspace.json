@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,10 +331,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c1f06a398b6d248c",
+  "active": "5fecf5eac72aac5a",
   "lastOpenFiles": [
-    "工具箱.md",
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "工具箱.md",
     "纳瓦尔宝典.md",
     "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
@@ -346,8 +348,6 @@
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Books/how we learn - 阅读.md",
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
     "Excalidraw/Library/Image Library.md",
