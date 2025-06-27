@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "卫气营血辨证",
+      "path": "卫气营血辨证.md"
+    },
+    {
+      "basename": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library)",
+      "path": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
+    },
+    {
+      "basename": "惯性",
+      "path": "惯性.md"
+    },
+    {
+      "basename": "合病",
+      "path": "ThinkBetter/人纪/合病.md"
+    },
+    {
+      "basename": "太阳病证",
+      "path": "ThinkBetter/人纪/太阳病证.md"
+    },
+    {
+      "basename": "寒滞肝脉证",
+      "path": "ThinkBetter/人纪/寒滞肝脉证.md"
+    },
+    {
+      "basename": "太阴病证",
+      "path": "ThinkBetter/人纪/太阴病证.md"
+    },
+    {
+      "basename": "少阴病证",
+      "path": "ThinkBetter/人纪/少阴病证.md"
+    },
+    {
+      "basename": "少阳病证",
+      "path": "ThinkBetter/人纪/少阳病证.md"
+    },
+    {
+      "basename": "肝肾阴虚证",
+      "path": "ThinkBetter/人纪/肝肾阴虚证.md"
+    },
+    {
+      "basename": "心肾阳虚证",
+      "path": "ThinkBetter/人纪/心肾阳虚证.md"
+    },
+    {
+      "basename": "并病",
+      "path": "ThinkBetter/人纪/并病.md"
+    },
+    {
+      "basename": "直中",
+      "path": "ThinkBetter/人纪/直中.md"
+    },
+    {
+      "basename": "肝火犯肺证",
+      "path": "ThinkBetter/人纪/肝火犯肺证.md"
+    },
+    {
+      "basename": "肝胃不和证",
+      "path": "ThinkBetter/人纪/肝胃不和证.md"
+    },
+    {
+      "basename": "肝郁脾虚证",
+      "path": "ThinkBetter/人纪/肝郁脾虚证.md"
+    },
+    {
+      "basename": "肝胆湿热证",
+      "path": "ThinkBetter/人纪/肝胆湿热证.md"
+    },
+    {
+      "basename": "肾不纳气证",
+      "path": "ThinkBetter/人纪/肾不纳气证.md"
+    },
+    {
       "basename": "肺肾阴虚证",
-      "path": "肺肾阴虚证.md"
+      "path": "ThinkBetter/人纪/肺肾阴虚证.md"
     },
     {
       "basename": "Anki 基础使用",
@@ -53,16 +125,8 @@
       "path": "ThinkBetter/人纪/阳明病证.md"
     },
     {
-      "basename": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library)",
-      "path": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
-    },
-    {
       "basename": "可证伪性",
       "path": "ThinkBetter/Books/100种心智模型/可证伪性.md"
-    },
-    {
-      "basename": "惯性",
-      "path": "惯性.md"
     },
     {
       "basename": "充分必要条件",
@@ -135,70 +199,6 @@
     {
       "basename": "打造第二大脑",
       "path": "ThinkBetter/Articles/打造第二大脑.md"
-    },
-    {
-      "basename": "复习笔记",
-      "path": "复习笔记.md"
-    },
-    {
-      "basename": "系统思考",
-      "path": "ThinkBetter/Books/系统思考.md"
-    },
-    {
-      "basename": "NumPy",
-      "path": "NumPy.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Pandas.md"
-    },
-    {
-      "basename": "2025-02-05",
-      "path": "ThinkBetter/DailyNotes/2025-02-05.md"
-    },
-    {
-      "basename": "2024-W31",
-      "path": "ThinkBetter/DailyNotes/2024-W31.md"
-    },
-    {
-      "basename": "Pasted image 20250312112804",
-      "path": "Pasted image 20250312112804.png"
-    },
-    {
-      "basename": "哲学图谱",
-      "path": "哲学图谱.md"
-    },
-    {
-      "basename": "微积分",
-      "path": "微积分.md"
-    },
-    {
-      "basename": "惯性",
-      "path": "ThinkBetter/Books/100种心智模型/惯性.md"
-    },
-    {
-      "basename": "关于肥胖",
-      "path": "ThinkBetter/Articles/关于肥胖.md"
-    },
-    {
-      "basename": "直接原因与根本原因",
-      "path": "ThinkBetter/Books/100种心智模型/直接原因与根本原因.md"
-    },
-    {
-      "basename": "5个为什么",
-      "path": "ThinkBetter/Books/100种心智模型/5个为什么.md"
-    },
-    {
-      "basename": "认知偏见",
-      "path": "ThinkBetter/Books/100种心智模型/认知偏见.md"
-    },
-    {
-      "basename": "心肾不交证",
-      "path": "ThinkBetter/人纪/心肾不交证.md"
-    },
-    {
-      "basename": "心脾两虚证",
-      "path": "ThinkBetter/人纪/心脾两虚证.md"
     }
   ],
   "omittedPaths": [],
