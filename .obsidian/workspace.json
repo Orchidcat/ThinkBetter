@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Workbench.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Workbench"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Workbench.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Books 的大纲"
+              "title": "Workbench 的大纲"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/Books.md",
+                "file": "ThinkBetter/Workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Books 的反向链接列表"
+              "title": "Workbench 的反向链接列表"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "9433e72227078e55",
   "lastOpenFiles": [
-    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Books.md",
+    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/Distill/一句话的玩味.md",
