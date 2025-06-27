@@ -1,7 +1,7 @@
 
 ```tasks
 not done
-text includes 2025-06
+due before 2025-
 ```
 
 
@@ -104,5 +104,4 @@ text includes 2025-06
 
 
 ![[Pasted image 20250619110205.png]] 
-Mixer 将一个原子信息相关连的概念，提炼到一个地方进行表述
-
+Mixer 将一个原子信息相关连的概念，提炼到一个地方进行�
