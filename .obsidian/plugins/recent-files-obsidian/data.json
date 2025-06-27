@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "What is Visual PKM and Why Should You Care",
       "path": "What is Visual PKM and Why Should You Care.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     }
   ],
   "omittedPaths": [],
