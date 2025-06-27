@@ -11,12 +11,15 @@
             "id": "54a0b9ffc2b994ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "box.png"
+                "file": "ThinkBetter/一句话的玩味.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "box"
+              "icon": "lucide-file",
+              "title": "一句话的玩味"
             }
           }
         ]
@@ -168,6 +171,13 @@
   },
   "active": "54a0b9ffc2b994ed",
   "lastOpenFiles": [
+    "ThinkBetter/有效思考的关键要素.md",
+    "ThinkBetter/Workbench.md",
+    "What is Visual PKM and Why Should You Care.md",
+    "Pasted Image 20250618104501_614.png",
+    "工具箱.md",
+    "文件组织的5种方法.md",
+    "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "未命名 6.md",
     "excalibrain.md",
@@ -193,10 +203,6 @@
     "ThinkBetter/费曼学习法.md",
     "ThinkBetter/不对称性.md",
     "ThinkBetter/解表药.md",
-    "ThinkBetter/人纪/药/白芷.md",
-    "ThinkBetter/人纪/药/苍耳子.md",
-    "ThinkBetter/人纪/药/藁本.md",
-    "ThinkBetter/人纪/药/薄荷.md",
     "ThinkBetter/Books/100种心智模型",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
@@ -209,9 +215,6 @@
     "Pasted image 20250619134727.png",
     "Pasted image 20250619133304.png",
     "Pasted image 20250619133011.png",
-    "Pasted image 20250619132946.png",
-    "Pasted image 20250619132655.png",
-    "Pasted image 20250619132351.png",
     "ThinkBetter/Excalidraw/Library",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/Excalidraw/example",
