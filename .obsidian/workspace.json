@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 23.235031277926723,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -29,18 +28,6 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Library/Image Library.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Image Library"
-            }
-          },
-          {
-            "id": "e19fcf9a6823ac03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Excalidraw/example/how i organize my everything in obsidian.excalidraw"
               },
               "icon": "excalidraw-icon",
@@ -48,26 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "d0a3af3c90541f88",
-        "type": "tabs",
-        "dimension": 76.76496872207328,
-        "children": [
-          {
-            "id": "6f6d2efce278b333",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "BASB Book on a Page"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +182,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "6f6d2efce278b333",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "Excalidraw/Library/Image Library.md",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
@@ -236,7 +205,6 @@
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
-    "Excalidraw/Library/Image Library.md",
     "Excalidraw/Library/遗忘.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-06-20.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
