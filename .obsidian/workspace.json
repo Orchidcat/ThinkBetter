@@ -11,15 +11,12 @@
             "id": "c1673a7afb830369",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "一个瑜伽行者的自传.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Pasted image 20241107083709.png"
               },
-              "icon": "lucide-file",
-              "title": "一个瑜伽行者的自传"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241107083709"
             }
           }
         ]
@@ -110,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一个瑜伽行者的自传.md",
+                "file": "Pasted image 20241107083709.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一个瑜伽行者的自传 的大纲"
+              "title": "Pasted image 20241107083709 的大纲"
             }
           },
           {
@@ -170,6 +167,7 @@
   },
   "active": "c1673a7afb830369",
   "lastOpenFiles": [
+    "一个瑜伽行者的自传.md",
     "Pasted image 20241107083709.png",
     "ThinkBetter/Kanban MOC.md",
     "ThinkBetter/事件timing.md",
@@ -215,7 +213,6 @@
     "Pasted image 20250619140319.png",
     "Pasted image 20250619134727.png",
     "Pasted image 20250619133304.png",
-    "Pasted image 20250619133011.png",
     "ThinkBetter/Excalidraw/Library",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "未命名.canvas"
