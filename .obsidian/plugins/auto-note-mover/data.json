@@ -20,14 +20,14 @@
     },
     {
       "folder": "ThinkBetter/人纪/药",
-      "tag": "#中医",
+      "tag": "#中医/药",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
   "excluded_folder": [
     {
-      "folder": ""
+      "folder": "ThinkBetter"
     }
   ]
 }
