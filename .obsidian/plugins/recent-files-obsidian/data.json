@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "退避机制",
+      "path": "ThinkBetter/退避机制.md"
+    },
+    {
+      "basename": "学习迁移",
+      "path": "ThinkBetter/学习迁移.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
       "basename": "选择好书",
       "path": "ThinkBetter/选择好书.md"
     },
@@ -149,10 +161,6 @@
       "path": "ThinkBetter/000 - HOME.md"
     },
     {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
-    },
-    {
       "basename": "了凡四训",
       "path": "ThinkBetter/Books/了凡四训.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "卫气营血辨证",
       "path": "ThinkBetter/人纪/卫气营血辨证.md"
-    },
-    {
-      "basename": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library)",
-      "path": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
-    },
-    {
-      "basename": "惯性",
-      "path": "惯性.md"
     }
   ],
   "omittedPaths": [],
