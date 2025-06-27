@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "79c0927b32f5d474",
+        "id": "39770487dc4b928e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1673a7afb830369",
+            "id": "561fa52ac7a3e6db",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241107083709.png"
+                "file": "ThinkBetter/Books/100种心智模型/框架.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241107083709"
+              "icon": "lucide-file",
+              "title": "框架"
             }
           }
         ]
@@ -107,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241107083709.png",
+                "file": "ThinkBetter/Books/100种心智模型/框架.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20241107083709 的大纲"
+              "title": "框架 的大纲"
             }
           },
           {
@@ -165,10 +168,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c1673a7afb830369",
+  "active": "561fa52ac7a3e6db",
   "lastOpenFiles": [
-    "一个瑜伽行者的自传.md",
+    "ThinkBetter/Books/被讨厌的勇气.md",
+    "ThinkBetter/人纪/抱朴子内篇.md",
+    "ThinkBetter/Articles/哨兵模式.md",
+    "ThinkBetter/Books/园丁与木匠.md",
+    "三指禅.md",
+    "四言举要.md",
     "Pasted image 20241107083709.png",
+    "一个瑜伽行者的自传.md",
     "ThinkBetter/Kanban MOC.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/Articles/人，永远有选择自己态度的自由.md",
@@ -190,12 +199,6 @@
     "ThinkBetter/如何阅读的方法.md",
     "ThinkBetter/Articles/有效思考的关键要素.md",
     "ThinkBetter/Workbench.md",
-    "ThinkBetter/一句话的玩味.md",
-    "ThinkBetter/Books/刀锋.md",
-    "ThinkBetter/Books/阅读是一座随身携带的避难所.md",
-    "ThinkBetter/人纪/重来3.md",
-    "ThinkBetter/人纪/药/知母.md",
-    "What is Visual PKM and Why Should You Care.md",
     "Pasted Image 20250618104501_614.png",
     "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
