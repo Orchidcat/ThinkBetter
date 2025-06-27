@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "how to live",
-      "path": "how to live.md"
+      "basename": "写作",
+      "path": "写作.md"
+    },
+    {
+      "basename": "Pi - Reef Monitor System",
+      "path": "ThinkBetter/Hobbies/Pi - Reef Monitor System.md"
+    },
+    {
+      "basename": "Flask-buleprint",
+      "path": "Flask-buleprint.md"
+    },
+    {
+      "basename": "General Thinking Concepts",
+      "path": "ThinkBetter/Books/General Thinking Concepts.md"
     },
     {
       "basename": "Heap",
       "path": "Heap.md"
+    },
+    {
+      "basename": "how to know a person",
+      "path": "how to know a person.md"
+    },
+    {
+      "basename": "How to become straight-A student",
+      "path": "ThinkBetter/Books/How to become straight-A student.md"
+    },
+    {
+      "basename": "HELL YEAH OR No - what's worth doing",
+      "path": "ThinkBetter/Books/HELL YEAH OR No - what's worth doing.md"
+    },
+    {
+      "basename": "how to live",
+      "path": "ThinkBetter/Books/how to live.md"
     },
     {
       "basename": "final message from Steve jobs",
@@ -171,34 +199,6 @@
     {
       "basename": "贝叶斯思维",
       "path": "ThinkBetter/贝叶斯思维.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "ThinkBetter/Books/超速学习.md"
-    },
-    {
-      "basename": "帝国的终结",
-      "path": "ThinkBetter/Books/帝国的终结.md"
-    },
-    {
-      "basename": "刀锋",
-      "path": "ThinkBetter/Books/刀锋.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/如何阅读的方法.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
-    },
-    {
-      "basename": "000 - HOME",
-      "path": "ThinkBetter/000 - HOME.md"
     }
   ],
   "omittedPaths": [],

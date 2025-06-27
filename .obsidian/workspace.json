@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to live.md",
+                "file": "写作.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how to live"
+              "title": "写作"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how to live.md",
+                "file": "写作.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how to live 的大纲"
+              "title": "写作 的大纲"
             }
           },
           {
@@ -180,7 +180,14 @@
   },
   "active": "0d32d8468f82151e",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/Pi - Reef Monitor System.md",
+    "Flask-buleprint.md",
+    "ThinkBetter/Books/General Thinking Concepts.md",
     "Heap.md",
+    "how to know a person.md",
+    "ThinkBetter/Books/How to become straight-A student.md",
+    "ThinkBetter/Books/HELL YEAH OR No - what's worth doing.md",
+    "ThinkBetter/Books/how to live.md",
     "ThinkBetter/Books/final message from Steve jobs.md",
     "Excel 2019 数据处理.md",
     "ThinkBetter/Books/Economics and Art.md",
@@ -199,13 +206,6 @@
     "ThinkBetter/写点儿啥.md",
     "ThinkBetter/吸引力.md",
     "ThinkBetter/Books/五号屠场.md",
-    "ThinkBetter/人纪/温病本气篇.md",
-    "ThinkBetter/未命名 2.md",
-    "ThinkBetter/未命名.md",
-    "ThinkBetter/外语.md",
-    "ThinkBetter/如何成功实验.md",
-    "ThinkBetter/人物 MOC.md",
-    "ThinkBetter/人纪/荣气与卫气.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
