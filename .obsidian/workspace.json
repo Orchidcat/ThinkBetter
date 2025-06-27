@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Templates/Template - 日记.md",
+                "file": "ThinkBetter/事件timing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Template - 日记"
+              "title": "事件timing"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "5685d1b6f3f372fb",
   "lastOpenFiles": [
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/000 - HOME.md",
     "ThinkBetter/+HomeMOC.md",
@@ -195,7 +196,6 @@
     "ThinkBetter/退避机制.md",
     "ThinkBetter/血分.md",
     "ThinkBetter/学习迁移.md",
-    "ThinkBetter/学习方法.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",

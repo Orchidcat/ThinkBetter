@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "ThinkBetter/事件timing.md"
+    },
+    {
       "basename": "Template - 日记",
       "path": "ThinkBetter/Templates/Template - 日记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "丑陋的中国人",
       "path": "ThinkBetter/丑陋的中国人.md"
-    },
-    {
-      "basename": "不对称性",
-      "path": "ThinkBetter/不对称性.md"
     }
   ],
   "omittedPaths": [],
