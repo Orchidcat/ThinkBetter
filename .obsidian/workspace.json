@@ -39,15 +39,12 @@
             "id": "e19fcf9a6823ac03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "工具箱.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/example/how i organize my everything in obsidian.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "工具箱"
+              "icon": "excalidraw-icon",
+              "title": "how i organize my everything in obsidian"
             }
           }
         ],
@@ -220,13 +217,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -316,23 +311,24 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "6f6d2efce278b333",
+  "active": "e19fcf9a6823ac03",
   "lastOpenFiles": [
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
+    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Books/how we learn - 阅读.md",
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "工具箱.md",
+    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "纳瓦尔宝典.md",
     "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
-    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
     "Pasted Image 20250624082714_213.png",
     "ThinkBetter/人纪/+Home.md",
     "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/人纪/未命名",
     "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
-    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
     "Excalidraw/Library/Image Library.md",
@@ -341,7 +337,6 @@
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
     "ThinkBetter/Book/噪声.md",
     "Excalidraw/excalidraw Storage.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
     "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Excalidraw/Library/remember.excalidraw.md",
     "Excalidraw/Library/现代野人.excalidraw.md",
@@ -353,7 +348,6 @@
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
     "Pasted image 20250619134727.png",
-    "ThinkBetter/Books/Clear Thinking.md",
     "Pasted image 20250619133304.png",
     "Pasted image 20250619133011.png",
     "Pasted image 20250619132946.png",
