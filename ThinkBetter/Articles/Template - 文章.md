@@ -1,5 +1,5 @@
 ---
-tags: ['articles']
+tags: ['article']
 desc: 
 date: 
 link: 

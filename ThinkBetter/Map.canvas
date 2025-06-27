@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"3a23d3396186d04d","x":560,"y":-440,"width":520,"height":2400,"color":"4","type":"file","file":"Books.md"},
-		{"id":"50dd014be6e2f1d9","x":40,"y":-440,"width":480,"height":2400,"type":"file","file":"Questions.md"},
-		{"id":"62ab9f076aaf0942","x":-45,"y":380,"width":505,"height":160,"type":"text","text":"unread books\n```dataview\nlist from #UnReadBook limit 20\n```"}
-	],
-	"edges":[]
-}

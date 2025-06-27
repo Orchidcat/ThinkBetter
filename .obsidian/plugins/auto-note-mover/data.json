@@ -52,6 +52,11 @@
       "folder": "ThinkBetter/Books",
       "tag": "#book/finish",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/Articles",
+      "tag": "#article",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,

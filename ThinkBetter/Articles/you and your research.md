@@ -1,4 +1,4 @@
-#articles 
+#article 
 
 https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 

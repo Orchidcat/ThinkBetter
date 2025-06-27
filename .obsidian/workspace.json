@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9786af8602318faf",
+        "id": "79c0927b32f5d474",
         "type": "tabs",
         "children": [
           {
-            "id": "e34b832172c33785",
+            "id": "c1673a7afb830369",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/常人.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "常人"
+              "title": "新标签页"
             }
           }
         ]
@@ -110,13 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/常人.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常人 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,18 +161,26 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e34b832172c33785",
+  "active": "c1673a7afb830369",
   "lastOpenFiles": [
-    "ThinkBetter/2024-04-22.md",
+    "ThinkBetter/Articles/人，永远有选择自己态度的自由.md",
+    "ThinkBetter/Articles",
+    "ThinkBetter/Questions.md",
+    "ThinkBetter/Map.canvas",
+    "ThinkBetter/DailyNotes/2024-04-19.md",
+    "ThinkBetter/人纪/血府逐淤汤.md",
+    "ThinkBetter/人纪/通窍活血汤.md",
+    "ThinkBetter/人纪/常人.md",
+    "ThinkBetter/DailyNotes/2024-04-22.md",
     "ThinkBetter/人纪/脉诊学习.md",
     "ThinkBetter/人纪/元气.md",
     "ThinkBetter/人纪/大气.md",
     "ThinkBetter/人纪/胃痛.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/Books/The inner game of tennis.md",
-    "ThinkBetter/如何停止在不重要的细节上浪费时间.md",
+    "ThinkBetter/Articles/如何停止在不重要的细节上浪费时间.md",
     "ThinkBetter/如何阅读的方法.md",
-    "ThinkBetter/有效思考的关键要素.md",
+    "ThinkBetter/Articles/有效思考的关键要素.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/一句话的玩味.md",
     "ThinkBetter/Books/刀锋.md",
@@ -192,12 +194,6 @@
     "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
     "未命名 6.md",
-    "excalibrain.md",
-    "反直觉.md",
-    "未命名 7.md",
-    "平叛.md",
-    "相互保证毁灭.md",
-    "不对称战争.md",
     "Pasted Image 20250624082714_213.png",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/人体流转.canvas",
@@ -215,8 +211,6 @@
     "Pasted image 20250619133011.png",
     "ThinkBetter/Excalidraw/Library",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
-    "ThinkBetter/Excalidraw/example",
-    "未命名.canvas",
-    "ThinkBetter/Map.canvas"
+    "未命名.canvas"
   ]
 }

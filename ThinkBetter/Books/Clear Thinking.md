@@ -1,6 +1,6 @@
 ---
 tags:
-  - articles
+  - article
   - book
   - thinking
 type: 如果今天是你的最后一天，你仍会做今天你准备做的事儿吗

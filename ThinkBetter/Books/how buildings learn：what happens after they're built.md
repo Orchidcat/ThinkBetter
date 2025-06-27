@@ -1,6 +1,6 @@
 ---
 tags:
-  - articles
+  - article
   - book
 type: 
 date: 2025-02-28
