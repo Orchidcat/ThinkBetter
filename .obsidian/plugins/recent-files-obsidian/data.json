@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "思考问题的三个过滤器",
-      "path": "ThinkBetter/思考问题的三个过滤器.md"
+      "basename": "可用性启发式",
+      "path": "ThinkBetter/Books/100种心智模型/可用性启发式.md"
+    },
+    {
+      "basename": "合金化",
+      "path": "ThinkBetter/Books/100种心智模型/合金化.md"
+    },
+    {
+      "basename": "地图不是领土",
+      "path": "ThinkBetter/Books/100种心智模型/地图不是领土.md"
+    },
+    {
+      "basename": "奥卡姆剃刀",
+      "path": "ThinkBetter/Books/100种心智模型/奥卡姆剃刀.md"
+    },
+    {
+      "basename": "嫉妒与妒忌",
+      "path": "ThinkBetter/Books/100种心智模型/嫉妒与妒忌.md"
+    },
+    {
+      "basename": "对激励的偏见",
+      "path": "ThinkBetter/Books/100种心智模型/对激励的偏见.md"
+    },
+    {
+      "basename": "巴浦洛夫协会",
+      "path": "ThinkBetter/Books/100种心智模型/巴浦洛夫协会.md"
+    },
+    {
+      "basename": "平叛",
+      "path": "ThinkBetter/Books/100种心智模型/平叛.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "ThinkBetter/项目 MOC.md"
+    },
+    {
+      "basename": "SQL Server TOC",
+      "path": "ThinkBetter/SQL Server TOC.md"
+    },
+    {
+      "basename": "思想实验",
+      "path": "ThinkBetter/Books/100种心智模型/思想实验.md"
     },
     {
       "basename": "惯性",
       "path": "ThinkBetter/Books/100种心智模型/惯性.md"
+    },
+    {
+      "basename": "思考问题的三个过滤器",
+      "path": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md"
     },
     {
       "basename": "摩擦力和粘度",
@@ -63,10 +107,6 @@
     {
       "basename": "能力圈",
       "path": "ThinkBetter/Books/100种心智模型/能力圈.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "ThinkBetter/项目 MOC.md"
     },
     {
       "basename": "how minds change",
@@ -159,46 +199,6 @@
     {
       "basename": "how we learn - Boap",
       "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
-    },
-    {
-      "basename": "纳瓦尔宝典",
-      "path": "纳瓦尔宝典.md"
-    },
-    {
-      "basename": "skin in the game",
-      "path": "skin in the game.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/一句话的玩味.md"
-    },
-    {
-      "basename": "BoaP - Atomic Habits",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
-    },
-    {
-      "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
-    },
-    {
-      "basename": "how we learn - Summary",
-      "path": "ThinkBetter/Books/how we learn/how we learn - Summary.md"
-    },
-    {
-      "basename": "2025-06-23",
-      "path": "ThinkBetter/DailyNotes/2025-06-23.md"
-    },
-    {
-      "basename": "遗忘.excalidraw",
-      "path": "ThinkBetter/Excalidraw/Library/遗忘.excalidraw.md"
-    },
-    {
-      "basename": "how we learn - 阅读黄金比例.excalidraw",
-      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
-    },
-    {
-      "basename": "噪声",
-      "path": "ThinkBetter/Books/噪声.md"
     }
   ],
   "omittedPaths": [],

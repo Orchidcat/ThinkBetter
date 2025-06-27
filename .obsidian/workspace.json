@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f44494ac52266ea",
+        "id": "39688f0f3518b623",
         "type": "tabs",
         "children": [
           {
-            "id": "b23d9cbcd39c8ab1",
+            "id": "7d28a765d05ae811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/思考问题的三个过滤器.md",
+                "file": "ThinkBetter/Books/100种心智模型/可用性启发式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "思考问题的三个过滤器"
-            }
-          },
-          {
-            "id": "4a12f319732c9385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/100种心智模型/惯性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "惯性"
+              "title": "可用性启发式"
             }
           }
         ]
@@ -184,10 +169,20 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b23d9cbcd39c8ab1",
+  "active": "7d28a765d05ae811",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/合金化.md",
+    "ThinkBetter/Books/100种心智模型/地图不是领土.md",
+    "ThinkBetter/Books/100种心智模型/奥卡姆剃刀.md",
+    "ThinkBetter/Books/100种心智模型/嫉妒与妒忌.md",
+    "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
+    "ThinkBetter/Books/100种心智模型/巴浦洛夫协会.md",
+    "ThinkBetter/Books/100种心智模型/平叛.md",
+    "ThinkBetter/项目 MOC.md",
+    "ThinkBetter/SQL Server TOC.md",
+    "ThinkBetter/Books/100种心智模型/思想实验.md",
     "ThinkBetter/Books/100种心智模型/惯性.md",
-    "ThinkBetter/思考问题的三个过滤器.md",
+    "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Books/100种心智模型/摩擦力和粘度.md",
     "ThinkBetter/Books/100种心智模型/概率思维.md",
     "ThinkBetter/Books/100种心智模型/杠杆.md",
@@ -202,17 +197,7 @@
     "ThinkBetter/Books/100种心智模型/第一性原理.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Books/100种心智模型/能力圈.md",
-    "ThinkBetter/项目 MOC.md",
-    "ThinkBetter/Books/how minds change.md",
-    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Books/100种心智模型",
-    "ThinkBetter/学习方法.md",
-    "ThinkBetter/DailyNotes/2024-04-10.md",
-    "ThinkBetter/Workbench.md",
-    "ThinkBetter/Books.md",
-    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
-    "ThinkBetter/Books/深入理解Java虚拟机.md",
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Pasted Image 20250624082714_213.png",
