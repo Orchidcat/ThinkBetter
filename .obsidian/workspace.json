@@ -37,7 +37,8 @@
               "title": "Workbench"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +185,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fc6a1bf84d90e15f",
+  "active": "255deced4b41765e",
   "lastOpenFiles": [
-    "ThinkBetter/Workbench.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
+    "ThinkBetter/Workbench.md",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/DailyNotes/2025-06-20.md",
     "未命名 7.md",
