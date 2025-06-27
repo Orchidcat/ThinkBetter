@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "39770487dc4b928e",
+        "id": "5961b7827a15ebc7",
         "type": "tabs",
         "children": [
           {
-            "id": "561fa52ac7a3e6db",
+            "id": "5f7e185987c46fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/框架.md",
+                "file": "心肝血虚证.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "框架"
+              "title": "心肝血虚证"
             }
           }
         ]
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/框架.md",
+                "file": "心肝血虚证.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架 的大纲"
+              "title": "心肝血虚证 的大纲"
             }
           },
           {
@@ -168,8 +168,20 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "561fa52ac7a3e6db",
+  "active": "5f7e185987c46fb0",
   "lastOpenFiles": [
+    "心肺气虚证.md",
+    "鬼门十三针.md",
+    "Excel 2019 数据处理.md",
+    "珊瑚颜色.md",
+    "ThinkBetter/人纪/二十四节气.md",
+    "ThinkBetter/人纪/黄芪人参汤.md",
+    "逻辑哲学论.md",
+    "ThinkBetter/DailyNotes/2024-07-24.md",
+    "未命名.md",
+    "ThinkBetter/Articles/8大游戏人的心理.md",
+    "ThinkBetter/Books/Deep work.md",
+    "ThinkBetter/Books/100种心智模型/框架.md",
     "ThinkBetter/Books/被讨厌的勇气.md",
     "ThinkBetter/人纪/抱朴子内篇.md",
     "ThinkBetter/Articles/哨兵模式.md",
@@ -187,18 +199,6 @@
     "ThinkBetter/DailyNotes/2024-04-19.md",
     "ThinkBetter/人纪/血府逐淤汤.md",
     "ThinkBetter/人纪/通窍活血汤.md",
-    "ThinkBetter/人纪/常人.md",
-    "ThinkBetter/DailyNotes/2024-04-22.md",
-    "ThinkBetter/人纪/脉诊学习.md",
-    "ThinkBetter/人纪/元气.md",
-    "ThinkBetter/人纪/大气.md",
-    "ThinkBetter/人纪/胃痛.md",
-    "ThinkBetter/人纪/六气.md",
-    "ThinkBetter/Books/The inner game of tennis.md",
-    "ThinkBetter/Articles/如何停止在不重要的细节上浪费时间.md",
-    "ThinkBetter/如何阅读的方法.md",
-    "ThinkBetter/Articles/有效思考的关键要素.md",
-    "ThinkBetter/Workbench.md",
     "Pasted Image 20250618104501_614.png",
     "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
