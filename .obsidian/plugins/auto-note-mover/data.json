@@ -22,12 +22,28 @@
       "folder": "ThinkBetter/人纪/药",
       "tag": "#中医/药",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/人纪/药",
+      "tag": "#中医/药/清热药/燥湿",
+      "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/人纪/药",
+      "tag": "#中医/药/解表药/散寒",
+      "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/人纪/药",
+      "tag": "#中医/药/解表药/散热",
+      "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/人纪/药",
+      "tag": "#中医/药/清热药/泻火",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
-  "excluded_folder": [
-    {
-      "folder": "ThinkBetter"
-    }
-  ]
+  "excluded_folder": []
 }
