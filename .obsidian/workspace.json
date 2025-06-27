@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ebac06e989e1d10",
+        "id": "5f44494ac52266ea",
         "type": "tabs",
         "children": [
           {
-            "id": "3794b0db3710aeb9",
+            "id": "b23d9cbcd39c8ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-06-27.md",
+                "file": "ThinkBetter/Books/100种心智模型/惯性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-27"
+              "title": "惯性"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 434.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -169,11 +169,23 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "3794b0db3710aeb9",
+  "active": "b23d9cbcd39c8ab1",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/摩擦力和粘度.md",
+    "ThinkBetter/Books/100种心智模型/概率思维.md",
+    "ThinkBetter/Books/100种心智模型/杠杆.md",
+    "ThinkBetter/Books/100种心智模型/汉隆剃刀.md",
+    "ThinkBetter/Books/100种心智模型/活化能.md",
+    "ThinkBetter/Books/100种心智模型/热力学.md",
+    "ThinkBetter/Books/100种心智模型/相互保证毁灭.md",
+    "ThinkBetter/Books/100种心智模型/看到前线.md",
+    "ThinkBetter/Books/100种心智模型/相对论.md",
+    "ThinkBetter/Books/100种心智模型/相对速度.md",
+    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
+    "ThinkBetter/Books/100种心智模型/第一性原理.md",
+    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Books/100种心智模型/能力圈.md",
     "ThinkBetter/项目 MOC.md",
-    "ThinkBetter/心智模型 TOC.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Books/100种心智模型",
@@ -186,20 +198,8 @@
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/Templates/Template - 读书.md",
-    "ThinkBetter/Templates/Template - 心智模型.md",
-    "ThinkBetter/Templates/Template - Bike.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
-    "ThinkBetter/DailyNotes/2025-06-20.md",
-    "未命名 7.md",
-    "ThinkBetter/Excalidraw/Library/Image Library.md",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
-    "ThinkBetter/Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
-    "ThinkBetter/Excalidraw/The Reading Time Flow.excalidraw.md",
-    "工具箱.md",
-    "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
-    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
     "Pasted Image 20250624082714_213.png",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/人纪/未命名",
