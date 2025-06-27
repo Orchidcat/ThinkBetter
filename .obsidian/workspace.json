@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/生命宇宙篇.md",
+                "file": "Excel 2019 数据处理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "生命宇宙篇"
+              "title": "Excel 2019 数据处理"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/生命宇宙篇.md",
+                "file": "Excel 2019 数据处理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生命宇宙篇 的大纲"
+              "title": "Excel 2019 数据处理 的大纲"
             }
           },
           {
@@ -181,6 +180,8 @@
   },
   "active": "0d32d8468f82151e",
   "lastOpenFiles": [
+    "ThinkBetter/Books/Economics and Art.md",
+    "ThinkBetter/生命宇宙篇.md",
     "ThinkBetter/人纪/河图洛书.md",
     "ThinkBetter/好的作品.md",
     "ThinkBetter/韩熙载夜宴图.md",
@@ -205,8 +206,6 @@
     "ThinkBetter/Books/日瓦戈医生.md",
     "ThinkBetter/人纪/清燥救肺汤.md",
     "ThinkBetter/普林斯顿大学.md",
-    "ThinkBetter/帕累托原则.md",
-    "ThinkBetter/牛膝.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
