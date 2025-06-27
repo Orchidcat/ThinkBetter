@@ -1,7 +1,7 @@
 
 ```tasks
 not done
-due before 2025-
+due before 2025-06-27
 ```
 
 
@@ -104,4 +104,5 @@ due before 2025-
 
 
 ![[Pasted image 20250619110205.png]] 
-Mixer 将一个原子信息相关连的概念，提炼到一个地方进行�
+Mixer 将一个原子信息相关连的概念，提炼到一个地方进行表述
+
