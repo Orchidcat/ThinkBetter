@@ -26,12 +26,15 @@
             "id": "589b4e1681ff451d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/example/how i organize my everything in obsidian.excalidraw"
+                "file": "ThinkBetter/DailyNotes/2025-06-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "how i organize my everything in obsidian"
+              "icon": "lucide-file",
+              "title": "2025-06-27"
             }
           }
         ],
@@ -182,10 +185,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "589b4e1681ff451d",
   "lastOpenFiles": [
-    "Excalidraw/Library/Image Library.md",
     "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "未命名 7.md",
+    "Excalidraw/Library/Image Library.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
@@ -215,7 +219,6 @@
     "Excalidraw/Library/现代野人.excalidraw.md",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/Books/how we learn/how we learn - BOAP.md",
-    "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Pasted image 20250619155059.png",
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
