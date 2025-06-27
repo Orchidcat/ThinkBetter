@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb27ac8afdb6424",
+        "id": "07bc2e858ed2113c",
         "type": "tabs",
         "children": [
           {
-            "id": "45d6e55805943908",
+            "id": "4aa98e9efdb1ab99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "补中益气汤.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "补中益气汤"
+              "title": "新标签页"
             }
           }
         ]
@@ -110,13 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "补中益气汤.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "补中益气汤 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -168,8 +162,19 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "45d6e55805943908",
+  "active": "4aa98e9efdb1ab99",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/长夏.md",
+    "ThinkBetter/人纪/消渴.md",
+    "ThinkBetter/人纪/督脉.md",
+    "ThinkBetter/人纪/鬼门十三针.md",
+    "2024-05-21.md",
+    "Obsidian 的本地 Rest API：交互式 API 文档.md",
+    "Charts & Diagrams - Bulk Reef Supply.md",
+    "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
+    "ThinkBetter/Books/100种心智模型/因果关系与相关关系.md",
+    "ThinkBetter/人纪/五俞穴.md",
+    "ThinkBetter/人纪/补中益气汤.md",
     "很棒的DIY系统03.md",
     "很棒的DIY系统01.md",
     "很棒的DIY系统04.md",
@@ -187,17 +192,6 @@
     "未命名 3.md",
     "Pasted image 20250312112804.png",
     "哲学图谱.md",
-    "微积分.md",
-    "ThinkBetter/Books/100种心智模型/惯性.md",
-    "惯性.md",
-    "ThinkBetter/Articles/关于肥胖.md",
-    "ThinkBetter/Books/100种心智模型/直接原因与根本原因.md",
-    "ThinkBetter/Books/100种心智模型/5个为什么.md",
-    "ThinkBetter/Books/100种心智模型/认知偏见.md",
-    "ThinkBetter/人纪/心肾不交证.md",
-    "ThinkBetter/人纪/心脾两虚证.md",
-    "心肝血虚证.md",
-    "心肺气虚证.md",
     "Pasted image 20241107083709.png",
     "ThinkBetter/Articles",
     "ThinkBetter/Map.canvas",
