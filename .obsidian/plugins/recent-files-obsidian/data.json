@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "The inner game of tennis",
+      "path": "ThinkBetter/Books/The inner game of tennis.md"
+    },
+    {
+      "basename": "如何停止在不重要的细节上浪费时间",
+      "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
+    },
+    {
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/如何阅读的方法.md"
+    },
+    {
+      "basename": "有效思考的关键要素",
+      "path": "ThinkBetter/有效思考的关键要素.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/一句话的玩味.md"
+    },
+    {
       "basename": "刀锋",
-      "path": "ThinkBetter/刀锋.md"
+      "path": "ThinkBetter/Books/刀锋.md"
     },
     {
       "basename": "阅读是一座随身携带的避难所",
@@ -15,18 +39,6 @@
     {
       "basename": "知母",
       "path": "ThinkBetter/人纪/药/知母.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/一句话的玩味.md"
-    },
-    {
-      "basename": "有效思考的关键要素",
-      "path": "ThinkBetter/有效思考的关键要素.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "What is Visual PKM and Why Should You Care",
@@ -187,18 +199,6 @@
     {
       "basename": "葛根",
       "path": "ThinkBetter/人纪/药/葛根.md"
-    },
-    {
-      "basename": "黄柏",
-      "path": "ThinkBetter/人纪/药/黄柏.md"
-    },
-    {
-      "basename": "决明子",
-      "path": "ThinkBetter/人纪/药/决明子.md"
-    },
-    {
-      "basename": "龙胆",
-      "path": "ThinkBetter/人纪/药/龙胆.md"
     }
   ],
   "omittedPaths": [],
