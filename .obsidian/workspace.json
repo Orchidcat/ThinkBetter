@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22cb7f32ea8ecc90",
+        "id": "a01e0e27e75db9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "20d532bf03e4385a",
+            "id": "cd6cae3c2077152a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/八纲脉.md",
+                "file": "ThinkBetter/地理知识.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "八纲脉"
+              "title": "地理知识"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/八纲脉.md",
+                "file": "ThinkBetter/地理知识.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八纲脉 的大纲"
+              "title": "地理知识 的大纲"
             }
           },
           {
@@ -178,14 +178,22 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "cd6cae3c2077152a",
   "lastOpenFiles": [
+    "ThinkBetter/大脑睡眠结构图.md",
+    "ThinkBetter/Books/100种心智模型/打开心智.md",
+    "ThinkBetter/存储引擎.md",
+    "ThinkBetter/Books/从一到无穷大.md",
+    "ThinkBetter/词缀.md",
+    "ThinkBetter/丑陋的中国人.md",
+    "ThinkBetter/查理芒格.md",
+    "ThinkBetter/不对称性.md",
+    "ThinkBetter/笔记方法.md",
+    "ThinkBetter/八纲脉.md",
     "ThinkBetter/2023.md",
     "ThinkBetter/202212290921.md",
     "ThinkBetter/DailyNotes/2024-03-29.md",
     "ThinkBetter/不能承受的生命之轻.md",
-    "ThinkBetter/不对称性.md",
-    "ThinkBetter/笔记方法.md",
     "ThinkBetter/贝叶斯思维.md",
     "ThinkBetter/Books/超速学习.md",
     "ThinkBetter/Books/帝国的终结.md",
@@ -199,14 +207,6 @@
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/了凡四训.md",
     "ThinkBetter/DailyNotes/2024-04-17.md",
-    "README.md",
-    "读书 MOC.md",
-    "+HomeMOC.md",
-    "ThinkBetter/Books/搞定I.md",
-    "ThinkBetter/人纪/削骨.md",
-    "ThinkBetter/人纪/水饮.md",
-    "ThinkBetter/人纪/传经.md",
-    "ThinkBetter/人纪/六经辩证.md",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
     "Pasted image 20250312112804.png",

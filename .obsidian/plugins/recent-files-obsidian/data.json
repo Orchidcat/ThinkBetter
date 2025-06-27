@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "八纲脉",
-      "path": "ThinkBetter/八纲脉.md"
+      "basename": "地理知识",
+      "path": "ThinkBetter/地理知识.md"
     },
     {
-      "basename": "2024-03-29",
-      "path": "ThinkBetter/DailyNotes/2024-03-29.md"
+      "basename": "大脑睡眠结构图",
+      "path": "ThinkBetter/大脑睡眠结构图.md"
     },
     {
-      "basename": "不能承受的生命之轻",
-      "path": "ThinkBetter/不能承受的生命之轻.md"
+      "basename": "打开心智",
+      "path": "ThinkBetter/Books/100种心智模型/打开心智.md"
+    },
+    {
+      "basename": "从一到无穷大",
+      "path": "ThinkBetter/Books/从一到无穷大.md"
+    },
+    {
+      "basename": "丑陋的中国人",
+      "path": "ThinkBetter/丑陋的中国人.md"
     },
     {
       "basename": "不对称性",
@@ -19,6 +27,14 @@
     {
       "basename": "笔记方法",
       "path": "ThinkBetter/笔记方法.md"
+    },
+    {
+      "basename": "2024-03-29",
+      "path": "ThinkBetter/DailyNotes/2024-03-29.md"
+    },
+    {
+      "basename": "不能承受的生命之轻",
+      "path": "ThinkBetter/不能承受的生命之轻.md"
     },
     {
       "basename": "贝叶斯思维",
@@ -183,22 +199,6 @@
     {
       "basename": "肾气不固证",
       "path": "ThinkBetter/人纪/肾气不固证.md"
-    },
-    {
-      "basename": "肾虚水泛证",
-      "path": "ThinkBetter/人纪/肾虚水泛证.md"
-    },
-    {
-      "basename": "鼻炎",
-      "path": "鼻炎.md"
-    },
-    {
-      "basename": "肾阳虚证",
-      "path": "ThinkBetter/人纪/肾阳虚证.md"
-    },
-    {
-      "basename": "胆郁痰扰证",
-      "path": "ThinkBetter/人纪/胆郁痰扰证.md"
     }
   ],
   "omittedPaths": [],
