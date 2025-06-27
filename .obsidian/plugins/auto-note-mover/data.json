@@ -1,6 +1,6 @@
 {
   "trigger_auto_manual": "Automatic",
-  "use_regex_to_check_for_tags": true,
+  "use_regex_to_check_for_tags": false,
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
@@ -16,6 +16,11 @@
     {
       "folder": "ThinkBetter/Books/100种心智模型",
       "tag": "#心智模型",
+      "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/人纪/药",
+      "tag": "#中医",
       "pattern": ""
     }
   ],

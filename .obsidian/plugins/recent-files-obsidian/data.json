@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "藁本",
+      "path": "ThinkBetter/藁本.md"
+    },
+    {
+      "basename": "薄荷",
+      "path": "ThinkBetter/薄荷.md"
+    },
+    {
+      "basename": "桑叶",
+      "path": "ThinkBetter/桑叶.md"
+    },
+    {
+      "basename": "菊花",
+      "path": "ThinkBetter/菊花.md"
+    },
+    {
+      "basename": "有效思考的关键要素",
+      "path": "ThinkBetter/有效思考的关键要素.md"
+    },
+    {
       "basename": "make it stick",
       "path": "ThinkBetter/Books/make it stick.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "能力圈",
       "path": "ThinkBetter/Books/100种心智模型/能力圈.md"
-    },
-    {
-      "basename": "how minds change",
-      "path": "ThinkBetter/Books/how minds change.md"
-    },
-    {
-      "basename": "000 - HOME",
-      "path": "ThinkBetter/000 - HOME.md"
-    },
-    {
-      "basename": "2024-04-10",
-      "path": "ThinkBetter/DailyNotes/2024-04-10.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     }
   ],
   "omittedPaths": [],
