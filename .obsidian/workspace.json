@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07bc2e858ed2113c",
+        "id": "2dc3b660afa5829b",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa98e9efdb1ab99",
+            "id": "f7bd77850a6feefb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "肺肾阴虚证.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "肺肾阴虚证"
             }
           }
         ]
@@ -105,12 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "肺肾阴虚证.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "肺肾阴虚证 的大纲"
             }
           },
           {
@@ -162,8 +168,25 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4aa98e9efdb1ab99",
+  "active": "f7bd77850a6feefb",
   "lastOpenFiles": [
+    "Anki 基础使用.md",
+    "ThinkBetter/人纪/肾精不足证.md",
+    "ThinkBetter/人纪/肾气不固证.md",
+    "ThinkBetter/人纪/肾虚水泛证.md",
+    "鼻炎.md",
+    "ThinkBetter/人纪/肾阳虚证.md",
+    "ThinkBetter/人纪/胆郁痰扰证.md",
+    "ThinkBetter/人纪/肾阴虚证.md",
+    "ThinkBetter/人纪/膀胱湿热证.md",
+    "ThinkBetter/人纪/脾肾阳虚证.md",
+    "ThinkBetter/人纪/脾肺气虚证.md",
+    "ThinkBetter/人纪/阳明病证.md",
+    "人参.md",
+    "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
+    "ThinkBetter/Books/100种心智模型/可证伪性.md",
+    "惯性.md",
+    "ThinkBetter/Books/100种心智模型/充分必要条件.md",
     "ThinkBetter/人纪/长夏.md",
     "ThinkBetter/人纪/消渴.md",
     "ThinkBetter/人纪/督脉.md",
@@ -174,24 +197,8 @@
     "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md",
     "ThinkBetter/Books/100种心智模型/因果关系与相关关系.md",
     "ThinkBetter/人纪/五俞穴.md",
-    "ThinkBetter/人纪/补中益气汤.md",
-    "很棒的DIY系统03.md",
-    "很棒的DIY系统01.md",
-    "很棒的DIY系统04.md",
-    "代码实现.md",
-    "颜色选择.md",
-    "进化论.md",
-    "ThinkBetter/Articles/打造第二大脑.md",
-    "复习笔记.md",
-    "ThinkBetter/Books/系统思考.md",
-    "NumPy.md",
-    "Pandas.md",
-    "ThinkBetter/DailyNotes/2025-02-05.md",
-    "ThinkBetter/DailyNotes/2024-W31.md",
     "未命名.canvas",
-    "未命名 3.md",
     "Pasted image 20250312112804.png",
-    "哲学图谱.md",
     "Pasted image 20241107083709.png",
     "ThinkBetter/Articles",
     "ThinkBetter/Map.canvas",
@@ -211,7 +218,6 @@
     "ThinkBetter/Books/how we learn",
     "Pasted image 20250619140319.png",
     "Pasted image 20250619134727.png",
-    "ThinkBetter/Excalidraw/Library",
-    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
+    "ThinkBetter/Excalidraw/Library"
   ]
 }
