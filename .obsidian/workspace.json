@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5961b7827a15ebc7",
+        "id": "c45efe87815eedea",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7e185987c46fb0",
+            "id": "5f1b3918fd0234f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心肝血虚证.md",
+                "file": "惯性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "心肝血虚证"
+              "title": "惯性"
             }
           }
         ]
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "心肝血虚证.md",
+                "file": "惯性.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "心肝血虚证 的大纲"
+              "title": "惯性 的大纲"
             }
           },
           {
@@ -168,8 +168,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5f7e185987c46fb0",
+  "active": "5f1b3918fd0234f8",
   "lastOpenFiles": [
+    "ThinkBetter/Articles/关于肥胖.md",
+    "惯性.md",
+    "ThinkBetter/Books/100种心智模型/直接原因与根本原因.md",
+    "ThinkBetter/Books/100种心智模型/5个为什么.md",
+    "ThinkBetter/Books/100种心智模型/认知偏见.md",
+    "ThinkBetter/人纪/心肾不交证.md",
+    "ThinkBetter/人纪/心脾两虚证.md",
+    "心肝血虚证.md",
     "心肺气虚证.md",
     "鬼门十三针.md",
     "Excel 2019 数据处理.md",
@@ -189,16 +197,8 @@
     "三指禅.md",
     "四言举要.md",
     "Pasted image 20241107083709.png",
-    "一个瑜伽行者的自传.md",
-    "ThinkBetter/Kanban MOC.md",
-    "ThinkBetter/事件timing.md",
-    "ThinkBetter/Articles/人，永远有选择自己态度的自由.md",
     "ThinkBetter/Articles",
-    "ThinkBetter/Questions.md",
     "ThinkBetter/Map.canvas",
-    "ThinkBetter/DailyNotes/2024-04-19.md",
-    "ThinkBetter/人纪/血府逐淤汤.md",
-    "ThinkBetter/人纪/通窍活血汤.md",
     "Pasted Image 20250618104501_614.png",
     "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
