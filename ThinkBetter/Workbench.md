@@ -1,7 +1,7 @@
 
 ```tasks
 not done
-due before 2025-06-27
+
 ```
 
 
