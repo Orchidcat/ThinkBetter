@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "100种心智模型",
-      "path": "ThinkBetter/100种心智模型.md"
+      "basename": "反脆弱",
+      "path": "ThinkBetter/反脆弱.md"
+    },
+    {
+      "basename": "_MOC - 100种心智模型",
+      "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "ThinkBetter/项目 MOC.md"
+    },
+    {
+      "basename": "如何停止在不重要的细节上浪费时间",
+      "path": "ThinkBetter/如何停止在不重要的细节上浪费时间.md"
     },
     {
       "basename": "不对称战争",
@@ -63,10 +75,6 @@
     {
       "basename": "平叛",
       "path": "ThinkBetter/Books/100种心智模型/平叛.md"
-    },
-    {
-      "basename": "项目 MOC",
-      "path": "ThinkBetter/项目 MOC.md"
     },
     {
       "basename": "SQL Server TOC",
@@ -191,14 +199,6 @@
     {
       "basename": "how i organize my everything in obsidian",
       "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
-    },
-    {
-      "basename": "2025-06-20",
-      "path": "ThinkBetter/DailyNotes/2025-06-20.md"
-    },
-    {
-      "basename": "未命名 7",
-      "path": "未命名 7.md"
     }
   ],
   "omittedPaths": [],

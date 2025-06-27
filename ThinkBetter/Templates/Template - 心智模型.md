@@ -5,7 +5,7 @@ date: {{date:'YYYY-MM-DD'}}
 star:
 desc: ?
 ---
-[[+Home]] - [[心智模型 TOC]] - [[100种心智模型]]
+[[+Home]] - [[心智模型 TOC]] - [[_MOC - 100种心智模型]]
 
 
 # {{title}}
