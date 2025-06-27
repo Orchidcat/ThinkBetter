@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
       "basename": "000 - HOME",
       "path": "ThinkBetter/000 - HOME.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "鬼门十三针",
       "path": "ThinkBetter/人纪/鬼门十三针.md"
-    },
-    {
-      "basename": "Obsidian 的本地 Rest API：交互式 API 文档",
-      "path": "Obsidian 的本地 Rest API：交互式 API 文档.md"
     }
   ],
   "omittedPaths": [],
