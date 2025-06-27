@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "刀锋",
+      "path": "ThinkBetter/刀锋.md"
+    },
+    {
+      "basename": "阅读是一座随身携带的避难所",
+      "path": "ThinkBetter/Books/阅读是一座随身携带的避难所.md"
+    },
+    {
+      "basename": "重来3",
+      "path": "ThinkBetter/人纪/重来3.md"
+    },
+    {
       "basename": "知母",
-      "path": "ThinkBetter/人纪/知母.md"
+      "path": "ThinkBetter/人纪/药/知母.md"
     },
     {
       "basename": "一句话的玩味",
@@ -187,18 +199,6 @@
     {
       "basename": "龙胆",
       "path": "ThinkBetter/人纪/药/龙胆.md"
-    },
-    {
-      "basename": "淡豆豉",
-      "path": "ThinkBetter/人纪/药/淡豆豉.md"
-    },
-    {
-      "basename": "淡竹叶",
-      "path": "ThinkBetter/人纪/药/淡竹叶.md"
-    },
-    {
-      "basename": "石膏",
-      "path": "ThinkBetter/人纪/药/石膏.md"
     }
   ],
   "omittedPaths": [],
