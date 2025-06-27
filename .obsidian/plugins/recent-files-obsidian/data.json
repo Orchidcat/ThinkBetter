@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anki 高级设置",
+      "path": "ThinkBetter/Anki 高级设置.md"
+    },
+    {
       "basename": "写作",
       "path": "写作.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "不能承受的生命之轻",
       "path": "ThinkBetter/不能承受的生命之轻.md"
-    },
-    {
-      "basename": "贝叶斯思维",
-      "path": "ThinkBetter/贝叶斯思维.md"
     }
   ],
   "omittedPaths": [],
