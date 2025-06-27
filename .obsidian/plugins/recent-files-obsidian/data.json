@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "000 - HOME",
+      "path": "ThinkBetter/000 - HOME.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Obsidian 的本地 Rest API：交互式 API 文档",
       "path": "Obsidian 的本地 Rest API：交互式 API 文档.md"
-    },
-    {
-      "basename": "Charts & Diagrams - Bulk Reef Supply",
-      "path": "Charts & Diagrams - Bulk Reef Supply.md"
-    },
-    {
-      "basename": "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应",
-      "path": "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md"
     }
   ],
   "omittedPaths": [],
