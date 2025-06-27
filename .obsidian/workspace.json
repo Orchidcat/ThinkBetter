@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
+                "file": "ThinkBetter/学习方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workbench"
+              "title": "学习方法"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
+                "file": "ThinkBetter/学习方法.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Workbench 的大纲"
+              "title": "学习方法 的大纲"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThinkBetter/Workbench.md",
+                "file": "ThinkBetter/学习方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Workbench 的反向链接列表"
+              "title": "学习方法 的反向链接列表"
             }
           }
         ],
@@ -198,9 +198,9 @@
   },
   "active": "9433e72227078e55",
   "lastOpenFiles": [
+    "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/000 - HOME.md",
-    "ThinkBetter/Workbench.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/了凡四训.md",
