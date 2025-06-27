@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "深入理解Java虚拟机",
+      "path": "ThinkBetter/Books/深入理解Java虚拟机.md"
+    },
+    {
       "basename": "Template - 日记",
       "path": "ThinkBetter/Templates/Template - 日记.md"
     },
@@ -26,7 +30,7 @@
     },
     {
       "basename": "how i organize my everything in obsidian",
-      "path": "Excalidraw/example/how i organize my everything in obsidian.excalidraw"
+      "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
     },
     {
       "basename": "2025-06-20",
@@ -38,27 +42,27 @@
     },
     {
       "basename": "Image Library",
-      "path": "Excalidraw/Library/Image Library.md"
+      "path": "ThinkBetter/Excalidraw/Library/Image Library.md"
     },
     {
       "basename": "BASB Book on a Page",
-      "path": "Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
     },
     {
       "basename": "Drawing 2025-06-24 08.26.43.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md"
     },
     {
       "basename": "Drawing 2025-06-23 12.54.25.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md"
     },
     {
       "basename": "The Reading Time Flow.excalidraw",
-      "path": "Excalidraw/The Reading Time Flow.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/The Reading Time Flow.excalidraw.md"
     },
     {
       "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn - 阅读.md"
+      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
     {
       "basename": "工具箱",
@@ -90,11 +94,11 @@
     },
     {
       "basename": "BoaP - Atomic Habits",
-      "path": "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
     },
     {
       "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
     },
     {
       "basename": "how we learn - Summary",
@@ -106,7 +110,7 @@
     },
     {
       "basename": "遗忘.excalidraw",
-      "path": "Excalidraw/Library/遗忘.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Library/遗忘.excalidraw.md"
     },
     {
       "basename": "how we learn - 阅读黄金比例.excalidraw",
@@ -114,23 +118,23 @@
     },
     {
       "basename": "噪声",
-      "path": "ThinkBetter/Book/噪声.md"
+      "path": "ThinkBetter/Books/噪声.md"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
-      "path": "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
     },
     {
       "basename": "remember.excalidraw",
-      "path": "Excalidraw/Library/remember.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Library/remember.excalidraw.md"
     },
     {
       "basename": "现代野人.excalidraw",
-      "path": "Excalidraw/Library/现代野人.excalidraw.md"
+      "path": "ThinkBetter/Excalidraw/Library/现代野人.excalidraw.md"
     },
     {
       "basename": "000 sketchNoting a Book on a Page",
-      "path": "Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
+      "path": "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
     {
       "basename": "Location added on 2025-06-19T11-38",
@@ -182,7 +186,7 @@
     },
     {
       "basename": "diagrams matter for PKM",
-      "path": "Excalidraw/example/diagrams matter for PKM.excalidraw"
+      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
     },
     {
       "basename": "GTD",
@@ -195,10 +199,6 @@
     {
       "basename": "box",
       "path": "box.png"
-    },
-    {
-      "basename": "Digital Minimalism",
-      "path": "ThinkBetter/Books/Digital Minimalism.md"
     }
   ],
   "omittedPaths": [],

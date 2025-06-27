@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Templates/Template - 日记.md",
+                "file": "ThinkBetter/Books/深入理解Java虚拟机.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Template - 日记"
+              "title": "深入理解Java虚拟机"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 458.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -169,24 +169,24 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fc6a1bf84d90e15f",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - 文章.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - Bike.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
-    "Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/DailyNotes/2025-06-20.md",
     "未命名 7.md",
-    "Excalidraw/Library/Image Library.md",
-    "Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
-    "Excalidraw/The Reading Time Flow.excalidraw.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
+    "ThinkBetter/Excalidraw/Library/Image Library.md",
+    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "ThinkBetter/Excalidraw/Drawing 2025-06-24 08.26.43.excalidraw.md",
+    "ThinkBetter/Excalidraw/Drawing 2025-06-23 12.54.25.excalidraw.md",
+    "ThinkBetter/Excalidraw/The Reading Time Flow.excalidraw.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "工具箱.md",
     "ThinkBetter/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/Books/how we learn/how we learn - Boap.md",
@@ -195,14 +195,14 @@
     "ThinkBetter/一句话的玩味.md",
     "Pasted Image 20250624082714_213.png",
     "ThinkBetter/人纪/+Home.md",
-    "Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/人纪/未命名",
-    "Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
+    "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
     "ThinkBetter/DailyNotes/2025-06-23.md",
-    "Excalidraw/Library/遗忘.excalidraw.md",
+    "ThinkBetter/Excalidraw/Library/遗忘.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
-    "Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Pasted Image 20250619161311_888.png",
     "Pasted image 20250619155059.png",
     "ThinkBetter/Books/how we learn",
@@ -213,10 +213,10 @@
     "Pasted image 20250619132946.png",
     "Pasted image 20250619132655.png",
     "Pasted image 20250619132351.png",
-    "Excalidraw/Library",
-    "Excalidraw/example/diagrams matter for PKM.excalidraw",
-    "Excalidraw/example",
-    "Excalidraw/wardley-mapping-canvas.excalidrawlib",
+    "ThinkBetter/Excalidraw/Library",
+    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
+    "ThinkBetter/Excalidraw/example",
+    "ThinkBetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
