@@ -11,10 +11,12 @@
             "id": "c1673a7afb830369",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241107083709.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241107083709"
             }
           }
         ]
@@ -105,12 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pasted image 20241107083709.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Pasted image 20241107083709 的大纲"
             }
           },
           {
@@ -133,7 +136,8 @@
               "title": "Smart Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,8 +165,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c1673a7afb830369",
+  "active": "d3367a810dcb05d3",
   "lastOpenFiles": [
+    "ThinkBetter/Kanban MOC.md",
+    "ThinkBetter/事件timing.md",
     "ThinkBetter/Articles/人，永远有选择自己态度的自由.md",
     "ThinkBetter/Articles",
     "ThinkBetter/Questions.md",
@@ -190,10 +196,8 @@
     "What is Visual PKM and Why Should You Care.md",
     "Pasted Image 20250618104501_614.png",
     "工具箱.md",
-    "文件组织的5种方法.md",
     "box.png",
     "Icon - improve understanding, broaden perspective, know more - by Flaticons.png",
-    "未命名 6.md",
     "Pasted Image 20250624082714_213.png",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/人体流转.canvas",
