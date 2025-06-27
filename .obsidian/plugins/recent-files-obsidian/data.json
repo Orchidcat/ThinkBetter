@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "+HomeMOC",
+      "path": "ThinkBetter/+HomeMOC.md"
+    },
+    {
       "basename": "2025-06-27",
       "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "不对称性",
       "path": "ThinkBetter/不对称性.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "ThinkBetter/笔记方法.md"
     }
   ],
   "omittedPaths": [],
