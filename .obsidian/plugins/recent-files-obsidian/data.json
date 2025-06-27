@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "how minds change",
+      "path": "ThinkBetter/Books/how minds change.md"
+    },
+    {
+      "basename": "000 - HOME",
+      "path": "ThinkBetter/000 - HOME.md"
+    },
+    {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
     },
     {
       "basename": "2024-04-10",
       "path": "ThinkBetter/DailyNotes/2024-04-10.md"
-    },
-    {
-      "basename": "000 - HOME",
-      "path": "ThinkBetter/000 - HOME.md"
     },
     {
       "basename": "Workbench",
@@ -195,10 +199,6 @@
     {
       "basename": "excalibrain",
       "path": "excalibrain.md"
-    },
-    {
-      "basename": "diagrams matter for PKM",
-      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
     }
   ],
   "omittedPaths": [],

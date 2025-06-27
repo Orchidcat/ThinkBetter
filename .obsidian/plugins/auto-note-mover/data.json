@@ -12,6 +12,11 @@
       "folder": "ThinkBetter/Books",
       "tag": "#book",
       "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
