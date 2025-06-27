@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "how to live",
+      "path": "how to live.md"
+    },
+    {
+      "basename": "Heap",
+      "path": "Heap.md"
+    },
+    {
+      "basename": "final message from Steve jobs",
+      "path": "ThinkBetter/Books/final message from Steve jobs.md"
+    },
+    {
       "basename": "Excel 2019 数据处理",
       "path": "Excel 2019 数据处理.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "000 - HOME",
       "path": "ThinkBetter/000 - HOME.md"
-    },
-    {
-      "basename": "了凡四训",
-      "path": "ThinkBetter/Books/了凡四训.md"
-    },
-    {
-      "basename": "2024-04-17",
-      "path": "ThinkBetter/DailyNotes/2024-04-17.md"
-    },
-    {
-      "basename": "搞定I",
-      "path": "ThinkBetter/Books/搞定I.md"
     }
   ],
   "omittedPaths": [],

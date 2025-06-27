@@ -1,4 +1,4 @@
-
+#book
 [[一个瑜伽行者的自传]]
 
 参考：[Steve Jobs’ Final Message to the World Is Not What You Think | by Pam Lilak | Know Thyself, Heal Thyself | Medium](https://medium.com/know-thyself-heal-thyself/steve-jobs-final-message-to-the-world-is-not-what-you-think-e0e154e5e86b)
