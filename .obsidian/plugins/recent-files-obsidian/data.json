@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "选择好书",
+      "path": "ThinkBetter/选择好书.md"
+    },
+    {
+      "basename": "胸痹",
+      "path": "ThinkBetter/胸痹.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
+    },
+    {
+      "basename": "五号屠场",
+      "path": "ThinkBetter/Books/五号屠场.md"
+    },
+    {
+      "basename": "温病本气篇",
+      "path": "ThinkBetter/人纪/温病本气篇.md"
+    },
+    {
       "basename": "外语",
       "path": "ThinkBetter/外语.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "惯性",
       "path": "惯性.md"
-    },
-    {
-      "basename": "合病",
-      "path": "ThinkBetter/人纪/合病.md"
-    },
-    {
-      "basename": "太阳病证",
-      "path": "ThinkBetter/人纪/太阳病证.md"
-    },
-    {
-      "basename": "寒滞肝脉证",
-      "path": "ThinkBetter/人纪/寒滞肝脉证.md"
-    },
-    {
-      "basename": "太阴病证",
-      "path": "ThinkBetter/人纪/太阴病证.md"
-    },
-    {
-      "basename": "少阴病证",
-      "path": "ThinkBetter/人纪/少阴病证.md"
     }
   ],
   "omittedPaths": [],
