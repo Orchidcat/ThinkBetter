@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "能力圈",
+      "path": "ThinkBetter/能力圈.md"
+    },
+    {
+      "basename": "项目 MOC",
+      "path": "ThinkBetter/项目 MOC.md"
+    },
+    {
+      "basename": "心智模型 TOC",
+      "path": "ThinkBetter/心智模型 TOC.md"
+    },
+    {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon",
       "path": "Icon - knowledge in books, book light bulb - by Freepik, Flaticon.png"
-    },
-    {
-      "basename": "Icon - librarian, archivist - by Freepik, Flaticons",
-      "path": "Icon - librarian, archivist - by Freepik, Flaticons.png"
-    },
-    {
-      "basename": "反直觉",
-      "path": "反直觉.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
     }
   ],
   "omittedPaths": [],
