@@ -5,6 +5,6 @@ date:
 link: 
 ---
 
-[[+Home]]-[[Books]]
+[[+Home]]-[[_ MOC - Books]]
 
 # {{title}}

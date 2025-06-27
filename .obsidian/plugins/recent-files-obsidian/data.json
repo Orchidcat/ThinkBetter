@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/如何阅读的方法.md"
+    },
+    {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
-    },
-    {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
     },
     {
       "basename": "一句话的玩味",
@@ -195,10 +199,6 @@
     {
       "basename": "消渴",
       "path": "ThinkBetter/人纪/消渴.md"
-    },
-    {
-      "basename": "督脉",
-      "path": "ThinkBetter/人纪/督脉.md"
     }
   ],
   "omittedPaths": [],
