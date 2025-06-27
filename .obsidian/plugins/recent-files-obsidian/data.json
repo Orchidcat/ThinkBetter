@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
+      "basename": "how we learn - 阅读",
+      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
+    },
+    {
       "basename": "深入理解Java虚拟机",
       "path": "ThinkBetter/Books/深入理解Java虚拟机.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Template - 心智模型",
       "path": "ThinkBetter/Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
     },
     {
       "basename": "2025-06-27",
@@ -59,10 +67,6 @@
     {
       "basename": "The Reading Time Flow.excalidraw",
       "path": "ThinkBetter/Excalidraw/The Reading Time Flow.excalidraw.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
     {
       "basename": "工具箱",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 6",
       "path": "未命名 6.md"
-    },
-    {
-      "basename": "box",
-      "path": "box.png"
     }
   ],
   "omittedPaths": [],
