@@ -5,6 +5,10 @@
       "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
     {
+      "basename": "000 - HOME",
+      "path": "ThinkBetter/000 - HOME.md"
+    },
+    {
       "basename": "Anki 高级设置",
       "path": "ThinkBetter/Anki 高级设置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "ThinkBetter/笔记方法.md"
-    },
-    {
-      "basename": "2024-03-29",
-      "path": "ThinkBetter/DailyNotes/2024-03-29.md"
     }
   ],
   "omittedPaths": [],
