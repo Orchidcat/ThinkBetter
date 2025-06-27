@@ -11,10 +11,15 @@
             "id": "c6f89e42636e80f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/学习方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "学习方法"
             }
           }
         ]
@@ -166,6 +171,8 @@
   },
   "active": "c6f89e42636e80f7",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2024-04-10.md",
+    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
@@ -191,12 +198,10 @@
     "skin in the game.md",
     "ThinkBetter/一句话的玩味.md",
     "Pasted Image 20250624082714_213.png",
-    "ThinkBetter/人纪/+Home.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/人纪/未命名",
     "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Books/how we learn/how we learn - Summary.md",
-    "ThinkBetter/DailyNotes/2025-06-23.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Pasted Image 20250619161311_888.png",
     "Pasted image 20250619155059.png",
