@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "make it stick",
+      "path": "ThinkBetter/Books/make it stick.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/写点儿啥.md"
+    },
+    {
+      "basename": "Kanban MOC",
+      "path": "ThinkBetter/Kanban MOC.md"
+    },
+    {
+      "basename": "事件timing",
+      "path": "ThinkBetter/事件timing.md"
+    },
+    {
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/如何阅读的方法.md"
+    },
+    {
+      "basename": "何以为父：影响彼此一生的父子关系",
+      "path": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/学习方法.md"
+    },
+    {
+      "basename": "Books",
+      "path": "ThinkBetter/Books.md"
+    },
+    {
       "basename": "反脆弱",
-      "path": "ThinkBetter/反脆弱.md"
+      "path": "ThinkBetter/Books/反脆弱.md"
     },
     {
       "basename": "_MOC - 100种心智模型",
@@ -157,10 +189,6 @@
       "path": "ThinkBetter/000 - HOME.md"
     },
     {
-      "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
-    },
-    {
       "basename": "2024-04-10",
       "path": "ThinkBetter/DailyNotes/2024-04-10.md"
     },
@@ -169,36 +197,8 @@
       "path": "ThinkBetter/Workbench.md"
     },
     {
-      "basename": "Books",
-      "path": "ThinkBetter/Books.md"
-    },
-    {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
-    },
-    {
-      "basename": "深入理解Java虚拟机",
-      "path": "ThinkBetter/Books/深入理解Java虚拟机.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Template - 文章",
-      "path": "ThinkBetter/Templates/Template - 文章.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "ThinkBetter/Templates/Template - 读书.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "ThinkBetter/Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "how i organize my everything in obsidian",
-      "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
     }
   ],
   "omittedPaths": [],
