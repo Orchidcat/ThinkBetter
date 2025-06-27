@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/000 - HOME.md",
+                "file": "ThinkBetter/Workbench.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "000 - HOME"
+              "title": "Workbench"
             }
           }
         ]
@@ -119,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/000 - HOME.md",
+                "file": "ThinkBetter/Workbench.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "000 - HOME 的大纲"
+              "title": "Workbench 的大纲"
             }
           },
           {
@@ -146,25 +137,6 @@
               "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "0296a951bdd5398c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ThinkBetter/000 - HOME.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "000 - HOME 的反向链接列表"
             }
           }
         ],
@@ -198,10 +170,10 @@
   },
   "active": "9433e72227078e55",
   "lastOpenFiles": [
+    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/Books.md",
-    "ThinkBetter/000 - HOME.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/了凡四训.md",
     "ThinkBetter/DailyNotes/2024-04-17.md",
