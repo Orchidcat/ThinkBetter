@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a719bb64bc14402",
+        "id": "d667a1745ef51b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "8e34455148eb0ac9",
+            "id": "5685d1b6f3f372fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/+HomeMOC.md",
+                "file": "ThinkBetter/DailyNotes/2025-06-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "+HomeMOC"
-            }
-          },
-          {
-            "id": "47b6382f3f93ab69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/000 - HOME.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "000 - HOME"
+              "title": "2025-06-27"
             }
           }
         ]
@@ -56,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -183,10 +168,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8e34455148eb0ac9",
+  "active": "5685d1b6f3f372fb",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/000 - HOME.md",
+    "ThinkBetter/+HomeMOC.md",
+    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Anki 高级设置.md",
     "ThinkBetter/+Home.md",
     "写作.md",
@@ -210,7 +196,6 @@
     "ThinkBetter/血分.md",
     "ThinkBetter/学习迁移.md",
     "ThinkBetter/学习方法.md",
-    "ThinkBetter/选择好书.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
