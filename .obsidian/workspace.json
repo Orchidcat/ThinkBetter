@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f803c8be4eb5b20",
+        "id": "b6b44376a709136e",
         "type": "tabs",
         "children": [
           {
-            "id": "3a72717986d75481",
+            "id": "3d12cce47100b8f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Hobbies/bike/Wheel Size.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Wheel Size"
             }
           }
         ]
@@ -165,6 +170,11 @@
   },
   "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/bike",
+    "ThinkBetter/Hobbies/coral",
+    "ThinkBetter/Books/愤怒的葡萄.md",
+    "ThinkBetter/Books/杀死一只知更鸟.md",
+    "ThinkBetter/目标 MOC.md",
     "ThinkBetter/Books/真正的天才：约翰·巴丁的生平与学术.md",
     "ThinkBetter/Books/美国华人史.md",
     "ThinkBetter/人纪/古方上篇.md",
@@ -199,10 +209,6 @@
     "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/DailyNotes/2025-06-30.md",
     "ThinkBetter/000 - HOME.md",
-    "ThinkBetter/DailyNotes/2022-06-10.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
-    "ThinkBetter/事件timing.md",
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
@@ -213,7 +219,6 @@
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
-    "ThinkBetter/人纪/未命名",
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+    "ThinkBetter/人纪/未命名"
   ]
 }

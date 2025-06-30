@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Wheel Size",
+      "path": "ThinkBetter/Hobbies/bike/Wheel Size.md"
+    },
+    {
+      "basename": "愤怒的葡萄",
+      "path": "ThinkBetter/Books/愤怒的葡萄.md"
+    },
+    {
       "basename": "杀死一只知更鸟",
-      "path": "ThinkBetter/杀死一只知更鸟.md"
+      "path": "ThinkBetter/Books/杀死一只知更鸟.md"
     },
     {
       "basename": "真正的天才：约翰·巴丁的生平与学术",
@@ -191,14 +199,6 @@
     {
       "basename": "生命宇宙篇",
       "path": "ThinkBetter/生命宇宙篇.md"
-    },
-    {
-      "basename": "河图洛书",
-      "path": "ThinkBetter/人纪/河图洛书.md"
-    },
-    {
-      "basename": "好的作品",
-      "path": "ThinkBetter/好的作品.md"
     }
   ],
   "omittedPaths": [],
