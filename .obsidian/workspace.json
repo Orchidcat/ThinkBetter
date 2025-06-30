@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc9a72c2ac08c96",
+        "id": "e1c1a4164127ed54",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebc2bdf6f652c44",
+            "id": "f85dab1dbc4f7d4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ThinkBetter/伤寒论六经原文读法篇.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/人体流转.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "伤寒论六经原文读法篇"
+              "icon": "lucide-layout-dashboard",
+              "title": "人体流转"
             }
           }
         ]
@@ -168,9 +170,26 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5ebc2bdf6f652c44",
+  "active": "f85dab1dbc4f7d4f",
   "lastOpenFiles": [
+    "ThinkBetter/test.md",
+    "ThinkBetter/mindmap.md",
+    "ThinkBetter/科举.md",
+    "ThinkBetter/记忆框架的建立.md",
+    "ThinkBetter/人纪/天干地支.md",
+    "ThinkBetter/解表药.md",
+    "ThinkBetter/人纪/扶桑丸.md",
+    "ThinkBetter/拖延.md",
+    "ThinkBetter/SeizeTheDay.md",
+    "ThinkBetter/Just Do it - 2024.md",
+    "ThinkBetter/我们是如何衡量学会没有的.md",
+    "ThinkBetter/stackoverflow Database.md",
     "ThinkBetter/如何荒废？.md",
+    "ThinkBetter/钢铁是怎样练成的.md",
+    "ThinkBetter/人纪/药性提纲篇.md",
+    "ThinkBetter/人纪/儿病本气篇.md",
+    "ThinkBetter/人纪/时病本气篇.md",
+    "ThinkBetter/人纪/伤寒论六经原文读法篇.md",
     "ThinkBetter/人纪/生命宇宙篇.md",
     "ThinkBetter/人纪/伤寒读法总纲.md",
     "ThinkBetter/人纪/脉法篇.md",
@@ -179,25 +198,8 @@
     "ThinkBetter/人纪/舌苔篇.md",
     "ThinkBetter/Books/American Steel.md",
     "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
-    "ThinkBetter/没有理解的信息是危险的.md",
-    "ThinkBetter/Hobbies/bike/Actual Top tube length.md",
-    "ThinkBetter/Hobbies/bike/ChainStay.md",
-    "ThinkBetter/Hobbies/bike/Axle Spacing.md",
-    "ThinkBetter/Hobbies/bike/BB Drop.md",
-    "ThinkBetter/Hobbies/bike/BB Height.md",
-    "ThinkBetter/Hobbies/bike/BB Type（Bottom Bracket Type）.md",
-    "ThinkBetter/Hobbies/bike/Crank Length.md",
-    "ThinkBetter/Hobbies/bike/Bike MOC.md",
-    "ThinkBetter/Hobbies/bike/Wheel Size.md",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
-    "ThinkBetter/Books/愤怒的葡萄.md",
-    "ThinkBetter/Books/杀死一只知更鸟.md",
-    "ThinkBetter/目标 MOC.md",
-    "ThinkBetter/Books/真正的天才：约翰·巴丁的生平与学术.md",
-    "ThinkBetter/Books/美国华人史.md",
-    "ThinkBetter/人纪/古方上篇.md",
-    "ThinkBetter/人纪/圆运动的古中医学.md",
     "ThinkBetter/new Canvas.canvas",
     "ThinkBetter/Work",
     "Pasted image 20250619155059.png",
