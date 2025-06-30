@@ -11,12 +11,15 @@
             "id": "a005b143f09c63d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241206095437.png"
+                "file": "ThinkBetter/Books/100种心智模型/框架.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241206095437"
+              "icon": "lucide-file",
+              "title": "框架"
             }
           }
         ]
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#心智模型",
+                "query": "Pasted image",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +75,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,8 +169,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a005b143f09c63d0",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/sources",
+    "Pasted image 20241206095437.png",
     "Pasted image 20241206095603.png",
     "Pasted image 20241206102637.png",
     "Pasted image 20241220105555.png",
@@ -177,8 +183,6 @@
     "Pasted image 20241220141330.png",
     "惯性.md",
     "Pasted image 20241107091458.png",
-    "Pasted image 20241128131721.png",
-    "Pasted image 20241115134112.png",
     "ThinkBetter/书的一种分类（理论或实用）.md",
     "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/史蒂夫·乔布斯.md",
