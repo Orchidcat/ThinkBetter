@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
+      "basename": "工具箱",
+      "path": "ThinkBetter/Inbox/工具箱.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "2025-06-27",
       "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
     },
     {
       "basename": "Pi - Reef Monitor System",
@@ -39,10 +47,6 @@
     {
       "basename": "2024-04-29",
       "path": "ThinkBetter/Inbox/2024-04-29.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "10个写作的技巧",
@@ -195,10 +199,6 @@
     {
       "basename": "Icon - colorful funnel - by Freepik, Flaticon",
       "path": "ThinkBetter/Excalidraw/Img/Icon - colorful funnel - by Freepik, Flaticon.png"
-    },
-    {
-      "basename": "Icon - cargo, container, truck, unloading - by Icongeek26, Flaticon",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - cargo, container, truck, unloading - by Icongeek26, Flaticon.png"
     }
   ],
   "omittedPaths": [],
