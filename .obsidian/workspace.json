@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "ThinkBetter/Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,15 +261,15 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "9d2265e811fbeedb",
+  "active": "59709cdbf6af6014",
   "lastOpenFiles": [
+    "ThinkBetter/Tasks.md",
+    "ThinkBetter/Templates/Template - 日记.md",
+    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Start Here.md",
-    "Tasks.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Hobbies/coral/Pi - Reef Monitor System.md",
     "ThinkBetter/Templates/Templates - 论证.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
