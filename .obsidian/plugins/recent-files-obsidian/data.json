@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "机械原理",
+      "path": "ThinkBetter/机械原理.md"
+    },
+    {
+      "basename": "灰色思维",
+      "path": "ThinkBetter/灰色思维.md"
+    },
+    {
+      "basename": "好的作品",
+      "path": "ThinkBetter/好的作品.md"
+    },
+    {
       "basename": "很棒的DIY系统01",
-      "path": "ThinkBetter/很棒的DIY系统01.md"
+      "path": "ThinkBetter/Hobbies/coral/很棒的DIY系统01.md"
     },
     {
       "basename": "初中物理基础判断",
@@ -187,18 +199,6 @@
     {
       "basename": "What is Visual PKM and Why Should You Care",
       "path": "What is Visual PKM and Why Should You Care.md"
-    },
-    {
-      "basename": "The Periodic Table of Productivity",
-      "path": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw"
-    },
-    {
-      "basename": "Pasted Image 20250619161311_888",
-      "path": "ThinkBetter/Excalidraw/Img/Pasted Image 20250619161311_888.png"
-    },
-    {
-      "basename": "The Vagabond's Way",
-      "path": "ThinkBetter/Books/The Vagabond's Way.md"
     }
   ],
   "omittedPaths": [],

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/很棒的DIY系统01.md",
+                "file": "ThinkBetter/灰色思维.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "很棒的DIY系统01"
+              "title": "灰色思维"
             }
           },
           {
@@ -214,8 +214,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/机械原理.md",
+    "ThinkBetter/灰色思维.md",
+    "ThinkBetter/好的作品.md",
+    "ThinkBetter/Hobbies/coral/很棒的DIY系统01.md",
     "ThinkBetter/初中物理基础判断.md",
     "ThinkBetter/丑陋的中国人.md",
     "ThinkBetter/Workbench.md",
@@ -250,14 +254,10 @@
     "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Books/历史的教训.md",
     "ThinkBetter/Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
-    "ThinkBetter/Books/理查德·费曼传.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
-    "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
-    "ThinkBetter/反直觉.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Books/100种心智模型/sources",
     "ThinkBetter/人体流转.canvas",
