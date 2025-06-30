@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "-BnkOuBBzxUNy1w9hVORy",
+      "name": "Book",
+      "value": "#fff6f0"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "ThinkBetter/Books",
+      "color": "-BnkOuBBzxUNy1w9hVORy"
+    }
+  ]
+}
