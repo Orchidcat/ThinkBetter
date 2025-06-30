@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +214,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c2becb12d20087f5",
+  "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-06-30.md",
     "提高思考和笔记能力的六个要点.md",
     "ThinkBetter/Workbench.md",
     "ThinkBetter/如何阅读的方法.md",
@@ -240,7 +242,6 @@
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "NumPy.md",
     "ThinkBetter/Just Do it - 2024.md",
-    "ThinkBetter/DailyNotes/2025-06-30.md",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
     "ThinkBetter/Excalidraw/Cropped",
     "ThinkBetter/Excalidraw/Img",
