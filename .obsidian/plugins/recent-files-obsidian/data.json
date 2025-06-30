@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Templates - 论证",
+      "path": "ThinkBetter/Templates/Templates - 论证.md"
+    },
+    {
+      "basename": "Template - 心智模型",
+      "path": "ThinkBetter/Templates/Template - 心智模型.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
+      "basename": "Configuration CheckList",
+      "path": "ThinkBetter/Work/Configuration CheckList.md"
+    },
+    {
+      "basename": "自旋锁",
+      "path": "ThinkBetter/Work/自旋锁.md"
+    },
+    {
+      "basename": "退避机制",
+      "path": "ThinkBetter/Work/退避机制.md"
+    },
+    {
       "basename": "2024-04-29",
       "path": "ThinkBetter/Inbox/2024-04-29.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "悉达多",
       "path": "ThinkBetter/Books/悉达多.md"
-    },
-    {
-      "basename": "纳瓦尔宝典",
-      "path": "ThinkBetter/Books/纳瓦尔宝典.md"
-    },
-    {
-      "basename": "历史的教训",
-      "path": "ThinkBetter/Books/历史的教训.md"
-    },
-    {
-      "basename": "理查德·费曼传 by 劳伦斯·M·克劳斯",
-      "path": "ThinkBetter/Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md"
-    },
-    {
-      "basename": "理查德·费曼传",
-      "path": "ThinkBetter/Books/理查德·费曼传.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "000 @ 人纪 - Map",
-      "path": "ThinkBetter/人纪/000 @ 人纪 - Map.canvas"
     }
   ],
   "omittedPaths": [],
