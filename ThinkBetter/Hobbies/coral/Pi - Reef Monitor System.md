@@ -61,24 +61,24 @@ STEP:
 	- [x] PCA9685 ✅ 2025-06-30
 	- [x] [MCP3008](https://gpiozero.readthedocs.io/en/latest/api_spi.html#gpiozero.MCP3008) ✅ 2025-06-30
 	- [x] 继电器 ✅ 2025-06-30
-	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
-	- [ ] ds18b20 测温模块
+	- [x] MCP23017或 MCP23008  可以扩展GPIO的扩展板 ✅ 2025-06-30
+	- [x] ds18b20 测温模块 ✅ 2025-06-30
 - [x] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h ✅ 2024-12-16
-- [ ] `raspinfo`  一句话获取os信息
+- [x] `raspinfo`  一句话获取os信息 ✅ 2025-06-30
 
 **软件**  [[代码实现]]
 - [x] [[RPI OS]]下载 （bullseye版本选择） ✅ 2024-12-16
 - [x] sqlitef ✅ 2024-12-16
-- [ ] Node-red
+- [x] Node-red ✅ 2025-06-30
 - [x] [[Flask]] 🛫 2024-11-28 ✅ 2024-12-16
-- [ ] Micropython
+- [x] Micropython ✅ 2025-06-30
 - [x] Thonny ✅ 2024-12-16
 - [x] pycharm ✅ 2024-12-16
-- [ ] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html)
-- [ ] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
-- [ ] 提速工具turbolinks[GitHub - turbolinks/turbolinks: Turbolinks makes navigating your web application faster](https://github.com/turbolinks/turbolinks)
-- [ ] 页面显示加载速度 [topbar by buunguyen](https://buunguyen.github.io/topbar/)
-- [ ] flask 库
+- [x] [2. Basic Recipes — gpiozero 2.0.1 Documentation](https://gpiozero.readthedocs.io/en/latest/recipes.html) ✅ 2025-06-30
+- [x] css grid [CSS Grid 网格布局教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html) ✅ 2025-06-30
+- [x] 提速工具turbolinks[GitHub - turbolinks/turbolinks: Turbolinks makes navigating your web application faster](https://github.com/turbolinks/turbolinks) ✅ 2025-06-30
+- [x] 页面显示加载速度 [topbar by buunguyen](https://buunguyen.github.io/topbar/) ✅ 2025-06-30
+- [x] flask 库 ✅ 2025-06-30
 	- [x] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) ✅ 2025-06-30
 	- [x] [[Flask-buleprint]] ✅ 2025-06-30
 	- [ ] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
