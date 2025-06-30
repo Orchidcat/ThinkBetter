@@ -10,6 +10,9 @@ rating: ⭐⭐⭐
 
 # summary
 
+# Q
+
+
 
 # Links
 [[how we learn - Summary]]

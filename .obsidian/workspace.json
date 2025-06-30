@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/Books/how we learn - 阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_ MOC - Books"
+              "title": "how we learn - 阅读"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "2025-06-30"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,12 +213,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "72532efa04d0156d",
   "lastOpenFiles": [
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/如何阅读的方法.md",
+    "为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/DailyNotes/2025-06-30.md",
     "提高思考和笔记能力的六个要点.md",
     "ThinkBetter/Workbench.md",
-    "ThinkBetter/如何阅读的方法.md",
     "ThinkBetter/如何阅读.md",
     "ThinkBetter/基本Q.md",
     "ThinkBetter/机械原理.md",
@@ -228,8 +229,6 @@
     "ThinkBetter/Hobbies/coral/很棒的DIY系统01.md",
     "ThinkBetter/初中物理基础判断.md",
     "ThinkBetter/丑陋的中国人.md",
-    "为什么视觉思维技能比以往任何时候都重要.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/学习方法.md",
     "ThinkBetter/Books/make it stick.md",
     "ThinkBetter/000 - HOME.md",
