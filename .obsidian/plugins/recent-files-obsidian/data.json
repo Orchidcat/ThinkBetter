@@ -5,6 +5,10 @@
       "path": "ThinkBetter/000 - HOME.md"
     },
     {
+      "basename": "反直觉",
+      "path": "反直觉.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "惯性",
       "path": "惯性.md"
-    },
-    {
-      "basename": "Pasted image 20241107091458",
-      "path": "Pasted image 20241107091458.png"
     }
   ],
   "omittedPaths": [],
