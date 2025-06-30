@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "10个写作的技巧",
-      "path": "ThinkBetter/10个写作的技巧.md"
+      "path": "ThinkBetter/Inbox/10个写作的技巧.md"
     },
     {
       "basename": "how we learn - 阅读",
@@ -30,11 +34,11 @@
     },
     {
       "basename": "为什么视觉思维技能比以往任何时候都重要",
-      "path": "为什么视觉思维技能比以往任何时候都重要.md"
+      "path": "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md"
     },
     {
       "basename": "如何阅读的方法",
-      "path": "ThinkBetter/如何阅读的方法.md"
+      "path": "ThinkBetter/Inbox/如何阅读的方法.md"
     },
     {
       "basename": "_ MOC - Books",
@@ -42,31 +46,31 @@
     },
     {
       "basename": "提高思考和笔记能力的六个要点",
-      "path": "提高思考和笔记能力的六个要点.md"
+      "path": "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md"
     },
     {
       "basename": "Workbench",
-      "path": "ThinkBetter/Workbench.md"
+      "path": "ThinkBetter/Inbox/Workbench.md"
     },
     {
       "basename": "如何阅读",
-      "path": "ThinkBetter/如何阅读.md"
+      "path": "ThinkBetter/Inbox/如何阅读.md"
     },
     {
       "basename": "基本Q",
-      "path": "ThinkBetter/基本Q.md"
+      "path": "ThinkBetter/Inbox/基本Q.md"
     },
     {
       "basename": "机械原理",
-      "path": "ThinkBetter/机械原理.md"
+      "path": "ThinkBetter/Inbox/机械原理.md"
     },
     {
       "basename": "灰色思维",
-      "path": "ThinkBetter/灰色思维.md"
+      "path": "ThinkBetter/Inbox/灰色思维.md"
     },
     {
       "basename": "好的作品",
-      "path": "ThinkBetter/好的作品.md"
+      "path": "ThinkBetter/Inbox/好的作品.md"
     },
     {
       "basename": "很棒的DIY系统01",
@@ -74,19 +78,15 @@
     },
     {
       "basename": "初中物理基础判断",
-      "path": "ThinkBetter/初中物理基础判断.md"
+      "path": "ThinkBetter/Inbox/初中物理基础判断.md"
     },
     {
       "basename": "学习方法",
-      "path": "ThinkBetter/学习方法.md"
+      "path": "ThinkBetter/Inbox/学习方法.md"
     },
     {
       "basename": "make it stick",
       "path": "ThinkBetter/Books/make it stick.md"
-    },
-    {
-      "basename": "000 - HOME",
-      "path": "ThinkBetter/000 - HOME.md"
     },
     {
       "basename": "_MOC - 100种心智模型",
@@ -114,11 +114,11 @@
     },
     {
       "basename": "NumPy",
-      "path": "NumPy.md"
+      "path": "ThinkBetter/Inbox/NumPy.md"
     },
     {
       "basename": "Just Do it - 2024",
-      "path": "ThinkBetter/Just Do it - 2024.md"
+      "path": "ThinkBetter/Inbox/Just Do it - 2024.md"
     },
     {
       "basename": "Icon - box with document, project folder - by iconixar, Flaticon",
@@ -126,7 +126,7 @@
     },
     {
       "basename": "how to know a person",
-      "path": "ThinkBetter/how to know a person.md"
+      "path": "ThinkBetter/Inbox/how to know a person.md"
     },
     {
       "basename": "Icon - zettelkasten, zk",
@@ -198,7 +198,7 @@
     },
     {
       "basename": "反直觉",
-      "path": "ThinkBetter/反直觉.md"
+      "path": "ThinkBetter/Inbox/反直觉.md"
     }
   ],
   "omittedPaths": [],
