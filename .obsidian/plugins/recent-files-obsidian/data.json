@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     },
     {
+      "basename": "第一性原理",
+      "path": "ThinkBetter/Books/100种心智模型/第一性原理.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "python 学习",
       "path": "ThinkBetter/Work/python 学习.md"
-    },
-    {
-      "basename": "Slow Productivity",
-      "path": "ThinkBetter/Books/Slow Productivity.md"
     }
   ],
   "omittedPaths": [],
