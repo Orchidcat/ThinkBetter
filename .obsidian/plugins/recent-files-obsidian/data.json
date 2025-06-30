@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "杀死一只知更鸟",
+      "path": "ThinkBetter/杀死一只知更鸟.md"
+    },
+    {
+      "basename": "真正的天才：约翰·巴丁的生平与学术",
+      "path": "ThinkBetter/Books/真正的天才：约翰·巴丁的生平与学术.md"
+    },
+    {
+      "basename": "美国华人史",
+      "path": "ThinkBetter/Books/美国华人史.md"
+    },
+    {
       "basename": "古方上篇",
-      "path": "ThinkBetter/古方上篇.md"
+      "path": "ThinkBetter/人纪/古方上篇.md"
+    },
+    {
+      "basename": "圆运动的古中医学",
+      "path": "ThinkBetter/人纪/圆运动的古中医学.md"
     },
     {
       "basename": "生姜",
@@ -183,22 +199,6 @@
     {
       "basename": "好的作品",
       "path": "ThinkBetter/好的作品.md"
-    },
-    {
-      "basename": "韩熙载夜宴图",
-      "path": "ThinkBetter/韩熙载夜宴图.md"
-    },
-    {
-      "basename": "击球科学",
-      "path": "ThinkBetter/Books/击球科学.md"
-    },
-    {
-      "basename": "退避机制",
-      "path": "ThinkBetter/退避机制.md"
-    },
-    {
-      "basename": "学习迁移",
-      "path": "ThinkBetter/学习迁移.md"
     }
   ],
   "omittedPaths": [],

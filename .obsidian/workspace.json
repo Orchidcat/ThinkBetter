@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "308c19df533e910d",
+        "id": "5f803c8be4eb5b20",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2dc68fbbe38542",
+            "id": "3a72717986d75481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/古方上篇.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "古方上篇"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,8 +163,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ed2dc68fbbe38542",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Books/真正的天才：约翰·巴丁的生平与学术.md",
+    "ThinkBetter/Books/美国华人史.md",
+    "ThinkBetter/人纪/古方上篇.md",
+    "ThinkBetter/人纪/圆运动的古中医学.md",
     "ThinkBetter/new Canvas.canvas",
     "ThinkBetter/生姜.md",
     "ThinkBetter/遗忘曲线.md",
@@ -204,9 +203,6 @@
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/事件timing.md",
     "ThinkBetter/Templates/Template - 日记.md",
-    "ThinkBetter/+HomeMOC.md",
-    "ThinkBetter/Anki 高级设置.md",
-    "ThinkBetter/+Home.md",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
