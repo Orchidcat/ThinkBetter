@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d215a9c6e4da41a2",
+        "id": "aecafcaa09151254",
         "type": "tabs",
         "children": [
           {
-            "id": "a005b143f09c63d0",
+            "id": "2c3e522a422763f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python 学习.md",
+                "file": "The Anxious Generation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "python 学习"
+              "title": "The Anxious Generation"
             }
           }
         ]
@@ -168,8 +168,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a005b143f09c63d0",
+  "active": "2c3e522a422763f0",
   "lastOpenFiles": [
+    "ThinkBetter/Work/Performance spool.md",
+    "ThinkBetter/Hobbies/coral/PH传感器使用相关.md",
+    "ThinkBetter/Books/Systems and Mathematics.md",
+    "ThinkBetter/Hobbies/RPI OS.md",
+    "ThinkBetter/Work/sql server 内部存储原理.md",
+    "ThinkBetter/Work/python 学习.md",
     "ThinkBetter/Books/Slow Productivity.md",
     "ThinkBetter/Hobbies/rpi zero 2w.md",
     "ThinkBetter/Work/SQLAlchemy.md",
@@ -192,7 +198,6 @@
     "ThinkBetter/Books/100种心智模型/防止忘记.md",
     "Pasted image 20250619132351.png",
     "Pasted image 20250619110205.png",
-    "ThinkBetter/Books/100种心智模型/框架.md",
     "ThinkBetter/Books/100种心智模型/sources",
     "Pasted image 20241206095437.png",
     "Pasted image 20241206095603.png",
@@ -202,11 +207,6 @@
     "Pasted image 20241220112254.png",
     "Pasted image 20241220133446.png",
     "Pasted image 20241224093957.png",
-    "惯性.md",
-    "ThinkBetter/书的一种分类（理论或实用）.md",
-    "ThinkBetter/Hobbies/bike/自行车几何学.md",
-    "ThinkBetter/史蒂夫·乔布斯.md",
-    "ThinkBetter/帕累托原则.md",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",

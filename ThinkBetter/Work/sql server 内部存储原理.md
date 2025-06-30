@@ -1,6 +1,6 @@
 https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/sql-server-storage-internals-101/
 
-#SQLServer/Internal 
+#SQLServer/Internal  #SQLServer 
 ### row
 
 行是 SQL Server 数据文件中最小的存储结构。表中的每一行都作为单独的记录存储在磁盘上。不仅表数据以记录形式存储，索引、元数据、数据库启动结构等等也以记录形式存储。不过，我们只讨论最常见、最重要的记录类型，即**数据记录**，它与索引记录的格式相同。

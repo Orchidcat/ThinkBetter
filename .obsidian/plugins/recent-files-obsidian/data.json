@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "The Anxious Generation",
+      "path": "ThinkBetter/Books/The Anxious Generation.md"
+    },
+    {
+      "basename": "Performance spool",
+      "path": "ThinkBetter/Work/Performance spool.md"
+    },
+    {
+      "basename": "PH传感器使用相关",
+      "path": "ThinkBetter/Hobbies/coral/PH传感器使用相关.md"
+    },
+    {
+      "basename": "Systems and Mathematics",
+      "path": "ThinkBetter/Books/Systems and Mathematics.md"
+    },
+    {
+      "basename": "RPI OS",
+      "path": "ThinkBetter/Hobbies/RPI OS.md"
+    },
+    {
+      "basename": "sql server 内部存储原理",
+      "path": "ThinkBetter/Work/sql server 内部存储原理.md"
+    },
+    {
       "basename": "python 学习",
-      "path": "python 学习.md"
+      "path": "ThinkBetter/Work/python 学习.md"
     },
     {
       "basename": "Slow Productivity",
@@ -175,30 +199,6 @@
     {
       "basename": "SQL Server 2000~2016 Evolution",
       "path": "ThinkBetter/Work/SQL Server 2000~2016 Evolution.md"
-    },
-    {
-      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
-      "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
-    },
-    {
-      "basename": "SQL Server 中查询执行周期",
-      "path": "ThinkBetter/Work/SQL Server 中查询执行周期.md"
-    },
-    {
-      "basename": "容易疲惫怎么办",
-      "path": "ThinkBetter/容易疲惫怎么办.md"
-    },
-    {
-      "basename": "退避机制",
-      "path": "ThinkBetter/Work/退避机制.md"
-    },
-    {
-      "basename": "QR Code 生成过程",
-      "path": "ThinkBetter/Work/QR Code 生成过程.md"
-    },
-    {
-      "basename": "Configuration CheckList",
-      "path": "ThinkBetter/Work/Configuration CheckList.md"
     }
   ],
   "omittedPaths": [],
