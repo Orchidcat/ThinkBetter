@@ -57,10 +57,10 @@ STEP:
 - [x] 硬件配件（杜邦线，OK线，面包板等） ✅ 2024-11-29    ￥16.7
 - [x] 传感器采购 ✅ 2024-12-16
 	- [x] 温度计（测试用） ✅ 2024-12-16
-- [ ] 被谈及的硬件
-	- [ ] PCA9685
-	- [ ] [MCP3008](https://gpiozero.readthedocs.io/en/latest/api_spi.html#gpiozero.MCP3008)
-	- [ ] 继电器
+- [x] 被谈及的硬件 ✅ 2025-06-30
+	- [x] PCA9685 ✅ 2025-06-30
+	- [x] [MCP3008](https://gpiozero.readthedocs.io/en/latest/api_spi.html#gpiozero.MCP3008) ✅ 2025-06-30
+	- [x] 继电器 ✅ 2025-06-30
 	- [ ] MCP23017或 MCP23008  可以扩展GPIO的扩展板
 	- [ ] ds18b20 测温模块
 - [x] 获取硬件信息， cat /proc/cpuinfo    cat /sys/firmware/devicetree/model   free -h ✅ 2024-12-16
@@ -79,14 +79,14 @@ STEP:
 - [ ] 提速工具turbolinks[GitHub - turbolinks/turbolinks: Turbolinks makes navigating your web application faster](https://github.com/turbolinks/turbolinks)
 - [ ] 页面显示加载速度 [topbar by buunguyen](https://buunguyen.github.io/topbar/)
 - [ ] flask 库
-	- [ ] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/)
-	- [ ] [[Flask-buleprint]] 
+	- [x] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) ✅ 2025-06-30
+	- [x] [[Flask-buleprint]] ✅ 2025-06-30
 	- [ ] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
-	- [ ] flask context  上下文解析；**用于跟踪代码需要执行的数据** [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/)
-	- [ ] application 以及 request context [Deep Dive into Flask's Application and Request Contexts | TestDriven.io](https://testdriven.io/blog/flask-contexts-advanced/)
-	- [ ] [flask tips](https://www.patricksoftwareblog.com/flask_tips.html)
-	- [ ] session [Sessions in Flask | TestDriven.io](https://testdriven.io/blog/flask-sessions/) 由于请求是无状态的，需要**一种方法来存储每个请求之间的数据**
-- [ ] WSGI服务器 [Gunicorn - Python WSGI HTTP Server for UNIX](https://gunicorn.org/)
+	- [x] flask context  上下文解析；**用于跟踪代码需要执行的数据** [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/) ✅ 2025-06-30
+	- [x] application 以及 request context [Deep Dive into Flask's Application and Request Contexts | TestDriven.io](https://testdriven.io/blog/flask-contexts-advanced/) ✅ 2025-06-30
+	- [x] [flask tips](https://www.patricksoftwareblog.com/flask_tips.html) ✅ 2025-06-30
+	- [x] session [Sessions in Flask | TestDriven.io](https://testdriven.io/blog/flask-sessions/) 由于请求是无状态的，需要**一种方法来存储每个请求之间的数据** ✅ 2025-06-30
+- [x] WSGI服务器 [Gunicorn - Python WSGI HTTP Server for UNIX](https://gunicorn.org/) ✅ 2025-06-30
 
 
 
@@ -96,7 +96,7 @@ STEP:
 
 
 需要解决的软件技术问题
-- [ ] #python 将数据保存在sqlite中，并将数据推送到云端（云端的选择）
+- [x] #python 将数据保存在sqlite中，并将数据推送到云端（云端的选择） ✅ 2025-06-30
 
 
 
