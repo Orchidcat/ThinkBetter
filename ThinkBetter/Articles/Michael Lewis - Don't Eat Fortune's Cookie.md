@@ -1,4 +1,4 @@
-
+#article
 ---
 tags: ['Speeches']
 desc: 运气的作用

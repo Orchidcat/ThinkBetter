@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "PB的编译过程",
+      "path": "ThinkBetter/Work/PB的编译过程.md"
+    },
+    {
+      "basename": "SMART原则",
+      "path": "ThinkBetter/SMART原则.md"
+    },
+    {
+      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
+      "path": "ThinkBetter/Articles/Michael Lewis - Don't Eat Fortune's Cookie.md"
+    },
+    {
       "basename": "Steve Jobs - 2005 stanford commencement Address",
-      "path": "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md"
+      "path": "ThinkBetter/Articles/Steve Jobs - 2005 stanford commencement Address.md"
     },
     {
       "basename": "学习迁移",
@@ -187,18 +199,6 @@
     {
       "basename": "Bike MOC",
       "path": "ThinkBetter/Hobbies/bike/Bike MOC.md"
-    },
-    {
-      "basename": "Wheel Size",
-      "path": "ThinkBetter/Hobbies/bike/Wheel Size.md"
-    },
-    {
-      "basename": "愤怒的葡萄",
-      "path": "ThinkBetter/Books/愤怒的葡萄.md"
-    },
-    {
-      "basename": "杀死一只知更鸟",
-      "path": "ThinkBetter/Books/杀死一只知更鸟.md"
     }
   ],
   "omittedPaths": [],

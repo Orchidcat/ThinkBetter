@@ -1,3 +1,4 @@
+
 S: Specific，具体的、明确的
 M: Measurable，可量化的、可度量的
 A: Attainable，可达到的、可实现的
