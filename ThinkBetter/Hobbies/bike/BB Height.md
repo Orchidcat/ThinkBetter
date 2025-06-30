@@ -7,4 +7,4 @@ attr:
 
 How far the bottom bracket is above the ground.
 
-Describes the same thing as [[BB drop]], but varies depending on tyre choice, suspension sag and other factors.
+Describes the same thing as [[BB Drop]], but varies depending on tyre choice, suspension sag and other factors.
