@@ -11,7 +11,17 @@ rating: ⭐⭐⭐
 # summary
 
 # Q
-
+```dataviewjs
+const content = dv.current().file.content;
+const matches = content.match(/^.*#Q.*$/gm);
+if (matches) {
+  for (let line of matches) {
+    dv.paragraph(line);
+  }
+} else {
+  dv.paragraph("未找到带有 #Q 的内容");
+}
+```
 
 
 # Links
