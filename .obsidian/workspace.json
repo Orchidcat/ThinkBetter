@@ -67,7 +67,8 @@
               "title": "2025-06-30"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,8 +214,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "72532efa04d0156d",
+  "active": "c2becb12d20087f5",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/如何阅读的方法.md",
     "为什么视觉思维技能比以往任何时候都重要.md",
@@ -252,7 +254,6 @@
     "ThinkBetter/Excalidraw/Img/Icon - warehouse - by Freepik, Flaticons.png",
     "ThinkBetter/Excalidraw/Img/Icon - wastebin, trash, garbage - by dDara, Flaticon.png",
     "ThinkBetter/Excalidraw/Img/Icon - colorful funnel - by Freepik, Flaticon.png",
-    "ThinkBetter/Books/悉达多.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
