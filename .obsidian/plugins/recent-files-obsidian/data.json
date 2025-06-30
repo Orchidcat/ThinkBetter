@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
       "basename": "Templates - 论证",
       "path": "ThinkBetter/Templates/Templates - 论证.md"
     },
     {
       "basename": "Template - 心智模型",
       "path": "ThinkBetter/Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
     },
     {
       "basename": "Configuration CheckList",
@@ -195,10 +199,6 @@
     {
       "basename": "Icon - brain lightbulb, idea - by DinosoftLabs, Flaticon",
       "path": "ThinkBetter/Excalidraw/Img/Icon - brain lightbulb, idea - by DinosoftLabs, Flaticon.png"
-    },
-    {
-      "basename": "悉达多",
-      "path": "ThinkBetter/Books/悉达多.md"
     }
   ],
   "omittedPaths": [],
