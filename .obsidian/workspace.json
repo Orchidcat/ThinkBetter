@@ -52,7 +52,8 @@
               "title": "Workbench"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +199,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "72532efa04d0156d",
+  "active": "6134dd9cf374a08f",
   "lastOpenFiles": [
-    "ThinkBetter/Workbench.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/学习方法.md",
+    "ThinkBetter/Workbench.md",
     "ThinkBetter/Books/make it stick.md",
     "ThinkBetter/000 - HOME.md",
     "ThinkBetter/10个写作的技巧.md",
