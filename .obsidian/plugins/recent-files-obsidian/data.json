@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Configuration CheckList",
+      "path": "ThinkBetter/Configuration CheckList.md"
+    },
+    {
+      "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
+      "path": "ThinkBetter/Work/PREEMPTIVE_OS_GETPROCADDRESS.md"
+    },
+    {
+      "basename": "愚蠢的来源",
+      "path": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md"
+    },
+    {
       "basename": "活法",
-      "path": "ThinkBetter/活法.md"
+      "path": "ThinkBetter/Books/活法.md"
     },
     {
       "basename": "颜色的区分",
@@ -187,18 +199,6 @@
     {
       "basename": "生命宇宙篇",
       "path": "ThinkBetter/人纪/生命宇宙篇.md"
-    },
-    {
-      "basename": "伤寒读法总纲",
-      "path": "ThinkBetter/人纪/伤寒读法总纲.md"
-    },
-    {
-      "basename": "脉法篇",
-      "path": "ThinkBetter/人纪/脉法篇.md"
-    },
-    {
-      "basename": "肥尾曲线",
-      "path": "ThinkBetter/Books/100种心智模型/肥尾曲线.md"
     }
   ],
   "omittedPaths": [],
