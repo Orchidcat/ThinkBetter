@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10个写作的技巧",
+      "path": "ThinkBetter/10个写作的技巧.md"
+    },
+    {
+      "basename": "000 - HOME",
+      "path": "ThinkBetter/000 - HOME.md"
+    },
+    {
       "basename": "2025-06-30",
       "path": "ThinkBetter/DailyNotes/2025-06-30.md"
     },
@@ -10,7 +18,7 @@
     },
     {
       "basename": "how to know a person",
-      "path": "ThinkBetter/Excalidraw/Img/how to know a person.md"
+      "path": "ThinkBetter/how to know a person.md"
     },
     {
       "basename": "Icon - zettelkasten, zk",
@@ -74,19 +82,19 @@
     },
     {
       "basename": "BoaP - Atomic Habits",
-      "path": "ThinkBetter/Excalidraw/Img/Book on a page/BoaP - Atomic Habits.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
-      "path": "ThinkBetter/Excalidraw/Img/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
     },
     {
       "basename": "BASB Book on a Page",
-      "path": "ThinkBetter/Excalidraw/Img/Book on a page/BASB Book on a Page.excalidraw"
+      "path": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
     },
     {
       "basename": "000 sketchNoting a Book on a Page",
-      "path": "ThinkBetter/Excalidraw/Img/Book on a page/000 sketchNoting a Book on a Page.md"
+      "path": "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
     {
       "basename": "001 @MOC中医",
@@ -97,12 +105,8 @@
       "path": "ThinkBetter/人纪/000 @ 人纪 - Map.canvas"
     },
     {
-      "basename": "000 - HOME",
-      "path": "ThinkBetter/Excalidraw/Img/000 - HOME.md"
-    },
-    {
       "basename": "反直觉",
-      "path": "ThinkBetter/Excalidraw/Img/反直觉.md"
+      "path": "ThinkBetter/反直觉.md"
     },
     {
       "basename": "_ MOC - Books",
@@ -126,7 +130,7 @@
     },
     {
       "basename": "The Periodic Table of Productivity",
-      "path": "ThinkBetter/Excalidraw/Img/example/The Periodic Table of Productivity.excalidraw"
+      "path": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw"
     },
     {
       "basename": "Pasted Image 20250619161311_888",
@@ -142,7 +146,7 @@
     },
     {
       "basename": "Performance spool",
-      "path": "ThinkBetter/Excalidraw/Img/Work/Performance spool.md"
+      "path": "ThinkBetter/Work/Performance spool.md"
     },
     {
       "basename": "PH传感器使用相关",
@@ -158,11 +162,11 @@
     },
     {
       "basename": "sql server 内部存储原理",
-      "path": "ThinkBetter/Excalidraw/Img/Work/sql server 内部存储原理.md"
+      "path": "ThinkBetter/Work/sql server 内部存储原理.md"
     },
     {
       "basename": "python 学习",
-      "path": "ThinkBetter/Excalidraw/Img/Work/python 学习.md"
+      "path": "ThinkBetter/Work/python 学习.md"
     },
     {
       "basename": "Slow Productivity",
@@ -174,7 +178,7 @@
     },
     {
       "basename": "SQLAlchemy",
-      "path": "ThinkBetter/Excalidraw/Img/Work/SQLAlchemy.md"
+      "path": "ThinkBetter/Work/SQLAlchemy.md"
     },
     {
       "basename": "充分必要条件",
@@ -195,10 +199,6 @@
     {
       "basename": "双线战争",
       "path": "ThinkBetter/Books/100种心智模型/双线战争.md"
-    },
-    {
-      "basename": "信任",
-      "path": "ThinkBetter/Books/100种心智模型/信任.md"
     }
   ],
   "omittedPaths": [],
