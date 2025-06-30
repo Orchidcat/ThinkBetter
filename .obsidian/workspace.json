@@ -26,15 +26,12 @@
             "id": "8aea7c6777fcd0bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ThinkBetter/Books/悉达多.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Icon - zettelkasten, zk.svg"
               },
-              "icon": "lucide-file",
-              "title": "悉达多"
+              "icon": "lucide-image",
+              "title": "Icon - zettelkasten, zk"
             }
           }
         ],
@@ -186,6 +183,17 @@
   },
   "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "Icon - writing a test, exam - by Freepik, Flaticons.png",
+    "Icon - willpower, mental resources - by Design Circle, Flaticons.png",
+    "Icon - wikipedia - wikipedia.org.png",
+    "Icon - warehouse - by Freepik, Flaticons.png",
+    "Icon - wastebin, trash, garbage - by dDara, Flaticon.png",
+    "Icon - colorful funnel - by Freepik, Flaticon.png",
+    "Icon - cargo, container, truck, unloading - by Icongeek26, Flaticon.png",
+    "Icon - Brainstorming - by Freepik, Flaticon.png",
+    "Icon - brain lightbulb, idea - by DinosoftLabs, Flaticon.png",
+    "Icon - box with document, project folder - by iconixar, Flaticon.png",
+    "ThinkBetter/Books/悉达多.md",
     "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Books/历史的教训.md",
     "ThinkBetter/Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
@@ -216,18 +224,7 @@
     "ThinkBetter/Work/python 学习.md",
     "ThinkBetter/Books/Slow Productivity.md",
     "ThinkBetter/Hobbies/rpi zero 2w.md",
-    "ThinkBetter/Work/SQLAlchemy.md",
-    "ThinkBetter/Books/100种心智模型/充分必要条件.md",
-    "Pasted image 20250619132351.png",
-    "Pasted image 20250619110205.png",
     "ThinkBetter/Books/100种心智模型/sources",
-    "Pasted image 20241206095437.png",
-    "Pasted image 20241206095603.png",
-    "Pasted image 20241206102637.png",
-    "Pasted image 20241220105555.png",
-    "Pasted image 20241220105603.png",
-    "Pasted image 20241220112254.png",
-    "Pasted image 20241220133446.png",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
