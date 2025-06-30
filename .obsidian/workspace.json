@@ -26,12 +26,15 @@
             "id": "8aea7c6777fcd0bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
+                "file": "ThinkBetter/Books/悉达多.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - Atomic Habits"
+              "icon": "lucide-file",
+              "title": "悉达多"
             }
           }
         ],
@@ -183,6 +186,12 @@
   },
   "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/Books/纳瓦尔宝典.md",
+    "ThinkBetter/Books/历史的教训.md",
+    "ThinkBetter/Books/理查德·费曼传 by 劳伦斯·M·克劳斯.md",
+    "ThinkBetter/Books/理查德·费曼传.md",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
@@ -209,9 +218,6 @@
     "ThinkBetter/Hobbies/rpi zero 2w.md",
     "ThinkBetter/Work/SQLAlchemy.md",
     "ThinkBetter/Books/100种心智模型/充分必要条件.md",
-    "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
-    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Books/100种心智模型/倒置.md",
     "Pasted image 20250619132351.png",
     "Pasted image 20250619110205.png",
     "ThinkBetter/Books/100种心智模型/sources",
@@ -230,9 +236,6 @@
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
-    "ThinkBetter/Articles",
-    "ThinkBetter/Map.canvas",
-    "ThinkBetter/Books/100种心智模型",
-    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
+    "ThinkBetter/Map.canvas"
   ]
 }

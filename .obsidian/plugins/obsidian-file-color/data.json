@@ -11,12 +11,17 @@
       "id": "oYrM19B-0dt5DnKxG6rUg",
       "name": "hobby",
       "value": "#209233"
+    },
+    {
+      "id": "H2XUkrsT_eKvH6WnoDBpp",
+      "name": "reading",
+      "value": "#009999"
     }
   ],
   "fileColors": [
     {
       "path": "ThinkBetter/Books",
-      "color": "-BnkOuBBzxUNy1w9hVORy"
+      "color": "H2XUkrsT_eKvH6WnoDBpp"
     },
     {
       "path": "ThinkBetter/Hobbies",
