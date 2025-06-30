@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "帕累托原则",
+      "path": "ThinkBetter/帕累托原则.md"
+    },
+    {
+      "basename": "沃伦·巴菲特",
+      "path": "ThinkBetter/沃伦·巴菲特.md"
+    },
+    {
+      "basename": "NewVersion",
+      "path": "ThinkBetter/Work/NewVersion.md"
+    },
+    {
+      "basename": "SQL Server 2000~2016 Evolution",
+      "path": "ThinkBetter/Work/SQL Server 2000~2016 Evolution.md"
+    },
+    {
+      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
+      "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
+    },
+    {
+      "basename": "SQL Server 中查询执行周期",
+      "path": "ThinkBetter/Work/SQL Server 中查询执行周期.md"
+    },
+    {
+      "basename": "容易疲惫怎么办",
+      "path": "ThinkBetter/容易疲惫怎么办.md"
+    },
+    {
+      "basename": "退避机制",
+      "path": "ThinkBetter/Work/退避机制.md"
+    },
+    {
+      "basename": "QR Code 生成过程",
+      "path": "ThinkBetter/Work/QR Code 生成过程.md"
+    },
+    {
       "basename": "Configuration CheckList",
-      "path": "ThinkBetter/Configuration CheckList.md"
+      "path": "ThinkBetter/Work/Configuration CheckList.md"
     },
     {
       "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
@@ -51,10 +87,6 @@
     {
       "basename": "latch",
       "path": "ThinkBetter/Work/latch.md"
-    },
-    {
-      "basename": "容易疲惫怎么办",
-      "path": "ThinkBetter/容易疲惫怎么办.md"
     },
     {
       "basename": "OB超链接方式列表",
@@ -167,38 +199,6 @@
     {
       "basename": "我们是如何衡量学会没有的",
       "path": "ThinkBetter/我们是如何衡量学会没有的.md"
-    },
-    {
-      "basename": "stackoverflow Database",
-      "path": "ThinkBetter/stackoverflow Database.md"
-    },
-    {
-      "basename": "如何荒废？",
-      "path": "ThinkBetter/如何荒废？.md"
-    },
-    {
-      "basename": "钢铁是怎样练成的",
-      "path": "ThinkBetter/钢铁是怎样练成的.md"
-    },
-    {
-      "basename": "药性提纲篇",
-      "path": "ThinkBetter/人纪/药性提纲篇.md"
-    },
-    {
-      "basename": "儿病本气篇",
-      "path": "ThinkBetter/人纪/儿病本气篇.md"
-    },
-    {
-      "basename": "时病本气篇",
-      "path": "ThinkBetter/人纪/时病本气篇.md"
-    },
-    {
-      "basename": "伤寒论六经原文读法篇",
-      "path": "ThinkBetter/人纪/伤寒论六经原文读法篇.md"
-    },
-    {
-      "basename": "生命宇宙篇",
-      "path": "ThinkBetter/人纪/生命宇宙篇.md"
     }
   ],
   "omittedPaths": [],

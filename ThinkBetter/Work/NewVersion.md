@@ -1,6 +1,9 @@
+#SQLServer 
+
+
 | Release | RTM (Gold, no SP) | Latest CU |
-| --- | --- | --- |
-| [![↓](data:image/gif;base64,R0lGODlhBwAJAIABAAAzzP///yH5BAEAAAEALAAAAAAHAAkAAAIMjI+Am9yhoDRRVnoKADs=)](https://sqlserverbuilds.blogspot.com/#sql2022x "SQL 2022 detail") [SQL Server 2022](https://sqlserverbuilds.blogspot.com/#sql2022x "SQL 2022 detail")
+| ------- | ----------------- | --------- |
+|         |                   |           |
 Announced
 
 SQL Server 16  

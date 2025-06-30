@@ -1,3 +1,5 @@
+#SQLServer 
+
 #SQLServer/2000
 1. New data types were added (BIGINT, SQL_VARIANT, TABLE)
 2. Instead of and for Triggers were introduced as advancement to the DDL.

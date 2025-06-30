@@ -1,4 +1,8 @@
+
+#SQLServer 
+
 SQLOS完全负责SQL Server的线程调度。
+
 在现代CPU环境中，SQLOS会为每个CPU内核分配一个scheduler程序（SOS）来进行线程管理。（4个八核cpu的机器，SQLOS将产生32个scheduler程序）
 
 ![[Pasted image 20220609150430.png]]
