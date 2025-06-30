@@ -2,4 +2,4 @@
 Tags: #DailyNotes 
 ---
 
-- [ ] 🆔 `ris:Youtube`
+- [ ] 🆔 
