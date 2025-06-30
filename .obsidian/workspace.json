@@ -124,8 +124,7 @@
               "title": "工具箱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,11 +260,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "59709cdbf6af6014",
+  "active": "72532efa04d0156d",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Tasks.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",
