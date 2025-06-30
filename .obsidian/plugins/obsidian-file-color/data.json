@@ -1,17 +1,26 @@
 {
   "cascadeColors": true,
-  "colorBackground": true,
+  "colorBackground": false,
   "palette": [
     {
       "id": "-BnkOuBBzxUNy1w9hVORy",
       "name": "Book",
       "value": "#fff6f0"
+    },
+    {
+      "id": "oYrM19B-0dt5DnKxG6rUg",
+      "name": "hobby",
+      "value": "#209233"
     }
   ],
   "fileColors": [
     {
       "path": "ThinkBetter/Books",
       "color": "-BnkOuBBzxUNy1w9hVORy"
+    },
+    {
+      "path": "ThinkBetter/Hobbies",
+      "color": "oYrM19B-0dt5DnKxG6rUg"
     }
   ]
 }
