@@ -81,7 +81,7 @@ STEP:
 - [x] flask 库 ✅ 2025-06-30
 	- [x] [Flask-DebugToolbar — Flask-DebugToolbar 0.15.1 documentation](https://flask-debugtoolbar.readthedocs.io/en/latest/) ✅ 2025-06-30
 	- [x] [[Flask-buleprint]] ✅ 2025-06-30
-	- [ ] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/)
+	- [x] flask运行view function前后的过程解释 [Site Unreachable](https://testdriven.io/blog/how-are-requests-processed-in-flask/) ✅ 2025-06-30
 	- [x] flask context  上下文解析；**用于跟踪代码需要执行的数据** [Understanding the Application and Request Contexts in Flask | TestDriven.io](https://testdriven.io/blog/flask-contexts/) ✅ 2025-06-30
 	- [x] application 以及 request context [Deep Dive into Flask's Application and Request Contexts | TestDriven.io](https://testdriven.io/blog/flask-contexts-advanced/) ✅ 2025-06-30
 	- [x] [flask tips](https://www.patricksoftwareblog.com/flask_tips.html) ✅ 2025-06-30
@@ -103,7 +103,7 @@ STEP:
 
 **前端显示**
 使用ipad 利用[VNC](https://apps.apple.com/gb/app/realvnc-viewer-remote-desktop/id352019548)显示pi的输出web页面
-- [ ] chart.js
+- [x] chart.js ✅ 2025-06-30
 参考[[apex fusion的显示]]
 [[很棒的DIY系统01]]
 [[很棒的DIY系统02]]
