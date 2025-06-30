@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aecafcaa09151254",
+        "id": "6cb1842ad8b7046b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3e522a422763f0",
+            "id": "72532efa04d0156d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "The Periodic Table of Productivity.excalidraw"
+                "file": "ThinkBetter/人纪/176 易经真的很容易.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The Periodic Table of Productivity"
+              "icon": "lucide-file",
+              "title": "176 易经真的很容易"
             }
           }
         ]
@@ -165,8 +168,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2c3e522a422763f0",
+  "active": "72532efa04d0156d",
   "lastOpenFiles": [
+    "ThinkBetter/Books/埃隆马斯克传.md",
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
+    "What is Visual PKM and Why Should You Care.md",
+    "thinking physics.md",
+    "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "Pasted Image 20250619161311_888.png",
     "ThinkBetter/Books/The Vagabond's Way.md",
     "ThinkBetter/Books/The Anxious Generation.md",
@@ -190,9 +198,6 @@
     "ThinkBetter/Books/100种心智模型/费曼学习法.md",
     "ThinkBetter/Books/100种心智模型/不对称性.md",
     "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
-    "ThinkBetter/Books/100种心智模型/学习迁移.md",
-    "ThinkBetter/Books/日瓦戈医生.md",
-    "ThinkBetter/Books/100种心智模型/热力学.md",
     "Pasted image 20250619132351.png",
     "Pasted image 20250619110205.png",
     "ThinkBetter/Books/100种心智模型/sources",
@@ -203,7 +208,6 @@
     "Pasted image 20241220105603.png",
     "Pasted image 20241220112254.png",
     "Pasted image 20241220133446.png",
-    "Pasted image 20241224093957.png",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
@@ -215,7 +219,6 @@
     "ThinkBetter/Articles",
     "ThinkBetter/Map.canvas",
     "ThinkBetter/Books/100种心智模型",
-    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
   ]
 }
