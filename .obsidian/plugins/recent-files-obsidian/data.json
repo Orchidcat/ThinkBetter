@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "python 学习",
+      "path": "python 学习.md"
+    },
+    {
+      "basename": "Slow Productivity",
+      "path": "ThinkBetter/Books/Slow Productivity.md"
+    },
+    {
       "basename": "rpi zero 2w",
-      "path": "rpi zero 2w.md"
+      "path": "ThinkBetter/Hobbies/rpi zero 2w.md"
     },
     {
       "basename": "SQLAlchemy",
@@ -191,14 +199,6 @@
     {
       "basename": "Configuration CheckList",
       "path": "ThinkBetter/Work/Configuration CheckList.md"
-    },
-    {
-      "basename": "PREEMPTIVE_OS_GETPROCADDRESS",
-      "path": "ThinkBetter/Work/PREEMPTIVE_OS_GETPROCADDRESS.md"
-    },
-    {
-      "basename": "活法",
-      "path": "ThinkBetter/Books/活法.md"
     }
   ],
   "omittedPaths": [],
