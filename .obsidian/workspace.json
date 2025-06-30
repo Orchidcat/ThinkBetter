@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,7 +184,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Books/100种心智模型/打开心智.md",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
