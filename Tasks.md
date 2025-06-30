@@ -2,7 +2,7 @@
 # video
 ```tasks
 not done
-decription includes "YouTube"
+["YouTube"]
 ```
 
 
