@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "人体流转",
-      "path": "ThinkBetter/人体流转.canvas"
+      "basename": "Steve Jobs - 2005 stanford commencement Address",
+      "path": "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md"
+    },
+    {
+      "basename": "学习迁移",
+      "path": "ThinkBetter/Books/100种心智模型/学习迁移.md"
+    },
+    {
+      "basename": "防止忘记",
+      "path": "ThinkBetter/Books/100种心智模型/防止忘记.md"
+    },
+    {
+      "basename": "com-",
+      "path": "ThinkBetter/com-.md"
+    },
+    {
+      "basename": "Anki 插件",
+      "path": "ThinkBetter/Anki 插件.md"
+    },
+    {
+      "basename": "DBCC CLEANTABLE",
+      "path": "ThinkBetter/Work/DBCC CLEANTABLE.md"
+    },
+    {
+      "basename": "如何阅读",
+      "path": "ThinkBetter/如何阅读.md"
+    },
+    {
+      "basename": "视觉信息论",
+      "path": "ThinkBetter/视觉信息论.md"
+    },
+    {
+      "basename": "不对称性",
+      "path": "ThinkBetter/Books/100种心智模型/不对称性.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "ThinkBetter/Books/100种心智模型/费曼学习法.md"
+    },
+    {
+      "basename": "解决Git 无法push 问题",
+      "path": "ThinkBetter/解决Git 无法push 问题.md"
     },
     {
       "basename": "科举",
@@ -11,6 +51,22 @@
     {
       "basename": "记忆框架的建立",
       "path": "ThinkBetter/记忆框架的建立.md"
+    },
+    {
+      "basename": "Obsidian Plugins",
+      "path": "ThinkBetter/Obsidian Plugins.md"
+    },
+    {
+      "basename": "sql server 线程",
+      "path": "ThinkBetter/Work/sql server 线程.md"
+    },
+    {
+      "basename": "sql server 缓存计划",
+      "path": "ThinkBetter/Work/sql server 缓存计划.md"
+    },
+    {
+      "basename": "防己黄芪汤",
+      "path": "ThinkBetter/人纪/防己黄芪汤.md"
     },
     {
       "basename": "天干地支",
@@ -143,62 +199,6 @@
     {
       "basename": "杀死一只知更鸟",
       "path": "ThinkBetter/Books/杀死一只知更鸟.md"
-    },
-    {
-      "basename": "真正的天才：约翰·巴丁的生平与学术",
-      "path": "ThinkBetter/Books/真正的天才：约翰·巴丁的生平与学术.md"
-    },
-    {
-      "basename": "美国华人史",
-      "path": "ThinkBetter/Books/美国华人史.md"
-    },
-    {
-      "basename": "古方上篇",
-      "path": "ThinkBetter/人纪/古方上篇.md"
-    },
-    {
-      "basename": "圆运动的古中医学",
-      "path": "ThinkBetter/人纪/圆运动的古中医学.md"
-    },
-    {
-      "basename": "生姜",
-      "path": "ThinkBetter/生姜.md"
-    },
-    {
-      "basename": "遗忘曲线",
-      "path": "ThinkBetter/遗忘曲线.md"
-    },
-    {
-      "basename": "蝇王",
-      "path": "ThinkBetter/Books/蝇王.md"
-    },
-    {
-      "basename": "升陷汤",
-      "path": "ThinkBetter/人纪/升陷汤.md"
-    },
-    {
-      "basename": "人身君火相火有先后天之分",
-      "path": "ThinkBetter/人纪/人身君火相火有先后天之分.md"
-    },
-    {
-      "basename": "脑髓神经",
-      "path": "ThinkBetter/人纪/脑髓神经.md"
-    },
-    {
-      "basename": "真实世界的脉络",
-      "path": "ThinkBetter/Books/真实世界的脉络.md"
-    },
-    {
-      "basename": "伤寒论总论",
-      "path": "ThinkBetter/人纪/伤寒论总论.md"
-    },
-    {
-      "basename": "三焦考",
-      "path": "ThinkBetter/人纪/三焦考.md"
-    },
-    {
-      "basename": "什么是自学",
-      "path": "ThinkBetter/什么是自学.md"
     }
   ],
   "omittedPaths": [],

@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c1a4164127ed54",
+        "id": "70a31e8d340818e9",
         "type": "tabs",
         "children": [
           {
-            "id": "f85dab1dbc4f7d4f",
+            "id": "eb1b82c942eafe04",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人体流转.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ThinkBetter/Steve Jobs - 2005 stanford commencement Address.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "人体流转"
+              "icon": "lucide-file",
+              "title": "Steve Jobs - 2005 stanford commencement Address"
             }
           }
         ]
@@ -170,34 +168,35 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f85dab1dbc4f7d4f",
+  "active": "eb1b82c942eafe04",
   "lastOpenFiles": [
-    "ThinkBetter/test.md",
-    "ThinkBetter/mindmap.md",
+    "ThinkBetter/Books/100种心智模型/学习迁移.md",
+    "ThinkBetter/Books/100种心智模型/防止忘记.md",
+    "ThinkBetter/健康 MOC.md",
+    "ThinkBetter/com-.md",
+    "ThinkBetter/FC_基础理论.md",
+    "ThinkBetter/Anki 插件.md",
+    "ThinkBetter/Work/DBCC CLEANTABLE.md",
+    "ThinkBetter/sqlite MOC.md",
+    "ThinkBetter/如何阅读.md",
+    "ThinkBetter/视觉信息论.md",
+    "ThinkBetter/Books/100种心智模型/不对称性.md",
+    "ThinkBetter/Books/100种心智模型/费曼学习法.md",
+    "ThinkBetter/解决Git 无法push 问题.md",
     "ThinkBetter/科举.md",
     "ThinkBetter/记忆框架的建立.md",
+    "ThinkBetter/Obsidian Plugins.md",
+    "ThinkBetter/Work/sql server 线程.md",
+    "ThinkBetter/Work/sql server 缓存计划.md",
+    "ThinkBetter/人纪/防己黄芪汤.md",
+    "ThinkBetter/人体流转.canvas",
+    "ThinkBetter/test.md",
+    "ThinkBetter/mindmap.md",
     "ThinkBetter/人纪/天干地支.md",
     "ThinkBetter/解表药.md",
     "ThinkBetter/人纪/扶桑丸.md",
     "ThinkBetter/拖延.md",
     "ThinkBetter/SeizeTheDay.md",
-    "ThinkBetter/Just Do it - 2024.md",
-    "ThinkBetter/我们是如何衡量学会没有的.md",
-    "ThinkBetter/stackoverflow Database.md",
-    "ThinkBetter/如何荒废？.md",
-    "ThinkBetter/钢铁是怎样练成的.md",
-    "ThinkBetter/人纪/药性提纲篇.md",
-    "ThinkBetter/人纪/儿病本气篇.md",
-    "ThinkBetter/人纪/时病本气篇.md",
-    "ThinkBetter/人纪/伤寒论六经原文读法篇.md",
-    "ThinkBetter/人纪/生命宇宙篇.md",
-    "ThinkBetter/人纪/伤寒读法总纲.md",
-    "ThinkBetter/人纪/脉法篇.md",
-    "ThinkBetter/Books/100种心智模型/肥尾曲线.md",
-    "ThinkBetter/人纪/伤寒理路.md",
-    "ThinkBetter/人纪/舌苔篇.md",
-    "ThinkBetter/Books/American Steel.md",
-    "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
     "ThinkBetter/new Canvas.canvas",
@@ -217,7 +216,6 @@
     "未命名.canvas",
     "ThinkBetter/Articles",
     "ThinkBetter/Map.canvas",
-    "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Books/100种心智模型",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
