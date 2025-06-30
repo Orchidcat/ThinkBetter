@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "_MOC - 100种心智模型",
+      "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
+    },
+    {
+      "basename": "心智模型 TOC",
+      "path": "ThinkBetter/Books/100种心智模型/心智模型 TOC.md"
+    },
+    {
+      "basename": "倒置",
+      "path": "ThinkBetter/Books/100种心智模型/倒置.md"
+    },
+    {
+      "basename": "双线战争",
+      "path": "ThinkBetter/Books/100种心智模型/双线战争.md"
+    },
+    {
+      "basename": "信任",
+      "path": "ThinkBetter/Books/100种心智模型/信任.md"
+    },
+    {
+      "basename": "互易性",
+      "path": "ThinkBetter/Books/100种心智模型/互易性.md"
+    },
+    {
+      "basename": "二阶思维",
+      "path": "ThinkBetter/Books/100种心智模型/二阶思维.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "ThinkBetter/Books/100种心智模型/费曼学习法.md"
+    },
+    {
+      "basename": "不对称性",
+      "path": "ThinkBetter/Books/100种心智模型/不对称性.md"
+    },
+    {
+      "basename": "愚蠢的来源",
+      "path": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md"
+    },
+    {
+      "basename": "学习迁移",
+      "path": "ThinkBetter/Books/100种心智模型/学习迁移.md"
+    },
+    {
+      "basename": "日瓦戈医生",
+      "path": "ThinkBetter/Books/日瓦戈医生.md"
+    },
+    {
+      "basename": "热力学",
+      "path": "ThinkBetter/Books/100种心智模型/热力学.md"
+    },
+    {
+      "basename": "相互保证毁灭",
+      "path": "ThinkBetter/Books/100种心智模型/相互保证毁灭.md"
+    },
+    {
+      "basename": "活化能",
+      "path": "ThinkBetter/Books/100种心智模型/活化能.md"
+    },
+    {
+      "basename": "防止忘记",
+      "path": "ThinkBetter/Books/100种心智模型/防止忘记.md"
+    },
+    {
+      "basename": "Pasted image 20250619132351",
+      "path": "Pasted image 20250619132351.png"
+    },
+    {
+      "basename": "Pasted image 20250619110205",
+      "path": "Pasted image 20250619110205.png"
+    },
+    {
       "basename": "框架",
       "path": "ThinkBetter/Books/100种心智模型/框架.md"
     },
@@ -113,10 +185,6 @@
       "path": "ThinkBetter/Work/PREEMPTIVE_OS_GETPROCADDRESS.md"
     },
     {
-      "basename": "愚蠢的来源",
-      "path": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md"
-    },
-    {
       "basename": "活法",
       "path": "ThinkBetter/Books/活法.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "秋风辞",
       "path": "ThinkBetter/秋风辞.md"
-    },
-    {
-      "basename": "韩熙载夜宴图",
-      "path": "ThinkBetter/韩熙载夜宴图.md"
-    },
-    {
-      "basename": "历史年代",
-      "path": "ThinkBetter/历史年代.md"
-    },
-    {
-      "basename": "年表",
-      "path": "ThinkBetter/年表.md"
-    },
-    {
-      "basename": "skin in the game",
-      "path": "ThinkBetter/Books/skin in the game.md"
-    },
-    {
-      "basename": "看到前线",
-      "path": "看到前线.md"
-    },
-    {
-      "basename": "latch",
-      "path": "ThinkBetter/Work/latch.md"
-    },
-    {
-      "basename": "OB超链接方式列表",
-      "path": "ThinkBetter/OB超链接方式列表.md"
-    },
-    {
-      "basename": "自旋锁",
-      "path": "ThinkBetter/Work/自旋锁.md"
-    },
-    {
-      "basename": "PB的编译过程",
-      "path": "ThinkBetter/Work/PB的编译过程.md"
-    },
-    {
-      "basename": "SMART原则",
-      "path": "ThinkBetter/SMART原则.md"
-    },
-    {
-      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
-      "path": "ThinkBetter/Articles/Michael Lewis - Don't Eat Fortune's Cookie.md"
-    },
-    {
-      "basename": "Steve Jobs - 2005 stanford commencement Address",
-      "path": "ThinkBetter/Articles/Steve Jobs - 2005 stanford commencement Address.md"
-    },
-    {
-      "basename": "学习迁移",
-      "path": "ThinkBetter/Books/100种心智模型/学习迁移.md"
-    },
-    {
-      "basename": "防止忘记",
-      "path": "ThinkBetter/Books/100种心智模型/防止忘记.md"
-    },
-    {
-      "basename": "com-",
-      "path": "ThinkBetter/com-.md"
-    },
-    {
-      "basename": "Anki 插件",
-      "path": "ThinkBetter/Anki 插件.md"
-    },
-    {
-      "basename": "DBCC CLEANTABLE",
-      "path": "ThinkBetter/Work/DBCC CLEANTABLE.md"
     }
   ],
   "omittedPaths": [],
