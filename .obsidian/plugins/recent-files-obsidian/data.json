@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "rpi zero 2w",
+      "path": "rpi zero 2w.md"
+    },
+    {
+      "basename": "SQLAlchemy",
+      "path": "ThinkBetter/Work/SQLAlchemy.md"
+    },
+    {
+      "basename": "充分必要条件",
+      "path": "ThinkBetter/Books/100种心智模型/充分必要条件.md"
+    },
+    {
       "basename": "_MOC - 100种心智模型",
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "活法",
       "path": "ThinkBetter/Books/活法.md"
-    },
-    {
-      "basename": "颜色的区分",
-      "path": "ThinkBetter/颜色的区分.md"
-    },
-    {
-      "basename": "外语",
-      "path": "ThinkBetter/外语.md"
-    },
-    {
-      "basename": "秋风辞",
-      "path": "ThinkBetter/秋风辞.md"
     }
   ],
   "omittedPaths": [],
