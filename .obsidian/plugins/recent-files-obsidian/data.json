@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "很棒的DIY系统01",
+      "path": "ThinkBetter/很棒的DIY系统01.md"
+    },
+    {
+      "basename": "初中物理基础判断",
+      "path": "ThinkBetter/初中物理基础判断.md"
+    },
+    {
       "basename": "Workbench",
       "path": "ThinkBetter/Workbench.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The Vagabond's Way",
       "path": "ThinkBetter/Books/The Vagabond's Way.md"
-    },
-    {
-      "basename": "The Anxious Generation",
-      "path": "ThinkBetter/Books/The Anxious Generation.md"
-    },
-    {
-      "basename": "Performance spool",
-      "path": "ThinkBetter/Work/Performance spool.md"
     }
   ],
   "omittedPaths": [],
