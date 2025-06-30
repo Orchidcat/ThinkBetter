@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "59709cdbf6af6014",
+  "active": "29db0406637b5527",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-06-27.md",
     "Tasks.md",
     "ThinkBetter/Hobbies/coral/Pi - Reef Monitor System.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Templates - 论证.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
