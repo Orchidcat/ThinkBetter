@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Workbench.md"
+    },
+    {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Systems and Mathematics",
       "path": "ThinkBetter/Books/Systems and Mathematics.md"
-    },
-    {
-      "basename": "RPI OS",
-      "path": "ThinkBetter/Hobbies/RPI OS.md"
     }
   ],
   "omittedPaths": [],
