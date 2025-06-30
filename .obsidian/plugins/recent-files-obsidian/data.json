@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Heap",
+      "path": "Heap.md"
+    },
+    {
+      "basename": "心肺气虚证",
+      "path": "ThinkBetter/人纪/心肺气虚证.md"
+    },
+    {
+      "basename": "心肝血虚证",
+      "path": "ThinkBetter/人纪/心肝血虚证.md"
+    },
+    {
       "basename": "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应",
-      "path": "如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md"
+      "path": "ThinkBetter/Hobbies/如何建造隔离池和 10 个常见问题解答 - 初学者指南32b - 散装珊瑚礁供应.md"
     },
     {
       "basename": "Pasted image 20250619155059",
@@ -87,10 +99,6 @@
     {
       "basename": "General Thinking Concepts",
       "path": "ThinkBetter/Books/General Thinking Concepts.md"
-    },
-    {
-      "basename": "Heap",
-      "path": "Heap.md"
     },
     {
       "basename": "how to know a person",
@@ -191,10 +199,6 @@
     {
       "basename": "清燥救肺汤",
       "path": "ThinkBetter/人纪/清燥救肺汤.md"
-    },
-    {
-      "basename": "普林斯顿大学",
-      "path": "ThinkBetter/普林斯顿大学.md"
     }
   ],
   "omittedPaths": [],
