@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/帕累托原则.md",
+                "file": "ThinkBetter/书的一种分类（理论或实用）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "帕累托原则"
+              "title": "书的一种分类（理论或实用）"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "c698852d39b746dc",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/bike/自行车几何学.md",
+    "ThinkBetter/史蒂夫·乔布斯.md",
+    "ThinkBetter/帕累托原则.md",
+    "ThinkBetter/沃伦·巴菲特.md",
     "ThinkBetter/Work/NewVersion.md",
     "ThinkBetter/Work/SQL Server 2000~2016 Evolution.md",
     "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
@@ -192,10 +196,6 @@
     "看到前线.md",
     "ThinkBetter/Work/latch.md",
     "ThinkBetter/OB超链接方式列表.md",
-    "ThinkBetter/Work/自旋锁.md",
-    "ThinkBetter/Work/PB的编译过程.md",
-    "ThinkBetter/SMART原则.md",
-    "ThinkBetter/Articles/Michael Lewis - Don't Eat Fortune's Cookie.md",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
