@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "真实世界的脉络",
+      "path": "ThinkBetter/真实世界的脉络.md"
+    },
+    {
+      "basename": "伤寒论总论",
+      "path": "ThinkBetter/人纪/伤寒论总论.md"
+    },
+    {
+      "basename": "三焦考",
+      "path": "ThinkBetter/人纪/三焦考.md"
+    },
+    {
+      "basename": "什么是自学",
+      "path": "ThinkBetter/什么是自学.md"
+    },
+    {
       "basename": "Heap",
-      "path": "Heap.md"
+      "path": "ThinkBetter/Work/Heap.md"
     },
     {
       "basename": "心肺气虚证",
@@ -183,22 +199,6 @@
     {
       "basename": "外语",
       "path": "ThinkBetter/外语.md"
-    },
-    {
-      "basename": "如何成功实验",
-      "path": "ThinkBetter/如何成功实验.md"
-    },
-    {
-      "basename": "荣气与卫气",
-      "path": "ThinkBetter/人纪/荣气与卫气.md"
-    },
-    {
-      "basename": "日瓦戈医生",
-      "path": "ThinkBetter/Books/日瓦戈医生.md"
-    },
-    {
-      "basename": "清燥救肺汤",
-      "path": "ThinkBetter/人纪/清燥救肺汤.md"
     }
   ],
   "omittedPaths": [],

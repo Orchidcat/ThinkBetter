@@ -57,6 +57,11 @@
       "folder": "ThinkBetter/Articles",
       "tag": "#article",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/Work",
+      "tag": "#SQLServer",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
