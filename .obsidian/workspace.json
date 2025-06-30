@@ -37,8 +37,7 @@
               "title": "学习方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +183,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "72532efa04d0156d",
   "lastOpenFiles": [
+    "ThinkBetter/学习方法.md",
+    "ThinkBetter/Books/make it stick.md",
     "ThinkBetter/000 - HOME.md",
     "ThinkBetter/10个写作的技巧.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
@@ -227,8 +228,6 @@
     "What is Visual PKM and Why Should You Care.md",
     "thinking physics.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
-    "ThinkBetter/Books/The Vagabond's Way.md",
-    "ThinkBetter/Books/The Anxious Generation.md",
     "ThinkBetter/Books/100种心智模型/sources",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
       "basename": "学习方法",
       "path": "ThinkBetter/学习方法.md"
+    },
+    {
+      "basename": "make it stick",
+      "path": "ThinkBetter/Books/make it stick.md"
     },
     {
       "basename": "000 - HOME",
@@ -19,10 +27,6 @@
     {
       "basename": "第一性原理",
       "path": "ThinkBetter/Books/100种心智模型/第一性原理.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "地图不是领土",
@@ -195,10 +199,6 @@
     {
       "basename": "RPI OS",
       "path": "ThinkBetter/Hobbies/RPI OS.md"
-    },
-    {
-      "basename": "sql server 内部存储原理",
-      "path": "ThinkBetter/Work/sql server 内部存储原理.md"
     }
   ],
   "omittedPaths": [],
