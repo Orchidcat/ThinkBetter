@@ -1,8 +1,8 @@
 {
   "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
-  "cropFolder": "",
-  "annotateFolder": "",
+  "cropFolder": "Excalidraw/Cropped",
+  "annotateFolder": "Excalidraw/Img",
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",

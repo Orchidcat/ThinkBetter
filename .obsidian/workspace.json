@@ -28,10 +28,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Icon - zettelkasten, zk.svg"
+                "file": "Icon - box with document, project folder - by iconixar, Flaticon.png"
               },
               "icon": "lucide-image",
-              "title": "Icon - zettelkasten, zk"
+              "title": "Icon - box with document, project folder - by iconixar, Flaticon"
             }
           }
         ],
@@ -181,8 +181,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/Cropped",
+    "ThinkBetter/Excalidraw/Img",
+    "how to know a person.md",
+    "Icon - box with document, project folder - by iconixar, Flaticon.png",
+    "Icon - zettelkasten, zk.svg",
     "Icon - writing a test, exam - by Freepik, Flaticons.png",
     "Icon - willpower, mental resources - by Design Circle, Flaticons.png",
     "Icon - wikipedia - wikipedia.org.png",
@@ -191,8 +196,6 @@
     "Icon - colorful funnel - by Freepik, Flaticon.png",
     "Icon - cargo, container, truck, unloading - by Icongeek26, Flaticon.png",
     "Icon - Brainstorming - by Freepik, Flaticon.png",
-    "Icon - brain lightbulb, idea - by DinosoftLabs, Flaticon.png",
-    "Icon - box with document, project folder - by iconixar, Flaticon.png",
     "ThinkBetter/Books/悉达多.md",
     "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Books/历史的教训.md",
@@ -213,7 +216,6 @@
     "What is Visual PKM and Why Should You Care.md",
     "thinking physics.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
-    "Pasted Image 20250619161311_888.png",
     "ThinkBetter/Books/The Vagabond's Way.md",
     "ThinkBetter/Books/The Anxious Generation.md",
     "ThinkBetter/Work/Performance spool.md",
@@ -223,7 +225,6 @@
     "ThinkBetter/Work/sql server 内部存储原理.md",
     "ThinkBetter/Work/python 学习.md",
     "ThinkBetter/Books/Slow Productivity.md",
-    "ThinkBetter/Hobbies/rpi zero 2w.md",
     "ThinkBetter/Books/100种心智模型/sources",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
@@ -231,7 +232,6 @@
     "ThinkBetter/new Canvas.canvas",
     "ThinkBetter/Work",
     "ThinkBetter/Hobbies",
-    "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
     "ThinkBetter/Map.canvas"
   ]
