@@ -11,5 +11,5 @@ Very useful for gauging how long a bike feels. **整成长短的设定**
 
 In mountain biking, reach has been lengthening as stems get shorter and bars wider, giving a more stable ride at speed.
 
-Little-known fact: the more spacers you run under your stem, the shorter your 'effective' reach becomes (because of the [[head tube]] angle). As a rule of thumb, each 10mm spacer reduces the effective reach by about 3-4mm.
+Little-known fact: the more spacers you run under your stem, the shorter your 'effective' reach becomes (because of the [[Head Tube]] angle). As a rule of thumb, each 10mm spacer reduces the effective reach by about 3-4mm.
 
