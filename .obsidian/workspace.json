@@ -109,8 +109,7 @@
               "title": "BoaP - How to Take Smart Notes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,16 +214,6 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "17fc84350c395fbb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
           }
         ],
         "currentTab": 2
@@ -256,7 +245,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "9d2265e811fbeedb",
+  "active": "72532efa04d0156d",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "Tasks.md",
