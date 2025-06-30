@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "skin in the game",
+      "path": "ThinkBetter/Books/skin in the game.md"
+    },
+    {
+      "basename": "看到前线",
+      "path": "看到前线.md"
+    },
+    {
+      "basename": "latch",
+      "path": "ThinkBetter/Work/latch.md"
+    },
+    {
+      "basename": "容易疲惫怎么办",
+      "path": "ThinkBetter/容易疲惫怎么办.md"
+    },
+    {
+      "basename": "OB超链接方式列表",
+      "path": "ThinkBetter/OB超链接方式列表.md"
+    },
+    {
+      "basename": "自旋锁",
+      "path": "ThinkBetter/Work/自旋锁.md"
+    },
+    {
       "basename": "PB的编译过程",
       "path": "ThinkBetter/Work/PB的编译过程.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "ChainStay",
       "path": "ThinkBetter/Hobbies/bike/ChainStay.md"
-    },
-    {
-      "basename": "Axle Spacing",
-      "path": "ThinkBetter/Hobbies/bike/Axle Spacing.md"
-    },
-    {
-      "basename": "BB Drop",
-      "path": "ThinkBetter/Hobbies/bike/BB Drop.md"
-    },
-    {
-      "basename": "BB Height",
-      "path": "ThinkBetter/Hobbies/bike/BB Height.md"
-    },
-    {
-      "basename": "BB Type（Bottom Bracket Type）",
-      "path": "ThinkBetter/Hobbies/bike/BB Type（Bottom Bracket Type）.md"
-    },
-    {
-      "basename": "Crank Length",
-      "path": "ThinkBetter/Hobbies/bike/Crank Length.md"
-    },
-    {
-      "basename": "Bike MOC",
-      "path": "ThinkBetter/Hobbies/bike/Bike MOC.md"
     }
   ],
   "omittedPaths": [],
