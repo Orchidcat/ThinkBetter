@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b29c21027e4fbaf",
+        "id": "d215a9c6e4da41a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c698852d39b746dc",
+            "id": "a005b143f09c63d0",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20241115134112.png"
+                "file": "Pasted image 20241206095437.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20241115134112"
+              "title": "Pasted image 20241206095437"
             }
           }
         ]
@@ -165,9 +165,20 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c698852d39b746dc",
+  "active": "a005b143f09c63d0",
   "lastOpenFiles": [
+    "Pasted image 20241206095603.png",
+    "Pasted image 20241206102637.png",
+    "Pasted image 20241220105555.png",
+    "Pasted image 20241220105603.png",
+    "Pasted image 20241220112254.png",
+    "Pasted image 20241220133446.png",
+    "Pasted image 20241224093957.png",
+    "Pasted image 20241220141330.png",
+    "惯性.md",
+    "Pasted image 20241107091458.png",
     "Pasted image 20241128131721.png",
+    "Pasted image 20241115134112.png",
     "ThinkBetter/书的一种分类（理论或实用）.md",
     "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/史蒂夫·乔布斯.md",
@@ -192,22 +203,11 @@
     "ThinkBetter/历史年代.md",
     "ThinkBetter/年表.md",
     "ThinkBetter/Books/skin in the game.md",
-    "看到前线.md",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/Hobbies/bike",
     "ThinkBetter/Hobbies/coral",
     "ThinkBetter/new Canvas.canvas",
     "ThinkBetter/Work",
-    "Pasted image 20250619155059.png",
-    "Pasted image 20250619134727.png",
-    "Pasted image 20250619133304.png",
-    "Pasted image 20250619132946.png",
-    "Pasted image 20250619132655.png",
-    "Pasted image 20250619104246.png",
-    "Pasted image 20250619110205.png",
-    "ThinkBetter/Sources/Pasted image 20240422095531.png",
-    "ThinkBetter/Sources/Pasted image 20240422104749.png",
-    "ThinkBetter/Sources/Pasted image 20240423162305.png",
     "ThinkBetter/Hobbies",
     "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "未命名.canvas",
