@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "史蒂夫·乔布斯",
+      "path": "ThinkBetter/Inbox/史蒂夫·乔布斯.md"
+    },
+    {
+      "basename": "十大难以抗拒的心理现象",
+      "path": "ThinkBetter/Books/100种心智模型/十大难以抗拒的心理现象.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -38,7 +46,7 @@
     },
     {
       "basename": "how i organize my everything in obsidian",
-      "path": "how i organize my everything in obsidian.md"
+      "path": "ThinkBetter/Inbox/how i organize my everything in obsidian.md"
     },
     {
       "basename": "What is Visual PKM and Why Should You Care",
@@ -191,14 +199,6 @@
     {
       "basename": "初中物理基础判断",
       "path": "ThinkBetter/Inbox/初中物理基础判断.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/Inbox/学习方法.md"
-    },
-    {
-      "basename": "_MOC - 100种心智模型",
-      "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     }
   ],
   "omittedPaths": [],
