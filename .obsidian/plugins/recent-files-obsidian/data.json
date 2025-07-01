@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-06-27",
-      "path": "ThinkBetter/DailyNotes/2025-06-27.md"
+      "basename": "how i organize my everything in obsidian",
+      "path": "how i organize my everything in obsidian.md"
     },
     {
       "basename": "The Periodic Table of Productivity.excalidraw",
       "path": "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
+    },
+    {
+      "basename": "2025-06-27",
+      "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
     {
       "basename": "知己",
@@ -195,10 +199,6 @@
     {
       "basename": "NumPy",
       "path": "ThinkBetter/Inbox/NumPy.md"
-    },
-    {
-      "basename": "Just Do it - 2024",
-      "path": "ThinkBetter/Inbox/Just Do it - 2024.md"
     }
   ],
   "omittedPaths": [],
