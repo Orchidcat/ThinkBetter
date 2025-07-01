@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知己",
+      "path": "ThinkBetter/Books/知己.md"
+    },
+    {
       "basename": "Template - 日记",
       "path": "ThinkBetter/Templates/Template - 日记.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Icon - wastebin, trash, garbage - by dDara, Flaticon",
       "path": "ThinkBetter/Excalidraw/Img/Icon - wastebin, trash, garbage - by dDara, Flaticon.png"
-    },
-    {
-      "basename": "Icon - colorful funnel - by Freepik, Flaticon",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - colorful funnel - by Freepik, Flaticon.png"
     }
   ],
   "omittedPaths": [],
