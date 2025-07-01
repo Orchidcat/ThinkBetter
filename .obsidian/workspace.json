@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/Clear Thinking.md",
+                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/Clear Thinking.md",
+                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -261,7 +261,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/如何阅读的方法.md",
     "ThinkBetter/Books/clear thinking",

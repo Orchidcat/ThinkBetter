@@ -75,5 +75,9 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "ThinkBetter/Books"
+    }
+  ]
 }
