@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "2025-07-01"
             }
-          },
-          {
-            "id": "c2557cb39fae045b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-01 15.16.24.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +75,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-07-01 15.16.24.excalidraw 的大纲"
+              "title": "2025-07-01 的大纲"
             }
           },
           {
@@ -172,13 +158,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c2557cb39fae045b",
+  "active": "61bf8a10ad942219",
   "lastOpenFiles": [
     "ThinkBetter/Sources/coins.svg",
-    "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
-    "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md",
-    "Excalidraw",
+    "ThinkBetter/Books/100种心智模型/双线战争.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
+    "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md",
+    "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
+    "Excalidraw",
     "ThinkBetter/Inbox/GTD.md",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/Distill/一句话的玩味.md",
@@ -186,7 +173,6 @@
     "ThinkBetter/Inbox/文件组织的5种方法.md",
     "ThinkBetter/Inbox/excalidraw Storage.md",
     "ThinkBetter/Inbox/微积分.md",
-    "ThinkBetter/Books/100种心智模型/双线战争.md",
     "ThinkBetter/Inbox/双线战争.md",
     "ThinkBetter/Inbox/实践论.md",
     "ThinkBetter/Inbox/史蒂夫·乔布斯.md",
@@ -219,7 +205,6 @@
     "ThinkBetter/Excalidraw/Img/Icon - zettelkasten, zk.svg",
     "ThinkBetter/Excalidraw/Img/Icon - writing a test, exam - by Freepik, Flaticons.png",
     "ThinkBetter/Excalidraw/Img/Icon - willpower, mental resources - by Design Circle, Flaticons.png",
-    "ThinkBetter/Excalidraw/Img/Icon - wikipedia - wikipedia.org.png",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
