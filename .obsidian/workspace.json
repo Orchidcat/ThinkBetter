@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/GTD.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GTD"
+              "title": "2025-07-01"
             }
           }
         ]
@@ -111,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/GTD.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GTD 的大纲"
+              "title": "2025-07-01 的大纲"
             }
           },
           {
@@ -161,6 +161,7 @@
   },
   "active": "61bf8a10ad942219",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/GTD.md",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Distill/一句话的玩味.md",
@@ -192,7 +193,6 @@
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Books/Systems and Mathematics.md",
-    "ThinkBetter/Books/make it stick.md",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",
