@@ -9,6 +9,10 @@
       "path": "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md"
     },
     {
+      "basename": "知己",
+      "path": "ThinkBetter/Books/知己.md"
+    },
+    {
       "basename": "工具箱",
       "path": "ThinkBetter/Inbox/工具箱.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/Inbox/如何阅读的方法.md"
-    },
-    {
-      "basename": "知己",
-      "path": "ThinkBetter/Books/知己.md"
     },
     {
       "basename": "Pi - Reef Monitor System",
