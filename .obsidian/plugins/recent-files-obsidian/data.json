@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GTD",
+      "path": "ThinkBetter/Inbox/GTD.md"
+    },
+    {
       "basename": "Tasks",
       "path": "ThinkBetter/Tasks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "提高思考和笔记能力的六个要点",
       "path": "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Inbox/Workbench.md"
     }
   ],
   "omittedPaths": [],
