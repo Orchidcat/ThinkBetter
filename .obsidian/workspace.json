@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pkm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "08d87978ca8342cd",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
