@@ -71,15 +71,12 @@
             "id": "8aea7c6777fcd0bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
               },
-              "icon": "lucide-file",
-              "title": "Clear Thinking"
+              "icon": "excalidraw-icon",
+              "title": "how we learn - Boap"
             }
           },
           {
@@ -213,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Clear Thinking 的大纲"
+              "title": "how we learn - Boap 的大纲"
             }
           },
           {
@@ -261,8 +258,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
+    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Inbox/如何阅读的方法.md",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Books/知己.md",
@@ -294,7 +293,6 @@
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/Inbox/如何阅读.md",
     "ThinkBetter/Inbox/基本Q.md",
-    "ThinkBetter/Inbox/机械原理.md",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
