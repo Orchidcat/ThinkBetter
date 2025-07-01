@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
     },
     {
+      "basename": "diagrams matter for PKM",
+      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
+    },
+    {
       "basename": "Tasks",
       "path": "ThinkBetter/Tasks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Icon - box with document, project folder - by iconixar, Flaticon",
       "path": "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png"
-    },
-    {
-      "basename": "how to know a person",
-      "path": "ThinkBetter/Inbox/how to know a person.md"
     }
   ],
   "omittedPaths": [],
