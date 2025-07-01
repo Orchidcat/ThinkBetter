@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "Systems and Mathematics",
       "path": "ThinkBetter/Books/Systems and Mathematics.md"
     },
@@ -49,16 +57,8 @@
       "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
     {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
-    },
-    {
       "basename": "工具箱",
       "path": "ThinkBetter/Inbox/工具箱.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "Pi - Reef Monitor System",
