@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how i organize my everything in obsidian.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how i organize my everything in obsidian"
+              "title": "2025-07-01"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.51103591918945
+    "width": 302.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -110,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how i organize my everything in obsidian.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how i organize my everything in obsidian 的大纲"
+              "title": "2025-07-01 的大纲"
             }
           },
           {
@@ -130,12 +131,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,12 +161,14 @@
   },
   "active": "08d87978ca8342cd",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-06-30.md",
+    "ThinkBetter/DailyNotes/2025-07-01.md",
+    "how i organize my everything in obsidian.md",
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "how i organize my everything in obsidian.md",
     "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Books/知己.md",
@@ -192,8 +194,6 @@
     "ThinkBetter/Templates/Templates - 论证.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
     "ThinkBetter/Work/Configuration CheckList.md",
-    "ThinkBetter/Work/自旋锁.md",
-    "ThinkBetter/Work/退避机制.md",
     "ThinkBetter/Inbox",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
