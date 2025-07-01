@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "2025-07-01"
             }
+          },
+          {
+            "id": "c2557cb39fae045b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-01 15.16.24.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
+                "file": "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-01 的大纲"
+              "title": "Drawing 2025-07-01 15.16.24.excalidraw 的大纲"
             }
           },
           {
@@ -159,11 +172,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "61bf8a10ad942219",
+  "active": "c2557cb39fae045b",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
+    "Excalidraw/Drawing 2025-07-01 15.16.24.excalidraw.md",
+    "Excalidraw",
+    "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Inbox/GTD.md",
     "ThinkBetter/Tasks.md",
-    "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/我们是如何衡量学会没有的.md",
     "ThinkBetter/Inbox/文件组织的5种方法.md",
@@ -191,8 +207,6 @@
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
-    "ThinkBetter/Templates/Template - 日记.md",
-    "ThinkBetter/Books/Systems and Mathematics.md",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",
@@ -201,7 +215,6 @@
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
     "ThinkBetter/Excalidraw/Cropped",
-    "ThinkBetter/Excalidraw/Img",
     "ThinkBetter/Excalidraw/Img/Icon - zettelkasten, zk.svg",
     "ThinkBetter/Excalidraw/Img/Icon - writing a test, exam - by Freepik, Flaticons.png",
     "ThinkBetter/Excalidraw/Img/Icon - willpower, mental resources - by Design Circle, Flaticons.png",
