@@ -25,7 +25,7 @@ if (matches) {
 
 
 # Links
-[[how we learn - Summary]]
+[[how we learn - 总结]]
 [[how we learn - Boap]]
 
 

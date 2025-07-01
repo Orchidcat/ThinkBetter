@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "make it stick",
+      "path": "ThinkBetter/Books/make it stick.md"
+    },
+    {
+      "basename": "how to live",
+      "path": "ThinkBetter/Books/how to live.md"
+    },
+    {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
+    },
+    {
+      "basename": "how we learn - 总结",
+      "path": "ThinkBetter/Books/how we learn/how we learn - 总结.md"
+    },
+    {
       "basename": "how we learn - Boap",
       "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
     },
@@ -9,8 +25,8 @@
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
     },
     {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
+      "basename": "how we learn - 阅读",
+      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
     },
     {
       "basename": "如何阅读的方法",
@@ -71,10 +87,6 @@
     {
       "basename": "10个写作的技巧",
       "path": "ThinkBetter/Inbox/10个写作的技巧.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn - 阅读.md"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
@@ -145,10 +157,6 @@
       "path": "ThinkBetter/Inbox/学习方法.md"
     },
     {
-      "basename": "make it stick",
-      "path": "ThinkBetter/Books/make it stick.md"
-    },
-    {
       "basename": "_MOC - 100种心智模型",
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Icon - zettelkasten, zk",
       "path": "ThinkBetter/Excalidraw/Img/Icon - zettelkasten, zk.svg"
-    },
-    {
-      "basename": "Icon - writing a test, exam - by Freepik, Flaticons",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - writing a test, exam - by Freepik, Flaticons.png"
-    },
-    {
-      "basename": "Icon - willpower, mental resources - by Design Circle, Flaticons",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - willpower, mental resources - by Design Circle, Flaticons.png"
     }
   ],
   "omittedPaths": [],

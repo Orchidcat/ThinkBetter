@@ -71,12 +71,15 @@
             "id": "8aea7c6777fcd0bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
+                "file": "ThinkBetter/Books/make it stick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "how we learn - Boap"
+              "icon": "lucide-file",
+              "title": "make it stick"
             }
           },
           {
@@ -210,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+                "file": "ThinkBetter/Books/make it stick.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how we learn - Boap 的大纲"
+              "title": "make it stick 的大纲"
             }
           },
           {
@@ -260,8 +263,12 @@
   },
   "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
-    "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
+    "ThinkBetter/Books/how to live.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Books/how we learn/how we learn - 总结.md",
+    "ThinkBetter/Books/how we learn/how we learn - Boap.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "ThinkBetter/Inbox/如何阅读的方法.md",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Books/知己.md",
@@ -280,7 +287,6 @@
     "ThinkBetter/Work/退避机制.md",
     "ThinkBetter/Inbox/2024-04-29.md",
     "ThinkBetter/Inbox/10个写作的技巧.md",
-    "ThinkBetter/Books/how we learn - 阅读.md",
     "ThinkBetter/Inbox",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
@@ -290,9 +296,6 @@
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md",
-    "ThinkBetter/Inbox/Workbench.md",
-    "ThinkBetter/Inbox/如何阅读.md",
-    "ThinkBetter/Inbox/基本Q.md",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
