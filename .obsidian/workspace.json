@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拔罐",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,12 +178,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 290.5
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -262,7 +261,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8aea7c6777fcd0bb",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Templates/Template - 日记.md",
