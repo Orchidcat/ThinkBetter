@@ -11,12 +11,15 @@
             "id": "08d87978ca8342cd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+                "file": "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - How to Take Smart Notes"
+              "icon": "lucide-file",
+              "title": "What is Visual PKM and Why Should You Care"
             }
           }
         ]
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pkm",
+                "query": "PKM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
+                "file": "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BoaP - How to Take Smart Notes 的大纲"
+              "title": "What is Visual PKM and Why Should You Care 的大纲"
             }
           },
           {
@@ -157,8 +160,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "08d87978ca8342cd",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
+    "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
@@ -190,7 +195,6 @@
     "ThinkBetter/Work/Configuration CheckList.md",
     "ThinkBetter/Work/自旋锁.md",
     "ThinkBetter/Work/退避机制.md",
-    "ThinkBetter/Inbox/2024-04-29.md",
     "ThinkBetter/Inbox",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
