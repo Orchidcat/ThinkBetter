@@ -6,5 +6,6 @@
   "propertiesInDocument": "source",
   "spellcheck": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "ThinkBetter/Inbox"
+  "newFileFolderPath": "ThinkBetter/Inbox",
+  "attachmentFolderPath": "ThinkBetter/Sources"
 }
