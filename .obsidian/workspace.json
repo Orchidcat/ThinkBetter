@@ -11,15 +11,12 @@
             "id": "08d87978ca8342cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "2025-07-01"
+              "icon": "excalidraw-icon",
+              "title": "BoaP - Atomic Habits"
             }
           }
         ]
@@ -79,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.51103591918945,
-    "collapsed": true
+    "width": 302.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -111,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
+                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-01 的大纲"
+              "title": "BoaP - Atomic Habits 的大纲"
             }
           },
           {
@@ -135,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +158,12 @@
   },
   "active": "08d87978ca8342cd",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-06-30.md",
+    "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
+    "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/DailyNotes/2025-07-01.md",
+    "ThinkBetter/DailyNotes/2025-06-30.md",
     "how i organize my everything in obsidian.md",
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
@@ -173,7 +174,6 @@
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Inbox/工具箱.md",
-    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Templates/Template - 日记.md",
@@ -193,7 +193,6 @@
     "ThinkBetter/Hobbies/coral/Pi - Reef Monitor System.md",
     "ThinkBetter/Templates/Templates - 论证.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
-    "ThinkBetter/Work/Configuration CheckList.md",
     "ThinkBetter/Inbox",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
@@ -206,8 +205,6 @@
     "ThinkBetter/Excalidraw/Img/Icon - wikipedia - wikipedia.org.png",
     "ThinkBetter/Excalidraw/Img/Icon - warehouse - by Freepik, Flaticons.png",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
-    "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
-    "ThinkBetter/Books/100种心智模型/sources",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
     "未命名.canvas",
