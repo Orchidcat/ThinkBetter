@@ -11,12 +11,15 @@
             "id": "08d87978ca8342cd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - Atomic Habits"
+              "icon": "lucide-file",
+              "title": "一句话的玩味"
             }
           }
         ]
@@ -107,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BoaP - Atomic Habits 的大纲"
+              "title": "一句话的玩味 的大纲"
             }
           },
           {
@@ -158,6 +161,7 @@
   },
   "active": "08d87978ca8342cd",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
@@ -168,7 +172,6 @@
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
@@ -192,7 +195,6 @@
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Hobbies/coral/Pi - Reef Monitor System.md",
     "ThinkBetter/Templates/Templates - 论证.md",
-    "ThinkBetter/Templates/Template - 心智模型.md",
     "ThinkBetter/Inbox",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",

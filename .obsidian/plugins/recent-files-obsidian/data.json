@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
+    },
+    {
       "basename": "BoaP - Atomic Habits",
       "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_MOC - 100种心智模型",
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
-    },
-    {
-      "basename": "第一性原理",
-      "path": "ThinkBetter/Books/100种心智模型/第一性原理.md"
     }
   ],
   "omittedPaths": [],
