@@ -124,7 +124,8 @@
               "title": "工具箱"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -261,8 +262,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/Books/知己.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Tasks.md",
@@ -294,7 +296,6 @@
     "ThinkBetter/Inbox/基本Q.md",
     "ThinkBetter/Inbox/机械原理.md",
     "ThinkBetter/Inbox/灰色思维.md",
-    "ThinkBetter/Inbox/好的作品.md",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
