@@ -123,6 +123,16 @@
               "icon": "lucide-file",
               "title": "工具箱"
             }
+          },
+          {
+            "id": "7052d054cbf09c95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
         "currentTab": 4
@@ -261,8 +271,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/Tasks.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/Systems and Mathematics.md",
     "ThinkBetter/Books/make it stick.md",
@@ -277,7 +288,6 @@
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
-    "ThinkBetter/Tasks.md",
     "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",

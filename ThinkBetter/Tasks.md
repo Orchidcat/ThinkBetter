@@ -3,7 +3,9 @@
 ### 阅读进度
 
 ```tasks
-tags include #book
+not done 
+group by path
+limit 10
 ```
 
 
