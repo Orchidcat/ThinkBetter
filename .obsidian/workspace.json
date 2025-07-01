@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/make it stick.md",
+                "file": "ThinkBetter/Books/Systems and Mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "make it stick"
+              "title": "Systems and Mathematics"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/make it stick.md",
+                "file": "ThinkBetter/Books/Systems and Mathematics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "make it stick 的大纲"
+              "title": "Systems and Mathematics 的大纲"
             }
           },
           {
@@ -263,6 +263,7 @@
   },
   "active": "8aea7c6777fcd0bb",
   "lastOpenFiles": [
+    "ThinkBetter/Books/make it stick.md",
     "ThinkBetter/Books/how to live.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Books/how we learn/how we learn - 总结.md",
@@ -295,7 +296,6 @@
     "ThinkBetter/DailyNotes/2025-06-30.md",
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
     "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
     "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",

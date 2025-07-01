@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Systems and Mathematics",
+      "path": "ThinkBetter/Books/Systems and Mathematics.md"
+    },
+    {
       "basename": "make it stick",
       "path": "ThinkBetter/Books/make it stick.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "how to know a person",
       "path": "ThinkBetter/Inbox/how to know a person.md"
-    },
-    {
-      "basename": "Icon - zettelkasten, zk",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - zettelkasten, zk.svg"
     }
   ],
   "omittedPaths": [],

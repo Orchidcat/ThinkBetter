@@ -78,6 +78,12 @@
   "excluded_folder": [
     {
       "folder": "ThinkBetter/Books"
+    },
+    {
+      "folder": "ThinkBetter/Templates"
+    },
+    {
+      "folder": "thinkbetter/re"
     }
   ]
 }
