@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
+    },
+    {
+      "basename": "2025-07-01",
+      "path": "ThinkBetter/DailyNotes/2025-07-01.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -65,10 +73,6 @@
       "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
     },
     {
-      "basename": "2025-07-01",
-      "path": "ThinkBetter/DailyNotes/2025-07-01.md"
-    },
-    {
       "basename": "2025-06-30",
       "path": "ThinkBetter/DailyNotes/2025-06-30.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "工具箱",
       "path": "ThinkBetter/Inbox/工具箱.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
     },
     {
       "basename": "为什么视觉思维技能比以往任何时候都重要",
