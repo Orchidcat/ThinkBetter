@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/Clear Thinking.md"
+    },
+    {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/Inbox/如何阅读的方法.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Icon - warehouse - by Freepik, Flaticons",
       "path": "ThinkBetter/Excalidraw/Img/Icon - warehouse - by Freepik, Flaticons.png"
-    },
-    {
-      "basename": "Icon - wastebin, trash, garbage - by dDara, Flaticon",
-      "path": "ThinkBetter/Excalidraw/Img/Icon - wastebin, trash, garbage - by dDara, Flaticon.png"
     }
   ],
   "omittedPaths": [],

@@ -11,9 +11,6 @@ star: ⭐⭐⭐⭐
 ---
 
 
-
-
-
 - 连续且好的决策，很少迫于环境（position）而做出。like Tetris.
 - The greatest aid to judgment is starting from a **good position**.that ordinary moments determine your position, and your position determines your options.
 
