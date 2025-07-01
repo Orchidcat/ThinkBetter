@@ -4,5 +4,7 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "source",
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "ThinkBetter/Inbox"
 }
