@@ -5,6 +5,7 @@
 ```tasks
 not done 
 group by path
+limit groups to 1 tasks
 limit 10
 ```
 
