@@ -1,8 +1,8 @@
 {
   "cssTheme": "Things",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "MCL Multi Column",
     "MCL Gallery Cards",

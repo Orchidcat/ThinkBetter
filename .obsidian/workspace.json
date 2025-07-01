@@ -75,12 +75,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 471.51103591918945
+    "width": 302.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
