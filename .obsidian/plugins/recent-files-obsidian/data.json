@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-01",
+      "path": "ThinkBetter/DailyNotes/2025-07-01.md"
+    },
+    {
+      "basename": "2025-07-02",
+      "path": "ThinkBetter/DailyNotes/2025-07-02.md"
+    },
+    {
       "basename": "Template - 日记 - week - summary",
       "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "2022-05-30",
       "path": "ThinkBetter/DailyNotes/2022-05-30.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "ThinkBetter/DailyNotes/2025-07-02.md"
     },
     {
       "basename": "SQL Server TOC",
@@ -195,10 +199,6 @@
     {
       "basename": "如何对抗焦虑",
       "path": "ThinkBetter/Inbox/如何对抗焦虑.md"
-    },
-    {
-      "basename": "如何成功实验",
-      "path": "ThinkBetter/Inbox/如何成功实验.md"
     }
   ],
   "omittedPaths": [],
