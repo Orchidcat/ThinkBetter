@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 日记 - week - summary",
+      "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
+    },
+    {
       "basename": "Template - 读书 - summary",
       "path": "ThinkBetter/Templates/Template - 读书 - summary.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "容易疲惫怎么办",
       "path": "ThinkBetter/Inbox/容易疲惫怎么办.md"
-    },
-    {
-      "basename": "秋风辞",
-      "path": "ThinkBetter/Inbox/秋风辞.md"
     }
   ],
   "omittedPaths": [],

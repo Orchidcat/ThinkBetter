@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Templates/Template - 读书 - summary.md",
+                "file": "ThinkBetter/Templates/Template - 日记 - week - summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Template - 读书 - summary"
+              "title": "Template - 日记 - week - summary"
             }
           }
         ],
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 348.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -173,10 +173,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b569bcd7fcafb901",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - 读书 - summary.md",
+    "ThinkBetter/Templates/Template - 日记 - week - summary.md",
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Inbox/未命名.md",
@@ -216,7 +217,6 @@
     "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Inbox/Tools.md",
     "ThinkBetter/Hobbies/bike/Top Tube Length.md",
-    "ThinkBetter/Hobbies/bike/Trail.md",
     "Excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Books/clear thinking",
