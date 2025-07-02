@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "BOAP - ThinkBetter"
             }
+          },
+          {
+            "id": "7a5dd795b6e5fbce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "BoaP - How to Take Smart Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +167,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "7a5dd795b6e5fbce",
   "lastOpenFiles": [
+    "ThinkBetter/Distill/BOAP - ThinkBetter.md",
     "ThinkBetter/Books/100种心智模型/二阶思维.md",
     "ThinkBetter/Excalidraw/对抗愚蠢.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
@@ -166,7 +180,6 @@
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Books/100种心智模型/幸存者偏差.md",
-    "ThinkBetter/Distill/BOAP - ThinkBetter.md",
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
     "ThinkBetter/Inbox/后见之明偏差.md",
