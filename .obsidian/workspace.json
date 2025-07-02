@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/事件timing.md",
+                "file": "ThinkBetter/Inbox/书的一种分类（理论或实用）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "事件timing"
+              "title": "书的一种分类（理论或实用）"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/事件timing.md",
+                "file": "ThinkBetter/Inbox/书的一种分类（理论或实用）.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "事件timing 的大纲"
+              "title": "书的一种分类（理论或实用） 的大纲"
             }
           }
         ],
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +161,8 @@
   },
   "active": "42d2fea1471fc739",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/视频制作.md",
+    "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "ThinkBetter/Inbox/什么是自学.md",
     "ThinkBetter/Inbox/如何对抗焦虑.md",
@@ -184,8 +187,6 @@
     "ThinkBetter/Inbox/分心.md",
     "ThinkBetter/Inbox/反直觉.md",
     "ThinkBetter/Hobbies/coral/代码实现.md",
-    "ThinkBetter/Inbox/大脑睡眠结构图.md",
-    "ThinkBetter/Inbox/初中物理基础判断.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "书的一种分类（理论或实用）",
+      "path": "ThinkBetter/Inbox/书的一种分类（理论或实用）.md"
+    },
+    {
+      "basename": "视频制作",
+      "path": "ThinkBetter/Inbox/视频制作.md"
+    },
+    {
       "basename": "事件timing",
       "path": "ThinkBetter/Inbox/事件timing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "diagrams matter for PKM",
       "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
-    },
-    {
-      "basename": "2025-06-30",
-      "path": "ThinkBetter/DailyNotes/2025-06-30.md"
-    },
-    {
-      "basename": "how i organize my everything in obsidian",
-      "path": "ThinkBetter/Inbox/how i organize my everything in obsidian.md"
     }
   ],
   "omittedPaths": [],
