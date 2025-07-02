@@ -20,7 +20,10 @@ let highlights = [];
 for (let i = 0; i < weekday; i++) {
   const date = monday.clone().add(i, 'days').format("YYYY-MM-DD");
   const file = app.vault.getAbstractFileByPath(`DailyNotes/${date}.md`);
-  if (!file) continue;
+  if (!file) {
+	  console.log(`未找到文件: DailyNotes/${date}.md`);
+	  continue;
+	}
 
   const content = await app.vault.read(file);
   const lines = content.split("\n");
