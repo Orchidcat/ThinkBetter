@@ -19,7 +19,7 @@ let highlights = [];
 
 for (let i = 0; i < weekday; i++) {
   const date = monday.clone().add(i, 'days').format("YYYY-MM-DD");
-  const file = app.vault.getAbstractFileByPath(`DailyNotes/${date}.md`);
+  const file = app.vault.getAbstractFileByPath(`ThinkBetter/DailyNotes/${date}.md`);
   if (!file) {
 	  console.log(`未找到文件: DailyNotes/${date}.md`);
 	  continue;
