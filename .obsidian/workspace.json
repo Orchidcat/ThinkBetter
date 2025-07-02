@@ -34,7 +34,6 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 70.67448680351906,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -75,14 +74,7 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          }
-        ]
-      },
-      {
-        "id": "91377f2567933505",
-        "type": "tabs",
-        "dimension": 29.32551319648094,
-        "children": [
+          },
           {
             "id": "d3367a810dcb05d3",
             "type": "leaf",
@@ -97,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.51103591918945
+    "width": 285.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
