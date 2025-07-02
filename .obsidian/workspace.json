@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945
+    "width": 227.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -158,7 +159,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "879f19a88d8273bd",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
