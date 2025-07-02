@@ -8,7 +8,7 @@ if (!dv) {
 }
 
 // 获取本周起始日期（周一）
-const today = moment();
+const today = tp.date.now("YYYY-MM-DD");
 const weekday = today.isoWeekday(); // 1 = 周一，7 = 周日
 const monday = today.clone().subtract(weekday - 1, 'days');
 
