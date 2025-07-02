@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "file": "ThinkBetter/Templates/Template - 读书 - summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Clear Thinking"
+              "title": "Template - 读书 - summary"
             }
           },
           {
@@ -174,9 +174,10 @@
   },
   "active": "cb98e0c600512c0b",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/未命名.md",
-    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Templates/Template - 读书 - summary.md",
+    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Inbox/未命名.md",
     "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20250702111647_794.svg",
@@ -188,7 +189,6 @@
     "ThinkBetter/Sources/Pasted Image 20250702111647_695.svg",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
