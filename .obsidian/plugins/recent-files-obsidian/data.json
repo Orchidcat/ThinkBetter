@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "什么是自学",
+      "path": "ThinkBetter/Inbox/什么是自学.md"
+    },
+    {
+      "basename": "如何对抗焦虑",
+      "path": "ThinkBetter/Inbox/如何对抗焦虑.md"
+    },
+    {
       "basename": "如何成功实验",
       "path": "ThinkBetter/Inbox/如何成功实验.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "费曼学习法",
       "path": "ThinkBetter/Books/100种心智模型/费曼学习法.md"
-    },
-    {
-      "basename": "如何对抗焦虑",
-      "path": "ThinkBetter/Inbox/如何对抗焦虑.md"
     },
     {
       "basename": "分心",
@@ -195,10 +199,6 @@
     {
       "basename": "The Reading Time Flow.excalidraw",
       "path": "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md"
-    },
-    {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
     }
   ],
   "omittedPaths": [],
