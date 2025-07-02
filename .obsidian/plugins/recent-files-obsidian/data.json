@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Template - 读书 - summary",
-      "path": "ThinkBetter/Templates/Template - 读书 - summary.md"
+      "basename": "未命名",
+      "path": "ThinkBetter/DailyNotes/weekNotes/未命名.md"
+    },
+    {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
     },
     {
       "basename": "Template - 日记 - week - summary",
       "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
     },
     {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
+      "basename": "Template - 读书 - summary",
+      "path": "ThinkBetter/Templates/Template - 读书 - summary.md"
     },
     {
       "basename": "Template - 读书",
@@ -195,10 +199,6 @@
     {
       "basename": "如何成功实验",
       "path": "ThinkBetter/Inbox/如何成功实验.md"
-    },
-    {
-      "basename": "容易疲惫怎么办",
-      "path": "ThinkBetter/Inbox/容易疲惫怎么办.md"
     }
   ],
   "omittedPaths": [],
