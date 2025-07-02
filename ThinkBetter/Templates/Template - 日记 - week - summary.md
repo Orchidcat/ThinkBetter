@@ -1,5 +1,7 @@
 <%*
-const moment = app.plugins.plugins["templater-obsidian"].moment;
+
+const moment = window.moment;
+//const moment = app.plugins.plugins["templater-obsidian"].moment;
 const dv = app.plugins.plugins["dataview"].api;
 
 if (!dv) {
@@ -8,7 +10,8 @@ if (!dv) {
 }
 
 // 获取本周起始日期（周一）
-const today = tp.date.now("YYYY-MM-DD");
+//const today = tp.date.now("YYYY-MM-DD");
+const today = moment();
 const weekday = today.isoWeekday(); // 1 = 周一，7 = 周日
 const monday = today.clone().subtract(weekday - 1, 'days');
 
