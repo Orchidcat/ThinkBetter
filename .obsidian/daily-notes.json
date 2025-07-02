@@ -1,5 +1,5 @@
 {
-  "autorun": true,
+  "autorun": false,
   "folder": "ThinkBetter/DailyNotes",
   "template": "ThinkBetter/Templates/Template - 日记"
 }
