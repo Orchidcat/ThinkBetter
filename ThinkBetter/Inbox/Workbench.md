@@ -51,3 +51,8 @@ Mixer 将一个原子信息相关连的概念，提炼到一个地方进行表�
 
 
 [[如何阅读的方法]]
+
+
+
+[[ThinkBetter/Distill/BOAP - Reading|BOAP - Reading]]
+	- []
