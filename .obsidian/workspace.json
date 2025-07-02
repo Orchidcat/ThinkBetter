@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2da30ac8e1caba6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f13f1ca97a5630d5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -149,19 +149,17 @@
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": false,
       "smart-random-note:Open Random Note from Search": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-map-view:Open map view": false,
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
-    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/Inbox/贝叶斯思维.md",
