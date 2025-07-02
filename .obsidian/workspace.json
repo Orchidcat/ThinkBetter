@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
+                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
               },
               "icon": "excalidraw-icon",
-              "title": "The Periodic Table of Productivity.excalidraw"
+              "title": "BoaP - How to Take Smart Notes"
             }
           }
         ]
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 496.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -154,7 +154,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "27508fd3d4d6007f",
+  "active": "a2d746b54a563643",
   "lastOpenFiles": [
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20250702105504_288.svg",
