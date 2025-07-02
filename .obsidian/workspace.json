@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如何阅读",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
