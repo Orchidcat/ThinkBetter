@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-04-29",
+      "path": "ThinkBetter/Inbox/2024-04-29.md"
+    },
+    {
+      "basename": "10个写作的技巧",
+      "path": "ThinkBetter/Inbox/10个写作的技巧.md"
+    },
+    {
       "basename": "2025-07-02",
       "path": "ThinkBetter/DailyNotes/2025-07-02.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "自旋锁",
       "path": "ThinkBetter/Work/自旋锁.md"
-    },
-    {
-      "basename": "退避机制",
-      "path": "ThinkBetter/Work/退避机制.md"
-    },
-    {
-      "basename": "2024-04-29",
-      "path": "ThinkBetter/Inbox/2024-04-29.md"
     }
   ],
   "omittedPaths": [],
