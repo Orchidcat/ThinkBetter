@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -190,8 +190,8 @@
   },
   "active": "b569bcd7fcafb901",
   "lastOpenFiles": [
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/Templates/Template - 日记 - week - summary.md",
+    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Templates/Template - 读书 - summary.md",
     "ThinkBetter/Templates/Template - 读书.md",
