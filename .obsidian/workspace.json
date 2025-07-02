@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "分心"
             }
+          },
+          {
+            "id": "b6115b984de3a93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/如何对抗焦虑.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "如何对抗焦虑"
+            }
+          },
+          {
+            "id": "9c7aadfcdcd4005b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/100种心智模型/费曼学习法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "费曼学习法"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "每周",
+                "query": "心流",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,11 +116,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 285.51103591918945
+    "width": 322.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -120,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/分心.md",
+                "file": "ThinkBetter/Books/100种心智模型/费曼学习法.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "分心 的大纲"
+              "title": "费曼学习法 的大纲"
             }
           }
         ],
@@ -158,8 +190,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d50ff6080f539f40",
+  "active": "9c7aadfcdcd4005b",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/如何对抗焦虑.md",
+    "ThinkBetter/Inbox/分心.md",
     "ThinkBetter/Inbox/反直觉.md",
     "ThinkBetter/Hobbies/coral/代码实现.md",
     "ThinkBetter/Inbox/大脑睡眠结构图.md",
@@ -187,8 +221,6 @@
     "ThinkBetter/Inbox/双线战争.md",
     "ThinkBetter/Inbox/实践论.md",
     "ThinkBetter/Inbox/史蒂夫·乔布斯.md",
-    "ThinkBetter/Books/100种心智模型/十大难以抗拒的心理现象.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",

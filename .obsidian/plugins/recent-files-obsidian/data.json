@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "费曼学习法",
+      "path": "ThinkBetter/Books/100种心智模型/费曼学习法.md"
+    },
+    {
+      "basename": "如何对抗焦虑",
+      "path": "ThinkBetter/Inbox/如何对抗焦虑.md"
+    },
+    {
       "basename": "分心",
       "path": "ThinkBetter/Inbox/分心.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "how we learn - 总结",
       "path": "ThinkBetter/Books/how we learn/how we learn - 总结.md"
-    },
-    {
-      "basename": "how we learn - Boap",
-      "path": "ThinkBetter/Books/how we learn/how we learn - Boap.md"
-    },
-    {
-      "basename": "how we learn - 阅读黄金比例.excalidraw",
-      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
     }
   ],
   "omittedPaths": [],
