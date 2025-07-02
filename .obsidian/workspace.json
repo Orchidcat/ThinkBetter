@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Tasks.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2025-07-02"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.51103591918945
+    "width": 266.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Tasks.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-02.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Tasks 的大纲"
+              "title": "2025-07-02 的大纲"
             }
           }
         ],
@@ -159,8 +159,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ac4f44e75401d7e4",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/未命名",
+    "ThinkBetter/Tasks.md",
     "ThinkBetter/Inbox/SQL Server TOC.md",
     "ThinkBetter/Hobbies/bike/Stack.md",
     "ThinkBetter/Hobbies/bike/Standover.md",
@@ -185,8 +187,6 @@
     "ThinkBetter/Inbox/拖延.md",
     "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md",
     "ThinkBetter/Inbox/随手摘.md",
-    "ThinkBetter/Inbox/四圣谛.md",
-    "ThinkBetter/Inbox/四言举要.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
