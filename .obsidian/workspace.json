@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "思考问题的三个过滤器"
             }
+          },
+          {
+            "id": "ca7bd5ce2c812f5f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Thinkbetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-02 14.06.59.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +171,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "ca7bd5ce2c812f5f",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
+    "ThinkBetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
@@ -203,9 +219,6 @@
     "ThinkBetter/DailyNotes/2024-04-17.md",
     "ThinkBetter/DailyNotes/2025-06-30.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
-    "ThinkBetter/Inbox/如何阅读.md",
-    "ThinkBetter/Inbox/如何阅读的方法.md",
-    "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
