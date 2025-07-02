@@ -116,8 +116,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "9c7aadfcdcd4005b",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Books/100种心智模型/费曼学习法.md",
     "ThinkBetter/Inbox/如何对抗焦虑.md",
