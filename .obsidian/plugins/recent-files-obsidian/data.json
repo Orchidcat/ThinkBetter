@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
+    },
+    {
       "basename": "SQL Server TOC",
       "path": "ThinkBetter/Inbox/SQL Server TOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "初中物理基础判断",
       "path": "ThinkBetter/Inbox/初中物理基础判断.md"
-    },
-    {
-      "basename": "不对称战争",
-      "path": "ThinkBetter/Books/100种心智模型/不对称战争.md"
     }
   ],
   "omittedPaths": [],
