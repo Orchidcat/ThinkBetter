@@ -11,10 +11,15 @@
             "id": "cb98e0c600512c0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Tasks"
             }
           }
         ]
@@ -154,6 +159,9 @@
   },
   "active": "cb98e0c600512c0b",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Tasks.md",
+    "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
@@ -180,7 +188,6 @@
     "ThinkBetter/DailyNotes/2022-05-30.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/weekNotes",
-    "ThinkBetter/Tasks.md",
     "ThinkBetter/Inbox/SQL Server TOC.md",
     "ThinkBetter/Hobbies/bike/Stack.md",
     "ThinkBetter/Hobbies/bike/Standover.md",
@@ -194,8 +201,6 @@
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Hobbies/bike/Wheelbase.md",
     "ThinkBetter/Inbox/WILL DURANT.md",
-    "ThinkBetter/Inbox/Workbench.md",
-    "ThinkBetter/Inbox/WorkFlow TOC.md",
     "Excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Books/clear thinking",

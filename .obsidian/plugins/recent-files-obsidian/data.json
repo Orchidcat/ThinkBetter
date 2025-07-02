@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "ThinkBetter/Templates/Template - 读书.md"
+    },
+    {
       "basename": "000 sketchNoting a Book on a Page",
       "path": "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "2025-07-02",
       "path": "ThinkBetter/DailyNotes/2025-07-02.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
     },
     {
       "basename": "SQL Server TOC",
@@ -191,14 +199,6 @@
     {
       "basename": "逻辑哲学论",
       "path": "ThinkBetter/Inbox/逻辑哲学论.md"
-    },
-    {
-      "basename": "没有理解的信息是危险的",
-      "path": "ThinkBetter/Books/100种心智模型/没有理解的信息是危险的.md"
-    },
-    {
-      "basename": "马斯洛需求层次理论",
-      "path": "ThinkBetter/Inbox/马斯洛需求层次理论.md"
     }
   ],
   "omittedPaths": [],
