@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
+    },
+    {
+      "basename": "贝叶斯思维",
+      "path": "ThinkBetter/Inbox/贝叶斯思维.md"
+    },
+    {
+      "basename": "笔记方法",
+      "path": "ThinkBetter/Inbox/笔记方法.md"
+    },
+    {
+      "basename": "10个写作的技巧",
+      "path": "ThinkBetter/Inbox/10个写作的技巧.md"
+    },
+    {
       "basename": "2022-05-30",
       "path": "ThinkBetter/DailyNotes/2022-05-30.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "费曼学习法",
       "path": "ThinkBetter/Books/100种心智模型/费曼学习法.md"
-    },
-    {
-      "basename": "分心",
-      "path": "ThinkBetter/Inbox/分心.md"
-    },
-    {
-      "basename": "反直觉",
-      "path": "ThinkBetter/Inbox/反直觉.md"
-    },
-    {
-      "basename": "代码实现",
-      "path": "ThinkBetter/Hobbies/coral/代码实现.md"
-    },
-    {
-      "basename": "大脑睡眠结构图",
-      "path": "ThinkBetter/Inbox/大脑睡眠结构图.md"
     }
   ],
   "omittedPaths": [],

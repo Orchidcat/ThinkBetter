@@ -11,10 +11,15 @@
             "id": "590bd2472ffa696f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Clear Thinking"
             }
           }
         ]
@@ -115,12 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Clear Thinking 的大纲"
             }
           }
         ],
@@ -153,8 +159,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "590bd2472ffa696f",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/贝叶斯思维.md",
+    "ThinkBetter/Inbox/笔记方法.md",
+    "ThinkBetter/Inbox/10个写作的技巧.md",
     "ThinkBetter/DailyNotes/2022-05-30.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/weekNotes",
@@ -179,9 +188,6 @@
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Inbox/微积分.md",
     "ThinkBetter/Inbox/外语.md",
-    "ThinkBetter/Inbox/拖延.md",
-    "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md",
-    "ThinkBetter/Inbox/随手摘.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
