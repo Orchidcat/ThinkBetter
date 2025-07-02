@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "随手摘",
+      "path": "ThinkBetter/Inbox/随手摘.md"
+    },
+    {
+      "basename": "双线战争",
+      "path": "ThinkBetter/Books/100种心智模型/双线战争.md"
+    },
+    {
       "basename": "书的一种分类（理论或实用）",
       "path": "ThinkBetter/Inbox/书的一种分类（理论或实用）.md"
     },
@@ -129,10 +137,6 @@
       "path": "ThinkBetter/Sources/coins.svg"
     },
     {
-      "basename": "双线战争",
-      "path": "ThinkBetter/Books/100种心智模型/双线战争.md"
-    },
-    {
       "basename": "GTD",
       "path": "ThinkBetter/Inbox/GTD.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "微积分",
       "path": "ThinkBetter/Inbox/微积分.md"
-    },
-    {
-      "basename": "双线战争",
-      "path": "ThinkBetter/Inbox/双线战争.md"
     },
     {
       "basename": "实践论",
@@ -195,10 +195,6 @@
     {
       "basename": "how i organize my everything in obsidian",
       "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw"
-    },
-    {
-      "basename": "diagrams matter for PKM",
-      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw"
     }
   ],
   "omittedPaths": [],
