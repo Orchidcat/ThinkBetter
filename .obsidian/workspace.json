@@ -37,8 +37,7 @@
               "title": "Template - 日记 - week - summary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +172,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "879f19a88d8273bd",
+  "active": "cb98e0c600512c0b",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Templates/Template - 日记 - week - summary.md",
+    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Templates/Template - 日记.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
