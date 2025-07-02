@@ -52,8 +52,7 @@
               "title": "Template - 读书 - summary"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +187,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b569bcd7fcafb901",
+  "active": "cb98e0c600512c0b",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/未命名.md",
-    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
-    "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Templates/Template - 读书 - summary.md",
+    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Inbox/未命名.md",
+    "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20250702111647_794.svg",
     "ThinkBetter/Sources/Pasted Image 20250702111647_781.svg",
