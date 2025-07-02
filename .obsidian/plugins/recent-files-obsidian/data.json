@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "思考问题的三个过滤器",
+      "path": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "2025-07-02",
       "path": "ThinkBetter/DailyNotes/2025-07-02.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Tasks",
       "path": "ThinkBetter/Tasks.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "BASB Book on a Page",
@@ -195,10 +199,6 @@
     {
       "basename": "外语",
       "path": "ThinkBetter/Inbox/外语.md"
-    },
-    {
-      "basename": "拖延",
-      "path": "ThinkBetter/Inbox/拖延.md"
     }
   ],
   "omittedPaths": [],

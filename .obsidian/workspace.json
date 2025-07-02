@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-02.md",
+                "file": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-02"
+              "title": "思考问题的三个过滤器"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "过滤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945,
-    "collapsed": true
+    "width": 227.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -159,10 +158,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "879f19a88d8273bd",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
+    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Books/100种心智模型/幸存者偏差.md",
     "ThinkBetter/Distill/BOAP - Reading.md",
     "ThinkBetter/Inbox/Workbench.md",
@@ -206,7 +206,6 @@
     "ThinkBetter/Inbox/如何阅读.md",
     "ThinkBetter/Inbox/如何阅读的方法.md",
     "ThinkBetter/Templates/Template - 日记.md",
-    "ThinkBetter/Templates/Template - 读书 - summary.md",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
