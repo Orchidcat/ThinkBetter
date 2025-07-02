@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,11 +186,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c076cf1a358a108c",
+  "active": "ca7bd5ce2c812f5f",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/Pasted image 20220430085944.png.md",
     "ThinkBetter/Books/100种心智模型/二阶思维.md",
     "Thinkbetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md",
+    "ThinkBetter/Sources/Pasted image 20250702143403.png",
+    "ThinkBetter/Inbox/Pasted image 20220430085944.png.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md",
     "ThinkBetter/Start Here.md",
@@ -217,7 +218,6 @@
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132655.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132351.png",
-    "Thinkbetter/Excalidraw/Img/Pasted image 20250619110205.png",
     "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
@@ -233,7 +233,6 @@
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
     "ThinkBetter/Templates/Template - 日记 - week - summary.md",
-    "ThinkBetter/DailyNotes/2024-04-17.md",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
