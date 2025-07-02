@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "89f63a16a2bf3b22",
+        "id": "ea9d24337b352907",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d746b54a563643",
+            "id": "cb98e0c600512c0b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - How to Take Smart Notes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -154,8 +152,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a2d746b54a563643",
+  "active": "cb98e0c600512c0b",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
+    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20250702105504_288.svg",
     "ThinkBetter/Sources/Pasted Image 20250702105504_255.svg",
@@ -195,10 +197,7 @@
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/Inbox/WorkFlow TOC.md",
     "Excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Inbox",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
