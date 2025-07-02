@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Inbox/Workbench.md"
-    },
-    {
       "basename": "未命名",
       "path": "ThinkBetter/DailyNotes/weekNotes/未命名.md"
+    },
+    {
+      "basename": "2025-06-27",
+      "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     },
     {
       "basename": "BOAP - Reading",
       "path": "ThinkBetter/Distill/BOAP - Reading.md"
     },
     {
-      "basename": "2025-06-27",
-      "path": "ThinkBetter/DailyNotes/2025-06-27.md"
+      "basename": "后见之明偏差",
+      "path": "ThinkBetter/Inbox/后见之明偏差.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Inbox/Workbench.md"
     },
     {
       "basename": "BOAP - Reading",
@@ -195,10 +199,6 @@
     {
       "basename": "提高思考和笔记能力的六个要点",
       "path": "ThinkBetter/Inbox/提高思考和笔记能力的六个要点.md"
-    },
-    {
-      "basename": "随手摘",
-      "path": "ThinkBetter/Inbox/随手摘.md"
     }
   ],
   "omittedPaths": [],
