@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,11 +188,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "7b439d143870d6ee",
+  "active": "652861c2394c6c2e",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Books/100种心智模型/幸存者偏差.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
+    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Distill/BOAP - Reading.md",
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
