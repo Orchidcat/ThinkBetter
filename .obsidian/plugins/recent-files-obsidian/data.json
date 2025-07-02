@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Templates/Template - 读书 - summary.md"
     },
     {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
       "basename": "Template - 读书",
       "path": "ThinkBetter/Templates/Template - 读书.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "秋风辞",
       "path": "ThinkBetter/Inbox/秋风辞.md"
-    },
-    {
-      "basename": "平叛",
-      "path": "ThinkBetter/Books/100种心智模型/平叛.md"
     }
   ],
   "omittedPaths": [],
