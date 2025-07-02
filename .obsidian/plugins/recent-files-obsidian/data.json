@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "不对称战争",
+      "path": "ThinkBetter/Books/100种心智模型/不对称战争.md"
+    },
+    {
+      "basename": "不对称战争",
+      "path": "ThinkBetter/Inbox/不对称战争.md"
+    },
+    {
+      "basename": "笔记方法",
+      "path": "ThinkBetter/Inbox/笔记方法.md"
+    },
+    {
       "basename": "2024-04-29",
-      "path": "ThinkBetter/Inbox/2024-04-29.md"
+      "path": "ThinkBetter/DailyNotes/2024-04-29.md"
     },
     {
       "basename": "10个写作的技巧",
@@ -187,18 +199,6 @@
     {
       "basename": "Templates - 论证",
       "path": "ThinkBetter/Templates/Templates - 论证.md"
-    },
-    {
-      "basename": "Template - 心智模型",
-      "path": "ThinkBetter/Templates/Template - 心智模型.md"
-    },
-    {
-      "basename": "Configuration CheckList",
-      "path": "ThinkBetter/Work/Configuration CheckList.md"
-    },
-    {
-      "basename": "自旋锁",
-      "path": "ThinkBetter/Work/自旋锁.md"
     }
   ],
   "omittedPaths": [],

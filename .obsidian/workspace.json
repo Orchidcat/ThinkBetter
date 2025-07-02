@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22be5c5b59a795a4",
+        "id": "074992aa30701234",
         "type": "tabs",
         "children": [
           {
-            "id": "61bf8a10ad942219",
+            "id": "9bf3d877c1d4d577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/2024-04-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-04-29"
+              "title": "新标签页"
             }
           }
         ]
@@ -34,6 +29,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
+        "dimension": 70.67448680351906,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -76,10 +72,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "91377f2567933505",
+        "type": "tabs",
+        "dimension": 29.32551319648094,
+        "children": [
+          {
+            "id": "d3367a810dcb05d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.51103591918945
+    "width": 218.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -110,31 +123,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/2024-04-29.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024-04-29 的大纲"
-            }
-          },
-          {
-            "id": "d3367a810dcb05d3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +160,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "61bf8a10ad942219",
+  "active": "9bf3d877c1d4d577",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/不对称战争.md",
+    "ThinkBetter/Inbox/不对称战争.md",
+    "ThinkBetter/Inbox/笔记方法.md",
+    "ThinkBetter/DailyNotes/2024-04-29.md",
     "ThinkBetter/Inbox/10个写作的技巧.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
@@ -191,10 +197,6 @@
     "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
-    "ThinkBetter/DailyNotes/2025-06-27.md",
-    "ThinkBetter/Books/知己.md",
-    "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Books/clear thinking",
     "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Sources/img - youtube.png",
