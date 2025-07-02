@@ -41,12 +41,15 @@
             "id": "652861c2394c6c2e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Distill/BOAP - Reading.md"
+                "file": "ThinkBetter/DailyNotes/weekNotes/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BOAP - Reading"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -113,8 +116,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,12 +190,12 @@
   },
   "active": "652861c2394c6c2e",
   "lastOpenFiles": [
+    "ThinkBetter/Distill/BOAP - Reading.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/Books/100种心智模型/幸存者偏差.md",
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/DailyNotes/2025-06-27.md",
-    "ThinkBetter/Distill/BOAP - Reading.md",
     "ThinkBetter/Inbox/后见之明偏差.md",
     "Thinkbetter/Excalidraw/BOAP - Reading.md",
     "ThinkBetter/Excalidraw/Drawing 2025-07-02 13.23.25.excalidraw.md",
