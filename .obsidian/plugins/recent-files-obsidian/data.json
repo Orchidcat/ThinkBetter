@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "ThinkBetter/Inbox/事件timing.md"
+    },
+    {
+      "basename": "how we learn - 阅读",
+      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
+    },
+    {
       "basename": "什么是自学",
       "path": "ThinkBetter/Inbox/什么是自学.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "how i organize my everything in obsidian",
       "path": "ThinkBetter/Inbox/how i organize my everything in obsidian.md"
-    },
-    {
-      "basename": "What is Visual PKM and Why Should You Care",
-      "path": "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md"
-    },
-    {
-      "basename": "The Reading Time Flow.excalidraw",
-      "path": "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md"
     }
   ],
   "omittedPaths": [],
