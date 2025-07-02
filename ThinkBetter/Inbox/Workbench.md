@@ -54,7 +54,7 @@ Mixer 将一个原子信息相关连的概念，提炼到一个地方进行表�
 
 
 
-[[ThinkBetter/Distill/BOAP - Reading|BOAP - Reading]]
+[[BOAP - ThinkBetter|BOAP - ThinkBetter]]
 	- [ ]  [[确认偏差]]
 	- [ ]  [[对激励的偏见]]
 	- [ ]  [[后见之明偏差]]
