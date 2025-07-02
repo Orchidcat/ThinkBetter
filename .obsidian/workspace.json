@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18d7ecc6fccbf1dd",
+        "id": "f2da30ac8e1caba6",
         "type": "tabs",
         "children": [
           {
-            "id": "590bd2472ffa696f",
+            "id": "f13f1ca97a5630d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Clear Thinking"
+              "icon": "excalidraw-icon",
+              "title": "how i organize my everything in obsidian.excalidraw"
             }
           }
         ]
@@ -89,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -120,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "file": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Clear Thinking 的大纲"
+              "title": "how i organize my everything in obsidian.excalidraw 的大纲"
             }
           }
         ],
@@ -159,8 +156,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "590bd2472ffa696f",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
+    "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
+    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
+    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/Inbox/贝叶斯思维.md",
     "ThinkBetter/Inbox/笔记方法.md",
     "ThinkBetter/Inbox/10个写作的技巧.md",
@@ -184,17 +187,11 @@
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/Inbox/WorkFlow TOC.md",
     "ThinkBetter/Inbox/YEAR TOC⌛.md",
-    "ThinkBetter/Inbox/未命名 1.md",
-    "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
-    "ThinkBetter/Inbox/微积分.md",
-    "ThinkBetter/Inbox/外语.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
-    "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw",
-    "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/clear thinking",
