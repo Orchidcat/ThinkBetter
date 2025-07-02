@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "不对称战争",
-      "path": "ThinkBetter/Books/100种心智模型/不对称战争.md"
+      "basename": "分心",
+      "path": "ThinkBetter/Inbox/分心.md"
+    },
+    {
+      "basename": "反直觉",
+      "path": "ThinkBetter/Inbox/反直觉.md"
+    },
+    {
+      "basename": "代码实现",
+      "path": "ThinkBetter/Hobbies/coral/代码实现.md"
+    },
+    {
+      "basename": "大脑睡眠结构图",
+      "path": "ThinkBetter/Inbox/大脑睡眠结构图.md"
+    },
+    {
+      "basename": "初中物理基础判断",
+      "path": "ThinkBetter/Inbox/初中物理基础判断.md"
     },
     {
       "basename": "不对称战争",
-      "path": "ThinkBetter/Inbox/不对称战争.md"
+      "path": "ThinkBetter/Books/100种心智模型/不对称战争.md"
     },
     {
       "basename": "笔记方法",
@@ -183,22 +199,6 @@
     {
       "basename": "how we learn - 阅读黄金比例.excalidraw",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读黄金比例.excalidraw.md"
-    },
-    {
-      "basename": "how we learn - 阅读",
-      "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/Inbox/如何阅读的方法.md"
-    },
-    {
-      "basename": "Pi - Reef Monitor System",
-      "path": "ThinkBetter/Hobbies/coral/Pi - Reef Monitor System.md"
-    },
-    {
-      "basename": "Templates - 论证",
-      "path": "ThinkBetter/Templates/Templates - 论证.md"
     }
   ],
   "omittedPaths": [],
