@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 200" width="300" height="200" class="excalidraw-svg">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <g stroke-linecap="round"><g transform="translate(90.82497728280714 30.918136044815185) rotate(0 60 0)"><path d="M0.45 0.78 C20.74 0.96, 100.84 0.45, 120.67 0.31 M-0.77 0.15 C19.51 0.02, 100.21 -1.83, 120.08 -1.65" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(150.82497728280714 30.918136044815185) rotate(0 0 20)"><path d="M0.36 0.31 C0.44 6.9, 0.21 33.15, 0.14 39.76 M-0.12 -0.01 C-0.07 6.64, -0.17 33.57, -0.22 40.33" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(30.82497728280714 70.91813604481518) rotate(0 120 0)"><path d="M0.67 0.31 C40.51 0.17, 199.6 -0.04, 239.47 -0.05 M-0.43 -0.57 C39.16 -0.58, 198.32 1.09, 238.25 1.47" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(70.82497728280714 70.91813604481518) rotate(0 0 20)"><path d="M0.14 -0.24 C0.08 6.37, -0.02 33.3, -0.02 39.96 M-0.45 0.82 C-0.62 7.5, -0.51 34.08, -0.46 40.64" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(30.82497728280714 110.91813604481518) rotate(0 40 0)"><path d="M-0.53 -0.05 C12.68 -0.06, 66.6 0.44, 79.92 0.25 M1.4 -1.12 C14.38 -1.54, 66.11 -1.85, 78.93 -1.74" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(230.82497728280725 70.91813604481518) rotate(0 0 20)"><path d="M-0.02 -0.04 C-0.03 6.62, 0.2 32.96, 0.12 39.72 M-0.7 -0.53 C-0.77 6.22, -0.46 33.57, -0.26 40.28" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(190.82497728280714 110.91813604481518) rotate(0 40 0)"><path d="M-0.08 0.25 C13.24 0.06, 65.86 -1.11, 79.39 -1.18 M-1.58 -0.66 C12.18 -0.74, 68.03 -0.55, 81.79 -0.26" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(45.17280336976364 145.2659621317717) rotate(0 30 0)"><path d="M0.25 -0.61 C10.06 -0.41, 48.89 0.94, 58.82 1.11 M-1.07 1.69 C9.09 1.58, 50.9 0.13, 60.92 -0.43" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(45.17280336976364 164.83117952307606) rotate(0 30 0)"><path d="M-0.61 -1.18 C9.59 -1.24, 50.94 -0.47, 61.11 -0.15 M1.27 0.82 C11.42 0.92, 50.98 1.64, 60.74 1.31" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(203.43367293498125 146.13552734916294) rotate(0 30 0)"><path d="M-1.18 1.11 C8.76 1.28, 49.53 0.41, 59.85 0.41 M0.41 0.64 C10.15 0.5, 48.83 -1.28, 58.83 -1.5" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(207.346716413242 167.0050925665543) rotate(0 30 0)"><path d="M1.11 -0.15 C11.28 0.18, 50.41 0.86, 60.41 0.78 M0.23 -1.27 C10.33 -1.18, 49.56 -1.21, 59.68 -0.94" stroke="#000000" stroke-width="1" fill="none"/></g></g><mask/><g stroke-linecap="round" transform="translate(10 10) rotate(0 140 90)"><path d="M0 0 C57.1 1.25, 114.56 -0.54, 280 0 M0 0 C69.08 0.29, 138.61 -0.03, 280 0 M280 0 C279.04 37.32, 278.71 73.43, 280 180 M280 0 C278.38 62.55, 279.45 124.55, 280 180 M280 180 C199.46 181.46, 117.36 180.32, 0 180 M280 180 C171.62 180.59, 63.84 180.72, 0 180 M0 180 C-0.4 114.21, -2.11 45.88, 0 0 M0 180 C1.93 135.63, 2.25 92.53, 0 0" stroke="#000000" stroke-width="1" fill="none"/></g></svg>
