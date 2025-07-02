@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Periodic Table of Productivity.excalidraw",
+      "path": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
+    },
+    {
       "basename": "how i organize my everything in obsidian.excalidraw",
       "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "科举",
       "path": "ThinkBetter/Inbox/科举.md"
-    },
-    {
-      "basename": "矛盾论",
-      "path": "ThinkBetter/Books/矛盾论.md"
     }
   ],
   "omittedPaths": [],

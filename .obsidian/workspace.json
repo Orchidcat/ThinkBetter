@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5926235cae342a7e",
+        "id": "89f63a16a2bf3b22",
         "type": "tabs",
         "children": [
           {
-            "id": "6fcde6ef29c518e6",
+            "id": "a2d746b54a563643",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md"
+                "file": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "how i organize my everything in obsidian.excalidraw"
+              "title": "The Periodic Table of Productivity.excalidraw"
             }
           }
         ]
@@ -154,8 +154,19 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "6fcde6ef29c518e6",
+  "active": "a2d746b54a563643",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/Pasted Image 20250702105504_288.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_255.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_230.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_211.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_192.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_167.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_144.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_127.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_103.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_065.svg",
+    "ThinkBetter/Sources/Pasted Image 20250702105504_002.svg",
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
@@ -184,24 +195,13 @@
     "ThinkBetter/Inbox/WILL DURANT.md",
     "ThinkBetter/Inbox/Workbench.md",
     "ThinkBetter/Inbox/WorkFlow TOC.md",
-    "ThinkBetter/Inbox/YEAR TOC⌛.md",
-    "ThinkBetter/Sources/coins.svg",
-    "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Books/clear thinking",
-    "ThinkBetter/Sources/img - youtube.png",
-    "ThinkBetter/Sources/img - youtube.png",
     "ThinkBetter/Inbox",
-    "ThinkBetter/Excalidraw/Img/Pasted image 20240424091129.png",
-    "ThinkBetter/Excalidraw/Img/Pasted image 20240428095238.png",
-    "ThinkBetter/Excalidraw/Img/Icon - box with document, project folder - by iconixar, Flaticon.png",
-    "ThinkBetter/Excalidraw/Img/Icon - zettelkasten, zk.svg",
-    "ThinkBetter/Excalidraw/Img/Icon - writing a test, exam - by Freepik, Flaticons.png",
-    "ThinkBetter/Excalidraw/Img/Icon - willpower, mental resources - by Design Circle, Flaticons.png",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
