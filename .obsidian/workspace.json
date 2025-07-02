@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "幸存者",
+                "query": "如何阅读",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "879f19a88d8273bd",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
