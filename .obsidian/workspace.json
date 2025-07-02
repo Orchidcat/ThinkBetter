@@ -11,10 +11,15 @@
             "id": "ac4f44e75401d7e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/文件组织的5种方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "文件组织的5种方法"
             }
           }
         ]
@@ -115,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/未命名 1.md",
+                "file": "ThinkBetter/Inbox/文件组织的5种方法.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "文件组织的5种方法 的大纲"
             }
           }
         ],
@@ -154,8 +159,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "ac4f44e75401d7e4",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Inbox/微积分.md",
     "ThinkBetter/Inbox/外语.md",
@@ -181,7 +187,6 @@
     "ThinkBetter/Inbox/牛膝.md",
     "ThinkBetter/Inbox/逻辑哲学论.md",
     "ThinkBetter/Books/100种心智模型/没有理解的信息是危险的.md",
-    "ThinkBetter/Inbox/马斯洛需求层次理论.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
