@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Template - 日记 - week - summary",
-      "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
+      "basename": "如何阅读",
+      "path": "ThinkBetter/Inbox/如何阅读.md"
     },
     {
       "basename": "未命名",
       "path": "ThinkBetter/DailyNotes/weekNotes/未命名.md"
+    },
+    {
+      "basename": "如何阅读的方法",
+      "path": "ThinkBetter/Inbox/如何阅读的方法.md"
+    },
+    {
+      "basename": "Template - 日记 - week - summary",
+      "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
     },
     {
       "basename": "2025-07-01",
@@ -191,14 +199,6 @@
     {
       "basename": "how we learn - 阅读",
       "path": "ThinkBetter/Books/how we learn/how we learn - 阅读.md"
-    },
-    {
-      "basename": "什么是自学",
-      "path": "ThinkBetter/Inbox/什么是自学.md"
-    },
-    {
-      "basename": "如何对抗焦虑",
-      "path": "ThinkBetter/Inbox/如何对抗焦虑.md"
     }
   ],
   "omittedPaths": [],
