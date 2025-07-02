@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/文件组织的5种方法.md",
+                "file": "ThinkBetter/Inbox/SQL Server TOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "文件组织的5种方法"
-            }
-          },
-          {
-            "id": "643c90d45c86ac86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/WorkFlow TOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "WorkFlow TOC"
+              "title": "SQL Server TOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/WorkFlow TOC.md",
+                "file": "ThinkBetter/Inbox/SQL Server TOC.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WorkFlow TOC 的大纲"
+              "title": "SQL Server TOC 的大纲"
             }
           }
         ],
@@ -175,11 +159,24 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "643c90d45c86ac86",
+  "active": "ac4f44e75401d7e4",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/bike/Stack.md",
+    "ThinkBetter/Hobbies/bike/Standover.md",
+    "ThinkBetter/Hobbies/bike/Stem Length.md",
+    "ThinkBetter/Inbox/文件组织的5种方法.md",
+    "ThinkBetter/Inbox/target note.md",
+    "ThinkBetter/Inbox/The Reading Time Flow.excalidraw.md",
+    "ThinkBetter/Inbox/Tools.md",
+    "ThinkBetter/Hobbies/bike/Top Tube Length.md",
+    "ThinkBetter/Hobbies/bike/Trail.md",
+    "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
+    "ThinkBetter/Hobbies/bike/Wheelbase.md",
+    "ThinkBetter/Inbox/WILL DURANT.md",
+    "ThinkBetter/Inbox/Workbench.md",
+    "ThinkBetter/Inbox/WorkFlow TOC.md",
     "ThinkBetter/Inbox/YEAR TOC⌛.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
-    "ThinkBetter/Inbox/文件组织的5种方法.md",
     "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md",
     "ThinkBetter/Inbox/微积分.md",
@@ -190,19 +187,6 @@
     "ThinkBetter/Inbox/四圣谛.md",
     "ThinkBetter/Inbox/四言举要.md",
     "ThinkBetter/Inbox/双线战争.md",
-    "ThinkBetter/Books/100种心智模型/双线战争.md",
-    "ThinkBetter/Inbox/书的一种分类（理论或实用）.md",
-    "ThinkBetter/Inbox/视频制作.md",
-    "ThinkBetter/Inbox/事件timing.md",
-    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
-    "ThinkBetter/Inbox/什么是自学.md",
-    "ThinkBetter/Inbox/如何对抗焦虑.md",
-    "ThinkBetter/Inbox/如何成功实验.md",
-    "ThinkBetter/Inbox/容易疲惫怎么办.md",
-    "ThinkBetter/Inbox/秋风辞.md",
-    "ThinkBetter/Books/100种心智模型/平叛.md",
-    "ThinkBetter/Books/100种心智模型/平叛.md",
-    "ThinkBetter/Inbox/帕累托原则.md",
     "ThinkBetter/Sources/coins.svg",
     "ThinkBetter/Sources/Pasted Image 20250701151632_472.png",
     "Excalidraw",
