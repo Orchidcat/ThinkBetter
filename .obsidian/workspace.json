@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5926235cae342a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6fcde6ef29c518e6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -154,7 +154,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6fcde6ef29c518e6",
   "lastOpenFiles": [
     "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
