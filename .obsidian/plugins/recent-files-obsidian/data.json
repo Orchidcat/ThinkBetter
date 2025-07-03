@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
+    },
+    {
       "basename": "Now",
       "path": "ThinkBetter/Inbox/Now.md"
     },
@@ -109,10 +117,6 @@
       "path": "ThinkBetter/Books/悉达多.md"
     },
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
-    },
-    {
       "basename": "选择好书",
       "path": "ThinkBetter/Inbox/选择好书.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-07-02",
       "path": "ThinkBetter/DailyNotes/2025-07-02.md"
-    },
-    {
-      "basename": "BOAP - ThinkBetter",
-      "path": "ThinkBetter/Distill/BOAP - ThinkBetter.md"
     }
   ],
   "omittedPaths": [],
