@@ -1,4 +1,4 @@
-#SQLServer/Internal 
+#SQLServer/Internal  #SQLServer 
 
 
 前期获取页面内容的操作，可见[[DBCC PAGE]]

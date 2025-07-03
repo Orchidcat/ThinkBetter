@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask-buleprint",
+      "path": "ThinkBetter/Inbox/Flask-buleprint.md"
+    },
+    {
+      "basename": "颜色选择",
+      "path": "ThinkBetter/Inbox/颜色选择.md"
+    },
+    {
+      "basename": "摄像头添加",
+      "path": "ThinkBetter/Hobbies/coral/摄像头添加.md"
+    },
+    {
+      "basename": "NumPy",
+      "path": "ThinkBetter/Inbox/NumPy.md"
+    },
+    {
+      "basename": "DBCC PAGE",
+      "path": "ThinkBetter/Work/DBCC PAGE.md"
+    },
+    {
+      "basename": "DBCC IND",
+      "path": "ThinkBetter/Work/DBCC IND.md"
+    },
+    {
       "basename": "GTD",
-      "path": "ThinkBetter/Inbox/GTD.md"
+      "path": "ThinkBetter/Areas/PKM/GTD.md"
     },
     {
       "basename": "WorkFlow TOC",
@@ -175,30 +199,6 @@
     {
       "basename": "二阶思维",
       "path": "ThinkBetter/Books/100种心智模型/二阶思维.md"
-    },
-    {
-      "basename": "对抗愚蠢",
-      "path": "ThinkBetter/Excalidraw/对抗愚蠢.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md"
-    },
-    {
-      "basename": "Pasted image 20250702143403",
-      "path": "ThinkBetter/Sources/Pasted image 20250702143403.png"
-    },
-    {
-      "basename": "Pasted image 20220430085944.png",
-      "path": "ThinkBetter/Inbox/Pasted image 20220430085944.png.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "ThinkBetter/DailyNotes/weekNotes/未命名.md"
-    },
-    {
-      "basename": "幸存者偏差",
-      "path": "ThinkBetter/Books/100种心智模型/幸存者偏差.md"
     }
   ],
   "omittedPaths": [],
