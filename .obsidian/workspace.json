@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcd7b221d230ab7",
+        "id": "e233b2967f05d66a",
         "type": "tabs",
         "children": [
           {
-            "id": "d57a71329eaddbeb",
+            "id": "ddd3c415140c160a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/选择好书.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "选择好书"
             }
           }
         ]
@@ -29,7 +34,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 71.13997113997114,
+        "dimension": 65.22366522366522,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -76,7 +81,7 @@
       {
         "id": "ee40cd9271c8503a",
         "type": "tabs",
-        "dimension": 28.86002886002886,
+        "dimension": 34.77633477633478,
         "children": [
           {
             "id": "c8fa281ebe85bc60",
@@ -92,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.51103591918945
+    "width": 239.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -124,12 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ThinkBetter/Inbox/选择好书.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "选择好书 的大纲"
             }
           }
         ],
@@ -176,8 +182,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c8fa281ebe85bc60",
+  "active": "ddd3c415140c160a",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/excalidraw Storage.md",
+    "ThinkBetter/Inbox/Workbench.md",
+    "ThinkBetter/Inbox/WILL DURANT.md",
+    "ThinkBetter/Inbox/后见之明偏差.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/OB插件.md",
     "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/Inbox/Inbox.md",
@@ -197,13 +208,8 @@
     "ThinkBetter/Inbox/写点儿啥.md",
     "ThinkBetter/Inbox/Kanban MOC.md",
     "ThinkBetter/Inbox/SeizeTheDay.md",
-    "ThinkBetter/Inbox/excalidraw Storage.md",
     "ThinkBetter/Inbox/历史年代.md",
     "ThinkBetter/Inbox/书的一种分类（理论或实用）.md",
-    "ThinkBetter/Inbox/WILL DURANT.md",
-    "ThinkBetter/Inbox/未命名.md",
-    "ThinkBetter/Start Here.md",
-    "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Sources/Pasted image 20250702143403.png",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
