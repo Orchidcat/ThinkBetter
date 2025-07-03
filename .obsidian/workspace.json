@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d13487a56e4d6e18",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "05df843ec5927337",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,7 +151,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05df843ec5927337",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
