@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80486943be6a1315",
+        "id": "f73db5fb566f22a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8fa281ebe85bc60",
+            "id": "d192b02d5e3a639c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,15 +69,21 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ee40cd9271c8503a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d3367a810dcb05d3",
+            "id": "c8fa281ebe85bc60",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -93,6 +99,7 @@
       {
         "id": "1e66276f901512ea",
         "type": "tabs",
+        "dimension": 55.29891304347826,
         "children": [
           {
             "id": "dd3ca0fc6cd1a6d5",
@@ -126,11 +133,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "83c28014ce7b654a",
+        "type": "tabs",
+        "dimension": 44.70108695652174,
+        "children": [
+          {
+            "id": "d3367a810dcb05d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
