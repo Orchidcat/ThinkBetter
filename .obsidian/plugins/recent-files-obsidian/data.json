@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "生姜",
-      "path": "ThinkBetter/Inbox/生姜.md"
+      "basename": "珊瑚颜色",
+      "path": "ThinkBetter/Hobbies/珊瑚颜色.md"
+    },
+    {
+      "basename": "逻辑哲学论",
+      "path": "ThinkBetter/Inbox/逻辑哲学论.md"
+    },
+    {
+      "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
+      "path": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md"
+    },
+    {
+      "basename": "想要读",
+      "path": "ThinkBetter/Inbox/想要读.md"
+    },
+    {
+      "basename": "写作",
+      "path": "ThinkBetter/Inbox/写作.md"
     },
     {
       "basename": "生姜",
@@ -59,10 +75,6 @@
     {
       "basename": "OB插件",
       "path": "ThinkBetter/Inbox/OB插件.md"
-    },
-    {
-      "basename": "写作",
-      "path": "ThinkBetter/Inbox/写作.md"
     },
     {
       "basename": "逻辑学入门",
@@ -187,18 +199,6 @@
     {
       "basename": "2025-06-30",
       "path": "ThinkBetter/DailyNotes/2025-06-30.md"
-    },
-    {
-      "basename": "2025-07-01",
-      "path": "ThinkBetter/DailyNotes/2025-07-01.md"
-    },
-    {
-      "basename": "如何阅读",
-      "path": "ThinkBetter/Inbox/如何阅读.md"
-    },
-    {
-      "basename": "如何阅读的方法",
-      "path": "ThinkBetter/Inbox/如何阅读的方法.md"
     }
   ],
   "omittedPaths": [],
