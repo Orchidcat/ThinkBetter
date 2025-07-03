@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "OB插件",
+      "path": "ThinkBetter/Inbox/OB插件.md"
+    },
+    {
+      "basename": "写作",
+      "path": "ThinkBetter/Inbox/写作.md"
+    },
+    {
+      "basename": "逻辑学入门",
+      "path": "ThinkBetter/Inbox/逻辑学入门.md"
+    },
+    {
+      "basename": "事件timing",
+      "path": "ThinkBetter/Inbox/事件timing.md"
+    },
+    {
       "basename": "Obsidian Plugins",
       "path": "ThinkBetter/Inbox/Obsidian Plugins.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "BoaP - Atomic Habits",
       "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
-    },
-    {
-      "basename": "The Periodic Table of Productivity.excalidraw",
-      "path": "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md"
-    },
-    {
-      "basename": "how i organize my everything in obsidian.excalidraw",
-      "path": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md"
-    },
-    {
-      "basename": "贝叶斯思维",
-      "path": "ThinkBetter/Inbox/贝叶斯思维.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "ThinkBetter/Inbox/笔记方法.md"
     }
   ],
   "omittedPaths": [],
