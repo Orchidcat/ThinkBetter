@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian Plugins",
+      "path": "ThinkBetter/Inbox/Obsidian Plugins.md"
+    },
+    {
+      "basename": "SMART原则",
+      "path": "ThinkBetter/Inbox/SMART原则.md"
+    },
+    {
+      "basename": "年表",
+      "path": "ThinkBetter/Inbox/年表.md"
+    },
+    {
+      "basename": "沃伦·巴菲特",
+      "path": "ThinkBetter/Inbox/沃伦·巴菲特.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/Inbox/学习方法.md"
+    },
+    {
+      "basename": "Reach",
+      "path": "ThinkBetter/Hobbies/bike/Reach.md"
+    },
+    {
+      "basename": "为什么视觉思维技能比以往任何时候都重要",
+      "path": "ThinkBetter/Inbox/为什么视觉思维技能比以往任何时候都重要.md"
+    },
+    {
       "basename": "灰色思维",
-      "path": "ThinkBetter/Inbox/灰色思维.md"
+      "path": "ThinkBetter/Books/100种心智模型/灰色思维.md"
     },
     {
       "basename": "工具箱",
@@ -35,10 +63,6 @@
     {
       "basename": "WILL DURANT",
       "path": "ThinkBetter/Inbox/WILL DURANT.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/Inbox/学习方法.md"
     },
     {
       "basename": "Start Here",
@@ -175,30 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "ThinkBetter/Inbox/笔记方法.md"
-    },
-    {
-      "basename": "10个写作的技巧",
-      "path": "ThinkBetter/Inbox/10个写作的技巧.md"
-    },
-    {
-      "basename": "2022-05-30",
-      "path": "ThinkBetter/DailyNotes/2022-05-30.md"
-    },
-    {
-      "basename": "SQL Server TOC",
-      "path": "ThinkBetter/Inbox/SQL Server TOC.md"
-    },
-    {
-      "basename": "Stack",
-      "path": "ThinkBetter/Hobbies/bike/Stack.md"
-    },
-    {
-      "basename": "Standover",
-      "path": "ThinkBetter/Hobbies/bike/Standover.md"
-    },
-    {
-      "basename": "Stem Length",
-      "path": "ThinkBetter/Hobbies/bike/Stem Length.md"
     }
   ],
   "omittedPaths": [],
