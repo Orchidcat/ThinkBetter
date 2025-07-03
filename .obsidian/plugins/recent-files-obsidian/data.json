@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Now",
+      "path": "ThinkBetter/Inbox/Now.md"
+    },
+    {
+      "basename": "git init",
+      "path": "ThinkBetter/Inbox/git init.md"
+    },
+    {
       "basename": "Flask-buleprint",
       "path": "ThinkBetter/Inbox/Flask-buleprint.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "BOAP - ThinkBetter",
       "path": "ThinkBetter/Distill/BOAP - ThinkBetter.md"
-    },
-    {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
-    },
-    {
-      "basename": "二阶思维",
-      "path": "ThinkBetter/Books/100种心智模型/二阶思维.md"
     }
   ],
   "omittedPaths": [],
