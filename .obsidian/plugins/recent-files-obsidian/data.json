@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GTD",
+      "path": "ThinkBetter/Inbox/GTD.md"
+    },
+    {
       "basename": "WorkFlow TOC",
       "path": "ThinkBetter/Inbox/WorkFlow TOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "幸存者偏差",
       "path": "ThinkBetter/Books/100种心智模型/幸存者偏差.md"
-    },
-    {
-      "basename": "2025-06-27",
-      "path": "ThinkBetter/DailyNotes/2025-06-27.md"
     }
   ],
   "omittedPaths": [],
