@@ -29,7 +29,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 67.67676767676768,
+        "dimension": 71.13997113997114,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -76,7 +76,7 @@
       {
         "id": "ee40cd9271c8503a",
         "type": "tabs",
-        "dimension": 32.323232323232325,
+        "dimension": 28.86002886002886,
         "children": [
           {
             "id": "c8fa281ebe85bc60",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.51103591918945
+    "width": 333.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -176,7 +176,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d57a71329eaddbeb",
+  "active": "c8fa281ebe85bc60",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/OB插件.md",
     "ThinkBetter/Inbox/写作.md",
