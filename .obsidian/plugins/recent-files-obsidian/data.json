@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "阅读的基本规则",
+      "path": "ThinkBetter/Inbox/阅读的基本规则.md"
+    },
+    {
+      "basename": "阅读水平",
+      "path": "ThinkBetter/Inbox/阅读水平.md"
+    },
+    {
+      "basename": "笔记方法",
+      "path": "ThinkBetter/Inbox/笔记方法.md"
+    },
+    {
+      "basename": "选择好书",
+      "path": "ThinkBetter/Inbox/选择好书.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -117,10 +133,6 @@
       "path": "ThinkBetter/Books/悉达多.md"
     },
     {
-      "basename": "选择好书",
-      "path": "ThinkBetter/Inbox/选择好书.md"
-    },
-    {
       "basename": "Workbench",
       "path": "ThinkBetter/Inbox/Workbench.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "SeizeTheDay",
       "path": "ThinkBetter/Inbox/SeizeTheDay.md"
-    },
-    {
-      "basename": "历史年代",
-      "path": "ThinkBetter/Inbox/历史年代.md"
-    },
-    {
-      "basename": "书的一种分类（理论或实用）",
-      "path": "ThinkBetter/Inbox/书的一种分类（理论或实用）.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "ThinkBetter/DailyNotes/2025-07-02.md"
     }
   ],
   "omittedPaths": [],
