@@ -29,6 +29,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
+        "dimension": 67.67676767676768,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -75,6 +76,7 @@
       {
         "id": "ee40cd9271c8503a",
         "type": "tabs",
+        "dimension": 32.323232323232325,
         "children": [
           {
             "id": "c8fa281ebe85bc60",
@@ -90,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945
+    "width": 328.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -174,7 +176,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c8fa281ebe85bc60",
+  "active": "d192b02d5e3a639c",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/学习方法.md",
     "ThinkBetter/Start Here.md",
