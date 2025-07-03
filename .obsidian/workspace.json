@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "cce51fd670ea6068",
+        "id": "bf6fdd17a1bca7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "73dd50b450f34d3e",
+            "id": "37abbc3c6154acc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/阅读的基本规则.md",
+                "file": "ThinkBetter/Inbox/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "阅读的基本规则"
+              "title": "David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;"
+            }
+          },
+          {
+            "id": "a7ae4105cc37d73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Hobbies/bike/Head Tube.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Head Tube"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/阅读的基本规则.md",
+                "file": "ThinkBetter/Hobbies/bike/Head Tube.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "阅读的基本规则 的大纲"
+              "title": "Head Tube 的大纲"
             }
           }
         ],
@@ -182,8 +198,22 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "73dd50b450f34d3e",
+  "active": "a7ae4105cc37d73a",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/bike/Handlebar Width.md",
+    "ThinkBetter/Inbox/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
+    "ThinkBetter/Inbox/David Foster Wallace -  This is Water.md",
+    "ThinkBetter/Hobbies/bike/Fork Length.md",
+    "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md",
+    "ThinkBetter/Hobbies/bike/Front Centre.md",
+    "ThinkBetter/Inbox/git pull.md",
+    "ThinkBetter/Inbox/git push.md",
+    "ThinkBetter/Inbox/git status.md",
+    "ThinkBetter/Inbox/git merge.md",
+    "ThinkBetter/Inbox/阅读的建议.md",
+    "ThinkBetter/Inbox/记笔记.md",
+    "ThinkBetter/Inbox/好的作品.md",
+    "ThinkBetter/Inbox/阅读的基本规则.md",
     "ThinkBetter/Inbox/如何透视一本书.md",
     "ThinkBetter/Inbox/阅读水平.md",
     "ThinkBetter/Inbox/笔记方法.md",
@@ -196,22 +226,8 @@
     "ThinkBetter/Inbox/颜色选择.md",
     "ThinkBetter/Hobbies/coral/摄像头添加.md",
     "ThinkBetter/Inbox/NumPy.md",
-    "ThinkBetter/Work/DBCC PAGE.md",
-    "ThinkBetter/Work/DBCC IND.md",
-    "ThinkBetter/Areas/PKM/GTD.md",
     "ThinkBetter/Areas/PKM",
     "ThinkBetter/Areas",
-    "ThinkBetter/Inbox/WorkFlow TOC.md",
-    "ThinkBetter/Inbox/NotToDo.md",
-    "ThinkBetter/Inbox/基本Q.md",
-    "ThinkBetter/Inbox/惯性.md",
-    "ThinkBetter/Books/100种心智模型/惯性.md",
-    "ThinkBetter/Hobbies/珊瑚颜色.md",
-    "ThinkBetter/Inbox/逻辑哲学论.md",
-    "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
-    "ThinkBetter/Inbox/三指禅.md",
-    "ThinkBetter/Inbox/想要读.md",
-    "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/Inbox/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Sources/Pasted image 20250702143403.png",
