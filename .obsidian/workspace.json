@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c801759c272bb33a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "536c7e38e22e1c9e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ThinkBetter/Distill/BOAP - ThinkBetter.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "BOAP - ThinkBetter"
-            }
-          },
-          {
-            "id": "4bea81389bf7884b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +142,6 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": false,
@@ -170,8 +151,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4bea81389bf7884b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/Distill/BOAP - ThinkBetter.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
@@ -181,7 +163,6 @@
     "ThinkBetter/Sources/Pasted image 20250702143403.png",
     "ThinkBetter/Inbox/Pasted image 20220430085944.png.md",
     "ThinkBetter/Excalidraw/Drawing 2025-07-02 14.06.59.excalidraw.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Books/100种心智模型/幸存者偏差.md",
     "ThinkBetter/Inbox/Workbench.md",
