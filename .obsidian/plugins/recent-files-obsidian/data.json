@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server TOC",
+      "path": "ThinkBetter/Inbox/SQL Server TOC.md"
+    },
+    {
+      "basename": "实践论",
+      "path": "ThinkBetter/Articles/实践论.md"
+    },
+    {
+      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
+      "path": "ThinkBetter/Articles/Michael Lewis - Don't Eat Fortune's Cookie.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "悉达多",
+      "path": "ThinkBetter/Books/悉达多.md"
     },
     {
       "basename": "Start Here",
@@ -183,22 +199,6 @@
     {
       "basename": "000 sketchNoting a Book on a Page",
       "path": "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
-    },
-    {
-      "basename": "diagrams matter for PKM.excalidraw",
-      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
-    },
-    {
-      "basename": "BASB Book on a Page",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
-    },
-    {
-      "basename": "BoaP - Atomic Habits",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw"
     }
   ],
   "omittedPaths": [],
