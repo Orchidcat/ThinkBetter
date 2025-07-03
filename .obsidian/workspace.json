@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f73db5fb566f22a7",
+        "id": "9c586dab9a6e8c28",
         "type": "tabs",
         "children": [
           {
-            "id": "d192b02d5e3a639c",
+            "id": "6e6b76c9fcd36224",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/灰色思维.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "灰色思维"
             }
           }
         ]
@@ -92,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.51103591918945
+    "width": 265.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -124,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
+                "file": "ThinkBetter/Inbox/灰色思维.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how i organize my everything in obsidian.excalidraw 的大纲"
+              "title": "灰色思维 的大纲"
             }
           }
         ],
@@ -155,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +182,17 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d192b02d5e3a639c",
+  "active": "6e6b76c9fcd36224",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/工具箱.md",
+    "ThinkBetter/Inbox/写点儿啥.md",
+    "ThinkBetter/Inbox/Kanban MOC.md",
+    "ThinkBetter/Inbox/SeizeTheDay.md",
+    "ThinkBetter/Inbox/excalidraw Storage.md",
+    "ThinkBetter/Inbox/历史年代.md",
+    "ThinkBetter/Inbox/书的一种分类（理论或实用）.md",
+    "ThinkBetter/Inbox/WILL DURANT.md",
+    "ThinkBetter/Inbox/未命名.md",
     "ThinkBetter/Inbox/学习方法.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
@@ -197,9 +212,6 @@
     "Thinkbetter/Excalidraw/BOAP - Reading.md",
     "ThinkBetter/Excalidraw/Drawing 2025-07-02 13.23.25.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/现代野人.excalidraw.md",
-    "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
-    "Thinkbetter/Excalidraw/Library/remember.excalidraw.md",
-    "Thinkbetter/Excalidraw/Library/Image Library.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619155059.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619140319.png",
@@ -210,20 +222,14 @@
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132655.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132351.png",
-    "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
-    "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
-    "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
-    "Thinkbetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Cropped",
-    "ThinkBetter/Templates/Template - 日记 - week - summary.md",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
