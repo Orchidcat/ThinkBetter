@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "生姜",
+      "path": "ThinkBetter/Inbox/生姜.md"
+    },
+    {
+      "basename": "生姜",
+      "path": "ThinkBetter/人纪/生姜.md"
+    },
+    {
+      "basename": "遗忘曲线",
+      "path": "ThinkBetter/Inbox/遗忘曲线.md"
+    },
+    {
+      "basename": "大脑睡眠结构图",
+      "path": "ThinkBetter/Inbox/大脑睡眠结构图.md"
+    },
+    {
+      "basename": "折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library)",
+      "path": "ThinkBetter/Inbox/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf"
+    },
+    {
       "basename": "SQL Server TOC",
-      "path": "ThinkBetter/Inbox/SQL Server TOC.md"
+      "path": "ThinkBetter/Work/SQL Server TOC.md"
     },
     {
       "basename": "实践论",
@@ -179,26 +199,6 @@
     {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/Inbox/如何阅读的方法.md"
-    },
-    {
-      "basename": "Template - 日记",
-      "path": "ThinkBetter/Templates/Template - 日记.md"
-    },
-    {
-      "basename": "Template - 读书 - summary",
-      "path": "ThinkBetter/Templates/Template - 读书 - summary.md"
-    },
-    {
-      "basename": "Template - 读书",
-      "path": "ThinkBetter/Templates/Template - 读书.md"
-    },
-    {
-      "basename": "Clear Thinking",
-      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
-    },
-    {
-      "basename": "000 sketchNoting a Book on a Page",
-      "path": "ThinkBetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md"
     }
   ],
   "omittedPaths": [],
