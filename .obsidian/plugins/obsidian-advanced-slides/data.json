@@ -5,7 +5,7 @@
   "enableChalkboard": false,
   "enableOverview": true,
   "enableMenu": true,
-  "enablePointer": false,
+  "enablePointer": true,
   "enableTimeBar": true,
   "theme": "black",
   "highlightTheme": "zenburn",
