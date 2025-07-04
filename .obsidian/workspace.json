@@ -52,8 +52,7 @@
               "title": "2025-07-02"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.51103591918945
+    "width": 291.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-02.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-02 的大纲"
+              "title": "2025-07-04 的大纲"
             }
           }
         ],
@@ -213,11 +213,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "82b65a0fabc2f6c9",
+  "active": "f1d753c9f82722a6",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/2025-07-04.md",
     "ThinkBetter/Books/道德箴言录.md",
-    "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Start Here.md",
