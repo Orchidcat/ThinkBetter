@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实践论",
       "path": "ThinkBetter/Articles/实践论.md"
-    },
-    {
-      "basename": "Michael Lewis - Don't Eat Fortune's Cookie",
-      "path": "ThinkBetter/Articles/Michael Lewis - Don't Eat Fortune's Cookie.md"
     }
   ],
   "omittedPaths": [],
