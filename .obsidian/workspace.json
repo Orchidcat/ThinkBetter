@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9769d804fad0fed",
+        "id": "2f54c0082eb0b470",
         "type": "tabs",
         "children": [
           {
-            "id": "d00568a856c6e698",
+            "id": "f1d753c9f82722a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-04"
+              "title": "新标签页"
             }
           }
         ]
@@ -129,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-04 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -182,11 +176,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d00568a856c6e698",
+  "active": "f1d753c9f82722a6",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-07-04.md",
     "ThinkBetter/DailyNotes/2025-07-02.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
-    "ThinkBetter/DailyNotes/2025-07-04.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/如何荒废？.md",
