@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "事件timing",
+      "path": "ThinkBetter/Inbox/事件timing.md"
+    },
+    {
       "basename": "2025-07-04",
       "path": "ThinkBetter/DailyNotes/2025-07-04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "悉达多",
       "path": "ThinkBetter/Books/悉达多.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Inbox/Workbench.md"
     }
   ],
   "omittedPaths": [],
