@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 291.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,7 +182,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d00568a856c6e698",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Start Here.md",
