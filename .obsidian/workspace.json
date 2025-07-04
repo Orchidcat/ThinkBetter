@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "5",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,8 +76,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -183,7 +182,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d00568a856c6e698",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/DailyNotes/2025-07-04.md",
