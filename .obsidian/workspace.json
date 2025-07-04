@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61292ccf87147b01",
+        "id": "b9769d804fad0fed",
         "type": "tabs",
         "children": [
           {
-            "id": "1c44840c29521851",
+            "id": "d00568a856c6e698",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Distill/一句话的玩味.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "一句话的玩味"
+              "title": "新标签页"
             }
           }
         ]
@@ -129,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一句话的玩味 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -182,8 +176,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1c44840c29521851",
+  "active": "d00568a856c6e698",
   "lastOpenFiles": [
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/如何荒废？.md",
     "ThinkBetter/Inbox/我们是如何衡量学会没有的.md",
@@ -209,7 +204,6 @@
     "ThinkBetter/Inbox/阅读的建议.md",
     "ThinkBetter/Inbox/记笔记.md",
     "ThinkBetter/Inbox/好的作品.md",
-    "ThinkBetter/Inbox/阅读的基本规则.md",
     "ThinkBetter/Areas/PKM",
     "ThinkBetter/Areas",
     "ThinkBetter/Inbox/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
