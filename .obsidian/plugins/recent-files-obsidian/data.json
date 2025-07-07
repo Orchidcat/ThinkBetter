@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "气血学习",
+      "path": "ThinkBetter/人纪/气血学习.md"
+    },
+    {
       "basename": "Letters from a Self-Made Merchant to His Son",
       "path": "Letters from a Self-Made Merchant to His Son.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DBCC PAGE",
       "path": "ThinkBetter/Work/DBCC PAGE.md"
-    },
-    {
-      "basename": "DBCC IND",
-      "path": "ThinkBetter/Work/DBCC IND.md"
     }
   ],
   "omittedPaths": [],
