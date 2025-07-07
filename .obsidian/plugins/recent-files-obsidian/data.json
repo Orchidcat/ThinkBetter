@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-02",
+      "path": "ThinkBetter/DailyNotes/2025-07-02.md"
+    },
+    {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "实践论",
+      "path": "ThinkBetter/Articles/实践论.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "ThinkBetter/Areas/PKM/GTD.md"
+    },
+    {
       "basename": "我们是如何衡量学会没有的",
       "path": "ThinkBetter/Inbox/我们是如何衡量学会没有的.md"
     },
@@ -13,20 +33,12 @@
       "path": "心盲.md"
     },
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
-    },
-    {
       "basename": "Letters from a Self-Made Merchant to His Son",
       "path": "Letters from a Self-Made Merchant to His Son.md"
     },
     {
       "basename": "2025-07-04",
       "path": "ThinkBetter/DailyNotes/2025-07-04.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "ThinkBetter/DailyNotes/2025-07-02.md"
     },
     {
       "basename": "道德箴言录",
@@ -157,10 +169,6 @@
       "path": "ThinkBetter/Work/DBCC IND.md"
     },
     {
-      "basename": "GTD",
-      "path": "ThinkBetter/Areas/PKM/GTD.md"
-    },
-    {
       "basename": "WorkFlow TOC",
       "path": "ThinkBetter/Inbox/WorkFlow TOC.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "想要读",
       "path": "ThinkBetter/Inbox/想要读.md"
-    },
-    {
-      "basename": "写作",
-      "path": "ThinkBetter/Inbox/写作.md"
-    },
-    {
-      "basename": "生姜",
-      "path": "ThinkBetter/人纪/生姜.md"
     }
   ],
   "omittedPaths": [],
