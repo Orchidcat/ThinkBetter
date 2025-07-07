@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "荣气与卫气",
+      "path": "ThinkBetter/人纪/荣气与卫气.md"
+    },
+    {
+      "basename": "温病本气篇",
+      "path": "ThinkBetter/人纪/温病本气篇.md"
+    },
+    {
+      "basename": "河图洛书",
+      "path": "ThinkBetter/人纪/河图洛书.md"
+    },
+    {
       "basename": "防己黄芪汤",
       "path": "ThinkBetter/人纪/防己黄芪汤.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "DBCC IND",
       "path": "ThinkBetter/Work/DBCC IND.md"
-    },
-    {
-      "basename": "WorkFlow TOC",
-      "path": "ThinkBetter/Inbox/WorkFlow TOC.md"
-    },
-    {
-      "basename": "NotToDo",
-      "path": "ThinkBetter/Inbox/NotToDo.md"
-    },
-    {
-      "basename": "基本Q",
-      "path": "ThinkBetter/Inbox/基本Q.md"
     }
   ],
   "omittedPaths": [],
