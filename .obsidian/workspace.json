@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/能力圈.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "能力圈"
+              "title": "2025-07-08"
             }
           }
         ]
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.51103591918945
+    "width": 291.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -129,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Letters from a Self-Made Merchant to His Son.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Letters from a Self-Made Merchant to His Son 的大纲"
+              "title": "2025-07-08 的大纲"
             }
           }
         ],
@@ -184,6 +185,8 @@
   },
   "active": "50413d8ff5e9c76e",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/能力圈.md",
+    "ThinkBetter/DailyNotes/2025-07-08.md",
     "ThinkBetter/Inbox/基本Q.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/气血学习.md",
@@ -209,8 +212,6 @@
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/钢铁是怎样练成的.md",
-    "ThinkBetter/Inbox/事件timing.md",
-    "ThinkBetter/Inbox/Neil Gaiman - Make Good Art.md",
     "ThinkBetter/Areas/PKM",
     "ThinkBetter/Areas",
     "ThinkBetter/Inbox/折肱漫录 (（明）黄承昊著述；陈趾麟点注) (Z-Library).pdf",
