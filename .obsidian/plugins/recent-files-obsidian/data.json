@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "基本Q",
+      "path": "ThinkBetter/Inbox/基本Q.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "气血学习",
       "path": "ThinkBetter/人纪/气血学习.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "2025-07-02",
       "path": "ThinkBetter/DailyNotes/2025-07-02.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "实践论",
@@ -195,10 +199,6 @@
     {
       "basename": "NumPy",
       "path": "ThinkBetter/Inbox/NumPy.md"
-    },
-    {
-      "basename": "DBCC PAGE",
-      "path": "ThinkBetter/Work/DBCC PAGE.md"
     }
   ],
   "omittedPaths": [],
