@@ -5,6 +5,10 @@
       "path": "ThinkBetter/DailyNotes/2025-07-08.md"
     },
     {
+      "basename": "塞涅卡",
+      "path": "塞涅卡.md"
+    },
+    {
       "basename": "能力圈",
       "path": "ThinkBetter/Books/100种心智模型/能力圈.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Flask-buleprint",
       "path": "ThinkBetter/Inbox/Flask-buleprint.md"
-    },
-    {
-      "basename": "颜色选择",
-      "path": "ThinkBetter/Inbox/颜色选择.md"
     }
   ],
   "omittedPaths": [],
