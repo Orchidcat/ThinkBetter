@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "逻辑学入门",
+      "path": "ThinkBetter/Inbox/逻辑学入门.md"
+    },
+    {
       "basename": "2025-07-08",
       "path": "ThinkBetter/DailyNotes/2025-07-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git init",
       "path": "ThinkBetter/Inbox/git init.md"
-    },
-    {
-      "basename": "Flask-buleprint",
-      "path": "ThinkBetter/Inbox/Flask-buleprint.md"
     }
   ],
   "omittedPaths": [],

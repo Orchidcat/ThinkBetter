@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
+                "file": "ThinkBetter/Inbox/逻辑学入门.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-08"
+              "title": "逻辑学入门"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
+                "file": "ThinkBetter/Inbox/逻辑学入门.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-08 的大纲"
+              "title": "逻辑学入门 的大纲"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "50413d8ff5e9c76e",
   "lastOpenFiles": [
-    "塞涅卡.md",
     "ThinkBetter/DailyNotes/2025-07-08.md",
+    "塞涅卡.md",
     "ThinkBetter/Books/100种心智模型/能力圈.md",
     "ThinkBetter/Inbox/基本Q.md",
     "ThinkBetter/Start Here.md",
