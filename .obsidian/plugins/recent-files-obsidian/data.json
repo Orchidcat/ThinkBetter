@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "能力圈",
+      "path": "ThinkBetter/Books/100种心智模型/能力圈.md"
+    },
+    {
       "basename": "基本Q",
       "path": "ThinkBetter/Inbox/基本Q.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "摄像头添加",
       "path": "ThinkBetter/Hobbies/coral/摄像头添加.md"
-    },
-    {
-      "basename": "NumPy",
-      "path": "ThinkBetter/Inbox/NumPy.md"
     }
   ],
   "omittedPaths": [],
