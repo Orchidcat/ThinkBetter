@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "072 牢脉",
+      "path": "ThinkBetter/人纪/072 牢脉.md"
+    },
+    {
+      "basename": "006 按诊",
+      "path": "ThinkBetter/人纪/006 按诊.md"
+    },
+    {
+      "basename": "足太阴脾经",
+      "path": "ThinkBetter/人纪/足太阴脾经.md"
+    },
+    {
+      "basename": "中医执业",
+      "path": "ThinkBetter/人纪/中医执业.md"
+    },
+    {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "笔记方法",
       "path": "ThinkBetter/Inbox/笔记方法.md"
-    },
-    {
-      "basename": "选择好书",
-      "path": "ThinkBetter/Inbox/选择好书.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
-    },
-    {
-      "basename": "Now",
-      "path": "ThinkBetter/Inbox/Now.md"
-    },
-    {
-      "basename": "git init",
-      "path": "ThinkBetter/Inbox/git init.md"
     }
   ],
   "omittedPaths": [],
