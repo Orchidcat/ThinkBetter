@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
+      "basename": "001 @MOC中医",
+      "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
       "basename": "塞涅卡",
       "path": "ThinkBetter/Archive/塞涅卡.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阅读的建议",
       "path": "ThinkBetter/Inbox/阅读的建议.md"
-    },
-    {
-      "basename": "记笔记",
-      "path": "ThinkBetter/Inbox/记笔记.md"
     }
   ],
   "omittedPaths": [],
