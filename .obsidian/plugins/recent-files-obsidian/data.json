@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Letters from a Self-Made Merchant to His Son",
+      "path": "Letters from a Self-Made Merchant to His Son.md"
+    },
+    {
+      "basename": "塞涅卡",
+      "path": "ThinkBetter/Archive/塞涅卡.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "中医",
+      "path": "ThinkBetter/Inbox/中医.md"
     },
     {
       "basename": "25年总结的25个idea",
@@ -45,10 +57,6 @@
       "path": "ThinkBetter/Inbox/逻辑学入门.md"
     },
     {
-      "basename": "塞涅卡",
-      "path": "塞涅卡.md"
-    },
-    {
       "basename": "能力圈",
       "path": "ThinkBetter/Books/100种心智模型/能力圈.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "气血学习",
       "path": "ThinkBetter/人纪/气血学习.md"
-    },
-    {
-      "basename": "Letters from a Self-Made Merchant to His Son",
-      "path": "Letters from a Self-Made Merchant to His Son.md"
     },
     {
       "basename": "荣气与卫气",
@@ -195,10 +199,6 @@
     {
       "basename": "记笔记",
       "path": "ThinkBetter/Inbox/记笔记.md"
-    },
-    {
-      "basename": "好的作品",
-      "path": "ThinkBetter/Inbox/好的作品.md"
     }
   ],
   "omittedPaths": [],
