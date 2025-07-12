@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "ThinkBetter/人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
+    },
+    {
+      "basename": "黄芪",
+      "path": "ThinkBetter/人纪/黄芪.md"
     },
     {
       "basename": "Start Here",
@@ -191,14 +199,6 @@
     {
       "basename": "Fork Rake（Fork Offset）",
       "path": "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md"
-    },
-    {
-      "basename": "Front Centre",
-      "path": "ThinkBetter/Hobbies/bike/Front Centre.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "ThinkBetter/Inbox/阅读的建议.md"
     }
   ],
   "omittedPaths": [],
