@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-12.md",
+                "file": "ThinkBetter/人纪/002 黄帝内经.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-12 的大纲"
+              "title": "002 黄帝内经 的大纲"
             }
           }
         ],
@@ -204,10 +204,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2ed67a7c1ecf84f4",
+  "active": "4418e6c4f1af4cd3",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/DailyNotes/2025-07-12.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/Start Here.md",
     "Letters from a Self-Made Merchant to His Son.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
