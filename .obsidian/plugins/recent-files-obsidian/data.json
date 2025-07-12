@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "2025-07-12",
+      "path": "ThinkBetter/DailyNotes/2025-07-12.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "Letters from a Self-Made Merchant to His Son",
       "path": "Letters from a Self-Made Merchant to His Son.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "黄芪",
       "path": "ThinkBetter/人纪/黄芪.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "塞涅卡",
@@ -191,14 +199,6 @@
     {
       "basename": "David Foster Wallace -  This is Water",
       "path": "ThinkBetter/Inbox/David Foster Wallace -  This is Water.md"
-    },
-    {
-      "basename": "Fork Length",
-      "path": "ThinkBetter/Hobbies/bike/Fork Length.md"
-    },
-    {
-      "basename": "Fork Rake（Fork Offset）",
-      "path": "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md"
     }
   ],
   "omittedPaths": [],
