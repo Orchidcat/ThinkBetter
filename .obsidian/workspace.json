@@ -37,8 +37,7 @@
               "title": "002 黄帝内经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.51103591918945
+    "width": 291.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002 黄帝内经 的大纲"
+              "title": "2025-07-12 的大纲"
             }
           }
         ],
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +198,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4418e6c4f1af4cd3",
+  "active": "2ed67a7c1ecf84f4",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/DailyNotes/2025-07-12.md",
     "ThinkBetter/Start Here.md",
     "Letters from a Self-Made Merchant to His Son.md",
@@ -226,7 +228,6 @@
     "ThinkBetter/人纪/荣气与卫气.md",
     "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/人纪/河图洛书.md",
-    "ThinkBetter/人纪/防己黄芪汤.md",
     "ThinkBetter/Hobbies/3D print",
     "ThinkBetter/Areas/PKM",
     "ThinkBetter/Areas",
