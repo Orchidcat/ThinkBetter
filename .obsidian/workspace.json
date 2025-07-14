@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "2025-07-14"
             }
+          },
+          {
+            "id": "39e590fbf3b66b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/论生命之短暂.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "论生命之短暂"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-14.md",
+                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-14 的大纲"
+              "title": "论生命之短暂 的大纲"
             }
           }
         ],
@@ -229,10 +244,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bf060eefa2d75c06",
+  "active": "39e590fbf3b66b21",
   "lastOpenFiles": [
-    "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/DailyNotes/2025-07-14.md",
+    "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/Hobbies/bike/Standover.md",
     "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
     "ThinkBetter/Hobbies/bike/Axle Spacing.md",
@@ -258,7 +274,6 @@
     "ThinkBetter/Archive",
     "ThinkBetter/Inbox/中医.md",
     "ThinkBetter/Inbox/25年总结的25个idea.md",
-    "ThinkBetter/DailyNotes/2025-07-11.md",
     "ThinkBetter/Sources/Pasted image 20250711085847.png",
     "ThinkBetter/Hobbies/3D print",
     "ThinkBetter/Areas/PKM",
