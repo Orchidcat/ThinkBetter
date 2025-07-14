@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2025-07-08"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "塞涅卡",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -185,14 +186,14 @@
   },
   "active": "682261126f5be7e1",
   "lastOpenFiles": [
+    "ThinkBetter/Archive/塞涅卡.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-12.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/Start Here.md",
     "Letters from a Self-Made Merchant to His Son.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/黄芪.md",
-    "ThinkBetter/Archive/塞涅卡.md",
     "ThinkBetter/Archive/心盲.md",
     "ThinkBetter/Archive",
     "ThinkBetter/Inbox/中医.md",
