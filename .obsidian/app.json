@@ -7,5 +7,12 @@
   "spellcheck": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "ThinkBetter/Inbox",
-  "attachmentFolderPath": "ThinkBetter/Sources"
+  "attachmentFolderPath": "ThinkBetter/Sources",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }
