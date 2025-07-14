@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Hobbies/bike/自行车几何学.md"
     },
     {
+      "basename": "Standover",
+      "path": "ThinkBetter/Hobbies/bike/Standover.md"
+    },
+    {
       "basename": "Actual Seat Tube Angel",
       "path": "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "我们是如何衡量学会没有的",
       "path": "ThinkBetter/Inbox/我们是如何衡量学会没有的.md"
-    },
-    {
-      "basename": "2025-07-04",
-      "path": "ThinkBetter/DailyNotes/2025-07-04.md"
     }
   ],
   "omittedPaths": [],
