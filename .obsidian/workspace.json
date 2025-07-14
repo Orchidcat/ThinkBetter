@@ -28,17 +28,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/letter from a stoic.md",
+                "file": "ThinkBetter/Hobbies/bike/Reach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "letter from a stoic"
+              "title": "Reach"
+            }
+          },
+          {
+            "id": "2621deeb55ac783c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Hobbies/bike/Head Tube.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Head Tube"
+            }
+          },
+          {
+            "id": "bf060eefa2d75c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Hobbies/bike/自行车几何学.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "自行车几何学"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +122,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -114,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.51103591918945,
-    "collapsed": true
+    "width": 291.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -200,10 +228,19 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "30c85cf514743767",
+  "active": "bf060eefa2d75c06",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-07-08.md",
+    "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
+    "ThinkBetter/Hobbies/bike/Axle Spacing.md",
+    "ThinkBetter/Hobbies/bike/Crank Length.md",
+    "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md",
+    "ThinkBetter/Hobbies/bike/Fork Length.md",
+    "ThinkBetter/Hobbies/bike/Stack.md",
+    "ThinkBetter/Hobbies/bike/Head Tube.md",
+    "ThinkBetter/Hobbies/bike/Reach.md",
+    "ThinkBetter/Hobbies/bike/项目 MOC.md",
     "ThinkBetter/Books/letter from a stoic.md",
+    "ThinkBetter/DailyNotes/2025-07-08.md",
     "未命名.canvas",
     "ThinkBetter/Archive/塞涅卡.md",
     "ThinkBetter/Start Here.md",
@@ -222,15 +259,6 @@
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/072 牢脉.md",
     "ThinkBetter/人纪/006 按诊.md",
-    "ThinkBetter/人纪/足太阴脾经.md",
-    "ThinkBetter/人纪/中医执业.md",
-    "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
-    "ThinkBetter/Inbox/逻辑学入门.md",
-    "ThinkBetter/Books/100种心智模型/能力圈.md",
-    "ThinkBetter/Inbox/基本Q.md",
-    "ThinkBetter/人纪/气血学习.md",
-    "ThinkBetter/人纪/荣气与卫气.md",
-    "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/Hobbies/3D print",
     "ThinkBetter/Areas/PKM",
     "ThinkBetter/Areas",
