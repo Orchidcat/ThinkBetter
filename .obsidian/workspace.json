@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "2025-07-08"
             }
+          },
+          {
+            "id": "30c85cf514743767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/letter from a stoic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "letter from a stoic"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +200,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "682261126f5be7e1",
+  "active": "30c85cf514743767",
   "lastOpenFiles": [
-    "未命名.canvas",
     "ThinkBetter/DailyNotes/2025-07-08.md",
+    "ThinkBetter/Books/letter from a stoic.md",
+    "未命名.canvas",
     "ThinkBetter/Archive/塞涅卡.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-12.md",
