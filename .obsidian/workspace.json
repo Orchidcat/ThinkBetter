@@ -81,9 +81,19 @@
               "icon": "lucide-file",
               "title": "论生命之短暂"
             }
+          },
+          {
+            "id": "9ecdfdad74ad3f9e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,13 +201,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论生命之短暂 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -244,10 +253,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "39e590fbf3b66b21",
+  "active": "9ecdfdad74ad3f9e",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-07-14.md",
     "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/DailyNotes/2025-07-14.md",
     "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/Hobbies/bike/Standover.md",
     "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
