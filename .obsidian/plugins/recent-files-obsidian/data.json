@@ -5,6 +5,10 @@
       "path": "ThinkBetter/DailyNotes/2025-07-08.md"
     },
     {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
       "basename": "塞涅卡",
       "path": "ThinkBetter/Archive/塞涅卡.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Handlebar Width",
       "path": "ThinkBetter/Hobbies/bike/Handlebar Width.md"
-    },
-    {
-      "basename": "David Foster Wallace -  This is Water",
-      "path": "ThinkBetter/Inbox/David Foster Wallace -  This is Water.md"
     }
   ],
   "omittedPaths": [],
