@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "682261126f5be7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-08"
-            }
-          },
-          {
             "id": "30c85cf514743767",
             "type": "leaf",
             "state": {
@@ -50,21 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "Head Tube"
-            }
-          },
-          {
-            "id": "bf060eefa2d75c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-14"
             }
           },
           {
@@ -98,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,10 +231,14 @@
   },
   "active": "9ecdfdad74ad3f9e",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-07-15.md",
-    "ThinkBetter/Inbox/25年总结的25个idea.md",
+    "ThinkBetter/Hobbies/bike/Reach.md",
+    "ThinkBetter/DailyNotes/2025-07-08.md",
+    "ThinkBetter/Hobbies/bike/Head Tube.md",
     "ThinkBetter/DailyNotes/2025-07-14.md",
     "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/Books/超速学习.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
+    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/Hobbies/bike/Standover.md",
     "ThinkBetter/Hobbies/bike/Actual Seat Tube Angel.md",
@@ -273,11 +247,8 @@
     "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md",
     "ThinkBetter/Hobbies/bike/Fork Length.md",
     "ThinkBetter/Hobbies/bike/Stack.md",
-    "ThinkBetter/Hobbies/bike/Head Tube.md",
-    "ThinkBetter/Hobbies/bike/Reach.md",
     "ThinkBetter/Hobbies/bike/项目 MOC.md",
     "ThinkBetter/Books/letter from a stoic.md",
-    "ThinkBetter/DailyNotes/2025-07-08.md",
     "未命名.canvas",
     "ThinkBetter/Archive/塞涅卡.md",
     "ThinkBetter/Start Here.md",
@@ -287,7 +258,6 @@
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/黄芪.md",
-    "ThinkBetter/Archive/心盲.md",
     "ThinkBetter/Archive",
     "ThinkBetter/Sources/Pasted image 20250711085847.png",
     "ThinkBetter/Hobbies/3D print",
