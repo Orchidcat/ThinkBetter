@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "哨兵模式",
+      "path": "ThinkBetter/Articles/哨兵模式.md"
+    },
+    {
       "basename": "_MOC - 100种心智模型",
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "生姜",
       "path": "ThinkBetter/人纪/药/生姜.md"
-    },
-    {
-      "basename": "如何荒废？",
-      "path": "ThinkBetter/Inbox/如何荒废？.md"
     }
   ],
   "omittedPaths": [],
