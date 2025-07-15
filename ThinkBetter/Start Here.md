@@ -31,15 +31,6 @@
 >> [[001 @MOC中医|中医]]
 >> [[事件timing]]
 
-```dataview
-table file.name as "Note", date(file.mtime) as "Date"
-from ""
-where file.mtime >= date(today) - dur(7 days)
-sort file.mtime desc
-group by date(file.mtime)
-```
-
-
 一张○运动图，包含时节，卦位，病症，对应药物
 
 ```dataviewjs

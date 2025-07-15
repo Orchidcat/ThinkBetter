@@ -52,8 +52,7 @@
               "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +214,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5fbf73124c02753b",
+  "active": "b05dc67d9304db6d",
   "lastOpenFiles": [
     "ThinkBetter/Books/how people learn.md",
-    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Sources/Pasted image 20250715110429.png",
     "ThinkBetter/Sources/Pasted image 20250715110315.png",
     "ThinkBetter/Books/超速学习.md",
