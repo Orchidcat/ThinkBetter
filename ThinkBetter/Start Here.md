@@ -33,7 +33,7 @@
 
 ```dataview
 table file.name as "Note", date(file.mtime) as "Date"
-from "books"
+from ""
 where file.mtime >= date(today) - dur(7 days)
 sort file.mtime desc
 group by date(file.mtime)
