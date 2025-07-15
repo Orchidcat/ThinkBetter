@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.51103591918945
+    "width": 291.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/超速学习.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "超速学习 的大纲"
+              "title": "2025-07-15 的大纲"
             }
           }
         ],
@@ -214,10 +215,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "9ecdfdad74ad3f9e",
+  "active": "41047317e5fe1907",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Books/超速学习.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/Hobbies/bike/Reach.md",
     "ThinkBetter/DailyNotes/2025-07-08.md",
