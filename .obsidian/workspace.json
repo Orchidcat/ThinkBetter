@@ -237,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +259,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d3367a810dcb05d3",
+  "active": "9ecdfdad74ad3f9e",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/DailyNotes/2025-07-15.md",
