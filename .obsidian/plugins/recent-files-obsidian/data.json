@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "how people learn",
+      "path": "ThinkBetter/Books/how people learn.md"
+    },
+    {
       "basename": "2025-07-15",
       "path": "ThinkBetter/DailyNotes/2025-07-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "历史的教训",
       "path": "ThinkBetter/Books/历史的教训.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     }
   ],
   "omittedPaths": [],
