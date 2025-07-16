@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
+                "file": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-15"
+              "title": "思考问题的三个过滤器"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "filter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,13 +244,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "fd123ebea5758b06",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Articles/哨兵模式.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Books/100种心智模型/学习迁移.md",
     "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
-    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Archive/心盲.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/Books/how people learn.md",
