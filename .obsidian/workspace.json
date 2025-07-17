@@ -96,9 +96,24 @@
               "icon": "lucide-file",
               "title": "2025-07-15"
             }
+          },
+          {
+            "id": "7111996e5534ef3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-01"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-15 的大纲"
+              "title": "2025-07-01 的大纲"
             }
           }
         ],
@@ -237,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,12 +273,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "96ce357f36cde327",
+  "active": "7111996e5534ef3e",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-07-17.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Articles/哨兵模式.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
-    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Books/100种心智模型/学习迁移.md",
     "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
@@ -288,7 +303,6 @@
     "ThinkBetter/Hobbies/bike/Fork Length.md",
     "ThinkBetter/Hobbies/bike/Stack.md",
     "ThinkBetter/Hobbies/bike/项目 MOC.md",
-    "ThinkBetter/Books/letter from a stoic.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Sources/Pasted image 20250711085847.png",
