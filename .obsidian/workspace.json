@@ -28,92 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how people learn.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how people learn"
-            }
-          },
-          {
-            "id": "5fbf73124c02753b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Start Here"
-            }
-          },
-          {
-            "id": "560dc50e59ed8d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Articles/哨兵模式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "哨兵模式"
-            }
-          },
-          {
-            "id": "fd123ebea5758b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "思考问题的三个过滤器"
-            }
-          },
-          {
-            "id": "96ce357f36cde327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-15"
-            }
-          },
-          {
-            "id": "7111996e5534ef3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-01"
+              "title": "2025-07-17"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-01.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-17.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-01 的大纲"
+              "title": "2025-07-17 的大纲"
             }
           }
         ],
@@ -252,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,19 +199,20 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "7111996e5534ef3e",
+  "active": "de80bacd20f002c7",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-07-17.md",
-    "ThinkBetter/DailyNotes/2025-07-15.md",
+    "ThinkBetter/Books/how people learn.md",
+    "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Articles/哨兵模式.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
+    "ThinkBetter/DailyNotes/2025-07-17.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Books/100种心智模型/学习迁移.md",
     "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
     "ThinkBetter/Archive/心盲.md",
     "ThinkBetter/Books/论生命之短暂.md",
-    "ThinkBetter/Books/how people learn.md",
     "ThinkBetter/Sources/Pasted image 20250715110429.png",
     "ThinkBetter/Sources/Pasted image 20250715110315.png",
     "ThinkBetter/Books/超速学习.md",
@@ -302,7 +229,6 @@
     "ThinkBetter/Hobbies/bike/Fork Rake（Fork Offset）.md",
     "ThinkBetter/Hobbies/bike/Fork Length.md",
     "ThinkBetter/Hobbies/bike/Stack.md",
-    "ThinkBetter/Hobbies/bike/项目 MOC.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Sources/Pasted image 20250711085847.png",
