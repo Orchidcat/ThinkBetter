@@ -52,7 +52,8 @@
               "title": "一句话的玩味"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-22.md",
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-22 的大纲"
+              "title": "一句话的玩味 的大纲"
             }
           }
         ],
@@ -214,11 +215,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e3fd9a7d11bc3dc9",
+  "active": "1bc09160c671bef4",
   "lastOpenFiles": [
-    "ThinkBetter/Distill/一句话的玩味.md",
-    "ThinkBetter/DailyNotes/2025-07-22.md",
     "ThinkBetter/人纪/六气.md",
+    "ThinkBetter/DailyNotes/2025-07-22.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/人纪/时病本气篇.md",
     "ThinkBetter/Start Here.md",
