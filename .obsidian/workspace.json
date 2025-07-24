@@ -37,8 +37,7 @@
               "title": "round-anything"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/round-anything.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-24.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "round-anything 的大纲"
+              "title": "2025-07-24 的大纲"
             }
           }
         ],
@@ -200,7 +199,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a8dab9298fe76faf",
+  "active": "5e34152142f93db7",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/round-anything.md",
     "ThinkBetter/DailyNotes/2025-07-24.md",
