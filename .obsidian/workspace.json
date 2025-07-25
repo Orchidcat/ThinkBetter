@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-21.md",
+                "file": "ThinkBetter/Books/how people learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-21"
+              "title": "how people learn"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-21.md",
+                "file": "ThinkBetter/Books/how people learn.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-21 的大纲"
+              "title": "how people learn 的大纲"
             }
           }
         ],
@@ -215,6 +215,7 @@
   "active": "5e34152142f93db7",
   "lastOpenFiles": [
     "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-24.md",
     "ThinkBetter/Books/逻辑学入门.md",
@@ -223,7 +224,6 @@
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/DailyNotes/2025-07-22.md",
-    "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/人纪/时病本气篇.md",
     "ThinkBetter/Inbox/工具箱🧰.md",
     "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
