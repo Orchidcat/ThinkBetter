@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-08-01.md",
+                "file": "ThinkBetter/Books/正见.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-01"
+              "title": "正见"
             }
           }
         ]
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945,
-    "collapsed": true
+    "width": 274.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -130,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-08-01.md",
+                "file": "ThinkBetter/Books/正见.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-08-01 的大纲"
+              "title": "正见 的大纲"
             }
           }
         ],
@@ -185,6 +184,7 @@
   },
   "active": "46f103da140cd187",
   "lastOpenFiles": [
+    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-01.md",
     "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
@@ -210,7 +210,6 @@
     "ThinkBetter/Books/American Steel.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/Books/how people learn.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Sources/Pasted image 20250717093220.png",
     "ThinkBetter/Sources/Pasted image 20250715110429.png",
     "ThinkBetter/Sources/Pasted image 20250715110315.png",
