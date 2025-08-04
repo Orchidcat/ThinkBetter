@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a68a3102e3534894",
+        "id": "0cd0c6066eba3ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "46f103da140cd187",
+            "id": "2a9d4c3d843e2a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,12 +182,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "46f103da140cd187",
+  "active": "2a9d4c3d843e2a3d",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-01.md",
     "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/DailyNotes/2025-07-28.md",
