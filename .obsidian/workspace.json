@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大暑",
+                "query": "顺序",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +92,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -113,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945,
-    "collapsed": true
+    "width": 274.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -199,7 +199,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4783f7ea3629787f",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2025-08-04.md",
     "ThinkBetter/Books/London UnderGround By Design.md",
