@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-08-05.md",
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-05"
+              "title": "194 中医诊断学"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原穴",
+                "query": "中医",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945,
-    "collapsed": true
+    "width": 274.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-08-05.md",
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-08-05 的大纲"
+              "title": "194 中医诊断学 的大纲"
             }
           }
         ],
@@ -207,8 +206,8 @@
   },
   "active": "c66c7f064b7d84e8",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/DailyNotes/2025-08-05.md",
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-04.md",
     "ThinkBetter/Books/London UnderGround By Design.md",
