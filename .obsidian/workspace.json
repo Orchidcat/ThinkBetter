@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中医",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -118,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/090 人纪 - 针灸.md",
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "090 人纪 - 针灸 的大纲"
+              "title": "194 中医诊断学 的大纲"
             }
           }
         ],
@@ -203,11 +204,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "c66c7f064b7d84e8",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
     "ThinkBetter/DailyNotes/2025-08-05.md",
-    "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-04.md",
     "ThinkBetter/Books/London UnderGround By Design.md",
