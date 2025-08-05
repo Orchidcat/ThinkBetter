@@ -97,8 +97,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -151,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/194 中医诊断学.md",
+                "file": "ThinkBetter/人纪/090 人纪 - 针灸.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "194 中医诊断学 的大纲"
+              "title": "090 人纪 - 针灸 的大纲"
             }
           }
         ],
@@ -204,8 +203,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c66c7f064b7d84e8",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/194 中医诊断学.md",
     "ThinkBetter/DailyNotes/2025-08-05.md",
     "ThinkBetter/人纪/090 人纪 - 针灸.md",
     "ThinkBetter/Start Here.md",
@@ -241,7 +241,6 @@
     "ThinkBetter/Books/重来3：跳出疯狂的忙碌（如果可以重来，你还会做工作狂么？财经作家吴晓波推荐；一个名为“慢公司”时代的来临） by 贾森·弗里德 and 戴维·海涅迈尔·汉森.md",
     "ThinkBetter/Books/反脆弱从不确定性中获益 by 纳西姆•尼古拉斯•塔勒布.md",
     "ThinkBetter/Books/掌控习惯（樊登读书倾力推荐，美国获奖无数的现象级畅销书。得到&吴晓波倾力推荐。豆瓣评分8.3，个人实践版—习惯的力量） by 詹姆斯·克利尔(James Clear).md",
-    "ThinkBetter/Books/阅读是一座随身携带的避难所毛姆读书随笔 by 毛姆.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Hobbies/3D print",
