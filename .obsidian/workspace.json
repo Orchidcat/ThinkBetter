@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "愚蠢的来源"
             }
+          },
+          {
+            "id": "da507f837182cb19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "何以为父：影响彼此一生的父子关系"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
+                "file": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "愚蠢的来源 的大纲"
+              "title": "何以为父：影响彼此一生的父子关系 的大纲"
             }
           }
         ],
@@ -183,8 +199,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a839a124b2ebca4b",
+  "active": "da507f837182cb19",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Excalidraw/对抗愚蠢.md",
     "ThinkBetter/Start Here.md",
@@ -220,7 +237,6 @@
     "ThinkBetter/Books/圆运动的古中医学续集 (古中医学堂丛书) by 彭子益.md",
     "ThinkBetter/Books/圆运动的古中医学 by 彭子益.md",
     "ThinkBetter/Books/噪声.md",
-    "ThinkBetter/Books/重来3部合集【更为简单有效的商业思维、更为简单高效的远程工作方式、跳出疯狂的忙碌】 by 贾森•弗里德, 美贾森•弗里德, 戴维•海涅迈尔•汉森, 贾森·弗里德, and 戴维·海涅迈尔·汉森.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Hobbies/3D print",
