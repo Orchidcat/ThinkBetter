@@ -37,8 +37,7 @@
               "title": "何以为父：影响彼此一生的父子关系"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
+                "file": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "何以为父：影响彼此一生的父子关系 的大纲"
+              "title": "愚蠢的来源 的大纲"
             }
           }
         ],
@@ -199,8 +198,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "da507f837182cb19",
+  "active": "a839a124b2ebca4b",
   "lastOpenFiles": [
+    "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/Books/100种心智模型/愚蠢的来源.md",
     "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Excalidraw/对抗愚蠢.md",
@@ -225,7 +225,6 @@
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/DailyNotes/2025-08-01.md",
-    "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/DailyNotes/2025-07-28.md",
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治中第六.md",
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md",
