@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2025-08-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2025-08-19"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2025-08-19.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "2025-08-19 的大纲"
             }
           }
         ],
@@ -184,10 +184,11 @@
   },
   "active": "96da975d5ed6b273",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-08-19.md",
     "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "费德勒演讲.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-11.md",
     "```.md",
     "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
@@ -219,7 +220,6 @@
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/黄芪.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Hobbies/3D print",
