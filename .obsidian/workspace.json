@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0d69067c01bd66",
+        "id": "dfec71d994ebaa93",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fa751c74cb03fd",
+            "id": "96da975d5ed6b273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-08-11.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-11"
-            }
-          },
-          {
-            "id": "f713f0ab0b648abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "费德勒演讲.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "费德勒演讲"
-            }
-          },
-          {
-            "id": "41cf52dae53d164b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_ MOC - Books"
+              "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/Start Here.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_ MOC - Books 的大纲"
+              "title": "Start Here 的大纲"
             }
           }
         ],
@@ -192,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +182,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "41cf52dae53d164b",
+  "active": "96da975d5ed6b273",
   "lastOpenFiles": [
-    "费德勒演讲.md",
+    "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Books/_ MOC - Books.md",
+    "费德勒演讲.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-08-11.md",
     "```.md",
@@ -251,7 +220,6 @@
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/黄芪.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/Books/医学衷中参西录(套装共3册) (中医典籍丛刊) by 张锡纯.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Hobbies/3D print",
