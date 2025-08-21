@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/知己.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "知己"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "愚蠢",
+                "query": "月经",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -97,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/知己.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "知己 的大纲"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "9bea0e80e844643f",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-08-19.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-08-19.md",
     "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "费德勒演讲.md",
@@ -220,7 +221,6 @@
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治上第五.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
-    "ThinkBetter/人纪/黄芪.md",
     "未命名.canvas",
     "ThinkBetter/Archive",
     "ThinkBetter/Hobbies/3D print",
