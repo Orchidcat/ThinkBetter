@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-01",
+      "path": "ThinkBetter/DailyNotes/2025-09-01.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "round-anything",
       "path": "ThinkBetter/Inbox/round-anything.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/Distill/一句话的玩味.md"
     }
   ],
   "omittedPaths": [],
