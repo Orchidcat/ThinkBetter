@@ -76,8 +76,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -98,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -183,7 +181,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f5300b8cfc26bdc3",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-01.md",
