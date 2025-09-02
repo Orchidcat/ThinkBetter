@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-09-01 15.47.23.excalidraw"
             }
+          },
+          {
+            "id": "f61b9d29be0f871b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-02 14.37.07.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,30 +191,27 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "75898fa5dc6acaca",
+  "active": "f61b9d29be0f871b",
   "lastOpenFiles": [
-    "ThinkBetter/Sources/Pasted Image 20250902110734_612.png",
     "ThinkBetter/Start Here.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
-    "ThinkBetter/DailyNotes/2025-09-01.md",
-    "ThinkBetter/Sources/Pasted Image 20250901161829_477.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161755_799.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161653_542.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161602_421.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161522_044.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161402_428.png",
-    "ThinkBetter/Sources/Pasted Image 20250901161053_340.png",
-    "ThinkBetter/Sources/Pasted Image 20250901160946_473.png",
-    "ThinkBetter/Sources/Pasted Image 20250901160821_371.png",
-    "ThinkBetter/Sources/Pasted Image 20250901160716_108.png",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
-    "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
+    "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/现代野人.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/remember.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/Image Library.md",
+    "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619155059.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619140319.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619134727.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619133304.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619133011.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132655.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132351.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132139.png",
     "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
@@ -210,13 +220,17 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
-    "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/对抗愚蠢.md",
+    "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/example",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
+    "ThinkBetter/DailyNotes/2025-09-01.md",
+    "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-08-28.md",
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
@@ -225,7 +239,6 @@
     "ThinkBetter/Books/_ MOC - Books.md",
     "费德勒演讲.md",
     "ThinkBetter/DailyNotes/2025-08-11.md",
-    "```.md",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
