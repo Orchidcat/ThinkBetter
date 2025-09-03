@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "475df3c735b891af",
+        "id": "751d90ce9625c90e",
         "type": "tabs",
         "children": [
           {
-            "id": "75898fa5dc6acaca",
+            "id": "655f37ca43c431c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md"
+                "file": "ThinkBetter/DailyNotes/2025-09-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-01 15.47.23.excalidraw"
-            }
-          },
-          {
-            "id": "f61b9d29be0f871b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-02 14.37.07.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-09-03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -139,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-03.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-09-01 15.47.23.excalidraw 的大纲"
+              "title": "2025-09-03 的大纲"
             }
           }
         ],
@@ -191,11 +182,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f61b9d29be0f871b",
+  "active": "655f37ca43c431c6",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
+    "ThinkBetter/DailyNotes/2025-09-03.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/现代野人.excalidraw.md",
@@ -238,7 +230,6 @@
     "ThinkBetter/Inbox/未命名 1.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "费德勒演讲.md",
-    "ThinkBetter/DailyNotes/2025-08-11.md",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
