@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-03.md",
+                "file": "ThinkBetter/Inbox/事件timing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "事件timing"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "、",
+                "query": "李玟",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -97,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-03.md",
+                "file": "ThinkBetter/Inbox/事件timing.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-03 的大纲"
+              "title": "事件timing 的大纲"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "655f37ca43c431c6",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-03.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
