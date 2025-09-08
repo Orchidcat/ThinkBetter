@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/贝叶斯思维.md",
+                "file": "ThinkBetter/人纪/二十四节气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "贝叶斯思维"
+              "title": "二十四节气"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贝叶斯",
+                "query": "白露",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,9 +184,9 @@
   },
   "active": "8255760be21f875e",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/贝叶斯思维.md",
     "ThinkBetter/Books/100种心智模型/概率思维.md",
     "ThinkBetter/Articles/噪音中获取信息.md",
-    "ThinkBetter/Inbox/贝叶斯思维.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
