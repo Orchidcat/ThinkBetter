@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how minds change.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how minds change"
+              "title": "_ MOC - Books"
             }
           }
         ],
@@ -92,7 +92,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -197,11 +198,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1d275d67ccf6d394",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how minds change.md",
+    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/Inbox/贝叶斯思维.md",
@@ -238,7 +240,6 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
