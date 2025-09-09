@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/Books/贝索斯传.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_ MOC - Books"
+              "title": "贝索斯传"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "法律",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,11 +198,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "1d275d67ccf6d394",
   "lastOpenFiles": [
+    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/人纪/六气.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/人纪/二十四节气.md",
