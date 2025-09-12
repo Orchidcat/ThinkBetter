@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +216,7 @@
   },
   "active": "46d3b62db1e904b4",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/a656b8c923a848da598a3dbd605a860.png",
     "ThinkBetter/Sources/aea827beb204b19601f3fac1df76baa.png",
     "ThinkBetter/Sources/36660d9192ccfc81ecfb7b4936c762a.png",
     "ThinkBetter/Sources/89fc2a48182aa7207f212c24680ad08.png",
@@ -231,7 +233,6 @@
     "ThinkBetter/Sources/Pasted image 20250910140421.png",
     "ThinkBetter/Sources/Pasted image 20250910140407.png",
     "ThinkBetter/Sources/Pasted image 20250910140040.png",
-    "ThinkBetter/Sources/Pasted image 20250910140020.png",
     "ThinkBetter/Inbox/贝叶斯思维.md",
     "ThinkBetter/Books/贝索斯传.md",
     "ThinkBetter/人纪/六气.md",
