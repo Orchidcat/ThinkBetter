@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 293.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -228,7 +229,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "14c47fe9fe5ebe3c",
   "lastOpenFiles": [
     "乾卦.md",
     "ThinkBetter/Inbox/坤卦.md",
