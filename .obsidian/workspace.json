@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Start Here"
             }
+          },
+          {
+            "id": "0b00ef1e9ea55388",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +194,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "08c5460794c19dd8",
+  "active": "0b00ef1e9ea55388",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Sources/Pasted image 20250912155940.png",
     "ThinkBetter/Sources/Pasted image 20250912155915.png",
@@ -199,7 +211,6 @@
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/解读易经.md",
     "乾卦.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-10.md",
     "ThinkBetter/Inbox/贝叶斯思维.md",
     "ThinkBetter/Books/贝索斯传.md",
