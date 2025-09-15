@@ -67,7 +67,8 @@
               "title": "乾卦"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +229,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "08c5460794c19dd8",
+  "active": "0b00ef1e9ea55388",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/Inbox/坤卦.md",
