@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+                "file": "ThinkBetter/Books/学习高手.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how we learn - 阅读"
+              "title": "学习高手"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/how people learn.md",
+                "file": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "how people learn"
+              "title": "何以为父：影响彼此一生的父子关系"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "作业",
+                "query": "#kk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,10 +198,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "08c5460794c19dd8",
+  "active": "0b00ef1e9ea55388",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Books/how people learn.md",
+    "ThinkBetter/Books/学习高手.md",
+    "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
+    "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Hobbies/coral/很棒的DIY系统04.md",
     "ThinkBetter/Books/How to become straight-A student.md",
     "ThinkBetter/Inbox/学习方法.md",
@@ -233,8 +236,6 @@
     "ThinkBetter/Articles/噪音中获取信息.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
-    "ThinkBetter/人纪/药/苦参.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
