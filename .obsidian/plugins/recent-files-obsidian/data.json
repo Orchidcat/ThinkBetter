@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "How to become straight-A student",
+      "path": "ThinkBetter/Books/How to become straight-A student.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/Inbox/学习方法.md"
+    },
+    {
       "basename": "解读易经",
       "path": "ThinkBetter/Books/解读易经.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "London UnderGround By Design",
       "path": "ThinkBetter/Books/London UnderGround By Design.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "ThinkBetter/Tasks.md"
-    },
-    {
-      "basename": "正见",
-      "path": "ThinkBetter/Books/正见.md"
     }
   ],
   "omittedPaths": [],
