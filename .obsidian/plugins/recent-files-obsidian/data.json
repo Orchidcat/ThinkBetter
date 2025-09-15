@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "工具箱",
+      "path": "ThinkBetter/Inbox/工具箱.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "解读易经",
       "path": "ThinkBetter/Books/解读易经.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "概率思维",
       "path": "ThinkBetter/Books/100种心智模型/概率思维.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "2025-09-12",
@@ -195,10 +199,6 @@
     {
       "basename": "正见",
       "path": "ThinkBetter/Books/正见.md"
-    },
-    {
-      "basename": "2025-08-01",
-      "path": "ThinkBetter/DailyNotes/2025-08-01.md"
     }
   ],
   "omittedPaths": [],
