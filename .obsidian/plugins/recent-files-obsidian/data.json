@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "解读易经",
+      "path": "ThinkBetter/Books/解读易经.md"
+    },
+    {
+      "basename": "2022-06-10",
+      "path": "ThinkBetter/DailyNotes/2022-06-10.md"
+    },
+    {
+      "basename": "概率思维",
+      "path": "ThinkBetter/Books/100种心智模型/概率思维.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "解读易经",
-      "path": "ThinkBetter/Books/解读易经.md"
     },
     {
       "basename": "乾卦",
@@ -47,10 +55,6 @@
     {
       "basename": "二十四节气",
       "path": "ThinkBetter/人纪/二十四节气.md"
-    },
-    {
-      "basename": "概率思维",
-      "path": "ThinkBetter/Books/100种心智模型/概率思维.md"
     },
     {
       "basename": "噪音中获取信息",
@@ -195,10 +199,6 @@
     {
       "basename": "辨太阳病脉证并治中第六",
       "path": "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治中第六.md"
-    },
-    {
-      "basename": "辨太阳病脉证并治下第七",
-      "path": "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md"
     }
   ],
   "omittedPaths": [],
