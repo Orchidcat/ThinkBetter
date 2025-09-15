@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/坤卦.md"
     },
     {
+      "basename": "肝脾位置之解说",
+      "path": "ThinkBetter/人纪/肝脾位置之解说.md"
+    },
+    {
       "basename": "乾卦",
       "path": "乾卦.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-01",
       "path": "ThinkBetter/DailyNotes/2025-08-01.md"
-    },
-    {
-      "basename": "2025-07-28",
-      "path": "ThinkBetter/DailyNotes/2025-07-28.md"
     }
   ],
   "omittedPaths": [],
