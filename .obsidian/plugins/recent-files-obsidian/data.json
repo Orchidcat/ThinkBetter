@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "解读易经 - map",
+      "path": "Thinkbetter/Excalidraw/解读易经 - map.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "解读易经",
       "path": "ThinkBetter/Books/解读易经.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "坤卦",
       "path": "ThinkBetter/Inbox/坤卦.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "学习高手",
@@ -195,10 +199,6 @@
     {
       "basename": "思考问题的三个过滤器",
       "path": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md"
-    },
-    {
-      "basename": "对抗愚蠢",
-      "path": "ThinkBetter/Excalidraw/对抗愚蠢.md"
     }
   ],
   "omittedPaths": [],
