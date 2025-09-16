@@ -52,5 +52,15 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }
