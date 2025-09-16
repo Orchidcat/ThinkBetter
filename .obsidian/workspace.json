@@ -26,10 +26,15 @@
             "id": "9d92c1cf5e41e2f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-09-12"
             }
           }
         ],
@@ -76,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#kk",
+                "query": "无线",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945,
-    "collapsed": true
+    "width": 293.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
