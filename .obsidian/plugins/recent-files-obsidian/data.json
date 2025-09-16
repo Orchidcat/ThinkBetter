@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "屯卦",
-      "path": "ThinkBetter/Inbox/屯卦.md"
-    },
-    {
       "basename": "解读易经",
       "path": "ThinkBetter/Books/解读易经.md"
     },
     {
       "basename": "解读易经 - map",
       "path": "Thinkbetter/Excalidraw/解读易经 - map.md"
+    },
+    {
+      "basename": "keyball",
+      "path": "ThinkBetter/Inbox/keyball.md"
+    },
+    {
+      "basename": "屯卦",
+      "path": "ThinkBetter/Inbox/屯卦.md"
     },
     {
       "basename": "Start Here",
@@ -195,10 +199,6 @@
     {
       "basename": "愚蠢的来源",
       "path": "ThinkBetter/Books/100种心智模型/愚蠢的来源.md"
-    },
-    {
-      "basename": "思考问题的三个过滤器",
-      "path": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md"
     }
   ],
   "omittedPaths": [],
