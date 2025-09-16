@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf9b24daec3ecaf",
+        "id": "f95220b09a8a121f",
         "type": "tabs",
         "children": [
           {
-            "id": "08c5460794c19dd8",
+            "id": "89bbcd6eceed7b30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/学习高手.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "学习高手"
-            }
-          },
-          {
-            "id": "0b00ef1e9ea55388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/园丁与木匠.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "园丁与木匠"
+              "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 293.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,11 +183,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "89bbcd6eceed7b30",
   "lastOpenFiles": [
+    "ThinkBetter/Books/学习高手.md",
+    "ThinkBetter/Books/园丁与木匠.md",
     "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
     "ThinkBetter/Books/how people learn.md",
-    "ThinkBetter/Books/学习高手.md",
     "ThinkBetter/Books/how we learn/how we learn - 阅读.md",
     "ThinkBetter/Inbox/工具箱.md",
     "ThinkBetter/Hobbies/coral/很棒的DIY系统04.md",
@@ -235,7 +221,6 @@
     "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/Articles/噪音中获取信息.md",
-    "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
