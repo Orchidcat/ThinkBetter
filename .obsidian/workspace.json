@@ -59,8 +59,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +220,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "188e66d76aa19f85",
+  "active": "ef258b2ca2a74098",
   "lastOpenFiles": [
-    "Thinkbetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Books/解读易经.md",
+    "ThinkBetter/Inbox/屯卦.md",
+    "Thinkbetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-16 09.50.43.excalidraw.md",
@@ -261,7 +261,6 @@
     "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
-    "ThinkBetter/Inbox/屯卦.md",
     "乾卦.md",
     "ThinkBetter/Inbox/坤卦.md",
     "ThinkBetter/Books/学习高手.md",
