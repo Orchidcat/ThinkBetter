@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +211,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ff42ca5c29f44581",
+  "active": "188e66d76aa19f85",
   "lastOpenFiles": [
-    "ThinkBetter/Books/解读易经.md",
     "Thinkbetter/Excalidraw/解读易经 - map.md",
+    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-16 09.50.43.excalidraw.md",
