@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "4bf205ab5a5f5f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/蒙卦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "蒙卦"
+            }
+          },
+          {
             "id": "9d92c1cf5e41e2f8",
             "type": "leaf",
             "state": {
@@ -37,7 +52,8 @@
               "title": "2025-09-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,13 +214,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "188e66d76aa19f85",
+  "active": "4bf205ab5a5f5f5b",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/蒙卦.md",
+    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Sources/Pasted image 20250916152849.png",
     "ThinkBetter/Sources/Pasted image 20250916152818.png",
     "ThinkBetter/Sources/Pasted image 20250916152745.png",
-    "ThinkBetter/Books/解读易经.md",
     "Thinkbetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Inbox/keyball.md",
     "ThinkBetter/Inbox/屯卦.md",
@@ -245,7 +262,6 @@
     "ThinkBetter/Inbox/坤卦.md",
     "ThinkBetter/Books/学习高手.md",
     "ThinkBetter/Books/园丁与木匠.md",
-    "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
