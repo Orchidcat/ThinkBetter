@@ -9,6 +9,10 @@
       "path": "ThinkBetter/Books/解读易经.md"
     },
     {
+      "basename": "需卦",
+      "path": "ThinkBetter/Inbox/需卦.md"
+    },
+    {
       "basename": "2025-09-12",
       "path": "ThinkBetter/DailyNotes/2025-09-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-11",
       "path": "ThinkBetter/DailyNotes/2025-08-11.md"
-    },
-    {
-      "basename": "```",
-      "path": "```.md"
     }
   ],
   "omittedPaths": [],
