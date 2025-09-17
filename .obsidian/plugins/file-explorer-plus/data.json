@@ -38,6 +38,13 @@
         "type": "FILES",
         "pattern": "ThinkBetter/Books/论生命之短暂.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "ThinkBetter/易经/解读易经.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
