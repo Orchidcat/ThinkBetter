@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "乾卦",
+      "path": "ThinkBetter/易经/乾卦.md"
+    },
+    {
       "basename": "解读易经",
-      "path": "ThinkBetter/Books/解读易经.md"
+      "path": "ThinkBetter/易经/解读易经.md"
     },
     {
       "basename": "蒙卦",
-      "path": "ThinkBetter/Inbox/蒙卦.md"
+      "path": "ThinkBetter/易经/蒙卦.md"
     },
     {
       "basename": "2025-09-12",
@@ -31,10 +35,6 @@
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
-    },
-    {
-      "basename": "乾卦",
-      "path": "乾卦.md"
     },
     {
       "basename": "坤卦",
