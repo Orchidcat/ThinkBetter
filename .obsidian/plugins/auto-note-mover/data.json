@@ -72,6 +72,11 @@
       "folder": "ThinkBetter/Hobbies/bike",
       "tag": "#Bike/几何学",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/易经",
+      "tag": "#易经",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
