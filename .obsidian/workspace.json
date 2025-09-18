@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Distill/一句话的玩味.md",
+                "file": "ThinkBetter/Inbox/Electronics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一句话的玩味 的大纲"
+              "title": "Electronics 的大纲"
             }
           }
         ],
@@ -228,8 +228,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5d708260ff1cd60c",
+  "active": "6d2a5a8097c2d513",
   "lastOpenFiles": [
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/易经/讼卦.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -274,7 +275,6 @@
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
