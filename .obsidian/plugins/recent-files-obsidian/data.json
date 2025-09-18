@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Electronics",
+      "path": "ThinkBetter/Inbox/Electronics.md"
+    },
+    {
       "basename": "讼卦",
       "path": "ThinkBetter/易经/讼卦.md"
     },
     {
-      "basename": "解读易经",
-      "path": "ThinkBetter/易经/解读易经.md"
-    },
-    {
       "basename": "2025-09-12",
       "path": "ThinkBetter/DailyNotes/2025-09-12.md"
+    },
+    {
+      "basename": "解读易经",
+      "path": "ThinkBetter/易经/解读易经.md"
     },
     {
       "basename": "蒙卦",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 1",
       "path": "ThinkBetter/Inbox/未命名 1.md"
-    },
-    {
-      "basename": "费德勒演讲",
-      "path": "费德勒演讲.md"
     }
   ],
   "omittedPaths": [],

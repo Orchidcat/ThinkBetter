@@ -38,22 +38,22 @@
             }
           },
           {
-            "id": "3911f584a49c742c",
+            "id": "6d2a5a8097c2d513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Inbox/Electronics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "Electronics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/易经/讼卦.md",
+                "file": "ThinkBetter/Inbox/Electronics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "讼卦 的大纲"
+              "title": "Electronics 的大纲"
             }
           }
         ],
@@ -213,12 +213,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "dc0ea9872f6b14d7",
+  "active": "6d2a5a8097c2d513",
   "lastOpenFiles": [
-    "ThinkBetter/Sources/Pasted image 20250918084259.png",
     "ThinkBetter/易经/讼卦.md",
-    "ThinkBetter/易经/解读易经.md",
+    "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
+    "ThinkBetter/Sources/Pasted image 20250918084259.png",
+    "ThinkBetter/易经/解读易经.md",
     "ThinkBetter/易经/蒙卦.md",
     "ThinkBetter/易经/需卦.md",
     "ThinkBetter/易经/屯卦.md",
@@ -240,7 +241,6 @@
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619155059.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619140319.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619134727.png",
-    "Thinkbetter/Excalidraw/Img/Pasted image 20250619133304.png",
     "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/现代野人.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/remember.excalidraw.md",
