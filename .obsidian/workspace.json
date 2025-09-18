@@ -37,8 +37,7 @@
               "title": "2025-09-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/易经/解读易经.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "解读易经 的大纲"
             }
           }
         ],
@@ -198,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "3911f584a49c742c",
+  "active": "9d92c1cf5e41e2f8",
   "lastOpenFiles": [
-    "ThinkBetter/易经/解读易经.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
+    "ThinkBetter/易经/解读易经.md",
     "ThinkBetter/易经/蒙卦.md",
     "ThinkBetter/易经/需卦.md",
     "ThinkBetter/易经/屯卦.md",
