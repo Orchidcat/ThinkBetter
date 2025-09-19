@@ -43,7 +43,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "ThinkBetter/易经/解读易经.md",
+        "pattern": "ThinkBetter/Books/解读易经.md",
         "patternType": "STRICT"
       }
     ],

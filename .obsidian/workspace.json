@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/易经/解读易经.md",
+                "file": "ThinkBetter/Books/解读易经.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "解读易经"
+            }
+          },
+          {
+            "id": "8a73a95694bf0423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/师卦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "师卦"
             }
           },
           {
@@ -68,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-18.md",
+                "file": "ThinkBetter/Inbox/师卦.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-18 的大纲"
+              "title": "师卦 的大纲"
             }
           }
         ],
@@ -207,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +243,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "6d2a5a8097c2d513",
+  "active": "8a73a95694bf0423",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2025-09-12.md",
+    "ThinkBetter/Inbox/师卦.md",
+    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
+    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/Sources/Pasted image 20250918112457.png",
     "ThinkBetter/Sources/Pasted image 20250918112309.png",
@@ -240,7 +258,6 @@
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/易经/讼卦.md",
     "ThinkBetter/Sources/Pasted image 20250918084259.png",
-    "ThinkBetter/易经/解读易经.md",
     "ThinkBetter/易经/蒙卦.md",
     "ThinkBetter/易经/需卦.md",
     "ThinkBetter/易经/屯卦.md",
@@ -269,7 +286,6 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
-    "Thinkbetter/Excalidraw/对抗愚蠢.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "师卦",
+      "path": "ThinkBetter/Inbox/师卦.md"
+    },
+    {
+      "basename": "解读易经",
+      "path": "ThinkBetter/Books/解读易经.md"
+    },
+    {
       "basename": "2025-09-18",
       "path": "ThinkBetter/DailyNotes/2025-09-18.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "讼卦",
       "path": "ThinkBetter/易经/讼卦.md"
-    },
-    {
-      "basename": "解读易经",
-      "path": "ThinkBetter/易经/解读易经.md"
     },
     {
       "basename": "蒙卦",
@@ -195,10 +199,6 @@
     {
       "basename": "知己",
       "path": "ThinkBetter/Books/知己.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "ThinkBetter/人纪/002 黄帝内经.md"
     }
   ],
   "omittedPaths": [],
