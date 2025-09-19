@@ -28,10 +28,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2025-09-19 10.40.39.excalidraw.md"
+                "file": "Thinkbetter/Excalidraw/键盘设计.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-19 10.40.39.excalidraw"
+              "title": "键盘设计.excalidraw"
             }
           },
           {
@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2025-09-19 10.40.39.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-09-19 10.40.39.excalidraw 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -205,10 +204,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ca8f9d9131765601",
+  "active": "b004864f6cba7631",
   "lastOpenFiles": [
+    "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
+    "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20250919105140_637.png",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-19 10.40.39.excalidraw.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Sources/Pasted Image 20250919105047_456.png",
     "ThinkBetter/Sources/Pasted Image 20250919105022_320.png",
