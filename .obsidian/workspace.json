@@ -4,56 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f95220b09a8a121f",
-        "type": "tabs",
+        "id": "35c8e4d613248c9c",
+        "type": "split",
         "children": [
           {
-            "id": "6d2a5a8097c2d513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+            "id": "f95220b09a8a121f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d2a5a8097c2d513",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ThinkBetter/Inbox/键盘设计相关.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "键盘设计相关"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-09-19"
-            }
+              {
+                "id": "5d708260ff1cd60c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ThinkBetter/Distill/一句话的玩味.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "一句话的玩味"
+                }
+              }
+            ]
           },
           {
-            "id": "6ae7bce29ae3488a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/未命名 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "5d708260ff1cd60c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Distill/一句话的玩味.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "一句话的玩味"
-            }
+            "id": "ad6270107a54ce20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c23f90c3f3ec6a41",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of 键盘设计相关"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -161,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/未命名 2.md",
+                "file": "ThinkBetter/Inbox/键盘设计相关.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "键盘设计相关 的大纲"
             }
           }
         ],
@@ -213,10 +220,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "6ae7bce29ae3488a",
+  "active": "c23f90c3f3ec6a41",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2025-09-19.md",
-    "ThinkBetter/Inbox/未命名 2.md",
+    "ThinkBetter/Inbox/键盘设计相关.md",
     "ThinkBetter/Inbox/diy 键盘关联.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/Books/解读易经.md",
