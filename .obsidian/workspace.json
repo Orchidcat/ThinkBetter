@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/师卦.md",
+                "file": "ThinkBetter/易经/师卦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/师卦.md",
+                "file": "ThinkBetter/易经/师卦.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,7 +245,8 @@
   },
   "active": "8a73a95694bf0423",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/师卦.md",
+    "ThinkBetter/Sources/Pasted image 20250919090026.png",
+    "ThinkBetter/易经/师卦.md",
     "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -285,7 +286,6 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
