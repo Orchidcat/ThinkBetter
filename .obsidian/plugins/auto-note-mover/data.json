@@ -77,6 +77,11 @@
       "folder": "ThinkBetter/易经",
       "tag": "#易经",
       "pattern": ""
+    },
+    {
+      "folder": "ThinkBetter/Project/外设/keyball39",
+      "tag": "#Project/keyball39",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
