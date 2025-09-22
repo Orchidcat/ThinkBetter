@@ -37,7 +37,8 @@
               "title": "25年总结的25个idea"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/论生命之短暂.md",
+                "file": "ThinkBetter/Inbox/25年总结的25个idea.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论生命之短暂 的大纲"
+              "title": "25年总结的25个idea 的大纲"
             }
           }
         ],
@@ -198,10 +199,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "62323c487997297f",
+  "active": "06fa32b01557a5af",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
