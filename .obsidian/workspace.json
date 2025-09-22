@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无线",
+                "query": "tag:#塞涅卡",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
