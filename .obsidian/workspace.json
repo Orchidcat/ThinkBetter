@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "论生命之短暂"
             }
           }
         ]
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 293.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -129,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "论生命之短暂 的大纲"
             }
           }
         ],
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +184,7 @@
   },
   "active": "62323c487997297f",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -190,7 +193,6 @@
     "ThinkBetter/Sources/Pasted Image 20250919105047_456.png",
     "ThinkBetter/Sources/Pasted Image 20250919105022_320.png",
     "ThinkBetter/Sources/Pasted Image 20250919104120_344.png",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-19 10.40.39.excalidraw.md",
     "ThinkBetter/Inbox/键盘设计相关.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
