@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/论生命之短暂.md"
     },
     {
+      "basename": "25年总结的25个idea",
+      "path": "ThinkBetter/Inbox/25年总结的25个idea.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "当归",
       "path": "ThinkBetter/人纪/当归.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "ThinkBetter/Inbox/事件timing.md"
     }
   ],
   "omittedPaths": [],
