@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "比卦",
+      "path": "ThinkBetter/易经/比卦.md"
+    },
+    {
+      "basename": "解读易经",
+      "path": "ThinkBetter/Books/解读易经.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "2025-09-22",
       "path": "ThinkBetter/DailyNotes/2025-09-22.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "diagrams matter for PKM.excalidraw",
       "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "2025-09-21",
@@ -59,10 +67,6 @@
     {
       "basename": "diy 键盘关联",
       "path": "ThinkBetter/Inbox/diy 键盘关联.md"
-    },
-    {
-      "basename": "解读易经",
-      "path": "ThinkBetter/Books/解读易经.md"
     },
     {
       "basename": "师卦",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2025-09-02 14.37.07.excalidraw",
       "path": "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md"
-    },
-    {
-      "basename": "苦参",
-      "path": "ThinkBetter/人纪/药/苦参.md"
     }
   ],
   "omittedPaths": [],
