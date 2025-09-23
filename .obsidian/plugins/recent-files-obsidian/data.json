@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "园丁与木匠",
+      "path": "ThinkBetter/Books/园丁与木匠.md"
+    },
+    {
+      "basename": "Workbench",
+      "path": "ThinkBetter/Inbox/Workbench.md"
+    },
+    {
       "basename": "解读易经",
       "path": "ThinkBetter/Books/解读易经.md"
     },
@@ -113,10 +121,6 @@
       "path": "ThinkBetter/Books/学习高手.md"
     },
     {
-      "basename": "园丁与木匠",
-      "path": "ThinkBetter/Books/园丁与木匠.md"
-    },
-    {
       "basename": "何以为父：影响彼此一生的父子关系",
       "path": "ThinkBetter/Books/何以为父：影响彼此一生的父子关系.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2025-09-01 15.47.23.excalidraw",
       "path": "ThinkBetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2025-09-02 14.37.07.excalidraw",
-      "path": "ThinkBetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md"
     }
   ],
   "omittedPaths": [],
