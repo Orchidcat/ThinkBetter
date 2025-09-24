@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2025-09-25"
             }
           }
         ]
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-25.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Dieter Rams.excalidraw 的大纲"
+              "title": "2025-09-25 的大纲"
             }
           }
         ],
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +184,11 @@
   },
   "active": "37b41def0a4a2fb0",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-09-25.md",
     "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/易经/履卦.md",
     "ThinkBetter/Sources/Pasted image 20250924083842.png",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-23.md",
     "ThinkBetter/Sources/Pasted Image 20250923145814_632.png",
     "ThinkBetter/Sources/Pasted Image 20250923145555_854.png",
