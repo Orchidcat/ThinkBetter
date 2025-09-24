@@ -37,8 +37,7 @@
               "title": "履卦"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d819f5d397148a7a",
+  "active": "448d9773032a559d",
   "lastOpenFiles": [
-    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/易经/履卦.md",
+    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/Sources/Pasted image 20250924083842.png",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-23.md",
