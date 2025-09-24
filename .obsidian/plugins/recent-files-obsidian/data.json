@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "履卦",
+      "path": "ThinkBetter/易经/履卦.md"
+    },
+    {
+      "basename": "解读易经",
+      "path": "ThinkBetter/Books/解读易经.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Dieter Rams.excalidraw",
       "path": "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md"
-    },
-    {
-      "basename": "解读易经",
-      "path": "ThinkBetter/Books/解读易经.md"
     },
     {
       "basename": "小畜",
@@ -195,10 +199,6 @@
     {
       "basename": "how minds change",
       "path": "ThinkBetter/Books/how minds change.md"
-    },
-    {
-      "basename": "温病本气篇",
-      "path": "ThinkBetter/人纪/温病本气篇.md"
     }
   ],
   "omittedPaths": [],
