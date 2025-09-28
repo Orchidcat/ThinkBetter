@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "泰卦",
+      "path": "ThinkBetter/易经/泰卦.md"
+    },
+    {
+      "basename": "解读易经",
+      "path": "ThinkBetter/Books/解读易经.md"
+    },
+    {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
       "path": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2025-09-25",
       "path": "ThinkBetter/DailyNotes/2025-09-25.md"
-    },
-    {
-      "basename": "解读易经",
-      "path": "ThinkBetter/Books/解读易经.md"
     },
     {
       "basename": "履卦",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-10",
       "path": "ThinkBetter/DailyNotes/2025-09-10.md"
-    },
-    {
-      "basename": "贝叶斯思维",
-      "path": "ThinkBetter/Inbox/贝叶斯思维.md"
     }
   ],
   "omittedPaths": [],
