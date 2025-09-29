@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
+    },
+    {
       "basename": "泰卦",
       "path": "ThinkBetter/易经/泰卦.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "2025-09-10",
-      "path": "ThinkBetter/DailyNotes/2025-09-10.md"
     }
   ],
   "omittedPaths": [],
