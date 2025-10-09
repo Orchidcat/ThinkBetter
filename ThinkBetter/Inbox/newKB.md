@@ -7,6 +7,8 @@
 
 
 开始的地方：
-ergogen ：[Ergogen](https://ergogen.xyz/) 用来设计
+ergogen ：[Ergogen](https://ergogen.xyz/) 用来设计键盘布局的应用，可以自动建立pcb，这点很cool
+
+
 
 
