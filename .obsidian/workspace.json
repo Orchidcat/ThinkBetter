@@ -76,8 +76,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -182,8 +181,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/未命名",
     "ThinkBetter/Books/娱乐至死.md",
     "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/人纪/二十四节气.md",
@@ -223,7 +223,6 @@
     "Thinkbetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
