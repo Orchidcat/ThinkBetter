@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "二十四节气",
+      "path": "ThinkBetter/人纪/二十四节气.md"
+    },
+    {
+      "basename": "六气",
+      "path": "ThinkBetter/人纪/六气.md"
+    },
+    {
       "basename": "娱乐至死",
       "path": "ThinkBetter/Books/娱乐至死.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "小畜",
       "path": "ThinkBetter/易经/小畜.md"
-    },
-    {
-      "basename": "六气",
-      "path": "ThinkBetter/人纪/六气.md"
     },
     {
       "basename": "园丁与木匠",
@@ -195,10 +199,6 @@
     {
       "basename": "学习方法",
       "path": "ThinkBetter/Inbox/学习方法.md"
-    },
-    {
-      "basename": "肝脾位置之解说",
-      "path": "ThinkBetter/人纪/肝脾位置之解说.md"
     }
   ],
   "omittedPaths": [],
