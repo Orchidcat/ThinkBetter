@@ -37,8 +37,7 @@
               "title": "否卦"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ba4c53c54e487bce",
+  "active": "fe9676c8af147952",
   "lastOpenFiles": [
-    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/易经/否卦.md",
+    "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/易经/履卦.md",
     "ThinkBetter/Sources/Pasted image 20251009083238.png",
     "ThinkBetter/易经/泰卦.md",
