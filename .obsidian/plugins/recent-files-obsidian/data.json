@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "newKB",
+      "path": "ThinkBetter/Inbox/newKB.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to become straight-A student",
       "path": "ThinkBetter/Books/How to become straight-A student.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/Inbox/学习方法.md"
     }
   ],
   "omittedPaths": [],
