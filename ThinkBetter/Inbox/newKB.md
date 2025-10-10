@@ -1,7 +1,8 @@
 #project/键盘
 
 调查，目前成品最好的人体工程键盘
-Microsoft Sculpt
+Microsoft Sculpt    键程大约是 2.5 毫米
+
 
 
 
