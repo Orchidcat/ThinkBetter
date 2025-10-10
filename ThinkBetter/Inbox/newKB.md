@@ -4,7 +4,8 @@
 Microsoft Sculpt    键程大约是 2.5 毫米
 
 
-
+测量手掌大小；
+[Fetching Title#gfut](https://pashutk.com/ergopad/)
 
 
 
