@@ -7,9 +7,21 @@ name 可以签名
 
 ## Units
 
+U: 19.05 # 19.05mm MX spacing
+u: 19 # 19mm MX spacing
+cx: 18 # 18mm Choc X spacing
+cy: 17 # 17mm Choc Y spacing
 
+内部变量
+`$default_stagger: 0,
+$default_spread: 'u',
+$default_splay: 0,
+$default_height: 'u-1',
+$default_width: 'u-1',
+$default_padding: 'u',
+$default_autobind: 10
 
-
+`
 
 
 
