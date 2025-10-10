@@ -19,7 +19,7 @@ $default_splay: 0,
 $default_height: 'u-1',
 $default_width: 'u-1',
 $default_padding: 'u',
-$default_autobind: 10
+$default_autobind: 10`
 
 `
 
