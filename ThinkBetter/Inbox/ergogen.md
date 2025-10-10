@@ -52,3 +52,8 @@ X 值向右为正，向左为负，而 Y 值向上为正，向下为负。此外
 5. 行范围`points.zones.<zone_name>.rows.<row_name>`覆盖
 6. 特定于键的`points.zones.<zone_name>.columns.<column_name>.rows.<row_name>`覆盖
 
+#### keys
+
+- stagger  列错位是指相对于前一列，在垂直方向上向整列的起始点进行额外的偏移（初始值为 0，之后累加）。其默认值为 0（也可以使用内部变量 $default_stagger 覆盖）。
+- padding  一旦确定了列中的某个点，padding 就表示该点与下一行之间的垂直间隙。其默认值为 u（也可以使用 $default_padding 内部变量覆盖）
+- **`orient`** / **`shift`** / **`rotate`** 
