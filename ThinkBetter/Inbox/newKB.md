@@ -12,6 +12,8 @@
 [I Built My Dream Keyboard from Absolute Scratch - YouTube](https://www.youtube.com/watch?v=7UXsD7nSfDY) 弄清楚控制器如何与电脑进行通信
 
 
+键帽的选择
+![[Pasted image 20251010132456.png]]
 
 
 
