@@ -139,8 +139,10 @@ array：一个复杂的过滤器
 
 #### common attributes
 
-- what 放置什么形状
-- where  
+- what     放置什么形状
+- where   声明我们想要放置这些形状的位置——这是我们可以使用前面讨论过的过滤器的地方。
+- operation   指示我们希望当前部分如何与先前部分的累积结果相结合
+	- add
 
 
 
