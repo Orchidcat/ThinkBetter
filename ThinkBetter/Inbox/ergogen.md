@@ -123,7 +123,10 @@ bind: num | [num_x, num_y] | [num_t, num_r, num_b, num_l] # defer to autobind by
 
 undefined: `[0, 0, 0°]`
 boolean: true,就是使用所有point
-string：
+string：代表一个单一的过滤器
+object：将被解析为一个锚点，单独解析
+
+
 
 
 
