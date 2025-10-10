@@ -157,7 +157,13 @@ array：一个复杂的过滤器
 
 
 #### Shapes
-
+- rectangle 矩形图元
+	- size 
+	- bevel     矩形的可选斜角，默认为`0`
+	- corner
+- circle
+- poly
+- outline
 
 
 
