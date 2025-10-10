@@ -137,7 +137,10 @@ array：一个复杂的过滤器
 
 ### Parts
 
+#### common attributes
 
+- what 放置什么形状
+- where  
 
 
 
