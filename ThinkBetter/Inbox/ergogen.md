@@ -44,5 +44,11 @@ X 值向右为正，向左为负，而 Y 值向上为正，向下为负。此外
 ### Zones
 定义批量点的方法；一组列构成一个区域。可以设置任意数量的区域；在列中，行默认是从下到上构建。
 
-
+继承顺序如下：
+1. 内置的硬编码默认值
+2. 全局`points.key`覆盖
+3. 区域范围`points.zones.<zone_name>.key`覆盖
+4. 列范围`points.zones.<zone_name>.columns.<column_name>.key`覆盖
+5. 行范围`points.zones.<zone_name>.rows.<row_name>`覆盖
+6. 特定于键的`points.zones.<zone_name>.columns.<column_name>.rows.<row_name>`覆盖
 
