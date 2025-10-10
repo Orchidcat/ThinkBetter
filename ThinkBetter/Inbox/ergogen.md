@@ -112,6 +112,11 @@ X 值向右为正，向左为负，而 Y 值向上为正，向下为负。此外
 
 
 ### Binding
+各个开关孔相互延伸（或_绑定_）。可以将其视为一种“邻居声明”，告诉 Ergogen 应该向哪个方向扩展（以及扩展多少）才能到达下一个点。
+
+````
+bind: num | [num_x, num_y] | [num_t, num_r, num_b, num_l] # defer to autobind by default
+````
 
 ### Filtering
 
