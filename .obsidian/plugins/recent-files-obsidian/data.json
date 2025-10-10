@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
+      "basename": "ergogen",
+      "path": "ThinkBetter/Inbox/ergogen.md"
     },
     {
       "basename": "newKB",
       "path": "ThinkBetter/Inbox/newKB.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "2025-09-12",
@@ -195,10 +199,6 @@
     {
       "basename": "工具箱",
       "path": "ThinkBetter/Inbox/工具箱.md"
-    },
-    {
-      "basename": "很棒的DIY系统04",
-      "path": "ThinkBetter/Hobbies/coral/很棒的DIY系统04.md"
     }
   ],
   "omittedPaths": [],

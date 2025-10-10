@@ -7,9 +7,11 @@
 
 
 开始的地方：
-ergogen ：[Ergogen](https://ergogen.xyz/) 用来设计键盘布局的应用，可以自动建立pcb，这点很cool
+[[ergogen]] ：[Ergogen](https://ergogen.xyz/) 用来设计键盘布局的应用，可以自动建立pcb，这点很cool
 一个非官方的[Ergogen](https://ergogen.ceoloide.com/)，也可以借鉴一下别人的代码
 [I Built My Dream Keyboard from Absolute Scratch - YouTube](https://www.youtube.com/watch?v=7UXsD7nSfDY) 弄清楚控制器如何与电脑进行通信
+
+
 
 
 
