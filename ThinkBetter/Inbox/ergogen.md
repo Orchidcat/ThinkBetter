@@ -119,7 +119,7 @@ bind: num | [num_x, num_y] | [num_t, num_r, num_b, num_l] # defer to autobind by
 ````
 
 ### Filtering
-
+过滤是 Ergogen 在放置当前形状时决定使用哪些点的方式。毕竟，点部分可能包含许多区域、多种_类型_的点、安装孔辅助点或一次性 PCB 封装等等。因此，能够轻松地从这些点中选择子集会非常方便。
 
 
 
