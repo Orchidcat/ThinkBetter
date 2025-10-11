@@ -67,8 +67,7 @@
               "title": "2025-09-12"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Inbox/newKB.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "newKB 的大纲"
             }
           }
         ],
@@ -228,20 +227,20 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "df6ad8f530bc9db0",
+  "active": "eb3b1a2a289b8335",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/ergogen.md",
+    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/DailyNotes/2025-09-10.md",
     "ThinkBetter/DailyNotes/2025-09-23.md",
     "ThinkBetter/DailyNotes/2025-09-22.md",
     "ThinkBetter/DailyNotes/2025-09-21.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
-    "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251010132456.png",
     "ThinkBetter/Sources/Pasted image 20251010083506.png",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Sources/Pasted image 20251009155750.png",
     "ThinkBetter/DailyNotes/2025-09-25.md",
