@@ -37,8 +37,7 @@
               "title": "2025-09-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Inbox/ergogen.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "ergogen 的大纲"
             }
           }
         ],
@@ -197,14 +196,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "df6ad8f530bc9db0",
+  "active": "2529e23f52d79318",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/sweep type files list.md",
-    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/DailyNotes/2025-09-10.md",
     "ThinkBetter/DailyNotes/2025-09-23.md",
     "ThinkBetter/DailyNotes/2025-09-22.md",
