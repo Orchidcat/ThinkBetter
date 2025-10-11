@@ -37,7 +37,8 @@
               "title": "ergogen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +198,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "eb3b1a2a289b8335",
+  "active": "2529e23f52d79318",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251010132456.png",
     "ThinkBetter/Inbox/ergogen.md",
-    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251010083506.png",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -231,7 +232,6 @@
     "ThinkBetter/Sources/Pasted Image 20250923145555_854.png",
     "ThinkBetter/Sources/Pasted Image 20250923145452_478.png",
     "ThinkBetter/Sources/Pasted Image 20250923145334_013.png",
-    "ThinkBetter/Sources/Pasted Image 20250923145314_720.png",
     "ThinkBetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-09-23 14.37.44.excalidraw.md",
