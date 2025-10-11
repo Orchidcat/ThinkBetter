@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "cf1f41fed142981c",
+  "active": "2529e23f52d79318",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/newKB.md",
@@ -230,7 +231,6 @@
     "ThinkBetter/DailyNotes/2025-09-23.md",
     "ThinkBetter/DailyNotes/2025-09-22.md",
     "ThinkBetter/DailyNotes/2025-09-21.md",
-    "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Project/外设/newKB",
     "ThinkBetter/Books/娱乐至死.md",
     "ThinkBetter/Books/解读易经.md",
