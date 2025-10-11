@@ -6,7 +6,7 @@ Microsoft Sculpt    键程大约是 2.5 毫米
 
 提前储备的信息：
 [Absolem \| absolem](https://zealot.hu/absolem/)
-[Fetching Title#pyye](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
+[How to make a keyboard – the matrix \| komar's techblog](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
 
 
 需要满足的需求：
