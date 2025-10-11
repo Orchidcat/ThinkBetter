@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "cf1f41fed142981c",
+  "active": "2529e23f52d79318",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/newKB.md",
+    "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Sources/Pasted image 20251010132456.png",
     "ThinkBetter/Sources/Pasted image 20251010083506.png",
     "ThinkBetter/Start Here.md",
