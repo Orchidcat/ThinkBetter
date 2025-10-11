@@ -30,7 +30,7 @@ Microsoft Sculpt    键程大约是 2.5 毫米
 
 
 最终文件
-[[sweep type files list]]
+[[sweep type yaml]]
 
 
 
