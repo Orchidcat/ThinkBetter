@@ -4,52 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "dc266aa9be9ac235",
+        "id": "f5861543ccaf36fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2529e23f52d79318",
+            "id": "901cd8796f7554c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/ergogen.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ergogen"
+              "title": "_ MOC - Books"
             }
           },
           {
-            "id": "df6ad8f530bc9db0",
+            "id": "adcf7679e94cdebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Books/局外人.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
-            }
-          },
-          {
-            "id": "9de1f5b84275dbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/newKB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "newKB"
+              "title": "局外人"
             }
           }
         ],
@@ -128,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 293.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -160,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Books/局外人.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "局外人 的大纲"
             }
           }
         ],
@@ -212,10 +198,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "df6ad8f530bc9db0",
+  "active": "adcf7679e94cdebf",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/newKB.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Books/局外人.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-10-14.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
+    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251011161939.png",
     "ThinkBetter/Sources/Pasted image 20251011152730.png",
     "ThinkBetter/Sources/Pasted image 20251011152457.png",
@@ -232,8 +222,6 @@
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/Sources/Pasted image 20251010132456.png",
     "ThinkBetter/Sources/Pasted image 20251010083506.png",
-    "ThinkBetter/Start Here.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Sources/Pasted image 20251009155750.png",
     "ThinkBetter/DailyNotes/2025-09-25.md",
     "ThinkBetter/Project/外设/newKB",
@@ -249,7 +237,6 @@
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Sources/Pasted image 20250928144041.png",
     "ThinkBetter/Excalidraw/Dieter Rams.excalidraw.md",
-    "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
