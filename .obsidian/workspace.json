@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/局外人.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "局外人"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "cf63aaeb20f5d92f",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/局外人.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-10-14.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Inbox/newKB.md",
