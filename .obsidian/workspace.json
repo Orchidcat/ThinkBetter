@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "8eb000c9c7685970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/25年总结的25个idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "25年总结的25个idea"
+            }
+          },
+          {
             "id": "158f5c805db2bac2",
             "type": "leaf",
             "state": {
@@ -37,7 +52,8 @@
               "title": "_ MOC - Books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +213,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "dae4bf0ce78517cc",
+  "active": "8eb000c9c7685970",
   "lastOpenFiles": [
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/局外人.md",
     "ThinkBetter/DailyNotes/2025-10-14.md",
