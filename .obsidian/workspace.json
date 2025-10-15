@@ -37,8 +37,7 @@
               "title": "2025-10-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-10-15.md",
+                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-15 的大纲"
+              "title": "论生命之短暂 的大纲"
             }
           }
         ],
@@ -198,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8eb000c9c7685970",
+  "active": "dae4bf0ce78517cc",
   "lastOpenFiles": [
-    "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/DailyNotes/2025-10-15.md",
+    "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Inbox/未命名 2.md",
     "ThinkBetter/Books/_ MOC - Books.md",
