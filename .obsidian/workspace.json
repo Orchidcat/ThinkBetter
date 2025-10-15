@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/论生命之短暂.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "论生命之短暂"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "dae4bf0ce78517cc",
   "lastOpenFiles": [
-    "ThinkBetter/Books/局外人.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/局外人.md",
     "ThinkBetter/DailyNotes/2025-10-14.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Inbox/newKB.md",
