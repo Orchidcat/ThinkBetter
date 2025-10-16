@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "sweep type yaml"
+            }
+          },
+          {
+            "id": "5867ebdf0de75210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/newKB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "newKB"
+            }
+          },
+          {
+            "id": "a42f337b4965252b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-12"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945,
-    "collapsed": true
+    "width": 293.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -130,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/论生命之短暂.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论生命之短暂 的大纲"
+              "title": "2025-09-12 的大纲"
             }
           }
         ],
@@ -182,43 +212,43 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4596c1682779524b",
+  "active": "a42f337b4965252b",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/Pasted image 20251016101748.png",
+    "ThinkBetter/DailyNotes/2025-09-21.md",
+    "ThinkBetter/DailyNotes/2025-09-22.md",
+    "ThinkBetter/DailyNotes/2025-09-23.md",
+    "ThinkBetter/DailyNotes/2025-09-25.md",
+    "ThinkBetter/Inbox/newKB.md",
+    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/DailyNotes/2025-10-15.md",
     "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Inbox/未命名 2.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/局外人.md",
     "ThinkBetter/DailyNotes/2025-10-14.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
-    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251011161939.png",
     "ThinkBetter/Sources/Pasted image 20251011152730.png",
     "ThinkBetter/Sources/Pasted image 20251011152457.png",
     "ThinkBetter/Sources/Pasted image 20251011152425.png",
     "ThinkBetter/Sources/Pasted image 20251011140621.png",
     "ThinkBetter/Inbox/ergogen.md",
-    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Inbox/sweep type files list.md",
     "ThinkBetter/DailyNotes/2025-09-10.md",
-    "ThinkBetter/DailyNotes/2025-09-23.md",
-    "ThinkBetter/DailyNotes/2025-09-22.md",
-    "ThinkBetter/DailyNotes/2025-09-21.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/Sources/Pasted image 20251010132456.png",
     "ThinkBetter/Sources/Pasted image 20251010083506.png",
     "ThinkBetter/Sources/Pasted image 20251009155750.png",
-    "ThinkBetter/DailyNotes/2025-09-25.md",
     "ThinkBetter/Project/外设/newKB",
     "ThinkBetter/Books/娱乐至死.md",
     "ThinkBetter/Books/解读易经.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/易经/否卦.md",
-    "ThinkBetter/易经/履卦.md",
     "ThinkBetter/Sources/Pasted image 20251009083238.png",
     "ThinkBetter/Sources/Pasted image 20250928144041.png",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
