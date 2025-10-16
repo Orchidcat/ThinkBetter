@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四物汤",
+                "query": "阿",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,7 +258,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb0d99c814790c4e",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
