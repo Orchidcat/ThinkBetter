@@ -21,6 +21,9 @@ Microsoft Sculpt    键程大约是 2.5 毫米
 2. 使用ergogen进行创建基本的CAD造型   **Ergogen 只负责生成物理布局和矩阵定义**
 3. 在kicad中对2步骤形成的文件进行布线链接
 
+[JSCAD - JavaScript CAD](https://openjscad.xyz/) 可以将case生成一个stl文件进行打印
+
+
 
 开始的地方：
 [[ergogen]] ：[Ergogen](https://ergogen.xyz/) 用来设计键盘布局的应用，可以自动建立pcb，这点很cool
