@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/Seeking wisdom.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Seeking wisdom 的大纲"
+              "title": "2025-09-12 的大纲"
             }
           }
         ],
@@ -243,12 +243,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5c0530b136e2545e",
+  "active": "a42f337b4965252b",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/ergogen.md",
-    "ThinkBetter/Books/Seeking wisdom.md",
-    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
+    "ThinkBetter/Books/Seeking wisdom.md",
+    "ThinkBetter/Inbox/ergogen.md",
+    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Sources/Pasted image 20251016101841.png",
     "ThinkBetter/Sources/Pasted image 20251016101748.png",
