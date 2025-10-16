@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kicad",
+                "query": "四物汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -242,7 +243,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5c0530b136e2545e",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/愿望清单.md",
