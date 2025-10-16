@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Seeking wisdom",
+      "path": "ThinkBetter/Books/Seeking wisdom.md"
+    },
+    {
       "basename": "ergogen",
       "path": "ThinkBetter/Inbox/ergogen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "乾卦",
       "path": "ThinkBetter/易经/乾卦.md"
-    },
-    {
-      "basename": "解读易经 - map",
-      "path": "Thinkbetter/Excalidraw/解读易经 - map.md"
     }
   ],
   "omittedPaths": [],
