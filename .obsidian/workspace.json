@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "sweep type yaml 的大纲"
+              "title": "2025-09-12 的大纲"
             }
           }
         ],
@@ -212,8 +212,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5867ebdf0de75210",
+  "active": "a42f337b4965252b",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Sources/Pasted image 20251016101841.png",
@@ -222,7 +223,6 @@
     "ThinkBetter/DailyNotes/2025-09-22.md",
     "ThinkBetter/DailyNotes/2025-09-23.md",
     "ThinkBetter/DailyNotes/2025-09-25.md",
-    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/DailyNotes/2025-10-15.md",
