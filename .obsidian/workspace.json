@@ -175,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/ergogen.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ergogen 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -227,8 +226,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e3ed837cfa1a586a",
+  "active": "c8fa281ebe85bc60",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -251,7 +251,6 @@
     "ThinkBetter/Sources/Pasted image 20251011152457.png",
     "ThinkBetter/Sources/Pasted image 20251011152425.png",
     "ThinkBetter/Sources/Pasted image 20251011140621.png",
-    "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Inbox/sweep type files list.md",
     "ThinkBetter/DailyNotes/2025-09-10.md",
