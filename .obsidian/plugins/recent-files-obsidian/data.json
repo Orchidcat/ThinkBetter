@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "脾胃论",
+      "path": "ThinkBetter/人纪/脾胃论.md"
+    },
+    {
       "basename": "Seeking wisdom",
       "path": "ThinkBetter/Books/Seeking wisdom.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "屯卦",
       "path": "ThinkBetter/易经/屯卦.md"
-    },
-    {
-      "basename": "坤卦",
-      "path": "ThinkBetter/易经/坤卦.md"
     }
   ],
   "omittedPaths": [],
