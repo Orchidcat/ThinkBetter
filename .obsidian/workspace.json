@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/Books/Seeking wisdom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_ MOC - Books"
+              "title": "Seeking wisdom"
             }
           }
         ],
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/Books/Seeking wisdom.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_ MOC - Books 的大纲"
+              "title": "Seeking wisdom 的大纲"
             }
           }
         ],
@@ -199,11 +199,11 @@
   },
   "active": "14317f4227127198",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/option B.md",
-    "ThinkBetter/DailyNotes/2025-07-21.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/Seeking wisdom.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/纳瓦尔宝典.md",
