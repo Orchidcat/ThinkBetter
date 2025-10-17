@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945,
-    "collapsed": true
+    "width": 293.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -259,7 +258,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb0d99c814790c4e",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Inbox/ergogen.md",
