@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Seeking wisdom",
-      "path": "ThinkBetter/Books/Seeking wisdom.md"
-    },
-    {
       "basename": "newKB",
       "path": "ThinkBetter/Inbox/newKB.md"
+    },
+    {
+      "basename": "纳瓦尔宝典",
+      "path": "ThinkBetter/Books/纳瓦尔宝典.md"
+    },
+    {
+      "basename": "Seeking wisdom",
+      "path": "ThinkBetter/Books/Seeking wisdom.md"
     },
     {
       "basename": "ergogen",
@@ -195,10 +199,6 @@
     {
       "basename": "需卦",
       "path": "ThinkBetter/易经/需卦.md"
-    },
-    {
-      "basename": "屯卦",
-      "path": "ThinkBetter/易经/屯卦.md"
     }
   ],
   "omittedPaths": [],
