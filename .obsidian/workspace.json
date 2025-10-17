@@ -37,8 +37,7 @@
               "title": "Seeking wisdom"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/Seeking wisdom.md",
+                "file": "ThinkBetter/Books/option B.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Seeking wisdom 的大纲"
+              "title": "option B 的大纲"
             }
           }
         ],
@@ -197,10 +196,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "14317f4227127198",
+  "active": "e10d77b7af404bac",
   "lastOpenFiles": [
-    "ThinkBetter/Books/option B.md",
     "ThinkBetter/Books/Seeking wisdom.md",
+    "ThinkBetter/Books/option B.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-07-21.md",
