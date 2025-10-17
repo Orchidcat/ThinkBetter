@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "option B",
+      "path": "ThinkBetter/Books/option B.md"
+    },
+    {
+      "basename": "2025-07-21",
+      "path": "ThinkBetter/DailyNotes/2025-07-21.md"
     },
     {
       "basename": "Seeking wisdom",
@@ -71,10 +83,6 @@
     {
       "basename": "未命名 2",
       "path": "ThinkBetter/Inbox/未命名 2.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "局外人",
@@ -191,14 +199,6 @@
     {
       "basename": "讼卦",
       "path": "ThinkBetter/易经/讼卦.md"
-    },
-    {
-      "basename": "蒙卦",
-      "path": "ThinkBetter/易经/蒙卦.md"
-    },
-    {
-      "basename": "需卦",
-      "path": "ThinkBetter/易经/需卦.md"
     }
   ],
   "omittedPaths": [],
