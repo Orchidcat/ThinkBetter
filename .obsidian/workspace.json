@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/Seeking wisdom.md",
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Seeking wisdom"
+              "title": "一句话的玩味"
             }
           }
         ],
@@ -156,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "决策",
+                "query": "爱因斯坦",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/Seeking wisdom.md",
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Seeking wisdom 的大纲"
+              "title": "一句话的玩味 的大纲"
             }
           }
         ],
@@ -275,9 +275,9 @@
   },
   "active": "5dbcc1c26a8b6831",
   "lastOpenFiles": [
+    "ThinkBetter/Books/Seeking wisdom.md",
     "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Books/纳瓦尔宝典.md",
-    "ThinkBetter/Books/Seeking wisdom.md",
     "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/人纪/脾胃论.md",
