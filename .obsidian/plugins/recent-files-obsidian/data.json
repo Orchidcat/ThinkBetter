@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "option B",
-      "path": "ThinkBetter/Books/option B.md"
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "ThinkBetter/Tasks.md"
     },
     {
       "basename": "Seeking wisdom",
       "path": "ThinkBetter/Books/Seeking wisdom.md"
     },
     {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
+      "basename": "option B",
+      "path": "ThinkBetter/Books/option B.md"
     },
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "2025-07-21",
@@ -195,10 +199,6 @@
     {
       "basename": "Electronics",
       "path": "ThinkBetter/Inbox/Electronics.md"
-    },
-    {
-      "basename": "讼卦",
-      "path": "ThinkBetter/易经/讼卦.md"
     }
   ],
   "omittedPaths": [],
