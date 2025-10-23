@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -197,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f67260835682db2e",
+  "active": "c8fa281ebe85bc60",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/pogopin 互相识别.md",
     "ThinkBetter/Inbox/科举.md",
+    "ThinkBetter/Inbox/pogopin 互相识别.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/Seeking wisdom.md",
