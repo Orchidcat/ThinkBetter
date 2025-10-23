@@ -91,7 +91,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -196,7 +197,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f67260835682db2e",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/pogopin 互相识别.md",
