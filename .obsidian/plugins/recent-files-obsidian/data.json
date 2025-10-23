@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "科举",
+      "path": "ThinkBetter/Inbox/科举.md"
+    },
+    {
+      "basename": "pogopin 互相识别",
+      "path": "ThinkBetter/Inbox/pogopin 互相识别.md"
+    },
+    {
       "basename": "sweep type yaml",
       "path": "ThinkBetter/Project/外设/newKB/sweep type yaml.md"
     },
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
-    },
-    {
-      "basename": "pogopin 互相识别",
-      "path": "ThinkBetter/Inbox/pogopin 互相识别.md"
     },
     {
       "basename": "Seeking wisdom",
@@ -195,10 +199,6 @@
     {
       "basename": "键盘设计相关",
       "path": "ThinkBetter/Inbox/键盘设计相关.md"
-    },
-    {
-      "basename": "diy 键盘关联",
-      "path": "ThinkBetter/Inbox/diy 键盘关联.md"
     }
   ],
   "omittedPaths": [],
