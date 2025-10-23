@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "sweep type yaml"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "pogopin 互相识别"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +196,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d7aff52abb32ee09",
+  "active": "f67260835682db2e",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/pogopin 互相识别.md",
