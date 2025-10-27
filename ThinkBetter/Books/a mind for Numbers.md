@@ -1,16 +1,17 @@
----
+```
 tags: 
    - book 
 Cover: 
 Type:
 Series: 
-Author: [Barbara Oakley](https://www.amazon.com/-/zh/Barbara-Oakley/e/B000AP9ZR4/ref=dp_byline_cont_ebooks_1)
+Author: Barbara Oakley
 Status: 
 OrderInYear:
 StartDate:
 FinishedDate:
 Rating: 
----
+```
+
 
 幸运女神眷顾那些努力尝试的人
 
