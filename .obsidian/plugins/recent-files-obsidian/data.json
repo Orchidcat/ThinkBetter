@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "数字思维",
+      "path": "ThinkBetter/Books/数字思维.md"
+    },
+    {
       "basename": "2025-10-27",
       "path": "ThinkBetter/DailyNotes/2025-10-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "键盘设计.excalidraw",
       "path": "Thinkbetter/Excalidraw/键盘设计.excalidraw.md"
-    },
-    {
-      "basename": "Pasted Image 20250919105140_637",
-      "path": "ThinkBetter/Sources/Pasted Image 20250919105140_637.png"
     }
   ],
   "omittedPaths": [],
