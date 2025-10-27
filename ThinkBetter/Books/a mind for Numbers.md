@@ -2,7 +2,7 @@
 tags: 
    - book 
 Cover: 
-Type:
+Type: 转变思维模式
 Series: 
 Author: Barbara Oakley
 Status: 
