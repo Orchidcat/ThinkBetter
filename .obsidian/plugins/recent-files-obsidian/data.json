@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生命是什么",
+      "path": "ThinkBetter/Books/生命是什么.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20250919104120_344",
       "path": "ThinkBetter/Sources/Pasted Image 20250919104120_344.png"
-    },
-    {
-      "basename": "键盘设计相关",
-      "path": "ThinkBetter/Inbox/键盘设计相关.md"
     }
   ],
   "omittedPaths": [],
