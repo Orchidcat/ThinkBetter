@@ -4,10 +4,10 @@ tags:
 Cover: 
 Type: 
 Series: 
-Author: 
+Author: Barbara Oakley
 Status: 
 OrderInYear:
-StartDate:
+StartDate: 
 FinishedDate:
 Rating: 
 ---
