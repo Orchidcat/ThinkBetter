@@ -1,16 +1,18 @@
-```
+---
 tags: 
    - book 
 Cover: 
-Type: 转变思维模式
+Type: 
 Series: 
-Author: Barbara Oakley
+Author: 
 Status: 
 OrderInYear:
 StartDate:
 FinishedDate:
 Rating: 
-```
+---
+
+
 
 
 幸运女神眷顾那些努力尝试的人
