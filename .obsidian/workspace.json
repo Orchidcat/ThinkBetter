@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+                "file": "ThinkBetter/Inbox/退休.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BASB Book on a Page 的大纲"
+              "title": "退休 的大纲"
             }
           }
         ],
@@ -209,8 +209,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "93135f0405af69f4",
+  "active": "d39b002ebd830d29",
   "lastOpenFiles": [
+    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/a mind for Numbers.md",
