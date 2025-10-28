@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "退休",
-      "path": "ThinkBetter/Inbox/退休.md"
+      "basename": "学习好坏的十个准则",
+      "path": "ThinkBetter/Inbox/学习好坏的十个准则.md"
+    },
+    {
+      "basename": "a mind for Numbers",
+      "path": "ThinkBetter/Books/a mind for Numbers.md"
+    },
+    {
+      "basename": "2025-10-27",
+      "path": "ThinkBetter/DailyNotes/2025-10-27.md"
     },
     {
       "basename": "BASB Book on a Page",
       "path": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
+    },
+    {
+      "basename": "退休",
+      "path": "ThinkBetter/Inbox/退休.md"
     },
     {
       "basename": "BoaP - How to Take Smart Notes",
@@ -17,20 +29,12 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
-      "basename": "a mind for Numbers",
-      "path": "ThinkBetter/Books/a mind for Numbers.md"
-    },
-    {
       "basename": "局外人",
       "path": "ThinkBetter/Books/局外人.md"
     },
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "2025-10-27",
-      "path": "ThinkBetter/DailyNotes/2025-10-27.md"
     },
     {
       "basename": "生命是什么",
@@ -195,10 +199,6 @@
     {
       "basename": "园丁与木匠",
       "path": "ThinkBetter/Books/园丁与木匠.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "ThinkBetter/Inbox/Workbench.md"
     }
   ],
   "omittedPaths": [],
