@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "productivit",
+                "query": "tag:#爱因斯坦把自己想象成一个以光速运动的光子，然后想象第二个光子会如何感知他。第二个光子会看到什么，感受到什么？",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
