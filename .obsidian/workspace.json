@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/学习不好的十个准则.md",
+                "file": "ThinkBetter/Inbox/学习好的十个准则.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习不好的十个准则 的大纲"
+              "title": "学习好的十个准则 的大纲"
             }
           }
         ],
@@ -250,10 +250,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "52ebe6f475842da0",
+  "active": "8b0187e157a30447",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/学习好的十个准则.md",
     "ThinkBetter/Inbox/学习不好的十个准则.md",
+    "ThinkBetter/Inbox/学习好的十个准则.md",
     "ThinkBetter/Books/a mind for Numbers.md",
     "ThinkBetter/DailyNotes/2025-10-27.md",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
