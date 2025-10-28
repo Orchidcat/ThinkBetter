@@ -83,14 +83,19 @@
             "id": "43b581c2ac62fb8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945,
-    "collapsed": true
+    "width": 255.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/学习好的十个准则.md",
+                "file": "ThinkBetter/Start Here.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习好的十个准则 的大纲"
+              "title": "Start Here 的大纲"
             }
           }
         ],
@@ -250,11 +254,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8b0187e157a30447",
+  "active": "43b581c2ac62fb8e",
   "lastOpenFiles": [
+    "ThinkBetter/Books/a mind for Numbers.md",
     "ThinkBetter/Inbox/学习不好的十个准则.md",
     "ThinkBetter/Inbox/学习好的十个准则.md",
-    "ThinkBetter/Books/a mind for Numbers.md",
     "ThinkBetter/DailyNotes/2025-10-27.md",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "ThinkBetter/Inbox/退休.md",
