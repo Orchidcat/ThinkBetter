@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "BASB Book on a Page",
+      "path": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
+    },
+    {
+      "basename": "BoaP - How to Take Smart Notes",
+      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "a mind for Numbers",
       "path": "ThinkBetter/Books/a mind for Numbers.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "2025-10-27",
@@ -191,14 +199,6 @@
     {
       "basename": "Workbench",
       "path": "ThinkBetter/Inbox/Workbench.md"
-    },
-    {
-      "basename": "比卦",
-      "path": "ThinkBetter/易经/比卦.md"
-    },
-    {
-      "basename": "diagrams matter for PKM.excalidraw",
-      "path": "ThinkBetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md"
     }
   ],
   "omittedPaths": [],
