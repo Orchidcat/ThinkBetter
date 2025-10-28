@@ -9,7 +9,7 @@ Status:
 OrderInYear:
 StartDate: 2025-10-27
 FinishedDate: 2025-10-28
-Rating: 
+Rating: ⭐⭐⭐
 ---
 
 
