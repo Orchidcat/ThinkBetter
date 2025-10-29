@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "T43 tessy 3.2"
+              "title": "2025-09-19"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kicad",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -130,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-19.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "T43 tessy 3.2 的大纲"
+              "title": "2025-09-19 的大纲"
             }
           }
         ],
@@ -184,9 +185,12 @@
   },
   "active": "efe37a700ea2d585",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-09-18.md",
+    "ThinkBetter/Inbox/ergogen.md",
+    "ThinkBetter/Inbox/newKB.md",
+    "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/Sources/IBM T43 Keyboard.pdf",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/DailyNotes/2025-10-27.md",
     "ThinkBetter/DailyNotes/2025-07-01.md",
     "ThinkBetter/DailyNotes/2025-10-29.md",
@@ -214,8 +218,6 @@
     "ThinkBetter/Inbox/未命名 3.md",
     "ThinkBetter/Tasks.md",
     "ThinkBetter/Books/option B.md",
-    "ThinkBetter/DailyNotes/2025-07-21.md",
-    "ThinkBetter/Inbox/newKB.md",
     "ThinkBetter/Sources/Pasted image 20251016101841.png",
     "ThinkBetter/Sources/Pasted image 20251016101748.png",
     "ThinkBetter/Sources/Pasted image 20251011161939.png",
@@ -229,7 +231,6 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Thinkbetter/Excalidraw/example",
-    "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
