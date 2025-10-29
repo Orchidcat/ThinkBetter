@@ -2,7 +2,7 @@
 
 
 使用FPC转接板，飞线连接开发板，
-![[IBM T43 Keyboard.pdf]]
+![[IBM T43 Keyboard.pdf|300]]
 
 - [ ] FPC  排线选择（40pin）
-- [ ] 开发板选择
+- [ ] 开发板选择 ( 原始tessny 3.2 有34个引脚，)
