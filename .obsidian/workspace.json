@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +184,7 @@
   },
   "active": "efe37a700ea2d585",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/IBM T43 Keyboard.pdf",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/DailyNotes/2025-10-27.md",
@@ -214,7 +216,6 @@
     "ThinkBetter/Books/option B.md",
     "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/Inbox/newKB.md",
-    "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Sources/Pasted image 20251016101841.png",
     "ThinkBetter/Sources/Pasted image 20251016101748.png",
     "ThinkBetter/Sources/Pasted image 20251011161939.png",
