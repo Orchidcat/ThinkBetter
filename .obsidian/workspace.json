@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "kicad"
             }
-          },
-          {
-            "id": "e6b2d011b941bfbb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "kicad 流程.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
+                "file": "kicad.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "kicad 流程.excalidraw 的大纲"
+              "title": "kicad 的大纲"
             }
           }
         ],
@@ -211,12 +199,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e6b2d011b941bfbb",
+  "active": "f5bb66021fc041b1",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-09-19.md",
+    "kicad.md",
+    "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "ThinkBetter/Excalidraw/kicad 流程.excalidraw.md",
     "ThinkBetter/Start Here.md",
-    "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
-    "kicad.md",
     "ThinkBetter/Excalidraw/Drawing 2025-10-29 14.00.13.excalidraw.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
@@ -254,7 +243,6 @@
     "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
-    "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/Inbox/ergogen.md",
     "ThinkBetter/Inbox/newKB.md",
