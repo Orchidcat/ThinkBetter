@@ -68,7 +68,7 @@ DRC（设计规则检查）
 
 官网教程 [KiCad 入门 \| 9.0 \| 简体中文 \| Documentation \| KiCad](https://docs.kicad.org/9.0/zh/getting_started_in_kicad/getting_started_in_kicad.html)
 
-原理图中的封装，决定了物理上用
+原理图中的封装，决定了物理上用什么元件
 
 PCB 层都是从板子的正面看的。因此，电路板底部的封装是颠倒的，看起来是镜像的。
 每个 PCB 层都有一个独特的颜色，由外观面板的层标签中的色板显示。在默认的颜色方案中，`F.Cu` （正面铜）层上的项目是红色的，而 `B.Cu`（背面铜）上的项目是蓝色。
