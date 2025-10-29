@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
+                "file": "ThinkBetter/Inbox/学习好的十个准则.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "思考问题的三个过滤器 的大纲"
+              "title": "学习好的十个准则 的大纲"
             }
           }
         ],
@@ -270,11 +270,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "43b581c2ac62fb8e",
+  "active": "74afa10e785707e6",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Inbox/学习好的十个准则.md",
     "ThinkBetter/Books/a mind for Numbers.md",
-    "ThinkBetter/Books/100种心智模型/思考问题的三个过滤器.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/学习不好的十个准则.md",
     "ThinkBetter/DailyNotes/2025-10-27.md",
