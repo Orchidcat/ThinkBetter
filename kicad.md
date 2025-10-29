@@ -60,7 +60,7 @@ PCB 布局是**将原理图转换为物理电路板**的过程。在 KiCad 中�
 
 
 开发流程
-```flowchart
+``` flowchart
     A[“原理图设计<br>（Schematic Capture）”] --> B[“原理图检查<br>（ERC）”]
     B --> C[“PCB布局<br>（Board Layout）”]
     C --> D{“布线是否<br>令人满意?”}
