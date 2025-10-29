@@ -64,3 +64,6 @@ ERC（原理图检查）
 Board Layout（PCB布局）
 DRC（设计规则检查）
 生成Gerber，钻孔等
+
+
+官网教程 [KiCad 入门 \| 9.0 \| 简体中文 \| Documentation \| KiCad](https://docs.kicad.org/9.0/zh/getting_started_in_kicad/getting_started_in_kicad.html)
