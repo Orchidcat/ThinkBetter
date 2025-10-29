@@ -59,3 +59,8 @@ PCB 布局是**将原理图转换为物理电路板**的过程。在 KiCad 中�
 
 
 开发流程
+Schematic Capture（
+ERC（原理图检查）
+Board Layout（PCB布局）
+DRC（设计规则检查）
+生成Gerber，钻孔等
