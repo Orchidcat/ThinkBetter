@@ -56,7 +56,14 @@ PCB 布局是**将原理图转换为物理电路板**的过程。在 KiCad 中�
 - **铜层（Copper Layers）**：用于布线的导电层。常见的有 F.Cu（正面铜层）和 B.Cu（背面铜层）。
 - **铺铜（Copper Pour/Zone）**：在 PCB 上填充大片铜区域，通常用于地线（GND）或电源线（Power）。
 
-
+```flowchart 
+st=>start: Start 
+op=>operation: My Operation 
+cond=>condition: Yes or No? 
+e=>end: End 
+st->op->cond 
+cond(yes)->e cond(no)->op 
+```
 
 
 开发流程
