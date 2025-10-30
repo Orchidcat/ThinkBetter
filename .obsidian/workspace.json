@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "T43 tessy 3.2"
+              "title": "newKeyboard"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945,
-    "collapsed": true
+    "width": 255.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -146,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "T43 tessy 3.2 的大纲"
+              "title": "newKeyboard 的大纲"
             }
           }
         ],
@@ -200,6 +199,9 @@
   },
   "active": "f5bb66021fc041b1",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
+    "ThinkBetter/Project/外设/newKB/newKeyboard.md",
+    "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
@@ -241,11 +243,8 @@
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
-    "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
-    "ThinkBetter/DailyNotes/2025-09-18.md",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",

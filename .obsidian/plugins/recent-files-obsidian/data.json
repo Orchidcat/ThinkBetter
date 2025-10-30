@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "newKeyboard",
+      "path": "ThinkBetter/Project/外设/newKB/newKeyboard.md"
+    },
+    {
+      "basename": "sweep type yaml",
+      "path": "ThinkBetter/Project/外设/newKB/sweep type yaml.md"
+    },
+    {
       "basename": "T43 tessy 3.2",
       "path": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md"
     },
@@ -117,10 +125,6 @@
       "path": "ThinkBetter/Inbox/科举.md"
     },
     {
-      "basename": "sweep type yaml",
-      "path": "ThinkBetter/Project/外设/newKB/sweep type yaml.md"
-    },
-    {
       "basename": "Seeking wisdom",
       "path": "ThinkBetter/Books/Seeking wisdom.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sweep type files list",
       "path": "ThinkBetter/Inbox/sweep type files list.md"
-    },
-    {
-      "basename": "2025-09-10",
-      "path": "ThinkBetter/DailyNotes/2025-09-10.md"
     }
   ],
   "omittedPaths": [],
