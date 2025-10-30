@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "newKeyboard"
+              "title": "2025-07-15"
             }
           }
         ],
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
+                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "newKeyboard 的大纲"
+              "title": "2025-07-15 的大纲"
             }
           }
         ],
@@ -199,15 +199,16 @@
   },
   "active": "f5bb66021fc041b1",
   "lastOpenFiles": [
-    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
+    "ThinkBetter/DailyNotes/2025-09-03.md",
+    "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Project/外设/newKB/newKeyboard.md",
+    "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Start Here.md",
     "kicad.md",
-    "ThinkBetter/DailyNotes/2025-09-19.md",
     "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "ThinkBetter/Excalidraw/kicad 流程.excalidraw.md",
     "ThinkBetter/Excalidraw/Drawing 2025-10-29 14.00.13.excalidraw.md",
@@ -242,7 +243,6 @@
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
     "未命名.canvas",
