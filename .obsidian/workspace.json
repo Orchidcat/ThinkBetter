@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-15"
+              "title": "2025-09-12"
             }
           }
         ],
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-07-15.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-15 的大纲"
+              "title": "2025-09-12 的大纲"
             }
           }
         ],
@@ -199,7 +199,11 @@
   },
   "active": "f5bb66021fc041b1",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-07-21.md",
+    "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/DailyNotes/2025-09-03.md",
+    "ThinkBetter/DailyNotes/2025-10-27.md",
+    "ThinkBetter/DailyNotes/2025-10-29.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
     "ThinkBetter/Project/外设/newKB/newKeyboard.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
@@ -235,14 +239,10 @@
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
-    "Thinkbetter/Excalidraw/解读易经 - map.md",
-    "Thinkbetter/Excalidraw/对抗愚蠢.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/example",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
     "未命名.canvas",
