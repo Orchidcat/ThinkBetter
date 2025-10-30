@@ -17,7 +17,7 @@ BOM：
 - choc热插拔插座
 - 电源开关
 - 复位开关(6x3mm, THD)
-- mill max cha
+- mill max 插座及销钉
 
 
 
