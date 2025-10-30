@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Electronics",
+      "path": "ThinkBetter/Inbox/Electronics.md"
+    },
+    {
       "basename": "键盘设计.excalidraw",
       "path": "ThinkBetter/Excalidraw/键盘设计.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-10",
       "path": "ThinkBetter/DailyNotes/2025-09-10.md"
-    },
-    {
-      "basename": "娱乐至死",
-      "path": "ThinkBetter/Books/娱乐至死.md"
     }
   ],
   "omittedPaths": [],

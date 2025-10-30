@@ -26,12 +26,15 @@
             "id": "f5bb66021fc041b1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/键盘设计.excalidraw.md"
+                "file": "ThinkBetter/Inbox/Electronics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "键盘设计.excalidraw"
+              "icon": "lucide-file",
+              "title": "Electronics"
             }
           }
         ],
@@ -78,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kicad",
+                "query": "电阻",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +92,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -142,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
+                "file": "ThinkBetter/Inbox/Electronics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "键盘设计.excalidraw 的大纲"
+              "title": "Electronics 的大纲"
             }
           }
         ],
@@ -196,8 +200,8 @@
   },
   "active": "f5bb66021fc041b1",
   "lastOpenFiles": [
-    "ThinkBetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
+    "ThinkBetter/Excalidraw/解读易经 - map.md",
     "ThinkBetter/Start Here.md",
     "kicad.md",
     "ThinkBetter/DailyNotes/2025-09-19.md",
