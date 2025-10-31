@@ -4,75 +4,93 @@ meta:
 
   engine: 4.1.0
 
+# U is a predefined unit of measure that means 19.05mm, which is MX spacing (u is 19.00mm)
+
+units:
+
+  # Proxy Spacing Variables
+
+  kx: cx
+
+  ky: cy
+
+  # Padding Variables
+
+  px: kx + 2
+
+  py: ky + 2
+
 points:
 
   zones:
 
     matrix:
 
-      #anchor:
-
-        #rotate: 5
+      anchor.shift: [50,-100] # Fix KiCad placement
 
       columns:
 
         pinky:
 
-        ring.key.stagger: 0.66U
+        ring:
 
-        middle.key.stagger: 0.25U
+        middle:
 
-        index.key.stagger: -0.25U
+        index:
 
-        inner.key.stagger: -0.15U
+        inner:
 
-        #index:
+        more:
 
-        #inner:
+          rows.num.skip: true
+
+          rows.top.skip: true
+
+          rows.home.skip: true
 
       rows:
 
-        bottom.padding: U
+        bottom:
 
-        home.padding: U
+        home:
 
-        top.padding: U
+        top:
 
-        #bottom:
+        num:
 
-        #home:
+pcbs:
 
-        #top:
+  simple_split:
 
-    thumbfan:
+    template: kicad8
 
-      anchor:
+    footprints:
 
-        ref: matrix_index_bottom
+      keys:
 
-        shift: [0.66U,-1.25U]
+        what: ceoloide/switch_mx
 
-        rotate: -10
+        where: true
 
-      columns:
+        params:
 
-        tucky:
+          from: GND
 
-          key.name: thumb_tucky
+          to: "{{name}}"
 
-        reachy:
+          reversible: true
 
-          key.spread: U
+          solder: true
 
-          key.splay: -15
+          include_keycap: true
 
-          key.origin: [-0.5U,-0.5U]
+      mcu:
 
-          key.name: thumb_reachy
+        what: ceoloide/mcu_nice_nano
 
-  mirror:
+        where:
 
-    ref: matrix_inner_home
+          - ref: matrix_inner_top
 
-    distance: 60
+            shift: [1U, 0.5U]
 ```
