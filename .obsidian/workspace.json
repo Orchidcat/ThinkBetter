@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2025-09-12"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芪",
+                "query": "conductor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,6 +184,7 @@
   },
   "active": "0478d66bb006a492",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/防己黄芪汤.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
@@ -199,7 +200,6 @@
     "ThinkBetter/Inbox/Electronics.md",
     "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
-    "ThinkBetter/Start Here.md",
     "kicad.md",
     "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "ThinkBetter/Excalidraw/kicad 流程.excalidraw.md",
