@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/人纪/防己黄芪汤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-12"
+              "title": "防己黄芪汤"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 62.32686980609418,
+        "dimension": 61.68582375478927,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "地黄",
+                "query": "黄芪",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,7 @@
       {
         "id": "ee40cd9271c8503a",
         "type": "tabs",
-        "dimension": 37.67313019390581,
+        "dimension": 38.31417624521073,
         "children": [
           {
             "id": "c8fa281ebe85bc60",
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/人纪/防己黄芪汤.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "防己黄芪汤 的大纲"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/DailyNotes/2025-07-21.md",
     "ThinkBetter/DailyNotes/2025-07-15.md",
     "ThinkBetter/DailyNotes/2025-09-03.md",
@@ -238,7 +239,6 @@
     "Thinkbetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
