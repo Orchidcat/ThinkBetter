@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "正见",
+      "path": "ThinkBetter/Books/正见.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "论生命之短暂",
       "path": "ThinkBetter/Books/论生命之短暂.md"
-    },
-    {
-      "basename": "2025-10-15",
-      "path": "ThinkBetter/DailyNotes/2025-10-15.md"
     }
   ],
   "omittedPaths": [],
