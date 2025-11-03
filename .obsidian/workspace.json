@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/正见.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "正见"
             }
           }
         ]
@@ -182,12 +182,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "85eb1653c0fa639e",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Project/外设/newKB/newKeyboard.md",
     "ThinkBetter/Books/正见.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/人纪/折肱漫录.md",
