@@ -37,7 +37,8 @@
               "title": "复活T43键盘"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Clear Thinking 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -197,13 +198,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb60d3daad249639",
+  "active": "e2ec5df8711405aa",
   "lastOpenFiles": [
+    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Sources/Pasted image 20251104135747.png",
     "ThinkBetter/Sources/Pasted image 20251104135725.png",
-    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/_ MOC - Books.md",
