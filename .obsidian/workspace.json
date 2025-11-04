@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "_ MOC - Books"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四圣",
+                "query": "clear",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945,
-    "collapsed": true
+    "width": 255.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -183,10 +182,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb60d3daad249639",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Project/外设/newKB/newKeyboard.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
