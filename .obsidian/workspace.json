@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "毛孔",
+                "query": "饭后",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.51103591918945,
-    "collapsed": true
+    "width": 255.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -213,7 +212,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb60d3daad249639",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
