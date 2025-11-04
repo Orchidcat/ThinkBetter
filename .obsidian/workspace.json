@@ -37,8 +37,7 @@
               "title": "正见"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +198,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ca8d856cae616865",
+  "active": "bb60d3daad249639",
   "lastOpenFiles": [
+    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Project/外设/newKB/newKeyboard.md",
     "ThinkBetter/Project/外设/newKB/sweep type yaml.md",
