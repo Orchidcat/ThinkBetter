@@ -85,6 +85,8 @@ as you find it, not as you would have it be.
 行动时：询问自己是否该行动会使将来更好（接受已发生的） ^mxln34v
 
 
+
+[[相传是刻在德尔斐的阿波罗神庙的三句箴言]]
 #### 自我认知（know thyself)
 ![[Pasted image 20240222103952.png]]
 古希腊的训诫“认识你自己”刻在德尔菲阿波罗神庙的前院。 ^924db7
