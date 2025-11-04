@@ -150,6 +150,7 @@ The most successful people have the **highest standards**, not only for others b
 
 
 盲点：我们的**感知能力**是在进化过程中，为了适应环境生存下来而产生的。他们**并不足够的精确**
+
 知道偏见和盲点并不足够。还需要去管理它们。[[一句话的玩味#^cb675b]]
 
 看不到弱点的三个原因：
