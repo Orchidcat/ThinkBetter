@@ -51,8 +51,24 @@
               "icon": "lucide-file",
               "title": "正见"
             }
+          },
+          {
+            "id": "f29fc201d8cdbf89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "复活T43键盘"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +122,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -128,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -161,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Clear Thinking 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -213,10 +227,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bb60d3daad249639",
+  "active": "f29fc201d8cdbf89",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/_ MOC - Books.md",
