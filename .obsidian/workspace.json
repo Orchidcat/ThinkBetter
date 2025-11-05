@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/提供同步脉冲以测量扫描频率.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "提供同步脉冲以测量扫描频率 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -214,11 +214,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "60a8e78d44000f5b",
+  "active": "e2ec5df8711405aa",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/提供同步脉冲以测量扫描频率.md",
-    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
+    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Sources/Pasted image 20251104135747.png",
     "ThinkBetter/Sources/Pasted image 20251104135725.png",
