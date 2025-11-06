@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_MOC - 100种心智模型 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -229,8 +229,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "975643965b33d536",
+  "active": "e2ec5df8711405aa",
   "lastOpenFiles": [
+    "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Books/100种心智模型/地图不是领土.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
@@ -258,7 +259,6 @@
     "ThinkBetter/Excalidraw/键盘设计.excalidraw.md",
     "ThinkBetter/Excalidraw/解读易经 - map.md",
     "kicad.md",
-    "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
