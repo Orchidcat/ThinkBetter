@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ergo",
+                "query": "立冬",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -199,7 +198,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e2ec5df8711405aa",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
