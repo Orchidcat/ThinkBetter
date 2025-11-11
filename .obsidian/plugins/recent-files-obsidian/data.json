@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PCB 各种层",
+      "path": "ThinkBetter/Inbox/PCB 各种层.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "ergogen",
       "path": "ThinkBetter/Inbox/ergogen.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "newKeyboard",
@@ -195,10 +199,6 @@
     {
       "basename": "option B",
       "path": "ThinkBetter/Books/option B.md"
-    },
-    {
-      "basename": "纳瓦尔宝典",
-      "path": "ThinkBetter/Books/纳瓦尔宝典.md"
     }
   ],
   "omittedPaths": [],
