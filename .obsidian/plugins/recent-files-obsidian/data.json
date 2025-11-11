@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "PCB 各种层",
       "path": "ThinkBetter/Inbox/PCB 各种层.md"
     },
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
+      "basename": "kicad",
+      "path": "kicad.md"
     },
     {
       "basename": "ergogen",
@@ -107,10 +111,6 @@
     {
       "basename": "解读易经 - map",
       "path": "ThinkBetter/Excalidraw/解读易经 - map.md"
-    },
-    {
-      "basename": "kicad",
-      "path": "kicad.md"
     },
     {
       "basename": "kicad 流程.excalidraw",
