@@ -25,12 +25,16 @@
 ![[Pasted image 20251111092922.png]]
 
 
+## 机械层和边界层（Mechanical & Outline）
+这些层定义了电路板的物理形状和制造要求。
+
+![[Pasted image 20251111093006.png]]
 
 
+## 钻孔文件（Drill Files）
+虽然不是 KiCad 中的单独图形层，但钻孔信息是生产的关键部分。
 
-
-
-
+![[Pasted image 20251111093031.png]]
 
 
 
