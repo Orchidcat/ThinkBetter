@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 268.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +199,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c4b4ea4bdb989b2b",
   "lastOpenFiles": [
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
