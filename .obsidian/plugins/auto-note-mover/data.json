@@ -82,6 +82,11 @@
       "folder": "ThinkBetter/Project/外设/keyball39",
       "tag": "#Project/keyball39",
       "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,
