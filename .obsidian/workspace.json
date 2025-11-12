@@ -36,24 +36,9 @@
               "icon": "lucide-file",
               "title": "复活T43键盘"
             }
-          },
-          {
-            "id": "041ea3b407a2072b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/中国历代政治得失.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "中国历代政治得失"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/中国历代政治得失.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "中国历代政治得失 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -212,8 +197,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "c4b4ea4bdb989b2b",
   "lastOpenFiles": [
+    "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
@@ -249,7 +235,6 @@
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/防己黄芪汤.md",
-    "ThinkBetter/DailyNotes/2025-07-21.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
