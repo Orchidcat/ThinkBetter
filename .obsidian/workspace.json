@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电阻",
+                "query": "乌梅",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +92,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -197,7 +198,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "983e524e7a310867",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Hobbies/电路/常见元件位号.md",
     "ThinkBetter/Hobbies/电路/Electronics.md",
