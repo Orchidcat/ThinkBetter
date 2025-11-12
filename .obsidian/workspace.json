@@ -107,8 +107,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -213,7 +212,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "041ea3b407a2072b",
+  "active": "c6f982b1d437b289",
   "lastOpenFiles": [
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
