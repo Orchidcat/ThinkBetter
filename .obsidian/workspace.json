@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "复活T43键盘"
             }
+          },
+          {
+            "id": "041ea3b407a2072b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/中国历代政治得失.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "中国历代政治得失"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "张锡纯",
+                "query": "唐朝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945,
-    "collapsed": true
+    "width": 268.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -147,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
+                "file": "ThinkBetter/Books/中国历代政治得失.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复活T43键盘 的大纲"
+              "title": "中国历代政治得失 的大纲"
             }
           }
         ],
@@ -199,11 +213,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c4b4ea4bdb989b2b",
+  "active": "041ea3b407a2072b",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
-    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/Electronics.md",
     "ThinkBetter/人纪/玄参.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
