@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+                "file": "ThinkBetter/人纪/玄参.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "089 人纪 - 神农本草经"
+              "title": "玄参"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "珠子参",
+                "query": "玄参",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+                "file": "ThinkBetter/人纪/玄参.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "089 人纪 - 神农本草经 的大纲"
+              "title": "玄参 的大纲"
             }
           }
         ],
@@ -198,8 +198,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "983e524e7a310867",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/常见元件位号.md",
     "ThinkBetter/Hobbies/电路/Electronics.md",
