@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42f8e1e65ec77ba1",
+        "id": "97a2b86c27e2f8bd",
         "type": "tabs",
         "children": [
           {
-            "id": "d21eabbe54cdf1be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/001 @MOC中医.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "001 @MOC中医"
-            }
-          },
-          {
-            "id": "c4b4ea4bdb989b2b",
+            "id": "266c432472efccd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +22,7 @@
               "title": "复活T43键盘"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +181,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c4b4ea4bdb989b2b",
+  "active": "266c432472efccd0",
   "lastOpenFiles": [
-    "ThinkBetter/Books/中国历代政治得失.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
+    "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Hobbies/电路/Electronics.md",
@@ -210,7 +195,6 @@
     "ThinkBetter/Hobbies/电路",
     "ThinkBetter/Sources/Pasted image 20251112093854.png",
     "ThinkBetter/DailyNotes/2025-11-12.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/PCB 各种层.md",
     "kicad.md",
     "ThinkBetter/Sources/Pasted image 20251111093031.png",

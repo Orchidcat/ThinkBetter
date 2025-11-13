@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
     },
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2025-11-12",
       "path": "ThinkBetter/DailyNotes/2025-11-12.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "PCB 各种层",
