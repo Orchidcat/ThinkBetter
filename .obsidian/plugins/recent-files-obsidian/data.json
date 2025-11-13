@@ -5,6 +5,14 @@
       "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
     },
     {
+      "basename": "kicad",
+      "path": "ThinkBetter/Hobbies/电路/kicad.md"
+    },
+    {
+      "basename": "Letters from a Self-Made Merchant to His Son",
+      "path": "Letters from a Self-Made Merchant to His Son.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "PCB 各种层",
       "path": "ThinkBetter/Inbox/PCB 各种层.md"
-    },
-    {
-      "basename": "kicad",
-      "path": "kicad.md"
     },
     {
       "basename": "ergogen",
@@ -195,10 +199,6 @@
     {
       "basename": "生命是什么",
       "path": "ThinkBetter/Books/生命是什么.md"
-    },
-    {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/Distill/一句话的玩味.md"
     }
   ],
   "omittedPaths": [],
