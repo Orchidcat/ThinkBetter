@@ -95,7 +95,7 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 59.310344827586206,
+        "dimension": 65.51724137931035,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -143,7 +143,7 @@
       {
         "id": "ee40cd9271c8503a",
         "type": "tabs",
-        "dimension": 40.689655172413794,
+        "dimension": 34.48275862068966,
         "children": [
           {
             "id": "c8fa281ebe85bc60",
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.51103591918945,
-    "collapsed": true
+    "width": 244.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -244,7 +243,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "040681e60675382b",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/中考.md",
     "ThinkBetter/Books/a mind for Numbers.md",
