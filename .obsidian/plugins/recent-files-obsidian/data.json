@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/中考.md"
     },
     {
+      "basename": "中考  - 语文和英语",
+      "path": "ThinkBetter/Inbox/中考  - 语文和英语.md"
+    },
+    {
       "basename": "a mind for Numbers",
       "path": "ThinkBetter/Books/a mind for Numbers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "newKB",
       "path": "ThinkBetter/Inbox/newKB.md"
-    },
-    {
-      "basename": "2025-07-01",
-      "path": "ThinkBetter/DailyNotes/2025-07-01.md"
     }
   ],
   "omittedPaths": [],
