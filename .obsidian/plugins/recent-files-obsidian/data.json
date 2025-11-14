@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "how people learn",
+      "path": "ThinkBetter/Books/how people learn.md"
+    },
+    {
       "basename": "第一性原理",
       "path": "ThinkBetter/Books/100种心智模型/第一性原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "退休",
       "path": "ThinkBetter/Inbox/退休.md"
-    },
-    {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
     }
   ],
   "omittedPaths": [],
