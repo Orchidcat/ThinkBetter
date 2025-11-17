@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Inbox/什么是自学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "什么是自学"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.51103591918945,
-    "collapsed": true
+    "width": 244.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -185,6 +184,7 @@
   },
   "active": "79d6c64f98ca06d1",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/How to become straight-A student.md",
     "ThinkBetter/Books/a mind for Numbers.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
@@ -214,7 +214,6 @@
     "ThinkBetter/Hobbies/电路/kicad.md",
     "Letters from a Self-Made Merchant to His Son.md",
     "未命名.canvas",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
