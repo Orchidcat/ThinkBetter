@@ -33,6 +33,9 @@
 
 ![[Pasted image 20251118112820.png]]
 
+![[Pasted image 20251118113321.png]]
+层压贴心电感
+
 
 
 
