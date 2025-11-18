@@ -115,3 +115,11 @@ NMOS和PMOS最常见的用法是配对使用，构成 **CMOS**电路。CMOS是�
 ![[Pasted image 20251118132202.png]]
 
 ![[Pasted image 20251118132215.png]]
+
+
+### 运算放大器（Operational Amplifiers）
+
+
+
+
+
