@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "中考  - 语文和英语"
             }
+          },
+          {
+            "id": "4a9d451ad44a88a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#kk",
+                "query": "电容",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,8 +193,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "79d6c64f98ca06d1",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/中考  - 语文和英语.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Inbox/什么是自学.md",
     "ThinkBetter/Hobbies/电路/kicad.md",
@@ -195,7 +207,6 @@
     "ThinkBetter/Inbox/中考 - 物理.md",
     "ThinkBetter/Inbox/中考 - 道德与法治.md",
     "ThinkBetter/Inbox/中考.md",
-    "ThinkBetter/Inbox/中考  - 语文和英语.md",
     "ThinkBetter/Inbox/初中物理基础判断.md",
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Inbox/历史年代.md",
