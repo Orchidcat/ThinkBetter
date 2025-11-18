@@ -44,6 +44,8 @@
 #### 变压器
 ![[Pasted image 20251118113707.png]]
 
+### 开关和继电器（Switches and Relays)
+
 
 
 
