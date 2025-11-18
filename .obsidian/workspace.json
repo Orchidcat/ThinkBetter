@@ -26,10 +26,15 @@
             "id": "4a9d451ad44a88a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Beginner‘s Guide to Reading - Sch"
             }
           }
         ],
@@ -193,8 +198,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "4a9d451ad44a88a1",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
     "ThinkBetter/Inbox/中考  - 语文和英语.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Inbox/什么是自学.md",
@@ -231,7 +237,6 @@
     "ThinkBetter/Hobbies/电路/Electronics.md",
     "ThinkBetter/人纪/玄参.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/Hobbies/电路/常见元件位号.md",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
