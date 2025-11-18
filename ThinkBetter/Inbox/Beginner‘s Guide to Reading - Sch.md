@@ -102,6 +102,8 @@ B:  P通道增强型
 
 #### CMOS技术
 
+[CMOS反相器的工作原理与特性-CSDN博客](https://blog.csdn.net/lin1612/article/details/9385695)
+
 NMOS和PMOS最常见的用法是配对使用，构成 **CMOS**电路。CMOS是现代所有CPU、内存和数字芯片的基础。
 
 **以一个简单的反相器为例：**
