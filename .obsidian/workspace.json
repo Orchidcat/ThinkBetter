@@ -52,8 +52,7 @@
               "title": "接地"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +213,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7854382f8f29b07",
+  "active": "79d6c64f98ca06d1",
   "lastOpenFiles": [
     "ThinkBetter/Hobbies/电路/接地.md",
     "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
