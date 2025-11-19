@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "电平转换",
+      "path": "ThinkBetter/Hobbies/电路/电平转换.md"
+    },
+    {
       "basename": "接地",
       "path": "ThinkBetter/Hobbies/电路/接地.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-10-27",
       "path": "ThinkBetter/DailyNotes/2025-10-27.md"
-    },
-    {
-      "basename": "2025-10-29",
-      "path": "ThinkBetter/DailyNotes/2025-10-29.md"
     }
   ],
   "omittedPaths": [],
