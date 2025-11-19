@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "接地"
             }
+          },
+          {
+            "id": "a65f47d63f922da1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +209,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7854382f8f29b07",
+  "active": "a65f47d63f922da1",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/电路/接地.md",
     "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
     "ThinkBetter/人纪/药/栀子.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Inbox/中考  - 语文和英语.md",
-    "ThinkBetter/Hobbies/电路/接地.md",
     "ThinkBetter/Sources/Pasted image 20251118143057.png",
     "ThinkBetter/Sources/Pasted image 20251118142814.png",
     "ThinkBetter/Sources/Pasted image 20251118142610.png",
