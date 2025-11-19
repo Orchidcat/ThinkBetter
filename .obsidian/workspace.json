@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "Beginner‘s Guide to Reading - Sch"
             }
+          },
+          {
+            "id": "e7854382f8f29b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Hobbies/电路/接地.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "接地"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4a9d451ad44a88a1",
+  "active": "e7854382f8f29b07",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/电路/接地.md",
+    "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
     "ThinkBetter/Sources/Pasted image 20251118143057.png",
     "ThinkBetter/Sources/Pasted image 20251118142814.png",
     "ThinkBetter/Sources/Pasted image 20251118142610.png",
@@ -211,8 +228,6 @@
     "ThinkBetter/Sources/Pasted image 20251118132202.png",
     "ThinkBetter/Sources/Pasted image 20251118132103.png",
     "ThinkBetter/Sources/Pasted image 20251118132054.png",
-    "ThinkBetter/Sources/Pasted image 20251118131700.png",
-    "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
     "ThinkBetter/Inbox/中考  - 语文和英语.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Inbox/什么是自学.md",
