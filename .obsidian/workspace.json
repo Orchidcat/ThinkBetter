@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Hobbies/电路/zmk.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "zmk"
+              "title": "复活T43键盘"
             }
           }
         ],
@@ -230,12 +230,12 @@
   },
   "active": "29dd5e3ab670ca62",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Sources/Pasted image 20251120125341.png",
     "ThinkBetter/Sources/Pasted image 20251120125130.png",
     "ThinkBetter/Sources/Pasted image 20251120125054.png",
     "ThinkBetter/Sources/Pasted image 20251120124522.png",
     "ThinkBetter/Inbox/OB插件.md",
-    "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Inbox/未命名 4.md",
     "ThinkBetter/Hobbies/电路/电平转换.md",
     "ThinkBetter/Sources/Pasted image 20251119144820.png",
@@ -249,7 +249,6 @@
     "ThinkBetter/Sources/Pasted image 20251118142610.png",
     "ThinkBetter/Sources/Pasted image 20251118141611.png",
     "ThinkBetter/Sources/Pasted image 20251118133731.png",
-    "ThinkBetter/Sources/Pasted image 20251118132657.png",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Inbox/什么是自学.md",
     "ThinkBetter/Hobbies/电路/kicad.md",
