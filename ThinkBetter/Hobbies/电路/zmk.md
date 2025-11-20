@@ -61,7 +61,9 @@ CONFIG_ZMK_DISPLAY=y
 CONFIG_ZMK_WIDGET_BATTERY_STATUS=y
 ```
 
+### 行为层（behaviors)
 
+·
 
 
 
