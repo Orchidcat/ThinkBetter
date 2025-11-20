@@ -18,6 +18,7 @@
 - Paste URL into selection: 对文本添加URL路径 
 - Table Of Contents：创建目录
 - Zoom：放大标题或列表
+- Vitrual Link ： 自动引用题目或别名作为链接 （2025-11-20）
 
 ###  日志操作
 - Auto Note Mover：自动将日志移动到指定的文件夹中
