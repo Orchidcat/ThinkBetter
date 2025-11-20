@@ -96,6 +96,31 @@ compatible = "zmk,output-generic-ps2";
 ```
 
 
+文件包含
+```java
+#include <behaviors.dtsi>        // 标准行为定义
+#include <dt-bindings/zmk/keys.h> // 键码定义
+#include <dt-bindings/zmk/bt.h>   // 蓝牙定义
+```
+
+配置覆盖
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 层次结构
 应用层（keymaps)、行为层（behaviors)、设备层（devices)、驱动层（Drivers)、硬件层（Hardware）
