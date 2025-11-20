@@ -1,7 +1,15 @@
 #电路 #project/键盘 
 
 
-DTS
+DTS :**Device Tree Source**（设备树源文件）
+
+设备树文件类型：
+board.overlay          # 主设备树覆盖文件
+shield.overlay         # 键盘 shield 定义
+xyz.keymap              # 键位映射（基于 DTS 语法）
+behaviors.dtsi        # 行为定义
+
+
 
 
 
