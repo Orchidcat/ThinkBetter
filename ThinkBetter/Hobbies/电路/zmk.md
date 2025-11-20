@@ -61,10 +61,39 @@ bindings = <&kp>, <&mo>;          // 句柄引用
 ```
 
 
+键盘特定绑定
+```java
+// 矩阵变换绑定
+compatible = "zmk,matrix-transform";
+
+// 按键扫描绑定  
+compatible = "zmk,kscan-gpio-matrix";
+
+// 行为绑定
+compatible = "zmk,behavior-hold-tap";
+
+// 输出绑定
+compatible = "zmk,output-generic-ps2";
+```
 
 
-
-
+配置选择绑定
+```java
+/ {
+    chosen {
+        // 键盘核心配置
+        zmk,kscan = &kscan0;
+        zmk,matrix-transform = &default_transform;
+        
+        // 外设配置
+        zmk,point-device = &trackpoint;
+        zmk,display = &oled;
+        
+        // 电源配置
+        zmk,battery = &vbatt;
+    };
+};
+```
 
 
 
