@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/OB插件.md"
     },
     {
+      "basename": "未命名 4",
+      "path": "ThinkBetter/Inbox/未命名 4.md"
+    },
+    {
       "basename": "电平转换",
       "path": "ThinkBetter/Hobbies/电路/电平转换.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-07-15",
       "path": "ThinkBetter/DailyNotes/2025-07-15.md"
-    },
-    {
-      "basename": "2025-09-03",
-      "path": "ThinkBetter/DailyNotes/2025-09-03.md"
     }
   ],
   "omittedPaths": [],
