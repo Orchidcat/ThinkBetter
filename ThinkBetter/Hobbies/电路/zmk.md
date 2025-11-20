@@ -63,13 +63,71 @@ CONFIG_ZMK_WIDGET_BATTERY_STATUS=y
 
 ### 行为层（behaviors)
 
-·
+```java
+/ {
+    behaviors {
+        // 基础按键行为
+        key_press: kp { ... };           // 普通按键
+        modifier_key: sk { ... };        // 修饰键
+        
+        // 层操作行为  
+        momentary_layer: mo { ... };     // 瞬时层
+        toggle_layer: tog { ... };       // 切换层
+        layer_tap: lt { ... };           // 层点击
+        
+        // 修饰键行为
+        mod_tap: mt { ... };            // 修饰点击
+        left_mod_tap: lmt { ... };      // 左修饰点击
+        
+        // 高级行为
+        macro: macro { ... };           // 宏
+        behavior_param_value: param { ... }; // 参数设置
+    };
+};
+```
 
 
+### 键位映射层（keymaps）
+```java
+/ {
+    keymap {
+        compatible = "zmk,keymap";
+        
+        // 层定义
+        base_layer {
+            bindings = <
+                // 按键矩阵布局
+                &kp Q &kp W &kp E &kp R &kp T
+                &kp A &kp S &kp D &kp F &kp G
+                &mo 1 &mt LSHIFT TAB   // 层切换和修饰键
+            >;
+        };
+        
+        function_layer {
+            bindings = <
+                // 功能键布局
+                &kp F1 &kp F2 &kp F3 &kp F4 &kp F5
+                &kp EXCL &kp AT &kp HASH &kp DLLR &kp PERC
+                &to 0 &trans &trans    // 返回基础层
+            >;
+        };
+    };
+};
+```
 
 
-
-
+### 构建系统层
+```yaml
+# build.yaml
+include:
+  - board: nice_nano_v2    # 主控板
+    shield: corne_left     # 键盘 shield
+    keymap: default        # 键位映射
+    
+  - board: nice_nano_v2
+    shield: corne_right
+    keymap: default
+```
 
 
 
