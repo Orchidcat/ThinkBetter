@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "zmk安装过程记录",
+      "path": "ThinkBetter/Inbox/zmk安装过程记录.md"
+    },
+    {
       "basename": "复活T43键盘",
       "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "防己黄芪汤",
       "path": "ThinkBetter/人纪/防己黄芪汤.md"
-    },
-    {
-      "basename": "2025-07-21",
-      "path": "ThinkBetter/DailyNotes/2025-07-21.md"
     }
   ],
   "omittedPaths": [],
