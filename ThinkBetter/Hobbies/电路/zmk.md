@@ -1,9 +1,17 @@
 #电路 #project/键盘 
 
 
-层次结构
+DTS
 
+
+
+
+
+层次结构
 应用层（keymaps)、行为层（behaviors)、设备层（devices)、驱动层（Drivers)、硬件层（Hardware）
+
+
+
 
 
 文件结构
@@ -160,7 +168,11 @@ display: display {
 
 
 ### 调试和开发
-
+```java
+CONFIG_LOG=y
+CONFIG_ZMK_LOG_LEVEL_DBG=y
+CONFIG_PS2_LOG_LEVEL_DBG=y
+```
 
 
 
