@@ -9,6 +9,59 @@ shield.overlay         # 键盘 shield 定义
 xyz.keymap              # 键位映射（基于 DTS 语法）
 behaviors.dtsi        # 行为定义
 
+设备树结构
+```java
+// 节点定义
+/ {                                      // 根节点
+    chosen {                             // 系统选择节点
+        zmk,kscan = &kscan0;            // 属性：指向扫描器
+    };
+
+    kscan0: kscan {                     // 标签:节点 定义
+        compatible = "zmk,kscan-gpio-matrix";  // 驱动匹配
+        label = "KSCAN";                // 标签名称
+        row-gpios = <...>;              // GPIO 数组
+    };
+};
+```
+
+
+DTS 语法元素详解
+```java
+node_label: node_name@address {    // 节点标签:名称@地址
+    compatible = "vendor,driver";  // 兼容性属性
+    label = "Human Readable Name"; // 标签属性
+    #address-cells = <1>;          // 子节点地址单元数
+    #size-cells = <0>;             // 子节点大小单元数
+    
+    child_node {                   // 子节点
+        property = <value>;        // 属性
+    };
+};
+```
+
+数据类型和语法
+```java
+// 字符串属性
+compatible = "zmk,kscan-gpio-matrix";
+
+// 整数属性（单元格）
+tapping-term-ms = <200>;          // 单个整数
+row-gpios = <1 2 3>;              // 整数数组
+
+// 字符串列表  
+pinctrl-names = "default", "sleep";
+
+// 二进制数据
+initial-data = [01 02 03 ff];
+
+// 引用其他节点
+zmk,kscan = &kscan0;              // 节点引用
+bindings = <&kp>, <&mo>;          // 句柄引用
+```
+
+
+
 
 
 
