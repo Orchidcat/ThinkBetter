@@ -104,8 +104,32 @@ compatible = "zmk,output-generic-ps2";
 ```
 
 配置覆盖
+```java
+// 基础配置 (ZMK 核心)
+/ {
+    kscan0: kscan {
+        // 默认配置
+    };
+};
 
+// 用户覆盖 (board.overlay)
+&kscan0 {
+    // 覆盖特定属性
+    row-gpios = <&gpio0 12 GPIO_ACTIVE_HIGH>;  // 自定义引脚
+    diode-direction = "row2col";               // 修改方向
+};
+```
 
+实际工作流，配置编译过程
+```java
+.dts + .dtsi + .overlay 文件
+    ↓ (DTC 编译)
+.dtb 二进制设备树
+    ↓ (Zephyr 解析)
+运行时硬件配置
+    ↓ (ZMK 框架)
+功能正常的键盘固件
+```
 
 
 
