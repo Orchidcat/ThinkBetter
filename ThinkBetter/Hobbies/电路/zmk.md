@@ -137,8 +137,29 @@ include:
 ### 配置继承关系
 ![[Pasted image 20251120125130.png]]
 
+### 外设集成模式
+```dts
+// 指针设备
+trackpoint: trackpoint {
+    compatible = "zmk,input-point-device-ps2";
+    ps2-device = &ps2;
+    status = "okay";
+};
+
+// 显示设备
+display: display {
+    compatible = "ssd1306";
+    label = "DISPLAY";
+    width = <128>;
+    height = <32>;
+};
+```
+
+### 电源管理逻辑
+![[Pasted image 20251120125341.png]]
 
 
+### 调试和开发
 
 
 
