@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/历史的教训.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "历史的教训"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "a6967b2a50d98943",
   "lastOpenFiles": [
-    "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Inbox/OB插件.md",
