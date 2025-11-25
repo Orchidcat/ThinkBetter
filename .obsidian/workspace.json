@@ -37,8 +37,7 @@
               "title": "Feel Good Productivity ，How to Do More Of what Matters To You"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e1fffc34cf8113b4",
+  "active": "a6967b2a50d98943",
   "lastOpenFiles": [
+    "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
