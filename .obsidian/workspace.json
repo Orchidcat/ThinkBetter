@@ -26,10 +26,15 @@
             "id": "e1fffc34cf8113b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Feel Good Productivity ，How to Do More Of what Matters To You"
             }
           }
         ],
