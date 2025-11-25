@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6967b2a50d98943",
+            "id": "97e719b3e44f1b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/历史的教训.md",
+                "file": "ThinkBetter/Books/纳瓦尔宝典.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "历史的教训"
-            }
-          },
-          {
-            "id": "e1fffc34cf8113b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Feel Good Productivity ，How to Do More Of what Matters To You"
+              "title": "纳瓦尔宝典"
             }
           }
         ]
@@ -197,10 +182,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a6967b2a50d98943",
+  "active": "97e719b3e44f1b06",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
+    "ThinkBetter/Books/历史的教训.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Inbox/OB插件.md",
@@ -234,7 +220,6 @@
     "ThinkBetter/Inbox/初中物理基础判断.md",
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
     "ThinkBetter/Inbox/历史年代.md",
-    "ThinkBetter/Books/how people learn.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",

@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "历史的教训",
-      "path": "ThinkBetter/Books/历史的教训.md"
+      "basename": "纳瓦尔宝典",
+      "path": "ThinkBetter/Books/纳瓦尔宝典.md"
     },
     {
       "basename": "Start Here",
@@ -11,6 +11,10 @@
     {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
       "path": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md"
+    },
+    {
+      "basename": "历史的教训",
+      "path": "ThinkBetter/Books/历史的教训.md"
     },
     {
       "basename": "复活T43键盘",
@@ -195,10 +199,6 @@
     {
       "basename": "sweep type yaml",
       "path": "ThinkBetter/Project/外设/newKB/sweep type yaml.md"
-    },
-    {
-      "basename": "2025-09-12",
-      "path": "ThinkBetter/DailyNotes/2025-09-12.md"
     }
   ],
   "omittedPaths": [],
