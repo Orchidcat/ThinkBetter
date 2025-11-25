@@ -26,10 +26,15 @@
             "id": "485b6cf3a4020464",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Beginner‘s Guide to Reading - Sch"
             }
           }
         ],
@@ -76,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电阻",
+                "query": "resis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
