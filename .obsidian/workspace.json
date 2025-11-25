@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "纳瓦尔宝典"
             }
+          },
+          {
+            "id": "485b6cf3a4020464",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "清热 ",
+                "query": "电阻",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +87,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -97,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.51103591918945,
-    "collapsed": true
+    "width": 244.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,8 +193,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "97e719b3e44f1b06",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/Books/历史的教训.md",
@@ -219,7 +231,6 @@
     "ThinkBetter/Inbox/中考.md",
     "ThinkBetter/Inbox/初中物理基础判断.md",
     "ThinkBetter/Inbox/What is Visual PKM and Why Should You Care.md",
-    "ThinkBetter/Inbox/历史年代.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
