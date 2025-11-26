@@ -1,6 +1,10 @@
 #电路 #project/键盘 
 
 
+![[Pasted image 20251126091037.png]]
+
+
+
 DTS :**Device Tree Source**（设备树源文件）
 解决的问题：
 - **硬件拓扑**（什么连接到什么）
