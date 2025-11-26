@@ -3,7 +3,7 @@
 
 ![[Pasted image 20251126091037.png]]
 
-
+![[Pasted image 20251126091650.png]]
 
 DTS :**Device Tree Source**（设备树源文件）
 解决的问题：
