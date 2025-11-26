@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "zmk",
+      "path": "ThinkBetter/Hobbies/电路/zmk.md"
+    },
+    {
       "basename": "Beginner‘s Guide to Reading - Sch",
       "path": "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "复活T43键盘",
       "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
-    },
-    {
-      "basename": "zmk",
-      "path": "ThinkBetter/Hobbies/电路/zmk.md"
     },
     {
       "basename": "OB插件",
