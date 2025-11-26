@@ -51,9 +51,19 @@
               "icon": "lucide-file",
               "title": "复活T43键盘"
             }
+          },
+          {
+            "id": "f85920856d9df60c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,11 +224,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1bb98e323549f287",
+  "active": "f85920856d9df60c",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Books/纳瓦尔宝典.md",
-    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Sources/Pasted image 20251126112643.png",
     "ThinkBetter/Sources/Pasted image 20251126111657.png",
     "ThinkBetter/Sources/Pasted image 20251126111627.png",
