@@ -226,7 +226,33 @@ SELECT * FROM orders WHERE order_date > ‘2024-01-01’ AND total_amount > 100;
 - 内部节点：约100万个
 - 缓存大小：约 16 GB（用于缓存所有内部节点）
 
-**经验法则：**预留数据库大小的 10-20% 用于 RAM，以用于 B 树缓存。
+**经验法则：** 预留数据库大小的 10-20% 用于 RAM，以用于 B 树缓存。
+
+
+### 4. 随时间推移而出现的碎片化
+
+经过多次插入和删除操作后，B树节点可能只使用了50-60%的空间。这会浪费空间并增加树的高度。
+
+**解决方案：** 定期执行 VACUUM（PostgreSQL）或 OPTIMIZE TABLE（MySQL）来重建 B 树。
+
+**例子：**
+
+```
+-- PostgreSQL: Rebuild table and indexes
+VACUUM FULL users;
+
+-- MySQL: Optimize table (rebuilds B-Tree)
+OPTIMIZE TABLE users;
+```
+
+
+### 5. 并发挑战
+
+B 树在拆分和合并过程中需要加锁。在高并发工作负载下，锁争用可能导致写入瓶颈。
+
+**解决方案：** 无闩锁 B 树（在 Microsoft SQL Server 等现代数据库中使用）或 MVCC（多版本并发控制）。
+
+
 
 
 
