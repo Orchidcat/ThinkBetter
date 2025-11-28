@@ -177,6 +177,57 @@ B树有三种类型的节点：
 
 
 
+B树的局限性
+
+### 1. 写出放大倍数
+
+每次插入操作都可能触发一直到根目录的拆分。最坏情况下：
+
+- 插入 1 个键 → 拆分叶节点 → 拆分父节点 → 拆分祖父节点 → 拆分根节点
+- 一次逻辑写入会变成 4 次以上的物理写入
+
+**例如：**插入 100 万个密钥，并频繁拆分：
+
+- 逻辑写道：100万
+- 物理写入次数（含分割）：200万-300万次
+- 写入放大倍数：2-3倍
+
+**另一种选择：** RocksDB、Cassandra 和 LevelDB 使用的 LSM 树（日志结构合并树）。LSM 树将数据批量写入内存，然后按顺序刷新到磁盘，避免了原地更新。
+
+### 2. 对非顺序键进行范围查询
+
+B 树针对索引键的范围查询进行了优化，但难以处理多列范围查询。
+
+**例子：**
+
+```
+-- Fast: Range query on indexed column
+SELECT * FROM orders WHERE order_date BETWEEN ‘2024-01-01’ AND ‘2024-12-31’;
+-- B-Tree traverses leaf nodes sequentially (leaf nodes are linked)
+
+-- Slow: Range query on non-indexed column
+SELECT * FROM orders WHERE total_amount BETWEEN 100 AND 200;
+-- Must scan entire table (no index on total_amount)
+
+-- Slow: Multi-column range query
+CREATE INDEX idx_date_amount ON orders(order_date, total_amount);
+SELECT * FROM orders WHERE order_date > ‘2024-01-01’ AND total_amount > 100;
+-- B-Tree can use order_date range, but must filter total_amount in memory
+```
+
+**替代方案：** 多维索引，如 R 树（用于空间数据）或混合索引。
+
+### 3. 缓存的内存开销
+
+为了避免磁盘 I/O 操作，数据库会将频繁访问的 B 树节点缓存在内存中。对于大型数据库：
+
+- 10亿条记录
+- 树高：4 层
+- 内部节点：约100万个
+- 缓存大小：约 16 GB（用于缓存所有内部节点）
+
+**经验法则：**预留数据库大小的 10-20% 用于 RAM，以用于 B 树缓存。
+
 
 
 参考：
