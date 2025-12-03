@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "业力",
+                "query": "湿气",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,7 +198,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "c8fa281ebe85bc60",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Hobbies/电路/Zephyr.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
