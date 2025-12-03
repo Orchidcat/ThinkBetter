@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "湿气",
+                "query": "病愈",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,7 +198,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a382028ff4b40b59",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Books/知己.md",
