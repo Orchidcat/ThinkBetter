@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Zephyr",
+      "path": "ThinkBetter/Hobbies/电路/Zephyr.md"
+    },
+    {
+      "basename": "zmk",
+      "path": "ThinkBetter/Hobbies/电路/zmk.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "B树对于数据库的重要性",
       "path": "ThinkBetter/Work/B树对于数据库的重要性.md"
-    },
-    {
-      "basename": "zmk",
-      "path": "ThinkBetter/Hobbies/电路/zmk.md"
     },
     {
       "basename": "纳瓦尔宝典",
@@ -195,10 +199,6 @@
     {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "newKeyboard",
-      "path": "ThinkBetter/Project/外设/newKB/newKeyboard.md"
     }
   ],
   "omittedPaths": [],
