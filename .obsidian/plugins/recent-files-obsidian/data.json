@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知己",
+      "path": "ThinkBetter/Books/知己.md"
+    },
+    {
       "basename": "Zephyr",
       "path": "ThinkBetter/Hobbies/电路/Zephyr.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "166 血证论",
       "path": "ThinkBetter/人纪/166 血证论.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     }
   ],
   "omittedPaths": [],
