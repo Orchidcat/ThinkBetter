@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/西藏生死书.md"
     },
     {
+      "basename": "问己",
+      "path": "ThinkBetter/Inbox/问己.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "提供同步脉冲以测量扫描频率",
       "path": "ThinkBetter/Inbox/提供同步脉冲以测量扫描频率.md"
-    },
-    {
-      "basename": "正见",
-      "path": "ThinkBetter/Books/正见.md"
     }
   ],
   "omittedPaths": [],
