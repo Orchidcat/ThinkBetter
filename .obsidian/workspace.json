@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +199,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "24ca36c8cec55cc4",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/西藏生死书.md",
