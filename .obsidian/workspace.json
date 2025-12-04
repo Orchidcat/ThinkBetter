@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "病愈",
+                "query": "无常",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -199,7 +198,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "24ca36c8cec55cc4",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/西藏生死书.md",
