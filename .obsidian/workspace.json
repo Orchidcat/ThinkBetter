@@ -37,8 +37,7 @@
               "title": "四圣心源"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,8 +197,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "fbb64c4a957b628e",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/四圣心源.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Hobbies/电路/Zephyr.md",
@@ -235,7 +235,6 @@
     "ThinkBetter/Inbox/中考 - 阅读理解母版.md",
     "ThinkBetter/Inbox/中考 - 数学.md",
     "ThinkBetter/Inbox/中考 - 物理.md",
-    "ThinkBetter/Inbox/中考 - 道德与法治.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
