@@ -4,40 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b72edecf458b66e5",
+        "id": "841445d3e78ea508",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb64c4a957b628e",
+            "id": "3d7ec3f9a6ec873c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Hobbies/电路/zmk.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "zmk"
+              "title": "Start Here"
             }
           },
           {
-            "id": "a382028ff4b40b59",
+            "id": "24ca36c8cec55cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/四圣心源.md",
+                "file": "ThinkBetter/Books/西藏生死书.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "四圣心源"
+              "title": "西藏生死书"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -197,14 +199,15 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "fbb64c4a957b628e",
+  "active": "24ca36c8cec55cc4",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/西藏生死书.md",
+    "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/人纪/四圣心源.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Hobbies/电路/Zephyr.md",
-    "ThinkBetter/Hobbies/电路/zmk.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Sources/Pasted image 20251128111848.png",
     "ThinkBetter/Work/B树对于数据库的重要性.md",
@@ -234,7 +237,6 @@
     "ThinkBetter/Books/a mind for Numbers.md",
     "ThinkBetter/Inbox/中考 - 阅读理解母版.md",
     "ThinkBetter/Inbox/中考 - 数学.md",
-    "ThinkBetter/Inbox/中考 - 物理.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",

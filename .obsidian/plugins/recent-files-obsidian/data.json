@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "西藏生死书",
+      "path": "ThinkBetter/Books/西藏生死书.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "zmk",
       "path": "ThinkBetter/Hobbies/电路/zmk.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Zephyr",
       "path": "ThinkBetter/Hobbies/电路/Zephyr.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "复活T43键盘",
@@ -195,10 +199,6 @@
     {
       "basename": "正见",
       "path": "ThinkBetter/Books/正见.md"
-    },
-    {
-      "basename": "相传是刻在德尔斐的阿波罗神庙的三句箴言",
-      "path": "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md"
     }
   ],
   "omittedPaths": [],
