@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/西藏生死书.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "西藏生死书"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "97dfc4e5e79a2f58",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/keyboard layout.md",
     "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Inbox/问己.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/人纪/四圣心源.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
