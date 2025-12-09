@@ -1,6 +1,8 @@
 #电路 #project/键盘 
 
 
+![[Pasted image 20251209130841.png]]
+
 ![[Pasted image 20251126091037.png]]
 
 ![[Pasted image 20251126091650.png]]
