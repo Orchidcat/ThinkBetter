@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
+                "file": "ThinkBetter/Hobbies/电路/zmk.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复活T43键盘 的大纲"
+              "title": "zmk 的大纲"
             }
           }
         ],
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
