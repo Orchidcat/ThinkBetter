@@ -1,0 +1,50 @@
+在zmk中启用ps/2 模块
+#电路 #zmk 
+
+
+
+----
+```overlay
+ps2_tp: ps2-trackpoint {
+    compatible = "zmk,ps2-mouse";
+    label = "TP_PS2";
+    clk-gpios = <&gpio0 18 GPIO_ACTIVE_HIGH>;
+    data-gpios = <&gpio0 19 GPIO_ACTIVE_HIGH>;
+    // 以上引脚替换为你实际使用的 GPIO
+};
+
+```
+
+
+----
+```west.yml
+manifest:
+#  defaults:
+#    revision: v0.3
+  remotes:
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
+    - name: infused-kim
+      url-base: https://github.com/infused-kim
+    - name: petejohanson
+      url-base: https://github.com/petejohanson
+    - name: urob
+      url-base: https://github.com/urob
+
+  projects:
+  #  - name: zmk
+  #    remote: zmkfirmware
+  #    import: app/west.yml
+    - name: zmk
+      remote: infused-kim
+      revision: pr-testing/mouse_ps2_module_base
+      import: app/west.yml
+
+    # Module for PS/2 mouse & TP driver
+
+    - name: kb_zmk_ps2_mouse_trackpoint_driver
+      remote: infused-kim
+      revision: main
+  self:
+    path: config
+```
