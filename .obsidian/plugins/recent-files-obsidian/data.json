@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "2025-12-12",
       "path": "ThinkBetter/DailyNotes/2025-12-12.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "zmk",
       "path": "ThinkBetter/Hobbies/电路/zmk.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "keyboard layout",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-11-12",
       "path": "ThinkBetter/DailyNotes/2025-11-12.md"
-    },
-    {
-      "basename": "PCB 各种层",
-      "path": "ThinkBetter/Inbox/PCB 各种层.md"
     }
   ],
   "omittedPaths": [],
