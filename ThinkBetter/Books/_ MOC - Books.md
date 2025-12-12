@@ -66,12 +66,9 @@ sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 
 
 ```dataview
-list rows.file.link
-from #Book or #reading or #Book/Reading
-flatten file.cday.year+"年"+length(rows) as yy
-where file.cday.year < date(today).year
-group by yy
-sort yy desc
+table without id link(file.link,default(file.aliases[0],file.name)) as "书名",type as "描述" ,file.cday.month as "月" from #Book 
+where file.cday.year=2025
+sort file.cday.year desc,file.cday.month desc,file.cday.day desc
 ```
 
 
