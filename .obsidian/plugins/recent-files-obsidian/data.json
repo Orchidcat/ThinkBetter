@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "一个键作为软开关",
+      "path": "ThinkBetter/Inbox/一个键作为软开关.md"
+    },
+    {
+      "basename": "2025-12-12",
+      "path": "ThinkBetter/DailyNotes/2025-12-12.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
-    },
-    {
-      "basename": "2025-12-12",
-      "path": "ThinkBetter/DailyNotes/2025-12-12.md"
     },
     {
       "basename": "慈悲",
@@ -195,10 +199,6 @@
     {
       "basename": "常见元件位号",
       "path": "ThinkBetter/Hobbies/电路/常见元件位号.md"
-    },
-    {
-      "basename": "2025-11-12",
-      "path": "ThinkBetter/DailyNotes/2025-11-12.md"
     }
   ],
   "omittedPaths": [],
