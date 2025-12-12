@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/一个键作为软开关.md",
+                "file": "ThinkBetter/DailyNotes/2025-12-12.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一个键作为软开关 的大纲"
+              "title": "2025-12-12 的大纲"
             }
           }
         ],
@@ -243,7 +243,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8ca0749c278518a8",
+  "active": "0038800fa343478c",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/一个键作为软开关.md",
     "ThinkBetter/DailyNotes/2025-12-12.md",
