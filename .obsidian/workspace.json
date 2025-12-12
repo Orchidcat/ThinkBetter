@@ -38,22 +38,17 @@
             }
           },
           {
-            "id": "7ae6f86807d2f3f3",
+            "id": "0038800fa343478c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-12-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-10"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/慈悲.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "慈悲 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -193,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +207,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "37b9531c205a95c6",
+  "active": "0038800fa343478c",
   "lastOpenFiles": [
-    "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Inbox/慈悲.md",
-    "ThinkBetter/Inbox/四禅八定.md",
     "ThinkBetter/DailyNotes/2025-12-10.md",
+    "ThinkBetter/Books/西藏生死书.md",
+    "ThinkBetter/Inbox/四禅八定.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "ThinkBetter/Start Here.md",
