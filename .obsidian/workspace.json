@@ -52,8 +52,7 @@
               "title": "2025-12-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/四禅八定.md",
+                "file": "ThinkBetter/Books/西藏生死书.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "四禅八定 的大纲"
+              "title": "西藏生死书 的大纲"
             }
           }
         ],
@@ -214,10 +213,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "734edcb9d1d95042",
+  "active": "97dfc4e5e79a2f58",
   "lastOpenFiles": [
-    "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Inbox/四禅八定.md",
+    "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/DailyNotes/2025-12-10.md",
     "ThinkBetter/Hobbies/电路/zmk.md",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
