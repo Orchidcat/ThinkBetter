@@ -4,101 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a0357b0f51c558",
+        "id": "c83743db2d037f82",
         "type": "tabs",
         "children": [
           {
-            "id": "97dfc4e5e79a2f58",
+            "id": "c6f2260fa723c885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/西藏生死书.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "西藏生死书"
-            }
-          },
-          {
-            "id": "37b9531c205a95c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/慈悲.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "慈悲"
-            }
-          },
-          {
-            "id": "0038800fa343478c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2025-12-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-12"
-            }
-          },
-          {
-            "id": "ff471ccaf1db4d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "在zmk中启用ps2 模块"
-            }
-          },
-          {
-            "id": "59539785f143eba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_ MOC - Books"
-            }
-          },
-          {
-            "id": "8ca0749c278518a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/一个键作为软开关.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "一个键作为软开关"
+              "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,12 +182,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "59539785f143eba0",
+  "active": "c6f2260fa723c885",
   "lastOpenFiles": [
+    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
     "ThinkBetter/DailyNotes/2025-12-12.md",
     "ThinkBetter/Inbox/一个键作为软开关.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/慈悲.md",
     "ThinkBetter/DailyNotes/2025-12-10.md",
