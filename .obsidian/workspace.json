@@ -37,8 +37,7 @@
               "title": "补中益气汤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "14d71704c4f8440c",
+  "active": "c6f2260fa723c885",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/补中益气汤.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/Start Here.md",
@@ -235,7 +235,6 @@
     "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "ThinkBetter/Books/历史的教训.md",
     "ThinkBetter/Inbox/OB插件.md",
-    "ThinkBetter/Inbox/zmk安装过程记录.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
