@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DBCC PAGE",
+      "path": "ThinkBetter/Work/DBCC PAGE.md"
+    },
+    {
       "basename": "奥卡姆剃刀",
       "path": "ThinkBetter/Books/100种心智模型/奥卡姆剃刀.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "a mind for Numbers",
       "path": "ThinkBetter/Books/a mind for Numbers.md"
-    },
-    {
-      "basename": "中考 - 阅读理解母版",
-      "path": "ThinkBetter/Inbox/中考 - 阅读理解母版.md"
     }
   ],
   "omittedPaths": [],
