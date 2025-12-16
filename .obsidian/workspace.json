@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ed66385e980d79",
+        "id": "1e916bdef7cb5d91",
         "type": "tabs",
         "children": [
           {
-            "id": "d46e2e2ea4a79270",
+            "id": "60e50b5d25b800d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/论生命之短暂.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "论生命之短暂"
+              "title": "新标签页"
             }
           }
         ]
@@ -65,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脾胃论",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -98,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -183,7 +177,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d46e2e2ea4a79270",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2024-04-23.md",
     "ThinkBetter/Inbox/Seat tube length.md",
