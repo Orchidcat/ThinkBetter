@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "2025-12-16"
             }
-          },
-          {
-            "id": "f26a373cd4ba91d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_ MOC - Books"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/DailyNotes/2025-12-16.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_ MOC - Books 的大纲"
+              "title": "2025-12-16 的大纲"
             }
           }
         ],
@@ -199,8 +183,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f26a373cd4ba91d6",
+  "active": "d46e2e2ea4a79270",
   "lastOpenFiles": [
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/人纪/伤寒贯珠集.md",
+    "ThinkBetter/Inbox/尼采语录.md",
     "ThinkBetter/DailyNotes/2025-12-16.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Books/西藏生死书.md",
@@ -208,7 +195,6 @@
     "ThinkBetter/人纪/补中益气汤.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/004 金匮要略.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
     "ThinkBetter/DailyNotes/2025-12-12.md",
     "ThinkBetter/Inbox/一个键作为软开关.md",
@@ -235,7 +221,6 @@
     "ThinkBetter/Sources/Pasted image 20251128091845.png",
     "ThinkBetter/Books/纳瓦尔宝典.md",
     "ThinkBetter/Inbox/Beginner‘s Guide to Reading - Sch.md",
-    "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
