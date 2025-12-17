@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/DailyNotes/2025-12-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "T43 tessy 3.2"
+              "title": "2025-12-16"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zmk",
+                "query": "键盘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
+                "file": "ThinkBetter/DailyNotes/2025-12-16.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "T43 tessy 3.2 的大纲"
+              "title": "2025-12-16 的大纲"
             }
           }
         ],
@@ -184,6 +184,10 @@
   },
   "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
+    "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Work/sql server 缓存计划.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
@@ -206,10 +210,6 @@
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/DailyNotes/2024-04-23.md",
     "ThinkBetter/Inbox/Seat tube length.md",
-    "ThinkBetter/人纪/011 辨少阴病脉症并治法.md",
-    "ThinkBetter/Books/西藏生死书.md",
-    "ThinkBetter/DailyNotes/2025-12-16.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "ThinkBetter/Sources/Pasted image 20251128111848.png",
