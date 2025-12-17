@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-12-16.md",
+                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-16"
+              "title": "newKeyboard"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "键盘",
+                "query": "keyboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-12-16.md",
+                "file": "ThinkBetter/Project/外设/newKB/newKeyboard.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-16 的大纲"
+              "title": "newKeyboard 的大纲"
             }
           }
         ],
@@ -182,13 +182,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "60e50b5d25b800d4",
   "lastOpenFiles": [
+    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
+    "ThinkBetter/DailyNotes/2025-12-16.md",
     "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
-    "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
     "ThinkBetter/Work/sql server 缓存计划.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
     "ThinkBetter/人纪/134 卫气.md",
@@ -209,7 +210,6 @@
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/DailyNotes/2024-04-23.md",
-    "ThinkBetter/Inbox/Seat tube length.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "ThinkBetter/Sources/Pasted image 20251128111848.png",
