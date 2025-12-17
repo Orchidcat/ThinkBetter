@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "T43 tessy 3.2",
+      "path": "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md"
+    },
+    {
+      "basename": "复活T43键盘",
+      "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
+    },
+    {
       "basename": "sql server 缓存计划",
       "path": "ThinkBetter/Work/sql server 缓存计划.md"
     },
@@ -177,10 +185,6 @@
       "path": "ThinkBetter/Hobbies/电路/Zephyr.md"
     },
     {
-      "basename": "复活T43键盘",
-      "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
-    },
-    {
       "basename": "B树对于数据库的重要性",
       "path": "ThinkBetter/Work/B树对于数据库的重要性.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Feel Good Productivity ，How to Do More Of what Matters To You",
       "path": "ThinkBetter/Books/Feel Good Productivity ，How to Do More Of what Matters To You.md"
-    },
-    {
-      "basename": "历史的教训",
-      "path": "ThinkBetter/Books/历史的教训.md"
     }
   ],
   "omittedPaths": [],
