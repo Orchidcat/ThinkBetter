@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "2025-09-12"
             }
+          },
+          {
+            "id": "6165652afa3f94a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2025-09-12.md",
+                "file": "ThinkBetter/Inbox/test.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-12 的大纲"
+              "title": "test 的大纲"
             }
           }
         ],
@@ -182,14 +198,15 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "60e50b5d25b800d4",
+  "active": "6165652afa3f94a1",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/test.md",
+    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/人纪/心肝血虚证.md",
     "ThinkBetter/Books/掌控习惯.md",
     "ThinkBetter/易经/泰卦.md",
     "ThinkBetter/人纪/寒滞肝脉证.md",
     "ThinkBetter/人纪/166 血证论.md",
-    "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/DailyNotes/2025-09-18.md",
     "ThinkBetter/DailyNotes/2025-09-21.md",
     "ThinkBetter/Inbox/keyball.md",
@@ -209,7 +226,6 @@
     "ThinkBetter/人纪/肘后备急方.md",
     "ThinkBetter/Inbox/未命名 2.md",
     "ThinkBetter/人纪/005 八纲辨证.md",
-    "ThinkBetter/Books/身心合一的奇迹力量 by W.Timothy Gallwey.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "ThinkBetter/Sources/Pasted image 20251128111848.png",
