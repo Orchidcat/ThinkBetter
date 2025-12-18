@@ -1,10 +1,12 @@
 
-this is a test[^1].best for [^2]
+this is a test[^nihao].best for [^1]
 
 
 
 
-[^1]: this is the best 
-[^2]: best for something
+[^nihao]: best for something
 
 
+
+
+[^2]: this is the best 
