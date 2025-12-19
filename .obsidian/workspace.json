@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "复活T43键盘"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "复活T43键盘 的大纲"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "active": "c6341b7d3e08f103",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2025-09-12.md",
     "ThinkBetter/Inbox/test.md",
     "ThinkBetter/人纪/心肝血虚证.md",
@@ -202,7 +203,6 @@
     "ThinkBetter/DailyNotes/2025-12-16.md",
     "ThinkBetter/Hobbies/电路/在zmk中启用ps2 模块.md",
     "ThinkBetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Project/外设/keyball39/T43 tessy 3.2.md",
     "ThinkBetter/Work/sql server 缓存计划.md",
     "ThinkBetter/人纪/009 辨厥阴病脉症并治法.md",
