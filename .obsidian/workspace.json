@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "娱乐至死"
             }
+          },
+          {
+            "id": "8f333ae494933f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +192,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5b14d465a13c7480",
+  "active": "8f333ae494933f7c",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/正午的黑暗.md",
     "ThinkBetter/Books/娱乐至死.md",
+    "ThinkBetter/Inbox/正午的黑暗.md",
     "ThinkBetter/Inbox/动物农庄.md",
     "ThinkBetter/Inbox/一九八四.md",
     "ThinkBetter/Books/_ MOC - Books.md",
