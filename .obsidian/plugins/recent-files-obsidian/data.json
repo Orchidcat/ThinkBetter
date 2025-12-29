@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "尼采语录",
+      "path": "ThinkBetter/Inbox/尼采语录.md"
+    },
+    {
+      "basename": "盐铁论",
+      "path": "ThinkBetter/Inbox/盐铁论.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "复活T43键盘",
       "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "未命名 5",
       "path": "ThinkBetter/Inbox/未命名 5.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "2025-09-12",
@@ -181,24 +193,12 @@
       "path": "ThinkBetter/Books/西藏生死书.md"
     },
     {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
       "basename": "伤寒贯珠集",
       "path": "ThinkBetter/人纪/伤寒贯珠集.md"
     },
     {
-      "basename": "尼采语录",
-      "path": "ThinkBetter/Inbox/尼采语录.md"
-    },
-    {
       "basename": "补中益气汤",
       "path": "ThinkBetter/人纪/补中益气汤.md"
-    },
-    {
-      "basename": "脾胃论",
-      "path": "ThinkBetter/人纪/脾胃论.md"
     }
   ],
   "omittedPaths": [],
