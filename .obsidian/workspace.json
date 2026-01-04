@@ -37,7 +37,8 @@
               "title": "与神对话"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "39ed05c22e1a2597",
+  "active": "333ca2b5f946fa47",
   "lastOpenFiles": [
-    "ThinkBetter/Books/与神对话.md",
     "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Books/与神对话.md",
     "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/一九八四.md",
