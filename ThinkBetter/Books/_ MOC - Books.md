@@ -56,6 +56,12 @@ limit 10
 ```
 
 
+```dataview
+table without id link(file.link,default(file.aliases[0],file.name)) as "书名",type as "描述" ,file.cday.month as "月" from #Book 
+where file.cday.year=2026
+sort file.cday.year desc,file.cday.month desc,file.cday.day desc
+```
+
 **2025**
 ____
 ```dataview
