@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/与神对话.md"
     },
     {
+      "basename": "论生命之短暂",
+      "path": "ThinkBetter/Books/论生命之短暂.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "190 中焦病证",
       "path": "ThinkBetter/人纪/190 中焦病证.md"
-    },
-    {
-      "basename": "181 营分证",
-      "path": "ThinkBetter/人纪/181 营分证.md"
     }
   ],
   "omittedPaths": [],
