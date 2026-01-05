@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "娱乐",
+                "query": "小寒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +197,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "333ca2b5f946fa47",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/与神对话.md",
