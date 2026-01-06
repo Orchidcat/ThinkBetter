@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "小寒",
+                "query": "本自具足",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +197,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "4d46bd4063c324e0",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/Books/论生命之短暂.md",
