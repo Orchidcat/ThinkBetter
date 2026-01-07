@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "查证VLF问题的微软官方推荐代码",
+      "path": "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md"
+    },
+    {
       "basename": "检测延迟的起始点",
       "path": "ThinkBetter/Work/检测延迟的起始点.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "奥卡姆剃刀",
       "path": "ThinkBetter/Books/100种心智模型/奥卡姆剃刀.md"
-    },
-    {
-      "basename": "心脾两虚证",
-      "path": "ThinkBetter/人纪/心脾两虚证.md"
     }
   ],
   "omittedPaths": [],
