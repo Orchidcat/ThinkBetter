@@ -66,9 +66,19 @@
               "icon": "lucide-file",
               "title": "以赛亚·柏林 ：21世纪的献词"
             }
+          },
+          {
+            "id": "e3e3416910ebbebd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,10 +238,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "07ecbb457c9a88c1",
+  "active": "e3e3416910ebbebd",
   "lastOpenFiles": [
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Inbox/以赛亚·柏林 ：21世纪的献词.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/Work/检测延迟的起始点.md",
     "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md",
