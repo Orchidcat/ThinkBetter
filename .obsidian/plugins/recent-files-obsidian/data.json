@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "见贤",
+      "path": "ThinkBetter/Inbox/见贤.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sql server 内部存储原理",
       "path": "ThinkBetter/Work/sql server 内部存储原理.md"
-    },
-    {
-      "basename": "DBCC PAGE",
-      "path": "ThinkBetter/Work/DBCC PAGE.md"
     }
   ],
   "omittedPaths": [],
