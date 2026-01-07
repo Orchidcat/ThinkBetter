@@ -71,14 +71,19 @@
             "id": "e3e3416910ebbebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "查证VLF问题的微软官方推荐代码"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,10 +243,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5231287b44f1a477",
+  "active": "e3e3416910ebbebd",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/见贤.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/Inbox/以赛亚·柏林 ：21世纪的献词.md",
