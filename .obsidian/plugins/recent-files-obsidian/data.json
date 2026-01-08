@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
+    },
+    {
       "basename": "chasing hope",
       "path": "ThinkBetter/Books/chasing hope.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "血府逐淤汤",
       "path": "ThinkBetter/人纪/血府逐淤汤.md"
-    },
-    {
-      "basename": "sql server 内部存储原理",
-      "path": "ThinkBetter/Work/sql server 内部存储原理.md"
     }
   ],
   "omittedPaths": [],
