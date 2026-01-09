@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/chasing hope.md",
+                "file": "ThinkBetter/Books/100种心智模型/相对速度.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "chasing hope"
+              "title": "相对速度"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "葡萄",
+                "query": "会议",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -245,9 +244,9 @@
   },
   "active": "f040d9dde67b1394",
   "lastOpenFiles": [
+    "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/Books/论生命之短暂.md",
     "ThinkBetter/Inbox/那些闪闪发亮的时刻.md",
-    "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Work/检测延迟的起始点.md",
     "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md",
