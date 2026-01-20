@@ -37,8 +37,7 @@
               "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/庄子心得.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "庄子心得 的大纲"
             }
           }
         ],
@@ -198,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b3fcf4ef8bd78e85",
+  "active": "8b977b7b591d8d42",
   "lastOpenFiles": [
-    "ThinkBetter/Books/庄子心得.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/庄子心得.md",
     "ThinkBetter/Books/Naked Economics.md",
     "ThinkBetter/Books/chasing hope.md",
     "ThinkBetter/Inbox/事件timing.md",
