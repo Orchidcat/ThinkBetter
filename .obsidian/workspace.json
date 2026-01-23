@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03058b2fa6700aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2026-01-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-23"
-            }
-          },
-          {
             "id": "82099ba904aaf2db",
             "type": "leaf",
             "state": {
@@ -37,8 +22,7 @@
               "title": "傅佩荣讲道德经"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
