@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
+                "file": "ThinkBetter/DailyNotes/2026-01-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "傅佩荣讲道德经"
-            }
-          },
-          {
-            "id": "e17adc3de4c0630a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/未命名 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 7"
+              "title": "2026-01-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Inbox/未命名 7.md",
+                "file": "ThinkBetter/DailyNotes/2026-01-23.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 7 的大纲"
+              "title": "2026-01-23 的大纲"
             }
           }
         ],
@@ -178,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +181,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e17adc3de4c0630a",
+  "active": "03058b2fa6700aaf",
   "lastOpenFiles": [
     "ThinkBetter/Books/傅佩荣讲道德经.md",
+    "ThinkBetter/DailyNotes/2026-01-23.md",
     "ThinkBetter/Inbox/未命名 7.md",
     "ThinkBetter/Sources/0F9BECD9.jpg",
     "ThinkBetter/Inbox/未命名 6.md",
@@ -229,7 +213,6 @@
     "ThinkBetter/Books/局外人.md",
     "ThinkBetter/Books/娱乐至死.md",
     "ThinkBetter/Inbox/正午的黑暗.md",
-    "ThinkBetter/Inbox/动物农庄.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "ThinkBetter/Sources/Pasted image 20251128111848.png",
