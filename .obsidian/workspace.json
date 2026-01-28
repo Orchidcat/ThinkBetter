@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "正见"
             }
+          },
+          {
+            "id": "091d6d42bb69d313",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "傅佩荣讲道德经 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -197,7 +207,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f7d13479e4a0737c",
+  "active": "091d6d42bb69d313",
   "lastOpenFiles": [
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
