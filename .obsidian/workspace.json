@@ -36,16 +36,6 @@
               "icon": "lucide-file",
               "title": "正见"
             }
-          },
-          {
-            "id": "091d6d42bb69d313",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ]
       }
