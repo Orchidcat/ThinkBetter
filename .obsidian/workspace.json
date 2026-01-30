@@ -37,8 +37,7 @@
               "title": "正见"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/正见.md",
+                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "正见 的大纲"
+              "title": "傅佩荣讲道德经 的大纲"
             }
           }
         ],
@@ -198,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "727149216ab7ccde",
+  "active": "f7d13479e4a0737c",
   "lastOpenFiles": [
-    "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/正见.md",
+    "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/庄子心得.md",
     "ThinkBetter/Inbox/未命名 8.md",
