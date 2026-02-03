@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "庄子心得"
             }
+          },
+          {
+            "id": "e11c25069909fc45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/庄子心得.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "庄子心得 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -198,10 +207,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "cbe987f2faa07b96",
+  "active": "e11c25069909fc45",
   "lastOpenFiles": [
-    "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/庄子心得.md",
+    "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Inbox/未命名 8.md",
