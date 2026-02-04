@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32794b071e66daa9",
+            "id": "68cb0baeb4684a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "002 黄帝内经"
+              "title": "傅佩荣讲道德经"
+            }
+          },
+          {
+            "id": "790278e55aa8f840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/庄子心得.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "庄子心得"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/002 黄帝内经.md",
+                "file": "ThinkBetter/Books/庄子心得.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002 黄帝内经 的大纲"
+              "title": "庄子心得 的大纲"
             }
           }
         ],
@@ -182,15 +198,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "32794b071e66daa9",
+  "active": "790278e55aa8f840",
   "lastOpenFiles": [
+    "ThinkBetter/Books/傅佩荣讲道德经.md",
+    "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/DailyNotes/2026-02-04.md",
     "ThinkBetter/Sources/Pasted image 20260204103558.png",
     "ThinkBetter/Sources/Pasted image 20260204103425.png",
     "ThinkBetter/Sources/Pasted image 20260204103207.png",
     "ThinkBetter/Sources/Pasted image 20260204103133.png",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/庄子心得.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Inbox/未命名 8.md",
