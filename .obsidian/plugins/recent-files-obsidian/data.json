@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
       "basename": "2026-02-04",
       "path": "ThinkBetter/DailyNotes/2026-02-04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "keyboard layout",
       "path": "ThinkBetter/Inbox/keyboard layout.md"
-    },
-    {
-      "basename": "newKeyboard",
-      "path": "ThinkBetter/Project/外设/newKB/newKeyboard.md"
     }
   ],
   "omittedPaths": [],
