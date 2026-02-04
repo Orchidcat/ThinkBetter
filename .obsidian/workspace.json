@@ -37,8 +37,7 @@
               "title": "庄子心得"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/庄子心得.md",
+                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "庄子心得 的大纲"
+              "title": "傅佩荣讲道德经 的大纲"
             }
           }
         ],
@@ -198,10 +197,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "790278e55aa8f840",
+  "active": "68cb0baeb4684a6a",
   "lastOpenFiles": [
-    "ThinkBetter/Books/原则.md",
     "ThinkBetter/Books/庄子心得.md",
+    "ThinkBetter/Books/原则.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/DailyNotes/2026-02-04.md",
