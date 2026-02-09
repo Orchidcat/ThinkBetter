@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/Get Better as Anything.md"
     },
     {
+      "basename": "超速学习",
+      "path": "ThinkBetter/Books/超速学习.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "keyball",
       "path": "ThinkBetter/Inbox/keyball.md"
-    },
-    {
-      "basename": "2025-09-22",
-      "path": "ThinkBetter/DailyNotes/2025-09-22.md"
     }
   ],
   "omittedPaths": [],

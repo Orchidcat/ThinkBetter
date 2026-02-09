@@ -1,5 +1,14 @@
-#book 
+---
+author: Scott H. Young
+tags:
+  - book
+type: 
+startDate: 
+endDate: 
+rating: 
+---
 
+[[超速学习]]
 
 在各个领域中，进步并不稳定，有时甚至毫无存进。
 
