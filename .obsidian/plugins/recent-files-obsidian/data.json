@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "日知录",
-      "path": "ThinkBetter/Inbox/日知录.md"
+      "basename": "Get Better as Anything",
+      "path": "ThinkBetter/Books/Get Better as Anything.md"
     },
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "日知录",
+      "path": "ThinkBetter/Inbox/日知录.md"
     },
     {
       "basename": "傅佩荣讲道德经",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-22",
       "path": "ThinkBetter/DailyNotes/2025-09-22.md"
-    },
-    {
-      "basename": "newKB",
-      "path": "ThinkBetter/Inbox/newKB.md"
     }
   ],
   "omittedPaths": [],

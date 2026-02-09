@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "562bfbdfd050a3cc",
+            "id": "40df2ff5073f2049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/日知录.md",
+                "file": "ThinkBetter/Books/Get Better as Anything.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "日知录"
+              "title": "Get Better as Anything"
             }
           }
         ],
@@ -198,8 +198,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "562bfbdfd050a3cc",
+  "active": "40df2ff5073f2049",
   "lastOpenFiles": [
+    "ThinkBetter/Books/Get Better as Anything.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/日知录.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
@@ -233,7 +234,6 @@
     "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md",
     "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Inbox/以赛亚·柏林 ：21世纪的献词.md",
     "ThinkBetter/Sources/Pasted image 20251216085009.png",
     "ThinkBetter/Sources/Pasted image 20251209130841.png",
     "未命名.canvas",
