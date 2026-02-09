@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日知录",
+      "path": "ThinkBetter/Inbox/日知录.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "newKB",
       "path": "ThinkBetter/Inbox/newKB.md"
-    },
-    {
-      "basename": "keyboard layout",
-      "path": "ThinkBetter/Inbox/keyboard layout.md"
     }
   ],
   "omittedPaths": [],
