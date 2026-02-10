@@ -10,7 +10,7 @@ rating:
 
 [[超速学习]]
 
-[[Get Better at Anything - filt]]
+[[Get Better at Anything - filter one]]
 
 在各个领域中，进步并不稳定，有时甚至毫无存进。
 
