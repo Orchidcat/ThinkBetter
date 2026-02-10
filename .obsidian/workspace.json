@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,12 +258,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5068fdd1cff723ae",
+  "active": "ce27ef258f198764",
   "lastOpenFiles": [
-    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Inbox/避免愚蠢.md",
-    "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Books/超速学习.md",
+    "ThinkBetter/Inbox/避免愚蠢.md",
+    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
+    "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
     "ThinkBetter/Inbox/Get Better at Anything - filter one.md",
     "ThinkBetter/Books/Get Better as Anything.md",
     "ThinkBetter/Start Here.md",
