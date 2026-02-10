@@ -10,6 +10,8 @@ rating:
 
 [[超速学习]]
 
+[[Get Better at Anything - filt]]
+
 在各个领域中，进步并不稳定，有时甚至毫无存进。
 
 三个因素：
