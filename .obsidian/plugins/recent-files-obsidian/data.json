@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实践论",
+      "path": "ThinkBetter/Articles/实践论.md"
+    },
+    {
       "basename": "Psychology of Human Misjudgment (Transcript) by Charlie Munger",
       "path": "Clippings/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-12-24",
       "path": "ThinkBetter/DailyNotes/2025-12-24.md"
-    },
-    {
-      "basename": "think like fusion engine",
-      "path": "ThinkBetter/Inbox/think like fusion engine.md"
     }
   ],
   "omittedPaths": [],

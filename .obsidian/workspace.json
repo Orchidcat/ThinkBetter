@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md",
+                "file": "ThinkBetter/Articles/实践论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Psychology of Human Misjudgment (Transcript) by Charlie Munger"
+              "title": "实践论"
             }
           },
           {
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -260,8 +259,8 @@
   },
   "active": "1ac2792be126077a",
   "lastOpenFiles": [
-    "ThinkBetter/Books/100种心智模型/相对速度.md",
     "Clippings/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md",
+    "ThinkBetter/Books/100种心智模型/相对速度.md",
     "费德勒演讲.md",
     "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
     "Clippings",
