@@ -255,7 +255,8 @@
       "random-note:开始漫游笔记": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "extract-highlights-plugin:Extract Highlights": false
     }
   },
   "active": "1ac2792be126077a",
