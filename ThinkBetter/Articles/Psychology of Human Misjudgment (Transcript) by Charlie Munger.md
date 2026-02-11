@@ -8,6 +8,7 @@ created: 2026-02-11
 description: "In The Psychology of Human Misjudgment, Charlie Munger explains why we behave the way we do. This is a transcript of the fully updated talk."
 tags:
   - "clippings"
+  - article 
 ---
 [电子邮件](https://fs.blog/great-talks/psychology-human-misjudgment/ "通过电子邮件分享") [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://fs.blog/great-talks/psychology-human-misjudgment/ "在领英上分享") 打印
 
