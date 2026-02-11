@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "1ac2792be126077a",
+  "active": "83ed4944e855306c",
   "lastOpenFiles": [
-    "费德勒演讲.md",
     "Clippings/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md",
+    "费德勒演讲.md",
     "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
     "Clippings",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
