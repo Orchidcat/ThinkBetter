@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
+                "file": "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "心智模型 TOC"
+              "title": "对激励的偏见"
             }
           },
           {
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,14 +258,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "5d2f63ae44bb0849",
+  "active": "1ac2792be126077a",
   "lastOpenFiles": [
-    "ThinkBetter/Books/100种心智模型/相对速度.md",
-    "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
-    "ThinkBetter/Inbox/每日一个心智模型.md",
-    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Books/超速学习.md",
     "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
+    "ThinkBetter/Books/100种心智模型/对激励的偏见.md",
+    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
+    "ThinkBetter/Books/100种心智模型/相对速度.md",
+    "ThinkBetter/Inbox/每日一个心智模型.md",
+    "ThinkBetter/Books/超速学习.md",
     "ThinkBetter/Books/100种心智模型/摩擦力和粘度.md",
     "ThinkBetter/Books/100种心智模型/活化能.md",
     "ThinkBetter/Books/100种心智模型/杠杆.md",
