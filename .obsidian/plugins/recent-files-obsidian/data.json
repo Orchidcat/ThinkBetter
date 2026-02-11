@@ -5,12 +5,20 @@
       "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     },
     {
-      "basename": "相互保证毁灭",
-      "path": "ThinkBetter/Inbox/相互保证毁灭.md"
+      "basename": "互易性",
+      "path": "ThinkBetter/Books/100种心智模型/互易性.md"
     },
     {
       "basename": "Get Better at Anything - filter one",
       "path": "ThinkBetter/Inbox/Get Better at Anything - filter one.md"
+    },
+    {
+      "basename": "合金化",
+      "path": "ThinkBetter/Books/100种心智模型/合金化.md"
+    },
+    {
+      "basename": "相互保证毁灭",
+      "path": "ThinkBetter/Inbox/相互保证毁灭.md"
     },
     {
       "basename": "看到前线",
@@ -191,10 +199,6 @@
     {
       "basename": "2025-09-12",
       "path": "ThinkBetter/DailyNotes/2025-09-12.md"
-    },
-    {
-      "basename": "test",
-      "path": "ThinkBetter/Inbox/test.md"
     }
   ],
   "omittedPaths": [],
