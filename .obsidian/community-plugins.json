@@ -44,5 +44,6 @@
   "virtual-linker",
   "obsidian-admonition",
   "obsidian-hover-editor",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "extract-highlights-plugin"
 ]
