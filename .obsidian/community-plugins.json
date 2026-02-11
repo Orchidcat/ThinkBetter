@@ -43,5 +43,6 @@
   "flowcharts",
   "virtual-linker",
   "obsidian-admonition",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "highlightr-plugin"
 ]
