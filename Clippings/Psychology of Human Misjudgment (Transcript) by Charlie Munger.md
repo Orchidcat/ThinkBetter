@@ -13,6 +13,13 @@ tags:
 
 《人类误判心理学》是一部探讨我们行为原因的巨著。以下是经过全面修订的演讲稿。
 
+```
+Extract highlights
+```
+
+
+
+
 ## 背景
 
 [*在出版《穷查理宝典》*](https://amzn.to/3NlwseD) 之前 ， [查理·芒格](https://fs.blog/intellectual-giants/charlie-munger/) 曾表示，《人类误判心理学》一书需要“稍作修改”，以符合他目前对该主题的最新观点。
