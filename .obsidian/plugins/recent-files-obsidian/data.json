@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "对激励的偏见",
+      "path": "ThinkBetter/Books/100种心智模型/对激励的偏见.md"
+    },
+    {
       "basename": "思考的快与慢",
       "path": "ThinkBetter/Inbox/思考的快与慢.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "相对速度",
       "path": "ThinkBetter/Books/100种心智模型/相对速度.md"
-    },
-    {
-      "basename": "对激励的偏见",
-      "path": "ThinkBetter/Books/100种心智模型/对激励的偏见.md"
     },
     {
       "basename": "超速学习",
@@ -195,10 +195,6 @@
     {
       "basename": "盐铁论",
       "path": "ThinkBetter/Inbox/盐铁论.md"
-    },
-    {
-      "basename": "复活T43键盘",
-      "path": "ThinkBetter/Project/外设/T43键盘复活/复活T43键盘.md"
     }
   ],
   "omittedPaths": [],
