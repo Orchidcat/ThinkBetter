@@ -46,7 +46,7 @@ const endOfYear = {
     day: 1
 }
 
-const lifespan = { year: 80 } 
+const lifespan = { year: 77.7 } 
 const birthday = DateTime.fromObject({
     year: 1983,
     month: 1,
