@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "立春",
+                "query": "tag:#Q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
