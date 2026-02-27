@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "424d27bbad5977e4",
+        "id": "1255a3b7333bd020",
         "type": "tabs",
         "children": [
           {
-            "id": "b2cb3942088658a5",
+            "id": "ffb945ad9f6aa233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-02-24.md",
+                "file": "ThinkBetter/Inbox/think like fusion engine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-24"
+              "title": "think like fusion engine"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Q",
+                "query": "约束",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.51103591918945,
-    "collapsed": true
+    "width": 446.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -131,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-02-24.md",
+                "file": "ThinkBetter/Inbox/think like fusion engine.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-24 的大纲"
+              "title": "think like fusion engine 的大纲"
             }
           }
         ],
@@ -183,10 +182,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "b2cb3942088658a5",
+  "active": "ffb945ad9f6aa233",
   "lastOpenFiles": [
-    "ThinkBetter/Sources/Pasted image 20260224135634.png",
+    "ThinkBetter/DailyNotes/2025-12-24.md",
     "ThinkBetter/DailyNotes/2026-02-24.md",
+    "ThinkBetter/Sources/Pasted image 20260224135634.png",
     "ThinkBetter/Sources/Pasted image 20260224114616.png",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/未命名 9.md",
@@ -221,7 +221,6 @@
     "ThinkBetter/Sources/0F9BECD9.jpg",
     "ThinkBetter/Sources/Pasted image 20260112090630.png",
     "ThinkBetter/Sources/Pasted image 20260112084713.png",
-    "ThinkBetter/Sources/Pasted image 20260112084659.png",
     "未命名.canvas",
     "ThinkBetter/Hobbies/电路",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
