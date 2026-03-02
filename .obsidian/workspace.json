@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/掌控习惯.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "掌控习惯"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "约束",
+                "query": "习惯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +92,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -146,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/掌控习惯.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Start Here 的大纲"
+              "title": "掌控习惯 的大纲"
             }
           }
         ],
@@ -200,10 +201,10 @@
   },
   "active": "ca9bfbde45b6d2ff",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/一张有趣的图.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Books/Seeking wisdom.md",
     "ThinkBetter/Inbox/NotToDo.md",
