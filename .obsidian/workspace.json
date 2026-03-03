@@ -73,17 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "file": "ThinkBetter/DailyNotes/2026-03-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_ MOC - Books"
+              "title": "2026-03-03"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 200
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/A Book from Pizza Toast — Part 3.md",
+                "file": "ThinkBetter/DailyNotes/2026-03-03.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "A Book from Pizza Toast — Part 3 的大纲"
+              "title": "2026-03-03 的大纲"
             }
           }
         ],
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,15 +241,15 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "aea695ce39bd8e35",
+  "active": "de569c1efa6db6b8",
   "lastOpenFiles": [
-    "Clippings/The Rigor of Process.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
     "Clippings/A Book from Pizza Toast — Part 3.md",
+    "ThinkBetter/DailyNotes/2026-03-03.md",
+    "Clippings/The Rigor of Process.md",
     "Clippings/A Walk is a Tool and a Platform.md",
     "Clippings/Pride and Prejudice Turns 200.md",
-    "ThinkBetter/DailyNotes/2026-03-03.md",
     "ThinkBetter/Articles/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Inbox/how to know a person.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-02-24.md",
