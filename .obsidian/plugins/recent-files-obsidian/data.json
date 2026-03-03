@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Garbage",
+      "path": "Clippings/Garbage.md"
+    },
+    {
       "basename": "日本步道",
       "path": "ThinkBetter/Inbox/日本步道.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "查证VLF问题的微软官方推荐代码",
-      "path": "ThinkBetter/Inbox/查证VLF问题的微软官方推荐代码.md"
     }
   ],
   "omittedPaths": [],
