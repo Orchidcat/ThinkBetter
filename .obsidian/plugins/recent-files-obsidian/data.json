@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "things become other things",
+      "path": "ThinkBetter/Books/things become other things.md"
+    },
+    {
+      "basename": "清朝灭亡的原因",
+      "path": "ThinkBetter/Articles/清朝灭亡的原因.md"
+    },
+    {
       "basename": "Now",
       "path": "ThinkBetter/Inbox/Now.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
-    },
-    {
-      "basename": "清朝灭亡的原因",
-      "path": "ThinkBetter/Articles/清朝灭亡的原因.md"
     },
     {
       "basename": "Garbage",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-12",
       "path": "ThinkBetter/DailyNotes/2026-01-12.md"
-    },
-    {
-      "basename": "检测延迟的起始点",
-      "path": "ThinkBetter/Work/检测延迟的起始点.md"
     }
   ],
   "omittedPaths": [],
