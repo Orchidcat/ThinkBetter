@@ -5,10 +5,10 @@ Cover:
 Type: 
 Series: 
 Author: 
-Status: 
+Status: 已完成
 OrderInYear: 
 StartDate: 2026-03-04
-FinishedDate: 
+FinishedDate: 2026-03-06
 Rating:
 ---
 
