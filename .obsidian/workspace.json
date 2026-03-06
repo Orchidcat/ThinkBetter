@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1255a3b7333bd020",
+        "id": "35daf647936118e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a290fc37660973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/Get Better as Anything.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Get Better as Anything"
-            }
-          },
-          {
-            "id": "d9a137b770329189",
+            "id": "3332a0117bd8ee84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +22,7 @@
               "title": "things become other things"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,14 +183,14 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "d9a137b770329189",
+  "active": "3332a0117bd8ee84",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/things become other things.md",
     "ThinkBetter/Articles/清朝灭亡的原因.md",
     "ThinkBetter/Books/Get Better as Anything.md",
     "ThinkBetter/Inbox/Now.md",
     "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "Clippings/Garbage.md",
     "ThinkBetter/Inbox/think like fusion engine.md",

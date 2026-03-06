@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/things become other things.md"
     },
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "清朝灭亡的原因",
       "path": "ThinkBetter/Articles/清朝灭亡的原因.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "相传是刻在德尔斐的阿波罗神庙的三句箴言",
       "path": "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "Garbage",
