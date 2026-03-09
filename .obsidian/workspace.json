@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "35daf647936118e8",
+        "id": "ea293cea9c99fd66",
         "type": "tabs",
         "children": [
           {
-            "id": "3332a0117bd8ee84",
+            "id": "ba299879d59797c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/things become other things.md",
+                "file": "垃圾箱收集/9L Nino Slim Plastic Sensor Trash Bin Grey.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "things become other things"
+              "title": "9L Nino Slim Plastic Sensor Trash Bin Grey"
             }
           }
         ]
@@ -183,9 +183,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "3332a0117bd8ee84",
+  "active": "ba299879d59797c4",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
+    "垃圾箱收集/9L Nino Slim Plastic Sensor Trash Bin Grey.md",
+    "垃圾箱收集",
     "ThinkBetter/Books/things become other things.md",
     "ThinkBetter/Articles/清朝灭亡的原因.md",
     "ThinkBetter/Books/Get Better as Anything.md",
@@ -215,7 +217,6 @@
     "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
     "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Books/Seeking wisdom.md",
-    "ThinkBetter/Inbox/NotToDo.md",
     "ThinkBetter/Sources/Pasted image 20260224135634.png",
     "ThinkBetter/Sources/Pasted image 20260224114616.png",
     "Clippings",
@@ -231,7 +232,6 @@
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/Img",
-    "Thinkbetter/Excalidraw/example",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
