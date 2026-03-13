@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五谷",
+                "query": "附子",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +182,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "5cdf244943af3d37",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md",
