@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "354630d71159372d",
+        "id": "26a7909cffc17552",
         "type": "tabs",
         "children": [
           {
-            "id": "5cdf244943af3d37",
+            "id": "9d389643e92766ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "脾胃论"
+              "icon": "excalidraw-icon",
+              "title": "BoaP - How to Take Smart Notes"
             }
           }
         ]
@@ -76,8 +73,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -98,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,11 +178,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "5cdf244943af3d37",
+  "active": "9d389643e92766ff",
   "lastOpenFiles": [
-    "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/人纪/脾胃论.md",
+    "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md",
     "ThinkBetter/DailyNotes/2026-03-11.md",
     "ThinkBetter/Sources/Pasted image 20260311084900.png",
     "ThinkBetter/Inbox/产品设计相关的思考.md",
@@ -216,7 +213,6 @@
     "Clippings/The Rigor of Process.md",
     "Clippings/A Walk is a Tool and a Platform.md",
     "Clippings/Pride and Prejudice Turns 200.md",
-    "ThinkBetter/Articles/Psychology of Human Misjudgment (Transcript) by Charlie Munger.md",
     "ThinkBetter/Sources/Pasted image 20260302115741.png",
     "ThinkBetter/Sources/Pasted image 20260302114237.png",
     "ThinkBetter/Sources/Pasted image 20260302111537.png",
@@ -230,7 +226,6 @@
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
-    "Thinkbetter/Excalidraw/Img",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
     "ThinkBetter/new Canvas.canvas",
