@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "26a7909cffc17552",
+        "id": "396fa6c86468f165",
         "type": "tabs",
         "children": [
           {
-            "id": "9d389643e92766ff",
+            "id": "b615f308d4a2e8fd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
+                "file": "ThinkBetter/Books/why we sleep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "BoaP - How to Take Smart Notes"
+              "icon": "lucide-file",
+              "title": "why we sleep"
             }
           }
         ]
@@ -94,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945
+    "width": 344.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -178,10 +182,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "9d389643e92766ff",
+  "active": "b615f308d4a2e8fd",
   "lastOpenFiles": [
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
+    "ThinkBetter/Books/why we sleep.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/人纪/脾胃论.md",
     "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md",
     "ThinkBetter/DailyNotes/2026-03-11.md",
