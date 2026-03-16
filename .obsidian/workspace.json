@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄芩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +182,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "b615f308d4a2e8fd",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/黄芩.md",
     "ThinkBetter/人纪/脾胃论.md",
