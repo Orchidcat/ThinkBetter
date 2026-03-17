@@ -36,8 +36,24 @@
               "icon": "lucide-file",
               "title": "2026-03-17"
             }
+          },
+          {
+            "id": "1847d839dfb808bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Start Here"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,8 +107,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ee40cd9271c8503a",
@@ -146,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/why we sleep.md",
+                "file": "ThinkBetter/Start Here.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "why we sleep 的大纲"
+              "title": "Start Here 的大纲"
             }
           }
         ],
@@ -198,15 +213,18 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "b615f308d4a2e8fd",
+  "active": "1847d839dfb808bf",
   "lastOpenFiles": [
-    "ThinkBetter/DailyNotes/2026-03-17.md",
+    "ThinkBetter/Inbox/事件timing.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/Seeking wisdom.md",
+    "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Books/why we sleep.md",
+    "ThinkBetter/DailyNotes/2026-03-17.md",
     "ThinkBetter/人纪/古方上篇.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/黄芩.md",
     "ThinkBetter/人纪/195 子午流注.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md",
     "ThinkBetter/DailyNotes/2026-03-11.md",
@@ -231,9 +249,6 @@
     "Clippings/Garbage.md",
     "ThinkBetter/Inbox/think like fusion engine.md",
     "ThinkBetter/Inbox/日本步道.md",
-    "ThinkBetter/DailyNotes/2026-03-03.md",
-    "ThinkBetter/Books/掌控习惯.md",
-    "Clippings/A Book from Pizza Toast — Part 3.md",
     "ThinkBetter/Sources/Pasted image 20260302115741.png",
     "ThinkBetter/Sources/Pasted image 20260302114237.png",
     "ThinkBetter/Sources/Pasted image 20260302111537.png",
