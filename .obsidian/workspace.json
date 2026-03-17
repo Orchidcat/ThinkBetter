@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "why we sleep"
             }
+          },
+          {
+            "id": "2ec3c9372108b2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/DailyNotes/2026-03-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-17"
+            }
           }
         ]
       }
@@ -131,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md",
+                "file": "ThinkBetter/Books/why we sleep.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "脾胃论 的大纲"
+              "title": "why we sleep 的大纲"
             }
           }
         ],
@@ -185,8 +200,9 @@
   },
   "active": "b615f308d4a2e8fd",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/古方上篇.md",
+    "ThinkBetter/DailyNotes/2026-03-17.md",
     "ThinkBetter/Books/why we sleep.md",
+    "ThinkBetter/人纪/古方上篇.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/黄芩.md",
     "ThinkBetter/人纪/195 子午流注.md",
@@ -218,7 +234,6 @@
     "ThinkBetter/DailyNotes/2026-03-03.md",
     "ThinkBetter/Books/掌控习惯.md",
     "Clippings/A Book from Pizza Toast — Part 3.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Sources/Pasted image 20260302115741.png",
     "ThinkBetter/Sources/Pasted image 20260302114237.png",
     "ThinkBetter/Sources/Pasted image 20260302111537.png",

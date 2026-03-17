@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/why we sleep.md"
     },
     {
+      "basename": "2026-03-17",
+      "path": "ThinkBetter/DailyNotes/2026-03-17.md"
+    },
+    {
       "basename": "古方上篇",
       "path": "ThinkBetter/人纪/古方上篇.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Get Better at Anything",
       "path": "ThinkBetter/Books/Get Better at Anything.md"
-    },
-    {
-      "basename": "日知录",
-      "path": "ThinkBetter/Inbox/日知录.md"
     }
   ],
   "omittedPaths": [],
