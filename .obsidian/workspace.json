@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/脾胃论.md",
+                "file": "ThinkBetter/Books/why we sleep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "脾胃论"
+              "title": "why we sleep"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945
+    "width": 344.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -182,10 +183,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "b615f308d4a2e8fd",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/黄芩.md",
     "ThinkBetter/人纪/脾胃论.md",
+    "ThinkBetter/人纪/黄芩.md",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/Books/why we sleep.md",
     "ThinkBetter/Start Here.md",
