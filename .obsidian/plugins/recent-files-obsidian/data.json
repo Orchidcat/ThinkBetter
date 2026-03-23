@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "高卢战记",
+      "path": "ThinkBetter/Inbox/高卢战记.md"
+    },
+    {
+      "basename": "庄子心得",
+      "path": "ThinkBetter/Books/庄子心得.md"
+    },
+    {
+      "basename": "2026-03-23",
+      "path": "ThinkBetter/DailyNotes/2026-03-23.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "写点儿啥",
       "path": "ThinkBetter/Inbox/写点儿啥.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "ThinkBetter/DailyNotes/2026-03-23.md"
     },
     {
       "basename": "正见",
@@ -191,14 +199,6 @@
     {
       "basename": "实践论",
       "path": "ThinkBetter/Articles/实践论.md"
-    },
-    {
-      "basename": "相对速度",
-      "path": "ThinkBetter/Books/100种心智模型/相对速度.md"
-    },
-    {
-      "basename": "超速学习",
-      "path": "ThinkBetter/Books/超速学习.md"
     }
   ],
   "omittedPaths": [],
