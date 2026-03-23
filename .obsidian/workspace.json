@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.51103591918945,
-    "collapsed": true
+    "width": 299.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -198,7 +197,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "036e11058e63fcc9",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2026-03-23.md",
     "ThinkBetter/Books/正见.md",
