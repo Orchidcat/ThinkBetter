@@ -37,8 +37,7 @@
               "title": "2026-03-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.51103591918945
+    "width": 299.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-03-23.md",
+                "file": "ThinkBetter/Books/正见.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-23 的大纲"
+              "title": "正见 的大纲"
             }
           }
         ],
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +198,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "a4a74332fce46586",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2026-03-23.md",
     "ThinkBetter/Books/正见.md",
