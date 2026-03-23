@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "正见",
-      "path": "ThinkBetter/Books/正见.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "ThinkBetter/DailyNotes/2026-03-23.md"
-    },
-    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "写点儿啥",
+      "path": "ThinkBetter/Inbox/写点儿啥.md"
+    },
+    {
+      "basename": "2026-03-23",
+      "path": "ThinkBetter/DailyNotes/2026-03-23.md"
+    },
+    {
+      "basename": "正见",
+      "path": "ThinkBetter/Books/正见.md"
     },
     {
       "basename": "2026-03-17",
@@ -195,10 +199,6 @@
     {
       "basename": "超速学习",
       "path": "ThinkBetter/Books/超速学习.md"
-    },
-    {
-      "basename": "互易性",
-      "path": "ThinkBetter/Books/100种心智模型/互易性.md"
     }
   ],
   "omittedPaths": [],
