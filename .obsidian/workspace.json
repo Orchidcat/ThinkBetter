@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/时病本气篇.md",
+                "file": "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "时病本气篇"
+              "title": "012 辨太阳病脉症并治法"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "理中丸",
+                "query": "对症",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/时病本气篇.md",
+                "file": "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "时病本气篇 的大纲"
+              "title": "012 辨太阳病脉症并治法 的大纲"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "a4c6eb996d1aa17c",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/儿病本气篇.md",
     "ThinkBetter/人纪/时病本气篇.md",
+    "ThinkBetter/人纪/儿病本气篇.md",
     "ThinkBetter/人纪/古方上篇.md",
     "ThinkBetter/人纪/004 金匮要略.md",
     "ThinkBetter/Inbox/高卢战记.md",
