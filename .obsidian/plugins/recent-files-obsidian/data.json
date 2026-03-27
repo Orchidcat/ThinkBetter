@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AI 采集",
+      "path": "ThinkBetter/Inbox/AI 采集.md"
+    },
+    {
       "basename": "正见",
       "path": "ThinkBetter/Books/正见.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "心智模型 TOC",
       "path": "ThinkBetter/Books/100种心智模型/心智模型 TOC.md"
-    },
-    {
-      "basename": "_MOC - 100种心智模型",
-      "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     }
   ],
   "omittedPaths": [],
