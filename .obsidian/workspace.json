@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/人纪/一张有趣的图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "一张有趣的图"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ak",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -184,8 +185,9 @@
   },
   "active": "95ca67ddb271cabb",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/事件timing.md",
+    "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Inbox/AI 采集.md",
     "ThinkBetter/DailyNotes/2026-03-23.md",
@@ -209,7 +211,6 @@
     "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/Get Better as Anything.md",
     "ThinkBetter/DailyNotes/2026-03-17.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "ThinkBetter/Sources/Pasted image 20260311084900.png",
     "ThinkBetter/Sources/Pasted image 20260310160903.png",
