@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "正见",
-      "path": "ThinkBetter/Books/正见.md"
-    },
-    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "事件timing",
+      "path": "ThinkBetter/Inbox/事件timing.md"
+    },
+    {
+      "basename": "正见",
+      "path": "ThinkBetter/Books/正见.md"
     },
     {
       "basename": "AI 采集",
@@ -195,10 +199,6 @@
     {
       "basename": "001 @MOC中医",
       "path": "ThinkBetter/人纪/001 @MOC中医.md"
-    },
-    {
-      "basename": "心智模型 TOC",
-      "path": "ThinkBetter/Books/100种心智模型/心智模型 TOC.md"
     }
   ],
   "omittedPaths": [],
