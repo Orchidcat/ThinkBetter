@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
+      "basename": "一张有趣的图",
+      "path": "ThinkBetter/人纪/一张有趣的图.md"
+    },
+    {
       "basename": "事件timing",
       "path": "ThinkBetter/Inbox/事件timing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "思考的快与慢",
       "path": "ThinkBetter/Inbox/思考的快与慢.md"
-    },
-    {
-      "basename": "001 @MOC中医",
-      "path": "ThinkBetter/人纪/001 @MOC中医.md"
     }
   ],
   "omittedPaths": [],
