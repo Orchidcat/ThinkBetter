@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/人纪/六气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "六气"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "谷雨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -185,9 +184,9 @@
   },
   "active": "21fc14e240d2625c",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/一张有趣的图.md",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Inbox/AI 采集.md",
