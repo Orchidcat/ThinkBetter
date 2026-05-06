@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "六气",
-      "path": "ThinkBetter/人纪/六气.md"
-    },
-    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "辨脉法第一",
+      "path": "ThinkBetter/人纪/伤寒论/辨脉法第一.md"
+    },
+    {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "二十四节气",
+      "path": "ThinkBetter/人纪/二十四节气.md"
+    },
+    {
+      "basename": "六气",
+      "path": "ThinkBetter/人纪/六气.md"
     },
     {
       "basename": "折肱漫录",
@@ -35,10 +47,6 @@
     {
       "basename": "辨太阳病脉证并治下第七",
       "path": "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md"
-    },
-    {
-      "basename": "二十四节气",
-      "path": "ThinkBetter/人纪/二十四节气.md"
     },
     {
       "basename": "一张有趣的图",
@@ -191,14 +199,6 @@
     {
       "basename": "A Walk is a Tool and a Platform",
       "path": "Clippings/A Walk is a Tool and a Platform.md"
-    },
-    {
-      "basename": "Pride and Prejudice Turns 200",
-      "path": "Clippings/Pride and Prejudice Turns 200.md"
-    },
-    {
-      "basename": "2026-02-24",
-      "path": "ThinkBetter/DailyNotes/2026-02-24.md"
     }
   ],
   "omittedPaths": [],
