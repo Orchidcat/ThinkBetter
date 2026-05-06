@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/人纪/六气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "六气"
             }
           }
         ]
@@ -182,8 +182,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "c86109a5ccc92954",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/补中益气汤.md",
     "ThinkBetter/人纪/脾胃论.md",
@@ -193,7 +194,6 @@
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/人纪/六气.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/一张有趣的图.md",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
     "ThinkBetter/Inbox/事件timing.md",
