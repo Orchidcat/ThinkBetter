@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "二千年间",
+      "path": "ThinkBetter/Books/二千年间.md"
+    },
+    {
+      "basename": "why we sleep",
+      "path": "ThinkBetter/Books/why we sleep.md"
+    },
+    {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -93,10 +105,6 @@
       "path": "ThinkBetter/Inbox/高卢战记.md"
     },
     {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
       "basename": "写点儿啥",
       "path": "ThinkBetter/Inbox/写点儿啥.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "气血学习",
       "path": "ThinkBetter/人纪/气血学习.md"
-    },
-    {
-      "basename": "why we sleep",
-      "path": "ThinkBetter/Books/why we sleep.md"
     },
     {
       "basename": "黄芩",
@@ -195,10 +199,6 @@
     {
       "basename": "The Rigor of Process",
       "path": "Clippings/The Rigor of Process.md"
-    },
-    {
-      "basename": "A Walk is a Tool and a Platform",
-      "path": "Clippings/A Walk is a Tool and a Platform.md"
     }
   ],
   "omittedPaths": [],
