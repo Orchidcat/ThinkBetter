@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "立夏",
+                "query": "眉毛",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +107,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ee40cd9271c8503a",
@@ -215,6 +216,7 @@
   },
   "active": "bf818b6b1fe9fe97",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Inbox/科举.md",
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
@@ -231,7 +233,6 @@
     "ThinkBetter/人纪/补中益气汤.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/人纪/004 金匮要略.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/人纪/伤寒论/辨太阳病脉证并治下第七.md",
     "ThinkBetter/人纪/一张有趣的图.md",
