@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/二千年间.md"
     },
     {
+      "basename": "科举",
+      "path": "ThinkBetter/Inbox/科举.md"
+    },
+    {
       "basename": "why we sleep",
       "path": "ThinkBetter/Books/why we sleep.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Book from Pizza Toast — Part 3",
       "path": "Clippings/A Book from Pizza Toast — Part 3.md"
-    },
-    {
-      "basename": "The Rigor of Process",
-      "path": "Clippings/The Rigor of Process.md"
     }
   ],
   "omittedPaths": [],
