@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "8b9ad52916506718",
+  "active": "a51f1b51d0a5aeff",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Books/论生命之短暂.md",
+    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Archive/塞涅卡.md",
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Start Here.md",
