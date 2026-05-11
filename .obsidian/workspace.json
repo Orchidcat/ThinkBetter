@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4973fbb9b93b4b6e",
+        "id": "f53f11195b215f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "76d3083801989aa9",
+            "id": "83979b9d800dcb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/why we sleep.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "why we sleep"
-            }
-          },
-          {
-            "id": "bf818b6b1fe9fe97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/二千年间.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "二千年间"
-            }
-          },
-          {
-            "id": "9a99a2046808ed3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/科举.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "科举"
-            }
-          },
-          {
-            "id": "62c37048c16bdf44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/中国历代政治得失.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "中国历代政治得失"
+              "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,14 +183,14 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "9a99a2046808ed3a",
+  "active": "83979b9d800dcb8f",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/科举.md",
     "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Articles/除了你，谁能做出这个决定.md",
     "ThinkBetter/Books/why we sleep.md",
-    "ThinkBetter/Inbox/科举.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
     "ThinkBetter/Sources/Pasted image 20260506130944.png",
