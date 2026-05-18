@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "ThinkBetter/Inbox/学习方法.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "傅佩荣讲道德经",
       "path": "ThinkBetter/Books/傅佩荣讲道德经.md"
     },
     {
       "basename": "庄子心得",
       "path": "ThinkBetter/Books/庄子心得.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "25年总结的25个idea",
@@ -191,14 +199,6 @@
     {
       "basename": "Now",
       "path": "ThinkBetter/Inbox/Now.md"
-    },
-    {
-      "basename": "相传是刻在德尔斐的阿波罗神庙的三句箴言",
-      "path": "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md"
-    },
-    {
-      "basename": "Garbage",
-      "path": "Clippings/Garbage.md"
     }
   ],
   "omittedPaths": [],
