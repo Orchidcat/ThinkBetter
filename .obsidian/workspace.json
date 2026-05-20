@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "西藏生死书"
             }
+          },
+          {
+            "id": "249423b6a4ed858f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/我还能看到多少次满月升起.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "我还能看到多少次满月升起"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -203,8 +219,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "4e9aec6fbae1c68e",
+  "active": "249423b6a4ed858f",
   "lastOpenFiles": [
+    "ThinkBetter/Books/我还能看到多少次满月升起.md",
+    "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Inbox/清静经.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
@@ -229,8 +247,6 @@
     "ThinkBetter/Inbox/科举.md",
     "ThinkBetter/Books/中国历代政治得失.md",
     "ThinkBetter/Articles/除了你，谁能做出这个决定.md",
-    "ThinkBetter/Books/why we sleep.md",
-    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
     "ThinkBetter/Sources/Pasted image 20260506130944.png",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
