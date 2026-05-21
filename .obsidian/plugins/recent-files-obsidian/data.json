@@ -5,6 +5,18 @@
       "path": "ThinkBetter/Books/我还能看到多少次满月升起.md"
     },
     {
+      "basename": "与神对话",
+      "path": "ThinkBetter/Books/与神对话.md"
+    },
+    {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "清静经",
       "path": "ThinkBetter/Inbox/清静经.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "学习方法",
@@ -71,10 +79,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
       "basename": "辨脉法第一",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-10",
       "path": "ThinkBetter/DailyNotes/2026-03-10.md"
-    },
-    {
-      "basename": "商品详情",
-      "path": "垃圾箱收集/商品详情.md"
     }
   ],
   "omittedPaths": [],
