@@ -96,24 +96,9 @@
               "icon": "lucide-file",
               "title": "与神对话"
             }
-          },
-          {
-            "id": "23b6032643e33705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/久坐带来的人类身体的变化.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "久坐带来的人类身体的变化"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -279,10 +264,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "23b6032643e33705",
+  "active": "e391a53bda1bf6dd",
   "lastOpenFiles": [
-    "Clippings/世界读书日｜阅读从来不只是为了获取信息.md",
+    "Clippings/他永远是那个追问者，我们则是被追问的人.md",
     "Clippings/久坐带来的人类身体的变化.md",
+    "Clippings/世界读书日｜阅读从来不只是为了获取信息.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
@@ -306,7 +292,6 @@
     "ThinkBetter/Inbox/学习方法.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/庄子心得.md",
-    "ThinkBetter/Inbox/25年总结的25个idea.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
     "ThinkBetter/Sources/Pasted image 20260506130944.png",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
