@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f948382f4c5e48d0",
+        "id": "b8b249bb376aea00",
         "type": "tabs",
         "children": [
           {
-            "id": "a702554638b958ac",
+            "id": "81d7cfc06922a7cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/DailyNotes/2026-05-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-27"
+              "title": "新标签页"
             }
           }
         ]
@@ -102,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -134,13 +130,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-05-27.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-27 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -165,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +181,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "a702554638b958ac",
+  "active": "81d7cfc06922a7cf",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-05-27.md",
