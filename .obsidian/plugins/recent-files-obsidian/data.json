@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学会提问",
+      "path": "ThinkBetter/Books/学会提问.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Group Chat The Best Way to Totally Stress Out Your Team",
       "path": "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md"
-    },
-    {
-      "basename": "2026-03-11",
-      "path": "ThinkBetter/DailyNotes/2026-03-11.md"
     }
   ],
   "omittedPaths": [],
