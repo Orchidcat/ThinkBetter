@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "正见",
+      "path": "ThinkBetter/Books/正见.md"
+    },
+    {
+      "basename": "八万四千问",
+      "path": "ThinkBetter/Books/八万四千问.md"
+    },
+    {
+      "basename": "正念",
+      "path": "ThinkBetter/Inbox/正念.md"
+    },
+    {
       "basename": "学会提问",
       "path": "ThinkBetter/Books/学会提问.md"
     },
@@ -141,10 +153,6 @@
       "path": "ThinkBetter/Inbox/事件timing.md"
     },
     {
-      "basename": "正见",
-      "path": "ThinkBetter/Books/正见.md"
-    },
-    {
       "basename": "AI 采集",
       "path": "ThinkBetter/Inbox/AI 采集.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "黄芩",
       "path": "ThinkBetter/人纪/黄芩.md"
-    },
-    {
-      "basename": "BoaP - How to Take Smart Notes",
-      "path": "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw"
-    },
-    {
-      "basename": "Group Chat The Best Way to Totally Stress Out Your Team",
-      "path": "Clippings/Group Chat The Best Way to Totally Stress Out Your Team.md"
     }
   ],
   "omittedPaths": [],
