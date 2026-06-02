@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
+      "basename": "佛教的见地与修道",
+      "path": "ThinkBetter/Books/佛教的见地与修道.md"
     },
     {
       "basename": "正见",
       "path": "ThinkBetter/Books/正见.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "八万四千问",
@@ -195,10 +199,6 @@
     {
       "basename": "气血学习",
       "path": "ThinkBetter/人纪/气血学习.md"
-    },
-    {
-      "basename": "黄芩",
-      "path": "ThinkBetter/人纪/黄芩.md"
     }
   ],
   "omittedPaths": [],
