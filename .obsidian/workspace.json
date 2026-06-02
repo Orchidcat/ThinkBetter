@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/佛教的见地与修道.md",
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "佛教的见地与修道"
+              "title": "一句话的玩味"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "宗萨仁波切",
+                "query": "执念",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -205,8 +204,8 @@
   },
   "active": "88042b05ffba4045",
   "lastOpenFiles": [
-    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/佛教的见地与修道.md",
+    "ThinkBetter/Books/正见.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/八万四千问.md",
     "ThinkBetter/Inbox/正念.md",
