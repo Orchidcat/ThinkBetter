@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "927f12a553d236c9",
+        "id": "efbe9f820286aed6",
         "type": "tabs",
         "children": [
           {
-            "id": "88042b05ffba4045",
+            "id": "f4fcb72d6bc95b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/六气.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "六气"
-            }
-          },
-          {
-            "id": "dc6afd08e1bb9521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/正见.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "正见"
+              "title": "Start Here"
             }
           }
         ]
@@ -202,8 +187,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "88042b05ffba4045",
+  "active": "f4fcb72d6bc95b1d",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/佛教的见地与修道.md",
@@ -221,7 +207,6 @@
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
     "ThinkBetter/Books/西藏生死书.md",
-    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/Inbox/清静经.md",
     "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
     "ThinkBetter/Inbox/OB插件.md",
