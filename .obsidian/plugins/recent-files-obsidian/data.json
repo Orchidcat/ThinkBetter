@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/Distill/一句话的玩味.md"
+      "basename": "系统思考",
+      "path": "ThinkBetter/Books/系统思考.md"
     },
     {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
     {
       "basename": "六气",
@@ -195,10 +199,6 @@
     {
       "basename": "伤寒论六经原文读法篇",
       "path": "ThinkBetter/人纪/伤寒论六经原文读法篇.md"
-    },
-    {
-      "basename": "气血学习",
-      "path": "ThinkBetter/人纪/气血学习.md"
     }
   ],
   "omittedPaths": [],

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "efbe9f820286aed6",
+        "id": "7bae7c52d4bfa5ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f4fcb72d6bc95b1d",
+            "id": "eed49579e39a7523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Distill/一句话的玩味.md",
+                "file": "ThinkBetter/Books/系统思考.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "一句话的玩味"
+              "title": "系统思考"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "芒种",
+                "query": "决策",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -187,12 +188,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "f4fcb72d6bc95b1d",
+  "active": "eed49579e39a7523",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/二十四节气.md",
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/佛教的见地与修道.md",
     "ThinkBetter/Books/正见.md",
     "ThinkBetter/Books/八万四千问.md",
