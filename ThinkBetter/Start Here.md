@@ -36,6 +36,7 @@
 >> 
 
 一张○运动图，包含时节，卦位，病症，对应药物
+没事可以看看 [Quotations Archives - Page 84 of 93 - Futility Closet](https://www.futilitycloset.com/category/quotations/page/84/)
 
 ```dataviewjs
 
