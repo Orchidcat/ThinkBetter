@@ -36,19 +36,8 @@
               "icon": "lucide-file",
               "title": "元气"
             }
-          },
-          {
-            "id": "2c90d2dc43e70ab6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +203,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "2c90d2dc43e70ab6",
+  "active": "c8b4309915dd64ee",
   "lastOpenFiles": [
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/元气.md",
+    "ThinkBetter/Inbox/非凡天才.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/神照经.md",
     "ThinkBetter/Inbox/五蕴.md",
     "ThinkBetter/Start Here.md",
@@ -241,7 +231,6 @@
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
-    "ThinkBetter/Books/西藏生死书.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
     "ThinkBetter/Sources/Pasted image 20260506130944.png",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
