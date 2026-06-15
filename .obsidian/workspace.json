@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "一句话的玩味"
             }
+          },
+          {
+            "id": "5c9b5457a35b289c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/神照经.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "神照经"
+            }
+          },
+          {
+            "id": "eb9fb5bc4f5e117d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/五蕴.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "五蕴"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,15 +219,18 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "c8b4309915dd64ee",
+  "active": "5c9b5457a35b289c",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/五蕴.md",
+    "ThinkBetter/Inbox/神照经.md",
+    "ThinkBetter/人纪/元气.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Start Here.md",
     "Clippings/Quotations Archives - Page 83 of 93.md",
     "Clippings/闲散之物——第37页（共1418页）——闲散之人杂集锦.md",
     "Clippings/闲散之物——第31页，共1418页——闲散之人杂集锦.md",
     "Clippings/闲散之物——第10页，共1418页——闲散之人杂集锦.md",
     "ThinkBetter/Books/系统思考.md",
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/Books/佛教的见地与修道.md",
@@ -213,9 +247,6 @@
     "ThinkBetter/Books/二千年间.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
     "ThinkBetter/Books/西藏生死书.md",
-    "ThinkBetter/Inbox/清静经.md",
-    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Inbox/OB插件.md",
     "ThinkBetter/Sources/Pasted image 20260506130953.png",
     "ThinkBetter/Sources/Pasted image 20260506130944.png",
     "ThinkBetter/Sources/844bf315dbe2c5c83c1c61033ff98a66.png",
