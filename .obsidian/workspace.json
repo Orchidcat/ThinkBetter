@@ -28,28 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/神照经.md",
-                "mode": "source",
+                "file": "ThinkBetter/人纪/元气.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "神照经"
-            }
-          },
-          {
-            "id": "eb9fb5bc4f5e117d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/五蕴.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "五蕴"
+              "title": "元气"
             }
           }
         ],
@@ -221,9 +206,9 @@
   },
   "active": "5c9b5457a35b289c",
   "lastOpenFiles": [
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/神照经.md",
     "ThinkBetter/Inbox/五蕴.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/元气.md",
     "ThinkBetter/Start Here.md",
     "Clippings/Quotations Archives - Page 83 of 93.md",
