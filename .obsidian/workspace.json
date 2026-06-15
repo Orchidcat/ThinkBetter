@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "ThinkBetter/人纪/元气.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -37,8 +37,7 @@
               "title": "元气"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "5c9b5457a35b289c",
+  "active": "c8b4309915dd64ee",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/元气.md",
     "ThinkBetter/Inbox/神照经.md",
     "ThinkBetter/Inbox/五蕴.md",
     "ThinkBetter/Distill/一句话的玩味.md",
-    "ThinkBetter/人纪/元气.md",
     "ThinkBetter/Start Here.md",
     "Clippings/Quotations Archives - Page 83 of 93.md",
     "Clippings/闲散之物——第37页（共1418页）——闲散之人杂集锦.md",
