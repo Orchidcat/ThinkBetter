@@ -37,8 +37,7 @@
               "title": "蒙田随笔集"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +203,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "4ee3c8596a512b33",
+  "active": "c8b4309915dd64ee",
   "lastOpenFiles": [
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/蒙田随笔集.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/人纪/元气.md",
     "ThinkBetter/Inbox/非凡天才.md",
     "ThinkBetter/Inbox/神照经.md",
