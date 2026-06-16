@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "蒙田随笔集",
+      "path": "ThinkBetter/Inbox/蒙田随笔集.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AI 采集",
       "path": "ThinkBetter/Inbox/AI 采集.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "ThinkBetter/DailyNotes/2026-03-23.md"
     }
   ],
   "omittedPaths": [],
