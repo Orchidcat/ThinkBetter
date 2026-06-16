@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-07",
+      "path": "ThinkBetter/DailyNotes/2025-08-07.md"
+    },
+    {
+      "basename": "Seeking wisdom",
+      "path": "ThinkBetter/Books/Seeking wisdom.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "一张有趣的图",
       "path": "ThinkBetter/人纪/一张有趣的图.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "ThinkBetter/Inbox/事件timing.md"
-    },
-    {
-      "basename": "AI 采集",
-      "path": "ThinkBetter/Inbox/AI 采集.md"
     }
   ],
   "omittedPaths": [],
