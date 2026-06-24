@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "九州之山西",
+      "path": "九州之山西.md"
+    },
+    {
       "basename": "九州之江南",
       "path": "九州之江南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "辨脉法第一",
       "path": "ThinkBetter/人纪/伤寒论/辨脉法第一.md"
-    },
-    {
-      "basename": "002 黄帝内经",
-      "path": "ThinkBetter/人纪/002 黄帝内经.md"
     }
   ],
   "omittedPaths": [],
