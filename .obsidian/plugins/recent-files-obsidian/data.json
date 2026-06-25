@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "九州之河北",
+      "path": "九州之河北.md"
+    },
+    {
       "basename": "九州之山西",
       "path": "九州之山西.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "辨脉法第一",
-      "path": "ThinkBetter/人纪/伤寒论/辨脉法第一.md"
     }
   ],
   "omittedPaths": [],
