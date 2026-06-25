@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "九州之山东及两淮",
+      "path": "九州之山东及两淮.md"
+    },
+    {
       "basename": "九州之巴蜀",
       "path": "九州之巴蜀.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "中国历代政治得失",
       "path": "ThinkBetter/Books/中国历代政治得失.md"
-    },
-    {
-      "basename": "除了你，谁能做出这个决定",
-      "path": "ThinkBetter/Articles/除了你，谁能做出这个决定.md"
     }
   ],
   "omittedPaths": [],
