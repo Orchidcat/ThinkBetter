@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "透过地理看历史"
             }
+          },
+          {
+            "id": "11f8297429ef8d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/红军长征.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "红军长征"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +204,13 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "955eea2dd5f32dcf",
+  "active": "11f8297429ef8d9f",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/透过地理看历史.md",
+    "ThinkBetter/Inbox/红军长征.md",
+    "ThinkBetter/Sources/Pasted image 20260625145056.png",
     "ThinkBetter/Sources/Pasted image 20260625143454.png",
     "九州之河北.md",
-    "ThinkBetter/Inbox/透过地理看历史.md",
     "西和诸戎-南征百越.md",
     "ThinkBetter/Sources/Pasted image 20260625142426.png",
     "ThinkBetter/Sources/Pasted image 20260625142130.png",
@@ -204,8 +222,6 @@
     "九州之巴蜀.md",
     "ThinkBetter/Sources/Pasted image 20260625105044.png",
     "ThinkBetter/Sources/Pasted image 20260625104826.png",
-    "ThinkBetter/Sources/Pasted image 20260625104301.png",
-    "ThinkBetter/Sources/Pasted image 20260625103728.png",
     "九州之中原.md",
     "九州之山西.md",
     "九州之江南.md",
@@ -225,7 +241,6 @@
     "ThinkBetter/Inbox/神照经.md",
     "ThinkBetter/Inbox/五蕴.md",
     "Clippings/Quotations Archives - Page 83 of 93.md",
-    "Clippings/闲散之物——第37页（共1418页）——闲散之人杂集锦.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
