@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "河套及西域",
+      "path": "河套及西域.md"
+    },
+    {
       "basename": "南诏到大理",
       "path": "南诏到大理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习方法",
       "path": "ThinkBetter/Inbox/学习方法.md"
-    },
-    {
-      "basename": "傅佩荣讲道德经",
-      "path": "ThinkBetter/Books/傅佩荣讲道德经.md"
     }
   ],
   "omittedPaths": [],
