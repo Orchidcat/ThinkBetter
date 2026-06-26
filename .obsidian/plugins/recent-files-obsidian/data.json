@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "南诏到大理",
+      "path": "南诏到大理.md"
+    },
+    {
       "basename": "夜郎国",
       "path": "夜郎国.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "傅佩荣讲道德经",
       "path": "ThinkBetter/Books/傅佩荣讲道德经.md"
-    },
-    {
-      "basename": "庄子心得",
-      "path": "ThinkBetter/Books/庄子心得.md"
     }
   ],
   "omittedPaths": [],
