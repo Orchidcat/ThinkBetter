@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "一张有趣的图",
-      "path": "ThinkBetter/人纪/一张有趣的图.md"
-    },
-    {
       "basename": "透过地理看历史",
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
     {
+      "basename": "夜郎国",
+      "path": "夜郎国.md"
+    },
+    {
       "basename": "红军长征",
       "path": "ThinkBetter/Inbox/红军长征.md"
+    },
+    {
+      "basename": "一张有趣的图",
+      "path": "ThinkBetter/人纪/一张有趣的图.md"
     },
     {
       "basename": "九州之河北",
@@ -195,10 +199,6 @@
     {
       "basename": "庄子心得",
       "path": "ThinkBetter/Books/庄子心得.md"
-    },
-    {
-      "basename": "25年总结的25个idea",
-      "path": "ThinkBetter/Inbox/25年总结的25个idea.md"
     }
   ],
   "omittedPaths": [],
