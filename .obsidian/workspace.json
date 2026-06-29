@@ -11,10 +11,15 @@
             "id": "056c1452c8b50bd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/人纪/004 金匮要略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "004 金匮要略"
             }
           }
         ]
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "知母",
+                "query": "桂枝知母",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,8 +187,13 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "056c1452c8b50bd4",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "ThinkBetter/人纪/194 中医诊断学.md",
+    "ThinkBetter/人纪/折肱漫录.md",
+    "ThinkBetter/人纪/消渴.md",
+    "ThinkBetter/人纪/药/知母.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/175 医案经方.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -215,11 +225,6 @@
     "九州之关中.md",
     "透过地理看历史 - 三国篇.md",
     "ThinkBetter/Distill/一句话的玩味.md",
-    "ThinkBetter/Books/clear thinking/Clear Thinking.md",
-    "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
-    "ThinkBetter/Inbox/Now.md",
-    "ThinkBetter/DailyNotes/2025-08-07.md",
-    "ThinkBetter/Books/Seeking wisdom.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
