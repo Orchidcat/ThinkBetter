@@ -5,6 +5,18 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
+      "basename": "175 医案经方",
+      "path": "ThinkBetter/人纪/175 医案经方.md"
+    },
+    {
+      "basename": "004 金匮要略",
+      "path": "ThinkBetter/人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "知己",
+      "path": "ThinkBetter/Books/知己.md"
+    },
+    {
       "basename": "透过地理看历史",
       "path": "ThinkBetter/Inbox/透过地理看历史.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "我还能看到多少次满月升起",
       "path": "ThinkBetter/Books/我还能看到多少次满月升起.md"
-    },
-    {
-      "basename": "西藏生死书",
-      "path": "ThinkBetter/Books/西藏生死书.md"
-    },
-    {
-      "basename": "清静经",
-      "path": "ThinkBetter/Inbox/清静经.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "ThinkBetter/Inbox/学习方法.md"
     }
   ],
   "omittedPaths": [],

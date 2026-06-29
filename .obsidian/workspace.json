@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3bb973e578444f55",
+        "id": "5bb4939180d61632",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3d322b68b0dde0",
+            "id": "056c1452c8b50bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "新标签页"
             }
           }
         ]
@@ -65,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "摩托车",
+                "query": "知母",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -188,8 +182,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "ad3d322b68b0dde0",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/人纪/175 医案经方.md",
+    "ThinkBetter/人纪/004 金匮要略.md",
+    "ThinkBetter/Books/知己.md",
     "ThinkBetter/Inbox/透过地理看历史.md",
     "ThinkBetter/Sources/Pasted image 20260626155724.png",
     "ThinkBetter/Sources/Pasted image 20260626155645.png",
@@ -216,15 +214,12 @@
     "九州之荆州.md",
     "九州之关中.md",
     "透过地理看历史 - 三国篇.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Inbox/相传是刻在德尔斐的阿波罗神庙的三句箴言.md",
     "ThinkBetter/Inbox/Now.md",
     "ThinkBetter/DailyNotes/2025-08-07.md",
     "ThinkBetter/Books/Seeking wisdom.md",
-    "ThinkBetter/Inbox/蒙田随笔集.md",
-    "ThinkBetter/人纪/元气.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
