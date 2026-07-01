@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Articles/打造第二大脑.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "打造第二大脑"
+              "title": "2026-07-01"
             }
           }
         ]
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -135,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/正见.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "正见 的大纲"
+              "title": "2026-07-01 的大纲"
             }
           }
         ],
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +189,8 @@
   },
   "active": "7cfddbc09341de42",
   "lastOpenFiles": [
+    "ThinkBetter/Articles/打造第二大脑.md",
+    "ThinkBetter/DailyNotes/2026-07-01.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/北京法源寺.md",
@@ -223,8 +225,6 @@
     "九州之中原.md",
     "九州之山西.md",
     "九州之江南.md",
-    "九州之荆州.md",
-    "九州之关中.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
