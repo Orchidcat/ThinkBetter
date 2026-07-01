@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "桂枝知母",
+                "query": "12个",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -188,7 +187,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "7cfddbc09341de42",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/北京法源寺.md",
