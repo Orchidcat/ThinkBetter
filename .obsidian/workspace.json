@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Articles/打造第二大脑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "打造第二大脑"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "7cfddbc09341de42",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/北京法源寺.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -197,7 +198,6 @@
     "ThinkBetter/人纪/折肱漫录.md",
     "ThinkBetter/人纪/消渴.md",
     "ThinkBetter/人纪/药/知母.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/175 医案经方.md",
     "ThinkBetter/Books/知己.md",
     "ThinkBetter/Inbox/透过地理看历史.md",
