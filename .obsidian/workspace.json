@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "194 中医诊断学"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "12个",
+                "query": "哑",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -136,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
+                "file": "ThinkBetter/人纪/194 中医诊断学.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-02 的大纲"
+              "title": "194 中医诊断学 的大纲"
             }
           }
         ],
@@ -190,8 +189,9 @@
   },
   "active": "de2f6ab4b04d4398",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
+    "ThinkBetter/人纪/肺肾阴虚证.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-07-01.md",
     "ThinkBetter/Articles/打造第二大脑.md",
     "ThinkBetter/Distill/一句话的玩味.md",
@@ -225,7 +225,6 @@
     "九州之山东及两淮.md",
     "九州之巴蜀.md",
     "九州之中原.md",
-    "九州之山西.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
