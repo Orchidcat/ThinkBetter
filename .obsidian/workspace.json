@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3eaea1d02c03f9d",
+        "id": "c0d5edae8e935f57",
         "type": "tabs",
         "children": [
           {
-            "id": "7cfddbc09341de42",
+            "id": "de2f6ab4b04d4398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-01.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-01"
+              "title": "2026-07-02"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-01.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-01 的大纲"
+              "title": "2026-07-02 的大纲"
             }
           }
         ],
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +188,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "7cfddbc09341de42",
+  "active": "de2f6ab4b04d4398",
   "lastOpenFiles": [
-    "ThinkBetter/Articles/打造第二大脑.md",
-    "ThinkBetter/DailyNotes/2026-07-01.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2026-07-02.md",
+    "ThinkBetter/DailyNotes/2026-07-01.md",
+    "ThinkBetter/Articles/打造第二大脑.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/北京法源寺.md",
     "ThinkBetter/人纪/004 金匮要略.md",
@@ -224,7 +226,6 @@
     "九州之巴蜀.md",
     "九州之中原.md",
     "九州之山西.md",
-    "九州之江南.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
