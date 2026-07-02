@@ -5,6 +5,10 @@
       "path": "ThinkBetter/DailyNotes/2026-07-02.md"
     },
     {
+      "basename": "25个小习惯",
+      "path": "ThinkBetter/Inbox/25个小习惯.md"
+    },
+    {
       "basename": "肺肾阴虚证",
       "path": "ThinkBetter/人纪/肺肾阴虚证.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "正见",
       "path": "ThinkBetter/Books/正见.md"
-    },
-    {
-      "basename": "八万四千问",
-      "path": "ThinkBetter/Books/八万四千问.md"
     }
   ],
   "omittedPaths": [],
