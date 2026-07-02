@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "哑",
+                "query": "冬病",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -203,7 +202,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "de2f6ab4b04d4398",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/25个小习惯.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
