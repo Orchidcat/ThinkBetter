@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "霜桑叶",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,7 +202,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "de2f6ab4b04d4398",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/人纪/扶桑丸.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
