@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
+                "file": "ThinkBetter/人纪/药/桑叶.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-02"
+              "title": "桑叶"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "冬病",
+                "query": "霜桑叶",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-02.md",
+                "file": "ThinkBetter/人纪/药/桑叶.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-02 的大纲"
+              "title": "桑叶 的大纲"
             }
           }
         ],
@@ -202,10 +202,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "de2f6ab4b04d4398",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/25个小习惯.md",
+    "ThinkBetter/人纪/扶桑丸.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
+    "ThinkBetter/Inbox/25个小习惯.md",
     "ThinkBetter/人纪/肺肾阴虚证.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
     "ThinkBetter/Start Here.md",
@@ -239,7 +240,6 @@
     "九州之河北.md",
     "西和诸戎-南征百越.md",
     "九州之山东及两淮.md",
-    "九州之巴蜀.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
