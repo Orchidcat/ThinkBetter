@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2026-07-06"
             }
           }
         ]
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -135,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/药/桑叶.md",
+                "file": "ThinkBetter/DailyNotes/2026-07-06.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "桑叶 的大纲"
+              "title": "2026-07-06 的大纲"
             }
           }
         ],
@@ -189,12 +190,13 @@
   },
   "active": "acd58a2c706ad727",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2026-07-06.md",
     "ThinkBetter/Inbox/25个小习惯.md",
     "ThinkBetter/人纪/扶桑丸.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
     "ThinkBetter/人纪/肺肾阴虚证.md",
     "ThinkBetter/人纪/194 中医诊断学.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-07-01.md",
     "ThinkBetter/Articles/打造第二大脑.md",
     "ThinkBetter/Distill/一句话的玩味.md",
@@ -224,7 +226,6 @@
     "ThinkBetter/人纪/一张有趣的图.md",
     "九州之河北.md",
     "西和诸戎-南征百越.md",
-    "九州之山东及两淮.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
