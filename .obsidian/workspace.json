@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5262535853a6c553",
+        "id": "7f5fba8ee20aba5c",
         "type": "tabs",
         "children": [
           {
-            "id": "acd58a2c706ad727",
+            "id": "2cc1ac222fdae8df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-07-06.md",
+                "file": "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-06"
+              "title": "帝国政界往事 - 大宋实录"
             }
           }
         ]
@@ -188,8 +188,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "acd58a2c706ad727",
+  "active": "2cc1ac222fdae8df",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-07-06.md",
     "ThinkBetter/Inbox/25个小习惯.md",
@@ -225,7 +226,6 @@
     "ThinkBetter/Inbox/红军长征.md",
     "ThinkBetter/人纪/一张有趣的图.md",
     "九州之河北.md",
-    "西和诸戎-南征百越.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
