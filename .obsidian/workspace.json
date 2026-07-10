@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -205,6 +206,7 @@
   },
   "active": "f978f569de38ee57",
   "lastOpenFiles": [
+    "ThinkBetter/Sources/Pasted image 20260710124118.png",
     "九州之江南.md",
     "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
     "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
@@ -240,7 +242,6 @@
     "ThinkBetter/Sources/Pasted image 20260626140939.png",
     "南诏到大理.md",
     "夜郎国.md",
-    "ThinkBetter/Inbox/红军长征.md",
     "ThinkBetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "垃圾箱收集",
     "Clippings",
