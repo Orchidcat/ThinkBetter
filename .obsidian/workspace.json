@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
+                "file": "九州之江南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "帝国政界往事 - 大明王朝"
+              "title": "九州之江南"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "书法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -204,10 +203,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "f978f569de38ee57",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
     "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
+    "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/DailyNotes/2026-07-06.md",
     "ThinkBetter/Inbox/25个小习惯.md",
