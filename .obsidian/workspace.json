@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/帝国政界往事 - 清朝.md",
+                "file": "ThinkBetter/人纪/108 湿热蕴脾证.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "帝国政界往事 - 清朝"
+              "title": "108 湿热蕴脾证"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "书法",
+                "query": "困脾",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -206,8 +205,8 @@
   },
   "active": "af5140c45e2094c3",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
     "ThinkBetter/Inbox/帝国政界往事 - 清朝.md",
+    "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Sources/Pasted image 20260710124118.png",
     "九州之江南.md",
