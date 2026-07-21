@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Work/列存储索引.md"
     },
     {
+      "basename": "聚集列存储索引 - 简介",
+      "path": "聚集列存储索引 - 简介.md"
+    },
+    {
       "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
       "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "非凡天才",
       "path": "ThinkBetter/Inbox/非凡天才.md"
-    },
-    {
-      "basename": "神照经",
-      "path": "ThinkBetter/Inbox/神照经.md"
     }
   ],
   "omittedPaths": [],
