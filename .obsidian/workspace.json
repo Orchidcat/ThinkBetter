@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,11 +234,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "1a2039adbfd0b9ed",
+  "active": "f7914f945497b069",
   "lastOpenFiles": [
+    "聚集列存储索引 - 简介.md",
     "聚集列存储索引 - 内部原理.md",
     "ThinkBetter/Work/列存储索引.md",
-    "聚集列存储索引 - 简介.md",
     "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/从玄武门之变到贞观之治.md",
