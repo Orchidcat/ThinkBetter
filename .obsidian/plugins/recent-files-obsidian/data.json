@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "列存储索引",
+      "path": "ThinkBetter/Work/列存储索引.md"
+    },
+    {
+      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
+      "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "神照经",
       "path": "ThinkBetter/Inbox/神照经.md"
-    },
-    {
-      "basename": "五蕴",
-      "path": "ThinkBetter/Inbox/五蕴.md"
-    },
-    {
-      "basename": "Quotations Archives - Page 83 of 93",
-      "path": "Clippings/Quotations Archives - Page 83 of 93.md"
     }
   ],
   "omittedPaths": [],
