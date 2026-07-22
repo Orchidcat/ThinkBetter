@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Work/列存储索引.md"
     },
     {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
       "basename": "聚集列存储索引 - 简介",
       "path": "聚集列存储索引 - 简介.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
       "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "从玄武门之变到贞观之治",
