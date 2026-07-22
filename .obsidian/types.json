@@ -43,6 +43,7 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "TQ_show_toolbar": "checkbox"
   }
 }
