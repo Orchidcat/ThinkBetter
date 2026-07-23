@@ -45,5 +45,6 @@
   "obsidian-admonition",
   "obsidian-hover-editor",
   "highlightr-plugin",
-  "extract-highlights-plugin"
+  "extract-highlights-plugin",
+  "text-brush"
 ]
