@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/无字碑-武则天的前世今生.md",
+                "file": "ThinkBetter/Books/无字碑-武则天的前世今生.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -36,9 +36,39 @@
               "icon": "lucide-file",
               "title": "无字碑-武则天的前世今生"
             }
+          },
+          {
+            "id": "d77788fb4d4f8ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/从玄武门之变到贞观之治.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "从玄武门之变到贞观之治"
+            }
+          },
+          {
+            "id": "317cad80b94c1d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "帝国政界往事 - 大宋实录"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,9 +234,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "9cf3805680b452b5",
+  "active": "317cad80b94c1d7a",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/无字碑-武则天的前世今生.md",
+    "ThinkBetter/Books/帝国政界往事 - 清朝.md",
+    "ThinkBetter/Books/帝国政界往事 - 大明王朝.md",
+    "ThinkBetter/Books/从玄武门之变到贞观之治.md",
+    "ThinkBetter/Books/无字碑-武则天的前世今生.md",
     "ThinkBetter/Work/列存储索引.md",
     "ThinkBetter/Sources/Pasted image 20260723085434.png",
     "ThinkBetter/Start Here.md",
@@ -214,10 +247,7 @@
     "聚集列存储索引 - 简介.md",
     "聚集列存储索引 - 内部原理.md",
     "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md",
-    "ThinkBetter/Inbox/从玄武门之变到贞观之治.md",
-    "ThinkBetter/Inbox/帝国政界往事 - 大明王朝.md",
     "ThinkBetter/人纪/108 湿热蕴脾证.md",
-    "ThinkBetter/Inbox/帝国政界往事 - 清朝.md",
     "ThinkBetter/Sources/Pasted image 20260710124118.png",
     "九州之江南.md",
     "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md",
