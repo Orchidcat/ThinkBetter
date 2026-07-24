@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
+      "basename": "Start Here",
+      "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "无字碑-武则天的前世今生",
+      "path": "ThinkBetter/Books/无字碑-武则天的前世今生.md"
+    },
+    {
+      "basename": "+Home",
+      "path": "ThinkBetter/Inbox/+Home.md"
+    },
+    {
+      "basename": "从玄武门之变到贞观之治",
+      "path": "ThinkBetter/Books/从玄武门之变到贞观之治.md"
+    },
+    {
       "basename": "帝国政界往事 - 大宋实录",
-      "path": "ThinkBetter/Inbox/帝国政界往事 - 大宋实录.md"
+      "path": "ThinkBetter/Books/帝国政界往事 - 大宋实录.md"
     },
     {
       "basename": "帝国政界往事 - 清朝",
@@ -13,20 +33,8 @@
       "path": "ThinkBetter/Books/帝国政界往事 - 大明王朝.md"
     },
     {
-      "basename": "从玄武门之变到贞观之治",
-      "path": "ThinkBetter/Books/从玄武门之变到贞观之治.md"
-    },
-    {
-      "basename": "无字碑-武则天的前世今生",
-      "path": "ThinkBetter/Books/无字碑-武则天的前世今生.md"
-    },
-    {
       "basename": "列存储索引",
       "path": "ThinkBetter/Work/列存储索引.md"
-    },
-    {
-      "basename": "Start Here",
-      "path": "ThinkBetter/Start Here.md"
     },
     {
       "basename": "聚集列存储索引 - 简介",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-08-07",
       "path": "ThinkBetter/DailyNotes/2025-08-07.md"
-    },
-    {
-      "basename": "Seeking wisdom",
-      "path": "ThinkBetter/Books/Seeking wisdom.md"
-    },
-    {
-      "basename": "蒙田随笔集",
-      "path": "ThinkBetter/Inbox/蒙田随笔集.md"
     }
   ],
   "omittedPaths": [],
