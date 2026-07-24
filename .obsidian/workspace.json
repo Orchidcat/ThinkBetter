@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945
+    "width": 207.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -221,8 +222,8 @@
   "active": "a6c24ca2d2370855",
   "lastOpenFiles": [
     "ThinkBetter/Books/帝国政界往事 - 大宋实录.md",
-    "ThinkBetter/Work/列存储索引.md",
     "ThinkBetter/Books/无字碑-武则天的前世今生.md",
+    "ThinkBetter/Work/列存储索引.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/+Home.md",
