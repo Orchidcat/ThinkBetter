@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "胸痹",
+                "query": "ssl",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,7 +187,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "5266e9f895bb222c",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/无字碑-武则天的前世今生.md",
