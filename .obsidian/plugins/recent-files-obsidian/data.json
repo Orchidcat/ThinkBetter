@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "生命是什么",
+      "path": "ThinkBetter/Books/生命是什么.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
+    },
+    {
       "basename": "waste books",
       "path": "ThinkBetter/Books/waste books.md"
     },
@@ -113,10 +121,6 @@
       "path": "ThinkBetter/Articles/打造第二大脑.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/Distill/一句话的玩味.md"
-    },
-    {
       "basename": "北京法源寺",
       "path": "ThinkBetter/Inbox/北京法源寺.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "九州之山西",
       "path": "九州之山西.md"
-    },
-    {
-      "basename": "九州之荆州",
-      "path": "九州之荆州.md"
     }
   ],
   "omittedPaths": [],

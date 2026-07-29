@@ -21,8 +21,54 @@
               "icon": "lucide-file",
               "title": "waste books"
             }
+          },
+          {
+            "id": "ba9ced8ce69a06de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Distill/一句话的玩味.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "一句话的玩味"
+            }
+          },
+          {
+            "id": "2a8a7b6380312ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/生命是什么.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "生命是什么"
+            }
+          },
+          {
+            "id": "fa3f44da90aa664a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/生命是什么.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "生命是什么"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "道德经",
+                "query": "薛定谔",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -188,15 +233,15 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "738ace40f1022763",
+  "active": "fa3f44da90aa664a",
   "lastOpenFiles": [
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Books/被讨厌的勇气.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Inbox/见贤.md",
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/反直觉.md",
     "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Inbox/胸痹.md",
