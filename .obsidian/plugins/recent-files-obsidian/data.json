@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/waste books.md"
     },
     {
+      "basename": "如何阅读",
+      "path": "ThinkBetter/Inbox/如何阅读.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "九州之中原",
       "path": "九州之中原.md"
-    },
-    {
-      "basename": "九州之山西",
-      "path": "九州之山西.md"
     }
   ],
   "omittedPaths": [],
