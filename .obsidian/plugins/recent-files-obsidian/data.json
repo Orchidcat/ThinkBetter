@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "waste books",
+      "path": "ThinkBetter/Books/waste books.md"
+    },
+    {
       "basename": "被讨厌的勇气",
       "path": "ThinkBetter/Books/被讨厌的勇气.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "九州之荆州",
       "path": "九州之荆州.md"
-    },
-    {
-      "basename": "九州之关中",
-      "path": "九州之关中.md"
     }
   ],
   "omittedPaths": [],
