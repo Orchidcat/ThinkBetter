@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "傅佩荣讲道德经"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssl",
+                "query": "道德经",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,8 +190,8 @@
   },
   "active": "3a2cdcad46b8e454",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/反直觉.md",
     "ThinkBetter/Inbox/事件timing.md",
