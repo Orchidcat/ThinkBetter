@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/waste books.md"
     },
     {
+      "basename": "笔记方法",
+      "path": "ThinkBetter/Inbox/笔记方法.md"
+    },
+    {
       "basename": "如何阅读",
       "path": "ThinkBetter/Inbox/如何阅读.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "九州之巴蜀",
       "path": "九州之巴蜀.md"
-    },
-    {
-      "basename": "九州之中原",
-      "path": "九州之中原.md"
     }
   ],
   "omittedPaths": [],
