@@ -3,7 +3,6 @@
   "templater-obsidian",
   "obsidian-zoom",
   "note-refactor-obsidian",
-  "obsidian-emoji-toolbar",
   "homepage",
   "sliding-panes-obsidian",
   "better-word-count",
@@ -46,5 +45,6 @@
   "obsidian-hover-editor",
   "highlightr-plugin",
   "extract-highlights-plugin",
-  "text-brush"
+  "text-brush",
+  "obsidian-emoji-toolbar"
 ]
