@@ -67,8 +67,7 @@
               "title": "我还能看到多少次满月升起"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +233,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "a2eea14f5ee5ec94",
+  "active": "738ace40f1022763",
   "lastOpenFiles": [
     "ThinkBetter/Inbox/道德自由.md",
     "ThinkBetter/Books/waste books.md",
