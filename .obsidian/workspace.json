@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a661abe013ab4164",
+        "id": "d75343d5aaa0be33",
         "type": "tabs",
         "children": [
           {
-            "id": "738ace40f1022763",
+            "id": "489657529c4f3fa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/waste books.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "waste books"
-            }
-          },
-          {
-            "id": "a2eea14f5ee5ec94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/道德自由.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "道德自由"
-            }
-          },
-          {
-            "id": "f047b7d8900ac0cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/如何阅读的方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "如何阅读的方法"
-            }
-          },
-          {
-            "id": "2c8e6b754015b85e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Books/我还能看到多少次满月升起.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "我还能看到多少次满月升起"
+              "title": "Start Here"
             }
           }
         ]
@@ -148,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -233,10 +187,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "738ace40f1022763",
+  "active": "489657529c4f3fa5",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/道德自由.md",
     "ThinkBetter/Books/waste books.md",
+    "ThinkBetter/Inbox/道德自由.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Start Here.md",
