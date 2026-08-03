@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "九州之江南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "九州之江南"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "书法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,11 +189,11 @@
   },
   "active": "489657529c4f3fa5",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Inbox/道德自由.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Inbox/见贤.md",
     "ThinkBetter/Work/SQL Server TOC.md",
