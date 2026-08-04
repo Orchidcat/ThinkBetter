@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
+                "file": "ThinkBetter/Books/waste books.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-08-04 的大纲"
+              "title": "waste books 的大纲"
             }
           }
         ],
@@ -219,11 +219,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "cda0367eda6a506a",
+  "active": "ae22b2af3a91fd39",
   "lastOpenFiles": [
+    "ThinkBetter/DailyNotes/2026-08-04.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/DailyNotes/2026-08-04.md",
     "ThinkBetter/Inbox/未命名 10.md",
     "ThinkBetter/人纪/消渴.md",
     "ThinkBetter/Books/_ MOC - Books.md",
