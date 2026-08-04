@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "002 黄帝内经",
+      "path": "ThinkBetter/人纪/002 黄帝内经.md"
+    },
+    {
+      "basename": "消渴",
+      "path": "ThinkBetter/人纪/消渴.md"
+    },
+    {
       "basename": "waste books",
       "path": "ThinkBetter/Books/waste books.md"
     },
@@ -157,10 +165,6 @@
       "path": "ThinkBetter/人纪/折肱漫录.md"
     },
     {
-      "basename": "消渴",
-      "path": "ThinkBetter/人纪/消渴.md"
-    },
-    {
       "basename": "知母",
       "path": "ThinkBetter/人纪/药/知母.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "一张有趣的图",
       "path": "ThinkBetter/人纪/一张有趣的图.md"
-    },
-    {
-      "basename": "九州之河北",
-      "path": "九州之河北.md"
     }
   ],
   "omittedPaths": [],
