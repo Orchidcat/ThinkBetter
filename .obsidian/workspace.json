@@ -43,10 +43,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2026-08-05 08.21.27.excalidraw.md"
+                "file": "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-05 08.21.27.excalidraw"
+              "title": "中国书法传承谱系图.excalidraw"
             }
           },
           {
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinkbetter/Excalidraw/Drawing 2026-08-05 08.21.27.excalidraw.md",
+                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-08-05 08.21.27.excalidraw 的大纲"
+              "title": "2026-08-04 的大纲"
             }
           }
         ],
@@ -231,12 +231,13 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "cc7af16fee73c3c7",
+  "active": "cda0367eda6a506a",
   "lastOpenFiles": [
+    "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
+    "ThinkBetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
     "ThinkBetter/Sources/Pasted Image 20260805082533_212.png",
     "ThinkBetter/Sources/Pasted Image 20260805082430_252.png",
     "ThinkBetter/Start Here.md",
-    "Thinkbetter/Excalidraw/Drawing 2026-08-05 08.21.27.excalidraw.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
     "ThinkBetter/Excalidraw/Drawing 2026-08-05 08.21.27.excalidraw.md",
     "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
@@ -252,7 +253,6 @@
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619133011.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
     "Thinkbetter/Excalidraw/Img/Pasted image 20250619132655.png",
-    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132351.png",
     "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
     "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
