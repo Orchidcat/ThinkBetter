@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
+                "file": "ThinkBetter/人纪/166 血证论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-04"
+              "title": "166 血证论"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "消渴",
+                "query": "耳鸣",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -151,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
+                "file": "ThinkBetter/人纪/166 血证论.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-08-04 的大纲"
+              "title": "166 血证论 的大纲"
             }
           }
         ],
@@ -203,10 +202,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "cda0367eda6a506a",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/Books/waste books.md",
+    "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
+    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
     "ThinkBetter/Start Here.md",
@@ -249,8 +250,6 @@
     "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
-    "ThinkBetter/Inbox/未命名 10.md",
-    "ThinkBetter/人纪/消渴.md",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
