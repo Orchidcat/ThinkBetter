@@ -37,7 +37,8 @@
               "title": "waste books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/166 血证论.md",
+                "file": "ThinkBetter/Books/waste books.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "166 血证论 的大纲"
+              "title": "waste books 的大纲"
             }
           }
         ],
@@ -202,8 +203,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "ae22b2af3a91fd39",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
@@ -247,7 +249,6 @@
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
     "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
-    "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
     "未命名.canvas",
