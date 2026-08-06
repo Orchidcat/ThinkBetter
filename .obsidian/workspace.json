@@ -36,6 +36,21 @@
               "icon": "lucide-file",
               "title": "waste books"
             }
+          },
+          {
+            "id": "d2fd401889d9a533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Books/how minds change.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "how minds change"
+            }
           }
         ],
         "currentTab": 1
@@ -206,11 +221,13 @@
   },
   "active": "ae22b2af3a91fd39",
   "lastOpenFiles": [
+    "ThinkBetter/Books/how minds change.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/脾胃论.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
-    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
     "ThinkBetter/Start Here.md",
@@ -248,8 +265,6 @@
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page",
     "未命名.canvas",
