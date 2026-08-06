@@ -52,8 +52,7 @@
               "title": "how minds change"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/waste books.md",
+                "file": "ThinkBetter/人纪/166 血证论.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "waste books 的大纲"
+              "title": "166 血证论 的大纲"
             }
           }
         ],
@@ -219,11 +218,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "ae22b2af3a91fd39",
+  "active": "cda0367eda6a506a",
   "lastOpenFiles": [
+    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/脾胃论.md",
