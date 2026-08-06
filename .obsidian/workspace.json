@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "ca11446993891863",
+            "id": "88d63091c0d58f05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,12 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-08-04 的大纲"
             }
           }
         ],
@@ -258,13 +259,13 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "ca11446993891863",
+  "active": "da7a3ad4035c9ed8",
   "lastOpenFiles": [
     "ThinkBetter/DailyNotes/2026-08-04.md",
-    "ThinkBetter/人纪/药/知母.md",
-    "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
+    "ThinkBetter/人纪/药/知母.md",
+    "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/人纪/消渴.md",
     "ThinkBetter/人纪/166 血证论.md",
     "ThinkBetter/Books/_ MOC - Books.md",
