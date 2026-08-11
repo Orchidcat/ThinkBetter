@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金匮肾气丸",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -259,7 +258,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "da7a3ad4035c9ed8",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/药/知母.md",
