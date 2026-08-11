@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/人纪/药/知母.md",
+                "file": "ThinkBetter/Books/waste books.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知母 的大纲"
+              "title": "waste books 的大纲"
             }
           }
         ],
@@ -259,12 +259,12 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "c69e865eecc3fb41",
+  "active": "6edac96c6e3a7d26",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/药/知母.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
-    "ThinkBetter/人纪/药/知母.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/人纪/消渴.md",
     "ThinkBetter/人纪/166 血证论.md",
