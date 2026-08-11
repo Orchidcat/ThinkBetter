@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/waste books.md",
+                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "waste books 的大纲"
+              "title": "2026-08-04 的大纲"
             }
           }
         ],
@@ -259,11 +259,11 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "6edac96c6e3a7d26",
+  "active": "da7a3ad4035c9ed8",
   "lastOpenFiles": [
+    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/药/知母.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
-    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/人纪/消渴.md",
