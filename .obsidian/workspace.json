@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ThinkBetter/Books/帝国政界往事 - 清朝.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "帝国政界往事 - 清朝 的大纲"
             }
           }
         ],
@@ -273,7 +274,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "e2fa4985669e7f21",
+  "active": "88d63091c0d58f05",
   "lastOpenFiles": [
     "ThinkBetter/Books/帝国政界往事 - 清朝.md",
     "ThinkBetter/Inbox/帝国.md",
