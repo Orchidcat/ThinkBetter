@@ -96,9 +96,19 @@
               "icon": "lucide-file",
               "title": "帝国政界往事 - 清朝"
             }
+          },
+          {
+            "id": "e2fa4985669e7f21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,13 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThinkBetter/Books/帝国政界往事 - 清朝.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "帝国政界往事 - 清朝 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -264,8 +273,9 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "88d63091c0d58f05",
+  "active": "e2fa4985669e7f21",
   "lastOpenFiles": [
+    "ThinkBetter/Books/帝国政界往事 - 清朝.md",
     "ThinkBetter/Inbox/帝国.md",
     "ThinkBetter/DailyNotes/2026-08-04.md",
     "ThinkBetter/Books/waste books.md",
@@ -306,7 +316,6 @@
     "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
-    "Thinkbetter/Excalidraw/对抗愚蠢.md",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Img",
