@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/sqlite MOC.md",
+                "file": "ThinkBetter/DailyNotes/2026-08-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sqlite MOC"
+              "title": "2026-08-04"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "书法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,8 +190,8 @@
   },
   "active": "b35c811ee9a66aef",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/sqlite MOC.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Books/skin in the game.md",
