@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/哲学与人生.md"
     },
     {
+      "basename": "洪范九畴",
+      "path": "洪范九畴.md"
+    },
+    {
       "basename": "沃伦·巴菲特",
       "path": "ThinkBetter/Inbox/沃伦·巴菲特.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "肺肾阴虚证",
       "path": "ThinkBetter/人纪/肺肾阴虚证.md"
-    },
-    {
-      "basename": "194 中医诊断学",
-      "path": "ThinkBetter/人纪/194 中医诊断学.md"
     }
   ],
   "omittedPaths": [],
