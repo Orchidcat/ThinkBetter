@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "哲学与人生"
             }
-          },
-          {
-            "id": "26c1531cded3dd3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +188,7 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "26c1531cded3dd3a",
+  "active": "29b0206ff0ad6d6c",
   "lastOpenFiles": [
     "ThinkBetter/Books/哲学与人生.md",
     "ThinkBetter/Start Here.md",
