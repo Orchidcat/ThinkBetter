@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "哲学与人生"
             }
+          },
+          {
+            "id": "26c1531cded3dd3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "巴菲特",
+                "query": "四物汤",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,10 +199,10 @@
       "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "29b0206ff0ad6d6c",
+  "active": "26c1531cded3dd3a",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/哲学与人生.md",
+    "ThinkBetter/Start Here.md",
     "洪范九畴.md",
     "ThinkBetter/Inbox/沃伦·巴菲特.md",
     "ThinkBetter/Inbox/事件timing.md",
