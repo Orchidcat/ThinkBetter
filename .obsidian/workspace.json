@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Inbox/事件timing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "事件timing"
             }
           }
         ]
@@ -185,13 +185,14 @@
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "daily-notes:打开/创建今天的日记": false,
-      "extract-highlights-plugin:Extract Highlights": false
+      "extract-highlights-plugin:Extract Highlights": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "3db47c40124969f8",
   "lastOpenFiles": [
-    "ThinkBetter/Books/哲学与人生.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/哲学与人生.md",
     "洪范九畴.md",
     "ThinkBetter/Inbox/沃伦·巴菲特.md",
     "ThinkBetter/Inbox/事件timing.md",
