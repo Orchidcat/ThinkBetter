@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f869a192fd640d",
+        "id": "81544f70b01abad3",
         "type": "tabs",
         "children": [
           {
-            "id": "3db47c40124969f8",
+            "id": "b0f785dba567aa59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/事件timing.md",
+                "file": "ThinkBetter/Start Here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "事件timing"
-            }
-          },
-          {
-            "id": "6868fc4edf90833a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/书法有法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "书法有法"
-            }
-          },
-          {
-            "id": "7eb9c0760c510f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/启功说.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "启功说"
-            }
-          },
-          {
-            "id": "454268da57e54580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Inbox/曹全碑.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "曹全碑"
+              "title": "Start Here"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "四物汤",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -235,10 +188,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "454268da57e54580",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/启功说.md",
     "ThinkBetter/Inbox/曹全碑.md",
+    "ThinkBetter/Inbox/启功说.md",
     "ThinkBetter/Inbox/书法有法.md",
     "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Start Here.md",
