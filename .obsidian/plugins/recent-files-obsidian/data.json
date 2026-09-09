@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "明朝那些事儿",
+      "path": "ThinkBetter/Books/明朝那些事儿.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
       "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
-    },
-    {
-      "basename": "108 湿热蕴脾证",
-      "path": "ThinkBetter/人纪/108 湿热蕴脾证.md"
     }
   ],
   "omittedPaths": [],
