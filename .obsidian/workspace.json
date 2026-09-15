@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/傅佩荣讲道德经.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "傅佩荣讲道德经"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "枣",
+                "query": "道德经",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -191,8 +190,8 @@
   },
   "active": "26bc302bc35741a6",
   "lastOpenFiles": [
-    "ThinkBetter/Books/明朝那些事儿.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Books/明朝那些事儿.md",
     "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/人纪/089 人纪 - 神农本草经.md",
     "ThinkBetter/人纪/193 中药学.md",
