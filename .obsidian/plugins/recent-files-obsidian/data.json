@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "傅佩荣讲道德经",
-      "path": "ThinkBetter/Books/傅佩荣讲道德经.md"
-    },
-    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "自行车几何学",
+      "path": "ThinkBetter/Hobbies/bike/自行车几何学.md"
+    },
+    {
+      "basename": "Bike MOC",
+      "path": "ThinkBetter/Hobbies/bike/Bike MOC.md"
+    },
+    {
+      "basename": "BB Height",
+      "path": "ThinkBetter/Hobbies/bike/BB Height.md"
+    },
+    {
+      "basename": "傅佩荣讲道德经",
+      "path": "ThinkBetter/Books/傅佩荣讲道德经.md"
     },
     {
       "basename": "明朝那些事儿",
@@ -187,18 +199,6 @@
     {
       "basename": "帝国政界往事 - 大明王朝",
       "path": "ThinkBetter/Books/帝国政界往事 - 大明王朝.md"
-    },
-    {
-      "basename": "聚集列存储索引 - 简介",
-      "path": "聚集列存储索引 - 简介.md"
-    },
-    {
-      "basename": "聚集列存储索引 - 内部原理",
-      "path": "聚集列存储索引 - 内部原理.md"
-    },
-    {
-      "basename": "SQL Server In-Memory OLTP Internals for SQL Server 2016",
-      "path": "ThinkBetter/Work/SQL Server In-Memory OLTP Internals for SQL Server 2016.md"
     }
   ],
   "omittedPaths": [],
