@@ -5,8 +5,28 @@
       "path": "ThinkBetter/人纪/折肱漫录.md"
     },
     {
+      "basename": "004 金匮要略",
+      "path": "ThinkBetter/人纪/004 金匮要略.md"
+    },
+    {
+      "basename": "089 人纪 - 神农本草经",
+      "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
+    },
+    {
+      "basename": "166 血证论",
+      "path": "ThinkBetter/人纪/166 血证论.md"
+    },
+    {
       "basename": "知己",
       "path": "ThinkBetter/Books/知己.md"
+    },
+    {
+      "basename": "046 固体剂型",
+      "path": "ThinkBetter/人纪/046 固体剂型.md"
+    },
+    {
+      "basename": "180 引经药",
+      "path": "ThinkBetter/人纪/180 引经药.md"
     },
     {
       "basename": "时病本气篇",
@@ -39,10 +59,6 @@
     {
       "basename": "明朝那些事儿",
       "path": "ThinkBetter/Books/明朝那些事儿.md"
-    },
-    {
-      "basename": "089 人纪 - 神农本草经",
-      "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
     },
     {
       "basename": "193 中药学",
@@ -137,10 +153,6 @@
       "path": "ThinkBetter/人纪/消渴.md"
     },
     {
-      "basename": "166 血证论",
-      "path": "ThinkBetter/人纪/166 血证论.md"
-    },
-    {
       "basename": "脾胃论",
       "path": "ThinkBetter/人纪/脾胃论.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "被讨厌的勇气",
       "path": "ThinkBetter/Books/被讨厌的勇气.md"
-    },
-    {
-      "basename": "胸痹",
-      "path": "ThinkBetter/Inbox/胸痹.md"
-    },
-    {
-      "basename": "无字碑-武则天的前世今生",
-      "path": "ThinkBetter/Books/无字碑-武则天的前世今生.md"
-    },
-    {
-      "basename": "帝国政界往事 - 大宋实录",
-      "path": "ThinkBetter/Books/帝国政界往事 - 大宋实录.md"
     }
   ],
   "omittedPaths": [],
