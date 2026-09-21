@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "30571e845fca0213",
+        "id": "701be25c2827e9fc",
         "type": "tabs",
         "children": [
           {
-            "id": "944a7d05a16f55b2",
+            "id": "4029811290053246",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ]
@@ -183,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "944a7d05a16f55b2",
+  "active": "4029811290053246",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Hobbies/bike/自行车几何学.md",
