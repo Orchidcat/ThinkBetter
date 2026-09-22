@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
+      "basename": "147 五味",
+      "path": "ThinkBetter/人纪/147 五味.md"
+    },
+    {
       "basename": "折肱漫录",
       "path": "ThinkBetter/人纪/折肱漫录.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "生命是什么",
       "path": "ThinkBetter/Books/生命是什么.md"
-    },
-    {
-      "basename": "被讨厌的勇气",
-      "path": "ThinkBetter/Books/被讨厌的勇气.md"
     }
   ],
   "omittedPaths": [],
