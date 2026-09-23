@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/六气.md",
+                "file": "ThinkBetter/Books/帝国政界往事 - 大明王朝.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "六气"
+              "title": "帝国政界往事 - 大明王朝"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "秋分",
+                "query": "万历",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,10 +190,10 @@
   },
   "active": "87f2004165bbcedf",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/时病本气篇.md",
     "ThinkBetter/人纪/温病本气篇.md",
     "ThinkBetter/Start Here.md",
-    "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/二十四节气.md",
     "ThinkBetter/人纪/002 黄帝内经.md",
     "ThinkBetter/人纪/147 五味.md",
