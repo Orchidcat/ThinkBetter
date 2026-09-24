@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "书法理论知识",
+      "path": "ThinkBetter/Inbox/书法理论知识.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何阅读的方法",
       "path": "ThinkBetter/Inbox/如何阅读的方法.md"
-    },
-    {
-      "basename": "笔记方法",
-      "path": "ThinkBetter/Inbox/笔记方法.md"
     }
   ],
   "omittedPaths": [],
