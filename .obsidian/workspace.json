@@ -81,9 +81,24 @@
               "icon": "lucide-file",
               "title": "九势"
             }
+          },
+          {
+            "id": "15a078c60b6eb8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/用笔论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "用笔论"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,10 +265,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "244ad028c5061358",
+  "active": "15a078c60b6eb8aa",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/笔论.md",
     "ThinkBetter/Inbox/九势.md",
+    "ThinkBetter/Inbox/用笔论.md",
+    "ThinkBetter/Inbox/笔论.md",
     "ThinkBetter/Inbox/用笔法.md",
     "ThinkBetter/Inbox/笔势论十二章.md",
     "ThinkBetter/Start Here.md",
@@ -277,7 +293,6 @@
     "ThinkBetter/Hobbies/bike/BB Height.md",
     "ThinkBetter/Books/傅佩荣讲道德经.md",
     "ThinkBetter/Books/明朝那些事儿.md",
-    "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/Sources/Pasted Image 20260805082533_212.png",
     "ThinkBetter/Sources/Pasted Image 20260805082430_252.png",
     "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
