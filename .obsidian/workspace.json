@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "观钟繇书法十二意"
             }
+          },
+          {
+            "id": "755d6f6934c4976c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/间架结构九十二法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "间架结构九十二法"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,10 +250,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26e1d82b533b641f",
+  "active": "755d6f6934c4976c",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/笔意赞.md",
     "ThinkBetter/Inbox/观钟繇书法十二意.md",
+    "ThinkBetter/Inbox/间架结构九十二法.md",
+    "ThinkBetter/Inbox/笔意赞.md",
     "ThinkBetter/Inbox/题卫夫人〈笔阵图〉后.md",
     "ThinkBetter/Inbox/笔阵图.md",
     "ThinkBetter/Inbox/用笔论.md",
@@ -262,7 +278,6 @@
     "ThinkBetter/人纪/046 固体剂型.md",
     "ThinkBetter/人纪/180 引经药.md",
     "ThinkBetter/人纪/补中益气汤.md",
-    "ThinkBetter/Hobbies/bike/自行车几何学.md",
     "ThinkBetter/Sources/Pasted Image 20260805082533_212.png",
     "ThinkBetter/Sources/Pasted Image 20260805082430_252.png",
     "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
