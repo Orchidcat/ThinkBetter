@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "776419130d00e778",
+        "id": "69a69e7f0214426d",
         "type": "tabs",
         "children": [
           {
-            "id": "95427996a21744d5",
+            "id": "892bd74f80ae9cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/人纪/补中益气汤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "补中益气汤"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "秋分",
+                "query": "补中",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -189,8 +188,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "95427996a21744d5",
+  "active": "892bd74f80ae9cdd",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/间架结构九十二法.md",
     "ThinkBetter/Inbox/题卫夫人〈笔阵图〉后.md",
     "ThinkBetter/人纪/二十四节气.md",
@@ -212,7 +212,6 @@
     "ThinkBetter/Inbox/笔论.md",
     "ThinkBetter/Inbox/用笔法.md",
     "ThinkBetter/Inbox/笔势论十二章.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/帝国政界往事 - 大明王朝.md",
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/时病本气篇.md",
