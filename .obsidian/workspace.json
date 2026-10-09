@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0216b4e46050b8",
+        "id": "06316be92bfe3fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "183d978dab8d7184",
+            "id": "b51d94f0279ae47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "新标签页"
             }
           }
         ]
@@ -188,12 +183,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0aeaf2584b194eb0",
+  "active": "b51d94f0279ae47a",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/补中益气汤.md",
     "ThinkBetter/人纪/石膏.md",
     "ThinkBetter/人纪/药/石膏.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/间架结构九十二法.md",
     "ThinkBetter/Inbox/题卫夫人〈笔阵图〉后.md",
     "ThinkBetter/人纪/二十四节气.md",
