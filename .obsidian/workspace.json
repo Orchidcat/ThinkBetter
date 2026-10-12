@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "06316be92bfe3fe7",
+        "id": "bcf3aaf02413d3cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b51d94f0279ae47a",
+            "id": "1e9bfe30db2c29dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ]
@@ -183,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b51d94f0279ae47a",
+  "active": "1e9bfe30db2c29dd",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/人纪/补中益气汤.md",
