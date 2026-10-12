@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "八苦",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -205,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6307c70704d01cf7",
+  "active": "0aeaf2584b194eb0",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/十二因缘.md",
