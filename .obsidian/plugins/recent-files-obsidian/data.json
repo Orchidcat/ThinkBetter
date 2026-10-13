@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "台湾四百年",
+      "path": "ThinkBetter/Inbox/台湾四百年.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "书法 MOC",
       "path": "书法 MOC.md"
-    },
-    {
-      "basename": "sqlite MOC",
-      "path": "ThinkBetter/Inbox/sqlite MOC.md"
     }
   ],
   "omittedPaths": [],
