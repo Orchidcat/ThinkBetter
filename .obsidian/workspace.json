@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d38c95da68e689d5",
+        "id": "24aca9dafe94ba3f",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbe2a93a035349d",
+            "id": "a5eeaf4f6cbae427",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/般若波罗蜜多心经.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "般若波罗蜜多心经"
             }
           }
         ]
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "坂本龙一",
+                "query": "般若",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,10 +189,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8fa281ebe85bc60",
+  "active": "a5eeaf4f6cbae427",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/事件timing.md",
+    "ThinkBetter/Inbox/般若波罗蜜多心经.md",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/人纪/医者的自修.md",
+    "ThinkBetter/Books/醒思录.md",
+    "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/Inbox/书谱.md",
     "ThinkBetter/Inbox/未命名 12.md",
     "ThinkBetter/Inbox/十二因缘.md",
@@ -219,9 +227,6 @@
     "ThinkBetter/人纪/六气.md",
     "ThinkBetter/人纪/时病本气篇.md",
     "ThinkBetter/人纪/温病本气篇.md",
-    "ThinkBetter/人纪/002 黄帝内经.md",
-    "ThinkBetter/人纪/147 五味.md",
-    "ThinkBetter/人纪/折肱漫录.md",
     "Thinkbetter/Excalidraw/Img/Possible Futures",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
