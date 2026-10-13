@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名 11",
-      "path": "ThinkBetter/Inbox/未命名 11.md"
+      "basename": "书谱",
+      "path": "ThinkBetter/Inbox/书谱.md"
+    },
+    {
+      "basename": "未命名 12",
+      "path": "ThinkBetter/Inbox/未命名 12.md"
     },
     {
       "basename": "Start Here",
@@ -195,10 +199,6 @@
     {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
-    },
-    {
-      "basename": "帝国",
-      "path": "ThinkBetter/Inbox/帝国.md"
     }
   ],
   "omittedPaths": [],
