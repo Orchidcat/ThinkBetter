@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Inbox/般若波罗蜜多心经.md"
     },
     {
+      "basename": "六度万行",
+      "path": "ThinkBetter/Inbox/六度万行.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sqlite MOC",
       "path": "ThinkBetter/Inbox/sqlite MOC.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
     }
   ],
   "omittedPaths": [],
