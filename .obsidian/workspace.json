@@ -36,6 +36,16 @@
               "icon": "lucide-file",
               "title": "2026-10-14"
             }
+          },
+          {
+            "id": "a66e801457663aee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
         "currentTab": 1
