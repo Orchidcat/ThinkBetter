@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "66bb37eb814219f5",
+        "id": "b30870f31a0ba93f",
         "type": "tabs",
         "children": [
           {
-            "id": "928bedbac265cbff",
+            "id": "30b8e24ba21746c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ]
@@ -187,7 +192,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "928bedbac265cbff",
+  "active": "30b8e24ba21746c3",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/哲学与人生.md",
