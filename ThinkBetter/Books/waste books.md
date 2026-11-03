@@ -9,7 +9,7 @@ Status:
 OrderInYear:
 StartDate:
 FinishedDate:
-Rating: 
+Rating: ⭐⭐⭐⭐
 ---
 
 

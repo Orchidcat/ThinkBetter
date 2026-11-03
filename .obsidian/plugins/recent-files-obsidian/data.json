@@ -13,6 +13,14 @@
       "path": "ThinkBetter/Start Here.md"
     },
     {
+      "basename": "系统思考",
+      "path": "ThinkBetter/Books/系统思考.md"
+    },
+    {
+      "basename": "waste books",
+      "path": "ThinkBetter/Books/waste books.md"
+    },
+    {
       "basename": "未命名 11",
       "path": "ThinkBetter/Inbox/未命名 11.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "从玄武门之变到贞观之治",
       "path": "ThinkBetter/Books/从玄武门之变到贞观之治.md"
-    },
-    {
-      "basename": "waste books",
-      "path": "ThinkBetter/Books/waste books.md"
     },
     {
       "basename": "中国历代政治得失",
@@ -195,10 +199,6 @@
     {
       "basename": "089 人纪 - 神农本草经",
       "path": "ThinkBetter/人纪/089 人纪 - 神农本草经.md"
-    },
-    {
-      "basename": "166 血证论",
-      "path": "ThinkBetter/人纪/166 血证论.md"
     }
   ],
   "omittedPaths": [],
