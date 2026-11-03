@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
-            }
-          },
-          {
-            "id": "76db7b36294ffed5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.15.0"
+              "title": "_ MOC - Books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.51103591918945,
-    "collapsed": true
+    "width": 207.51103591918945
   },
   "right": {
     "id": "cb3893d73d9e1ef7",
@@ -201,7 +187,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "76db7b36294ffed5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/未命名 11.md",
