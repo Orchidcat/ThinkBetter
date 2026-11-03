@@ -37,7 +37,8 @@
               "title": "waste books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,14 +204,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3021bfa1c01af271",
   "lastOpenFiles": [
+    "ThinkBetter/Books/写作法宝.md",
+    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
-    "ThinkBetter/Books/写作法宝.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/系统思考.md",
-    "ThinkBetter/Books/waste books.md",
     "ThinkBetter/Books/The Anxious Generation.md",
     "ThinkBetter/Books/Economics and Art.md",
     "ThinkBetter/Inbox/未命名 11.md",
