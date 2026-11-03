@@ -1,3 +1,20 @@
+---
+tags:
+  - book
+Cover:
+Type:
+Series:
+Author:
+Status:
+OrderInYear:
+StartDate:
+FinishedDate:
+Rating:
+---
+
+
+
+
 
 
 读那些理想中的自己（20年后）会引以为豪的书。
