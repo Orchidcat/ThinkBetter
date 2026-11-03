@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "3c81e665bcd75a0a",
+  "active": "3021bfa1c01af271",
   "lastOpenFiles": [
     "ThinkBetter/Books/写作法宝.md",
     "ThinkBetter/Inbox/写作.md",
