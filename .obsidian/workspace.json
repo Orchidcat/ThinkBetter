@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Start Here"
             }
+          },
+          {
+            "id": "76db7b36294ffed5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +189,7 @@
       "bases:新建数据库": false,
       "obsidian-map-view:Open map view": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "workbench-obsidian:Workbench": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -187,11 +198,10 @@
       "random-note:开始漫游笔记": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "extract-highlights-plugin:Extract Highlights": false
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "76db7b36294ffed5",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/未命名 11.md",
