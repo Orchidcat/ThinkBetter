@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2b9f407b7d4262",
+        "id": "21e361f26cada713",
         "type": "tabs",
         "children": [
           {
-            "id": "eceb0a21f38177b4",
+            "id": "65c448d9d7d88480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Books/Ego is the Enemy.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ego is the Enemy"
-            }
-          },
-          {
-            "id": "0bc8a227ef27b02e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "012 辨太阳病脉症并治法"
+              "title": "_ MOC - Books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "咖啡 胰腺",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,35 +188,35 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "0bc8a227ef27b02e",
+  "active": "65c448d9d7d88480",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/以赛亚·柏林 ：21世纪的献词.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "费德勒演讲.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Inbox/写作.md",
+    "ThinkBetter/Inbox/反直觉.md",
+    "ThinkBetter/Distill/一句话的玩味.md",
+    "ThinkBetter/人纪/一张有趣的图.md",
+    "ThinkBetter/Work/SQL Server TOC.md",
+    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
+    "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md",
+    "ThinkBetter/Books/Ego is the Enemy.md",
+    "ThinkBetter/人纪/012 辨太阳病脉症并治法.md",
     "ThinkBetter/DailyNotes/2025-08-07.md",
     "ThinkBetter/Books/Seeking wisdom.md",
     "ThinkBetter/Inbox/蒙田随笔集.md",
-    "ThinkBetter/Books/Ego is the Enemy.md",
     "ThinkBetter/Books/不在乎的艺术.md",
-    "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/Books/waste books.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Books/option B.md",
     "ThinkBetter/Books/局外人.md",
     "ThinkBetter/Books/写作法宝.md",
     "ThinkBetter/Inbox/分心.md",
     "ThinkBetter/人纪/195 子午流注.md",
     "ThinkBetter/Books/我还能看到多少次满月升起.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/系统思考.md",
     "ThinkBetter/Books/The Anxious Generation.md",
-    "ThinkBetter/Books/Economics and Art.md",
-    "ThinkBetter/Inbox/未命名 11.md",
-    "ThinkBetter/Books/思考的整理学.md",
-    "ThinkBetter/DailyNotes/2026-11-02.md",
-    "ThinkBetter/Inbox/2026-10-22.md",
     "ThinkBetter/Sources/Pasted image 20261022153937.png",
-    "ThinkBetter/人纪/162 胸痹心痛短气病脉症并治第九.md",
-    "ThinkBetter/人纪/足阳明胃经.md",
-    "ThinkBetter/Books/无字碑-武则天的前世今生.md",
-    "ThinkBetter/Books/why we sleep.md",
     "ThinkBetter/Sources/Pasted image 20261013131911.png",
     "ThinkBetter/Sources/Pasted image 20260924132008.png",
     "ThinkBetter/Sources/Pasted image 20260924131958.png",
