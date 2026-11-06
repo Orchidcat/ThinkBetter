@@ -5,6 +5,10 @@
       "path": "ThinkBetter/Books/选择的悖论.md"
     },
     {
+      "basename": "阅读的建议",
+      "path": "ThinkBetter/Inbox/阅读的建议.md"
+    },
+    {
       "basename": "2026-11-06",
       "path": "ThinkBetter/DailyNotes/2026-11-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "观钟繇书法十二意",
       "path": "ThinkBetter/Inbox/观钟繇书法十二意.md"
-    },
-    {
-      "basename": "笔意赞",
-      "path": "ThinkBetter/Inbox/笔意赞.md"
     }
   ],
   "omittedPaths": [],
