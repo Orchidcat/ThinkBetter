@@ -11,13 +11,15 @@
             "id": "2337a68255c95661",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Inbox/未命名 2.base",
-                "viewName": "视图"
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 2"
+              "icon": "lucide-file",
+              "title": "_ MOC - Books"
             }
           }
         ]
@@ -187,8 +189,8 @@
   },
   "active": "2337a68255c95661",
   "lastOpenFiles": [
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/未命名 2.base",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/未命名 1.base",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/DailyNotes/2026-11-09.md",
