@@ -56,10 +56,15 @@
             "id": "eaac9d52abbea7b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ],
