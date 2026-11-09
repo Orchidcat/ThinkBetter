@@ -11,15 +11,13 @@
             "id": "2337a68255c95661",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ThinkBetter/Inbox/未命名 2.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "Start Here"
+              "icon": "lucide-table",
+              "title": "未命名 2"
             }
           }
         ]
@@ -189,8 +187,9 @@
   },
   "active": "2337a68255c95661",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/未命名 1.base",
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/Inbox/未命名 2.base",
+    "ThinkBetter/Inbox/未命名 1.base",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/DailyNotes/2026-11-09.md",
     "ThinkBetter/Inbox/未命名.base",
@@ -233,7 +232,6 @@
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Library",
     "Thinkbetter/Excalidraw/example",
-    "Thinkbetter/Excalidraw/Img",
     "未命名.canvas",
     "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
     "ThinkBetter/人体流转.canvas",
