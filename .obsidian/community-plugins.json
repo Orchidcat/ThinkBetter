@@ -1,13 +1,9 @@
 [
   "calendar",
   "obsidian-zoom",
-  "note-refactor-obsidian",
-  "sliding-panes-obsidian",
   "better-word-count",
-  "obsidian-icons-plugin",
   "recent-files-obsidian",
   "auto-note-mover",
-  "cm-editor-syntax-highlight-obsidian",
   "editor-width-slider",
   "workbench-obsidian",
   "obsidian-snippet-downloader",
@@ -18,7 +14,6 @@
   "tag-wrangler",
   "obsidian-minimal-settings",
   "obsidian-outliner",
-  "obsidian-mind-map",
   "obsidian-style-settings",
   "obsidian-auto-link-title",
   "obsidian-tasks-plugin",
@@ -38,7 +33,9 @@
   "obsidian-admonition",
   "obsidian-hover-editor",
   "highlightr-plugin",
-  "extract-highlights-plugin",
   "text-brush",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "templater-obsidian",
+  "cm-code-editor",
+  "excalibrain"
 ]
