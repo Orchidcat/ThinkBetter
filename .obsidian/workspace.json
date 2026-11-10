@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe16e945aa6ad87",
+        "id": "2f097f4d8354a942",
         "type": "tabs",
         "children": [
           {
-            "id": "2337a68255c95661",
+            "id": "b783717e2b3a80aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
+                "file": "ThinkBetter/DailyNotes/2024-04-30.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "2024-04-30"
             }
           }
         ]
@@ -173,7 +173,6 @@
     "hiddenItems": {
       "templater-obsidian:Templater": false,
       "bases:新建数据库": false,
-      "obsidian-map-view:Open map view": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -186,9 +185,21 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2337a68255c95661",
+  "active": "b783717e2b3a80aa",
   "lastOpenFiles": [
     "ThinkBetter/Start Here.md",
+    "ThinkBetter/DailyNotes/2024-04-30.md",
+    "ThinkBetter/DailyNotes/2022-06-23.md",
+    "ThinkBetter/DailyNotes/2025-08-11.md",
+    "ThinkBetter/DailyNotes/2025-08-07.md",
+    "ThinkBetter/DailyNotes/2026-03-17.md",
+    "ThinkBetter/DailyNotes/2026-03-23.md",
+    "ThinkBetter/DailyNotes/2026-03-10.md",
+    "ThinkBetter/DailyNotes/2026-03-03.md",
+    "ThinkBetter/DailyNotes/2026-10-15.md",
+    "ThinkBetter/DailyNotes/2026-11-02.md",
+    "ThinkBetter/DailyNotes/2026-11-06.md",
+    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
     "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/Inbox/OB插件.md",
     "ThinkBetter/人纪/一张有趣的图.md",
@@ -201,24 +212,12 @@
     "ThinkBetter/Inbox/未命名.base",
     "ThinkBetter/Books/how minds change.md",
     "ThinkBetter/DailyNotes/2026-07-02.md",
-    "ThinkBetter/DailyNotes/2026-11-06.md",
     "ThinkBetter/Inbox/how minds change - NT.md",
     "ThinkBetter/Inbox/动物农庄.md",
-    "ThinkBetter/DailyNotes/2022-06-23.md",
     "ThinkBetter/人纪/白术.md",
     "ThinkBetter/Inbox/我们是如何衡量学会没有的.md",
     "ThinkBetter/人纪/胃痛.md",
     "ThinkBetter/人纪/督脉.md",
-    "ThinkBetter/人纪/少阴病证.md",
-    "ThinkBetter/人纪/092 濡脉.md",
-    "ThinkBetter/Inbox/正念.md",
-    "ThinkBetter/Inbox/如何训练模型的整体步骤.md",
-    "ThinkBetter/人纪/临床应用伤寒论解说.md",
-    "ThinkBetter/人纪/060 煎汤代水.md",
-    "ThinkBetter/Inbox/神经科学教给我的9个好用小技巧.md",
-    "ThinkBetter/Books/truning pro.md",
-    "ThinkBetter/Books/选择的悖论.md",
-    "ThinkBetter/Inbox/David Foster Wallace — The Truth With A Whole Lot Of Rhetorical Bullshit Pared Away;.md",
     "ThinkBetter/Sources/Pasted image 20261022153937.png",
     "ThinkBetter/Sources/Pasted image 20261013131911.png",
     "ThinkBetter/Sources/Pasted image 20260924132008.png",
