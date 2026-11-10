@@ -1,0 +1,259 @@
+/* ==========================================
+   MARGINALIUS: ADAPTIVE MARGINALIA PLUGIN
+   ========================================== */
+
+/* ==========================================
+   INLINE SYNTAX:  %%> left %%   and   %%< right %%
+
+   Each note is a <span class="marginalia"> with a `.marginalia-content` body,
+   drawn at the start of its marker's line (editor) or block (Reading view).
+   While it fits, it is positioned absolutely beside the column and centered
+   on its block; otherwise it is a floated box in the text (see placement.ts).
+
+   No !important: the box rules use `.marginalia.marginalia-left/right` and the
+   margin note rules `.is-readable-line-width .marginalia:not(...)`, so the
+   margin note wins over the box by specificity.
+   ========================================== */
+
+/* Registered so it computes to px (an "em" value too), which placement.ts reads. */
+@property --marginalius-pane-gap {
+    syntax: "<length>";
+    inherits: true;
+    initial-value: 30px;
+}
+
+.marginalia {
+    box-sizing: border-box;
+    position: relative;
+    z-index: 10;
+}
+
+/*
+   Word integrity: never split a normal word; only break tokens longer than the
+   whole line.
+
+   Why target every descendant: in Live Preview the text inside a `.marginalia`
+   widget is rendered into CodeMirror's own elements (`.cm-content` / `.cm-line`)
+   which inherit CodeMirror's `overflow-wrap: anywhere`. We override with
+   `break-word` (only breaks tokens longer than the full line) on every element.
+*/
+.marginalia,
+.marginalia * {
+    word-break: normal;
+    overflow-wrap: break-word;
+    white-space: normal;
+    line-break: auto;
+    hyphens: none;
+    -webkit-hyphens: none;
+}
+
+/*
+   Stop the inner text containers from shrinking to their min-content width.
+   `overflow-wrap: anywhere` makes a word's min-content width one character wide,
+   which (in a float/flex context) can collapse the column and force per-character
+   wrapping. Forcing the containers to fill the fixed-width box keeps lines wrapping
+   on word boundaries.
+*/
+.marginalia .marginalia-content {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    min-width: 0;
+    /* 13px at the default 16px text size, following the Font size setting.
+       From --font-text-size, not em, so a note on a heading stays small. Set
+       here, not on .marginalia, whose `lh` must stay its block's line. */
+    font-size: calc(var(--font-text-size, 16px) * 0.8125);
+    line-height: 1.4;
+}
+
+.marginalia .marginalia-content p {
+    margin: 0 0 6px 0;
+    padding: 0;
+    line-height: inherit;
+    color: inherit;
+}
+
+.marginalia .marginalia-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Let the floated note escape the editor line so it can sit in the gutter. */
+.markdown-source-view .cm-line.marginalia-line,
+.markdown-source-view.mod-cm6 .cm-content.marginalia-has-notes {
+    overflow: visible;
+}
+
+/* ----- Box in the text (default) -----
+   Used when the note does not fit in the margin, or "Readable line length"
+   is off. The outer margin is negative by the free space beside the column
+   (--marginalius-room-*, set by placement.ts), so a box that just stopped
+   fitting stays where the margin note was and slides into the text as the
+   pane narrows. `clear` stacks boxes on the same side instead of overlapping. */
+
+.marginalia.marginalia-left {
+    float: left;
+    clear: left;
+    /* Reach back over any indent of the note's block too (list items). */
+    margin: 0 var(--marginalius-margin, 20px) 8px
+        calc(-1 * (var(--marginalius-room-left, 0px) + var(--marginalius-box-indent, 0px)));
+}
+
+.marginalia.marginalia-right {
+    float: right;
+    clear: right;
+    margin: 0 calc(-1 * var(--marginalius-room-right, 0px)) 8px var(--marginalius-margin, 20px);
+}
+
+/* Liquid glass box: an even translucent tint with backdrop blur, a bright rim
+   that fades from the top-left (::before, a 1px gradient ring cut out with a
+   mask), a thin top highlight and a lifted shadow. No sheen across the body:
+   it was distracting. Nothing sits behind a box (text wraps around it), so the
+   look comes from light on the glass, not from refraction. */
+body {
+    --marginalius-glass-light: 255 255 255;
+    --marginalius-glass-shade: 0 0 0;
+    --marginalius-glass-light-strength: 1;
+    --marginalius-glass-shadow-strength: 1;
+    --marginalius-glass-edge: transparent;
+}
+
+/* On a light background a white rim vanishes; a hairline keeps the edge. */
+body.theme-light {
+    --marginalius-glass-light-strength: 0.9;
+    --marginalius-glass-shadow-strength: 0.45;
+    --marginalius-glass-edge: rgb(0 0 0 / 0.06);
+}
+
+.marginalia.marginalia-left,
+.marginalia.marginalia-right {
+    /* Shrinks to fit short notes; long ones wrap at the configured width. */
+    width: auto;
+    max-width: min(var(--marginalius-intrusive-width, 200px), 45%);
+    text-align: left;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 16px;
+    color: var(--text-normal, #e0e0e0);
+    background: color-mix(in oklab, var(--background-secondary, #2a2a2a) 62%, transparent);
+    backdrop-filter: blur(14px) saturate(170%);
+    box-shadow:
+        inset 0 0 0 1px var(--marginalius-glass-edge),
+        inset 0 1px 0 rgb(var(--marginalius-glass-light) / calc(0.28 * var(--marginalius-glass-light-strength))),
+        inset 0 -1px 0 rgb(var(--marginalius-glass-shade) / calc(0.22 * var(--marginalius-glass-shadow-strength))),
+        0 10px 30px -8px rgb(var(--marginalius-glass-shade) / calc(0.55 * var(--marginalius-glass-shadow-strength))),
+        0 2px 6px rgb(var(--marginalius-glass-shade) / calc(0.25 * var(--marginalius-glass-shadow-strength)));
+    /* Padding eases between the margin note and the box, so the text inside
+       does not jump by the difference when a note switches. */
+    transition: padding 150ms, border-radius 150ms, box-shadow 150ms;
+}
+
+.marginalia.marginalia-left::before,
+.marginalia.marginalia-right::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 1px;
+    border-radius: inherit;
+    pointer-events: none;
+    background: linear-gradient(135deg,
+        rgb(var(--marginalius-glass-light) / calc(0.55 * var(--marginalius-glass-light-strength))),
+        rgb(var(--marginalius-glass-light) / 0.08) 30%,
+        rgb(var(--marginalius-glass-light) / 0) 55%,
+        rgb(var(--marginalius-glass-light) / calc(0.18 * var(--marginalius-glass-light-strength))) 100%);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+}
+
+/* Keep the text above the rim layer. */
+.marginalia > .marginalia-content {
+    position: relative;
+    z-index: 1;
+}
+
+/* Reduce transparency / increase contrast (system settings): a solid box. */
+@media (prefers-reduced-transparency: reduce), (prefers-contrast: more) {
+    .marginalia.marginalia-left,
+    .marginalia.marginalia-right {
+        background: var(--background-secondary, #2a2a2a);
+        backdrop-filter: none;
+        box-shadow: inset 0 0 0 1px var(--background-modifier-border, rgb(128 128 128 / 0.5));
+    }
+
+    .marginalia.marginalia-left::before,
+    .marginalia.marginalia-right::before {
+        content: none;
+    }
+}
+
+/* ----- Margin note (Cornell layout) -----
+   While the note fits beside the column (placement.ts adds
+   .marginalia-intrudes when it does not), it is taken out of the text flow
+   and centered on the height of its block: the editor line, the list item or
+   the paragraph. A one-line block keeps the note on that line.
+   shortcut: two notes on the same side of one block overlap; stack them if
+   that becomes common. */
+
+.is-readable-line-width .marginalia:not(.marginalia-intrudes) {
+    /* Extra separation from the body text; Reading view raises it below. */
+    --marginalius-edge: 0px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    float: none;
+    clear: none;
+    margin: 0;
+    width: max-content;
+    max-width: var(--marginalius-width, 200px);
+    background: transparent;
+    backdrop-filter: none;
+    box-shadow: none;
+    border-radius: 0;
+    color: var(--text-muted, #888888);
+}
+
+.is-readable-line-width .marginalia:not(.marginalia-intrudes)::before {
+    content: none;
+}
+
+.is-readable-line-width .marginalia-left:not(.marginalia-intrudes) {
+    /* Reading view list items are indented inside the column; placement.ts
+       measures that indent into --marginalius-list-indent. */
+    right: calc(
+        100% + var(--marginalius-margin, 20px) + var(--marginalius-edge)
+        + var(--marginalius-list-indent, 0px)
+    );
+    padding: 0 12px 0 0;
+    border-right: 2px solid var(--border-color, var(--color-base-30, rgba(128, 128, 128, 0.4)));
+    text-align: right;
+}
+
+.is-readable-line-width .marginalia-right:not(.marginalia-intrudes) {
+    left: calc(100% + var(--marginalius-margin, 20px) + var(--marginalius-edge));
+    padding: 0 0 0 12px;
+    border-left: 2px solid var(--border-color, var(--color-base-30, rgba(128, 128, 128, 0.4)));
+    text-align: left;
+}
+
+/* A list item with a nested list: center on its own first line, not on the
+   whole item including the nested list. */
+.is-readable-line-width .marginalia-on-sublist:not(.marginalia-intrudes) {
+    top: 0.5lh;
+}
+
+/* A Reading view block that held only the rest of a note crossing a blank line. */
+.markdown-preview-section > .marginalia-hidden {
+    display: none;
+}
+
+/* Editor lines and list items are already positioned; paragraphs are not. */
+.markdown-preview-section > .marginalia-anchor {
+    position: relative;
+}
+
+/* Reading view renders the body text slightly closer to the gutter than the
+   editor does, so the notes can graze the text. Add a little extra
+   separation here only; the editor (Live Preview) is left untouched. */
+.markdown-reading-view .is-readable-line-width .marginalia:not(.marginalia-intrudes) {
+    --marginalius-edge: 12px;
+}
