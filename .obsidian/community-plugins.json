@@ -10,7 +10,6 @@
   "obsidian-enhancing-mindmap",
   "obsidian-git",
   "smart-random-note",
-  "dataview",
   "tag-wrangler",
   "obsidian-minimal-settings",
   "obsidian-outliner",
@@ -37,5 +36,6 @@
   "obsidian-emoji-toolbar",
   "templater-obsidian",
   "cm-code-editor",
-  "excalibrain"
+  "excalibrain",
+  "dataview"
 ]
