@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Template - 日记",
+      "path": "ThinkBetter/Templates/Template - 日记.md"
+    },
+    {
+      "basename": "Template - 日记 - week - summary",
+      "path": "ThinkBetter/Templates/Template - 日记 - week - summary.md"
+    },
+    {
+      "basename": "Template - 心智模型",
+      "path": "ThinkBetter/Templates/Template - 心智模型.md"
+    },
+    {
+      "basename": "Template - 读书",
+      "path": "ThinkBetter/Templates/Template - 读书.md"
+    },
+    {
       "basename": "神经科学教给我的9个好用小技巧",
       "path": "ThinkBetter/Inbox/神经科学教给我的9个好用小技巧.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Seeking wisdom",
       "path": "ThinkBetter/Books/Seeking wisdom.md"
-    },
-    {
-      "basename": "蒙田随笔集",
-      "path": "ThinkBetter/Inbox/蒙田随笔集.md"
-    },
-    {
-      "basename": "不在乎的艺术",
-      "path": "ThinkBetter/Books/不在乎的艺术.md"
-    },
-    {
-      "basename": "写作",
-      "path": "ThinkBetter/Inbox/写作.md"
-    },
-    {
-      "basename": "waste books",
-      "path": "ThinkBetter/Books/waste books.md"
     }
   ],
   "omittedPaths": [],
