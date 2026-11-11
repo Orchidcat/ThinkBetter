@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "数学的六要素",
+      "path": "ThinkBetter/Inbox/数学的六要素.md"
+    },
+    {
+      "basename": "_ MOC - Books",
+      "path": "ThinkBetter/Books/_ MOC - Books.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "The Rape of Nanking - The Forgotten Holocaust of World War II",
+      "path": "ThinkBetter/Books/The Rape of Nanking - The Forgotten Holocaust of World War II.md"
     },
     {
       "basename": "Tasks",
@@ -11,14 +23,6 @@
     {
       "basename": "未命名 13",
       "path": "ThinkBetter/Inbox/未命名 13.md"
-    },
-    {
-      "basename": "_ MOC - Books",
-      "path": "ThinkBetter/Books/_ MOC - Books.md"
-    },
-    {
-      "basename": "数学的六要素",
-      "path": "ThinkBetter/Inbox/数学的六要素.md"
     },
     {
       "basename": "Template - 日记",
@@ -195,10 +199,6 @@
     {
       "basename": "心智模型 TOC",
       "path": "ThinkBetter/Books/100种心智模型/心智模型 TOC.md"
-    },
-    {
-      "basename": "_MOC - 100种心智模型",
-      "path": "ThinkBetter/Books/100种心智模型/_MOC - 100种心智模型.md"
     }
   ],
   "omittedPaths": [],
