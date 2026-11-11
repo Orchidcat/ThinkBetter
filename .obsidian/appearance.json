@@ -1,14 +1,12 @@
 {
-  "cssTheme": "Things",
-  "theme": "obsidian",
+  "cssTheme": "",
+  "theme": "moonstone",
   "accentColor": "",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "MCL Multi Column",
     "MCL Gallery Cards",
-    "MCL Wide Views",
-    "snippet",
-    "sidenote-callout"
+    "MCL Wide Views"
   ],
   "baseFontSizeAction": true,
   "textFontFamily": "霞鹜文楷",

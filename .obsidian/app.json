@@ -15,5 +15,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "openBehavior": "file:ThinkBetter/Start Here.md"
+  "openBehavior": "file:ThinkBetter/Start Here.md",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "tabSize": 4,
+  "autoConvertHtml": false
 }
