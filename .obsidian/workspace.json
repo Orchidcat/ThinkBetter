@@ -117,8 +117,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -140,8 +140,7 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "1fe2940b57c34f8a",
