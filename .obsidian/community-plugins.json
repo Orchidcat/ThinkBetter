@@ -34,9 +34,10 @@
   "text-brush",
   "obsidian-emoji-toolbar",
   "cm-code-editor",
-  "excalibrain",
   "dataview",
   "templater-obsidian",
   "marginalius",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "obsidian-divide-and-conquer",
+  "excalibrain"
 ]

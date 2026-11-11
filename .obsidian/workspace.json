@@ -130,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -143,9 +144,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1fe2940b57c34f8a",
+  "active": "269619a6a3cc84d3",
   "lastOpenFiles": [
-    "ThinkBetter/Inbox/未命名 13.md",
-    "ThinkBetter/Start Here.md"
+    "ThinkBetter/Tasks.md",
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Inbox/未命名 13.md"
   ]
 }
