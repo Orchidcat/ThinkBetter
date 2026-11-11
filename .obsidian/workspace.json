@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/Books/_ MOC - Books.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_ MOC - Books"
+            }
+          },
+          {
+            "id": "7bd64fecf9634777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Inbox/数学的六要素.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "数学的六要素"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +50,6 @@
       {
         "id": "7d3007558984a09d",
         "type": "tabs",
-        "dimension": 40.24144869215292,
         "children": [
           {
             "id": "c6f982b1d437b289",
@@ -76,28 +91,6 @@
               "state": {},
               "icon": "clock",
               "title": "Recent files"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee40cd9271c8503a",
-        "type": "tabs",
-        "dimension": 59.758551307847085,
-        "children": [
-          {
-            "id": "c8fa281ebe85bc60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThinkBetter/Start Here.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Start Here"
             }
           }
         ]
@@ -185,15 +178,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b783717e2b3a80aa",
+  "active": "7bd64fecf9634777",
   "lastOpenFiles": [
+    "ThinkBetter/Inbox/数学的六要素.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Start Here.md",
     "ThinkBetter/Templates/Template - 日记 - week - summary.md",
     "ThinkBetter/Templates/Template - 心智模型.md",
     "ThinkBetter/Templates/Template - 读书.md",
     "ThinkBetter/Inbox/神经科学教给我的9个好用小技巧.md",
     "ThinkBetter/Books/how minds change.md",
-    "ThinkBetter/Start Here.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
     "ThinkBetter/DailyNotes/2024-04-30.md",
     "ThinkBetter/DailyNotes/2022-06-23.md",
     "ThinkBetter/DailyNotes/2025-08-11.md",
@@ -217,7 +211,6 @@
     "ThinkBetter/Inbox/未命名.base",
     "ThinkBetter/DailyNotes/2026-07-02.md",
     "ThinkBetter/Inbox/how minds change - NT.md",
-    "ThinkBetter/Inbox/动物农庄.md",
     "ThinkBetter/Sources/Pasted image 20261022153937.png",
     "ThinkBetter/Sources/Pasted image 20261013131911.png",
     "ThinkBetter/Sources/Pasted image 20260924132008.png",
