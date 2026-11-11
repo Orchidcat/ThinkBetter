@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "faac10711cd5c7d5",
     "type": "split",
     "children": [
       {
-        "id": "145bfa3e9d5fe28f",
+        "id": "5d07701df0d63939",
         "type": "tabs",
         "children": [
           {
-            "id": "08801fa48d5ade9a",
+            "id": "1fe2940b57c34f8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ThinkBetter/Start Here.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Start Here"
             }
           }
         ]
@@ -23,20 +28,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d22485fde1ea57e9",
+    "id": "262a08ac6c58cd88",
     "type": "split",
     "children": [
       {
-        "id": "7d3007558984a09d",
+        "id": "897b4ec9a95fdaec",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f982b1d437b289",
+            "id": "269619a6a3cc84d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -46,56 +51,45 @@
             }
           },
           {
-            "id": "0aeaf2584b194eb0",
+            "id": "7f2afe5921d40e4d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "神经科学",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "搜索"
-            }
-          },
-          {
-            "id": "884acab7f7bdeb02",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.98219680786133
+    "width": 300
   },
   "right": {
-    "id": "cb3893d73d9e1ef7",
+    "id": "2d2416ff74756deb",
     "type": "split",
     "children": [
       {
-        "id": "1e66276f901512ea",
+        "id": "9f3587ef50b27d53",
         "type": "tabs",
-        "dimension": 55.24568393094289,
         "children": [
           {
-            "id": "dd3ca0fc6cd1a6d5",
+            "id": "0876f27d17689681",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -103,29 +97,22 @@
             }
           },
           {
-            "id": "30633cfaad614b9c",
+            "id": "5242278fdb81feb1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": true,
+                "file": "ThinkBetter/Start Here.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "大纲"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "83c28014ce7b654a",
-        "type": "tabs",
-        "dimension": 44.754316069057104,
-        "children": [
+          },
           {
-            "id": "d3367a810dcb05d3",
+            "id": "beb334a50c4d3fd0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,77 +125,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": true,
       "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "daily-notes:打开/创建今天的日记": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c6f982b1d437b289",
+  "active": "1fe2940b57c34f8a",
   "lastOpenFiles": [
-    "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Start Here.md",
-    "ThinkBetter/Inbox/数学的六要素.md",
-    "ThinkBetter/Templates/Template - 日记 - week - summary.md",
-    "ThinkBetter/Templates/Template - 心智模型.md",
-    "ThinkBetter/Templates/Template - 读书.md",
-    "ThinkBetter/Inbox/神经科学教给我的9个好用小技巧.md",
-    "ThinkBetter/Books/how minds change.md",
-    "ThinkBetter/DailyNotes/2024-04-30.md",
-    "ThinkBetter/DailyNotes/2022-06-23.md",
-    "ThinkBetter/DailyNotes/2025-08-11.md",
-    "ThinkBetter/DailyNotes/2025-08-07.md",
-    "ThinkBetter/DailyNotes/2026-03-17.md",
-    "ThinkBetter/DailyNotes/2026-03-23.md",
-    "ThinkBetter/DailyNotes/2026-03-10.md",
-    "ThinkBetter/DailyNotes/2026-03-03.md",
-    "ThinkBetter/DailyNotes/2026-10-15.md",
-    "ThinkBetter/DailyNotes/2026-11-02.md",
-    "ThinkBetter/DailyNotes/2026-11-06.md",
-    "ThinkBetter/DailyNotes/weekNotes/未命名.md",
-    "ThinkBetter/Inbox/OB插件.md",
-    "ThinkBetter/人纪/一张有趣的图.md",
-    "ThinkBetter/Inbox/未命名 4.base",
-    "ThinkBetter/Inbox/反直觉.md",
-    "ThinkBetter/Inbox/未命名 3.base",
-    "ThinkBetter/DailyNotes/2026-11-09.md",
-    "ThinkBetter/Inbox/未命名 2.base",
-    "ThinkBetter/Inbox/未命名 1.base",
-    "ThinkBetter/Inbox/未命名.base",
-    "ThinkBetter/DailyNotes/2026-07-02.md",
-    "ThinkBetter/Inbox/how minds change - NT.md",
-    "ThinkBetter/Sources/Pasted image 20261022153937.png",
-    "ThinkBetter/Sources/Pasted image 20261013131911.png",
-    "ThinkBetter/Sources/Pasted image 20260924132008.png",
-    "ThinkBetter/Sources/Pasted image 20260924131958.png",
-    "ThinkBetter/Sources/Pasted image 20260924131946.png",
-    "ThinkBetter/Sources/Pasted image 20260924131931.png",
-    "ThinkBetter/Sources/Pasted image 20260924131830.png",
-    "ThinkBetter/Sources/Pasted image 20260924131816.png",
-    "ThinkBetter/Sources/Pasted image 20260924131802.png",
-    "ThinkBetter/Sources/Pasted image 20260924131711.png",
-    "Thinkbetter/Excalidraw/Img/Possible Futures",
-    "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
-    "未命名.canvas",
-    "ThinkBetter/人纪/000 @ 人纪 - Map.canvas",
-    "ThinkBetter/人体流转.canvas",
-    "ThinkBetter/new Canvas.canvas",
-    "ThinkBetter/Map.canvas"
+    "ThinkBetter/Inbox/未命名 13.md",
+    "ThinkBetter/Start Here.md"
   ]
 }
