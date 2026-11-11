@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "八万四千问",
+      "path": "ThinkBetter/Books/八万四千问.md"
+    },
+    {
       "basename": "_ MOC - Books",
       "path": "ThinkBetter/Books/_ MOC - Books.md"
     },
     {
-      "basename": "哲学与人生",
-      "path": "ThinkBetter/Books/哲学与人生.md"
-    },
-    {
       "basename": "turning pro",
       "path": "ThinkBetter/Books/turning pro.md"
+    },
+    {
+      "basename": "哲学与人生",
+      "path": "ThinkBetter/Books/哲学与人生.md"
     },
     {
       "basename": "数学的六要素",
@@ -195,10 +199,6 @@
     {
       "basename": "事件timing",
       "path": "ThinkBetter/Inbox/事件timing.md"
-    },
-    {
-      "basename": "反直觉",
-      "path": "ThinkBetter/Inbox/反直觉.md"
     }
   ],
   "omittedPaths": [],
