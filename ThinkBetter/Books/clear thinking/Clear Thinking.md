@@ -153,7 +153,7 @@ The most successful people have the **highest standards**, not only for others b
 
 盲点：我们的**感知能力**是在进化过程中，为了适应环境生存下来而产生的。他们**并不足够的精确**
 
-知道偏见和盲点并不足够。还需要去管理它们。[[一句话的玩味#^cb675b]]
+[[一句话的玩味#^cb675b]]
 
 %%<知道偏见和盲点并不足够。还需要去管理它们%%
 
@@ -199,7 +199,7 @@ If the only tool you have is a hammer, you tend to see every problem as a nail�
 拥有尽量丰富的工具盒，将会提供给你更好的选择。
 
 #### Define the problem
-只有对结果负责的人，才能定义问题。
+%%<只有对结果负责的人，才能定义问题。%%
 定义问题首先要确定两件事:  (1)你想达到什么目标;(2)实现目标的道路上有什么障碍。
 
 一旦有人提出了一个问题，团队就会进入“解决方案”模式，而不考虑问题是否已经被正确定义。
