@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clear Thinking",
+      "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "选择的悖论",
       "path": "ThinkBetter/Books/选择的悖论.md"
-    },
-    {
-      "basename": "阅读的建议",
-      "path": "ThinkBetter/Inbox/阅读的建议.md"
-    },
-    {
-      "basename": "事件timing",
-      "path": "ThinkBetter/Inbox/事件timing.md"
     }
   ],
   "omittedPaths": [],
