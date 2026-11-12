@@ -5,12 +5,16 @@
       "path": "ThinkBetter/Books/clear thinking/Clear Thinking.md"
     },
     {
-      "basename": "一句话的玩味",
-      "path": "ThinkBetter/Distill/一句话的玩味.md"
-    },
-    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
+    },
+    {
+      "basename": "了凡四训",
+      "path": "ThinkBetter/Books/了凡四训.md"
+    },
+    {
+      "basename": "一句话的玩味",
+      "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
     {
       "basename": "turning pro",
@@ -195,10 +199,6 @@
     {
       "basename": "060 煎汤代水",
       "path": "ThinkBetter/人纪/060 煎汤代水.md"
-    },
-    {
-      "basename": "选择的悖论",
-      "path": "ThinkBetter/Books/选择的悖论.md"
     }
   ],
   "omittedPaths": [],
