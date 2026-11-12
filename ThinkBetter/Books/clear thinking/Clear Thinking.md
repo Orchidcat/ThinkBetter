@@ -261,7 +261,7 @@ Simplicity is the end result of long, hard work, not the starting point.
 
 衡量隐性权衡的能力是伟大决策者与其他人的区别之一。这也是领导力的核心要素。
 
-<mark style="background: #ADCCFFA6;">要同时关注选择一个会得到什么，而于此同时，没有选择什么，会失去什么。</mark>
+%%< 要同时关注选择一个会得到什么，而于此同时，没有选择什么，会失去什么。%%
 
 关于机会成本的两个原则：
 1. 考虑一下，当你选择一个选项而不是另一个选项时，你放弃了哪些机会。
