@@ -48,7 +48,7 @@ A man can do as he wills, but not will as he wills.
 
 对抗清晰思维，不仅仅需要意志力。
 
-清晰思维依赖于习惯的力量，来对抗上述默认设置。
+%%<清晰思维依赖于习惯的力量，来对抗上述默认设置。%%
 **建立习惯是创造积极惯性的关键**。 ^c85s6ei
 
 - **自我问责**（Self-accountability):让自己对发展自己的能力负责，管理自己的不足，用理性来管理自己的行为
@@ -61,7 +61,8 @@ A man can do as he wills, but not will as he wills.
 I am the master of my fate, I am the captain of my soul.
 —W. E. HENLEY, “INVICTUS”
 
-缺乏自我问责，相当于人生是在自动驾驶模式下。这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。 ^lyr8wai
+缺乏自我问责，相当于人生是在自动驾驶模式下。
+这些人总是屈服于外部压力:寻求奖励，避免惩罚，用别人的计分板来衡量自己。 ^lyr8wai
 
 ```ad-quote
 Complaining is not a strategy. You have to work with the world
