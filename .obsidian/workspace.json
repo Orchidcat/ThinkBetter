@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4e3532d8e9fa4fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "BASB Book on a Page"
-            }
-          },
-          {
             "id": "dc55007d0bb645fa",
             "type": "leaf",
             "state": {
@@ -181,10 +169,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b4e3532d8e9fa4fc",
+  "active": "dc55007d0bb645fa",
   "lastOpenFiles": [
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Distill/一句话的玩味.md",
