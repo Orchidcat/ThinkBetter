@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "b5b47ee523f098d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Thinkbetter/Excalidraw/Drawing 2026-11-13 14.17.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-13 14.17.17.excalidraw"
+            }
+          },
+          {
             "id": "3d0b4b8294163820",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "Start Here"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,33 +183,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dc55007d0bb645fa",
+  "active": "b5b47ee523f098d7",
   "lastOpenFiles": [
-    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/DailyNotes/2026-11-13.md",
-    "ThinkBetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "ThinkBetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "ThinkBetter/Excalidraw/Drawing 2026-11-13 14.17.17.excalidraw.md",
+    "Thinkbetter/Excalidraw/Img/Possible Futures",
+    "Thinkbetter/Excalidraw/Img/Pasted Image 20250619161311_888.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619140319.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619155059.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619133304.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619134727.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619133011.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132655.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132946.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132351.png",
+    "Thinkbetter/Excalidraw/Img/Pasted image 20250619132139.png",
+    "Thinkbetter/Excalidraw/Library/现代野人.excalidraw.md",
+    "Thinkbetter/Excalidraw/Library/遗忘.excalidraw.md",
+    "Thinkbetter/Excalidraw/Library/remember.excalidraw.md",
+    "Thinkbetter/Excalidraw/Library/Image Library.md",
+    "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
+    "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
+    "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
+    "Thinkbetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
+    "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
+    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
+    "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
+    "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
+    "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
+    "Thinkbetter/Excalidraw/对抗愚蠢.md",
+    "Thinkbetter/Excalidraw/解读易经 - map.md",
+    "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
+    "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
+    "Thinkbetter/Excalidraw/Img",
+    "Thinkbetter/Excalidraw/Library",
+    "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
+    "Thinkbetter/Excalidraw/example",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2026-11-13 14.17.17.excalidraw.md",
+    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
+    "Thinkbetter/Excalidraw/Dieter Rams.excalidraw.md",
+    "Thinkbetter/Excalidraw/Cropped",
+    "Thinkbetter/Excalidraw/Book on a page",
+    "ThinkBetter/Distill/一句话的玩味.md",
     "ThinkBetter/Books/clear thinking/Clear Thinking.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Books/了凡四训.md",
-    "ThinkBetter/Books/100种心智模型/惯性.md",
-    "ThinkBetter/Books/100种心智模型/没有理解的信息是危险的.md",
-    "ThinkBetter/Inbox/Now.md",
-    "ThinkBetter/Inbox/test.md",
-    "ThinkBetter/Books/turning pro.md",
-    "ThinkBetter/Books/_ MOC - Books.md",
-    "ThinkBetter/Books/八万四千问.md",
-    "ThinkBetter/Books/Get Better as Anything.md",
-    "ThinkBetter/Books/西藏生死书.md",
-    "ThinkBetter/Books/哲学与人生.md",
-    "ThinkBetter/Books/不在乎的艺术.md",
-    "ThinkBetter/Books/选择的悖论.md",
-    "ThinkBetter/Inbox/数学的六要素.md",
-    "ThinkBetter/Inbox/test1232.md",
-    "ThinkBetter/Inbox/盐铁论.md",
-    "ThinkBetter/Books/The Rape of Nanking - The Forgotten Holocaust of World War II.md",
-    "ThinkBetter/Books/100种心智模型/心智模型 TOC.md",
-    "ThinkBetter/Tasks.md",
-    "ThinkBetter/Inbox/未命名 13.md"
+    "ThinkBetter/Books/100种心智模型/惯性.md"
   ]
 }
