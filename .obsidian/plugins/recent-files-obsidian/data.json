@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-11-13",
+      "path": "ThinkBetter/DailyNotes/2026-11-13.md"
+    },
+    {
       "basename": "一句话的玩味",
       "path": "ThinkBetter/Distill/一句话的玩味.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "正念",
       "path": "ThinkBetter/Inbox/正念.md"
-    },
-    {
-      "basename": "如何训练模型的整体步骤",
-      "path": "ThinkBetter/Inbox/如何训练模型的整体步骤.md"
     }
   ],
   "omittedPaths": [],
