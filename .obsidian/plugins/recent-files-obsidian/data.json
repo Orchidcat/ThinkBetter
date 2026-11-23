@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "医学衷中参西录",
+      "path": "ThinkBetter/人纪/医学衷中参西录.md"
+    },
+    {
       "basename": "Start Here",
       "path": "ThinkBetter/Start Here.md"
     },
     {
-      "basename": "医学衷中参西录",
-      "path": "ThinkBetter/人纪/医学衷中参西录.md"
+      "basename": "学习方法",
+      "path": "ThinkBetter/Inbox/学习方法.md"
+    },
+    {
+      "basename": "什么是自学",
+      "path": "ThinkBetter/Inbox/什么是自学.md"
+    },
+    {
+      "basename": "写作",
+      "path": "ThinkBetter/Inbox/写作.md"
     },
     {
       "basename": "2026-11-13",
@@ -187,18 +199,6 @@
     {
       "basename": "未命名 2",
       "path": "ThinkBetter/Inbox/未命名 2.base"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "ThinkBetter/Inbox/未命名 1.base"
-    },
-    {
-      "basename": "未命名",
-      "path": "ThinkBetter/Inbox/未命名.base"
-    },
-    {
-      "basename": "2026-07-02",
-      "path": "ThinkBetter/DailyNotes/2026-07-02.md"
     }
   ],
   "omittedPaths": [],

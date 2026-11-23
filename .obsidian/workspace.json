@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,11 +188,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5948751105487f8",
+  "active": "34bab093505fe665",
   "lastOpenFiles": [
+    "ThinkBetter/Start Here.md",
+    "ThinkBetter/Work/SQL Server TOC.md",
+    "ThinkBetter/Inbox/sqlite MOC.md",
+    "ThinkBetter/Inbox/反直觉.md",
+    "ThinkBetter/Books/_ MOC - Books.md",
+    "ThinkBetter/Areas/PKM/GTD.md",
+    "ThinkBetter/Inbox/学习方法.md",
+    "ThinkBetter/Inbox/什么是自学.md",
+    "ThinkBetter/Inbox/写作.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/DailyNotes/2026-11-13.md",
-    "ThinkBetter/Start Here.md",
     "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
     "ThinkBetter/人纪/针灸甲乙经.md",
@@ -218,20 +227,12 @@
     "Thinkbetter/Excalidraw/Library/Image Library.md",
     "Thinkbetter/Excalidraw/example/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/example/diagrams matter for PKM.excalidraw.md",
-    "Thinkbetter/Excalidraw/example/how i organize my everything in obsidian.excalidraw.md",
-    "Thinkbetter/Excalidraw/Book on a page/The Periodic Table of Productivity.excalidraw.md",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - How to Take Smart Notes.excalidraw",
-    "Thinkbetter/Excalidraw/Book on a page/000 sketchNoting a Book on a Page.md",
     "Thinkbetter/Excalidraw/Book on a page/BoaP - Atomic Habits.excalidraw",
     "Thinkbetter/Excalidraw/Book on a page/BASB Book on a Page.excalidraw",
-    "Thinkbetter/Excalidraw/键盘设计.excalidraw.md",
-    "Thinkbetter/Excalidraw/对抗愚蠢.md",
-    "Thinkbetter/Excalidraw/解读易经 - map.md",
-    "Thinkbetter/Excalidraw/中国书法传承谱系图.excalidraw.md",
     "Thinkbetter/Excalidraw/wardley-mapping-canvas.excalidrawlib",
     "Thinkbetter/Excalidraw/Img",
     "Thinkbetter/Excalidraw/Library",
-    "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "Thinkbetter/Excalidraw/example",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page"
