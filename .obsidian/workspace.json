@@ -118,12 +118,12 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2d2416ff74756deb",
@@ -198,10 +198,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "34bab093505fe665",
+  "active": "2d613b2d2631c977",
   "lastOpenFiles": [
-    "ThinkBetter/人纪/大气.md",
     "ThinkBetter/人纪/泌尿道路.md",
+    "ThinkBetter/人纪/大气.md",
     "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Work/SQL Server TOC.md",
