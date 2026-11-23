@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/医学衷中参西录.md",
+                "file": "ThinkBetter/人纪/泌尿道路.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "医学衷中参西录"
+              "title": "泌尿道路"
             }
           }
         ],
@@ -190,6 +190,7 @@
   },
   "active": "34bab093505fe665",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Work/SQL Server TOC.md",
     "ThinkBetter/Inbox/sqlite MOC.md",
@@ -199,7 +200,6 @@
     "ThinkBetter/Inbox/学习方法.md",
     "ThinkBetter/Inbox/什么是自学.md",
     "ThinkBetter/Inbox/写作.md",
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/DailyNotes/2026-11-13.md",
     "ThinkBetter/Inbox/事件timing.md",
     "ThinkBetter/人纪/001 @MOC中医.md",
