@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/人纪/泌尿道路.md",
+                "file": "ThinkBetter/人纪/001 @MOC中医.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "泌尿道路"
+              "title": "001 @MOC中医"
             }
           }
         ],
@@ -198,11 +198,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "2d613b2d2631c977",
+  "active": "34bab093505fe665",
   "lastOpenFiles": [
+    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/人纪/泌尿道路.md",
     "ThinkBetter/人纪/大气.md",
-    "ThinkBetter/人纪/医学衷中参西录.md",
     "ThinkBetter/Start Here.md",
     "ThinkBetter/Work/SQL Server TOC.md",
     "ThinkBetter/Inbox/sqlite MOC.md",
