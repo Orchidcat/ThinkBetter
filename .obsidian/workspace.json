@@ -70,13 +70,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThinkBetter/Start Here.md",
+                "file": "ThinkBetter/人纪/医学衷中参西录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "医学衷中参西录"
             }
           }
         ],
@@ -216,8 +216,10 @@
   },
   "active": "34bab093505fe665",
   "lastOpenFiles": [
-    "Clippings/科技爱好者周刊（第 420 期）：最分心的一年 - 阮一峰的网络日志.md",
+    "ThinkBetter/人纪/001 @MOC中医.md",
+    "ThinkBetter/人纪/针灸甲乙经.md",
     "ThinkBetter/Start Here.md",
+    "Clippings/科技爱好者周刊（第 420 期）：最分心的一年 - 阮一峰的网络日志.md",
     "ThinkBetter/Inbox/临帖.md",
     "ThinkBetter/Work/union and union all.md",
     "ThinkBetter/Inbox/事件timing.md",
@@ -258,8 +260,6 @@
     "Thinkbetter/Excalidraw/kicad 流程.excalidraw.md",
     "Thinkbetter/Excalidraw/Drawing 2025-09-02 14.37.07.excalidraw.md",
     "Thinkbetter/Excalidraw/example",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.23.excalidraw.md",
-    "Thinkbetter/Excalidraw/Drawing 2025-09-01 15.47.01.excalidraw.md",
     "Thinkbetter/Excalidraw/Cropped",
     "Thinkbetter/Excalidraw/Book on a page"
   ]
